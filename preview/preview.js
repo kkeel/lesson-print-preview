@@ -89,13 +89,13 @@ function renderCoverSection(section, packetData) {
   return `
     <div class="page-flow cover-section">
       <section class="flow-block cover-block">
-        <div class="cover-top-rule"></div>
-
         <div class="cover-inner">
           <div class="cover-header-row">
             <div class="cover-brand-line">Alveary Lesson Plan</div>
             ${gradeText ? `<div class="cover-grade-line">${escapeHtml(gradeText)}</div>` : ""}
           </div>
+        
+          <div class="cover-top-rule"></div>
 
           ${subject ? `<div class="cover-subject">${escapeHtml(subject)}</div>` : ""}
 
