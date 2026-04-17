@@ -25,6 +25,19 @@ if (!id) {
     });
 }
 
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function nl2br(value) {
+  return escapeHtml(value).replace(/\n/g, "<br>");
+}
+
 function renderPacket(data) {
   let html = "";
 
@@ -33,15 +46,15 @@ function renderPacket(data) {
   }
 
   data.sections.forEach(section => {
-    html += renderSection(section);
+    html += renderSection(section, data);
   });
 
   preview.innerHTML = html;
 }
 
-function renderSection(section) {
+function renderSection(section, packetData) {
   if (section.type === "cover") {
-    return renderCoverSection(section);
+    return renderCoverSection(section, packetData);
   }
   
   if (section.type === "header") {
@@ -63,12 +76,44 @@ function renderSection(section) {
   return "";
 }
 
-function renderCoverSection(section) {
+function renderCoverSection(section, packetData) {
+  const title = section.title || packetData.title || "";
+  const subtitle = section.subtitle || "";
+  const gradeText = section.gradeText || packetData.gradeText || "";
+  const subject = section.subject || packetData.subject || "";
+  const lessonSetName = packetData.lessonSetName || "";
+
   return `
     <div class="page-flow cover-section">
       <section class="flow-block cover-block">
-        <h1>${section.title || ""}</h1>
-        <h2>${section.subtitle || ""}</h2>
+        <div class="cover-accent"></div>
+
+        <div class="cover-inner">
+          <div class="cover-kicker">Lesson Plans</div>
+
+          <div class="cover-pill-row">
+            ${subject ? `<span class="cover-subject-pill">${escapeHtml(subject)}</span>` : ""}
+            ${gradeText ? `<span class="cover-grade-pill">${escapeHtml(gradeText)}</span>` : ""}
+          </div>
+
+          <h1>${escapeHtml(title)}</h1>
+
+          ${subtitle ? `<h2>${nl2br(subtitle)}</h2>` : ""}
+
+          ${lessonSetName && lessonSetName !== title
+            ? `<div class="cover-lesson-set-name">${escapeHtml(lessonSetName)}</div>`
+            : ""}
+
+          <div class="cover-divider"></div>
+
+          <div class="cover-note-box">
+            <div class="cover-note-title">Packet Preview</div>
+            <p>
+              This preview is being built from the Airtable Cover Page JSON and will expand as
+              additional lesson packet sections are added to the generator.
+            </p>
+          </div>
+        </div>
       </section>
     </div>
   `;
@@ -86,11 +131,11 @@ function renderHeaderSection(section) {
 }
 
 function renderHeaderItem(item) {
-  if (item.kind === "about" || item.kind === "scheduling" || item.kind === "planning-prep") {
+  if (item.kind === "about" || item.kind === "scheduling" || item.kind === "planning-prep" || item.kind === "text") {
     return `
       <section class="flow-block header-block">
-        <h2>${item.title || ""}</h2>
-        <p>${item.content || ""}</p>
+        <h2>${escapeHtml(item.title || "")}</h2>
+        <p>${nl2br(item.content || "")}</p>
       </section>
     `;
   }
@@ -98,9 +143,9 @@ function renderHeaderItem(item) {
   if (item.kind === "book-reference" || item.kind === "supply-reference") {
     return `
       <section class="flow-block header-block reference-block">
-        <h2>${item.title || ""}</h2>
-        <p>${item.content || ""}</p>
-        <p><a href="${item.url || "#"}" target="_blank">${item.linkLabel || ""}</a></p>
+        <h2>${escapeHtml(item.title || "")}</h2>
+        <p>${nl2br(item.content || "")}</p>
+        <p><a href="${escapeHtml(item.url || "#")}" target="_blank">${escapeHtml(item.linkLabel || "")}</a></p>
         <div class="qr-placeholder">QR Placeholder</div>
       </section>
     `;
@@ -109,11 +154,11 @@ function renderHeaderItem(item) {
   if (item.kind === "quick-links") {
     return `
       <section class="flow-block header-block">
-        <h2>${item.title || ""}</h2>
-        <p>${item.content || ""}</p>
+        <h2>${escapeHtml(item.title || "")}</h2>
+        <p>${nl2br(item.content || "")}</p>
         <ul>
           ${(item.links || []).map(link => `
-            <li><a href="${link.url}" target="_blank">${link.label}</a></li>
+            <li><a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a></li>
           `).join("")}
         </ul>
       </section>
@@ -131,12 +176,12 @@ function renderHowToSection(section) {
       <section class="flow-block howto-block">
         <div class="howto-grid">
           <div class="howto-image">
-            ${item.image ? `<img src="${item.image}" alt="${item.title || ""}">` : `<div class="image-placeholder">Image</div>`}
+            ${item.image ? `<img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title || "")}">` : `<div class="image-placeholder">Image</div>`}
           </div>
           <div class="howto-content">
-            <div class="howto-prompt">${item.prompt || ""}</div>
-            <h2>${item.title || ""}</h2>
-            <p>${item.content || ""}</p>
+            <div class="howto-prompt">${escapeHtml(item.prompt || "")}</div>
+            <h2>${escapeHtml(item.title || "")}</h2>
+            <p>${nl2br(item.content || "")}</p>
           </div>
         </div>
       </section>
@@ -153,7 +198,7 @@ function renderLessonsSection(section) {
   (section.terms || []).forEach((termGroup, index) => {
     html += `
       <div class="page-flow lessons-section ${index === 0 ? "section-break" : "term-start"}">
-        <div class="term-banner">${termGroup.term || ""}</div>
+        <div class="term-banner">${escapeHtml(termGroup.term || "")}</div>
         ${(termGroup.lessons || []).map(lesson => renderLesson(lesson, termGroup.term)).join("")}
       </div>
     `;
@@ -166,25 +211,25 @@ function renderLesson(lesson, term) {
   return `
     <section class="flow-block lesson-block">
       <div class="lesson-topbar">
-        <div class="lesson-course">${lesson.courseTitle || ""}</div>
+        <div class="lesson-course">${escapeHtml(lesson.courseTitle || "")}</div>
         <div class="lesson-linkbox">
-          <a href="${lesson.linkReference?.url || "#"}" target="_blank">${lesson.linkReference?.label || ""}</a>
+          <a href="${escapeHtml(lesson.linkReference?.url || "#")}" target="_blank">${escapeHtml(lesson.linkReference?.label || "")}</a>
           <div class="qr-placeholder small">QR</div>
         </div>
       </div>
 
-      <div class="lesson-meta">${term || ""}</div>
-      <h2>WEEK ${lesson.week || ""} ⬚ ${lesson.duration || ""} ${lesson.courseTitle || ""} - Lesson ${lesson.lessonNumber || ""}</h2>
-      <h3>${lesson.title || ""}</h3>
+      <div class="lesson-meta">${escapeHtml(term || "")}</div>
+      <h2>WEEK ${escapeHtml(lesson.week || "")} ⬚ ${escapeHtml(lesson.duration || "")} ${escapeHtml(lesson.courseTitle || "")} - Lesson ${escapeHtml(lesson.lessonNumber || "")}</h2>
+      <h3>${escapeHtml(lesson.title || "")}</h3>
 
       ${(lesson.materials || []).length ? `
-        <p><strong>Materials:</strong> ${(lesson.materials || []).join("; ")}</p>
+        <p><strong>Materials:</strong> ${(lesson.materials || []).map(escapeHtml).join("; ")}</p>
       ` : ""}
 
       ${(lesson.blocks || []).map(block => `
         <div class="lesson-block-item">
-          <p><strong>${block.label || ""}</strong></p>
-          <p>${block.content || ""}</p>
+          <p><strong>${escapeHtml(block.label || "")}</strong></p>
+          <p>${nl2br(block.content || "")}</p>
         </div>
       `).join("")}
     </section>
@@ -197,9 +242,9 @@ function renderExamsSection(section) {
   (section.items || []).forEach(item => {
     html += `
       <section class="flow-block exam-block">
-        <h2>${item.term || ""}</h2>
-        <h3>${item.title || ""}</h3>
-        <p>${item.content || ""}</p>
+        <h2>${escapeHtml(item.term || "")}</h2>
+        <h3>${escapeHtml(item.title || "")}</h3>
+        <p>${nl2br(item.content || "")}</p>
       </section>
     `;
   });
