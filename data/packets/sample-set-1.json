@@ -1,0 +1,28 @@
+{
+  "id": "sample-set-1",
+  "templateType": "standard",
+  "title": "Sample Lesson Set 1",
+  "headerPages": [
+    {
+      "title": "Header Page Example",
+      "content": "This is where header page content will go."
+    }
+  ],
+  "sections": [
+    {
+      "title": "Section 1",
+      "content": "This is a section divider or intro."
+    }
+  ],
+  "lessons": [
+    {
+      "lessonNumber": 1,
+      "title": "Lesson One",
+      "content": "This is sample lesson content."
+    }
+  ],
+  "examPages": [],
+  "linkPages": [],
+  "bookPages": [],
+  "supplyPages": []
+}
