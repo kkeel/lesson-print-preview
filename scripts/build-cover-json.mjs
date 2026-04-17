@@ -13,7 +13,13 @@ const FIELDS = [
   "setID",
   "Cover Title",
   "Cover Subtitle",
-  "Grade Text"
+  "Grade Text",
+  "Subject",
+  "Sort_ID",
+  "Course Connection",
+  "Topic Connection",
+  "Course Connection Lookup",
+  "Topic Connection Lookup"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -74,6 +80,24 @@ function normalizeText(value) {
   return String(value).trim();
 }
 
+function normalizeArray(value) {
+  if (value == null) return [];
+  if (Array.isArray(value)) {
+    return value
+      .map(item => String(item).trim())
+      .filter(Boolean);
+  }
+  return String(value)
+    .split(",")
+    .map(item => item.trim())
+    .filter(Boolean);
+}
+
+function normalizeSubject(value) {
+  const arr = normalizeArray(value);
+  return arr[0] || "";
+}
+
 function buildPacket(record) {
   const fields = record.fields || {};
 
@@ -82,18 +106,43 @@ function buildPacket(record) {
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
   const gradeText = normalizeText(fields["Grade Text"]);
+  const subject = normalizeSubject(fields["Subject"]);
+  const sortId = normalizeText(fields["Sort_ID"]);
+
+  const courseConnectionIds = normalizeArray(fields["Course Connection"]);
+  const topicConnectionIds = normalizeArray(fields["Topic Connection"]);
+
+  // Replace these two field names if your lookup fields are named differently
+  const courseConnectionNames = normalizeArray(fields["Course Connection Lookup"]);
+  const topicConnectionNames = normalizeArray(fields["Topic Connection Lookup"]);
+
+  const isTopicRow = courseConnectionIds.length > 0;
+  const hasTopics = topicConnectionIds.length > 0;
+  const isStandaloneCourse = !isTopicRow && !hasTopics;
 
   return {
     id: setId,
     title: coverTitle,
     lessonSetName,
+    subject,
+    sortId,
+    gradeText,
+    rowType: isTopicRow ? "topic" : "course",
+    hasTopics,
+    isStandaloneCourse,
+    courseConnectionIds,
+    topicConnectionIds,
+    courseConnectionNames,
+    topicConnectionNames,
     templateType: "standard",
     sections: [
       {
         type: "cover",
         title: coverTitle,
         subtitle: coverSubtitle,
-        gradeText
+        gradeText,
+        subject,
+        sortId
       },
       {
         type: "header",
@@ -113,8 +162,16 @@ function buildIndexItem(packet) {
   return {
     id: packet.id,
     title: packet.title,
+    lessonSetName: packet.lessonSetName,
     subtitle: packet.sections?.[0]?.subtitle || "",
-    gradeText: packet.sections?.[0]?.gradeText || "",
+    gradeText: packet.gradeText || "",
+    subject: packet.subject || "",
+    sortId: packet.sortId || "",
+    rowType: packet.rowType || "",
+    hasTopics: !!packet.hasTopics,
+    isStandaloneCourse: !!packet.isStandaloneCourse,
+    courseConnectionNames: packet.courseConnectionNames || [],
+    topicConnectionNames: packet.topicConnectionNames || [],
     previewUrl: `./preview/index.html?id=${encodeURIComponent(packet.id)}`
   };
 }
