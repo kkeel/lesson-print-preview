@@ -4,14 +4,14 @@
   "title": "Sample Lesson Set 1",
 
   "sections": [
-    {
-      "type": "header",
-      "items": [
-        {
-          "kind": "cover",
-          "title": "Sample Lesson Set 1",
-          "subtitle": "Bible - Term 1"
-        },
+  {
+    "type": "cover",
+    "title": "Sample Lesson Set 1",
+    "subtitle": "Bible - Term 1"
+  },
+  {
+    "type": "header",
+    "items": [
         {
           "kind": "about",
           "title": "About the Course",
