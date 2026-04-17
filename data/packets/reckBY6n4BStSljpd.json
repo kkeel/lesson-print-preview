@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students read about important events and influential people from Church History using biographies and narrative-driven overviews of the time period. In this course, students delve into the 19th century and learn the stories of a variety of Christians.\n\nThis topic is included in the following course(s): Bible: Grades 7-8, Bible: Grade 9\n\n",
+              "label": "Students read about important events and influential people from Church History using biographies and narrative-driven overviews of the time period. In this course, students delve into the 19th century and learn the stories of a variety of Christians.\n\nThis topic is included in the following course(s): Bible: Grades 7-8, Bible: Grade 9\n\n",
+              "content": "Can be combined with Grades 5-6."
+            }
+          ]
         }
       ]
     }

@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Complete assigned models, focusing on craftsmanship. 2nd-Year Models include more complex envelopes and boxes.",
+              "label": "Complete assigned models, focusing on craftsmanship. 2nd-Year Models include more complex envelopes and boxes.",
+              "content": "Grade 3 students who are new to sloyd should take Sloyd: Intro and then continue the courses in sequence.\n\nPrerequisite: Sloyd: Level 1"
+            }
+          ]
         }
       ]
     }

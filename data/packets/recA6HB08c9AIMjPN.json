@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Discover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart D Primary Skill Focus: Multiplication, Geometry\n\nThis topic is included in the following course(s): Mathematics: Grade 4\n\n",
+              "label": "Discover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart D Primary Skill Focus: Multiplication, Geometry\n\nThis topic is included in the following course(s): Mathematics: Grade 4\n\n",
+              "content": "Students who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com). \nPrerequisite: RightStart C or appropriate skill proficiency"
+            }
+          ]
         }
       ]
     }

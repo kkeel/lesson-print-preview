@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Continue to develop Latin reading proficiency through narratives about a Roman family and primary sources in Latin. Study Latin grammar, vocabulary, and culture.",
+              "label": "Continue to develop Latin reading proficiency through narratives about a Roman family and primary sources in Latin. Study Latin grammar, vocabulary, and culture.",
+              "content": "Prerequisite: Level 3. Students just beginning Latin should start at Level 1 and consider the optional online course.\n\nNOTE: for Levels 3-4, students work through materials at their own pace, and lesson plans are not provided. This course may be counted as 1 credit for High School."
+            }
+          ]
         }
       ]
     }

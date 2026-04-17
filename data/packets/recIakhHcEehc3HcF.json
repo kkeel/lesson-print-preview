@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Skills Focus: Students learn “to see correctly, to set down truthfully and freely the facts seen, and to store the mind with definite mental images for future reference” (Glass 13). Draw using large arm movements- differentiating between writing and drawing skills. Be introduced to silhouettes and observational drawing. Begin understanding the medium of soft pastels. Learn foundational concepts in painting such as proper brush etiquette, drawing with a brush through simple brush forms, and controlling watercolor. Students will also learn basic color theory skills such as color mixing. Skills covered are foundational to all preceding visual art skills.",
+              "label": "Skills Focus: Students learn “to see correctly, to set down truthfully and freely the facts seen, and to store the mind with definite mental images for future reference” (Glass 13). Draw using large arm movements- differentiating between writing and drawing skills. Be introduced to silhouettes and observational drawing. Begin understanding the medium of soft pastels. Learn foundational concepts in painting such as proper brush etiquette, drawing with a brush through simple brush forms, and controlling watercolor. Students will also learn basic color theory skills such as color mixing. Skills covered are foundational to all preceding visual art skills.",
+              "content": "If students are in Grade 5 and below and have not had formal art lessons, they should begin with Level 1. However, those with prior art knowledge can take the Level 1-3 fast-track lessons and then continue with Level 4."
+            }
+          ]
         }
       ]
     }

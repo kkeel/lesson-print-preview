@@ -36,9 +36,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Physics Lessons, Physics Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Physics Lessons\nPhysics students gain a solid, hands-on foundation in this living lecture series from Math without Borders. This course guides students through the process of challenging their established perceptions by building up new observations. The course provides extensive experience with technology and mathematical modeling for a stand-alone high school physics course or as a foundation for a future, calculus-based physics course.\n\nAbout Physics Labs\nLabs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method. Labs for this course are integrated into the lessons to facilitate adequate time for more involved activities and to better coordinate with the lessons.",
+              "label": "This course includeds the following topic(s): Physics Lessons, Physics Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Physics Lessons\nPhysics students gain a solid, hands-on foundation in this living lecture series from Math without Borders. This course guides students through the process of challenging their established perceptions by building up new observations. The course provides extensive experience with technology and mathematical modeling for a stand-alone high school physics course or as a foundation for a future, calculus-based physics course.\n\nAbout Physics Labs\nLabs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method. Labs for this course are integrated into the lessons to facilitate adequate time for more involved activities and to better coordinate with the lessons.",
+              "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nPhysics Lessons\nRecommended for students in 11th or 12th Grade, depending on math placement. Students should have completed Algebra II/Trigonometry and preferably be taking at least Precalculus concurrently with this course."
+            }
+          ]
         }
       ]
     }

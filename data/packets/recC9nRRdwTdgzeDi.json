@@ -26,9 +26,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About Students continue to gain fluency in writing through written narrations.\n\nThis topic is included in the following course(s): Language Study: Grade 7\n\n",
+              "label": "Students continue to gain fluency in writing through written narrations.\n\nThis topic is included in the following course(s): Language Study: Grade 7\n\n",
+              "content": "Written Narration: Grade 7\nStudents should keep track of their regular written narrations and write 6 each week. In addition, they spend 2 lessons each week writing on specific composition prompts. \n\nNARRATION vs. COMPOSITION\nBoth narrations and compositions build students' skills in writing. The focus in narrations is on building written fluency by \"telling back\" the reading in written/typed form (and students are free to experiment with various ways to do this or not, as interested). The focus in composition assignments is to give them accountability and structure to practice specific skills in one or more types of writing. \n\nSometimes this means that a composition prompt assigns a specific type of \"telling back\" (such as retelling a reading as a poem, which a student may or may not have already experimented with of their own accord in their narrations). Additionally, compositions move beyond narration and variations of \"telling back\" to assignments which ask students to direct their attention to specific ideas within or across their readings (such as comparing and contrasting characters or texts) and other types of reflection which they previously have mainly practiced discussing orally or briefly in writing after reading and narrating in their lessons. Finally, especially as students enter high school, composition assignments merge with grammar assignments to help students understand the writing process more globally and consider aspects of style, editing, revision, research, and the ethics of communication."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students continue to gain fluency in writing through written narrations.\n\nThis topic is included in the following course(s): Language Study: Grade 7\n\n",
+              "label": "Students continue to gain fluency in writing through written narrations.\n\nThis topic is included in the following course(s): Language Study: Grade 7\n\n",
+              "content": "Increase the number of written narrations at a pace at which your student can be successful."
+            }
+          ]
         }
       ]
     }

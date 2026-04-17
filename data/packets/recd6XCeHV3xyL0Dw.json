@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course introduces students to John Bunyan's classic work, Pilgrim's Progress, building their vocabulary and furnishing their imaginations along the way.\n\nThis topic is included in the following course(s): Literature: Grade 2\n\n",
+              "label": "This course introduces students to John Bunyan's classic work, Pilgrim's Progress, building their vocabulary and furnishing their imaginations along the way.\n\nThis topic is included in the following course(s): Literature: Grade 2\n\n",
+              "content": "Students in Grades 1-3 can share these lessons if combining."
+            }
+          ]
         }
       ]
     }

@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Continuing in their poetry studies, students review a wide variety of poetic forms, learn how they have evolved over the centuries, and practice writing their own poems.\n\nThis topic is included in the following course(s): Literature: Grade 9\n\n",
+              "label": "Continuing in their poetry studies, students review a wide variety of poetic forms, learn how they have evolved over the centuries, and practice writing their own poems.\n\nThis topic is included in the following course(s): Literature: Grade 9\n\n",
+              "content": "Prerequisite: Grade 8 Poetry Study or a working knowledge of poetic forms and terminology."
+            }
+          ]
         }
       ]
     }

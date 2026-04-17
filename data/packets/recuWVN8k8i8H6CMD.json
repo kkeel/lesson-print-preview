@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Each year in High School, students read one of the gospels along with several other New Testament epistles. For 2026-2027 they read the gospel of Luke along with 1-2 Timothy, Titus, Philemon, James, 1-2 Peter, 1-3 John, and Jude. Using their study Bibles and other resources, students encounter scripture and seek to understand the cultural, historical, and theological context of their readings in order to more deeply appreciate the richness of the Bible and the humility needed in order to live out God's word today.\n\nThis topic is included in the following course(s): Bible: Grades 10-11\n\n",
+              "label": "Each year in High School, students read one of the gospels along with several other New Testament epistles. For 2026-2027 they read the gospel of Luke along with 1-2 Timothy, Titus, Philemon, James, 1-2 Peter, 1-3 John, and Jude. Using their study Bibles and other resources, students encounter scripture and seek to understand the cultural, historical, and theological context of their readings in order to more deeply appreciate the richness of the Bible and the humility needed in order to live out God's word today.\n\nThis topic is included in the following course(s): Bible: Grades 10-11\n\n",
+              "content": "Lessons in one of the gospels are shared across HS grades. The epistles scheduled in Grades 10-11 are a little more thematically challenging than those in Grade 9, but lessons may be combined with Grade 9 or Grade 12 if desired. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices."
+            }
+          ]
         }
       ]
     }

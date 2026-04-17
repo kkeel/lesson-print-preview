@@ -38,9 +38,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About In this course students are immersed into the 19th century via it's composers, instruments, and musical performances. Term 1 focuses on several influential instruments/instrument families, including valved brass, the veena, and the guitar, and the musicians that made them famous. In Term 2, students will grow to know and love the Norwegian Romantic composer, Edvard Grieg. Students conclude the year in Term 3 with the comic operas of Gilbert & Sullivan and their choice between two composers who turned what they saw or heard into music: Modest Mussorgsky and Thomas (\"Blind Tom\") Wiggins.\n\nThis topic is included in the following course(s): Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "label": "In this course students are immersed into the 19th century via it's composers, instruments, and musical performances. Term 1 focuses on several influential instruments/instrument families, including valved brass, the veena, and the guitar, and the musicians that made them famous. In Term 2, students will grow to know and love the Norwegian Romantic composer, Edvard Grieg. Students conclude the year in Term 3 with the comic operas of Gilbert & Sullivan and their choice between two composers who turned what they saw or heard into music: Modest Mussorgsky and Thomas (\"Blind Tom\") Wiggins.\n\nThis topic is included in the following course(s): Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "content": "Composer Study\n\"Music is no isolated thing. Its forms, colors, and expressive qualities do not spring from nowhere; they come out of life itself. Often, of course, they are to be enjoyed for themselves alone, in the concert hall or in one’s armchair. But music also reflects human experiences, hopes, and struggles. It may give an insight into the individual and society, into the lives of those far removed from our own in time and place—an insight no other art can provide in this exact way.\" ~Elie Siegmeister"
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "In this course students are immersed into the 19th century via it's composers, instruments, and musical performances. Term 1 focuses on several influential instruments/instrument families, including valved brass, the veena, and the guitar, and the musicians that made them famous. In Term 2, students will grow to know and love the Norwegian Romantic composer, Edvard Grieg. Students conclude the year in Term 3 with the comic operas of Gilbert & Sullivan and their choice between two composers who turned what they saw or heard into music: Modest Mussorgsky and Thomas (\"Blind Tom\") Wiggins.\n\nThis topic is included in the following course(s): Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "label": "In this course students are immersed into the 19th century via it's composers, instruments, and musical performances. Term 1 focuses on several influential instruments/instrument families, including valved brass, the veena, and the guitar, and the musicians that made them famous. In Term 2, students will grow to know and love the Norwegian Romantic composer, Edvard Grieg. Students conclude the year in Term 3 with the comic operas of Gilbert & Sullivan and their choice between two composers who turned what they saw or heard into music: Modest Mussorgsky and Thomas (\"Blind Tom\") Wiggins.\n\nThis topic is included in the following course(s): Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "content": "These Composer Study lessons are shared across grades 2-12 with extensions provided for older students. Students in Grades 2-3 with no classical music background may choose to take Intro to Music Appreciation first, but the composers in this rotation are particularly accessible for a wide range of ages."
+            }
+          ]
         }
       ]
     }

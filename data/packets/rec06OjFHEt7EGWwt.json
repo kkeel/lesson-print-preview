@@ -36,9 +36,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Geology Lessons, Geology Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Geology Lessons\nAn elective in Earth Science, Geology is a wonderful course for Alveary high school students who are interested in the history, theory, and methods of the field.\n\nAbout Geology Labs\nLabs/fieldwork are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
+              "label": "This course includeds the following topic(s): Geology Lessons, Geology Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Geology Lessons\nAn elective in Earth Science, Geology is a wonderful course for Alveary high school students who are interested in the history, theory, and methods of the field.\n\nAbout Geology Labs\nLabs/fieldwork are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
+              "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nGeology Lessons\nDue to the complexity of certain topics and the maturity required, this course is recommended for Grades 11-12."
+            }
+          ]
         }
       ]
     }

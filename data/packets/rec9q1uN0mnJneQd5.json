@@ -30,9 +30,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About Students learn about oceanography, predator-prey relationships, and the impact of pollution as they consider man’s stewardship of the natural world. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 6\n\nAbout Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level and time required are transitional as we gently prepare for the middle grades.",
+              "label": "Students learn about oceanography, predator-prey relationships, and the impact of pollution as they consider man’s stewardship of the natural world. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 6\n\nAbout Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level and time required are transitional as we gently prepare for the middle grades.",
+              "content": "Science: Grade 6\nThe Big Picture:\nTo accomplish the goal of supporting a relationship with the Things of the Universe, a Mason science program consists of nature lore, natural history, and general science. Nature immersion, inquiry, community connection, and supportive literature are woven into each of these three parts. Building on the familiarity and foundational knowledge of Form 1, Form 2 learners in grades 4-6 extend the scope of the Things they encounter and begin to notice that science is active in their world. Growing in their self-knowledge at this age, they may notice that they gravitate toward some of these Things more than others. This is a bit like noticing that you have a natural rapport with a particular friend because they seem to understand the way you think and share the same interests. This is wonderful and very typical, but we still want them to get to know more “friends” in science and try different Things, even though one might be their particular interest. Their sense of community is expanding, as well: who are the scientists in their world, and what are they doing? Special care has been taken to build vocabulary and conceptual knowledge “by the way” and to maintain the connection between scientific endeavors and the human experience. In Form 3, students will continue to build on this knowledge of what science is doing in the world when they examine science in its historical context.\n\nNature lore is timeless knowledge that is passed through a community, much like a grandmother passes on how to make that special bread when the dough just \"feels right.\" Like Mason, we strive to pass on this knowledge primarily through outdoor work. Group nature walks, seasonal readings, and topics in scouting are provided as an Outdoor Work resource in the Quick Links. If desired, literature suggestions to support lore can be found in the Community Read Alouds resource (in Citizenship Grades 4+)."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students learn about oceanography, predator-prey relationships, and the impact of pollution as they consider man’s stewardship of the natural world. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 6\n\nAbout Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level and time required are transitional as we gently prepare for the middle grades.",
+              "label": "Students learn about oceanography, predator-prey relationships, and the impact of pollution as they consider man’s stewardship of the natural world. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 6\n\nAbout Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level and time required are transitional as we gently prepare for the middle grades.",
+              "content": "About Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level, historical context, and time required are transitional as we gently prepare for the middle grades.\n\nNatural History: Grade 6\nFor approximately sixth-grade students based on a balance of complexity and reading level. However, learners may be freely combined, or sequence reordered based on needs and preferences."
+            }
+          ]
         }
       ]
     }

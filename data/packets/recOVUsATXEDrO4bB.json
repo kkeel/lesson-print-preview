@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Continue fostering independence and a love of reading with irresistible stories such as The Lion, the Witch, and the Wardrobe and historical fiction from the time period.\n\nThis topic is included in the following course(s): Literature: Grade 4\n\nAbout Literature: Grade 4\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
+              "label": "Continue fostering independence and a love of reading with irresistible stories such as The Lion, the Witch, and the Wardrobe and historical fiction from the time period.\n\nThis topic is included in the following course(s): Literature: Grade 4\n\nAbout Literature: Grade 4\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
+              "content": "About Literature: Grade 4\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nGeneral Lit.: Grade 4\nSuitable for Grades 5-6 if combining."
+            }
+          ]
         }
       ]
     }

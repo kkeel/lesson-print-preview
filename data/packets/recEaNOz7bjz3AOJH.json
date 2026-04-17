@@ -32,9 +32,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About This course includeds the following topic(s): Composition: Grade 12, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Composition: Grade 12\nStudents continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.",
+              "label": "This course includeds the following topic(s): Composition: Grade 12, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Composition: Grade 12\nStudents continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.",
+              "content": "Composition: Grade 12\nIn addition to their composition and grammar lessons, students should continue to keep track of their regular written narrations and write 5-10 each week. Not all narrations need to be lengthy, but students should be comfortable typing multiple paragraphs if given the time."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Composition: Grade 12, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Composition: Grade 12\nStudents continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.",
+              "label": "This course includeds the following topic(s): Composition: Grade 12, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Composition: Grade 12\nStudents continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.",
+              "content": "Commonplace: Grades 9-12\nStudents new to copywork or keeping a commonplace book may want to schedule this during morning lessons to build the habit.\n\nComposition: Grade 12\nPrerequisite: Students with little background in the essay form should begin with Essay Voyage from the Grade 9 lessons. \n\nStudents new to the concept of revision and editing should take the Grade 10 lessons through Style: The Basics of Clarity and Grace and may want to substitute the other revision/editing lessons in Grade 10 to build their skills."
+            }
+          ]
         }
       ]
     }

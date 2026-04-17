@@ -32,9 +32,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About Make fitness-building routines a habit.\n\nThis topic is included in the following course(s): PE: Grades 4-6, PE: Grades 7-12\n\n",
+              "label": "Make fitness-building routines a habit.\n\nThis topic is included in the following course(s): PE: Grades 4-6, PE: Grades 7-12\n\n",
+              "content": "PE: Grades 4-6\nLessons specifically created for Grades 1-6. We recommend you make sure to include some sort of physical activity as breaks throughout your school day. If you already have sports or similar activities as a regular part of your life rhythms, these lessons are optional.\n\nPE: Grades 7-12\nLessons specifically created for Grades 7-12. We do recommend you prioritize the Historical Dance lessons as these are less likely to be obtained elsewhere and also give depth and richness to student's understanding of the time period. We recommend you make sure to include some sort of physical activity as breaks throughout your school day. If you already have sports or similar activities as a regular part of your life rhythms, these lessons are optional."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Make fitness-building routines a habit.\n\nThis topic is included in the following course(s): PE: Grades 4-6, PE: Grades 7-12\n\n",
+              "label": "Make fitness-building routines a habit.\n\nThis topic is included in the following course(s): PE: Grades 4-6, PE: Grades 7-12\n\n",
+              "content": "Students may also choose to take a local Pilates or Yoga class."
+            }
+          ]
         }
       ]
     }

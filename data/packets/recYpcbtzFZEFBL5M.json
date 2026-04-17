@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students will read engaging and accessible stories from Roman history that introduce big ideas about what it means to be a citizen. This provides a foundation for further study in Plutarch.\n\nThis topic is included in the following course(s): Citizenship: Grade 4\n\n",
+              "label": "Students will read engaging and accessible stories from Roman history that introduce big ideas about what it means to be a citizen. This provides a foundation for further study in Plutarch.\n\nThis topic is included in the following course(s): Citizenship: Grade 4\n\n",
+              "content": "Sensitive students may wait a year to begin Citizen Stories. (The book used in this course contains some violent scenes.)"
+            }
+          ]
         }
       ]
     }

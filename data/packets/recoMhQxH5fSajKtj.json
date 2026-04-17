@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Each year in High School, students read one of the gospels along with several other New Testament epistles. For 2026-2027, they read the gospel of Luke along with Galatians, Philippians, and Colossians. Using their study Bibles and other resources, students encounter scripture and seek to understand the cultural, historical, and theological context of their readings in order to more deeply appreciate the richness of the Bible and the humility needed in order to live out God's word today.\n\nThis topic is included in the following course(s): Bible: Grade 9\n\n",
+              "label": "Each year in High School, students read one of the gospels along with several other New Testament epistles. For 2026-2027, they read the gospel of Luke along with Galatians, Philippians, and Colossians. Using their study Bibles and other resources, students encounter scripture and seek to understand the cultural, historical, and theological context of their readings in order to more deeply appreciate the richness of the Bible and the humility needed in order to live out God's word today.\n\nThis topic is included in the following course(s): Bible: Grade 9\n\n",
+              "content": "Appropriate for any HS grades. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices."
+            }
+          ]
         }
       ]
     }

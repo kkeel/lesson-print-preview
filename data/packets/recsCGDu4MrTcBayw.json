@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students study various natural features of Canada's provinces and territories and create a detailed, illustrated map over the course of the year. They also read a travelogue from the year's historical period.",
+              "label": "Students study various natural features of Canada's provinces and territories and create a detailed, illustrated map over the course of the year. They also read a travelogue from the year's historical period.",
+              "content": "The Canadian mapping exercises are the same each year, but the reading component changes for each of the historical time periods."
+            }
+          ]
         }
       ]
     }

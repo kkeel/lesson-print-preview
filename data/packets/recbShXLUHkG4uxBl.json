@@ -38,13 +38,7 @@
     },
     {
       "type": "header",
-      "items": [
-        {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
-        }
-      ]
+      "items": []
     }
   ]
 }

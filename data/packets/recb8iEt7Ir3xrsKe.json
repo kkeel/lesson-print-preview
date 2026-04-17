@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "An elective in Earth Science, Geology is a wonderful course for Alveary high school students who are interested in the history, theory, and methods of the field.\n\nThis topic is included in the following course(s): Science: Geology\n\n",
+              "label": "An elective in Earth Science, Geology is a wonderful course for Alveary high school students who are interested in the history, theory, and methods of the field.\n\nThis topic is included in the following course(s): Science: Geology\n\n",
+              "content": "Due to the complexity of certain topics and the maturity required, this course is recommended for Grades 11-12."
+            }
+          ]
         }
       ]
     }

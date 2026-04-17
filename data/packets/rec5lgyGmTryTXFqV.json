@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Alveary Modern Language Lessons are designed to mirror the way children acquire their first language, using methods like gestures, picture recognition, songs, repeated phrases, and storytelling to create meaningful connections and context. These foundational approaches are seamlessly adapted to teach school-age children a second language.\n\nThe lessons are designed to be open-and-go with optional video/audio file support. They do not require any background in the target language for the parent/teacher or students. They only take about 15-20 min a day and can be easily adjusted to meet a variety of grade ranges from 1st to 6th grades.",
+              "label": "Alveary Modern Language Lessons are designed to mirror the way children acquire their first language, using methods like gestures, picture recognition, songs, repeated phrases, and storytelling to create meaningful connections and context. These foundational approaches are seamlessly adapted to teach school-age children a second language.\n\nThe lessons are designed to be open-and-go with optional video/audio file support. They do not require any background in the target language for the parent/teacher or students. They only take about 15-20 min a day and can be easily adjusted to meet a variety of grade ranges from 1st to 6th grades.",
+              "content": "Three lessons each week are shared between Grades 1-6, but students in Grades 4-6 add two additional grammar lessons. This course is on a six-year rotation of lessons, so it is suitable for students who took Lower French last year or students just starting their studies."
+            }
+          ]
         }
       ]
     }

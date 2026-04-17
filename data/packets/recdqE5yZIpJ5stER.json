@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Complete assigned models for term, focusing on craftsmanship. Learn basic cutting and paper-folding techniques without the need to measure.\n\nNOTE: There is no book for this course.",
+              "label": "Complete assigned models for term, focusing on craftsmanship. Learn basic cutting and paper-folding techniques without the need to measure.\n\nNOTE: There is no book for this course.",
+              "content": "All Grade 1 students should begin with this course."
+            }
+          ]
         }
       ]
     }

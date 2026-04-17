@@ -34,9 +34,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About This course includeds the following topic(s): Grammar: Grade 10, Composition: Grade 10, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Grammar: Grade 10\nThis course, based on Michael Clay Thompson's Caesar's English II, takes students through a delightful study of words that includes a mix of Latin stems, classic words, grammar, history, and writing.\n\nAbout Composition: Grade 10\nStudents build experience with multiple forms of writing and writing concepts such as dialogue, scene writing, point of view, outlining, various types of analysis, and more while honing their revision and editing skills with Williams’ and Bizup’s classic text.",
+              "label": "This course includeds the following topic(s): Grammar: Grade 10, Composition: Grade 10, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Grammar: Grade 10\nThis course, based on Michael Clay Thompson's Caesar's English II, takes students through a delightful study of words that includes a mix of Latin stems, classic words, grammar, history, and writing.\n\nAbout Composition: Grade 10\nStudents build experience with multiple forms of writing and writing concepts such as dialogue, scene writing, point of view, outlining, various types of analysis, and more while honing their revision and editing skills with Williams’ and Bizup’s classic text.",
+              "content": "Composition: Grade 10\nIn addition to their composition and grammar lessons, students should continue to keep track of their regular written narrations and write 5-10 each week. Not all narrations need to be lengthy, but students should be comfortable typing multiple paragraphs if given the time."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Grammar: Grade 10, Composition: Grade 10, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Grammar: Grade 10\nThis course, based on Michael Clay Thompson's Caesar's English II, takes students through a delightful study of words that includes a mix of Latin stems, classic words, grammar, history, and writing.\n\nAbout Composition: Grade 10\nStudents build experience with multiple forms of writing and writing concepts such as dialogue, scene writing, point of view, outlining, various types of analysis, and more while honing their revision and editing skills with Williams’ and Bizup’s classic text.",
+              "label": "This course includeds the following topic(s): Grammar: Grade 10, Composition: Grade 10, Commonplace: Grades 9-12\n\nAbout Commonplace: Grades 9-12\nBuilding on the habit of copywork in younger grades, high school students copy passages of any length that strike them from their readings into their commonplace book. For some students this becomes a lifelong keepsake and continuing habit.\n\nAbout Grammar: Grade 10\nThis course, based on Michael Clay Thompson's Caesar's English II, takes students through a delightful study of words that includes a mix of Latin stems, classic words, grammar, history, and writing.\n\nAbout Composition: Grade 10\nStudents build experience with multiple forms of writing and writing concepts such as dialogue, scene writing, point of view, outlining, various types of analysis, and more while honing their revision and editing skills with Williams’ and Bizup’s classic text.",
+              "content": "Commonplace: Grades 9-12\nStudents new to copywork or keeping a commonplace book may want to schedule this during morning lessons to build the habit.\n\nComposition: Grade 10\nPrerequisite: Students with no background in the essay form should begin with Essay Voyage from the Grade 9 lessons.\n\nComposition prompts often reference Alveary lessons in Literature, History, Geography, Bible, etc., so it is ideal if students are using Alveary subjects across the curriculum. However, lessons include the lesson topic and target skill/form, along with ideas for substitution when possible to make the lessons flexible for teachers and students."
+            }
+          ]
         }
       ]
     }

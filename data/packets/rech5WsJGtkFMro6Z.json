@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This covers a variety of citizenship topics. Students spend the first term reflecting on the value of thinking for the Christian life or on building helpful habits. The second term focuses on government as students explore topics of government through a historical survey of Canada's Prime Ministers. The year finishes with a term of economics where students learn a variety of economic theories.\n\nThis topic is included in the following course(s): Citizenship: Grade 10 (Canada)\n\n",
+              "label": "This covers a variety of citizenship topics. Students spend the first term reflecting on the value of thinking for the Christian life or on building helpful habits. The second term focuses on government as students explore topics of government through a historical survey of Canada's Prime Ministers. The year finishes with a term of economics where students learn a variety of economic theories.\n\nThis topic is included in the following course(s): Citizenship: Grade 10 (Canada)\n\n",
+              "content": "Lessons are occasionally integrated with composition lessons. \nThe book The Prime Ministers: Canada's Leaders and the Nation They Shaped will be read over two years (Grades 10 and 11). However, since this is the first year this book will be used, Grades 10 and 11 will have the same readings in 2026-2027."
+            }
+          ]
         }
       ]
     }

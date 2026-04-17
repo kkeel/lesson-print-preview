@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About This course includeds the following topic(s): Algebra/ Trig.: Grade 10, Geometry: Grade 10\n\n",
+              "label": "This course includeds the following topic(s): Algebra/ Trig.: Grade 10, Geometry: Grade 10\n\n",
+              "content": "Mathematics: Grade 10\nStudents should look ahead to college math requirements at schools they may want to attend or majors they may plan to pursue and plan accordingly. It is important to work at a student's pace. Alveary pacing has students study geometry and algebra concurrently in 9th and 10th grade and then finish Algebra II/Trig during 11th grade. Students can then start precalculus in 11th grade and finish 12th grade with precalculus or calculus."
+            }
+          ]
         }
       ]
     }

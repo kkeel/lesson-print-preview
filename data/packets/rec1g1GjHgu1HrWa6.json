@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Lessons for Grade 4 and/or those new to Shakespeare who would like a gentle on-ramp to the bard. Lessons cover A Midsummer Night's Dream over two terms.",
+              "label": "Lessons for Grade 4 and/or those new to Shakespeare who would like a gentle on-ramp to the bard. Lessons cover A Midsummer Night's Dream over two terms.",
+              "content": "Older students can jump into any term of the regular Shakespeare lessons after finishing these, or just read this play and take off one term. "
+            }
+          ]
         }
       ]
     }

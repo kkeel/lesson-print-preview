@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Practice sewing skills. Choose at least two projects per term. Make gifts.",
+              "label": "Practice sewing skills. Choose at least two projects per term. Make gifts.",
+              "content": "Students with no sewing experience should complete Lessons 1-12 of Level 1."
+            }
+          ]
         }
       ]
     }

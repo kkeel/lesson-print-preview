@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "An elective in Physical Science, Food Science introduces learners to applications in chemistry and physics as they relate to cooking and baking, while incorporating historical context, modern developments, current events, and citizenship. This is a hands-on course that requires independent interest and some flexibility for work time in the kitchen. There is room for teachers and learners to adjust the course for personal needs and preferences.\n\nThis topic is included in the following course(s): Science: Food Science\n\n",
+              "label": "An elective in Physical Science, Food Science introduces learners to applications in chemistry and physics as they relate to cooking and baking, while incorporating historical context, modern developments, current events, and citizenship. This is a hands-on course that requires independent interest and some flexibility for work time in the kitchen. There is room for teachers and learners to adjust the course for personal needs and preferences.\n\nThis topic is included in the following course(s): Science: Food Science\n\n",
+              "content": "There are no specific prerequisites or concurrents for this course."
+            }
+          ]
         }
       ]
     }

@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Skills Focus: New concepts covered are understanding design elements, the principle of proportion, and drawing cylindrical objects. Continue to use and understand the medium of soft pastels. Deeper study of color theory includes contrast, complementary colors, mixing colors, and changing values. Continue to build on understanding and manipulating watercolor. Build confidence and understanding in observation and communication that will translate across the curriculum.",
+              "label": "Skills Focus: New concepts covered are understanding design elements, the principle of proportion, and drawing cylindrical objects. Continue to use and understand the medium of soft pastels. Deeper study of color theory includes contrast, complementary colors, mixing colors, and changing values. Continue to build on understanding and manipulating watercolor. Build confidence and understanding in observation and communication that will translate across the curriculum.",
+              "content": "If students are in grade 5 and below and have not had formal art lessons, they should begin with Level 1. However, those with prior art knowledge can take the Level 1-3 fast-track lessons and then continue with Level 4. See course descriptions for specific content covered at each level.\n\nPrerequisite: Level 1 or appropriate skill proficiency."
+            }
+          ]
         }
       ]
     }

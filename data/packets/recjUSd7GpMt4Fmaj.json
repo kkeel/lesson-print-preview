@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Skills Focus: Practice applying drawing skills with the brush and watercolor techniques. Practice underpainting. Grow in watercolor abilities by continued practice. Draw spheres; study body proportions, foreshortening, curvature, overlapping, texture drawing, and highlighting. Color theory: notan, contrast, monochrome, color studies, and circular value scales.",
+              "label": "Skills Focus: Practice applying drawing skills with the brush and watercolor techniques. Practice underpainting. Grow in watercolor abilities by continued practice. Draw spheres; study body proportions, foreshortening, curvature, overlapping, texture drawing, and highlighting. Color theory: notan, contrast, monochrome, color studies, and circular value scales.",
+              "content": "If students are in grade 6-8, they should begin with the fast-track lessons and then move on to Level 4. \n\nPrerequisite: Level 5 or appropriate skill proficiency."
+            }
+          ]
         }
       ]
     }

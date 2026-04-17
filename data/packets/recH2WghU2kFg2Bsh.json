@@ -40,9 +40,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About Students sing folk songs connected to the time period (1800-1900).\n\nThis topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "label": "Students sing folk songs connected to the time period (1800-1900).\n\nThis topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5\n\n",
+              "content": "Folk Songs\nThe purpose of learning folk songs is twofold: to increase students’ enjoyment of music and to situate folk music in its historical context in an effort to give students a richer understanding of the times and places that birthed the songs. A musical score is sometimes included for songs, but does not always exactly match the audio used, since folk songs are primarily oral songs and often take many different forms. Studying folk music helps students grow deep roots in our shared heritage and gives insight into historical events from the perspective of the people who were there."
+            }
+          ]
         }
       ]
     }

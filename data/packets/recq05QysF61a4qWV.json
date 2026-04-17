@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Skills Focus: Continue in the new expanded color wheel, as well as learn about contrasting colors, color charting, split complements, and analogous colors. Learn and apply new ways to create texture and value through hatching and stippling. Understand pointillism. Continue working on portraiture. Understand how to paint light in watercolor and continue to strengthen watercolor skills.",
+              "label": "Skills Focus: Continue in the new expanded color wheel, as well as learn about contrasting colors, color charting, split complements, and analogous colors. Learn and apply new ways to create texture and value through hatching and stippling. Understand pointillism. Continue working on portraiture. Understand how to paint light in watercolor and continue to strengthen watercolor skills.",
+              "content": "If students are in grade 6 or above, they should begin with the fast-track lessons and then move on to Level 4. \n\nPrerequisite: Level 7 or appropriate skill proficiency."
+            }
+          ]
         }
       ]
     }

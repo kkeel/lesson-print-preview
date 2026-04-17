@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students play musical games to notice rhythm and melody.\n\nThis topic is included in the following course(s): Music: Intro\n\n",
+              "label": "Students play musical games to notice rhythm and melody.\n\nThis topic is included in the following course(s): Music: Intro\n\n",
+              "content": "Suitable for Grades 1-3 if combining"
+            }
+          ]
         }
       ]
     }

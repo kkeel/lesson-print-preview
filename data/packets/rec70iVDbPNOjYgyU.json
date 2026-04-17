@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "An elective in Life Science, Microbiology is a challenging course for the Alveary senior. Some self-direction is required.\n\nThis topic is included in the following course(s): Science: Microbiology\n\n",
+              "label": "An elective in Life Science, Microbiology is a challenging course for the Alveary senior. Some self-direction is required.\n\nThis topic is included in the following course(s): Science: Microbiology\n\n",
+              "content": "Students should take General Biology before Microbiology. Note that there is some sensitive content in this course, and it is recommended for students in Grade 12."
+            }
+          ]
         }
       ]
     }

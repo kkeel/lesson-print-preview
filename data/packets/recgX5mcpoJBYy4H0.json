@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Spiritual formation courses cover particular topics in the Christian life to encourage and deepen students' faith. This course helps students use their imaginations to be changed by God, reflect on what it means to be an embodied soul made in God's image, and deepen their delight in God.\n\nThis topic is included in the following course(s): Bible: Grade 12\n\n",
+              "label": "Spiritual formation courses cover particular topics in the Christian life to encourage and deepen students' faith. This course helps students use their imaginations to be changed by God, reflect on what it means to be an embodied soul made in God's image, and deepen their delight in God.\n\nThis topic is included in the following course(s): Bible: Grade 12\n\n",
+              "content": "Appropriate for interested students in Grades 10-11."
+            }
+          ]
         }
       ]
     }

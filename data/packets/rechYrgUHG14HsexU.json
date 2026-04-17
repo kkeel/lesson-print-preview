@@ -30,9 +30,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About A primarily practical course, students explore the idea of biome, first their own and then others. They also 'meet' some less familiar creatures from their own, such as insect larva and mammals, through picture books. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 2\n\nAbout Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts.",
+              "label": "A primarily practical course, students explore the idea of biome, first their own and then others. They also 'meet' some less familiar creatures from their own, such as insect larva and mammals, through picture books. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 2\n\nAbout Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts.",
+              "content": "Science: Grade 2\nThe Big Picture:\nTo accomplish the goal of supporting a relationship with the Things of the Universe, a Mason science program consists of nature lore, natural history, and general science. Nature immersion, inquiry, community connection, and supportive literature are woven into each of these three parts.  Form 1 learners in grades 1-3 are at the beginning of this relationship: developing familiarity and friendship with Creation.  Their sense of community is primarily focused on their immediate environment at this stage, but they are curious about others.  The familiarity with foundational knowledge grown and nurtured in Form 1 prepares them for greater curiosity and personal interest in Form 2.\n\nNature lore is timeless knowledge that is passed through a community, much like a grandmother passes on how to make that special bread when the dough just 'feels right.'  Like Mason, we strive to pass on this knowledge primarily through outdoor work.  Group nature walks, seasonal readings, and topics in scouting are provided as an Outdoor Work resource in the Quick Links.  If desired, literature suggestions to support lore can be found in the Community Read Alouds resource (in Literature Grades 1-3)."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "A primarily practical course, students explore the idea of biome, first their own and then others. They also 'meet' some less familiar creatures from their own, such as insect larva and mammals, through picture books. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 2\n\nAbout Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts.",
+              "label": "A primarily practical course, students explore the idea of biome, first their own and then others. They also 'meet' some less familiar creatures from their own, such as insect larva and mammals, through picture books. Coordinating afternoon activities are provided in Outdoor Work.\n\nThis topic is included in the following course(s): Science: Grade 2\n\nAbout Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts.",
+              "content": "About Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts."
+            }
+          ]
         }
       ]
     }

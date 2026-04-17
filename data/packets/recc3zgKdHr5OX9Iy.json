@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Skills Focus: Students continue to strengthen their brush forms and apply those forms to different plant and animal images, moving from copying the book to using the mind's eye and trained hand to create their pieces of art. Students continue to strengthen their color theory through value scales and monochromatic painting with watercolors, acrylic paint, and pastels. In drawing, students study the design principle of proportion and begin learning perspective through the study of ellipses with many opportunities to apply this understanding through drawing and other projects.",
+              "label": "Skills Focus: Students continue to strengthen their brush forms and apply those forms to different plant and animal images, moving from copying the book to using the mind's eye and trained hand to create their pieces of art. Students continue to strengthen their color theory through value scales and monochromatic painting with watercolors, acrylic paint, and pastels. In drawing, students study the design principle of proportion and begin learning perspective through the study of ellipses with many opportunities to apply this understanding through drawing and other projects.",
+              "content": "If students are in grade 5 and below and have not had formal art lessons, they should begin with Level 1. However, those with prior art knowledge can take the Level 1-3 fast-track lessons and then continue with Level 4.\n\nPrerequisite: Level 2 or appropriate skill proficiency."
+            }
+          ]
         }
       ]
     }

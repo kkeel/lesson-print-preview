@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "An elective in Physical Science, Introduction to Engineering develops thinking skills and practical experience that are applicable to any field of design/innovation, while incorporating historical context, modern developments, current events, and citizenship. This is a VERY hands-on course that requires independent interest in any form of design/innovation, including various fields of engineering and the skilled trades. The course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences. \n\nThis topic is included in the following course(s): Science: Introduction to Engineering\n\n",
+              "label": "An elective in Physical Science, Introduction to Engineering develops thinking skills and practical experience that are applicable to any field of design/innovation, while incorporating historical context, modern developments, current events, and citizenship. This is a VERY hands-on course that requires independent interest in any form of design/innovation, including various fields of engineering and the skilled trades. The course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences. \n\nThis topic is included in the following course(s): Science: Introduction to Engineering\n\n",
+              "content": "The completion of Algebra 1 and Geometry are recommended for this course, as the experience will contribute to the learner's understanding, but they are not required."
+            }
+          ]
         }
       ]
     }

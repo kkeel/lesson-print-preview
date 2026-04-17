@@ -34,9 +34,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Drawing on material culture, primary sources, and wider overviews, this course delves into the time period from 100 BC to 350 AD.\n\nThis topic is included in the following course(s): History: Grades 10-12 (U.S.), History: Grade 10 (Canada), History: Grades 11-12 (Canada)\n\n",
+              "label": "Drawing on material culture, primary sources, and wider overviews, this course delves into the time period from 100 BC to 350 AD.\n\nThis topic is included in the following course(s): History: Grades 10-12 (U.S.), History: Grade 10 (Canada), History: Grades 11-12 (Canada)\n\n",
+              "content": "Inquisitive 9th graders could enjoy this course, but the main texts have an advanced reading level, so students would likely want to move at a slower pace."
+            }
+          ]
         }
       ]
     }

@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Accessible texts such as Charlotte's Web help students grow the delight of reading for themselves.\n\nThis topic is included in the following course(s): Literature: Grade 3\n\n",
+              "label": "Accessible texts such as Charlotte's Web help students grow the delight of reading for themselves.\n\nThis topic is included in the following course(s): Literature: Grade 3\n\n",
+              "content": "Selections in General Literature are chosen to allow students to begin taking turns reading with their teacher and/or entirely by themselves (depending on reading level). If combining with younger students, make sure emerging readers still have space to practice reading somewhere in their lessons."
+            }
+          ]
         }
       ]
     }

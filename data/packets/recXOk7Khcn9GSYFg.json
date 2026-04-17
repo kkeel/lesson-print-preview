@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students spend a term learning the structure of our local and state governments, then turn to key primary source documents related to our government before ending the year with an introduction to economics, focusing on the history of money, the banking system, and personal finance.\n\nThis topic is included in the following course(s): Citizenship: Grade 8 (U.S.)\n\n",
+              "label": "Students spend a term learning the structure of our local and state governments, then turn to key primary source documents related to our government before ending the year with an introduction to economics, focusing on the history of money, the banking system, and personal finance.\n\nThis topic is included in the following course(s): Citizenship: Grade 8 (U.S.)\n\n",
+              "content": "If a student hasn't studied the Constitution, consider having them take the 7th-grade government course first."
+            }
+          ]
         }
       ]
     }

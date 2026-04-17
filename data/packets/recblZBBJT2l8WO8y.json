@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Overview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nThis course includeds the following topic(s): Mythology/Hist. Fiction: Grade 4, General Lit.: Grade 4\n\nAbout General Lit.: Grade 4\nContinue fostering independence and a love of reading with irresistible stories such as The Lion, the Witch, and the Wardrobe and historical fiction from the time period.\n\nAbout Mythology/Hist. Fiction: Grade 4\nStudents read Norse mythology for a term, enjoy a term of fairy tales from around the world collected or written in the 19th century, and finish with a term of African American folktales.",
+              "label": "Overview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nThis course includeds the following topic(s): Mythology/Hist. Fiction: Grade 4, General Lit.: Grade 4\n\nAbout General Lit.: Grade 4\nContinue fostering independence and a love of reading with irresistible stories such as The Lion, the Witch, and the Wardrobe and historical fiction from the time period.\n\nAbout Mythology/Hist. Fiction: Grade 4\nStudents read Norse mythology for a term, enjoy a term of fairy tales from around the world collected or written in the 19th century, and finish with a term of African American folktales.",
+              "content": "Literature: Grade 4\nOverview note: Poetry lessons are an integral part of the whole Literature program, so look at both literature and poetry selections together when placing students.\n\nGeneral Lit.: Grade 4\nSuitable for Grades 5-6 if combining.\n\nMythology/Hist. Fiction: Grade 4\nCan easily be combined with students in Grades 3 or 5."
+            }
+          ]
         }
       ]
     }

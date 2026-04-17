@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Study target language using interactive readings and grammar exercises.",
+              "label": "Study target language using interactive readings and grammar exercises.",
+              "content": "Prerequisite: French: Level 3"
+            }
+          ]
         }
       ]
     }

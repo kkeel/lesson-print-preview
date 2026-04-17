@@ -34,9 +34,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Plutarch: Beginner Track, Current Events: Grades 5-8, Community Read Alouds: Grades 1-12\n\nAbout Plutarch: Beginner Track\nThis set of lesson plans eases students into Plutarch lessons with one of his most engaging and accessible lives so that students don't miss this important book that Mason valued so highly.\n\nAbout Current Events: Grades 5-8\nStudents are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.",
+              "label": "This course includeds the following topic(s): Plutarch: Beginner Track, Current Events: Grades 5-8, Community Read Alouds: Grades 1-12\n\nAbout Plutarch: Beginner Track\nThis set of lesson plans eases students into Plutarch lessons with one of his most engaging and accessible lives so that students don't miss this important book that Mason valued so highly.\n\nAbout Current Events: Grades 5-8\nStudents are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.",
+              "content": "Plutarch: Beginner Track\nOlder students beginning Plutarch for the first time may wish to start with this level as a replacement for other Plutarch lessons."
+            }
+          ]
         }
       ]
     }

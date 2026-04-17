@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Spiritual formation courses help students think more deeply about various topics in the Christian life such as prayer, studying the Bible, and other spiritual disciplines. \n\nThis topic is included in the following course(s): Bible: Grades 7-8\n\n",
+              "label": "Spiritual formation courses help students think more deeply about various topics in the Christian life such as prayer, studying the Bible, and other spiritual disciplines. \n\nThis topic is included in the following course(s): Bible: Grades 7-8\n\n",
+              "content": "Also appropriate for HS students."
+            }
+          ]
         }
       ]
     }

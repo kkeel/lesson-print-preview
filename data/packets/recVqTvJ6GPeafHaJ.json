@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "The focus of the course in this rotation is on answering the question, \"Why do buildings stand up?\"  The main text of that name offers the history of great monuments and the architectural technology that makes them possible. Famous buildings from 1800-1900 and 100 BC-350 AD are mentioned as well.",
+              "label": "The focus of the course in this rotation is on answering the question, \"Why do buildings stand up?\"  The main text of that name offers the history of great monuments and the architectural technology that makes them possible. Famous buildings from 1800-1900 and 100 BC-350 AD are mentioned as well.",
+              "content": "Suitable for Grade 8 students with minimal adjustment if combining."
+            }
+          ]
         }
       ]
     }

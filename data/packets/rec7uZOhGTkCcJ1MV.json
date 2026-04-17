@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "From 7th grade through high school, students read through the OT chronologically. For 2026-2027 they read 2 Samuel-I Kings, 1 & 2 Chronicles, Psalms and Proverbs (selections) and Ecclesiastes. 12th grade will also read Song of Solomon. With the aid of study Bible notes and selections from study helps such as the Old Testament Today or The Bible Project, this course allows students to meditate on Scripture and engage with the historical and cultural context of the Bible when it was written, as well as the way the OT continues to be relevant as God's word today.\n\nThis topic is included in the following course(s): Bible: Grades 7-8, Bible: Grade 9, Bible: Grades 10-11, Bible: Grade 12\n\n",
+              "label": "From 7th grade through high school, students read through the OT chronologically. For 2026-2027 they read 2 Samuel-I Kings, 1 & 2 Chronicles, Psalms and Proverbs (selections) and Ecclesiastes. 12th grade will also read Song of Solomon. With the aid of study Bible notes and selections from study helps such as the Old Testament Today or The Bible Project, this course allows students to meditate on Scripture and engage with the historical and cultural context of the Bible when it was written, as well as the way the OT continues to be relevant as God's word today.\n\nThis topic is included in the following course(s): Bible: Grades 7-8, Bible: Grade 9, Bible: Grades 10-11, Bible: Grade 12\n\n",
+              "content": "Students in Grades 7-12 read the same passages of Scripture, but the lesson plans include a variety of discussion questions and extra study helps differentiated by grade to help students engage at various depths. This makes these lessons flexible for individual students and/or a multi-age context. Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the narratives and overarching story of the OT."
+            }
+          ]
         }
       ]
     }

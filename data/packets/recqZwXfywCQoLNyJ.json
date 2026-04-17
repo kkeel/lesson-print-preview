@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Along with fairy tales from around the world, this course introduces students to Aesop's famous fables and classic American or Canadian tall tales.\n\nThis topic is included in the following course(s): Literature: Grade 1\n\n",
+              "label": "Along with fairy tales from around the world, this course introduces students to Aesop's famous fables and classic American or Canadian tall tales.\n\nThis topic is included in the following course(s): Literature: Grade 1\n\n",
+              "content": "Easily combined with hungry Kindergarteners or Grade 2 students."
+            }
+          ]
         }
       ]
     }

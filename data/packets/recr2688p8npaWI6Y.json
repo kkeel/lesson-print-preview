@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Each year, students in Grades 3-6 read one of the gospels. For 2026-2027 they read John. Lesson plans include map work and assigned selections of The New Manners and Customs of Bible Times for teachers to read with their students before or after Bible reading to help give context and insight into the culture and geography of Israel during Jesus' life.\n\nThis topic is included in the following course(s): Bible: Grade 3, Bible: Grades 4-6\n\n",
+              "label": "Each year, students in Grades 3-6 read one of the gospels. For 2026-2027 they read John. Lesson plans include map work and assigned selections of The New Manners and Customs of Bible Times for teachers to read with their students before or after Bible reading to help give context and insight into the culture and geography of Israel during Jesus' life.\n\nThis topic is included in the following course(s): Bible: Grade 3, Bible: Grades 4-6\n\n",
+              "content": "Suitable for older students if combining lessons, and ideal for older students just getting familiar with the Bible."
+            }
+          ]
         }
       ]
     }

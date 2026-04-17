@@ -30,9 +30,26 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
+          "kind": "about-group",
           "title": "About the Course",
-          "content": ""
+          "entries": [
+            {
+              "title": "About Students continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.\n\nThis topic is included in the following course(s): Language Study: Grade 12\n\n",
+              "label": "Students continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.\n\nThis topic is included in the following course(s): Language Study: Grade 12\n\n",
+              "content": "Composition: Grade 12\nIn addition to their composition and grammar lessons, students should continue to keep track of their regular written narrations and write 5-10 each week. Not all narrations need to be lengthy, but students should be comfortable typing multiple paragraphs if given the time."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.\n\nThis topic is included in the following course(s): Language Study: Grade 12\n\n",
+              "label": "Students continue to build experience with multiple forms of writing and practice healthy writing habits. This course especially focuses on the ethical dimension of words today, the role of technology, and the craft of research and academic writing, so students learn to show the significance of their ideas within a scholarly conversation.\n\nThis topic is included in the following course(s): Language Study: Grade 12\n\n",
+              "content": "Prerequisite: Students with little background in the essay form should begin with Essay Voyage from the Grade 9 lessons. \n\nStudents new to the concept of revision and editing should take the Grade 10 lessons through Style: The Basics of Clarity and Grace and may want to substitute the other revision/editing lessons in Grade 10 to build their skills."
+            }
+          ]
         }
       ]
     }

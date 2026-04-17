@@ -30,9 +30,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This set of lesson plans eases students into Plutarch lessons with one of his most engaging and accessible lives so that students don't miss this important book that Mason valued so highly.\n\nThis topic is included in the following course(s): Citizenship: Grade 5\n\n",
+              "label": "This set of lesson plans eases students into Plutarch lessons with one of his most engaging and accessible lives so that students don't miss this important book that Mason valued so highly.\n\nThis topic is included in the following course(s): Citizenship: Grade 5\n\n",
+              "content": "Older students beginning Plutarch for the first time may wish to start with this level as a replacement for other Plutarch lessons."
+            }
+          ]
         }
       ]
     }

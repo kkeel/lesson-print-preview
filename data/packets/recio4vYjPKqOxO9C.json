@@ -26,9 +26,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Discover the earth’s continents, the changing seasons, latitude and longitude, map-making, and topographical features. Use a globe, wall maps, and models to explore the concept of place by taking an in-depth look at “home” in North America. Students make models and maps of places that are important to them such as their room, home, and yard.",
+              "label": "Discover the earth’s continents, the changing seasons, latitude and longitude, map-making, and topographical features. Use a globe, wall maps, and models to explore the concept of place by taking an in-depth look at “home” in North America. Students make models and maps of places that are important to them such as their room, home, and yard.",
+              "content": "All students in Grade 1 should take this course. Students in Grades 2-3 who have never studied geography may also benefit, though they could likely work at a faster pace."
+            }
+          ]
         }
       ]
     }

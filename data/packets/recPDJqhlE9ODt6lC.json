@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Poetry Study: Grade 7, Poetry Reading: Grade 7\n\nAbout Poetry Study: Grade 7\nStudents study poetic devices and forms and practice writing poetry themselves.\n\nAbout Poetry Reading: Grade 7\nStudents continue to develop their relationship with words through ongoing exposure to a variety of poetic forms, poet biographies, and 19th century poems.",
+              "label": "This course includeds the following topic(s): Poetry Study: Grade 7, Poetry Reading: Grade 7\n\nAbout Poetry Study: Grade 7\nStudents study poetic devices and forms and practice writing poetry themselves.\n\nAbout Poetry Reading: Grade 7\nStudents continue to develop their relationship with words through ongoing exposure to a variety of poetic forms, poet biographies, and 19th century poems.",
+              "content": "Poetry Reading: Grade 7\nStudents in Grades 5-8 can easily be combined for these lessons as all grades use nearly the same texts this year, although Grades 7-8 read additional selections and have corresponding composition assignments. Poetry lessons are also an integral part of the whole Literature program, so look at both literature and poetry selections together when placing students."
+            }
+          ]
         }
       ]
     }

@@ -36,9 +36,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Astronomy Lessons, Astronomy Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Astronomy Lessons\nAn elective in Earth Science, Astronomy is a fascinating topic in which learners explore celestial objects, history, and philosophy. Teachers wishing for explicit instruction on topics related to world view should include the optional Crossroads text.\n\nAbout Astronomy Labs\nLabs/fieldwork are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
+              "label": "This course includeds the following topic(s): Astronomy Lessons, Astronomy Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Astronomy Lessons\nAn elective in Earth Science, Astronomy is a fascinating topic in which learners explore celestial objects, history, and philosophy. Teachers wishing for explicit instruction on topics related to world view should include the optional Crossroads text.\n\nAbout Astronomy Labs\nLabs/fieldwork are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
+              "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nAstronomy Lessons\nRecommended for students in Grades 11-12, depending on math placement. Students should have completed Algebra 1 (Algebra 2 if taking Denison Success) and Geometry. "
+            }
+          ]
         }
       ]
     }

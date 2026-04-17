@@ -32,9 +32,15 @@
       "type": "header",
       "items": [
         {
-          "kind": "text",
-          "title": "About the Course",
-          "content": ""
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course includeds the following topic(s): Math Lessons: Grade 2, Math Games: Grades 1-8\n\nAbout Math Lessons: Grade 2\nDiscover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart B Primary Skill Focus: Addition, Subtraction\n\nAbout Math Games: Grades 1-8\nPractice and learn math facts through games.",
+              "label": "This course includeds the following topic(s): Math Lessons: Grade 2, Math Games: Grades 1-8\n\nAbout Math Lessons: Grade 2\nDiscover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart B Primary Skill Focus: Addition, Subtraction\n\nAbout Math Games: Grades 1-8\nPractice and learn math facts through games.",
+              "content": "Math Lessons: Grade 2\nStudents who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com).\nPrerequisite: RightStart A or appropriate skill proficiency"
+            }
+          ]
         }
       ]
     }
