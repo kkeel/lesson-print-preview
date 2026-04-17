@@ -2,13 +2,37 @@
   "id": "recP7em1uQxqh60vX",
   "title": "Citizenship",
   "lessonSetName": "Citizenship: Grade 8 (Canada)",
+  "subject": "Citizenship",
+  "sortId": "005.008.002.000",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recLxHIpB9s53QHpZ",
+    "recbShXLUHkG4uxBl",
+    "recIjTaWJviBZTIrd",
+    "recdlpC8UnGxOhpSZ",
+    "recyxfG0u2SwUnA2Z"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Plutarch: Grades 6-8",
+    "Current Events: Grades 5-8",
+    "Canadian Gov./ Economics: Grade 8",
+    "Community Read Alouds: Grades 1-12",
+    "Ethics: Part 2"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Citizenship",
       "subtitle": "Plutarch\nCurrent Events\nCanadian Gov./ Economics\nCommunity Read Alouds\nEthics",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Citizenship",
+      "sortId": "005.008.002.000"
     },
     {
       "type": "header",

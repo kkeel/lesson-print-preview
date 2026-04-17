@@ -2,13 +2,29 @@
   "id": "rechldKYJ1ONHghSw",
   "title": "Playground Songs & Rhymes",
   "lessonSetName": "Playground Songs & Rhymes",
+  "subject": "Physical Education",
+  "sortId": "015.001.001.001",
+  "gradeText": "GRADE(S): 1-3",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recTdVQlCxJEkNqkp"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "PE: Grades 1-3"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Playground Songs & Rhymes",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1-3"
+      "gradeText": "GRADE(S): 1-3",
+      "subject": "Physical Education",
+      "sortId": "015.001.001.001"
     },
     {
       "type": "header",

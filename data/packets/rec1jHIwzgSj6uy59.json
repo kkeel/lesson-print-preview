@@ -2,13 +2,29 @@
   "id": "rec1jHIwzgSj6uy59",
   "title": "Geometry",
   "lessonSetName": "Geometry: Grade 8",
+  "subject": "Math",
+  "sortId": "012.009.008.003",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recbnlGvqaxScUkOl"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geometry",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Math",
+      "sortId": "012.009.008.003"
     },
     {
       "type": "header",

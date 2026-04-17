@@ -2,13 +2,29 @@
   "id": "recT3teTf2qjZsjGH",
   "title": "Composition",
   "lessonSetName": "Composition: Grade 12",
+  "subject": "English",
+  "sortId": "006.001.012.004",
+  "gradeText": "GRADE(S): 12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recEaNOz7bjz3AOJH"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 12"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Composition",
       "subtitle": "",
-      "gradeText": "GRADE(S): 12"
+      "gradeText": "GRADE(S): 12",
+      "subject": "English",
+      "sortId": "006.001.012.004"
     },
     {
       "type": "header",

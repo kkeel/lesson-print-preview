@@ -2,13 +2,25 @@
   "id": "recvHEDloo31a0yBM",
   "title": "Plutarch/Government",
   "lessonSetName": "Plutarch/Government: Grade 9 (U.S.)",
+  "subject": "Citizenship",
+  "sortId": "005.009.001.001",
+  "gradeText": "GRADE(S): 9",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Plutarch/Government",
       "subtitle": "U.S.",
-      "gradeText": "GRADE(S): 9"
+      "gradeText": "GRADE(S): 9",
+      "subject": "Citizenship",
+      "sortId": "005.009.001.001"
     },
     {
       "type": "header",

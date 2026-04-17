@@ -2,13 +2,25 @@
   "id": "recw3n8hXdAPGodOM",
   "title": "Written Narration",
   "lessonSetName": "Written Narration: Grade 8",
+  "subject": "English",
+  "sortId": "006.001.008.004",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Written Narration",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "English",
+      "sortId": "006.001.008.004"
     },
     {
       "type": "header",

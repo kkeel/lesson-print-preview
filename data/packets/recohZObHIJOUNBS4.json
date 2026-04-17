@@ -2,13 +2,31 @@
   "id": "recohZObHIJOUNBS4",
   "title": "Sports",
   "lessonSetName": "Sports",
+  "subject": "Physical Education",
+  "sortId": "015.004.002.002",
+  "gradeText": "GRADE(S): 4-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recmMWmHZZu0WJRZr",
+    "recNsbkPwHlAIsSpE"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "PE: Grades 4-6",
+    "PE: Grades 7-12"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Sports",
       "subtitle": "",
-      "gradeText": "GRADE(S): 4-12"
+      "gradeText": "GRADE(S): 4-12",
+      "subject": "Physical Education",
+      "sortId": "015.004.002.002"
     },
     {
       "type": "header",

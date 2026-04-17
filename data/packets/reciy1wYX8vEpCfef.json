@@ -2,13 +2,25 @@
   "id": "reciy1wYX8vEpCfef",
   "title": "Art",
   "lessonSetName": "Art: High School Fast Track",
+  "subject": "Art",
+  "sortId": "003.003.009.000",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Art",
       "subtitle": "High School Fast Track",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "Art",
+      "sortId": "003.003.009.000"
     },
     {
       "type": "header",

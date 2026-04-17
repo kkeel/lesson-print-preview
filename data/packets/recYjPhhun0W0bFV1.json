@@ -2,13 +2,29 @@
   "id": "recYjPhhun0W0bFV1",
   "title": "Poetry Study",
   "lessonSetName": "Poetry Study: Grade 10",
+  "subject": "Literature",
+  "sortId": "011.001.010.009",
+  "gradeText": "GRADE(S): 10",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recJLmDpg0XImtP6S"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Literature: Grade 10"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Poetry Study",
       "subtitle": "",
-      "gradeText": "GRADE(S): 10"
+      "gradeText": "GRADE(S): 10",
+      "subject": "Literature",
+      "sortId": "011.001.010.009"
     },
     {
       "type": "header",

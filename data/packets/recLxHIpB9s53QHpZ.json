@@ -2,13 +2,37 @@
   "id": "recLxHIpB9s53QHpZ",
   "title": "Plutarch",
   "lessonSetName": "Plutarch: Grades 6-8",
+  "subject": "Citizenship",
+  "sortId": "005.006.001.001",
+  "gradeText": "GRADE(S): 6-8+",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recGXxGxyBDadjmRF",
+    "recnPUjwJ22heDgYx",
+    "recFveiRQJWXaIwRJ",
+    "recgUPgdIguvZwUVr",
+    "recP7em1uQxqh60vX"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 6",
+    "Citizenship: Grade 7 (U.S.)",
+    "Citizenship: Grade 7 (Canada)",
+    "Citizenship: Grade 8 (U.S.)",
+    "Citizenship: Grade 8 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Plutarch",
       "subtitle": "",
-      "gradeText": "GRADE(S): 6-8+"
+      "gradeText": "GRADE(S): 6-8+",
+      "subject": "Citizenship",
+      "sortId": "005.006.001.001"
     },
     {
       "type": "header",

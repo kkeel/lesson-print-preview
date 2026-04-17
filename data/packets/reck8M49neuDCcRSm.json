@@ -2,13 +2,25 @@
   "id": "reck8M49neuDCcRSm",
   "title": "Science",
   "lessonSetName": "Science: Introduction to Engineering",
+  "subject": "Alt. Science Options",
+  "sortId": "017.009.002.000",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Science",
       "subtitle": "Introduction to Engineering",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "Alt. Science Options",
+      "sortId": "017.009.002.000"
     },
     {
       "type": "header",

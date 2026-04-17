@@ -2,13 +2,25 @@
   "id": "recEwkGjtyroHgV1R",
   "title": "Latin 2",
   "lessonSetName": "Latin 2 (Video Course)",
+  "subject": "Latin",
+  "sortId": "009.008.002.000",
+  "gradeText": "GRADE(S): 8+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Latin 2",
       "subtitle": "Video Course",
-      "gradeText": "GRADE(S): 8+"
+      "gradeText": "GRADE(S): 8+",
+      "subject": "Latin",
+      "sortId": "009.008.002.000"
     },
     {
       "type": "header",

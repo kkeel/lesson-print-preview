@@ -2,13 +2,29 @@
   "id": "rec8muhZAW9Nq8qaj",
   "title": "Math Lessons",
   "lessonSetName": "Math Lessons: Grade 2",
+  "subject": "Math",
+  "sortId": "012.002.002.001",
+  "gradeText": "GRADE(S): 2",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recoJa1ta75vW3WbF"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 2"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Math Lessons",
       "subtitle": "",
-      "gradeText": "GRADE(S): 2"
+      "gradeText": "GRADE(S): 2",
+      "subject": "Math",
+      "sortId": "012.002.002.001"
     },
     {
       "type": "header",

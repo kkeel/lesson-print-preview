@@ -2,13 +2,29 @@
   "id": "recuew1Mk7TnU0fNl",
   "title": "Reading Level 1",
   "lessonSetName": "Reading Level 1",
+  "subject": "English",
+  "sortId": "006.001.001.001",
+  "gradeText": "GRADE(S): 1",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recrqyaeyPU1vT58r"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 1"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Reading Level 1",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1"
+      "gradeText": "GRADE(S): 1",
+      "subject": "English",
+      "sortId": "006.001.001.001"
     },
     {
       "type": "header",

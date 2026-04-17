@@ -2,13 +2,37 @@
   "id": "rec4XnBqT5hGzgekf",
   "title": "Composer Study",
   "lessonSetName": "Composer Study",
+  "subject": "Music",
+  "sortId": "014.002.002.002",
+  "gradeText": "GRADE(S): 2-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recfWnzstisEbMksF",
+    "reccyxQYQomrewPmO",
+    "recRWEigAnbAHGgE5",
+    "recEFs6yhDC09H9l7",
+    "recuimu5MkPGtT9zZ"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Music: Level 1",
+    "Music: Level 2",
+    "Music: Level 3",
+    "Music: Level 4",
+    "Music: Level 5"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Composer Study",
       "subtitle": "",
-      "gradeText": "GRADE(S): 2-12"
+      "gradeText": "GRADE(S): 2-12",
+      "subject": "Music",
+      "sortId": "014.002.002.002"
     },
     {
       "type": "header",

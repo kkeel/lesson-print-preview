@@ -2,13 +2,29 @@
   "id": "recYOEHT8vZGbZNw7",
   "title": "Labs",
   "lessonSetName": "Labs: Grade 6",
+  "subject": "Science",
+  "sortId": "016.006.002.003",
+  "gradeText": "GRADE(S): 6",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recm8QafJuO9s9fKP"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 6"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Labs",
       "subtitle": "",
-      "gradeText": "GRADE(S): 6"
+      "gradeText": "GRADE(S): 6",
+      "subject": "Science",
+      "sortId": "016.006.002.003"
     },
     {
       "type": "header",

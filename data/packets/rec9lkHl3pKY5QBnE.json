@@ -2,13 +2,25 @@
   "id": "rec9lkHl3pKY5QBnE",
   "title": "Geography",
   "lessonSetName": "Geography: Grade 3 (U.S.)",
+  "subject": "Geography",
+  "sortId": "007.003.001.000",
+  "gradeText": "GRADE(S): 3",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geography",
       "subtitle": "U.S.",
-      "gradeText": "GRADE(S): 3"
+      "gradeText": "GRADE(S): 3",
+      "subject": "Geography",
+      "sortId": "007.003.001.000"
     },
     {
       "type": "header",

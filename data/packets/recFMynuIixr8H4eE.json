@@ -2,13 +2,25 @@
   "id": "recFMynuIixr8H4eE",
   "title": "Algebra 2/Trigonometry",
   "lessonSetName": "Algebra 2/Trigonometry: Part 1",
+  "subject": "Math",
+  "sortId": "012.013.010.002",
+  "gradeText": "GRADE(S): 10",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Algebra 2/Trigonometry",
       "subtitle": "Part 1",
-      "gradeText": "GRADE(S): 10"
+      "gradeText": "GRADE(S): 10",
+      "subject": "Math",
+      "sortId": "012.013.010.002"
     },
     {
       "type": "header",

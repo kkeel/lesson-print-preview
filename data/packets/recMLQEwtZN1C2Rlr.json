@@ -2,13 +2,33 @@
   "id": "recMLQEwtZN1C2Rlr",
   "title": "Bible",
   "lessonSetName": "Bible: Grades 10-11",
+  "subject": "Bible",
+  "sortId": "004.010.001.000",
+  "gradeText": "GRADE(S): 10-11",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recuWVN8k8i8H6CMD",
+    "rec7YwUnwd3brNELW",
+    "receLWMgkVSpabWem"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "New Testament: Grades 10-11",
+    "Church History: Grades 10-12",
+    "Spiritual Formation: Grades 10-11"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Bible",
       "subtitle": "Old Testament\nNew Testament\nChurch History\nSpiritual Formation",
-      "gradeText": "GRADE(S): 10-11"
+      "gradeText": "GRADE(S): 10-11",
+      "subject": "Bible",
+      "sortId": "004.010.001.000"
     },
     {
       "type": "header",

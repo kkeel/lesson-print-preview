@@ -2,13 +2,29 @@
   "id": "recnMjfpYclu3qDVG",
   "title": "Pre-Algebra",
   "lessonSetName": "Pre-Algebra",
+  "subject": "Math",
+  "sortId": "012.007.007.002",
+  "gradeText": "GRADE(S): 7",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recQQ7daOEr8H73a2"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 7"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Pre-Algebra",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7"
+      "gradeText": "GRADE(S): 7",
+      "subject": "Math",
+      "sortId": "012.007.007.002"
     },
     {
       "type": "header",

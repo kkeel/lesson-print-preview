@@ -2,13 +2,25 @@
   "id": "recycLF7Z2ng9RVTl",
   "title": "Latin 4",
   "lessonSetName": "Latin 4",
+  "subject": "Latin",
+  "sortId": "009.010.001.000",
+  "gradeText": "GRADE(S): 10-12+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Latin 4",
       "subtitle": "",
-      "gradeText": "GRADE(S): 10-12+"
+      "gradeText": "GRADE(S): 10-12+",
+      "subject": "Latin",
+      "sortId": "009.010.001.000"
     },
     {
       "type": "header",

@@ -2,13 +2,25 @@
   "id": "recgBJaELI11Rfass",
   "title": "Recitation",
   "lessonSetName": "Recitation: Grades 7-8",
+  "subject": "English",
+  "sortId": "006.005.007.000",
+  "gradeText": "GRADE(S): 7-8",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Recitation",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7-8"
+      "gradeText": "GRADE(S): 7-8",
+      "subject": "English",
+      "sortId": "006.005.007.000"
     },
     {
       "type": "header",

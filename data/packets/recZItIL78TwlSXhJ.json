@@ -2,13 +2,25 @@
   "id": "recZItIL78TwlSXhJ",
   "title": "Lettering",
   "lessonSetName": "Lettering: Level 3",
+  "subject": "Life Skills",
+  "sortId": "010.006.009.000",
+  "gradeText": "GRADE(S): 9+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Lettering",
       "subtitle": "Level 3",
-      "gradeText": "GRADE(S): 9+"
+      "gradeText": "GRADE(S): 9+",
+      "subject": "Life Skills",
+      "sortId": "010.006.009.000"
     },
     {
       "type": "header",

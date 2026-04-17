@@ -2,13 +2,25 @@
   "id": "rec0fRv1pQK8DzhYA",
   "title": "Pre-Calculus",
   "lessonSetName": "Pre-Calculus: Part 2",
+  "subject": "Math",
+  "sortId": "012.017.012.001",
+  "gradeText": "GRADE(S): 12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Pre-Calculus",
       "subtitle": "Part 2",
-      "gradeText": "GRADE(S): 12"
+      "gradeText": "GRADE(S): 12",
+      "subject": "Math",
+      "sortId": "012.017.012.001"
     },
     {
       "type": "header",

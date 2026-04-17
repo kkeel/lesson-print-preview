@@ -2,13 +2,25 @@
   "id": "recWSRUTH4rJpHVYC",
   "title": "Sol-fa",
   "lessonSetName": "Sol-fa: Fast Track",
+  "subject": "Music",
+  "sortId": "014.007.005.000",
+  "gradeText": "GRADE(S): 5-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Sol-fa",
       "subtitle": "Fast Track",
-      "gradeText": "GRADE(S): 5-12"
+      "gradeText": "GRADE(S): 5-12",
+      "subject": "Music",
+      "sortId": "014.007.005.000"
     },
     {
       "type": "header",

@@ -2,13 +2,31 @@
   "id": "reczOsS88Xkju3sUS",
   "title": "Bible",
   "lessonSetName": "Bible: Grade 1",
+  "subject": "Bible",
+  "sortId": "004.001.001.000",
+  "gradeText": "GRADE(S): 1",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recCjt5GENqEs1b6a",
+    "recrd4Jjfp6KhJasl"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Bible Stories",
+    "Church History: Grades 1-3"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Bible",
       "subtitle": "Bible Stories\nChurch History",
-      "gradeText": "GRADE(S): 1"
+      "gradeText": "GRADE(S): 1",
+      "subject": "Bible",
+      "sortId": "004.001.001.000"
     },
     {
       "type": "header",

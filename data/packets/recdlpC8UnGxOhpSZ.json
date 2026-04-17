@@ -2,13 +2,49 @@
   "id": "recdlpC8UnGxOhpSZ",
   "title": "Community Read Alouds",
   "lessonSetName": "Community Read Alouds: Grades 1-12",
+  "subject": "Literature",
+  "sortId": "011.001.001.011",
+  "gradeText": "GRADE(S): 1-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recSrFAD9GNrlguZw",
+    "recbCPEkIPg1eOx9j",
+    "recGXxGxyBDadjmRF",
+    "recK8yvTqP3qOQR56",
+    "recZSq3P2WTOsV8lF",
+    "recJoxcXhTxtkVsai",
+    "recTGr2FHIhXq8nqX",
+    "recnPUjwJ22heDgYx",
+    "recFveiRQJWXaIwRJ",
+    "recgUPgdIguvZwUVr",
+    "recP7em1uQxqh60vX"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 4",
+    "Citizenship: Grade 5",
+    "Citizenship: Grade 6",
+    "Citizenship: Grade 12",
+    "Literature: Grade 1",
+    "Literature: Grade 2",
+    "Literature: Grade 3",
+    "Citizenship: Grade 7 (U.S.)",
+    "Citizenship: Grade 7 (Canada)",
+    "Citizenship: Grade 8 (U.S.)",
+    "Citizenship: Grade 8 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Community Read Alouds",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1-12"
+      "gradeText": "GRADE(S): 1-12",
+      "subject": "Literature",
+      "sortId": "011.001.001.011"
     },
     {
       "type": "header",

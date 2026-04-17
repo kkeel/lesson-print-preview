@@ -2,13 +2,25 @@
   "id": "rechhYXT0BvgTKnUV",
   "title": "Mathematics",
   "lessonSetName": "Mathematics: Grade 10 (Denison)",
+  "subject": "Math",
+  "sortId": "012.014.010.000",
+  "gradeText": "GRADE(S): 10",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Mathematics",
       "subtitle": "Denison",
-      "gradeText": "GRADE(S): 10"
+      "gradeText": "GRADE(S): 10",
+      "subject": "Math",
+      "sortId": "012.014.010.000"
     },
     {
       "type": "header",

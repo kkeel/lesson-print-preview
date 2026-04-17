@@ -2,13 +2,29 @@
   "id": "recfOQoYQm547LzPW",
   "title": "Dictation",
   "lessonSetName": "Dictation: Grade 7",
+  "subject": "English",
+  "sortId": "006.001.007.003",
+  "gradeText": "GRADE(S): 7",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec2I2PPQCvnRPCeY"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 7"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Dictation",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7"
+      "gradeText": "GRADE(S): 7",
+      "subject": "English",
+      "sortId": "006.001.007.003"
     },
     {
       "type": "header",

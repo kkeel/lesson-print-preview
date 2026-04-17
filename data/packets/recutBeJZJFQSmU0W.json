@@ -2,13 +2,35 @@
   "id": "recutBeJZJFQSmU0W",
   "title": "Commonplace",
   "lessonSetName": "Commonplace: Grades 9-12",
+  "subject": "English",
+  "sortId": "006.001.009.005",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec0SweCQPy5AEtOE",
+    "rec1mNFS0CpoTiiY1",
+    "recvV8ooKSmahdrY7",
+    "recEaNOz7bjz3AOJH"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 9",
+    "Language Study: Grade 10",
+    "Language Study: Grade 11",
+    "Language Study: Grade 12"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Commonplace",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "English",
+      "sortId": "006.001.009.005"
     },
     {
       "type": "header",

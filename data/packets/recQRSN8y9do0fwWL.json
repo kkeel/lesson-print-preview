@@ -2,13 +2,29 @@
   "id": "recQRSN8y9do0fwWL",
   "title": "Natural History",
   "lessonSetName": "Natural History: Grade 7",
+  "subject": "Science",
+  "sortId": "016.007.002.002",
+  "gradeText": "GRADE(S): 7",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recweO1dzNgjFJDZl"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 7"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Natural History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7"
+      "gradeText": "GRADE(S): 7",
+      "subject": "Science",
+      "sortId": "016.007.002.002"
     },
     {
       "type": "header",

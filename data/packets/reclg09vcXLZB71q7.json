@@ -2,13 +2,31 @@
   "id": "reclg09vcXLZB71q7",
   "title": "General Lit.",
   "lessonSetName": "General Lit.: Grades 9-10",
+  "subject": "Literature",
+  "sortId": "011.001.009.005",
+  "gradeText": "GRADE(S): 9-10",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec50NnljmOQNH0NR",
+    "recJLmDpg0XImtP6S"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Literature: Grade 9",
+    "Literature: Grade 10"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "General Lit.",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9-10"
+      "gradeText": "GRADE(S): 9-10",
+      "subject": "Literature",
+      "sortId": "011.001.009.005"
     },
     {
       "type": "header",

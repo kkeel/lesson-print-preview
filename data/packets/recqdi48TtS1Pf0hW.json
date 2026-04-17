@@ -2,13 +2,25 @@
   "id": "recqdi48TtS1Pf0hW",
   "title": "Upper French",
   "lessonSetName": "Upper French: Level 3",
+  "subject": "Modern Language",
+  "sortId": "013.001.009.000",
+  "gradeText": "GRADE(S): 9+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Upper French",
       "subtitle": "Level 3",
-      "gradeText": "GRADE(S): 9+"
+      "gradeText": "GRADE(S): 9+",
+      "subject": "Modern Language",
+      "sortId": "013.001.009.000"
     },
     {
       "type": "header",

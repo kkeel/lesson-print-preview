@@ -2,13 +2,25 @@
   "id": "rec6h4nkUT7DoBh5s",
   "title": "Food Science Labs",
   "lessonSetName": "Food Science Labs",
+  "subject": "Alt. Science Options",
+  "sortId": "017.009.001.002",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Food Science Labs",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "Alt. Science Options",
+      "sortId": "017.009.001.002"
     },
     {
       "type": "header",

@@ -2,13 +2,25 @@
   "id": "recc3zgKdHr5OX9Iy",
   "title": "Art",
   "lessonSetName": "Art: Level 3",
+  "subject": "Art",
+  "sortId": "003.002.003.000",
+  "gradeText": "GRADE(S): 3+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Art",
       "subtitle": "Level 3",
-      "gradeText": "GRADE(S): 3+"
+      "gradeText": "GRADE(S): 3+",
+      "subject": "Art",
+      "sortId": "003.002.003.000"
     },
     {
       "type": "header",

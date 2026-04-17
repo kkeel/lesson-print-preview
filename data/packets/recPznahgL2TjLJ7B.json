@@ -2,13 +2,35 @@
   "id": "recPznahgL2TjLJ7B",
   "title": "Science",
   "lessonSetName": "Science: Botany",
+  "subject": "Alt. Science Options",
+  "sortId": "017.009.003.000",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recH7dK88YkNRwvPD",
+    "recWt7LLnlqUsyMLX",
+    "recJSVNFOi2NGTd6p",
+    "reconp5xoi7sj5Kov"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Nature Notebook: Grades 9-12",
+    "Nature Walks & Scouting: Grades 9-12",
+    "Botany Lessons",
+    "Botany Labs"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Science",
       "subtitle": "Nature Notebook\nNature Walks & Scouting\nBotany Lessons\nBotany Labs",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "Alt. Science Options",
+      "sortId": "017.009.003.000"
     },
     {
       "type": "header",

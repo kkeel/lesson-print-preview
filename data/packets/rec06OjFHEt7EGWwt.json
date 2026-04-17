@@ -2,13 +2,35 @@
   "id": "rec06OjFHEt7EGWwt",
   "title": "Science",
   "lessonSetName": "Science: Geology",
+  "subject": "Alt. Science Options",
+  "sortId": "017.011.005.000",
+  "gradeText": "GRADE(S): 11-12",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recH7dK88YkNRwvPD",
+    "recWt7LLnlqUsyMLX",
+    "recb8iEt7Ir3xrsKe",
+    "recSP6mw5A7XvgxKN"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Nature Notebook: Grades 9-12",
+    "Nature Walks & Scouting: Grades 9-12",
+    "Geology Lessons",
+    "Geology Labs"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Science",
       "subtitle": "Nature Notebook\nNature Walks & Scouting\nGeology Lessons\nGeology Labs",
-      "gradeText": "GRADE(S): 11-12"
+      "gradeText": "GRADE(S): 11-12",
+      "subject": "Alt. Science Options",
+      "sortId": "017.011.005.000"
     },
     {
       "type": "header",

@@ -2,13 +2,29 @@
   "id": "recIjTaWJviBZTIrd",
   "title": "Canadian Gov./ Economics",
   "lessonSetName": "Canadian Gov./ Economics: Grade 8",
+  "subject": "Citizenship",
+  "sortId": "005.008.002.002",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recP7em1uQxqh60vX"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 8 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Canadian Gov./ Economics",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Citizenship",
+      "sortId": "005.008.002.002"
     },
     {
       "type": "header",

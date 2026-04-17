@@ -2,13 +2,29 @@
   "id": "recRqsq1kc32LSK58",
   "title": "Poetry Study",
   "lessonSetName": "Poetry Study: Grade 8",
+  "subject": "Literature",
+  "sortId": "011.004.008.009",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recFJigBkdn4QOQu8"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Poetry: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Poetry Study",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Literature",
+      "sortId": "011.004.008.009"
     },
     {
       "type": "header",

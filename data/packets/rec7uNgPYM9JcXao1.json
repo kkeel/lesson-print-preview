@@ -2,13 +2,25 @@
   "id": "rec7uNgPYM9JcXao1",
   "title": "History",
   "lessonSetName": "History: Grade 1 (U.S.)",
+  "subject": "History",
+  "sortId": "008.001.001.000",
+  "gradeText": "GRADE(S): 1",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "History",
       "subtitle": "U.S.",
-      "gradeText": "GRADE(S): 1"
+      "gradeText": "GRADE(S): 1",
+      "subject": "History",
+      "sortId": "008.001.001.000"
     },
     {
       "type": "header",

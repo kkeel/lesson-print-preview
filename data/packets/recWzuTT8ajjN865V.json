@@ -2,13 +2,29 @@
   "id": "recWzuTT8ajjN865V",
   "title": "Penmanship & Copywork",
   "lessonSetName": "Penmanship & Copywork: Grade 1",
+  "subject": "English",
+  "sortId": "006.001.001.005",
+  "gradeText": "GRADE(S): 1",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recrqyaeyPU1vT58r"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 1"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Penmanship & Copywork",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1"
+      "gradeText": "GRADE(S): 1",
+      "subject": "English",
+      "sortId": "006.001.001.005"
     },
     {
       "type": "header",

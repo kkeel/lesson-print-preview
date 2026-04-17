@@ -2,13 +2,37 @@
   "id": "recbxa7tAimxQiAER",
   "title": "Music",
   "lessonSetName": "Music: Intro",
+  "subject": "Music",
+  "sortId": "014.001.001.000",
+  "gradeText": "GRADE(S): 1+",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recjB0PioIpL4XnWr",
+    "reczI18s7yrqe1poa",
+    "recH2WghU2kFg2Bsh",
+    "recH6yJs8s683UEjb",
+    "recuH8Gbg2Zsk3YfH"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Music Appreciation",
+    "Hymns & Spirituals",
+    "Folk Songs",
+    "Sol-fa: Musical Games",
+    "Afternoon Listening"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Music",
       "subtitle": "Music Appreciation\nHymns & Spirituals\nFolk Songs\nSol-fa\nAfternoon Listening",
-      "gradeText": "GRADE(S): 1+"
+      "gradeText": "GRADE(S): 1+",
+      "subject": "Music",
+      "sortId": "014.001.001.000"
     },
     {
       "type": "header",

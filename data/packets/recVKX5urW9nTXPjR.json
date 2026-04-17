@@ -2,13 +2,29 @@
   "id": "recVKX5urW9nTXPjR",
   "title": "Canadian History",
   "lessonSetName": "Canadian History: Grades 11-12",
+  "subject": "History",
+  "sortId": "008.011.002.001",
+  "gradeText": "GRADE(S): 11-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "reciT2Mn4uBl6h6vJ"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "History: Grades 11-12 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Canadian History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 11-12"
+      "gradeText": "GRADE(S): 11-12",
+      "subject": "History",
+      "sortId": "008.011.002.001"
     },
     {
       "type": "header",

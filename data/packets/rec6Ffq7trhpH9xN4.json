@@ -2,13 +2,29 @@
   "id": "rec6Ffq7trhpH9xN4",
   "title": "Historic Dancing",
   "lessonSetName": "Historic Dancing",
+  "subject": "Physical Education",
+  "sortId": "015.007.003.004",
+  "gradeText": "GRADE(S): 7-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recNsbkPwHlAIsSpE"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "PE: Grades 7-12"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Historic Dancing",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7-12"
+      "gradeText": "GRADE(S): 7-12",
+      "subject": "Physical Education",
+      "sortId": "015.007.003.004"
     },
     {
       "type": "header",

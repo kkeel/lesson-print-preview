@@ -2,13 +2,29 @@
   "id": "rectAFVrB2YrnSWYZ",
   "title": "Composition",
   "lessonSetName": "Composition: Grade 10",
+  "subject": "English",
+  "sortId": "006.001.010.004",
+  "gradeText": "GRADE(S): 10",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec1mNFS0CpoTiiY1"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 10"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Composition",
       "subtitle": "",
-      "gradeText": "GRADE(S): 10"
+      "gradeText": "GRADE(S): 10",
+      "subject": "English",
+      "sortId": "006.001.010.004"
     },
     {
       "type": "header",

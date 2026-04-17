@@ -2,13 +2,35 @@
   "id": "rec84N8PnmvlbHHXv",
   "title": "Literature",
   "lessonSetName": "Literature: Grade 11",
+  "subject": "Literature",
+  "sortId": "011.001.011.000",
+  "gradeText": "GRADE(S): 11",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recGFl0h4wkHie4OJ",
+    "recWjMKdkAcXHiShJ",
+    "recMqEX99md5ZCmFg",
+    "rec6j5XLnrMBoubth"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Plays: Grades 9-12",
+    "Poetry Reading: Grades 9-12",
+    "General Lit.: Grades 11-12",
+    "History of Lit: Grades 9-12"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Literature",
       "subtitle": "Plays\nPoetry Reading\nGeneral Lit.\nHistory of Lit\nPoetry Study",
-      "gradeText": "GRADE(S): 11"
+      "gradeText": "GRADE(S): 11",
+      "subject": "Literature",
+      "sortId": "011.001.011.000"
     },
     {
       "type": "header",

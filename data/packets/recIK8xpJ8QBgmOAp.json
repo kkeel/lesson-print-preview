@@ -2,13 +2,25 @@
   "id": "recIK8xpJ8QBgmOAp",
   "title": "Geometry",
   "lessonSetName": "Geometry: Part 2",
+  "subject": "Math",
+  "sortId": "012.013.010.003",
+  "gradeText": "GRADE(S): 10",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geometry",
       "subtitle": "Part 2",
-      "gradeText": "GRADE(S): 10"
+      "gradeText": "GRADE(S): 10",
+      "subject": "Math",
+      "sortId": "012.013.010.003"
     },
     {
       "type": "header",

@@ -2,13 +2,29 @@
   "id": "recBqh6xLLb0wgZjl",
   "title": "General Science",
   "lessonSetName": "General Science: Grade 8",
+  "subject": "Science",
+  "sortId": "016.008.002.001",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recGKaAb6Nzs0xy6V"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "General Science",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Science",
+      "sortId": "016.008.002.001"
     },
     {
       "type": "header",

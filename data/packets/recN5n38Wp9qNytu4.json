@@ -2,13 +2,29 @@
   "id": "recN5n38Wp9qNytu4",
   "title": "Labs",
   "lessonSetName": "Labs: Grade 7",
+  "subject": "Science",
+  "sortId": "016.007.002.003",
+  "gradeText": "GRADE(S): 7",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recweO1dzNgjFJDZl"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 7"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Labs",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7"
+      "gradeText": "GRADE(S): 7",
+      "subject": "Science",
+      "sortId": "016.007.002.003"
     },
     {
       "type": "header",

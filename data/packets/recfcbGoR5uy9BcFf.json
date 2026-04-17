@@ -2,13 +2,31 @@
   "id": "recfcbGoR5uy9BcFf",
   "title": "Canadian History",
   "lessonSetName": "Canadian History: Grades 2-4",
+  "subject": "History",
+  "sortId": "008.002.002.001",
+  "gradeText": "GRADE(S): 2-4",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recQcsYwjuZMuzVvp",
+    "recqYUG7bTFDN17sM"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "History: Grades 2-3 (Canada)",
+    "History: Grade 4 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Canadian History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 2-4"
+      "gradeText": "GRADE(S): 2-4",
+      "subject": "History",
+      "sortId": "008.002.002.001"
     },
     {
       "type": "header",

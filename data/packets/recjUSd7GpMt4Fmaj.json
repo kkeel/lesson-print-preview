@@ -2,13 +2,25 @@
   "id": "recjUSd7GpMt4Fmaj",
   "title": "Art",
   "lessonSetName": "Art: Level 6",
+  "subject": "Art",
+  "sortId": "003.002.006.000",
+  "gradeText": "GRADE(S): 6+",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Art",
       "subtitle": "Level 6",
-      "gradeText": "GRADE(S): 6+"
+      "gradeText": "GRADE(S): 6+",
+      "subject": "Art",
+      "sortId": "003.002.006.000"
     },
     {
       "type": "header",

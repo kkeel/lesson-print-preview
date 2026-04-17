@@ -2,13 +2,29 @@
   "id": "recOy5TZnUA7x2ynP",
   "title": "General Science",
   "lessonSetName": "General Science: Grade 1",
+  "subject": "Science",
+  "sortId": "016.001.002.001",
+  "gradeText": "GRADE(S): 1",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "reciqYmKalZt0uIgP"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 1"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "General Science",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1"
+      "gradeText": "GRADE(S): 1",
+      "subject": "Science",
+      "sortId": "016.001.002.001"
     },
     {
       "type": "header",

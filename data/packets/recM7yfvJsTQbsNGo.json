@@ -2,13 +2,35 @@
   "id": "recM7yfvJsTQbsNGo",
   "title": "Language Study",
   "lessonSetName": "Language Study: Grade 5",
+  "subject": "English",
+  "sortId": "006.001.005.000",
+  "gradeText": "GRADE(S): 5",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "rec6NOzMbRYBXHNAq",
+    "recX7bwaoYdcWOzbK",
+    "rectmIbzBgLlEICap",
+    "recXRYEpB9oz0Qhne"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "Grammar: Grade 5",
+    "Dictation: Grade 5",
+    "Penmanship & Copywork: Grade 5",
+    "Written Narration: Grade 5"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Language Study",
       "subtitle": "Grammar\nDictation\nPenmanship & Copywork\nWritten Narration",
-      "gradeText": "GRADE(S): 5"
+      "gradeText": "GRADE(S): 5",
+      "subject": "English",
+      "sortId": "006.001.005.000"
     },
     {
       "type": "header",

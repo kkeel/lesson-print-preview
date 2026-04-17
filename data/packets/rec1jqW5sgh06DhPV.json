@@ -2,13 +2,29 @@
   "id": "rec1jqW5sgh06DhPV",
   "title": "Nature Notebook",
   "lessonSetName": "Nature Notebook: Grade 8",
+  "subject": "Science",
+  "sortId": "016.008.002.004",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recGKaAb6Nzs0xy6V"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Nature Notebook",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Science",
+      "sortId": "016.008.002.004"
     },
     {
       "type": "header",

@@ -2,13 +2,43 @@
   "id": "rec01dVZHduPzl704",
   "title": "Nature Walks & Scouting",
   "lessonSetName": "Nature Walks & Scouting: Grades 1-8",
+  "subject": "Science",
+  "sortId": "016.001.002.005",
+  "gradeText": "GRADE(S): 1-8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "reciqYmKalZt0uIgP",
+    "rec4PSJe5DvdQBNkI",
+    "rec7fueb0YSSxfQPe",
+    "recL7jljihq9fktaT",
+    "reczHSLxyHMpisZMp",
+    "recm8QafJuO9s9fKP",
+    "recweO1dzNgjFJDZl",
+    "recGKaAb6Nzs0xy6V"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Grade 1",
+    "Science: Grade 2",
+    "Science: Grade 3",
+    "Science: Grade 4",
+    "Science: Grade 5",
+    "Science: Grade 6",
+    "Science: Grade 7",
+    "Science: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Nature Walks & Scouting",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1-8"
+      "gradeText": "GRADE(S): 1-8",
+      "subject": "Science",
+      "sortId": "016.001.002.005"
     },
     {
       "type": "header",

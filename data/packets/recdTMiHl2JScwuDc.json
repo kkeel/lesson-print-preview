@@ -2,13 +2,29 @@
   "id": "recdTMiHl2JScwuDc",
   "title": "World History",
   "lessonSetName": "World History: Grade 9",
+  "subject": "History",
+  "sortId": "008.009.001.003",
+  "gradeText": "GRADE(S): 9",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recIVGK6O1dXsQXub"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "History: Grade 9 (Canada)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "World History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9"
+      "gradeText": "GRADE(S): 9",
+      "subject": "History",
+      "sortId": "008.009.001.003"
     },
     {
       "type": "header",

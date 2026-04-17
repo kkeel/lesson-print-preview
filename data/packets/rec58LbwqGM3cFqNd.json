@@ -2,13 +2,25 @@
   "id": "rec58LbwqGM3cFqNd",
   "title": "Geography",
   "lessonSetName": "Geography: Grade 3 (Canada)",
+  "subject": "Geography",
+  "sortId": "007.003.002.000",
+  "gradeText": "GRADE(S): 3",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geography",
       "subtitle": "Canada",
-      "gradeText": "GRADE(S): 3"
+      "gradeText": "GRADE(S): 3",
+      "subject": "Geography",
+      "sortId": "007.003.002.000"
     },
     {
       "type": "header",

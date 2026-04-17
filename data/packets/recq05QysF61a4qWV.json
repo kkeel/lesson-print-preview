@@ -2,13 +2,25 @@
   "id": "recq05QysF61a4qWV",
   "title": "Art",
   "lessonSetName": "Art: Level 8",
+  "subject": "Art",
+  "sortId": "003.002.008.000",
+  "gradeText": "GRADE(S): 8-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Art",
       "subtitle": "Level 8",
-      "gradeText": "GRADE(S): 8-12"
+      "gradeText": "GRADE(S): 8-12",
+      "subject": "Art",
+      "sortId": "003.002.008.000"
     },
     {
       "type": "header",

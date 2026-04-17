@@ -2,13 +2,31 @@
   "id": "rec0YPXUt8khcgULi",
   "title": "U.S. History",
   "lessonSetName": "U.S. History: Grades 4-6",
+  "subject": "History",
+  "sortId": "008.004.001.001",
+  "gradeText": "GRADE(S): 4-6",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recNPQ4tF6eFCOXG8",
+    "recsOZm3eEE7p9FbO"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "History: Grade 4 (U.S.)",
+    "History: Grades 5-6 (U.S.)"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "U.S. History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 4-6"
+      "gradeText": "GRADE(S): 4-6",
+      "subject": "History",
+      "sortId": "008.004.001.001"
     },
     {
       "type": "header",

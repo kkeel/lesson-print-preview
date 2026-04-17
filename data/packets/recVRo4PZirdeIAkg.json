@@ -2,13 +2,31 @@
   "id": "recVRo4PZirdeIAkg",
   "title": "Literature",
   "lessonSetName": "Literature: Grades 7-8",
+  "subject": "Literature",
+  "sortId": "011.001.007.000",
+  "gradeText": "GRADE(S): 7-8",
+  "rowType": "course",
+  "hasTopics": true,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [
+    "recMA9I0f0PMB4dt4",
+    "recrSWSoC0yNwPHrT"
+  ],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [
+    "General Lit: Grades 7-8",
+    "Lit./Mythology: Grades 7-8"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Literature",
       "subtitle": "General Lit\nLit./Mythology",
-      "gradeText": "GRADE(S): 7-8"
+      "gradeText": "GRADE(S): 7-8",
+      "subject": "Literature",
+      "sortId": "011.001.007.000"
     },
     {
       "type": "header",

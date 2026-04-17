@@ -2,13 +2,25 @@
   "id": "rec5jsVrXXRewf4ZT",
   "title": "Mathematics",
   "lessonSetName": "Mathematics: Grade 12",
+  "subject": "Math",
+  "sortId": "012.017.012.000",
+  "gradeText": "GRADE(S): 12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Mathematics",
       "subtitle": "",
-      "gradeText": "GRADE(S): 12"
+      "gradeText": "GRADE(S): 12",
+      "subject": "Math",
+      "sortId": "012.017.012.000"
     },
     {
       "type": "header",

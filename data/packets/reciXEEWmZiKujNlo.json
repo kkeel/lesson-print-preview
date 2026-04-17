@@ -2,13 +2,29 @@
   "id": "reciXEEWmZiKujNlo",
   "title": "Grammar/Comp",
   "lessonSetName": "Grammar/Comp: Grade 8",
+  "subject": "English",
+  "sortId": "006.001.008.002",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recCUCt1tgYcAgIvQ"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Language Study: Grade 8"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Grammar/Comp",
       "subtitle": "",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "English",
+      "sortId": "006.001.008.002"
     },
     {
       "type": "header",

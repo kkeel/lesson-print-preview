@@ -2,13 +2,39 @@
   "id": "recH2WghU2kFg2Bsh",
   "title": "Folk Songs",
   "lessonSetName": "Folk Songs",
+  "subject": "Music",
+  "sortId": "014.001.001.004",
+  "gradeText": "GRADE(S): 1-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recbxa7tAimxQiAER",
+    "recfWnzstisEbMksF",
+    "reccyxQYQomrewPmO",
+    "recRWEigAnbAHGgE5",
+    "recEFs6yhDC09H9l7",
+    "recuimu5MkPGtT9zZ"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Music: Intro",
+    "Music: Level 1",
+    "Music: Level 2",
+    "Music: Level 3",
+    "Music: Level 4",
+    "Music: Level 5"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Folk Songs",
       "subtitle": "",
-      "gradeText": "GRADE(S): 1-12"
+      "gradeText": "GRADE(S): 1-12",
+      "subject": "Music",
+      "sortId": "014.001.001.004"
     },
     {
       "type": "header",

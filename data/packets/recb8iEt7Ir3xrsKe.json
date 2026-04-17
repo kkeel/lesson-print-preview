@@ -2,13 +2,29 @@
   "id": "recb8iEt7Ir3xrsKe",
   "title": "Geology Lessons",
   "lessonSetName": "Geology Lessons",
+  "subject": "Alt. Science Options",
+  "sortId": "017.011.005.001",
+  "gradeText": "GRADE(S): 11-12",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec06OjFHEt7EGWwt"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Science: Geology"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geology Lessons",
       "subtitle": "",
-      "gradeText": "GRADE(S): 11-12"
+      "gradeText": "GRADE(S): 11-12",
+      "subject": "Alt. Science Options",
+      "sortId": "017.011.005.001"
     },
     {
       "type": "header",

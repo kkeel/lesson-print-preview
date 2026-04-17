@@ -2,13 +2,29 @@
   "id": "recnGtrrxLZQpoc2I",
   "title": "Poetry Reading",
   "lessonSetName": "Poetry Reading: Grade 7",
+  "subject": "Literature",
+  "sortId": "011.004.007.010",
+  "gradeText": "GRADE(S): 7",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recPDJqhlE9ODt6lC"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Poetry: Grade 7"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Poetry Reading",
       "subtitle": "",
-      "gradeText": "GRADE(S): 7"
+      "gradeText": "GRADE(S): 7",
+      "subject": "Literature",
+      "sortId": "011.004.007.010"
     },
     {
       "type": "header",

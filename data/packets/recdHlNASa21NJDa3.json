@@ -2,13 +2,29 @@
   "id": "recdHlNASa21NJDa3",
   "title": "Bible History",
   "lessonSetName": "Bible History: Grade 9",
+  "subject": "Bible",
+  "sortId": "004.009.001.006",
+  "gradeText": "GRADE(S): 9",
+  "rowType": "topic",
+  "hasTopics": false,
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rechXdCXhNqQQLmle"
+  ],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [
+    "Bible: Grade 9"
+  ],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Bible History",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9"
+      "gradeText": "GRADE(S): 9",
+      "subject": "Bible",
+      "sortId": "004.009.001.006"
     },
     {
       "type": "header",

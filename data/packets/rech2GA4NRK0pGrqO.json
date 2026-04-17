@@ -2,13 +2,25 @@
   "id": "rech2GA4NRK0pGrqO",
   "title": "Technology",
   "lessonSetName": "Technology",
+  "subject": "Life Skills",
+  "sortId": "010.000.009.000",
+  "gradeText": "GRADE(S): 9-12",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Technology",
       "subtitle": "",
-      "gradeText": "GRADE(S): 9-12"
+      "gradeText": "GRADE(S): 9-12",
+      "subject": "Life Skills",
+      "sortId": "010.000.009.000"
     },
     {
       "type": "header",

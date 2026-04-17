@@ -2,13 +2,25 @@
   "id": "recJnS9WLFjeyObeC",
   "title": "Geography",
   "lessonSetName": "Geography: Grade 8 (U.S.)",
+  "subject": "Geography",
+  "sortId": "007.008.001.000",
+  "gradeText": "GRADE(S): 8",
+  "rowType": "course",
+  "hasTopics": false,
+  "isStandaloneCourse": true,
+  "courseConnectionIds": [],
+  "topicConnectionIds": [],
+  "courseConnectionNames": [],
+  "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Geography",
       "subtitle": "U.S.",
-      "gradeText": "GRADE(S): 8"
+      "gradeText": "GRADE(S): 8",
+      "subject": "Geography",
+      "sortId": "007.008.001.000"
     },
     {
       "type": "header",
