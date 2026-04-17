@@ -1,0 +1,24 @@
+{
+  "id": "rec1OB6KqxZdTWMBz",
+  "title": "Science",
+  "lessonSetName": "Science: Chemistry",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Chemistry Lessons\nChemistry Labs\nNature Notebook\nNature Walks & Scouting",
+      "gradeText": "GRADE(S): 9-12+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

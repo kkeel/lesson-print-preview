@@ -1,0 +1,24 @@
+{
+  "id": "recEEarcmNuLNtGHh",
+  "title": "Bible",
+  "lessonSetName": "Bible: Grades 7-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible",
+      "subtitle": "Old Testament\nNew Testament\nChurch History\nSpiritual Formation",
+      "gradeText": "GRADE(S): 7-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

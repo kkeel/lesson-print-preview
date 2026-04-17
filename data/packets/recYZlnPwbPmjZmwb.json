@@ -1,0 +1,24 @@
+{
+  "id": "recYZlnPwbPmjZmwb",
+  "title": "Latin 1",
+  "lessonSetName": "Latin 1 (Video Course)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Latin 1",
+      "subtitle": "Video Course",
+      "gradeText": "GRADE(S): 7+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

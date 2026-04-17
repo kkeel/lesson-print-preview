@@ -1,0 +1,24 @@
+{
+  "id": "rectjnvPS91Cr3eWi",
+  "title": "Free Play/ Circuits",
+  "lessonSetName": "Free Play/ Circuits",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Free Play/ Circuits",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recQ67XNIH37fU4za",
+  "title": "Math Lessons",
+  "lessonSetName": "Math Lessons: Grade 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Math Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recLvvAD3qwZTJey2",
+  "title": "World History",
+  "lessonSetName": "World History: Grades 10-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "World History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

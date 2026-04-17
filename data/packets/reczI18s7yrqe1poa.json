@@ -1,0 +1,24 @@
+{
+  "id": "reczI18s7yrqe1poa",
+  "title": "Hymns & Spirituals",
+  "lessonSetName": "Hymns & Spirituals",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Hymns & Spirituals",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

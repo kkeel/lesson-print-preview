@@ -1,0 +1,24 @@
+{
+  "id": "rec7YwUnwd3brNELW",
+  "title": "Church History",
+  "lessonSetName": "Church History: Grades 10-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Church History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rec6r1YSTtDI9TXFv",
+  "title": "Keyboarding",
+  "lessonSetName": "Keyboarding",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Keyboarding",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

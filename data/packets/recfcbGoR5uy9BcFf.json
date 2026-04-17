@@ -1,0 +1,24 @@
+{
+  "id": "recfcbGoR5uy9BcFf",
+  "title": "Canadian History",
+  "lessonSetName": "Canadian History: Grades 2-4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Canadian History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 2-4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

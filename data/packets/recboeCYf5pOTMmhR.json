@@ -1,0 +1,24 @@
+{
+  "id": "recboeCYf5pOTMmhR",
+  "title": "Natural History",
+  "lessonSetName": "Natural History: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Natural History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recKDeGxPlNFhF9Vr",
+  "title": "Introduction to Engineering Labs",
+  "lessonSetName": "Introduction to Engineering Labs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Introduction to Engineering Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

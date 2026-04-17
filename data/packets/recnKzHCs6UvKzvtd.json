@@ -1,0 +1,24 @@
+{
+  "id": "recnKzHCs6UvKzvtd",
+  "title": "Shakespeare",
+  "lessonSetName": "Shakespeare: Grades 5-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Shakespeare",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

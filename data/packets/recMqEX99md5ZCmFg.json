@@ -1,0 +1,24 @@
+{
+  "id": "recMqEX99md5ZCmFg",
+  "title": "General Lit.",
+  "lessonSetName": "General Lit.: Grades 11-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "General Lit.",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

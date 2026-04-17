@@ -1,0 +1,24 @@
+{
+  "id": "recWSRUTH4rJpHVYC",
+  "title": "Sol-fa",
+  "lessonSetName": "Sol-fa: Fast Track",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sol-fa",
+      "subtitle": "Fast Track",
+      "gradeText": "GRADE(S): 5-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

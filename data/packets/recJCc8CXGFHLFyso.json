@@ -1,0 +1,24 @@
+{
+  "id": "recJCc8CXGFHLFyso",
+  "title": "Jump Rope",
+  "lessonSetName": "Jump Rope",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Jump Rope",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

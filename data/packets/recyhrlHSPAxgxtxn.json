@@ -1,0 +1,24 @@
+{
+  "id": "recyhrlHSPAxgxtxn",
+  "title": "History",
+  "lessonSetName": "History: Grades 7-8 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "World History\nAncient History\nCanadian History",
+      "gradeText": "GRADE(S): 7-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

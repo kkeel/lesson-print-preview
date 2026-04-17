@@ -1,0 +1,24 @@
+{
+  "id": "recsvu3I7df1VWClJ",
+  "title": "Nature Notebook",
+  "lessonSetName": "Nature Notebook: Grade 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Notebook",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

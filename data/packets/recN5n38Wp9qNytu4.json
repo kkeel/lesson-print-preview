@@ -1,0 +1,24 @@
+{
+  "id": "recN5n38Wp9qNytu4",
+  "title": "Labs",
+  "lessonSetName": "Labs: Grade 7",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recL7jljihq9fktaT",
+  "title": "Science",
+  "lessonSetName": "Science: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Walks & Scouting\nGeneral Science\nLabs\nNatural History\nNature Notebook",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

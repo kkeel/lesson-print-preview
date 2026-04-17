@@ -1,0 +1,24 @@
+{
+  "id": "recmcMLVf0UYM6aBz",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 7 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

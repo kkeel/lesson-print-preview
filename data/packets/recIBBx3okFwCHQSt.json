@@ -1,0 +1,24 @@
+{
+  "id": "recIBBx3okFwCHQSt",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 11 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recySQ1y12NNSPQww",
+  "title": "Bible",
+  "lessonSetName": "Bible: Grades 4-6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible",
+      "subtitle": "Old Testament\nNew Testament\nChurch History",
+      "gradeText": "GRADE(S): 4-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

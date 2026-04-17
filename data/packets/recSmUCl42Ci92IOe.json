@@ -1,0 +1,24 @@
+{
+  "id": "recSmUCl42Ci92IOe",
+  "title": "Canadian History",
+  "lessonSetName": "Canadian History: Grades 9-10",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Canadian History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-10"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

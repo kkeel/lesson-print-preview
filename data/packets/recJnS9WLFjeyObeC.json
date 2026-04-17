@@ -1,0 +1,24 @@
+{
+  "id": "recJnS9WLFjeyObeC",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 8 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rechldKYJ1ONHghSw",
+  "title": "Playground Songs & Rhymes",
+  "lessonSetName": "Playground Songs & Rhymes",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Playground Songs & Rhymes",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

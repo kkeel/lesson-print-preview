@@ -1,0 +1,24 @@
+{
+  "id": "recnMjfpYclu3qDVG",
+  "title": "Pre-Algebra",
+  "lessonSetName": "Pre-Algebra",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Pre-Algebra",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

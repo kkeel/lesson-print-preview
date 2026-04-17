@@ -1,0 +1,24 @@
+{
+  "id": "recHJenMoQE2N0d4B",
+  "title": "Math Lessons",
+  "lessonSetName": "Math Lessons: Grade 1",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Math Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

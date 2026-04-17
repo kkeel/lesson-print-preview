@@ -1,0 +1,24 @@
+{
+  "id": "recblZBBJT2l8WO8y",
+  "title": "Literature",
+  "lessonSetName": "Literature: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Literature",
+      "subtitle": "General Lit.\nMythology/Hist. Fiction",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

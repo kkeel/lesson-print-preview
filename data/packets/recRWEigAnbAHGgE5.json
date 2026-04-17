@@ -1,0 +1,24 @@
+{
+  "id": "recRWEigAnbAHGgE5",
+  "title": "Music",
+  "lessonSetName": "Music: Level 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Music",
+      "subtitle": "Hymns & Spirituals\nFolk Songs\nAfternoon Listening\nComposer Study\nSol-fa",
+      "gradeText": "GRADE(S): 4+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

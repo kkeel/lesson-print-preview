@@ -1,0 +1,24 @@
+{
+  "id": "recgX5mcpoJBYy4H0",
+  "title": "Spiritual Formation",
+  "lessonSetName": "Spiritual Formation: Grade 12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Spiritual Formation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

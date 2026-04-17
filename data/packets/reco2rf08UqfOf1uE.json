@@ -1,0 +1,24 @@
+{
+  "id": "reco2rf08UqfOf1uE",
+  "title": "Science",
+  "lessonSetName": "Science: Astronomy",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nAstronomy Lessons\nAstronomy Labs",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

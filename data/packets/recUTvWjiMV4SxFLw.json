@@ -1,0 +1,24 @@
+{
+  "id": "recUTvWjiMV4SxFLw",
+  "title": "Plutarch",
+  "lessonSetName": "Plutarch: Beginner Track",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Plutarch",
+      "subtitle": "Beginner Track",
+      "gradeText": "GRADE(S): 5+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

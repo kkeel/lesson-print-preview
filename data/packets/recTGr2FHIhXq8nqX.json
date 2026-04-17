@@ -1,0 +1,24 @@
+{
+  "id": "recTGr2FHIhXq8nqX",
+  "title": "Literature",
+  "lessonSetName": "Literature: Grade 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Literature",
+      "subtitle": "Community Read Alouds\nGeneral Lit.\nLit./Mythology",
+      "gradeText": "GRADE(S): 3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

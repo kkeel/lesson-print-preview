@@ -1,0 +1,24 @@
+{
+  "id": "rec6h4nkUT7DoBh5s",
+  "title": "Food Science Labs",
+  "lessonSetName": "Food Science Labs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Food Science Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

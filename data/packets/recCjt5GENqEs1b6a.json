@@ -1,0 +1,24 @@
+{
+  "id": "recCjt5GENqEs1b6a",
+  "title": "Bible Stories",
+  "lessonSetName": "Bible Stories",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible Stories",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

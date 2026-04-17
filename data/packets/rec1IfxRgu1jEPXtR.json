@@ -1,0 +1,24 @@
+{
+  "id": "rec1IfxRgu1jEPXtR",
+  "title": "Grammar",
+  "lessonSetName": "Grammar: Grade 10",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Grammar",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

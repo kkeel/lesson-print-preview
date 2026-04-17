@@ -1,0 +1,24 @@
+{
+  "id": "recH2WghU2kFg2Bsh",
+  "title": "Folk Songs",
+  "lessonSetName": "Folk Songs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Folk Songs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

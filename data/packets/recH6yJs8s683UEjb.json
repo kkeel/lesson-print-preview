@@ -1,0 +1,24 @@
+{
+  "id": "recH6yJs8s683UEjb",
+  "title": "Sol-fa",
+  "lessonSetName": "Sol-fa: Musical Games",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sol-fa",
+      "subtitle": "Musical Games",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

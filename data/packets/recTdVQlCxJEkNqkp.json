@@ -1,0 +1,24 @@
+{
+  "id": "recTdVQlCxJEkNqkp",
+  "title": "PE",
+  "lessonSetName": "PE: Grades 1-3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "PE",
+      "subtitle": "Playground Songs & Rhymes\nJump Rope\nFolk Dancing\nFree Play",
+      "gradeText": "GRADE(S): 1-3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

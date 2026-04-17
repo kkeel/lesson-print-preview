@@ -1,0 +1,24 @@
+{
+  "id": "recMI5BjqlPqhSI34",
+  "title": "Folk Dancing",
+  "lessonSetName": "Folk Dancing",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Folk Dancing",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

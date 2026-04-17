@@ -1,0 +1,24 @@
+{
+  "id": "recSrFAD9GNrlguZw",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "First Citizen Stories\nCommunity Read Alouds",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

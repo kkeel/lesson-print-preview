@@ -1,0 +1,24 @@
+{
+  "id": "rec06OjFHEt7EGWwt",
+  "title": "Science",
+  "lessonSetName": "Science: Geology",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nGeology Lessons\nGeology Labs",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

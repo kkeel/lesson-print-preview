@@ -1,0 +1,24 @@
+{
+  "id": "reckBY6n4BStSljpd",
+  "title": "Church History",
+  "lessonSetName": "Church History: Grades 7-9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Church History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7-9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

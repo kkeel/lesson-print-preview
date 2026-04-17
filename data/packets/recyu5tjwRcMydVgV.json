@@ -1,0 +1,24 @@
+{
+  "id": "recyu5tjwRcMydVgV",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 7 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

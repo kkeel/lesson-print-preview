@@ -1,0 +1,24 @@
+{
+  "id": "recuH8Gbg2Zsk3YfH",
+  "title": "Afternoon Listening",
+  "lessonSetName": "Afternoon Listening",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Afternoon Listening",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reconp5xoi7sj5Kov",
+  "title": "Botany Labs",
+  "lessonSetName": "Botany Labs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Botany Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

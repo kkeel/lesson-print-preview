@@ -1,0 +1,24 @@
+{
+  "id": "reciiHqL05ejUFlIu",
+  "title": "New Testament",
+  "lessonSetName": "New Testament: Grade 12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "New Testament",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

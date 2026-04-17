@@ -1,0 +1,24 @@
+{
+  "id": "recrru9SjnBTtPvCB",
+  "title": "Nature Notebook",
+  "lessonSetName": "Nature Notebook: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Notebook",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

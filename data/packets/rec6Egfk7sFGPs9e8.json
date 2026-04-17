@@ -1,0 +1,24 @@
+{
+  "id": "rec6Egfk7sFGPs9e8",
+  "title": "Handicrafts",
+  "lessonSetName": "Handicrafts",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Handicrafts",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 2-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

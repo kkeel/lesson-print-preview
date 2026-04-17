@@ -1,0 +1,24 @@
+{
+  "id": "recuWVN8k8i8H6CMD",
+  "title": "New Testament",
+  "lessonSetName": "New Testament: Grades 10-11",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "New Testament",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10-11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

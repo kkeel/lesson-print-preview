@@ -1,0 +1,24 @@
+{
+  "id": "recjiTs7FGeh9FMiJ",
+  "title": "Dictation",
+  "lessonSetName": "Dictation: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Dictation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

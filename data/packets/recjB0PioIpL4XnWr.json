@@ -1,0 +1,24 @@
+{
+  "id": "recjB0PioIpL4XnWr",
+  "title": "Music Appreciation",
+  "lessonSetName": "Music Appreciation",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Music Appreciation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recrmETFmM8vfKg2P",
+  "title": "Algebra 1",
+  "lessonSetName": "Algebra 1: Part 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Algebra 1",
+      "subtitle": "Part 2",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

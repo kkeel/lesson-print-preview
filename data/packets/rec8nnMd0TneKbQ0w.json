@@ -1,0 +1,24 @@
+{
+  "id": "rec8nnMd0TneKbQ0w",
+  "title": "Introduction to Engineering Lessons",
+  "lessonSetName": "Introduction to Engineering Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Introduction to Engineering Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

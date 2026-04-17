@@ -1,0 +1,24 @@
+{
+  "id": "recUKbEtw4wcS6Wek",
+  "title": "Physics Labs",
+  "lessonSetName": "Physics Labs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Physics Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rec70iVDbPNOjYgyU",
+  "title": "Microbiology Lessons",
+  "lessonSetName": "Microbiology Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Microbiology Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

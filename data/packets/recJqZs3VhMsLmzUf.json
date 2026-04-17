@@ -1,0 +1,24 @@
+{
+  "id": "recJqZs3VhMsLmzUf",
+  "title": "Sloyd",
+  "lessonSetName": "Sloyd: Level 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sloyd",
+      "subtitle": "Level 3",
+      "gradeText": "GRADE(S): 4+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

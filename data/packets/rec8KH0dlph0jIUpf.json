@@ -1,0 +1,24 @@
+{
+  "id": "rec8KH0dlph0jIUpf",
+  "title": "Math Lessons",
+  "lessonSetName": "Math Lessons: Grade 8 (Denison)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Math Lessons",
+      "subtitle": "Denison",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

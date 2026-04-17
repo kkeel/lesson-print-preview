@@ -1,0 +1,24 @@
+{
+  "id": "rec2I2PPQCvnRPCeY",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 7",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Grammar/Comp\nDictation\nCopywork\nComposition/Written Narration",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

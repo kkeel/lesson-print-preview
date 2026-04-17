@@ -1,0 +1,24 @@
+{
+  "id": "recyny4sbSkwaNkf2",
+  "title": "American Government",
+  "lessonSetName": "American Government: Grade 7",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "American Government",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

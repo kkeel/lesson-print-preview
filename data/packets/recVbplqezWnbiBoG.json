@@ -1,0 +1,24 @@
+{
+  "id": "recVbplqezWnbiBoG",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 2 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recuimu5MkPGtT9zZ",
+  "title": "Music",
+  "lessonSetName": "Music: Level 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Music",
+      "subtitle": "Hymns & Spirituals\nFolk Songs\nAfternoon Listening\nComposer Study\nSol-fa",
+      "gradeText": "GRADE(S): 6-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

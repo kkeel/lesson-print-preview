@@ -1,0 +1,24 @@
+{
+  "id": "recK8yvTqP3qOQR56",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Current Events\nEcon/ Civics\nEthics\nCommunity Read Alouds",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

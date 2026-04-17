@@ -1,0 +1,24 @@
+{
+  "id": "reci3cmbvtA1twTDz",
+  "title": "Nature Notebook",
+  "lessonSetName": "Nature Notebook: Grade 1",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Notebook",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

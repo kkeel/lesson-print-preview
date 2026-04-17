@@ -1,0 +1,24 @@
+{
+  "id": "recnbEFSJhDxV7DVb",
+  "title": "Food Science Lessons",
+  "lessonSetName": "Food Science Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Food Science Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

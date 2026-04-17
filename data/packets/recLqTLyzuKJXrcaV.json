@@ -1,0 +1,24 @@
+{
+  "id": "recLqTLyzuKJXrcaV",
+  "title": "Mathematics",
+  "lessonSetName": "Mathematics: Grade 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Mathematics",
+      "subtitle": "Math Lessons\nMath Games",
+      "gradeText": "GRADE(S): 6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rec01dVZHduPzl704",
+  "title": "Nature Walks & Scouting",
+  "lessonSetName": "Nature Walks & Scouting: Grades 1-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Walks & Scouting",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

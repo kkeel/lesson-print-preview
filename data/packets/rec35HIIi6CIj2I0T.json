@@ -1,0 +1,24 @@
+{
+  "id": "rec35HIIi6CIj2I0T",
+  "title": "Ancient History",
+  "lessonSetName": "Ancient History: Grades 7-9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Ancient History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7-9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

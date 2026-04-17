@@ -1,0 +1,24 @@
+{
+  "id": "recrqyaeyPU1vT58r",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 1",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Reading Level 1\nPenmanship & Copywork",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

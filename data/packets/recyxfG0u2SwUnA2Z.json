@@ -1,0 +1,24 @@
+{
+  "id": "recyxfG0u2SwUnA2Z",
+  "title": "Ethics",
+  "lessonSetName": "Ethics: Part 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Ethics",
+      "subtitle": "Part 2",
+      "gradeText": "GRADE(S): 8+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

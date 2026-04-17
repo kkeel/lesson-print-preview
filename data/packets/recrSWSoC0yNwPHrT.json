@@ -1,0 +1,24 @@
+{
+  "id": "recrSWSoC0yNwPHrT",
+  "title": "Lit./Mythology",
+  "lessonSetName": "Lit./Mythology: Grades 7-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Lit./Mythology",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recm8QafJuO9s9fKP",
+  "title": "Science",
+  "lessonSetName": "Science: Grade 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Walks & Scouting\nGeneral Science\nLabs\nNatural History\nNature Notebook",
+      "gradeText": "GRADE(S): 6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

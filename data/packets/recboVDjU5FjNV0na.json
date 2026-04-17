@@ -1,0 +1,24 @@
+{
+  "id": "recboVDjU5FjNV0na",
+  "title": "Science",
+  "lessonSetName": "Science: Physics",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nPhysics Lessons\nPhysics Labs",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

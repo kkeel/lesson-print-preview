@@ -1,0 +1,24 @@
+{
+  "id": "rec159tgRVDCh4xdi",
+  "title": "Poetry Study",
+  "lessonSetName": "Poetry Study: Grade 11",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Poetry Study",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

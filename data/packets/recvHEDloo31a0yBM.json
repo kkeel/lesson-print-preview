@@ -1,0 +1,24 @@
+{
+  "id": "recvHEDloo31a0yBM",
+  "title": "Plutarch/Government",
+  "lessonSetName": "Plutarch/Government: Grade 9 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Plutarch/Government",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

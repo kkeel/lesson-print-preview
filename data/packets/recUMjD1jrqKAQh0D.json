@@ -1,0 +1,24 @@
+{
+  "id": "recUMjD1jrqKAQh0D",
+  "title": "Civics/Ethics",
+  "lessonSetName": "Civics/Ethics: Grade 12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Civics/Ethics",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

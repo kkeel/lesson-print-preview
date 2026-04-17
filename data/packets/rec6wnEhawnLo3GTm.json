@@ -1,0 +1,24 @@
+{
+  "id": "rec6wnEhawnLo3GTm",
+  "title": "Old Testament",
+  "lessonSetName": "Old Testament: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Old Testament",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

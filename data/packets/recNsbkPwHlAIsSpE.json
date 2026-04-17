@@ -1,0 +1,24 @@
+{
+  "id": "recNsbkPwHlAIsSpE",
+  "title": "PE",
+  "lessonSetName": "PE: Grades 7-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "PE",
+      "subtitle": "Playground Games\nSports\nFree Play/ Circuits\nHistoric Dancing",
+      "gradeText": "GRADE(S): 7-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rechXdCXhNqQQLmle",
+  "title": "Bible",
+  "lessonSetName": "Bible: Grade 9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible",
+      "subtitle": "Old Testament\nChurch History\nNew Testament\nBible History",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

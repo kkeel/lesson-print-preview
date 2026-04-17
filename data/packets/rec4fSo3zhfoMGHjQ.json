@@ -1,0 +1,24 @@
+{
+  "id": "rec4fSo3zhfoMGHjQ",
+  "title": "Sewing",
+  "lessonSetName": "Sewing: Level 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sewing",
+      "subtitle": "Level 2",
+      "gradeText": "GRADE(S): 4-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

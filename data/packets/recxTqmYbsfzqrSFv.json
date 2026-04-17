@@ -1,0 +1,24 @@
+{
+  "id": "recxTqmYbsfzqrSFv",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 10-11",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10-11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

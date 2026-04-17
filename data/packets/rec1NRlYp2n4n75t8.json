@@ -1,0 +1,24 @@
+{
+  "id": "rec1NRlYp2n4n75t8",
+  "title": "History",
+  "lessonSetName": "History: Grade 1 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

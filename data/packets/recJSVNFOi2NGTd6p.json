@@ -1,0 +1,24 @@
+{
+  "id": "recJSVNFOi2NGTd6p",
+  "title": "Botany Lessons",
+  "lessonSetName": "Botany Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Botany Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

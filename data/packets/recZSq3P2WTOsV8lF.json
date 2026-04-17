@@ -1,0 +1,24 @@
+{
+  "id": "recZSq3P2WTOsV8lF",
+  "title": "Literature",
+  "lessonSetName": "Literature: Grade 1",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Literature",
+      "subtitle": "Fairy Tales\nTall Tales/ Fables\nCommunity Read Alouds",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

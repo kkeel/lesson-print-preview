@@ -1,0 +1,24 @@
+{
+  "id": "recGM45MgvSbLYeXW",
+  "title": "Mathematics",
+  "lessonSetName": "Mathematics: Grade 9 (Denison)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Mathematics",
+      "subtitle": "Denison",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

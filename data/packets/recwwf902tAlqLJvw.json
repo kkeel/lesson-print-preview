@@ -1,0 +1,24 @@
+{
+  "id": "recwwf902tAlqLJvw",
+  "title": "Science",
+  "lessonSetName": "Science: Biology",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nBiology Lessons\nBiology Labs",
+      "gradeText": "GRADE(S): 10-12+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

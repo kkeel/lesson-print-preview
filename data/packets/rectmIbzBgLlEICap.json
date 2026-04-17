@@ -1,0 +1,24 @@
+{
+  "id": "rectmIbzBgLlEICap",
+  "title": "Penmanship & Copywork",
+  "lessonSetName": "Penmanship & Copywork: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Penmanship & Copywork",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

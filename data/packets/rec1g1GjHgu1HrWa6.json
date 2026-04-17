@@ -1,0 +1,24 @@
+{
+  "id": "rec1g1GjHgu1HrWa6",
+  "title": "Shakespeare",
+  "lessonSetName": "Shakespeare: Beginner Track",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Shakespeare",
+      "subtitle": "Beginner Track",
+      "gradeText": "GRADE(S): 4-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

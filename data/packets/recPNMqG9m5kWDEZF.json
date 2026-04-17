@@ -1,0 +1,24 @@
+{
+  "id": "recPNMqG9m5kWDEZF",
+  "title": "Science",
+  "lessonSetName": "Science: Advanced Nature Study",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Advanced Nature Study Lessons\nAdvanced Nature Study Afternoon Work",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

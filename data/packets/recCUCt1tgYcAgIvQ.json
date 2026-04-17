@@ -1,0 +1,24 @@
+{
+  "id": "recCUCt1tgYcAgIvQ",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Grammar/Comp\nDictation\nCopywork\nComposition/Written Narration",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

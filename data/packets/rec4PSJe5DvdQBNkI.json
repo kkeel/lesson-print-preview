@@ -1,0 +1,24 @@
+{
+  "id": "rec4PSJe5DvdQBNkI",
+  "title": "Science",
+  "lessonSetName": "Science: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Walks & Scouting\nGeneral Science\nNatural History\nNature Notebook",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

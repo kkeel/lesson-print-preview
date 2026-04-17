@@ -1,0 +1,24 @@
+{
+  "id": "reck8M49neuDCcRSm",
+  "title": "Science",
+  "lessonSetName": "Science: Introduction to Engineering",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Introduction to Engineering",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

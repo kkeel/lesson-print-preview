@@ -1,0 +1,24 @@
+{
+  "id": "recbCPEkIPg1eOx9j",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Plutarch\nCurrent Events\nCommunity Read Alouds",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

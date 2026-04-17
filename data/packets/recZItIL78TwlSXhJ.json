@@ -1,0 +1,24 @@
+{
+  "id": "recZItIL78TwlSXhJ",
+  "title": "Lettering",
+  "lessonSetName": "Lettering: Level 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Lettering",
+      "subtitle": "Level 3",
+      "gradeText": "GRADE(S): 9+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

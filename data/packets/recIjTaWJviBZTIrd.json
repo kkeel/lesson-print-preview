@@ -1,0 +1,24 @@
+{
+  "id": "recIjTaWJviBZTIrd",
+  "title": "Canadian Gov./ Economics",
+  "lessonSetName": "Canadian Gov./ Economics: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Canadian Gov./ Economics",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reccC5jUZLuL3WcXg",
+  "title": "Econ/Civics",
+  "lessonSetName": "Econ/Civics: Grade 10 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Econ/Civics",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 10"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

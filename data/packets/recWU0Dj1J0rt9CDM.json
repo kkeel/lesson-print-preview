@@ -1,0 +1,24 @@
+{
+  "id": "recWU0Dj1J0rt9CDM",
+  "title": "Latin 2",
+  "lessonSetName": "Latin 2 (Independent Study)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Latin 2",
+      "subtitle": "Independent Study",
+      "gradeText": "GRADE(S): 8+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

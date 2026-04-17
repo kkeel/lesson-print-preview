@@ -1,0 +1,24 @@
+{
+  "id": "rechhYXT0BvgTKnUV",
+  "title": "Mathematics",
+  "lessonSetName": "Mathematics: Grade 10 (Denison)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Mathematics",
+      "subtitle": "Denison",
+      "gradeText": "GRADE(S): 10"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

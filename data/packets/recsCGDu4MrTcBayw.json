@@ -1,0 +1,24 @@
+{
+  "id": "recsCGDu4MrTcBayw",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 8 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

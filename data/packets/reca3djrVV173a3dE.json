@@ -1,0 +1,24 @@
+{
+  "id": "reca3djrVV173a3dE",
+  "title": "Nature Notebook",
+  "lessonSetName": "Nature Notebook: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Notebook",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

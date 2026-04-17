@@ -1,0 +1,24 @@
+{
+  "id": "recwL9S7kHOS6Kk8L",
+  "title": "Ancient History",
+  "lessonSetName": "Ancient History: Grades 10-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Ancient History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 10-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

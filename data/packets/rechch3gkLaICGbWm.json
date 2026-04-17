@@ -1,0 +1,24 @@
+{
+  "id": "rechch3gkLaICGbWm",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 2 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

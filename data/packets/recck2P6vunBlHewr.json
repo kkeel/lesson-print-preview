@@ -1,0 +1,24 @@
+{
+  "id": "recck2P6vunBlHewr",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 9 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

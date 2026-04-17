@@ -1,0 +1,24 @@
+{
+  "id": "rec9lkHl3pKY5QBnE",
+  "title": "Geography",
+  "lessonSetName": "Geography: Grade 3 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geography",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

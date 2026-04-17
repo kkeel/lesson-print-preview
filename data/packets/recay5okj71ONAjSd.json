@@ -1,0 +1,24 @@
+{
+  "id": "recay5okj71ONAjSd",
+  "title": "Playground Games",
+  "lessonSetName": "Playground Games",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Playground Games",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

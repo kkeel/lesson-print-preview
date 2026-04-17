@@ -1,0 +1,24 @@
+{
+  "id": "recdqE5yZIpJ5stER",
+  "title": "Sloyd",
+  "lessonSetName": "Sloyd: Intro",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sloyd",
+      "subtitle": "Intro",
+      "gradeText": "GRADE(S): 1+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

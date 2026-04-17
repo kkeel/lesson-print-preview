@@ -1,0 +1,24 @@
+{
+  "id": "rec1RJ6lVm8XhYgVr",
+  "title": "Advanced Nature Study Lessons",
+  "lessonSetName": "Advanced Nature Study Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Advanced Nature Study Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

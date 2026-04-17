@@ -1,0 +1,24 @@
+{
+  "id": "recnNe2T7FXnyl0Ag",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Grammar\nDictation\nPenmanship & Copywork\nWritten Narration",
+      "gradeText": "GRADE(S): 6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

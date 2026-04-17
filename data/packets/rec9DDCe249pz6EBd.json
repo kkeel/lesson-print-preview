@@ -1,0 +1,24 @@
+{
+  "id": "rec9DDCe249pz6EBd",
+  "title": "Chemistry Lessons",
+  "lessonSetName": "Chemistry Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Chemistry Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

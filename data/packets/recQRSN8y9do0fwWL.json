@@ -1,0 +1,24 @@
+{
+  "id": "recQRSN8y9do0fwWL",
+  "title": "Natural History",
+  "lessonSetName": "Natural History: Grade 7",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Natural History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

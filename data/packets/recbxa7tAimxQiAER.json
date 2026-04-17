@@ -1,0 +1,24 @@
+{
+  "id": "recbxa7tAimxQiAER",
+  "title": "Music",
+  "lessonSetName": "Music: Intro",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Music",
+      "subtitle": "Music Appreciation\nHymns & Spirituals\nFolk Songs\nSol-fa\nAfternoon Listening",
+      "gradeText": "GRADE(S): 1+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

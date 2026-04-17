@@ -1,0 +1,24 @@
+{
+  "id": "recEwkGjtyroHgV1R",
+  "title": "Latin 2",
+  "lessonSetName": "Latin 2 (Video Course)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Latin 2",
+      "subtitle": "Video Course",
+      "gradeText": "GRADE(S): 8+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

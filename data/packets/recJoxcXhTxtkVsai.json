@@ -1,0 +1,24 @@
+{
+  "id": "recJoxcXhTxtkVsai",
+  "title": "Literature",
+  "lessonSetName": "Literature: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Literature",
+      "subtitle": "Community Read Alouds\nClassic Lit.\nMythology",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

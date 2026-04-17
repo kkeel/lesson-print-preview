@@ -1,0 +1,24 @@
+{
+  "id": "rec50NnljmOQNH0NR",
+  "title": "Literature",
+  "lessonSetName": "Literature: Grade 9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Literature",
+      "subtitle": "Poetry Study\nGeneral Lit.\nHistory of Lit\nPlays\nPoetry Reading",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

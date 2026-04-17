@@ -1,0 +1,24 @@
+{
+  "id": "rech5WsJGtkFMro6Z",
+  "title": "Econ/Civics",
+  "lessonSetName": "Econ/Civics: Grade 10 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Econ/Civics",
+      "subtitle": "Canada",
+      "gradeText": "GRADE(S): 10"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

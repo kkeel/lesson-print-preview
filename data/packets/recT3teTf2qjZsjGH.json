@@ -1,0 +1,24 @@
+{
+  "id": "recT3teTf2qjZsjGH",
+  "title": "Composition",
+  "lessonSetName": "Composition: Grade 12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Composition",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

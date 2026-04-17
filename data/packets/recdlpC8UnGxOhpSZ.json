@@ -1,0 +1,24 @@
+{
+  "id": "recdlpC8UnGxOhpSZ",
+  "title": "Community Read Alouds",
+  "lessonSetName": "Community Read Alouds: Grades 1-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Community Read Alouds",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rec6PIfdA7tEizapF",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Reading Level 3\nPenmanship & Copywork\nWritten Narration",
+      "gradeText": "GRADE(S): 3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

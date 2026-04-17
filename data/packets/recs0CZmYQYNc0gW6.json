@@ -1,0 +1,24 @@
+{
+  "id": "recs0CZmYQYNc0gW6",
+  "title": "Chemistry Labs",
+  "lessonSetName": "Chemistry Labs",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Chemistry Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recwMzJYZwztAl4dg",
+  "title": "Health Elective",
+  "lessonSetName": "Health Elective (Beta)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Health Elective",
+      "subtitle": "Beta",
+      "gradeText": "GRADE(S): 10-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

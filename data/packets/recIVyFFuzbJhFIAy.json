@@ -1,0 +1,24 @@
+{
+  "id": "recIVyFFuzbJhFIAy",
+  "title": "Canadian Government",
+  "lessonSetName": "Canadian Government: Grade 7",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Canadian Government",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

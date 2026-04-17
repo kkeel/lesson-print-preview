@@ -1,0 +1,24 @@
+{
+  "id": "recmMWmHZZu0WJRZr",
+  "title": "PE",
+  "lessonSetName": "PE: Grades 4-6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "PE",
+      "subtitle": "Folk Dancing\nPlayground Games\nSports\nFree Play/ Circuits",
+      "gradeText": "GRADE(S): 4-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

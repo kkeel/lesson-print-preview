@@ -1,0 +1,24 @@
+{
+  "id": "recH7dK88YkNRwvPD",
+  "title": "Nature Notebook",
+  "lessonSetName": "Nature Notebook: Grades 9-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Nature Notebook",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

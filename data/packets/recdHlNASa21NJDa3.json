@@ -1,0 +1,24 @@
+{
+  "id": "recdHlNASa21NJDa3",
+  "title": "Bible History",
+  "lessonSetName": "Bible History: Grade 9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

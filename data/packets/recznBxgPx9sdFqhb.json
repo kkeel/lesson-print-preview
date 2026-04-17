@@ -1,0 +1,24 @@
+{
+  "id": "recznBxgPx9sdFqhb",
+  "title": "Bible",
+  "lessonSetName": "Bible: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Bible",
+      "subtitle": "Old Testament\nNew Testament\nChurch History",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

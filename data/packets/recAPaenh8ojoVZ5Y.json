@@ -1,0 +1,24 @@
+{
+  "id": "recAPaenh8ojoVZ5Y",
+  "title": "Lettering",
+  "lessonSetName": "Lettering: Level 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Lettering",
+      "subtitle": "Level 2",
+      "gradeText": "GRADE(S): 8+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

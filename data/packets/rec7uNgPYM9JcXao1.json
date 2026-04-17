@@ -1,0 +1,24 @@
+{
+  "id": "rec7uNgPYM9JcXao1",
+  "title": "History",
+  "lessonSetName": "History: Grade 1 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 1"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

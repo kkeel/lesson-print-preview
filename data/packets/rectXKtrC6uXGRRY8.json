@@ -1,0 +1,24 @@
+{
+  "id": "rectXKtrC6uXGRRY8",
+  "title": "Written Narration",
+  "lessonSetName": "Written Narration: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Written Narration",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

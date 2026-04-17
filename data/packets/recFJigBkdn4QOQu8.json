@@ -1,0 +1,24 @@
+{
+  "id": "recFJigBkdn4QOQu8",
+  "title": "Poetry",
+  "lessonSetName": "Poetry: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Poetry",
+      "subtitle": "Poetry Study\nPoetry Reading",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

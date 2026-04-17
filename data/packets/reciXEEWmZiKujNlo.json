@@ -1,0 +1,24 @@
+{
+  "id": "reciXEEWmZiKujNlo",
+  "title": "Grammar/Comp",
+  "lessonSetName": "Grammar/Comp: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Grammar/Comp",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

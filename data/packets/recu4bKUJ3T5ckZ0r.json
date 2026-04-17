@@ -1,0 +1,24 @@
+{
+  "id": "recu4bKUJ3T5ckZ0r",
+  "title": "Copywork",
+  "lessonSetName": "Copywork: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Copywork",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

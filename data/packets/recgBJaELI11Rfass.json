@@ -1,0 +1,24 @@
+{
+  "id": "recgBJaELI11Rfass",
+  "title": "Recitation",
+  "lessonSetName": "Recitation: Grades 7-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Recitation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

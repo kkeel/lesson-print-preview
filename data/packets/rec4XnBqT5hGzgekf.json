@@ -1,0 +1,24 @@
+{
+  "id": "rec4XnBqT5hGzgekf",
+  "title": "Composer Study",
+  "lessonSetName": "Composer Study",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Composer Study",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 2-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

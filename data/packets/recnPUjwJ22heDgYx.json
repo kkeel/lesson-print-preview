@@ -1,0 +1,24 @@
+{
+  "id": "recnPUjwJ22heDgYx",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 7 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Plutarch\nCurrent Events\nAmerican Government\nCommunity Read Alouds\nEthics",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reciy1wYX8vEpCfef",
+  "title": "Art",
+  "lessonSetName": "Art: High School Fast Track",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Art",
+      "subtitle": "High School Fast Track",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

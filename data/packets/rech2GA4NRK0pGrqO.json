@@ -1,0 +1,24 @@
+{
+  "id": "rech2GA4NRK0pGrqO",
+  "title": "Technology",
+  "lessonSetName": "Technology",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Technology",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

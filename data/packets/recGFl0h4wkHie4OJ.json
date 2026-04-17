@@ -1,0 +1,24 @@
+{
+  "id": "recGFl0h4wkHie4OJ",
+  "title": "Plays",
+  "lessonSetName": "Plays: Grades 9-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Plays",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

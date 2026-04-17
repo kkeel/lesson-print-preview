@@ -1,0 +1,24 @@
+{
+  "id": "recTYpFpYIaDutvIa",
+  "title": "Ancient History",
+  "lessonSetName": "Ancient History: Grades 5-6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Ancient History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

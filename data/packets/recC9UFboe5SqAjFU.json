@@ -1,0 +1,24 @@
+{
+  "id": "recC9UFboe5SqAjFU",
+  "title": "Composition",
+  "lessonSetName": "Composition: Grade 11",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Composition",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

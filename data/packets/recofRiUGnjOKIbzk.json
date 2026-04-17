@@ -1,0 +1,24 @@
+{
+  "id": "recofRiUGnjOKIbzk",
+  "title": "Advanced Nature Study Afternoon Work",
+  "lessonSetName": "Advanced Nature Study Afternoon Work",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Advanced Nature Study Afternoon Work",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recOw8kwV7HWQGVw5",
+  "title": "Natural History",
+  "lessonSetName": "Natural History: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Natural History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reczpuW6rvOyzzblj",
+  "title": "History",
+  "lessonSetName": "History: Grades 2-3 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 2-3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

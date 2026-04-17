@@ -1,0 +1,24 @@
+{
+  "id": "recQJZSM8R2lmVTiZ",
+  "title": "Labs",
+  "lessonSetName": "Labs: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Labs",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

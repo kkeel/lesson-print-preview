@@ -1,0 +1,24 @@
+{
+  "id": "recmKSiBZiXiTeogS",
+  "title": "Dictation",
+  "lessonSetName": "Dictation: Grade 9",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Dictation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

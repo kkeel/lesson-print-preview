@@ -1,0 +1,24 @@
+{
+  "id": "reciT2Mn4uBl6h6vJ",
+  "title": "History",
+  "lessonSetName": "History: Grades 11-12 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "Canadian History\nWorld History\nAncient History",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recEFs6yhDC09H9l7",
+  "title": "Music",
+  "lessonSetName": "Music: Level 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Music",
+      "subtitle": "Hymns & Spirituals\nFolk Songs\nAfternoon Listening\nComposer Study\nSol-fa",
+      "gradeText": "GRADE(S): 5+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

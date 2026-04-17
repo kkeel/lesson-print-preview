@@ -1,0 +1,24 @@
+{
+  "id": "recNPQ4tF6eFCOXG8",
+  "title": "History",
+  "lessonSetName": "History: Grade 4 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "U.S. History\nWorld History",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recgUPgdIguvZwUVr",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 8 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Plutarch\nCurrent Events\nAmerican Gov./ Economics\nCommunity Read Alouds\nEthics",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recELK7dgyH4Piilt",
+  "title": "Mathematics",
+  "lessonSetName": "Mathematics: Grade 4",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Mathematics",
+      "subtitle": "Math Lessons\nMath Games",
+      "gradeText": "GRADE(S): 4"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recM7yfvJsTQbsNGo",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Grammar\nDictation\nPenmanship & Copywork\nWritten Narration",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

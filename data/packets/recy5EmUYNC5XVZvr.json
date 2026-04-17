@@ -1,0 +1,24 @@
+{
+  "id": "recy5EmUYNC5XVZvr",
+  "title": "Ethics",
+  "lessonSetName": "Ethics: Part 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Ethics",
+      "subtitle": "Part 5",
+      "gradeText": "GRADE(S): 11+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

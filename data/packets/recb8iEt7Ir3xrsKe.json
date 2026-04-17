@@ -1,0 +1,24 @@
+{
+  "id": "recb8iEt7Ir3xrsKe",
+  "title": "Geology Lessons",
+  "lessonSetName": "Geology Lessons",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geology Lessons",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 11-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

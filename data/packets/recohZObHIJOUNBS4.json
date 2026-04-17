@@ -1,0 +1,24 @@
+{
+  "id": "recohZObHIJOUNBS4",
+  "title": "Sports",
+  "lessonSetName": "Sports",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Sports",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

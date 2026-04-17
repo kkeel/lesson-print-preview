@@ -1,0 +1,24 @@
+{
+  "id": "recvfB9zd1vOwauPP",
+  "title": "Lower Spanish",
+  "lessonSetName": "Lower Spanish: Grades 1-6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Lower Spanish",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

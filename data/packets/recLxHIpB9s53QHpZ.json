@@ -1,0 +1,24 @@
+{
+  "id": "recLxHIpB9s53QHpZ",
+  "title": "Plutarch",
+  "lessonSetName": "Plutarch: Grades 6-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Plutarch",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 6-8+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

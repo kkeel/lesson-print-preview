@@ -1,0 +1,24 @@
+{
+  "id": "recbkuMggtCDILk0K",
+  "title": "Grammar",
+  "lessonSetName": "Grammar: Grade 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Grammar",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

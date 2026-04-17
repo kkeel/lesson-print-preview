@@ -1,0 +1,24 @@
+{
+  "id": "recIVGK6O1dXsQXub",
+  "title": "History",
+  "lessonSetName": "History: Grade 9 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "History",
+      "subtitle": "Canadian History\nAncient History\nWorld History",
+      "gradeText": "GRADE(S): 9"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

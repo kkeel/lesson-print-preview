@@ -1,0 +1,24 @@
+{
+  "id": "recteTfPvoEARNk8b",
+  "title": "Penmanship & Copywork",
+  "lessonSetName": "Penmanship & Copywork: Grade 3",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Penmanship & Copywork",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 3"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

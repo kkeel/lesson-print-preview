@@ -1,0 +1,24 @@
+{
+  "id": "recFSJV8jlfXuHc0X",
+  "title": "Picture Study",
+  "lessonSetName": "Picture Study",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Picture Study",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 1-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

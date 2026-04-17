@@ -1,0 +1,24 @@
+{
+  "id": "rec1jHIwzgSj6uy59",
+  "title": "Geometry",
+  "lessonSetName": "Geometry: Grade 8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Geometry",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

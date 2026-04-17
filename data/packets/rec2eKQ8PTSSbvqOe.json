@@ -1,0 +1,24 @@
+{
+  "id": "rec2eKQ8PTSSbvqOe",
+  "title": "New Testament",
+  "lessonSetName": "New Testament: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "New Testament",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

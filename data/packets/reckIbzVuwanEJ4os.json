@@ -1,0 +1,24 @@
+{
+  "id": "reckIbzVuwanEJ4os",
+  "title": "World History",
+  "lessonSetName": "World History: Grades 4-6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "World History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 4-6"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

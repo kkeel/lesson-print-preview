@@ -1,0 +1,24 @@
+{
+  "id": "recKeQ0OgMWtgkbhz",
+  "title": "Language Study",
+  "lessonSetName": "Language Study: Grade 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Language Study",
+      "subtitle": "Reading Level 2\nPenmanship & Copywork",
+      "gradeText": "GRADE(S): 2"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

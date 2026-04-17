@@ -1,0 +1,24 @@
+{
+  "id": "recjUSd7GpMt4Fmaj",
+  "title": "Art",
+  "lessonSetName": "Art: Level 6",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Art",
+      "subtitle": "Level 6",
+      "gradeText": "GRADE(S): 6+"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

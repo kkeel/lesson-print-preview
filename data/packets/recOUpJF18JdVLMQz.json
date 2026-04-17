@@ -1,0 +1,24 @@
+{
+  "id": "recOUpJF18JdVLMQz",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 11 (U.S.)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "U.S.",
+      "gradeText": "GRADE(S): 11"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

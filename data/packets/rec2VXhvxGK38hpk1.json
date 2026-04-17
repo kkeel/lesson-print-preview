@@ -1,0 +1,24 @@
+{
+  "id": "rec2VXhvxGK38hpk1",
+  "title": "U.S. History",
+  "lessonSetName": "U.S. History: Grades 7-8",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "U.S. History",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 7-8"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

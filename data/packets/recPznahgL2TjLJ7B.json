@@ -1,0 +1,24 @@
+{
+  "id": "recPznahgL2TjLJ7B",
+  "title": "Science",
+  "lessonSetName": "Science: Botany",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nBotany Lessons\nBotany Labs",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

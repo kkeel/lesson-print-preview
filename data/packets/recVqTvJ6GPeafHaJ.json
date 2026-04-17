@@ -1,0 +1,24 @@
+{
+  "id": "recVqTvJ6GPeafHaJ",
+  "title": "Architecture",
+  "lessonSetName": "Architecture: Grades 9-12",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Architecture",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 9-12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

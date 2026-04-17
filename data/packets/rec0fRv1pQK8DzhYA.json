@@ -1,0 +1,24 @@
+{
+  "id": "rec0fRv1pQK8DzhYA",
+  "title": "Pre-Calculus",
+  "lessonSetName": "Pre-Calculus: Part 2",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Pre-Calculus",
+      "subtitle": "Part 2",
+      "gradeText": "GRADE(S): 12"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

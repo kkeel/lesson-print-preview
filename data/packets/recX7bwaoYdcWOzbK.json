@@ -1,0 +1,24 @@
+{
+  "id": "recX7bwaoYdcWOzbK",
+  "title": "Dictation",
+  "lessonSetName": "Dictation: Grade 5",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Dictation",
+      "subtitle": "",
+      "gradeText": "GRADE(S): 5"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

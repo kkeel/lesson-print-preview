@@ -1,0 +1,24 @@
+{
+  "id": "recFveiRQJWXaIwRJ",
+  "title": "Citizenship",
+  "lessonSetName": "Citizenship: Grade 7 (Canada)",
+  "templateType": "standard",
+  "sections": [
+    {
+      "type": "cover",
+      "title": "Citizenship",
+      "subtitle": "Plutarch\nCurrent Events\nCanadian Government\nCommunity Read Alouds\nEthics",
+      "gradeText": "GRADE(S): 7"
+    },
+    {
+      "type": "header",
+      "items": [
+        {
+          "kind": "text",
+          "title": "About the Course",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
