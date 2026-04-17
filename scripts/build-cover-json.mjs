@@ -92,6 +92,17 @@ function normalizeText(value) {
   return String(value).trim();
 }
 
+function normalizeRichText(value) {
+  if (value == null) return "";
+  if (Array.isArray(value)) {
+    return value
+      .map(item => String(item).trim())
+      .filter(Boolean)
+      .join("\n\n");
+  }
+  return String(value).trim();
+}
+
 function normalizeArray(value) {
   if (value == null) return [];
   if (Array.isArray(value)) {
@@ -152,9 +163,9 @@ function buildAboutEntries(headerRecords, lessonSetName, coverTitle) {
   for (const record of headerRecords) {
     const fields = record.fields || {};
     const label =
-      normalizeText(fields["Course/Topic Description (LP)"]) ||
+      normalizeRichText(fields["Course/Topic Description (LP)"]) ||
       normalizeText(fields["Subject"]);
-    const content = normalizeText(fields["About_Export"]);
+    const content = normalizeRichText(fields["About_Export"]);
 
     if (!content) continue;
 
@@ -182,9 +193,9 @@ function buildPlacementEntries(headerRecords) {
   for (const record of headerRecords) {
     const fields = record.fields || {};
     const label =
-      normalizeText(fields["Course/Topic Description (LP)"]) ||
+      normalizeRichText(fields["Course/Topic Description (LP)"]) ||
       normalizeText(fields["Subject"]);
-    const content = normalizeText(fields["Combining & Placement Tips (LP)"]);
+    const content = normalizeRichText(fields["Combining & Placement Tips (LP)"]);
 
     if (!content) continue;
 
