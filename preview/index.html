@@ -37,12 +37,47 @@
       fetch(`../data/packets/${id}.json`)
         .then(response => response.json())
         .then(data => {
-          let html = `
-            <div class="page">
-              <h1>${data.title}</h1>
-              <p><strong>Template Type:</strong> ${data.templateType}</p>
-            </div>
-          `;
+          let html = "";
+
+          data.pages.forEach(page => {
+          
+            if (page.type === "cover") {
+              html += `
+                <div class="page">
+                  <h1>${page.title}</h1>
+                  <h2>${page.subtitle || ""}</h2>
+                </div>
+              `;
+            }
+          
+            if (page.type === "header") {
+              html += `
+                <div class="page">
+                  <h2>${page.title}</h2>
+                  <p>${page.content}</p>
+                </div>
+              `;
+            }
+          
+            if (page.type === "section") {
+              html += `
+                <div class="page">
+                  <h2>${page.title}</h2>
+                  <p>${page.content}</p>
+                </div>
+              `;
+            }
+          
+            if (page.type === "lesson") {
+              html += `
+                <div class="page">
+                  <h3>Lesson ${page.lessonNumber}: ${page.title}</h3>
+                  <p>${page.content}</p>
+                </div>
+              `;
+            }
+          
+          });
 
           data.headerPages.forEach(page => {
             html += `
