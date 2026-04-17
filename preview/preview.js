@@ -82,37 +82,35 @@ function renderCoverSection(section, packetData) {
   const gradeText = section.gradeText || packetData.gradeText || "";
   const subject = section.subject || packetData.subject || "";
   const lessonSetName = packetData.lessonSetName || "";
+  const subtitleLines = subtitle
+    ? subtitle.split("\n").map(line => line.trim()).filter(Boolean)
+    : [];
 
   return `
     <div class="page-flow cover-section">
       <section class="flow-block cover-block">
-        <div class="cover-accent"></div>
+        <div class="cover-top-rule"></div>
 
         <div class="cover-inner">
-          <div class="cover-kicker">Lesson Plans</div>
+          <div class="cover-brand-line">Alveary Lesson Plan</div>
 
-          <div class="cover-pill-row">
-            ${subject ? `<span class="cover-subject-pill">${escapeHtml(subject)}</span>` : ""}
-            ${gradeText ? `<span class="cover-grade-pill">${escapeHtml(gradeText)}</span>` : ""}
-          </div>
+          ${gradeText ? `<div class="cover-grade-line">${escapeHtml(gradeText)}</div>` : ""}
+
+          ${subject ? `<div class="cover-subject">${escapeHtml(subject)}</div>` : ""}
 
           <h1>${escapeHtml(title)}</h1>
 
-          ${subtitle ? `<h2>${nl2br(subtitle)}</h2>` : ""}
+          ${subtitleLines.length ? `
+            <div class="cover-topic-stack">
+              ${subtitleLines.map(line => `<div class="cover-topic-line">${escapeHtml(line)}</div>`).join("")}
+            </div>
+          ` : ""}
 
           ${lessonSetName && lessonSetName !== title
             ? `<div class="cover-lesson-set-name">${escapeHtml(lessonSetName)}</div>`
             : ""}
 
-          <div class="cover-divider"></div>
-
-          <div class="cover-note-box">
-            <div class="cover-note-title">Packet Preview</div>
-            <p>
-              This preview is being built from the Airtable Cover Page JSON and will expand as
-              additional lesson packet sections are added to the generator.
-            </p>
-          </div>
+          <div class="cover-footer-line">©2025 Charlotte Mason Institute®</div>
         </div>
       </section>
     </div>
