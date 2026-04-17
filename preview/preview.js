@@ -80,11 +80,6 @@ function renderCoverSection(section, packetData) {
   const title = section.title || packetData.title || "";
   const subtitle = section.subtitle || "";
   const gradeText = section.gradeText || packetData.gradeText || "";
-  const subject = section.subject || packetData.subject || "";
-  const lessonSetName = packetData.lessonSetName || "";
-  const subtitleLines = subtitle
-    ? subtitle.split("\n").map(line => line.trim()).filter(Boolean)
-    : [];
 
   return `
     <div class="page-flow cover-section">
@@ -94,22 +89,13 @@ function renderCoverSection(section, packetData) {
             <div class="cover-brand-line">Alveary Lesson Plan</div>
             ${gradeText ? `<div class="cover-grade-line">${escapeHtml(gradeText)}</div>` : ""}
           </div>
-        
+
           <div class="cover-top-rule"></div>
 
-          ${subject ? `<div class="cover-subject">${escapeHtml(subject)}</div>` : ""}
-
-          <h1>${escapeHtml(title)}</h1>
-
-          ${subtitleLines.length ? `
-            <div class="cover-topic-stack">
-              ${subtitleLines.map(line => `<div class="cover-topic-line">${escapeHtml(line)}</div>`).join("")}
-            </div>
-          ` : ""}
-
-          ${lessonSetName && lessonSetName !== title
-            ? `<div class="cover-lesson-set-name">${escapeHtml(lessonSetName)}</div>`
-            : ""}
+          <div class="cover-main">
+            ${title ? `<div class="cover-title-main">${escapeHtml(title)}</div>` : ""}
+            ${subtitle ? `<div class="cover-subtitle-main">${escapeHtml(subtitle)}</div>` : ""}
+          </div>
 
           <div class="cover-footer-line">©2025 Charlotte Mason Institute®</div>
         </div>
