@@ -2,27 +2,28 @@
   "id": "sample-set-1",
   "templateType": "standard",
   "title": "Sample Lesson Set 1",
-  "headerPages": [
+
+  "pages": [
     {
+      "type": "cover",
+      "title": "Sample Lesson Set 1",
+      "subtitle": "Bible - Term 1"
+    },
+    {
+      "type": "header",
       "title": "Header Page Example",
       "content": "This is where header page content will go."
-    }
-  ],
-  "sections": [
+    },
     {
+      "type": "section",
       "title": "Section 1",
       "content": "This is a section divider or intro."
-    }
-  ],
-  "lessons": [
+    },
     {
+      "type": "lesson",
       "lessonNumber": 1,
       "title": "Lesson One",
       "content": "This is sample lesson content."
     }
-  ],
-  "examPages": [],
-  "linkPages": [],
-  "bookPages": [],
-  "supplyPages": []
+  ]
 }
