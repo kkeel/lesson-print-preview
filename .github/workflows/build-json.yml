@@ -1,0 +1,33 @@
+name: Build Lesson JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # runs daily at 6am UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run JSON build
+        run: node scripts/build-cover-json.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Update lesson JSON" || echo "No changes"
+          git push
