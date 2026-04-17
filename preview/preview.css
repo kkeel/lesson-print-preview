@@ -13,10 +13,8 @@ body {
   gap: 28px;
 }
 
-/* PAGE */
-.page {
+.page-flow {
   width: 8.5in;
-  min-height: 11in;
   background: #ffffff;
   box-sizing: border-box;
   padding: 0.75in;
@@ -24,33 +22,173 @@ body {
   border: 1px solid #d8d8d8;
 }
 
-/* SECTION BREAKS */
+/* hard breaks */
 .section-break {
   break-before: page;
+  page-break-before: always;
 }
 
-/* TERM BREAKS */
 .term-start {
   break-before: page;
+  page-break-before: always;
 }
 
-/* HOW TO BLOCK */
+/* grouped blocks */
+.flow-block {
+  margin-bottom: 28px;
+}
+
 .howto-block {
   break-inside: avoid;
   page-break-inside: avoid;
 }
 
-/* BASIC TYPOGRAPHY */
+.reference-block {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.exam-block {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.lesson-block-item {
+  margin-bottom: 16px;
+}
+
+/* cover */
+.cover-block h1 {
+  font-size: 34px;
+  margin-bottom: 12px;
+}
+
+.cover-block h2 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* how to */
+.howto-grid {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.howto-image img {
+  max-width: 100%;
+  display: block;
+  border: 1px solid #ccc;
+}
+
+.image-placeholder,
+.qr-placeholder {
+  border: 1px dashed #999;
+  background: #f7f7f7;
+  color: #666;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-placeholder {
+  width: 150px;
+  height: 150px;
+}
+
+.qr-placeholder {
+  width: 110px;
+  height: 110px;
+  margin-top: 10px;
+}
+
+.qr-placeholder.small {
+  width: 50px;
+  height: 50px;
+  margin-top: 6px;
+  font-size: 12px;
+}
+
+.howto-prompt {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+/* lessons */
+.lesson-topbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.lesson-course {
+  font-weight: 700;
+}
+
+.lesson-linkbox {
+  text-align: right;
+  max-width: 180px;
+  font-size: 13px;
+}
+
+.lesson-meta {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+/* term banner */
+.term-banner {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #ddd;
+}
+
+/* typography */
 h1, h2, h3 {
   margin-top: 0;
 }
 
-p {
+h2 {
+  font-size: 22px;
   margin-bottom: 14px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+p {
+  margin: 0 0 12px 0;
   font-size: 14px;
 }
 
-/* PRINT MODE */
+ul {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 14px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 @media print {
   body {
     background: white;
@@ -61,11 +199,10 @@ p {
     gap: 0;
   }
 
-  .page {
+  .page-flow {
     box-shadow: none;
     border: none;
     width: 100%;
-    min-height: auto;
-    page-break-after: always;
+    margin: 0;
   }
 }
