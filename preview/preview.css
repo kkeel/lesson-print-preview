@@ -213,3 +213,124 @@ a:hover {
     margin: 0;
   }
 }
+
+/* upgraded cover page */
+
+.cover-block {
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.cover-accent {
+  height: 20px;
+  background: linear-gradient(90deg, #4b2e83 0%, #6b4ca5 100%);
+}
+
+.cover-inner {
+  min-height: calc(11in - 1.5in - 20px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.2in 0;
+}
+
+.cover-kicker {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7a6c5d;
+  margin-bottom: 18px;
+}
+
+.cover-pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.cover-subject-pill,
+.cover-grade-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 7px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.cover-subject-pill {
+  background: #efe8fb;
+  color: #4b2e83;
+  border: 1px solid rgba(75, 46, 131, 0.16);
+}
+
+.cover-grade-pill {
+  background: #f4efe8;
+  color: #685746;
+  border: 1px solid rgba(104, 87, 70, 0.14);
+}
+
+.cover-block h1 {
+  font-size: 42px;
+  line-height: 1.06;
+  margin-bottom: 14px;
+  max-width: 6.2in;
+}
+
+.cover-block h2 {
+  font-size: 25px;
+  line-height: 1.18;
+  font-weight: 600;
+  margin-bottom: 18px;
+  color: #4a4138;
+  white-space: pre-line;
+}
+
+.cover-lesson-set-name {
+  font-size: 15px;
+  color: #6e675f;
+  margin-bottom: 22px;
+}
+
+.cover-divider {
+  width: 1.25in;
+  height: 3px;
+  background: #d6c9b6;
+  margin-bottom: 24px;
+}
+
+.cover-note-box {
+  max-width: 5.4in;
+  border: 1px solid #ddd5ca;
+  background: #faf7f2;
+  border-radius: 18px;
+  padding: 18px 18px 6px;
+}
+
+.cover-note-title {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #7a6c5d;
+  margin-bottom: 10px;
+}
+
+@media print {
+  .cover-note-box {
+    background: #faf7f2 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .cover-subject-pill,
+  .cover-grade-pill,
+  .cover-accent {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
