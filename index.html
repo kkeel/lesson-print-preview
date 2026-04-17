@@ -10,18 +10,18 @@
 <body>
   <main class="dashboard-shell">
     <section class="dashboard-hero">
-      <div class="dashboard-hero-bar"></div>
-      <div class="dashboard-hero-inner">
-        <div class="dashboard-kicker">Lesson Plan Print Generator</div>
-        <div class="dashboard-title-row">
-          <h1 class="dashboard-title">Lesson Print Preview Dashboard</h1>
-          <span class="dashboard-pill" id="dashboard-count">Loading…</span>
-        </div>
-        <p class="dashboard-subtext">
-          Browse lesson plan packets by course or by connected topic. Each preview opens the current packet
-          built from your Airtable Cover Page JSON.
-        </p>
+      <div class="dashboard-kicker">Alveary Lesson Print Generator</div>
+
+      <div class="dashboard-title-row">
+        <h1 class="dashboard-title">Course List</h1>
+        <span class="dashboard-pill" id="dashboard-count">Loading…</span>
       </div>
+
+      <p class="dashboard-subtext">
+        Browse lesson plan packets by course or by topic. This dashboard uses the Airtable Cover Page
+        packet index to build a preview structure that feels closer to the planning app while still
+        supporting packet preview and future PDF generation.
+      </p>
     </section>
 
     <section class="dashboard-grid">
@@ -112,7 +112,6 @@
           ? courses.map(renderCourseCard).join("")
           : `<div class="empty-state">No course packets found.</div>`;
 
-        const courseMap = new Map(courses.map(course => [course.lessonSetName, course]));
         const topicsByCourseName = {};
 
         for (const topic of topics) {
