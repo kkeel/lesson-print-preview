@@ -5,44 +5,158 @@
   <meta name="robots" content="noindex,nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lesson Print Preview Dashboard</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.5;
-    }
-    .item {
-      margin-bottom: 16px;
-      padding: 16px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-    }
-    a {
-      font-weight: bold;
-      text-decoration: none;
-    }
-  </style>
+  <link rel="stylesheet" href="./dashboard.css">
 </head>
 <body>
-  <h1>Lesson Print Preview Dashboard</h1>
-  <div id="list">Loading lesson plan sets...</div>
+  <main class="dashboard-shell">
+    <section class="dashboard-hero">
+      <div class="dashboard-hero-bar"></div>
+      <div class="dashboard-hero-inner">
+        <div class="dashboard-kicker">Lesson Plan Print Generator</div>
+        <div class="dashboard-title-row">
+          <h1 class="dashboard-title">Lesson Print Preview Dashboard</h1>
+          <span class="dashboard-pill" id="dashboard-count">Loading…</span>
+        </div>
+        <p class="dashboard-subtext">
+          Browse lesson plan packets by course or by connected topic. Each preview opens the current packet
+          built from your Airtable Cover Page JSON.
+        </p>
+      </div>
+    </section>
+
+    <section class="dashboard-grid">
+      <div class="dashboard-panel">
+        <div class="dashboard-panel-head">
+          <h2 class="dashboard-panel-title">By Course</h2>
+          <p class="dashboard-panel-note">
+            Full course and standalone packet list in Sort ID order.
+          </p>
+        </div>
+        <div class="dashboard-panel-body">
+          <div id="course-list" class="course-list">
+            <div class="empty-state">Loading course list…</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="dashboard-panel">
+        <div class="dashboard-panel-head">
+          <h2 class="dashboard-panel-title">By Topic</h2>
+          <p class="dashboard-panel-note">
+            Topic packets grouped beneath each connected parent course.
+          </p>
+        </div>
+        <div class="dashboard-panel-body">
+          <div id="topic-group-list" class="topic-group-list">
+            <div class="empty-state">Loading topic groups…</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
 
   <script>
-    fetch('./data/packet-index.json')
-      .then(response => response.json())
-      .then(items => {
-        const list = document.getElementById('list');
+    const sortBySortId = (a, b) => (a.sortId || "").localeCompare(b.sortId || "");
 
-        list.innerHTML = items.map(item => `
-          <div class="item">
-            <a href="./preview/index.html?id=${encodeURIComponent(item.id)}">${item.title}</a>
-            <div>Subject: ${item.subject}</div>
-            <div>Term: ${item.term}</div>
+    const escapeHtml = (value) => {
+      return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    };
+
+    function renderCourseCard(item) {
+      return `
+        <a class="course-card" href="./preview/index.html?id=${encodeURIComponent(item.id)}">
+          <div class="card-topline">
+            <h3 class="card-title">${escapeHtml(item.lessonSetName || item.title || "")}</h3>
+            <span class="card-mini">${escapeHtml(item.subject || "Course")}</span>
           </div>
-        `).join('');
+          <div class="card-meta">${escapeHtml(item.gradeText || "")}</div>
+        </a>
+      `;
+    }
+
+    function renderTopicCard(item) {
+      return `
+        <a class="topic-card" href="./preview/index.html?id=${encodeURIComponent(item.id)}">
+          <div class="card-topline">
+            <h3 class="card-title">${escapeHtml(item.lessonSetName || item.title || "")}</h3>
+            <span class="card-mini">Topic</span>
+          </div>
+          <div class="card-meta">${escapeHtml(item.gradeText || "")}</div>
+        </a>
+      `;
+    }
+
+    fetch('./data/packet-index.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(items => {
+        const allItems = Array.isArray(items) ? items.slice().sort(sortBySortId) : [];
+        const courses = allItems.filter(item => item.rowType === "course");
+        const topics = allItems.filter(item => item.rowType === "topic");
+
+        document.getElementById("dashboard-count").textContent = `${courses.length} courses`;
+
+        const courseList = document.getElementById("course-list");
+        const topicGroupList = document.getElementById("topic-group-list");
+
+        courseList.innerHTML = courses.length
+          ? courses.map(renderCourseCard).join("")
+          : `<div class="empty-state">No course packets found.</div>`;
+
+        const courseMap = new Map(courses.map(course => [course.lessonSetName, course]));
+        const topicsByCourseName = {};
+
+        for (const topic of topics) {
+          const connectedCourses = Array.isArray(topic.courseConnectionNames)
+            ? topic.courseConnectionNames
+            : [];
+
+          for (const courseName of connectedCourses) {
+            if (!topicsByCourseName[courseName]) {
+              topicsByCourseName[courseName] = [];
+            }
+            topicsByCourseName[courseName].push(topic);
+          }
+        }
+
+        const groupedHtml = courses
+          .filter(course => Array.isArray(topicsByCourseName[course.lessonSetName]) && topicsByCourseName[course.lessonSetName].length)
+          .map(course => {
+            const groupTopics = topicsByCourseName[course.lessonSetName].slice().sort(sortBySortId);
+
+            return `
+              <section class="topic-group">
+                <div class="topic-group-head">
+                  <h3 class="topic-group-title">${escapeHtml(course.lessonSetName || course.title || "")}</h3>
+                  <div class="topic-group-grade">${escapeHtml(course.gradeText || "")}</div>
+                </div>
+                <div class="topic-items">
+                  ${groupTopics.map(renderTopicCard).join("")}
+                </div>
+              </section>
+            `;
+          })
+          .join("");
+
+        topicGroupList.innerHTML = groupedHtml || `<div class="empty-state">No connected topic groups found.</div>`;
       })
       .catch(error => {
-        document.getElementById('list').innerHTML = '<p>Could not load lesson plan sets.</p>';
+        document.getElementById("course-list").innerHTML =
+          '<div class="empty-state">Could not load course list.</div>';
+
+        document.getElementById("topic-group-list").innerHTML =
+          '<div class="empty-state">Could not load topic groups.</div>';
+
+        document.getElementById("dashboard-count").textContent = "Load failed";
         console.error(error);
       });
   </script>
