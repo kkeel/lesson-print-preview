@@ -121,6 +121,22 @@ function normalizeSubject(value) {
   return arr[0] || "";
 }
 
+function zipLookupEntries(labels, contents) {
+  const maxLength = Math.max(labels.length, contents.length);
+  const entries = [];
+
+  for (let i = 0; i < maxLength; i += 1) {
+    const label = String(labels[i] ?? "").trim();
+    const content = String(contents[i] ?? "").trim();
+
+    if (!label && !content) continue;
+
+    entries.push({ label, content });
+  }
+
+  return entries;
+}
+
 function buildHeaderLookup(headerRecords) {
   const byHeaderId = new Map();
   const byLessonPlanId = new Map();
@@ -162,26 +178,31 @@ function buildAboutEntries(headerRecords, lessonSetName, coverTitle) {
 
   for (const record of headerRecords) {
     const fields = record.fields || {};
-    const label =
-      normalizeRichText(fields["Course/Topic Description (LP)"]) ||
-      normalizeText(fields["Subject"]);
-    const content = normalizeRichText(fields["About_Export"]);
 
-    if (!content) continue;
+    const labels = normalizeArray(fields["Course/Topic Description (LP)"]);
+    const contents = normalizeArray(fields["About_Export"]);
+    const pairs = zipLookupEntries(labels, contents);
 
-    const normalizedLabel = label.trim().toLowerCase();
-    const normalizedLessonSet = lessonSetName.trim().toLowerCase();
-    const normalizedCoverTitle = coverTitle.trim().toLowerCase();
+    for (const pair of pairs) {
+      const label = pair.label;
+      const content = pair.content;
 
-    const isPrimary =
-      normalizedLabel === normalizedLessonSet ||
-      normalizedLabel === normalizedCoverTitle;
+      if (!content) continue;
 
-    entries.push({
-      title: isPrimary || !label ? "About the Course" : `About ${label}`,
-      label,
-      content
-    });
+      const normalizedLabel = label.trim().toLowerCase();
+      const normalizedLessonSet = lessonSetName.trim().toLowerCase();
+      const normalizedCoverTitle = coverTitle.trim().toLowerCase();
+
+      const isPrimary =
+        normalizedLabel === normalizedLessonSet ||
+        normalizedLabel === normalizedCoverTitle;
+
+      entries.push({
+        title: isPrimary || !label ? "About the Course" : `About ${label}`,
+        label,
+        content
+      });
+    }
   }
 
   return entries;
@@ -192,18 +213,23 @@ function buildPlacementEntries(headerRecords) {
 
   for (const record of headerRecords) {
     const fields = record.fields || {};
-    const label =
-      normalizeRichText(fields["Course/Topic Description (LP)"]) ||
-      normalizeText(fields["Subject"]);
-    const content = normalizeRichText(fields["Combining & Placement Tips (LP)"]);
 
-    if (!content) continue;
+    const labels = normalizeArray(fields["Course/Topic Description (LP)"]);
+    const contents = normalizeArray(fields["Combining & Placement Tips (LP)"]);
+    const pairs = zipLookupEntries(labels, contents);
 
-    entries.push({
-      title: label || "Placement & Combining Tips",
-      label,
-      content
-    });
+    for (const pair of pairs) {
+      const label = pair.label;
+      const content = pair.content;
+
+      if (!content) continue;
+
+      entries.push({
+        title: label || "Placement & Combining Tips",
+        label,
+        content
+      });
+    }
   }
 
   return entries;
