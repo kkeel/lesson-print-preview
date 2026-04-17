@@ -4,10 +4,47 @@
   <meta charset="UTF-8">
   <meta name="robots" content="noindex,nofollow">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lesson Print Preview</title>
+  <title>Lesson Print Preview Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.5;
+    }
+    .item {
+      margin-bottom: 16px;
+      padding: 16px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+    }
+    a {
+      font-weight: bold;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
-  <h1>Lesson Print Preview</h1>
-  <p>This is the preview dashboard.</p>
+  <h1>Lesson Print Preview Dashboard</h1>
+  <div id="list">Loading lesson plan sets...</div>
+
+  <script>
+    fetch('./data/packet-index.json')
+      .then(response => response.json())
+      .then(items => {
+        const list = document.getElementById('list');
+
+        list.innerHTML = items.map(item => `
+          <div class="item">
+            <a href="./preview/?id=${encodeURIComponent(item.id)}">${item.title}</a>
+            <div>Subject: ${item.subject}</div>
+            <div>Term: ${item.term}</div>
+          </div>
+        `).join('');
+      })
+      .catch(error => {
+        document.getElementById('list').innerHTML = '<p>Could not load lesson plan sets.</p>';
+        console.error(error);
+      });
+  </script>
 </body>
 </html>
