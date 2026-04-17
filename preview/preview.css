@@ -422,12 +422,25 @@ a:hover {
   margin: 0;
 }
 
-.cover-footer-line {
+.cover-footer {
   margin-top: auto;
-  padding-top: 24px;
-  font-family: "DM Sans", system-ui, sans-serif;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.cover-logo {
+  width: 220px;
+  max-width: 60%;
+  opacity: 0.9;
+}
+
+.cover-footer-line {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
   font-size: 12px;
-  color: #262b26;
+  color: #596e5e; /* dark green */
 }
 
 @media print {
