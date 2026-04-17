@@ -4,11 +4,13 @@ import path from "node:path";
 const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
 
-// Update these only if your names differ
-const TABLE_NAME = "Lesson Plan Sets";
-const VIEW_NAME = "Cover Page";
+const LESSON_TABLE_NAME = "Lesson Plan Sets";
+const LESSON_VIEW_NAME = "Cover Page";
 
-const FIELDS = [
+const HEADER_TABLE_NAME = "Header Pages";
+const HEADER_VIEW_NAME = "Header Print";
+
+const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
   "Cover Title",
@@ -19,7 +21,17 @@ const FIELDS = [
   "Course Connection",
   "Topic Connection",
   "Course Connection Lookup",
-  "Topic Connection Lookup"
+  "Topic Connection Lookup",
+  "Connect Header Pages"
+];
+
+const HEADER_FIELDS = [
+  "headerID",
+  "Connect Lesson Plans",
+  "Subject",
+  "Course/Topic Description (LP)",
+  "About_Export",
+  "Combining & Placement Tips (LP)"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -30,18 +42,18 @@ if (!AIRTABLE_BASE_ID) {
   throw new Error("Missing AIRTABLE_BASE_ID environment variable.");
 }
 
-async function fetchAllRecords() {
+async function fetchAllRecords(tableName, viewName, fields) {
   const allRecords = [];
   let offset = "";
 
   while (true) {
     const url = new URL(
-      `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(TABLE_NAME)}`
+      `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(tableName)}`
     );
 
-    url.searchParams.set("view", VIEW_NAME);
+    url.searchParams.set("view", viewName);
 
-    for (const field of FIELDS) {
+    for (const field of fields) {
       url.searchParams.append("fields[]", field);
     }
 
@@ -98,7 +110,120 @@ function normalizeSubject(value) {
   return arr[0] || "";
 }
 
-function buildPacket(record) {
+function buildHeaderLookup(headerRecords) {
+  const byHeaderId = new Map();
+  const byLessonPlanId = new Map();
+
+  for (const record of headerRecords) {
+    const fields = record.fields || {};
+    const headerId = normalizeText(fields["headerID"]) || record.id;
+    const connectedLessonPlanIds = normalizeArray(fields["Connect Lesson Plans"]);
+
+    byHeaderId.set(headerId, record);
+
+    for (const lessonPlanId of connectedLessonPlanIds) {
+      if (!byLessonPlanId.has(lessonPlanId)) {
+        byLessonPlanId.set(lessonPlanId, []);
+      }
+      byLessonPlanId.get(lessonPlanId).push(record);
+    }
+  }
+
+  return { byHeaderId, byLessonPlanId };
+}
+
+function getMatchedHeaderRecords(lessonFields, lessonSetId, headerLookup) {
+  const linkedHeaderIds = normalizeArray(lessonFields["Connect Header Pages"]);
+
+  const matchedByLinkedIds = linkedHeaderIds
+    .map(id => headerLookup.byHeaderId.get(id))
+    .filter(Boolean);
+
+  if (matchedByLinkedIds.length) {
+    return matchedByLinkedIds;
+  }
+
+  return headerLookup.byLessonPlanId.get(lessonSetId) || [];
+}
+
+function buildAboutEntries(headerRecords, lessonSetName, coverTitle) {
+  const entries = [];
+
+  for (const record of headerRecords) {
+    const fields = record.fields || {};
+    const label =
+      normalizeText(fields["Course/Topic Description (LP)"]) ||
+      normalizeText(fields["Subject"]);
+    const content = normalizeText(fields["About_Export"]);
+
+    if (!content) continue;
+
+    const normalizedLabel = label.trim().toLowerCase();
+    const normalizedLessonSet = lessonSetName.trim().toLowerCase();
+    const normalizedCoverTitle = coverTitle.trim().toLowerCase();
+
+    const isPrimary =
+      normalizedLabel === normalizedLessonSet ||
+      normalizedLabel === normalizedCoverTitle;
+
+    entries.push({
+      title: isPrimary || !label ? "About the Course" : `About ${label}`,
+      label,
+      content
+    });
+  }
+
+  return entries;
+}
+
+function buildPlacementEntries(headerRecords) {
+  const entries = [];
+
+  for (const record of headerRecords) {
+    const fields = record.fields || {};
+    const label =
+      normalizeText(fields["Course/Topic Description (LP)"]) ||
+      normalizeText(fields["Subject"]);
+    const content = normalizeText(fields["Combining & Placement Tips (LP)"]);
+
+    if (!content) continue;
+
+    entries.push({
+      title: label || "Placement & Combining Tips",
+      label,
+      content
+    });
+  }
+
+  return entries;
+}
+
+function buildHeaderItems(headerRecords, lessonSetName, coverTitle) {
+  const aboutEntries = buildAboutEntries(headerRecords, lessonSetName, coverTitle);
+  const placementEntries = buildPlacementEntries(headerRecords);
+
+  const items = [];
+
+  if (aboutEntries.length) {
+    items.push({
+      kind: "about-group",
+      title: "About the Course",
+      entries: aboutEntries
+    });
+  }
+
+  if (placementEntries.length) {
+    items.push({
+      kind: "tips-group",
+      title: "Placement & Combining Tips",
+      entries: placementEntries
+    });
+  }
+
+  return items;
+}
+
+function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
   const setId = normalizeText(fields.setID) || record.id;
@@ -111,14 +236,15 @@ function buildPacket(record) {
 
   const courseConnectionIds = normalizeArray(fields["Course Connection"]);
   const topicConnectionIds = normalizeArray(fields["Topic Connection"]);
-
-  // Replace these two field names if your lookup fields are named differently
   const courseConnectionNames = normalizeArray(fields["Course Connection Lookup"]);
   const topicConnectionNames = normalizeArray(fields["Topic Connection Lookup"]);
 
   const isTopicRow = courseConnectionIds.length > 0;
   const hasTopics = topicConnectionIds.length > 0;
   const isStandaloneCourse = !isTopicRow && !hasTopics;
+
+  const matchedHeaderRecords = getMatchedHeaderRecords(fields, setId, headerLookup);
+  const headerItems = buildHeaderItems(matchedHeaderRecords, lessonSetName, coverTitle);
 
   return {
     id: setId,
@@ -146,13 +272,7 @@ function buildPacket(record) {
       },
       {
         type: "header",
-        items: [
-          {
-            kind: "text",
-            title: "About the Course",
-            content: ""
-          }
-        ]
+        items: headerItems
       }
     ]
   };
@@ -192,9 +312,21 @@ async function main() {
   await ensureDir(dataDir);
   await ensureDir(packetsDir);
 
-  const records = await fetchAllRecords();
+  const lessonRecords = await fetchAllRecords(
+    LESSON_TABLE_NAME,
+    LESSON_VIEW_NAME,
+    LESSON_FIELDS
+  );
 
-  const packets = records.map(buildPacket);
+  const headerRecords = await fetchAllRecords(
+    HEADER_TABLE_NAME,
+    HEADER_VIEW_NAME,
+    HEADER_FIELDS
+  );
+
+  const headerLookup = buildHeaderLookup(headerRecords);
+
+  const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
 
   for (const packet of packets) {
