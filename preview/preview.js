@@ -40,6 +40,10 @@ function renderPacket(data) {
 }
 
 function renderSection(section) {
+  if (section.type === "cover") {
+    return renderCoverSection(section);
+  }
+  
   if (section.type === "header") {
     return renderHeaderSection(section);
   }
@@ -59,6 +63,17 @@ function renderSection(section) {
   return "";
 }
 
+function renderCoverSection(section) {
+  return `
+    <div class="page-flow cover-section">
+      <section class="flow-block cover-block">
+        <h1>${section.title || ""}</h1>
+        <h2>${section.subtitle || ""}</h2>
+      </section>
+    </div>
+  `;
+}
+
 function renderHeaderSection(section) {
   let html = `<div class="page-flow header-section">`;
 
@@ -71,15 +86,6 @@ function renderHeaderSection(section) {
 }
 
 function renderHeaderItem(item) {
-  if (item.kind === "cover") {
-    return `
-      <section class="flow-block cover-block">
-        <h1>${item.title || ""}</h1>
-        <h2>${item.subtitle || ""}</h2>
-      </section>
-    `;
-  }
-
   if (item.kind === "about" || item.kind === "scheduling" || item.kind === "planning-prep") {
     return `
       <section class="flow-block header-block">
