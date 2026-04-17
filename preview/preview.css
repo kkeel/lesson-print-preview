@@ -368,7 +368,7 @@ a:hover {
 
 .cover-brand-line {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
-  font-size: 20px;
+  font-size: 17px;
   line-height: 1.1;
   font-weight: 500;
   color: #596e5e;
@@ -377,7 +377,7 @@ a:hover {
 
 .cover-grade-line {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
-  font-size: 17px; /* was 20px */
+  font-size: 15px;
   line-height: 1.1;
   font-weight: 500;
   color: #596e5e;
@@ -389,54 +389,42 @@ a:hover {
 .cover-top-rule {
   height: 4px;
   background: #adb58f;
-  margin-bottom: 0.7in;
+  margin-bottom: 0;
 }
 
-.cover-subject {
-  font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 42px;
-  line-height: 1.08;
-  font-weight: 200;
-  color: #262b26;
-  margin-bottom: 6px;
+.cover-main {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transform: translateY(-8%);
+  padding: 0 0.5in;
 }
 
-.cover-block h1 {
+.cover-title-main {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 34px;
-  line-height: 1.08;
+  font-size: 62px;
+  line-height: 1.02;
   font-weight: 200;
-  color: #262b26;
+  color: #596e5e;
   margin: 0 0 16px;
 }
 
-.cover-block h2 {
-  display: none;
-}
-
-.cover-topic-stack {
-  margin-bottom: 18px;
-}
-
-.cover-topic-line {
+.cover-subtitle-main {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
-  font-size: 22px;
-  line-height: 1.28;
+  font-size: 18px;
+  line-height: 1.35;
   font-weight: 500;
-  color: #262b26;
-}
-
-.cover-lesson-set-name {
-  font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 14px;
-  line-height: 1.45;
-  color: #6f746b;
-  margin-top: 4px;
+  color: #adb58f;
+  white-space: pre-line;
+  margin: 0;
 }
 
 .cover-footer-line {
   margin-top: auto;
-  padding-top: 32px;
+  padding-top: 24px;
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 12px;
   color: #262b26;
