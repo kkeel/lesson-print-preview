@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students study basic principles of economics.\n\nThis topic is included in the following course(s): Citizenship: Grade 12",
+              "label": "Students study basic principles of economics.\n\nThis topic is included in the following course(s): Citizenship: Grade 12",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -28,7 +28,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This topic is included in the following course(s): Science: Advanced Nature Study",
+              "label": "This topic is included in the following course(s): Science: Advanced Nature Study",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -30,7 +30,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Using a survey of key events in the American church, articles, and extra resources on Christianity across the world in the lesson plans, this course gives students a personal and big picture look at church history during the 19th century. A second text is used to bring the people and events of the early church to life.\n\nThis topic is included in the following course(s): Bible: Grades 10-11, Bible: Grade 12",
+              "label": "Using a survey of key events in the American church, articles, and extra resources on Christianity across the world in the lesson plans, this course gives students a personal and big picture look at church history during the 19th century. A second text is used to bring the people and events of the early church to life.\n\nThis topic is included in the following course(s): Bible: Grades 10-11, Bible: Grade 12",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

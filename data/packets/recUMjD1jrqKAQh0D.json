@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students study citizenship topics of political engagement as a way to love our neighbors, relationships in a technological world, and understanding our consciences.\n\nThis topic is included in the following course(s): Citizenship: Grade 12",
+              "label": "Students study citizenship topics of political engagement as a way to love our neighbors, relationships in a technological world, and understanding our consciences.\n\nThis topic is included in the following course(s): Citizenship: Grade 12",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

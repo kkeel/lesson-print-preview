@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "null",
+              "label": "null",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

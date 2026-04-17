@@ -28,7 +28,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 7",
+              "label": "Students use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 7",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

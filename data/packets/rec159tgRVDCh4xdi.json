@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This course helps students explore and enjoy poems on many levels; lessons include practice in both reading and writing about poetry.\n\nThis topic is included in the following course(s): Literature: Grade 11",
+              "label": "This course helps students explore and enjoy poems on many levels; lessons include practice in both reading and writing about poetry.\n\nThis topic is included in the following course(s): Literature: Grade 11",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

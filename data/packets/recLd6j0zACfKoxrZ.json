@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students learn to love the sight and sound of words through daily poetry reading covering a wide variety of poems. They also enjoy short picture book biographies and accessible poems corresponding to the historical time period as relevant, and lesson plans occasionally point out interesting poetic features.",
+              "label": "Students learn to love the sight and sound of words through daily poetry reading covering a wide variety of poems. They also enjoy short picture book biographies and accessible poems corresponding to the historical time period as relevant, and lesson plans occasionally point out interesting poetic features.",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

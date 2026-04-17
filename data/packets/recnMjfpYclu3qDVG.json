@@ -34,9 +34,44 @@
           "title": "About the Course",
           "entries": [
             {
-              "title": "About Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7\n\n",
-              "label": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7\n\n",
-              "content": "Mathematics: Grade 7\nFor students in elementary school, we recommend RightStart Math (Second Edition), because a) it adheres to Mason's principle that the idea always comes before the algorithm, b) it reflects the very best current research in how children learn mathematics, and c) it offers much-needed support for teachers whose own math instruction may have been lacking. Students in middle school take RightStart Geometry and also add in Pre-Algebra (Hands-On Equations) and Jacobs' Elementary Algebra.\n\nThe lessons should be done in the morning and games in the afternoon. Both mental math and games are critical parts of math instruction, so do not skip them. These lessons are paced out to help keep you on track. There are a few catch-up days built in and can be used to finish incomplete work or to review concepts. The general goal should be to complete one lesson per day. It is important that you complete one level per year, even if that means continuing during breaks, as moving slower can affect high school credits later."
+              "title": "About Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7",
+              "label": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7",
+              "content": "Mathematics: Grade 7\nFor students in elementary school"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "we recommend RightStart Math (Second Edition)"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "because a) it adheres to Mason's principle that the idea always comes before the algorithm"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "b) it reflects the very best current research in how children learn mathematics"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "and c) it offers much-needed support for teachers whose own math instruction may have been lacking. Students in middle school take RightStart Geometry and also add in Pre-Algebra (Hands-On Equations) and Jacobs' Elementary Algebra.\n\nThe lessons should be done in the morning and games in the afternoon. Both mental math and games are critical parts of math instruction"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "so do not skip them. These lessons are paced out to help keep you on track. There are a few catch-up days built in and can be used to finish incomplete work or to review concepts. The general goal should be to complete one lesson per day. It is important that you complete one level per year"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "even if that means continuing during breaks"
+            },
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "as moving slower can affect high school credits later."
             }
           ]
         },
@@ -45,8 +80,8 @@
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7\n\n",
-              "label": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7\n\n",
+              "title": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7",
+              "label": "Students discover algebraic concepts using manipulatives.\n\nThis topic is included in the following course(s): Mathematics: Grade 7",
               "content": "Prerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents."
             }
           ]

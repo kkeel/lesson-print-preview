@@ -28,7 +28,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 8",
+              "label": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 8",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

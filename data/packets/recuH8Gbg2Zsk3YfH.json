@@ -38,7 +38,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "This topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5",
+              "label": "This topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

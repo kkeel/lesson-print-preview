@@ -30,9 +30,20 @@
           "title": "About the Course",
           "entries": [
             {
-              "title": "About Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12\n\n",
-              "label": "Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12\n\n",
+              "title": "About Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12",
+              "label": "Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12",
               "content": "Mathematics: Grade 12\nStudents should look ahead to college math requirements at schools they may want to attend or majors they may plan to pursue and plan accordingly. It is important to work at a student's pace. Alveary pacing has students study geometry and algebra concurrently in 9th and 10th grade and then finish Algebra II/Trig during 11th grade. Students can then start precalculus in 11th grade and finish 12th grade with precalculus or calculus."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12",
+              "label": "Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12",
+              "content": "null"
             }
           ]
         }

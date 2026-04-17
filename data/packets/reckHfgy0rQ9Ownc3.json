@@ -24,7 +24,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Each term, recite from memory or read beautifully 1 hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 poem.",
+              "label": "Each term, recite from memory or read beautifully 1 hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 poem.",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

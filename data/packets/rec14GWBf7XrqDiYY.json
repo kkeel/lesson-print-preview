@@ -28,7 +28,19 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Students learn the parts of speech through a four-part analysis.\n\nThis topic is included in the following course(s): Language Study: Grade 4",
+              "label": "Students learn the parts of speech through a four-part analysis.\n\nThis topic is included in the following course(s): Language Study: Grade 4",
+              "content": "null"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
