@@ -9,17 +9,17 @@
   "hasTopics": false,
   "isStandaloneCourse": false,
   "courseConnectionIds": [
-    "rec50NnljmOQNH0NR",
-    "recJLmDpg0XImtP6S",
     "rec84N8PnmvlbHHXv",
-    "rec3j4kR5zRlnHK5N"
+    "rec3j4kR5zRlnHK5N",
+    "rec50NnljmOQNH0NR",
+    "recJLmDpg0XImtP6S"
   ],
   "topicConnectionIds": [],
   "courseConnectionNames": [
-    "Literature: Grade 9",
-    "Literature: Grade 10",
     "Literature: Grade 11",
-    "Literature: Grade 12"
+    "Literature: Grade 12",
+    "Literature: Grade 9",
+    "Literature: Grade 10"
   ],
   "topicConnectionNames": [],
   "templateType": "standard",

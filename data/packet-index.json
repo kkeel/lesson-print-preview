@@ -2876,9 +2876,9 @@
     "hasTopics": false,
     "isStandaloneCourse": false,
     "courseConnectionNames": [
-      "History: Grades 10-12 (U.S.)",
       "History: Grade 10 (Canada)",
-      "History: Grades 11-12 (Canada)"
+      "History: Grades 11-12 (Canada)",
+      "History: Grades 10-12 (U.S.)"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recLvvAD3qwZTJey2"
@@ -3329,17 +3329,17 @@
     "hasTopics": false,
     "isStandaloneCourse": false,
     "courseConnectionNames": [
+      "Literature: Grade 1",
       "Citizenship: Grade 4",
       "Citizenship: Grade 5",
       "Citizenship: Grade 6",
-      "Citizenship: Grade 12",
-      "Literature: Grade 1",
-      "Literature: Grade 2",
-      "Literature: Grade 3",
       "Citizenship: Grade 7 (U.S.)",
       "Citizenship: Grade 7 (Canada)",
       "Citizenship: Grade 8 (U.S.)",
-      "Citizenship: Grade 8 (Canada)"
+      "Citizenship: Grade 8 (Canada)",
+      "Citizenship: Grade 12",
+      "Literature: Grade 2",
+      "Literature: Grade 3"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recdlpC8UnGxOhpSZ"
@@ -3657,10 +3657,10 @@
     "hasTopics": false,
     "isStandaloneCourse": false,
     "courseConnectionNames": [
-      "Literature: Grade 9",
-      "Literature: Grade 10",
       "Literature: Grade 11",
-      "Literature: Grade 12"
+      "Literature: Grade 12",
+      "Literature: Grade 9",
+      "Literature: Grade 10"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec6j5XLnrMBoubth"
@@ -6166,8 +6166,8 @@
       "Science: Physics",
       "Science: Botany",
       "Science: Geology",
-      "Science: Astronomy",
-      "Science: Microbiology"
+      "Science: Microbiology",
+      "Science: Astronomy"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recH7dK88YkNRwvPD"
@@ -6189,8 +6189,8 @@
       "Science: Physics",
       "Science: Botany",
       "Science: Geology",
-      "Science: Astronomy",
-      "Science: Microbiology"
+      "Science: Microbiology",
+      "Science: Astronomy"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recWt7LLnlqUsyMLX"

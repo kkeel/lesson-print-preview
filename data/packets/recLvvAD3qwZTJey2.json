@@ -9,15 +9,15 @@
   "hasTopics": false,
   "isStandaloneCourse": false,
   "courseConnectionIds": [
-    "recG8ETCmXNqLVKXJ",
     "recSVxeKFAh5j2CtC",
-    "reciT2Mn4uBl6h6vJ"
+    "reciT2Mn4uBl6h6vJ",
+    "recG8ETCmXNqLVKXJ"
   ],
   "topicConnectionIds": [],
   "courseConnectionNames": [
-    "History: Grades 10-12 (U.S.)",
     "History: Grade 10 (Canada)",
-    "History: Grades 11-12 (Canada)"
+    "History: Grades 11-12 (Canada)",
+    "History: Grades 10-12 (U.S.)"
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
