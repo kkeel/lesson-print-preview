@@ -405,19 +405,19 @@ a:hover {
 
 .cover-title-main {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 62px;
+  font-size: 72px; /* increased */
   line-height: 1.02;
   font-weight: 200;
-  color: #596e5e;
-  margin: 0 0 16px;
+  color: #596e5e; /* exact dark green */
+  margin: 0 0 18px;
 }
 
 .cover-subtitle-main {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
-  font-size: 18px;
-  line-height: 1.35;
-  font-weight: 500;
-  color: #adb58f;
+  font-size: 16px; /* smaller */
+  line-height: 1.4;
+  font-weight: 300; /* lighter (less bold) */
+  color: #adb58f; /* exact light green */
   white-space: pre-line;
   margin: 0;
 }
