@@ -98,7 +98,7 @@ function renderCoverSection(section, packetData) {
           </div>
 
           <div class="cover-footer">
-            <img src="../../images/Alveary Greens.png" alt="Alveary logo" class="cover-logo" />
+            <img src="../images/Alveary Greens.png" alt="Alveary logo" class="cover-logo" />
             <div class="cover-footer-line">©2026 Charlotte Mason Institute®</div>
           </div>
         </div>
