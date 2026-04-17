@@ -35,7 +35,7 @@
 
         list.innerHTML = items.map(item => `
           <div class="item">
-            <a href="./preview/?id=${encodeURIComponent(item.id)}">${item.title}</a>
+            <a href="./preview/index.html?id=${encodeURIComponent(item.id)}">${item.title}</a>
             <div>Subject: ${item.subject}</div>
             <div>Term: ${item.term}</div>
           </div>
