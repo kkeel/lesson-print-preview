@@ -97,7 +97,10 @@ function renderCoverSection(section, packetData) {
             ${subtitle ? `<div class="cover-subtitle-main">${escapeHtml(subtitle)}</div>` : ""}
           </div>
 
-          <div class="cover-footer-line">©2025 Charlotte Mason Institute®</div>
+          <div class="cover-footer">
+            <img src="../../images/Alveary Greens.png" alt="Alveary logo" class="cover-logo" />
+            <div class="cover-footer-line">©2026 Charlotte Mason Institute®</div>
+          </div>
         </div>
       </section>
     </div>
