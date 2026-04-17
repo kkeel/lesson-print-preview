@@ -3,27 +3,199 @@
   "templateType": "standard",
   "title": "Sample Lesson Set 1",
 
-  "pages": [
-    {
-      "type": "cover",
-      "title": "Sample Lesson Set 1",
-      "subtitle": "Bible - Term 1"
-    },
+  "sections": [
     {
       "type": "header",
-      "title": "Header Page Example",
-      "content": "This is where header page content will go."
+      "items": [
+        {
+          "kind": "cover",
+          "title": "Sample Lesson Set 1",
+          "subtitle": "Bible - Term 1"
+        },
+        {
+          "kind": "about",
+          "title": "About the Course",
+          "content": "This course includes sample introductory information about the lesson plan set."
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "content": "This is where scheduling and sample weekly view information will go."
+        },
+        {
+          "kind": "planning-prep",
+          "title": "Planning & Prep",
+          "content": "This is where planning and preparation notes will go."
+        },
+        {
+          "kind": "book-reference",
+          "title": "Books & Resources",
+          "content": "For book rationales and purchase options, click the Book List link or scan the QR code below.",
+          "linkLabel": "∞ View Book List Details",
+          "url": "https://example.com/books?set=sample-set-1"
+        },
+        {
+          "kind": "supply-reference",
+          "title": "Supplies",
+          "content": "For supply list details and basic supplies helpful to have on hand, click the links or scan the QR code below.",
+          "linkLabel": "∞ View Basic Supplies",
+          "url": "https://example.com/supplies?set=sample-set-1"
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "content": "Click the text or scan the QR code for links.",
+          "links": [
+            {
+              "label": "∞ Extra Helpings",
+              "url": "https://example.com/extra-helpings"
+            },
+            {
+              "label": "∞ How do we help students learn to interpret the Bible?",
+              "url": "https://example.com/link-1"
+            }
+          ]
+        }
+      ]
     },
     {
-      "type": "section",
-      "title": "Section 1",
-      "content": "This is a section divider or intro."
+      "type": "howto",
+      "items": [
+        {
+          "title": "Recap",
+          "prompt": "P Recap",
+          "image": "https://via.placeholder.com/150",
+          "content": "Connect to previous lessons by asking students to recall where they left off."
+        },
+        {
+          "title": "Read",
+          "prompt": "P Read",
+          "image": "https://via.placeholder.com/150",
+          "content": "Read the chapter or selection aloud and move at the students' pace."
+        }
+      ]
     },
     {
-      "type": "lesson",
-      "lessonNumber": 1,
-      "title": "Lesson One",
-      "content": "This is sample lesson content."
+      "type": "lessons",
+      "terms": [
+        {
+          "term": "Term 1",
+          "lessons": [
+            {
+              "week": 1,
+              "duration": "20m",
+              "courseTitle": "Old Testament: Grades 3-6",
+              "lessonNumber": 1,
+              "title": "The Pharaoh Goes Against the Jewish People",
+              "materials": [
+                "ESV Large Print Bible",
+                "Herein is Love: Exodus"
+              ],
+              "linkReference": {
+                "label": "Click THIS text or scan the QR code for links.",
+                "url": "https://example.com/links?set=sample-set-1&lesson=1"
+              },
+              "blocks": [
+                {
+                  "kind": "note",
+                  "label": "NOTE",
+                  "content": "The emphasis of lessons will be on the Scripture reading."
+                },
+                {
+                  "kind": "intro",
+                  "label": "INTRO",
+                  "content": "This year we will focus on the Pentateuch and God's redemptive story."
+                },
+                {
+                  "kind": "read",
+                  "label": "READ, NARRATE, & DISCUSS",
+                  "content": "Exodus 1:5-22"
+                }
+              ]
+            },
+            {
+              "week": 1,
+              "duration": "20m",
+              "courseTitle": "New Testament: Grades 3-6",
+              "lessonNumber": 2,
+              "title": "Luke's Introduction",
+              "materials": [
+                "ESV Large Print Bible",
+                "Printed map",
+                "Notebook"
+              ],
+              "linkReference": {
+                "label": "Click THIS text or scan the QR code for links.",
+                "url": "https://example.com/links?set=sample-set-1&lesson=2"
+              },
+              "blocks": [
+                {
+                  "kind": "prep",
+                  "label": "PREP",
+                  "content": "Print out a map for each student."
+                },
+                {
+                  "kind": "intro",
+                  "label": "INTRO",
+                  "content": "This year, we will read through the book of Luke."
+                },
+                {
+                  "kind": "notebook",
+                  "label": "NOTEBOOK",
+                  "content": "Begin a title page and glue in the map."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "term": "Term 2",
+          "lessons": [
+            {
+              "week": 1,
+              "duration": "20m",
+              "courseTitle": "Old Testament: Grades 3-6",
+              "lessonNumber": 25,
+              "title": "Manna",
+              "materials": [
+                "ESV Large Print Bible",
+                "Herein is Love: Exodus"
+              ],
+              "linkReference": {
+                "label": "Click THIS text or scan the QR code for links.",
+                "url": "https://example.com/links?set=sample-set-1&lesson=25"
+              },
+              "blocks": [
+                {
+                  "kind": "recap",
+                  "label": "RECAP",
+                  "content": "What do you recall about our reading in Exodus?"
+                },
+                {
+                  "kind": "read",
+                  "label": "READ, NARRATE, & DISCUSS",
+                  "content": "Exodus 16:22-36"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exams",
+      "items": [
+        {
+          "term": "Term 1",
+          "title": "Examination",
+          "content": "Tell what you know of two of the plagues on Egypt OR tell what you know of the life of Moses before he became leader of Israel."
+        },
+        {
+          "term": "Term 2",
+          "title": "Examination",
+          "content": "Tell about two of the miracles Jesus performed OR tell about two of the parables Jesus told."
+        }
+      ]
     }
   ]
 }
