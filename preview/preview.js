@@ -119,6 +119,20 @@ function renderHeaderSection(section) {
 }
 
 function renderHeaderItem(item) {
+  if (item.kind === "about-group" || item.kind === "tips-group") {
+    return `
+      <section class="flow-block header-block header-group-block">
+        <h2>${escapeHtml(item.title || "")}</h2>
+        ${(item.entries || []).map(entry => `
+          <div class="header-entry">
+            ${entry.title ? `<h3 class="header-entry-title">${escapeHtml(entry.title)}</h3>` : ""}
+            <p>${nl2br(entry.content || "")}</p>
+          </div>
+        `).join("")}
+      </section>
+    `;
+  }
+
   if (item.kind === "about" || item.kind === "scheduling" || item.kind === "planning-prep" || item.kind === "text") {
     return `
       <section class="flow-block header-block">
