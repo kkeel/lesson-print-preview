@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lesson Packet Preview</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.5;
+    }
+    .page {
+      border: 1px solid #ccc;
+      padding: 24px;
+      margin-bottom: 24px;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="preview">Loading preview...</div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+
+    const preview = document.getElementById("preview");
+
+    if (!id) {
+      preview.innerHTML = "<p>No lesson plan set selected.</p>";
+    } else {
+      fetch(`../data/packets/${id}.json`)
+        .then(response => response.json())
+        .then(data => {
+          let html = `
+            <div class="page">
+              <h1>${data.title}</h1>
+              <p><strong>Template Type:</strong> ${data.templateType}</p>
+            </div>
+          `;
+
+          data.headerPages.forEach(page => {
+            html += `
+              <div class="page">
+                <h2>${page.title}</h2>
+                <p>${page.content}</p>
+              </div>
+            `;
+          });
+
+          data.sections.forEach(section => {
+            html += `
+              <div class="page">
+                <h2>${section.title}</h2>
+                <p>${section.content}</p>
+              </div>
+            `;
+          });
+
+          data.lessons.forEach(lesson => {
+            html += `
+              <div class="page">
+                <h3>Lesson ${lesson.lessonNumber}: ${lesson.title}</h3>
+                <p>${lesson.content}</p>
+              </div>
+            `;
+          });
+
+          preview.innerHTML = html;
+        })
+        .catch(error => {
+          preview.innerHTML = `<p>Could not load preview for ${id}.</p>`;
+          console.error(error);
+        });
+    }
+  </script>
+</body>
+</html>
