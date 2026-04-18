@@ -22,7 +22,10 @@ const LESSON_FIELDS = [
   "Topic Connection",
   "Course Connection Lookup",
   "Topic Connection Lookup",
-  "Connect Header Pages"
+  "Connect Header Pages",
+  "Grade",
+  "Schedule Info.",
+  "Books"
 ];
 
 const HEADER_FIELDS = [
