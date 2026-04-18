@@ -54,6 +54,40 @@
               "content": "Grammar: Grade 6\nIf your student did not do Sentence Island the previous year, you should incorporate that book with the 6th-grade grammar book.\n\nWritten Narration: Grade 6\nIncrease the number of written narrations at a pace at which your student can be successful."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Grammar: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Grammar: Grade 6\n2 times/week 15 min",
+              "books": "Grammar Town, Grammar Town Teacher Manual (select pages), Practice Town, Practice Town Teacher Manual (select pages)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Dictation: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Dictation: Grade 6\n3 times/week 15 min",
+              "books": "Grade 6 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Penmanship & Copywork: Grade 6\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book G, Grade 6 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Written Narration: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Written Narration: Grade 6\n5 times/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

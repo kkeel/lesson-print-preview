@@ -38,6 +38,19 @@
               "content": "Students use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 8"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Dictation: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Dictation: Grade 8\n2 times/week 15 min",
+              "books": "Grade 8 Copywork & Dictation Book"
+            }
+          ]
         }
       ]
     }

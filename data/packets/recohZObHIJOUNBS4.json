@@ -50,6 +50,19 @@
               "content": "Minimal supplies are required."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Sports",
+              "grade": "4-12",
+              "scheduleInfo": "Sports\n1 time/week 20 min",
+              "books": "The Ultimate Homeschool Physical Education Game Book"
+            }
+          ]
         }
       ]
     }

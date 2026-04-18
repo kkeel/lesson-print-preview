@@ -44,6 +44,19 @@
               "content": "Lessons are occasionally integrated with composition lessons. \nThe book The Prime Ministers: Canada's Leaders and the Nation They Shaped will be read over two years (Grades 10 and 11). However, since this is the first year this book will be used, Grades 10 and 11 will have the same readings in 2026-2027."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Econ/Civics: Grade 10 (Canada)",
+              "grade": "10",
+              "scheduleInfo": "Econ/Civics: Grade 10 (Canada)\n1 time/week 40 min",
+              "books": "Think: The Life of the Mind and the Love of God, Atomic Habits, The Prime Ministers: Canada's Leaders and the Nation They Shaped, What Would Keynes Do?"
+            }
+          ]
         }
       ]
     }

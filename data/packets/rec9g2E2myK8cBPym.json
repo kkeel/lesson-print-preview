@@ -44,6 +44,19 @@
               "content": "Can easily be combined with 10-11th grade."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Geography: Grade 12\n2 times/week 40 min",
+              "books": "Five Months on the Missouri River: Paddling a Dugout Canoe, Across This Land, Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs, A Brief History of the World in 47 Borders: Surprising Stories Behind the Lines on Our Maps"
+            }
+          ]
         }
       ]
     }

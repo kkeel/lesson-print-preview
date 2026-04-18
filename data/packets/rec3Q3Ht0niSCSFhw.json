@@ -54,6 +54,40 @@
               "content": "Language Study: Grade 4\nGrade 4 students who did not complete all three levels of the Alveary Reading Lessons, who are having difficulty with spelling, who cannot read well enough to narrate, or who make more than 10 errors in a 100-word passage should continue the reading lessons while the teacher dials back on the amount of reading required in other subjects.\n\nWritten Narration: Grade 4\nStudents who are not yet secure with their penmanship are not yet ready for written narration. Instead of written narrations, use the time to have students work on skills that will better support their development. Also, be sure to include typing in life skills!"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Grammar: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Grammar: Grade 4\n2 times/week 15 min",
+              "books": "Grammar Island, Grammar Island Teacher Manual (select pages), Practice Island, Practice Island Teacher Manual (select pages)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Dictation: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Dictation: Grade 4\n3 times/week 15 min",
+              "books": "Grade 4 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Penmanship & Copywork: Grade 4\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book E, Grade 4 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Written Narration: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Written Narration: Grade 4\n1 time/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

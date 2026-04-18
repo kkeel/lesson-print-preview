@@ -52,6 +52,33 @@
               "content": "Plutarch: Beginner Track\nOlder students beginning Plutarch for the first time may wish to start with this level as a replacement for other Plutarch lessons."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Plutarch: Beginner Track",
+              "grade": "5+",
+              "scheduleInfo": "Plutarch: Beginner Track\n1 time/week 30 min",
+              "books": "The Plutarch Project Primer: Publicola (Revised)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Current Events: Grades 5-8",
+              "grade": "5-8",
+              "scheduleInfo": "Current Events: Grades 5-8\n1+ time/week 15 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Community Read Alouds: Grades 1-12",
+              "grade": "1-12",
+              "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

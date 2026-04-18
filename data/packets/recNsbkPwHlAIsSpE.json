@@ -54,6 +54,40 @@
               "content": "Playground Games\nSuitable for interested younger students.\n\nSports\nMinimal supplies are required.\n\nFree Play/ Circuits\nStudents may also choose to take a local Pilates or Yoga class.\n\nHistoric Dancing\nThis course is suitable for interested students in Grades 5-6 if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Playground Games",
+              "grade": "4-12",
+              "scheduleInfo": "Playground Games\n1 time/week 20 min",
+              "books": "The Ultimate Homeschool Physical Education Game Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Sports",
+              "grade": "4-12",
+              "scheduleInfo": "Sports\n1 time/week 20 min",
+              "books": "The Ultimate Homeschool Physical Education Game Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Free Play/ Circuits",
+              "grade": "4-12",
+              "scheduleInfo": "Free Play/ Circuits\n2 times/week 20 min",
+              "books": "303 Tween-Approved Exercises and Active Games"
+            },
+            {
+              "rowType": "topic",
+              "label": "Historic Dancing",
+              "grade": "7-12",
+              "scheduleInfo": "Historic Dancing\n1 time/week 20 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

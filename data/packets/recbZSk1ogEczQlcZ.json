@@ -48,6 +48,19 @@
               "content": "About Science: Grade 3\nIn level 3, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and more abstract concepts."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Natural History: Grade 3\n1 time/week 10 min",
+              "books": "Christian Liberty Nature Reader Book 4"
+            }
+          ]
         }
       ]
     }

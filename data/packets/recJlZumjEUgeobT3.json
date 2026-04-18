@@ -48,6 +48,19 @@
               "content": "This course progresses through the RightStart G over two years.\n\nPrerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Geometry: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Geometry: Grade 7\n3 times/week 30 min",
+              "books": "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+            }
+          ]
         }
       ]
     }

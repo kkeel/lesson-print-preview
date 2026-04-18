@@ -50,6 +50,26 @@
               "content": "Bible Stories\nThose who wish to combine first graders and older students should choose either this course or any of the Bible courses for grades 2-6. Older students who are unfamiliar with Bible stories may wish to read these stories independently.\n\nChurch History: Grades 1-3\nThose who wish to combine students in Grades 1-3 with older students should choose either this course or the Church History for grades 4-6."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Bible Stories",
+              "grade": "1",
+              "scheduleInfo": "Bible Stories\n4 times/week 20 min",
+              "books": "Hurlbut's Story of the Bible"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 1-3",
+              "grade": "1-3",
+              "scheduleInfo": "Church History: Grades 1-3\n1 time/week 20 min",
+              "books": "The Bandit of Ashley Downs: George Muller, Adoniram Judson: Danger on the Streets of Gold"
+            }
+          ]
         }
       ]
     }

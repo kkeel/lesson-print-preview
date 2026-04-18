@@ -44,6 +44,19 @@
               "content": "Increase the number of written narrations at a pace at which your student can be successful."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Written Narration: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Written Narration: Grade 8\n8 times/week 15 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

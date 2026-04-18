@@ -38,6 +38,19 @@
               "content": "Copy words and short sentences and write them from dictation.\n\nThis topic is included in the following course(s): Language Study: Grade 2"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Penmanship & Copywork: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Penmanship & Copywork: Grade 2\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book C"
+            }
+          ]
         }
       ]
     }

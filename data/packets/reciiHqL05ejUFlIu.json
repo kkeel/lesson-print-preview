@@ -48,6 +48,19 @@
               "content": "Lessons in one of the gospels are shared across HS grades. Some epistles studied in Grade 12 are more challenging than those in younger grades, but lessons can be combined if desired. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "New Testament: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "New Testament: Grade 12\n1 time/week 30 min",
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+            }
+          ]
         }
       ]
     }

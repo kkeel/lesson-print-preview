@@ -48,6 +48,19 @@
               "content": "Students can take this course even if they haven't taken grammar before. The beginning is written with a built-in review."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Grammar: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Grammar: Grade 5\n2 times/week 15 min",
+              "books": "Sentence Island, Practice Island, Practice Island Teacher Manual (select pages)"
+            }
+          ]
         }
       ]
     }

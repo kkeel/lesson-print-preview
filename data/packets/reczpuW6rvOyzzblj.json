@@ -44,6 +44,19 @@
               "content": "History courses are on a four-year rotation. Students should follow the current Alveary rotation."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "History: Grades 2-3 (U.S.)",
+              "grade": "2-3",
+              "scheduleInfo": "History: Grades 2-3 (U.S.)\n1 time/week 20 min",
+              "books": "Abraham Lincoln: An Initial Biography, Escape by Night: A Civil War Adventure, Dandelions, Buffalo Bird Girl: A Hidatsa Story, Coolies"
+            }
+          ]
         }
       ]
     }

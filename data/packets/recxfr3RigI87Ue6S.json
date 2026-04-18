@@ -48,6 +48,19 @@
               "content": "Even students in Grade 8 who have not taken Pre-Algebra should take this course to keep on pace for earning high school credits.\n\nPrerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Algebra 1: Part 1",
+              "grade": "8",
+              "scheduleInfo": "Algebra 1: Part 1\n3 times/week 40 min",
+              "books": "Elementary Algebra Teacher Guide (Revised Edition), Elementary Algebra Student Book"
+            }
+          ]
         }
       ]
     }

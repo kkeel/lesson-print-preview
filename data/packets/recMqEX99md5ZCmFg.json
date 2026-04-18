@@ -50,6 +50,19 @@
               "content": "Some books shared with other high school grades. Literature, history, and geography lessons work in sync in Grades 9-12, so it is best to consider all three together when placing students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Lit.: Grades 11-12",
+              "grade": "11-12",
+              "scheduleInfo": "General Lit.: Grades 11-12\n2 times/week 30 min",
+              "books": "Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Up from Slavery, The Count of Monte Cristo, Jane Eyre, James, Short stories and other writings, Things Fall Apart"
+            }
+          ]
         }
       ]
     }

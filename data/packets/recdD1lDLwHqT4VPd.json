@@ -44,6 +44,19 @@
               "content": "Students in Grades 5-8 can easily be combined for these lessons as all grades use nearly the same texts this year, although older grades read additional selections and have corresponding composition assignments."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Poetry: Grades 5-6",
+              "grade": "5-6",
+              "scheduleInfo": "Poetry: Grades 5-6\n5 times/week 5 min",
+              "books": "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry, The Crescent Moon, The Poet: Pauline Johnson, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+            }
+          ]
         }
       ]
     }

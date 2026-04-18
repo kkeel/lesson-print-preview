@@ -34,6 +34,19 @@
               "content": "Get to know the diverse people who inhabited North America before the European explorers arrived. Learn how they used what was available around them for food, shelter, clothing, and protection. Observe their customs, hear their stories, and discover how they pass on their traditional knowledge today."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "History: Grade 1 (Canada)",
+              "grade": "1",
+              "scheduleInfo": "History: Grade 1 (Canada)\n1 time/week 10 min",
+              "books": "The Honour Drum, Thirteen Moons on Turtle's Back: A Native American Year of Moons, The Pencil, Maple Moon, The Gift of the Great Buffalo, On the Trapline, Hiawatha and the Peacemaker"
+            }
+          ]
         }
       ]
     }

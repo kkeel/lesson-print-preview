@@ -38,6 +38,19 @@
               "content": "New Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nThis topic is included in the following course(s): Bible: Grade 2"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "New Testament: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "New Testament: Grade 2\n1 time/week 20 min",
+              "books": "ESV Large Print Bible, God's Bible Timeline: The Big Book of Biblical History, The Bible Story Handbook"
+            }
+          ]
         }
       ]
     }

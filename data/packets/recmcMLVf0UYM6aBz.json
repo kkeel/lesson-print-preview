@@ -44,6 +44,19 @@
               "content": "The first two terms are the same every year and shared between both US and Canadian courses. Term 3 brings in resources from the historical time period and is specific to Canadian students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 7 (Canada)",
+              "grade": "7",
+              "scheduleInfo": "Geography: Grade 7 (Canada)\n2 times/week 30 min",
+              "books": "Mapping the World with Art, Canadian Student Atlas, Exploring the Frozen North"
+            }
+          ]
         }
       ]
     }

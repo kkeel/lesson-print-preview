@@ -44,6 +44,19 @@
               "content": "Prerequisite: Level 2. Students just beginning Latin should start at Level 1 and consider the optional online course.\n\nNOTE: for Levels 3-4, students work through materials at their own pace, and lesson plans are not provided. This course may be counted as 1 credit for High School."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Latin 3",
+              "grade": "9+",
+              "scheduleInfo": "Latin 3\n2 times/week 30 min+",
+              "books": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access), North American Cambridge Latin Unit 3 5th Ed. , Cambridge Latin Unit 3 Online Resources"
+            }
+          ]
         }
       ]
     }

@@ -56,6 +56,47 @@
               "content": "Science: Grade 6\nFor sixth-grade students or possibly hungry fifth-graders or seventh-graders taking their time.  If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, learners may stay at their appropriate level for General Science while combining Natural History and Outdoor Work, or teachers can adapt the laboratory content and reading level to meet their needs.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate.\n\nGeneral Science: Grade 6\nFor sixth-grade students or possibly hungry fifth-graders or seventh-graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs.\n\nLabs: Grade 6\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution.\n\nNatural History: Grade 6\nFor approximately sixth-grade students based on a balance of complexity and reading level. However, learners may be freely combined, or sequence reordered based on needs and preferences.\n\nNature Notebook: Grade 6\nLearners may be combined and share prompts or follow their own interests. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "General Science: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "General Science: Grade 6\n2 times/week 30 min",
+              "books": "Plate Tectonics, Phineas Gage, The Art of Construction"
+            },
+            {
+              "rowType": "topic",
+              "label": "Labs: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Labs: Grade 6\n1 time/week 30 min",
+              "books": "Science: Grade 6 Lab Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Natural History: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Natural History: Grade 6\n1 time/week 15 min",
+              "books": "Tracking Trash, The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem, The Frog Scientist"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Nature Notebook: Grade 6\n1+ time/week 15 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

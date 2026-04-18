@@ -48,6 +48,19 @@
               "content": "Sensitive students may wait a year to begin Citizen Stories. (The book used in this course contains some violent scenes.)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "First Citizen Stories",
+              "grade": "4",
+              "scheduleInfo": "First Citizen Stories\n1 time/week 20 min",
+              "books": "Stories From the History of Rome, Historical Atlas of the World 6th Ed."
+            }
+          ]
         }
       ]
     }

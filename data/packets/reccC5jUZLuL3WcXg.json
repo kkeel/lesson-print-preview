@@ -44,6 +44,19 @@
               "content": "Lessons are occasionally integrated with composition lessons. Term 2 Government lessons are shared with Grades 9 and 11."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Econ/Civics: Grade 10 (U.S.)",
+              "grade": "10",
+              "scheduleInfo": "Econ/Civics: Grade 10 (U.S.)\n1 time/week 40 min",
+              "books": "Think: The Life of the Mind and the Love of God, Atomic Habits, Reading PDF, What Would Keynes Do?"
+            }
+          ]
         }
       ]
     }

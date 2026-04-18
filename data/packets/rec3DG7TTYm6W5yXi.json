@@ -44,6 +44,19 @@
               "content": "Grade 2 students who are new to sloyd should take Sloyd: Intro and then continue the courses in sequence."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Level 1",
+              "grade": "2+",
+              "scheduleInfo": "Sloyd: Level 1\n1 time/week 15 min",
+              "books": "Paper Sloyd for Primary Grades"
+            }
+          ]
         }
       ]
     }

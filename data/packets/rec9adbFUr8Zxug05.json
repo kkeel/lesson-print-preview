@@ -44,6 +44,19 @@
               "content": "Except for some Bible passages, recitation selections are shared with Grades 1-2."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Recitation: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Recitation: Grade 3\n5 times/week 10 min",
+              "books": "Our Work: Grade 3"
+            }
+          ]
         }
       ]
     }

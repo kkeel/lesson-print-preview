@@ -48,6 +48,19 @@
               "content": "Recommended for learners who have completed Physical Science, such as Alveary Grade 7-8 Science, including the laboratory activities. Learners should be taking at least Algebra 1 alongside Chemistry (Algebra 2 if using Denison Success). Teachers wishing to place students in Physical Science instead of Chemistry may choose either to complete Alveary Grade 7-8 Science in a single year (with 5 lessons + 1 lab each week available in the Grade 7-8 Quick Links) or to purchase separately from Classical Academic Press the Novare Introductory Physics Program and Video Course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Chemistry Lessons",
+              "grade": "9-12+",
+              "scheduleInfo": "Chemistry Lessons\n5 times/week 45 min",
+              "books": "HS Chem Intro, Michael Faraday's The Chemical History of a Candle, Introductory Chemistry: A Foundation, The Chemical Elements Coloring and Activity Book"
+            }
+          ]
         }
       ]
     }

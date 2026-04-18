@@ -44,6 +44,19 @@
               "content": "Three lessons each week are shared between Grades 1-6, but students in Grades 4-6 add two additional extension day lessons. This course is on a six-year rotation of lessons, so it is suitable for students who took Lower Spanish last year or students just starting their studies.\n\nStudents in grades 4+ who feel anxious about speaking a new language may benefit from taking a year without the added extension days. This approach allows them to build confidence and comfort before focusing on speaking and writing."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Lower Spanish: Grades 1-6",
+              "grade": "1-6",
+              "scheduleInfo": "Lower Spanish: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
+              "books": "Diez Deditos (Audio mp3), Spanish: Student Notebook, Fábulas de Esopo: Edición Clásica, Family Pictures/Cuadros de familia, Diez Deditos and Other Play Rhymes and Action Songs from Latin America, Spanish: Grades 1-6 SoundCloud Playlists"
+            }
+          ]
         }
       ]
     }

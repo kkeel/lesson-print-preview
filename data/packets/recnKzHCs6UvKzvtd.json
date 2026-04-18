@@ -44,6 +44,19 @@
               "content": "Most Shakespeare lessons are shared with Grades 5-12. Students new to Shakespeare may choose to start with the Shakespeare Beginner Track lessons for two terms to ease into the plays."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Shakespeare: Grades 5-8",
+              "grade": "5-8",
+              "scheduleInfo": "Shakespeare: Grades 5-8\n1 time/week 30 min",
+              "books": "The Tempest, The Tempest (Audio recording), Henry IV Part 2, Henry IV Part 2 (Audio recording), The Winter's Tale, The Winter's Tale (Audio recording)"
+            }
+          ]
         }
       ]
     }

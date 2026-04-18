@@ -44,6 +44,19 @@
               "content": "This course is intended to follow Part 1; however, the order may be reversed to facilitate combining students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Story of Arithmetic: Part 2",
+              "grade": "6",
+              "scheduleInfo": "Story of Arithmetic: Part 2\n1 time/week 15 min",
+              "books": "Number Stories of Long Ago, Student World Atlas 6th Ed., Historical Atlas of the World 6th Ed."
+            }
+          ]
         }
       ]
     }

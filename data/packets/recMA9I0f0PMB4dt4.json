@@ -48,6 +48,19 @@
               "content": "Suitable for Grades 9-10. Due to more challenging content, we do not advise using these lessons with younger students if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Lit: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "General Lit: Grades 7-8\n1 time/week 30 min",
+              "books": "Little Women, Sir Gibbie, Narrative of the Life of Frederick Douglass"
+            }
+          ]
         }
       ]
     }

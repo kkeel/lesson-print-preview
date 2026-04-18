@@ -52,6 +52,33 @@
               "content": "New Testament: Grade 12\nLessons in one of the gospels are shared across HS grades. Some epistles studied in Grade 12 are more challenging than those in younger grades, but lessons can be combined if desired. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices.\n\nSpiritual Formation: Grade 12\nAppropriate for interested students in Grades 10-11."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "Church History: Grades 10-12\n1 time/week 30 min",
+              "books": "When the Church Was Young: Voices of the Early Fathers, Turning Points in American Church History"
+            },
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "New Testament: Grade 12\n1 time/week 30 min",
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+            },
+            {
+              "rowType": "topic",
+              "label": "Spiritual Formation: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Spiritual Formation: Grade 12\n1 time/week 30 min",
+              "books": "Becoming by Beholding, Being God's Image: Why Creation Still Matters, Delighting in the Trinity"
+            }
+          ]
         }
       ]
     }

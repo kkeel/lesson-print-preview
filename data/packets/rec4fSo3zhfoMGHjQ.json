@@ -44,6 +44,19 @@
               "content": "Students with no sewing experience should complete Lessons 1-12 of Level 1."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sewing: Level 2",
+              "grade": "4-6",
+              "scheduleInfo": "Sewing: Level 2\n1 time/week 20 min",
+              "books": "The Amazing Stitching Handbook for Kids: 17 Embroidery Stitches"
+            }
+          ]
         }
       ]
     }

@@ -54,6 +54,40 @@
               "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nMicrobiology Lessons\nStudents should take General Biology before Microbiology. Note that there is some sensitive content in this course, and it is recommended for students in Grade 12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Microbiology Lessons",
+              "grade": "12",
+              "scheduleInfo": "Microbiology Lessons\n5 times/week 45 min",
+              "books": "I Contain Multitudes, A Field Guide to Bacteria , A Planet of Viruses, Microbe Hunters, The Immortal Life of Henrietta Lacks, Micro Life, Growing a Revolution: Bringing Our Soil Back to Life"
+            },
+            {
+              "rowType": "topic",
+              "label": "Microbiology Labs",
+              "grade": "12",
+              "scheduleInfo": "Microbiology Labs\n1 time/week 60 min",
+              "books": "Illustrated Guide to Home Biology Experiments"
+            }
+          ]
         }
       ]
     }

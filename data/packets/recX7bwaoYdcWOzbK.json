@@ -38,6 +38,19 @@
               "content": "Students use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 5"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Dictation: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Dictation: Grade 5\n3 times/week 15 min",
+              "books": "Grade 5 Copywork & Dictation Book"
+            }
+          ]
         }
       ]
     }

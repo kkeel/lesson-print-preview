@@ -44,6 +44,19 @@
               "content": "Prerequisite: Level 1. Students just beginning Latin should start at Level 1. This course may be counted as 1/2 credit for High School."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Latin 2 (Video Course)",
+              "grade": "8+",
+              "scheduleInfo": "Latin 2 (Video Course)\n2 times/week 45 min\n2 times/week 15 min",
+              "books": "Alveary Exclusive Cambridge Latin Unit 2 Online Course, North American Cambridge Latin Unit 2 5th Ed. Student Book, Lars Romam Odit: A Latin Novella"
+            }
+          ]
         }
       ]
     }

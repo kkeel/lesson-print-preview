@@ -44,6 +44,19 @@
               "content": "There is one set of lesson plans for students in all grades, which makes this an ideal course to study in a multi-age setting. All lessons begin the same, but extensions increase the length and sophistication of the content."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Picture Study",
+              "grade": "1-12",
+              "scheduleInfo": "Picture Study\n1 time/week 10 min\n1 time/week 15 min\n1 time/week 20 min\n1 time/week 20 min",
+              "books": "Redeeming Vision, Art Print Set, Our Work: Grades 1-2, Our Work: Grade 3, Our Work: Grades 4-6, Our Work: Grades 7-8, Our Work: Grades 9-12, Van Gogh, A Passion for the Impossible: The Life of Lilias Trotter"
+            }
+          ]
         }
       ]
     }

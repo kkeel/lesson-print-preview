@@ -44,6 +44,19 @@
               "content": "All students in Grades 7+ (regardless of language background) should take French: Level 1."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Upper French: Level 1",
+              "grade": "7+",
+              "scheduleInfo": "Upper French: Level 1\n5 times/week 30 min",
+              "books": "Primary French Course Part I, French: Level 1 SoundCloud Playlist, French: Level 1 Student Notebook, Les plus belles fables de La Fontaine"
+            }
+          ]
         }
       ]
     }

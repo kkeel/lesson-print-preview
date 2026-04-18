@@ -50,6 +50,26 @@
               "content": "Literature: Grades 7-8\nPoetry lessons are also an integral part of the whole Literature program, so look at both literature and poetry selections together when placing students.\n\nGeneral Lit: Grades 7-8\nSuitable for Grades 9-10. Due to more challenging content, we do not advise using these lessons with younger students if combining.\n\nLit./Mythology: Grades 7-8\nSeveral readings are shared with Grades 5-6, though lesson plans include more advanced work for older students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "General Lit: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "General Lit: Grades 7-8\n1 time/week 30 min",
+              "books": "Little Women, Sir Gibbie, Narrative of the Life of Frederick Douglass"
+            },
+            {
+              "rowType": "topic",
+              "label": "Lit./Mythology: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Lit./Mythology: Grades 7-8\n1 time/week 30 min",
+              "books": "The Lightning Dreamer: Cuba's Greatest Abolitionist, A Christmas Carol, The Man Who Invented Christmas directed, Short stories and other writings"
+            }
+          ]
         }
       ]
     }

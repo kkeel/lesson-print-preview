@@ -38,6 +38,19 @@
               "content": "Copy letters and words and write them from dictation.\n\nThis topic is included in the following course(s): Language Study: Grade 1"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Penmanship & Copywork: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Penmanship & Copywork: Grade 1\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book B"
+            }
+          ]
         }
       ]
     }

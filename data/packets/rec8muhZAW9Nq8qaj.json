@@ -48,6 +48,19 @@
               "content": "Students who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com).\nPrerequisite: RightStart A or appropriate skill proficiency"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Math Lessons: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Math Lessons: Grade 2\n5 times/week 20 min",
+              "books": "RightStart Mathematics Level B 2nd Ed. Book Bundle"
+            }
+          ]
         }
       ]
     }

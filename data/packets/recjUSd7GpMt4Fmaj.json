@@ -44,6 +44,19 @@
               "content": "If students are in grade 6-8, they should begin with the fast-track lessons and then move on to Level 4. \n\nPrerequisite: Level 5 or appropriate skill proficiency."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art: Level 6",
+              "grade": "6+",
+              "scheduleInfo": "Art: Level 6\n2 times/week 30 min",
+              "books": "Brush Drawing as Applied to Natural Forms and Common Objects, Drawing, Design, and Craft-Work"
+            }
+          ]
         }
       ]
     }

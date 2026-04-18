@@ -44,6 +44,19 @@
               "content": "Students should have facility with Algebra 1 before beginning Algebra 2/Trig."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Mathematics: Grade 11",
+              "grade": "11",
+              "scheduleInfo": "Mathematics: Grade 11\n",
+              "books": ""
+            }
+          ]
         }
       ]
     }

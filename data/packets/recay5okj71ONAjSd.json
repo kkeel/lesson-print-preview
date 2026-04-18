@@ -50,6 +50,19 @@
               "content": "Suitable for interested younger students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Playground Games",
+              "grade": "4-12",
+              "scheduleInfo": "Playground Games\n1 time/week 20 min",
+              "books": "The Ultimate Homeschool Physical Education Game Book"
+            }
+          ]
         }
       ]
     }

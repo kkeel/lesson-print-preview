@@ -48,6 +48,19 @@
               "content": "Canadian history may be suitable for grade 9 students if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Canadian History: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Canadian History: Grades 7-8\n2 times/week 30 min",
+              "books": "The Story of Canada, Jeremy's War 1812, The Charlottetown Conference and the Birth of Confederation, Sophie's Rebellion, Elijah of Buxton"
+            }
+          ]
         }
       ]
     }

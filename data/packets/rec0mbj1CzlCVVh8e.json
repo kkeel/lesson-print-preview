@@ -44,6 +44,19 @@
               "content": "Prerequisite: French: Level 1"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Upper French: Level 2",
+              "grade": "8+",
+              "scheduleInfo": "Upper French: Level 2\n5 times/week 30 min",
+              "books": "Primary French Course Part I, French: Level 2 SoundCloud Playlist, French: Level 2 Student Notebook"
+            }
+          ]
         }
       ]
     }

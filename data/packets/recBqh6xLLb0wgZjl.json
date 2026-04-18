@@ -48,6 +48,19 @@
               "content": "About Science: Grade 8\nIn level 8, learners study science in its historical, political, and cultural context with a growing understanding that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nGeneral Science: Grade 8\nFor eighth-grade students or possibly hungry seventh graders or ninth graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "General Science: Grade 8\n3 times/week 30 min",
+              "books": "The Story of Science: Newton At the Center, The Story of Science: Einstein Adds a New Dimension"
+            }
+          ]
         }
       ]
     }

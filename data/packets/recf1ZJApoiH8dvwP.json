@@ -48,6 +48,19 @@
               "content": "About Science: Grade 5\nIn level 5, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from botany, astronomy, and more.\n\nNatural History: Grade 5\nFor approximately fifth-grade students based on a balance of complexity and reading level. However, learners may be freely combined, or sequence reordered based on needs and preferences."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Natural History: Grade 5\n1 time/week 15 min",
+              "books": "Nature All Around: Plants, Shanleya's Quest Card Game, The Forest in the Tree, The Bat Scientists, Beetle Busters"
+            }
+          ]
         }
       ]
     }

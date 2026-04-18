@@ -48,6 +48,19 @@
               "content": "Can be combined with Grade 12 students. Students new to spiritual formation topics should begin with Spiritual Formation: Grades 7-8 or Bible History in Grade 9."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Spiritual Formation: Grades 10-11",
+              "grade": "10-11",
+              "scheduleInfo": "Spiritual Formation: Grades 10-11\n1 time/week 30 min",
+              "books": "Reading the Bible for a Change, God of All Things"
+            }
+          ]
         }
       ]
     }

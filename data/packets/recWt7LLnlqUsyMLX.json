@@ -60,6 +60,19 @@
               "content": "Learners may follow their own interests or follow the plan of their local scouting troop or natural history club."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

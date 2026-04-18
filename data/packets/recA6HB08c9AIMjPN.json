@@ -48,6 +48,19 @@
               "content": "Students who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com). \nPrerequisite: RightStart C or appropriate skill proficiency"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Math Lessons: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Math Lessons: Grade 4\n5 times/week 20 min",
+              "books": "RightStart Mathematics Level D 2nd Ed. Book Bundle"
+            }
+          ]
         }
       ]
     }

@@ -44,6 +44,19 @@
               "content": "The completion of Algebra 1 and Geometry are recommended for this course, as the experience will contribute to the learner's understanding, but they are not required."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Introduction to Engineering Lessons",
+              "grade": "9-12",
+              "scheduleInfo": "Introduction to Engineering Lessons\n5 times/week 45 min",
+              "books": "The Things We Make, The Boy Who Harnessed the Wind, The Boy Who Harnessed the Wind, Young Reader's Edition, The Way Things Work: Newly Revised Edition: The Ultimate Guide to How Things Work, By Design: Ethics, Theology, and the Practice of Engineering"
+            }
+          ]
         }
       ]
     }

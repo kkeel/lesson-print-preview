@@ -44,6 +44,19 @@
               "content": "This course is the same for 4th-6th graders. Lesson plans may include more advanced map skills for older students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grades 4-6",
+              "grade": "4-6",
+              "scheduleInfo": "Geography: Grades 4-6\n2 times/week 25 min",
+              "books": "Student World Atlas 6th Ed., David Livingstone: African Explorer, Africa Is Not a Country"
+            }
+          ]
         }
       ]
     }

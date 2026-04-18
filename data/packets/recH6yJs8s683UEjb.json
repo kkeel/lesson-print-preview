@@ -48,6 +48,19 @@
               "content": "Suitable for Grades 1-3 if combining"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Sol-fa: Musical Games",
+              "grade": "1",
+              "scheduleInfo": "Sol-fa: Musical Games\n1 time/week 10 min",
+              "books": "Musical Games Playlist"
+            }
+          ]
         }
       ]
     }

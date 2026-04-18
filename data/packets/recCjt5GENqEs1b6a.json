@@ -48,6 +48,19 @@
               "content": "Those who wish to combine first graders and older students should choose either this course or any of the Bible courses for grades 2-6. Older students who are unfamiliar with Bible stories may wish to read these stories independently."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Bible Stories",
+              "grade": "1",
+              "scheduleInfo": "Bible Stories\n4 times/week 20 min",
+              "books": "Hurlbut's Story of the Bible"
+            }
+          ]
         }
       ]
     }

@@ -44,6 +44,19 @@
               "content": "Students can slow down the pace of lessons to their own pace and spread the course over multiple years if desired. Because of this flexibility, younger students interested in art could also choose to take this course instead of the Fast Track for lower grades."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art: High School Fast Track",
+              "grade": "9-12",
+              "scheduleInfo": "Art: High School Fast Track\n2 times/week 45 min",
+              "books": "Drawing, Design, and Craft-Work, Color: A Course in Mastering the Art of Mixing Colors, Brushwork: Elementary Brush-Forms, Brush Drawing as Applied to Natural Forms and Common Objects"
+            }
+          ]
         }
       ]
     }

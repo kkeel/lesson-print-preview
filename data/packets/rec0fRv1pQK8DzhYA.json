@@ -34,6 +34,19 @@
               "content": "Students continue or begin Precalculus or Calculus.\n\nThis topic is included in the following course(s): Mathematics: Grade 12\n\nMathematics: Grade 12\nStudents should look ahead to college math requirements at schools they may want to attend or majors they may plan to pursue and plan accordingly. It is important to work at a student's pace. Alveary pacing has students study geometry and algebra concurrently in 9th and 10th grade and then finish Algebra II/Trig during 11th grade. Students can then start precalculus in 11th grade and finish 12th grade with precalculus or calculus."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Pre-Calculus: Part 2",
+              "grade": "12",
+              "scheduleInfo": "Pre-Calculus: Part 2\n5 times/week 40 min",
+              "books": "Home Study Companion: Precalculus"
+            }
+          ]
         }
       ]
     }

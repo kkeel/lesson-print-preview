@@ -50,6 +50,26 @@
               "content": "Reading Level 2\nStudents who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation.\n\nPrerequisite: Beginning Reading & Lang. Level 1 or appropriate skill proficiency."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Reading Level 2",
+              "grade": "2",
+              "scheduleInfo": "Reading Level 2\n5 times/week 15 min",
+              "books": "Reading-Literature: First Reader, Reading Lessons: Level 2 (Revised 2025)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Penmanship & Copywork: Grade 2\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book C"
+            }
+          ]
         }
       ]
     }

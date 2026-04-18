@@ -44,6 +44,19 @@
               "content": "Suitable for Grade 8 students with minimal adjustment if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Architecture: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Architecture: Grades 9-12\n1 time/week 30 min",
+              "books": "Why Buildings Stand Up, 50 Buildings You Should Know"
+            }
+          ]
         }
       ]
     }

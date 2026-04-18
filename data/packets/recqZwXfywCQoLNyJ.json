@@ -48,6 +48,19 @@
               "content": "Easily combined with hungry Kindergarteners or Grade 2 students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Tall Tales/ Fables",
+              "grade": "1",
+              "scheduleInfo": "Tall Tales/ Fables\n1 time/week 15 min",
+              "books": "Aesop's Favorite Fables, The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs, American Tall Tales"
+            }
+          ]
         }
       ]
     }

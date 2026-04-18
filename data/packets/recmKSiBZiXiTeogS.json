@@ -48,6 +48,19 @@
               "content": "Depending on the student, dictation may or may not be necessary at this level."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Dictation: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Dictation: Grade 9\n1+ time/week 20 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

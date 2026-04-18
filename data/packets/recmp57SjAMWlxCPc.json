@@ -52,6 +52,33 @@
               "content": "World History: Grades 4-6\nThis course is the same for 4th-6th graders. In grade 5, students may begin their Book of Centuries.\n\nCanadian History: Grades 5-6\nThis course is the same for students in grades 5 and 6. In grade 5, students may begin their Book of Centuries. It could be easily modified for students in grade 4, if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "World History: Grades 4-6",
+              "grade": "4-6",
+              "scheduleInfo": "World History: Grades 4-6\n1 time/week 25 min",
+              "books": "Under the Hawthorn Tree, William Wilberforce: The Freedom Fighter, Commodore Perry in the Land of the Shogun"
+            },
+            {
+              "rowType": "topic",
+              "label": "Ancient History: Grades 5-6",
+              "grade": "5-6",
+              "scheduleInfo": "Ancient History: Grades 5-6\n1 time/week 25 min",
+              "books": "The Bronze Bow, Redemption: The Church in Ancient Times"
+            },
+            {
+              "rowType": "topic",
+              "label": "Canadian History: Grades 5-6",
+              "grade": "5-6",
+              "scheduleInfo": "Canadian History: Grades 5-6\n1 time/week 25 min",
+              "books": "The Story of Canada, Joe and the Wreck of the Tribune, Tecumseh, The Loxleys and Confederation"
+            }
+          ]
         }
       ]
     }

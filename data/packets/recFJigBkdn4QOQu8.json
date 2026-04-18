@@ -50,6 +50,26 @@
               "content": "Poetry Reading: Grade 8\nStudents in Grades 5-8 can easily be combined for these lessons as all grades use nearly the same texts this year, although Grades 7-8 read additional selections and have corresponding composition assignments. Poetry lessons are also an integral part of the whole Literature program, so look at both literature and poetry selections together when placing students. Students in Grades 9+ new to poetry should begin here."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Poetry Study: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Poetry Study: Grade 8\n1 time/week 20 min",
+              "books": "A World of Poetry: Student Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Poetry Reading: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Poetry Reading: Grade 8\n4 times/week 5 min",
+              "books": "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry, The Crescent Moon, The Poet: Pauline Johnson, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+            }
+          ]
         }
       ]
     }

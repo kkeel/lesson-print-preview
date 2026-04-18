@@ -52,6 +52,33 @@
               "content": "Fairy Tales\nSuitable for hungry kindergarteners as well.\n\nTall Tales/ Fables\nEasily combined with hungry Kindergarteners or Grade 2 students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Fairy Tales",
+              "grade": "1",
+              "scheduleInfo": "Fairy Tales\n1 time/week 15 min",
+              "books": "Tales from Grimm, Around the World in 80 Tales"
+            },
+            {
+              "rowType": "topic",
+              "label": "Tall Tales/ Fables",
+              "grade": "1",
+              "scheduleInfo": "Tall Tales/ Fables\n1 time/week 15 min",
+              "books": "Aesop's Favorite Fables, The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs, American Tall Tales"
+            },
+            {
+              "rowType": "topic",
+              "label": "Community Read Alouds: Grades 1-12",
+              "grade": "1-12",
+              "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

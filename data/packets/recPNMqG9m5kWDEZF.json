@@ -50,6 +50,26 @@
               "content": "Advanced Nature Study Lessons\nStudents should have at least 3 years of nature study experience and be comfortable with their nature journal."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Advanced Nature Study Lessons",
+              "grade": "9-12",
+              "scheduleInfo": "Advanced Nature Study Lessons\n5 times/week 45 min",
+              "books": "Master of Field Arts"
+            },
+            {
+              "rowType": "topic",
+              "label": "Advanced Nature Study Afternoon Work",
+              "grade": "9-12",
+              "scheduleInfo": "Advanced Nature Study Afternoon Work\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

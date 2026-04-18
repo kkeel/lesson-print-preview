@@ -50,6 +50,26 @@
               "content": "U.S. History: Grades 7-8\nU.S. history may be suitable for 9th graders as well if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "U.S. History: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "U.S. History: Grades 7-8\n2 times/week 30 min",
+              "books": "A History of US: Liberty for All?: 1820-1860, Sacajawea, Abraham Lincoln and Frederick Douglass: The Story Behind and American Friendship, A Year in the South: 1865, Gold Mountain"
+            },
+            {
+              "rowType": "topic",
+              "label": "Ancient History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
+              "books": "A Short History of Ancient Rome, The Witness of Early Christian Women: Mothers of the Church"
+            }
+          ]
         }
       ]
     }

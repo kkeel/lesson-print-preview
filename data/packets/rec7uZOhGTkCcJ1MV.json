@@ -50,6 +50,19 @@
               "content": "Students in Grades 7-12 read the same passages of Scripture, but the lesson plans include a variety of discussion questions and extra study helps differentiated by grade to help students engage at various depths. This makes these lessons flexible for individual students and/or a multi-age context. Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the narratives and overarching story of the OT."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Old Testament: Grades 7-12",
+              "grade": "7-12",
+              "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
+              "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
+            }
+          ]
         }
       ]
     }

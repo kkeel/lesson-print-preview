@@ -44,6 +44,19 @@
               "content": "This course may be counted as 1/2 credit for High School."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Latin 1 (Video Course)",
+              "grade": "7+",
+              "scheduleInfo": "Latin 1 (Video Course)\n2 times/week 45 min\n2 times/week 15 min",
+              "books": "Alveary Exclusive Cambridge Latin Unit 1 Online Course, North American Cambridge Latin Unit 1 5th Ed. Student Book"
+            }
+          ]
         }
       ]
     }

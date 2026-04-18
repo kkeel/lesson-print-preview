@@ -44,6 +44,19 @@
               "content": "Three lessons each week are shared between Grades 1-6, but students in Grades 4-6 add two additional grammar lessons. This course is on a six-year rotation of lessons, so it is suitable for students who took Lower French last year or students just starting their studies."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Lower French: Grades 1-6",
+              "grade": "1-6",
+              "scheduleInfo": "Lower French: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
+              "books": "French: Student Notebook, Linnea in Monet's Garden, French: Grades 1-6 SoundCloud Playlists"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "RightStart G Primary Skill Focus: Geometry. This course progresses through the book over two years. Continue from Grade 7."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Geometry: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Geometry: Grade 8\n2 times/week 40 min",
+              "books": "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+            }
+          ]
         }
       ]
     }

@@ -42,6 +42,19 @@
               "content": "Read about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nThis topic is included in the following course(s): History: Grade 10 (Canada), History: Grades 11-12 (Canada), History: Grades 10-12 (U.S.)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "World History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "World History: Grades 10-12\n1 time/week 30 min",
+              "books": "When America First Met China, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
+            }
+          ]
         }
       ]
     }

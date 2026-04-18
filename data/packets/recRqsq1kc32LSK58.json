@@ -38,6 +38,19 @@
               "content": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 8"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Poetry Study: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Poetry Study: Grade 8\n1 time/week 20 min",
+              "books": "A World of Poetry: Student Book"
+            }
+          ]
         }
       ]
     }

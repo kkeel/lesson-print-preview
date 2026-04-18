@@ -54,6 +54,40 @@
               "content": "Grammar: Grade 5\nStudents can take this course even if they haven't taken grammar before. The beginning is written with a built-in review.\n\nWritten Narration: Grade 5\nIncrease the number of written narrations at a pace that your student can be successful."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Grammar: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Grammar: Grade 5\n2 times/week 15 min",
+              "books": "Sentence Island, Practice Island, Practice Island Teacher Manual (select pages)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Dictation: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Dictation: Grade 5\n3 times/week 15 min",
+              "books": "Grade 5 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Penmanship & Copywork: Grade 5\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book F, Grade 5 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Written Narration: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Written Narration: Grade 5\n3 times/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

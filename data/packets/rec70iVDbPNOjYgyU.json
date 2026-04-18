@@ -48,6 +48,19 @@
               "content": "Students should take General Biology before Microbiology. Note that there is some sensitive content in this course, and it is recommended for students in Grade 12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Microbiology Lessons",
+              "grade": "12",
+              "scheduleInfo": "Microbiology Lessons\n5 times/week 45 min",
+              "books": "I Contain Multitudes, A Field Guide to Bacteria , A Planet of Viruses, Microbe Hunters, The Immortal Life of Henrietta Lacks, Micro Life, Growing a Revolution: Bringing Our Soil Back to Life"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "All the books are appropriate for any HS student. If a HS student is new to the Alveary, especially consider assigning the third term book, A Little Book for New Historians, no matter their grade."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "World History: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "World History: Grade 9\n1 time/week 30 min",
+              "books": "A Little Book for New Historians, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
+            }
+          ]
         }
       ]
     }

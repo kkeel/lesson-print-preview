@@ -34,6 +34,19 @@
               "content": "Read about U.S. history from 1800 to 1900 through primary source documents, creative nonfiction, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nThis topic is included in the following course(s): History: Grade 9 (U.S.), History: Grades 10-12 (U.S.)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "U.S. History: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "U.S. History: Grades 9-12\n1 time/week 40 min\n1 time/week 30 min",
+              "books": "American History, Volume 1: 1492-1877, The Narrative of Lunsford Lane, Formerly of Raleigh, N. C., Reading American Horizons, They Fought Like Demons: Women Soldiers in the Civil War, I Am a Man: Chief Standing Bear's Journey for Justice, American History, Volume 2: 1877 - Present"
+            }
+          ]
         }
       ]
     }

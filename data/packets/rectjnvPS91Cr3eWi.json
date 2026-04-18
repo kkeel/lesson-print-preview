@@ -50,6 +50,19 @@
               "content": "Students may also choose to take a local Pilates or Yoga class."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Free Play/ Circuits",
+              "grade": "4-12",
+              "scheduleInfo": "Free Play/ Circuits\n2 times/week 20 min",
+              "books": "303 Tween-Approved Exercises and Active Games"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "Students who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation. \n\nPrerequisite: Beginning Reading & Lang. Level 2 or appropriate skill proficiency."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Reading Level 3",
+              "grade": "3",
+              "scheduleInfo": "Reading Level 3\n5 times/week 15 min",
+              "books": "Reading-Literature: Second Reader, Reading Lessons: Level 3"
+            }
+          ]
         }
       ]
     }

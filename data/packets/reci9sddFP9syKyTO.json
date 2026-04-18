@@ -44,6 +44,19 @@
               "content": "Grade 6 students who are new to sloyd should begin with Sloyd: Level 1 and then continue courses in sequence.\n\nPrerequisite: Sloyd: Level 4"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Level 5",
+              "grade": "6+",
+              "scheduleInfo": "Sloyd: Level 5\n1 time/week 30 min",
+              "books": "Sloyd"
+            }
+          ]
         }
       ]
     }

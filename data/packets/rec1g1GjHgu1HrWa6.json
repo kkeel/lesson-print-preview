@@ -44,6 +44,19 @@
               "content": "Older students can jump into any term of the regular Shakespeare lessons after finishing these, or just read this play and take off one term."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Shakespeare: Beginner Track",
+              "grade": "4-8",
+              "scheduleInfo": "Shakespeare: Beginner Track\n1 time/week 30 min",
+              "books": "A Midsummer Night's Dream, A Midsummer Night's Dream (Audio recording)"
+            }
+          ]
         }
       ]
     }

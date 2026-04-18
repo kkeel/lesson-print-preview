@@ -44,6 +44,19 @@
               "content": "Read about ancient history from 100 BC-350 AD through biographies, primary source documents, historical fiction, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nThis topic is included in the following course(s): History: Grades 7-8 (U.S.), History: Grades 7-8 (Canada), History: Grade 9 (U.S.), History: Grade 9 (Canada)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Ancient History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
+              "books": "A Short History of Ancient Rome, The Witness of Early Christian Women: Mothers of the Church"
+            }
+          ]
         }
       ]
     }

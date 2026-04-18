@@ -62,6 +62,19 @@
               "content": "About Science: Grade 1\nIn Level 1, learners are developing familiarity and friendship with Creation through the most accessible Things, simple text, and basic concepts.\n\nAbout Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts.\n\nAbout Science: Grade 3\nIn level 3, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and more abstract concepts.\n\nAbout Science: Grade 4\nIn level 4, learners begin to notice science in their community and begin to develop their own interests as they discover a variety of topics from the microscopic world, physical science, and more. A mixture of more and less challenging books is included in this course.\n\nAbout Science: Grade 5\nIn level 5, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from botany, astronomy, and more.\n\nAbout Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level, historical context, and time required are transitional as we gently prepare for the middle grades.\n\nAbout Science: Grade 7\nIn level 7, learners extend their relationship with science in a new direction (time), situating science in its historical, political, and cultural context, and begin to understand that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nAbout Science: Grade 8\nIn level 8, learners study science in its historical, political, and cultural context with a growing understanding that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

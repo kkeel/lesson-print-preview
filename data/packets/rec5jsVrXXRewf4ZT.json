@@ -44,6 +44,19 @@
               "content": "Students should complete Algebra 2/Trig before beginning Pre Calc or Calculus."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Mathematics: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Mathematics: Grade 12\n",
+              "books": ""
+            }
+          ]
         }
       ]
     }

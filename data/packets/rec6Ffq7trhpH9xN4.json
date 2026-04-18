@@ -48,6 +48,19 @@
               "content": "This course is suitable for interested students in Grades 5-6 if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Historic Dancing",
+              "grade": "7-12",
+              "scheduleInfo": "Historic Dancing\n1 time/week 20 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

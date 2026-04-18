@@ -24,7 +24,21 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Science: Food Science",
+              "grade": "9-12",
+              "scheduleInfo": "Science: Food Science\n",
+              "books": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

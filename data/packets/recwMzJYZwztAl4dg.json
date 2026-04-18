@@ -44,6 +44,19 @@
               "content": "May be suitable for Grade 9 students"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Health Elective (Beta)",
+              "grade": "10-12",
+              "scheduleInfo": "Health Elective (Beta)\n3 times/week 45 min",
+              "books": "A Simply Healthy Life, Body into Balance: An Herbal Guide to Holistic Self-Care, The Joy of Movement, Eat Well and Feel Great"
+            }
+          ]
         }
       ]
     }

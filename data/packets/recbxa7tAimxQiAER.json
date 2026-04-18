@@ -56,6 +56,54 @@
               "content": "Music: Intro shares Folk Songs and Hymns & Spirituals with Grades 2-12. In Grades 2-12, all music lessons except sol-fa are shared between them, making them ideal lessons for multi-age groups. \n\nMusic Appreciation\nSuitable for Grades 1-3 if combining.\n\nSol-fa: Musical Games\nSuitable for Grades 1-3 if combining"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Music Appreciation",
+              "grade": "1",
+              "scheduleInfo": "Music Appreciation\n1 time/week 10 min",
+              "books": "A Child's Introduction to the Orchestra, Playlist for Afternoon Listening and Selected Lessons"
+            },
+            {
+              "rowType": "topic",
+              "label": "Hymns & Spirituals",
+              "grade": "1-12",
+              "scheduleInfo": "Hymns & Spirituals\n1 time/week 10 min",
+              "books": "Our Hymns, Our Heritage"
+            },
+            {
+              "rowType": "topic",
+              "label": "Folk Songs",
+              "grade": "1-12",
+              "scheduleInfo": "Folk Songs\n1 time/week 10 min",
+              "books": "Like a Bird: The Art of the American Slave Song"
+            },
+            {
+              "rowType": "topic",
+              "label": "Sol-fa: Musical Games",
+              "grade": "1",
+              "scheduleInfo": "Sol-fa: Musical Games\n1 time/week 10 min",
+              "books": "Musical Games Playlist"
+            },
+            {
+              "rowType": "topic",
+              "label": "Afternoon Listening",
+              "grade": "1-12",
+              "scheduleInfo": "Afternoon Listening\n1+ time/week 10 min",
+              "books": ""
+            },
+            {
+              "rowType": "course-books",
+              "label": "Music: Intro",
+              "grade": "",
+              "scheduleInfo": "Shared course resources",
+              "books": "Our Work: Grades 1-2, Hymns, Spirituals, & Folk Songs PDF"
+            }
+          ]
         }
       ]
     }

@@ -44,6 +44,19 @@
               "content": "Prerequisite: Spanish Level 2"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Upper Spanish: Level 3",
+              "grade": "9+",
+              "scheduleInfo": "Upper Spanish: Level 3\n5 times/week 30 min",
+              "books": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists, Spanish: Level 3 SoundCloud Playlist, Spanish: Level 3 Student Notebook, Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told), Tales Our Abuelitas Told: A Hispanic Folktale Collection"
+            }
+          ]
         }
       ]
     }

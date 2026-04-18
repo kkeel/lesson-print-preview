@@ -24,7 +24,21 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Mathematics: Grade 7 (Denison)",
+              "grade": "7",
+              "scheduleInfo": "Mathematics: Grade 7 (Denison)\n",
+              "books": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

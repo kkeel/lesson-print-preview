@@ -54,6 +54,40 @@
               "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nGeology Lessons\nDue to the complexity of certain topics and the maturity required, this course is recommended for Grades 11-12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Geology Lessons",
+              "grade": "11-12",
+              "scheduleInfo": "Geology Lessons\n5 times/week 45 min",
+              "books": "The Field Guide to Geology, Roadside Geology/Geology Underfoot Series, Annals of the Former World, The Map That Changed the World, 101 American Geo-Sites You've Gotta See, The Story of the Earth in 25 Rocks"
+            },
+            {
+              "rowType": "topic",
+              "label": "Geology Labs",
+              "grade": "11-12",
+              "scheduleInfo": "Geology Labs\n1 time/week 60 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

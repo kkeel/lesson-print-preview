@@ -48,6 +48,19 @@
               "content": "Students who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com).\nPrerequisite: RightStart E or appropriate skill proficiency"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Math Lessons: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Math Lessons: Grade 6\n5 times/week 20 min",
+              "books": "RightStart Mathematics Level F 2nd Ed. Book Bundle"
+            }
+          ]
         }
       ]
     }

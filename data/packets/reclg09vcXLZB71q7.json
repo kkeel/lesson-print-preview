@@ -50,6 +50,19 @@
               "content": "Suitable for hungry 8th graders. Can be combined easily with Grades 11-12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Lit.: Grades 9-10",
+              "grade": "9-10",
+              "scheduleInfo": "General Lit.: Grades 9-10\n2 times/week 30 min",
+              "books": "Up from Slavery, Frankenstein, Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Silas Marner, Short stories and other writings"
+            }
+          ]
         }
       ]
     }

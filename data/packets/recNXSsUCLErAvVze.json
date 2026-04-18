@@ -48,6 +48,19 @@
               "content": "About Science: Grade 3\nIn level 3, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and more abstract concepts.\n\nNature Notebook: Grade 3\nLearners may be combined and share prompts or follow their own interest. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Nature Notebook: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Nature Notebook: Grade 3\n1+ time/week 10 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

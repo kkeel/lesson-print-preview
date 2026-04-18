@@ -44,6 +44,19 @@
               "content": "All students in Grade 1 should take this course. Students in Grades 2-3 who have never studied geography may also benefit, though they could likely work at a faster pace."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Geography: Grade 1\n2 times/week 15 min",
+              "books": "Elementary Geography, Me on the Map, What Makes Day and Night, United States Atlas 7th Ed., The Reasons for Seasons, Down Comes the Rain"
+            }
+          ]
         }
       ]
     }

@@ -52,6 +52,33 @@
               "content": "Grammar/Comp: Grade 8\nIf your student did not do Paragraph Town last year, you should incorporate that book with the 8th-grade grammar book."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Grammar/Comp: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Grammar/Comp: Grade 8\n2 times/week 20 min\n2 times/week 15 min",
+              "books": "Grammar Voyage, Grammar Voyage Teacher Manual (select pages), Practice Voyage, Practice Voyage Teacher Manual (select pages)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Dictation: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Dictation: Grade 8\n2 times/week 15 min",
+              "books": "Grade 8 Copywork & Dictation Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Copywork: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Copywork: Grade 8\n5 times/week 10 min",
+              "books": "Grade 8 Copywork & Dictation Book"
+            }
+          ]
         }
       ]
     }

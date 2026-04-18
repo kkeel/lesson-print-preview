@@ -48,6 +48,19 @@
               "content": "About Science: Grade 5\nIn level 5, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from botany, astronomy, and more.\n\nGeneral Science: Grade 5\nFor fifth-grade students or possibly hungry fourth-graders or sixth-graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "General Science: Grade 5\n1 time/week 20 min",
+              "books": "The Hive Detectives: Chronicle of a Honey Bee Catastrophe, The Tornado Scientist, Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt"
+            }
+          ]
         }
       ]
     }

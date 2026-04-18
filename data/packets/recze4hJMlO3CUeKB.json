@@ -38,6 +38,19 @@
               "content": "Students copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 6"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Penmanship & Copywork: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Penmanship & Copywork: Grade 6\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book G, Grade 6 Copywork & Dictation Book"
+            }
+          ]
         }
       ]
     }

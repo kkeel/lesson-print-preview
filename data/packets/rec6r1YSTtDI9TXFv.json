@@ -44,6 +44,19 @@
               "content": "The Typing.com website contains a placement test. Take this first, and then progress at your own pace."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Keyboarding",
+              "grade": "4-8",
+              "scheduleInfo": "Keyboarding\n2 times/week 30 min",
+              "books": "Typing.com"
+            }
+          ]
         }
       ]
     }

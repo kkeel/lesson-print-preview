@@ -48,6 +48,19 @@
               "content": "About Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Natural History: Grade 2\n1 time/week 10 min",
+              "books": "Walks with a Naturalist: Living Nature Reader Volume 2"
+            }
+          ]
         }
       ]
     }

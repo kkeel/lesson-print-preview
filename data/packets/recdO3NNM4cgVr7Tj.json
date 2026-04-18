@@ -38,6 +38,19 @@
               "content": "This topic is included in the following course(s): PE: Grades 1-3\n\nPE: Grades 1-3\nLessons specifically created for Grades 1-6. We recommend you make sure to include some sort of physical activity as breaks throughout your school day. If you already have sports or similar activities as a regular part of your life rhythms, these lessons are optional."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Free Play",
+              "grade": "1-3",
+              "scheduleInfo": "Free Play\n2 times/week 20 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

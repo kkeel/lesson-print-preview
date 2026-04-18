@@ -34,6 +34,19 @@
               "content": "Complete Geometry course with video lessons taught by a veteran teacher and designed to teach geometric concepts while strengthening Algebra 1 skills. Geometry topics are spread out and explained in a way that makes them easier to understand and remember. Additionally, this course reviews and reinforces essential Algebra 1 concepts, helping to fill in any gaps a student may have while solidifying the skills needed for success in Algebra 2 and beyond. It is recommended that this course be taken directly after Algebra 1, giving students an additional year to mature mathematically and strengthen their algebra skills before advancing to Algebra 2. A success version is also offered for those students with learning differences that make math challenging."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Mathematics: Grade 9 (Denison)",
+              "grade": "9",
+              "scheduleInfo": "Mathematics: Grade 9 (Denison)\n5 times/week 40 min",
+              "books": "Denison Geometry"
+            }
+          ]
         }
       ]
     }

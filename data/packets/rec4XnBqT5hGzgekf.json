@@ -56,6 +56,19 @@
               "content": "These Composer Study lessons are shared across grades 2-12 with extensions provided for older students. Students in Grades 2-3 with no classical music background may choose to take Intro to Music Appreciation first, but the composers in this rotation are particularly accessible for a wide range of ages."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Composer Study",
+              "grade": "2-12",
+              "scheduleInfo": "Composer Study\n1 time/week 10 min\n1 time/week 15 min",
+              "books": "Playlist for the Year, Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins, Mussorgsky's Pictures at an Exhibition"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "Due to the complexity of certain topics and the maturity required, this course is recommended for Grades 11-12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Geology Lessons",
+              "grade": "11-12",
+              "scheduleInfo": "Geology Lessons\n5 times/week 45 min",
+              "books": "The Field Guide to Geology, Roadside Geology/Geology Underfoot Series, Annals of the Former World, The Map That Changed the World, 101 American Geo-Sites You've Gotta See, The Story of the Earth in 25 Rocks"
+            }
+          ]
         }
       ]
     }

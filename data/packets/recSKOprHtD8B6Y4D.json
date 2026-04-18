@@ -48,6 +48,19 @@
               "content": "Grade 3 students with no experience with sol-fa or sight-reading music may start with Level 1."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Sol-fa: Level 1",
+              "grade": "2+",
+              "scheduleInfo": "Sol-fa: Level 1\n1 time/week 10 min",
+              "books": "Sol-fa Level 1 Audio Lessons"
+            }
+          ]
         }
       ]
     }

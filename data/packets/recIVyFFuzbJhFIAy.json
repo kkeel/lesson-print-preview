@@ -38,6 +38,19 @@
               "content": "Students learn about the electoral process, the different aspects of parliamentary government, the Canadian legal system, and the concept of citizenship. The will spend the final term learning about the structure of our local and provincial authorities.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (Canada)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Canadian Government: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Canadian Government: Grade 7\n1 time/week 25 min",
+              "books": "Who Runs This Country, Anyway?"
+            }
+          ]
         }
       ]
     }

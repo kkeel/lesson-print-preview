@@ -54,6 +54,40 @@
               "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nAstronomy Lessons\nRecommended for students in Grades 11-12, depending on math placement. Students should have completed Algebra 1 (Algebra 2 if taking Denison Success) and Geometry."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Astronomy Lessons",
+              "grade": "11-12",
+              "scheduleInfo": "Astronomy Lessons\n5 times/week 45 min",
+              "books": "100 Things to See in the Night Sky, Astronomy Textbook, The Last Stargazers, The Crossroads of Science and Faith: Astronomy Through a Christian Worldview, The Crossroads of Science and Faith: Answers to Exercises, The Day Without Yesterday"
+            },
+            {
+              "rowType": "topic",
+              "label": "Astronomy Labs",
+              "grade": "11-12",
+              "scheduleInfo": "Astronomy Labs\n1 time/week 60 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

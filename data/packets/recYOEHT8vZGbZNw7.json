@@ -48,6 +48,19 @@
               "content": "About Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level, historical context, and time required are transitional as we gently prepare for the middle grades.\n\nLabs: Grade 6\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Labs: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Labs: Grade 6\n1 time/week 30 min",
+              "books": "Science: Grade 6 Lab Book"
+            }
+          ]
         }
       ]
     }

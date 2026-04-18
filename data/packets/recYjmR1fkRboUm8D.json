@@ -44,6 +44,19 @@
               "content": "Suitable for interested 8th graders, though concepts are better understood with greater age development. No prior Art Instruction or Picture Study experience is required to complete this course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art History",
+              "grade": "9-12",
+              "scheduleInfo": "Art History\n2 times/week 45 min",
+              "books": "The Arts: A Visual Encyclopedia, Children's Book of Art"
+            }
+          ]
         }
       ]
     }

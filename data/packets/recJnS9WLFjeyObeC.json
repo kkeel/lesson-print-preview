@@ -44,6 +44,19 @@
               "content": "This course is different for each of the historical time periods, but always retains a topical focus on US geography."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 8 (U.S.)",
+              "grade": "8",
+              "scheduleInfo": "Geography: Grade 8 (U.S.)\n2 times/week 30 min",
+              "books": "Our States Have Crazy Shapes, United States Atlas 7th Ed., Student World Atlas 6th Ed., Westward with Fremont: The Story of Solomon Carvalho, This Strange Wilderness: The Life and Art of John James Audubon"
+            }
+          ]
         }
       ]
     }

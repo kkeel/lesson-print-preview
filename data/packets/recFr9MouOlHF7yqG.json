@@ -48,6 +48,19 @@
               "content": "Algebra 1: Part 2\nStudents should have facility with arithmetic."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Algebra 1: Part 2",
+              "grade": "9",
+              "scheduleInfo": "Algebra 1: Part 2\n2 times/week 40 min",
+              "books": "Elementary Algebra Student Book, Elementary Algebra Teacher Guide (Revised Edition)"
+            }
+          ]
         }
       ]
     }

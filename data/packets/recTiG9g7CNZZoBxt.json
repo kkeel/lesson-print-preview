@@ -48,6 +48,19 @@
               "content": "About Literature: Grade 4\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nMythology/Hist. Fiction: Grade 4\nCan easily be combined with students in Grades 3 or 5."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Mythology/Hist. Fiction: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Mythology/Hist. Fiction: Grade 4\n1 time/week 20 min",
+              "books": "In the Days of Giants, Russian Fairy Tales, South American Jungle Tales, Short Stories & Folktales, The Tales of Uncle Remus: The Adventures of Brer Rabbit"
+            }
+          ]
         }
       ]
     }

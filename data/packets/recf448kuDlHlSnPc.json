@@ -48,6 +48,19 @@
               "content": "Suitable for hungry kindergarteners as well."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Fairy Tales",
+              "grade": "1",
+              "scheduleInfo": "Fairy Tales\n1 time/week 15 min",
+              "books": "Tales from Grimm, Around the World in 80 Tales"
+            }
+          ]
         }
       ]
     }

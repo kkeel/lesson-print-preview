@@ -52,6 +52,33 @@
               "content": "Geometry: Grade 7\nThis course progresses through the RightStart G over two years.\n\nPrerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents.\n\nPre-Algebra\nPrerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Geometry: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Geometry: Grade 7\n3 times/week 30 min",
+              "books": "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+            },
+            {
+              "rowType": "topic",
+              "label": "Pre-Algebra",
+              "grade": "7",
+              "scheduleInfo": "Pre-Algebra\n2 times/week 30 min",
+              "books": "Hands-On Equations Deluxe Home Set, The Hands-On Equations Verbal Problems Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Math Games: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
+              "books": "Math Card Games Kit"
+            }
+          ]
         }
       ]
     }

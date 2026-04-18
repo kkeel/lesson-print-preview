@@ -48,6 +48,19 @@
               "content": "Appropriate for any HS grades."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Bible History: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Bible History: Grade 9\n1 time/week 30 min",
+              "books": "God’s Big Picture: Tracing the Storyline of the Bible"
+            }
+          ]
         }
       ]
     }

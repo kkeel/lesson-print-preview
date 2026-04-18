@@ -54,6 +54,40 @@
               "content": "Old Testament: Grades 7-12\nStudents in Grades 7-12 read the same passages of Scripture, but the lesson plans include a variety of discussion questions and extra study helps differentiated by grade to help students engage at various depths. This makes these lessons flexible for individual students and/or a multi-age context. Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the narratives and overarching story of the OT.\n\nChurch History: Grades 7-9\nCan be combined with Grades 5-6.\n\nNew Testament: Grade 9\nAppropriate for any HS grades. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices.\n\nBible History: Grade 9\nAppropriate for any HS grades."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Old Testament: Grades 7-12",
+              "grade": "7-12",
+              "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
+              "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Church History: Grades 7-9\n1 time/week 30 min",
+              "books": "Spurgeon: A Biography, Renewal: The Church That Expands Outward, An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+            },
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "New Testament: Grade 9\n1 time/week 30 min",
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+            },
+            {
+              "rowType": "topic",
+              "label": "Bible History: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Bible History: Grade 9\n1 time/week 30 min",
+              "books": "God’s Big Picture: Tracing the Storyline of the Bible"
+            }
+          ]
         }
       ]
     }

@@ -34,6 +34,19 @@
               "content": "Students learn to love the sight and sound of words through daily poetry reading covering a wide variety of poems. They also enjoy short picture book biographies and accessible poems corresponding to the historical time period as relevant, and lesson plans occasionally point out interesting poetic features."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Poetry: Grades 1-4",
+              "grade": "1-4",
+              "scheduleInfo": "Poetry: Grades 1-4\n5 times/week 5 min",
+              "books": "The Crescent Moon, Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry, Gladiola Garden, Emma's Poem: The Voice of the Statue of Liberty"
+            }
+          ]
         }
       ]
     }

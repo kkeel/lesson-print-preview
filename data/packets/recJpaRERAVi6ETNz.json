@@ -44,6 +44,19 @@
               "content": "If students are in grade 6 or above or have prior experience with art, they should begin with the fast-track lessons and then move on to Level 4 Art."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art: Fast Track",
+              "grade": "5-8",
+              "scheduleInfo": "Art: Fast Track\n2 times/week 30 min",
+              "books": "Drawing, Design, and Craft-Work, Brushwork: Elementary Brush-Forms"
+            }
+          ]
         }
       ]
     }

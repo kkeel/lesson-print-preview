@@ -38,6 +38,19 @@
               "content": "Students learn the parts of speech through a four-part analysis.\n\nThis topic is included in the following course(s): Language Study: Grade 4"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Grammar: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Grammar: Grade 4\n2 times/week 15 min",
+              "books": "Grammar Island, Grammar Island Teacher Manual (select pages), Practice Island, Practice Island Teacher Manual (select pages)"
+            }
+          ]
         }
       ]
     }

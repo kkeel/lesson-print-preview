@@ -48,6 +48,19 @@
               "content": "About Science: Grade 8\nIn level 8, learners study science in its historical, political, and cultural context with a growing understanding that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nLabs: Grade 8\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Labs: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Labs: Grade 8\n1 time/week 45 min",
+              "books": "Science: Grade 8 Lab Book"
+            }
+          ]
         }
       ]
     }

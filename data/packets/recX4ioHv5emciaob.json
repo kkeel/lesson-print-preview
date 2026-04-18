@@ -34,6 +34,19 @@
               "content": "Complete Advanced Algebra & Trigonometry (AAT) course with video lessons taught by a veteran teacher. AAT is a high school math course designed for students who have completed Algebra 1, Geometry, and Algebra 2 but are not yet ready to advance to Pre-Calculus or College Algebra. This course serves as a bridge between high school and college-level mathematics."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Mathematics: Grade 11 (Denison)",
+              "grade": "11",
+              "scheduleInfo": "Mathematics: Grade 11 (Denison)\n5 times/week 40 min",
+              "books": "Denison Advanced Algebra & Trigonometry"
+            }
+          ]
         }
       ]
     }

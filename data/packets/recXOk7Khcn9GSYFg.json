@@ -48,6 +48,19 @@
               "content": "If a student hasn't studied the Constitution, consider having them take the 7th-grade government course first."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "American Gov./ Economics: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "American Gov./ Economics: Grade 8\n1 time/week 30 min",
+              "books": "Reading PDF, Dollars and Sense: A Kid's Guide to Using - Not Losing - Money"
+            }
+          ]
         }
       ]
     }

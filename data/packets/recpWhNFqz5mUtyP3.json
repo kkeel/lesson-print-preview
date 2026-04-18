@@ -44,6 +44,19 @@
               "content": "Prerequisite: Spanish Level 1"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Upper Spanish: Level 2",
+              "grade": "8+",
+              "scheduleInfo": "Upper Spanish: Level 2\n5 times/week 30 min",
+              "books": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists, Spanish: Level 2 SoundCloud Playlist, Spanish: Level 2 Student Notebook"
+            }
+          ]
         }
       ]
     }

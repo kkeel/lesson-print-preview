@@ -54,6 +54,40 @@
               "content": "Science: Grade 1\nFor first-grade students or those still growing their attention span or interest in books. If combining grades is desirable, it is recommended that the combined grades begin at the appropriate level and move forward together.\n\nNature Notebook: Grade 1\nLearners may be combined and share prompts or follow their own interest. Support through varied media, scribing observations, or notebooking in tandem.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "General Science: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "General Science: Grade 1\n1 time/week 15 min",
+              "books": "Over and Under the Pond, Bat Loves the Night, Winter Sleep: A Hibernation Story, A Fruit is a Suitcase for Seeds, Up in the Garden and Down in the Dirt, A House Spider's Life"
+            },
+            {
+              "rowType": "topic",
+              "label": "Natural History: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Natural History: Grade 1\n1 time/week 10 min",
+              "books": "Walks with a Naturalist: Living Nature Reader Volume 1"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Nature Notebook: Grade 1\n1+ time/week 10 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

@@ -60,6 +60,19 @@
               "content": "Learners may be combined and follow their own interests."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

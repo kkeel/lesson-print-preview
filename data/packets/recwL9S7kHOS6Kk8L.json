@@ -52,6 +52,19 @@
               "content": "Inquisitive 9th graders could enjoy this course, but the main texts have an advanced reading level, so students would likely want to move at a slower pace."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Ancient History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "Ancient History: Grades 10-12\n1 time/week 30 min\n1 time/week 40 min",
+              "books": "Ancient Empires: From Mesopotamia to the Rise of Islam, Christians Reading Classics, Early Christian Writings: The Apostolic Fathers edited"
+            }
+          ]
         }
       ]
     }

@@ -52,6 +52,33 @@
               "content": "Grammar/Comp: Grade 9\nNew students entering Grade 9 without much former Grammar instruction should complete MCT's Grammar and Practice Voyage scheduled in Grade 8. Composition prompts often reference Alveary lessons in Literature, History, Geography, Bible, etc., so it is ideal if students are using Alveary subjects across the curriculum. However, lessons include the lesson topic and target skill/form, along with ideas for substitution when possible to make the lessons flexible for teachers and students.\n\nDictation: Grade 9\nDepending on the student, dictation may or may not be necessary at this level.\n\nCommonplace: Grades 9-12\nStudents new to copywork or keeping a commonplace book may want to schedule this during morning lessons to build the habit."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Grammar/Comp: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Grammar/Comp: Grade 9\n2 times/week 20 min\n2 times/week 30 min",
+              "books": "Essay Voyage, Essay Voyage Teacher Manual (select pages)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Dictation: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Dictation: Grade 9\n1+ time/week 20 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Commonplace: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Commonplace: Grades 9-12\n1+ time/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

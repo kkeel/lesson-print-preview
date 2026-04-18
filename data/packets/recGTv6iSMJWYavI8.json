@@ -48,6 +48,19 @@
               "content": "Prerequisite: Sight-Singing with Sol-fa Level 2 or appropriate skill proficiency. Students in Grades 4+ with no experience with sol-fa or sight-reading music should start with Level 2."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Sol-fa: Level 3",
+              "grade": "4+",
+              "scheduleInfo": "Sol-fa: Level 3\n1 time/week 15 min",
+              "books": "Fifty Steps in Sight-Singing, Sol-fa Level 3 Audio Lessons"
+            }
+          ]
         }
       ]
     }

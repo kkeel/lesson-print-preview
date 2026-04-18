@@ -50,6 +50,26 @@
               "content": "Commonplace: Grades 9-12\nStudents new to copywork or keeping a commonplace book may want to schedule this during morning lessons to build the habit.\n\nComposition: Grade 11\nPrerequisite: Students with little background in the essay form should begin with Essay Voyage from the Grade 9 lessons. And students new to the concept of revision and editing should take the Grade 10 courses.\n\nComposition prompts often reference Alveary lessons in Literature, History, Geography, Bible, etc., so it is ideal if students are using Alveary subjects across the curriculum. However, lessons include the lesson topic and target skill/form, along with ideas for substitution when possible to make the lessons flexible for teachers and students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Commonplace: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Commonplace: Grades 9-12\n1+ time/week 10 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Composition: Grade 11",
+              "grade": "11",
+              "scheduleInfo": "Composition: Grade 11\n4 times/week 40 min",
+              "books": "Advanced Academic Writing II Teacher Manual, Steering the Craft: A Twenty-First Century Guide to Sailing the Sea of Story, Communicating with Grace and Virtue: Learning to Listen, Speak, Text, and Interact as a Christian"
+            }
+          ]
         }
       ]
     }

@@ -40,6 +40,19 @@
               "content": "Using a survey of key events in the American church, articles, and extra resources on Christianity across the world in the lesson plans, this course gives students a personal and big picture look at church history during the 19th century. A second text is used to bring the people and events of the early church to life.\n\nThis topic is included in the following course(s): Bible: Grades 10-11, Bible: Grade 12"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Church History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "Church History: Grades 10-12\n1 time/week 30 min",
+              "books": "When the Church Was Young: Voices of the Early Fathers, Turning Points in American Church History"
+            }
+          ]
         }
       ]
     }

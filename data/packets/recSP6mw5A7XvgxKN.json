@@ -38,6 +38,19 @@
               "content": "Labs/fieldwork are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.\n\nThis topic is included in the following course(s): Science: Geology"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Geology Labs",
+              "grade": "11-12",
+              "scheduleInfo": "Geology Labs\n1 time/week 60 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

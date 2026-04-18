@@ -56,6 +56,47 @@
               "content": "Science: Grade 5\nFor fifth-grade students or possibly hungry fourth-graders or sixth-graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, learners may stay at their appropriate level for General Science while combining Natural History and Outdoor Work, or teachers can adapt the laboratory content and reading level to meet their needs.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate.\n\nGeneral Science: Grade 5\nFor fifth-grade students or possibly hungry fourth-graders or sixth-graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs.\n\nLabs: Grade 5\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution.\n\nNatural History: Grade 5\nFor approximately fifth-grade students based on a balance of complexity and reading level. However, learners may be freely combined, or sequence reordered based on needs and preferences.\n\nNature Notebook: Grade 5\nLearners may be combined and share prompts or follow their own interests. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "General Science: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "General Science: Grade 5\n1 time/week 20 min",
+              "books": "The Hive Detectives: Chronicle of a Honey Bee Catastrophe, The Tornado Scientist, Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt"
+            },
+            {
+              "rowType": "topic",
+              "label": "Labs: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Labs: Grade 5\n1 time/week 30 min",
+              "books": "Science: Grade 5 Lab Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Natural History: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Natural History: Grade 5\n1 time/week 15 min",
+              "books": "Nature All Around: Plants, Shanleya's Quest Card Game, The Forest in the Tree, The Bat Scientists, Beetle Busters"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Nature Notebook: Grade 5\n1+ time/week 15 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

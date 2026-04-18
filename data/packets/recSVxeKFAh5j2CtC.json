@@ -52,6 +52,33 @@
               "content": "Ancient History: Grades 10-12\nInquisitive 9th graders could enjoy this course, but the main texts have an advanced reading level, so students would likely want to move at a slower pace."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Canadian History: Grades 9-10",
+              "grade": "9-10",
+              "scheduleInfo": "Canadian History: Grades 9-10\n1 time/week 40 min\n1 time/week 30 min",
+              "books": "The Underground Railroad: Next Stop, Toronto!, Early Voices, Sophie's Rebellion, Vanished Beyond the Map, Red Wolf, The Charlottetown Conference and the Birth of Confederation"
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "World History: Grades 10-12\n1 time/week 30 min",
+              "books": "When America First Met China, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
+            },
+            {
+              "rowType": "topic",
+              "label": "Ancient History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "Ancient History: Grades 10-12\n1 time/week 30 min\n1 time/week 40 min",
+              "books": "Ancient Empires: From Mesopotamia to the Rise of Islam, Christians Reading Classics, Early Christian Writings: The Apostolic Fathers edited"
+            }
+          ]
         }
       ]
     }

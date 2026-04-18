@@ -48,6 +48,19 @@
               "content": "Students in Grade 2 may take this course, which reads straight from the Bible, or First Bible Stories. They may also combine with Grades 3-6 Bible if they are familiar with OT narratives."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Old Testament: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Old Testament: Grade 2\n3 times/week 20 min",
+              "books": "ESV Large Print Bible, God's Bible Timeline: The Big Book of Biblical History, The Bible Story Handbook"
+            }
+          ]
         }
       ]
     }

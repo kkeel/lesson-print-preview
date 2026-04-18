@@ -56,6 +56,54 @@
               "content": "All music lessons except sol-fa are shared between Grades 2-12, making them ideal lessons for multi-age groups.\n\nComposer Study\nThese Composer Study lessons are shared across grades 2-12 with extensions provided for older students. Students in Grades 2-3 with no classical music background may choose to take Intro to Music Appreciation first, but the composers in this rotation are particularly accessible for a wide range of ages.\n\nSol-fa: Level 1\nGrade 3 students with no experience with sol-fa or sight-reading music may start with Level 1."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Hymns & Spirituals",
+              "grade": "1-12",
+              "scheduleInfo": "Hymns & Spirituals\n1 time/week 10 min",
+              "books": "Our Hymns, Our Heritage"
+            },
+            {
+              "rowType": "topic",
+              "label": "Folk Songs",
+              "grade": "1-12",
+              "scheduleInfo": "Folk Songs\n1 time/week 10 min",
+              "books": "Like a Bird: The Art of the American Slave Song"
+            },
+            {
+              "rowType": "topic",
+              "label": "Afternoon Listening",
+              "grade": "1-12",
+              "scheduleInfo": "Afternoon Listening\n1+ time/week 10 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Composer Study",
+              "grade": "2-12",
+              "scheduleInfo": "Composer Study\n1 time/week 10 min\n1 time/week 15 min",
+              "books": "Playlist for the Year, Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins, Mussorgsky's Pictures at an Exhibition"
+            },
+            {
+              "rowType": "topic",
+              "label": "Sol-fa: Level 1",
+              "grade": "2+",
+              "scheduleInfo": "Sol-fa: Level 1\n1 time/week 10 min",
+              "books": "Sol-fa Level 1 Audio Lessons"
+            },
+            {
+              "rowType": "course-books",
+              "label": "Music: Level 1",
+              "grade": "",
+              "scheduleInfo": "Shared course resources",
+              "books": "Our Work: Grades 1-2, Hymns, Spirituals, & Folk Songs PDF"
+            }
+          ]
         }
       ]
     }

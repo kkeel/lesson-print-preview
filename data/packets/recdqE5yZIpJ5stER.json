@@ -44,6 +44,19 @@
               "content": "All Grade 1 students should begin with this course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Intro",
+              "grade": "1+",
+              "scheduleInfo": "Sloyd: Intro\n1 time/week 15 min",
+              "books": "Paper Folding Video Lessons"
+            }
+          ]
         }
       ]
     }

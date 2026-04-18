@@ -48,6 +48,19 @@
               "content": "Recommended for students in 11th or 12th Grade, depending on math placement. Students should have completed Algebra II/Trigonometry and preferably be taking at least Precalculus concurrently with this course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Physics Lessons",
+              "grade": "11-12",
+              "scheduleInfo": "Physics Lessons\n5 times/week 45 min",
+              "books": "Home Study Companion: Physics, Schaum's Outlines: College Physics"
+            }
+          ]
         }
       ]
     }

@@ -44,6 +44,19 @@
               "content": "May be suitable for Grades 7-8."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Technology",
+              "grade": "9-12",
+              "scheduleInfo": "Technology\n2 times/week 30 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

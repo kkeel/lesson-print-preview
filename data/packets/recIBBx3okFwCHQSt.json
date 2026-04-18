@@ -24,7 +24,21 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Citizenship: Grade 11 (Canada)",
+              "grade": "11",
+              "scheduleInfo": "Citizenship: Grade 11 (Canada)\n",
+              "books": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

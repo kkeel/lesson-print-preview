@@ -44,6 +44,19 @@
               "content": "This course is intended as a precursor to Part 2; however, the order may be reversed to facilitate combining students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Story of Geometry: Part 1",
+              "grade": "7",
+              "scheduleInfo": "Story of Geometry: Part 1\n1 time/week 15 min",
+              "books": "String, Straight-Edge, and Shadow, The Student Bible Atlas, Revised Edition, Historical Atlas of the World 6th Ed."
+            }
+          ]
         }
       ]
     }

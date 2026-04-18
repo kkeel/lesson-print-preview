@@ -48,6 +48,19 @@
               "content": "About Science: Grade 1\nIn Level 1, learners are developing familiarity and friendship with Creation through the most accessible Things, simple text, and basic concepts.\n\nNature Notebook: Grade 1\nLearners may be combined and share prompts or follow their own interest. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Nature Notebook: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Nature Notebook: Grade 1\n1+ time/week 10 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

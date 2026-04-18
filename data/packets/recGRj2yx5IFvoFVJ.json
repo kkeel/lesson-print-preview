@@ -38,6 +38,19 @@
               "content": "Students copy passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nThis topic is included in the following course(s): Language Study: Grade 7"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Copywork: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Copywork: Grade 7\n5 times/week 10 min",
+              "books": "Grade 7 Copywork & Dictation Book"
+            }
+          ]
         }
       ]
     }

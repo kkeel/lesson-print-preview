@@ -54,6 +54,40 @@
               "content": "Chemistry Lessons\nRecommended for learners who have completed Physical Science, such as Alveary Grade 7-8 Science, including the laboratory activities. Learners should be taking at least Algebra 1 alongside Chemistry (Algebra 2 if using Denison Success). Teachers wishing to place students in Physical Science instead of Chemistry may choose either to complete Alveary Grade 7-8 Science in a single year (with 5 lessons + 1 lab each week available in the Grade 7-8 Quick Links) or to purchase separately from Classical Academic Press the Novare Introductory Physics Program and Video Course.\t\n\nNature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Chemistry Lessons",
+              "grade": "9-12+",
+              "scheduleInfo": "Chemistry Lessons\n5 times/week 45 min",
+              "books": "HS Chem Intro, Michael Faraday's The Chemical History of a Candle, Introductory Chemistry: A Foundation, The Chemical Elements Coloring and Activity Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Chemistry Labs",
+              "grade": "9-12+",
+              "scheduleInfo": "Chemistry Labs\n1 time/week 60 min",
+              "books": "Alveary Chemistry Lab Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

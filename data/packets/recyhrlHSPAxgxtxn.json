@@ -50,6 +50,26 @@
               "content": "Canadian History: Grades 7-8\nCanadian history may be suitable for grade 9 students if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Ancient History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
+              "books": "A Short History of Ancient Rome, The Witness of Early Christian Women: Mothers of the Church"
+            },
+            {
+              "rowType": "topic",
+              "label": "Canadian History: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Canadian History: Grades 7-8\n2 times/week 30 min",
+              "books": "The Story of Canada, Jeremy's War 1812, The Charlottetown Conference and the Birth of Confederation, Sophie's Rebellion, Elijah of Buxton"
+            }
+          ]
         }
       ]
     }

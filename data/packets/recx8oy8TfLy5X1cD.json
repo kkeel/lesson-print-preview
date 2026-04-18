@@ -48,6 +48,19 @@
               "content": "Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the gospels. Ideal for HS students who are new to studying the Bible or unused to commentaries or discussions about cultural context or interpretive issues."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "New Testament: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "New Testament: Grades 7-8\n1 time/week 30 min",
+              "books": "ESV Concise Study Bible, The Student Bible Atlas, Revised Edition, Introducing the New Testament: A Historical, Literary, and Theological Survey"
+            }
+          ]
         }
       ]
     }

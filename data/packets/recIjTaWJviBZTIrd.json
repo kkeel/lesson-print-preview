@@ -48,6 +48,19 @@
               "content": "The book Canada's Constitutional Monarchy will be read over two years (Grades 8 and 9). However, since this is the first year this book will be introduced, Grades 8 and 9 will have the same readings in 2026-2027.\nIf a student hasn't studied Canada's government yet, consider having them take the Grade 7 government course first."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Canadian Gov./ Economics: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Canadian Gov./ Economics: Grade 8\n1 time/week 25 min",
+              "books": "Canada's Constitutional Monarchy, Dollars and Sense: A Kid's Guide to Using - Not Losing - Money"
+            }
+          ]
         }
       ]
     }

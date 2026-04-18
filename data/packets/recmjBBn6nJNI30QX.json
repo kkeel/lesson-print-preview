@@ -44,6 +44,19 @@
               "content": "Lessons are occasionally integrated with composition lessons. Government lessons in Term 2 are shared with Grades 9-10, and the economics lessons finish the book begun in Term 3 of Grade 10."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Econ/Civics: Grade 11 (U.S.)",
+              "grade": "11",
+              "scheduleInfo": "Econ/Civics: Grade 11 (U.S.)\n1 time/week 40 min",
+              "books": "The Art of Asking Better Questions, Reading PDF, What Would Keynes Do?"
+            }
+          ]
         }
       ]
     }

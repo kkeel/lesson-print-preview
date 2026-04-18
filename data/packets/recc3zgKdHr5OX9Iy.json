@@ -44,6 +44,19 @@
               "content": "If students are in grade 5 and below and have not had formal art lessons, they should begin with Level 1. However, those with prior art knowledge can take the Level 1-3 fast-track lessons and then continue with Level 4.\n\nPrerequisite: Level 2 or appropriate skill proficiency."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art: Level 3",
+              "grade": "3+",
+              "scheduleInfo": "Art: Level 3\n2 times/week 20 min",
+              "books": "Brushwork: Elementary Brush-Forms, Drawing, Design, and Craft-Work"
+            }
+          ]
         }
       ]
     }

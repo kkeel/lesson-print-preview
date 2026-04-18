@@ -44,6 +44,19 @@
               "content": "This course may be counted as 1/2 credit for High School and is based on the same text as the Latin 1 Video Course, but without the accountability and structure of an online course platform and recorded class videos. Students work through lesson plans for the course as in other subjects."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Latin 1 (Independent Study)",
+              "grade": "7+",
+              "scheduleInfo": "Latin 1 (Independent Study)\n2 times/week 45 min",
+              "books": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access), North American Cambridge Latin Unit 1 5th Ed. Student Book, Cambridge Latin Unit 1 Online Resources"
+            }
+          ]
         }
       ]
     }

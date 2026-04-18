@@ -54,6 +54,19 @@
               "content": "Lessons are shared across high school grades with grade-specific assignments in the lesson plans as appropriate."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "History of Lit: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "History of Lit: Grades 9-12\n1 time/week 30 min",
+              "books": "English Literature for Boys and Girls, American Literature, History of Literature PDF"
+            }
+          ]
         }
       ]
     }

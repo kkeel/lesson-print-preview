@@ -38,6 +38,19 @@
               "content": "Students are exposed to current events by reading from a variety of sources and having conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nThis topic is included in the following course(s): Citizenship: Grade 9 (U.S.), Citizenship: Grade 9 (Canada), Citizenship: Grade 10 (U.S.), Citizenship: Grade 10 (Canada), Citizenship: Grade 11 (U.S.), Citizenship: Grade 11 (Canada), Citizenship: Grade 12"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Current Events: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Current Events: Grades 9-12\n1+ time/week 20 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

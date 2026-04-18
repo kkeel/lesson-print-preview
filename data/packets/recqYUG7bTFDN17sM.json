@@ -50,6 +50,26 @@
               "content": "Canadian History: Grades 2-4\nHistory courses are on a four-year rotation. Students should follow the current Alveary rotation.\nStudents in grades 2-4 will take the same course.\n\nWorld History: Grades 4-6\nThis course is the same for 4th-6th graders. In grade 5, students may begin their Book of Centuries."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Canadian History: Grades 2-4",
+              "grade": "2-4",
+              "scheduleInfo": "Canadian History: Grades 2-4\n1 time/week 20 min",
+              "books": "The Kids Book of Canadian History, The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs, Laura Secord's Brave Walk, Born!: A Foal, Five Kittens and Confederation, Belle of Batoche, I Am Not a Ghost: The Canadian Pacific Railway"
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grades 4-6",
+              "grade": "4-6",
+              "scheduleInfo": "World History: Grades 4-6\n1 time/week 25 min",
+              "books": "Under the Hawthorn Tree, William Wilberforce: The Freedom Fighter, Commodore Perry in the Land of the Shogun"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "Also appropriate for HS students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Spiritual Formation: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Spiritual Formation: Grades 7-8\n1 time/week 30 min",
+              "books": "Transformed by Truth, This Changes Everything"
+            }
+          ]
         }
       ]
     }

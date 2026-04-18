@@ -48,6 +48,19 @@
               "content": "About Science: Grade 4\nIn level 4, learners begin to notice science in their community and begin to develop their own interests as they discover a variety of topics from the microscopic world, physical science, and more. A mixture of more and less challenging books is included in this course.\n\nLabs: Grade 4\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Labs: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Labs: Grade 4\n1 time/week 30 min",
+              "books": "Science: Grade 4 Lab Book"
+            }
+          ]
         }
       ]
     }

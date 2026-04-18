@@ -48,6 +48,19 @@
               "content": "About Science: Grade 4\nIn level 4, learners begin to notice science in their community and begin to develop their own interests as they discover a variety of topics from the microscopic world, physical science, and more. A mixture of more and less challenging books is included in this course.\n\nGeneral Science: Grade 4\nFor fourth-grade students or possibly hungry third-graders or fifth-graders taking their time.  If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "General Science: Grade 4\n1 time/week 20 min",
+              "books": "The Universe in You: A Microscopic Journey, To Fly: The Story of the Wright Brothers, The Elephant Scientist"
+            }
+          ]
         }
       ]
     }

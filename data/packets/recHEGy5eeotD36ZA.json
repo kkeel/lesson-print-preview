@@ -48,6 +48,19 @@
               "content": "Those who wish to combine students in Grades 4-6 with younger students should choose either this course or the Church History for grades 1-3. If you have a 6th grader, they could be combined with the 7-8 Church History course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Church History: Grades 4-6",
+              "grade": "4-6",
+              "scheduleInfo": "Church History: Grades 4-6\n1 time/week 20 min",
+              "books": "Hudson Taylor: Deep in the Heart of China, Trial by Poison: Mary Slessor"
+            }
+          ]
         }
       ]
     }

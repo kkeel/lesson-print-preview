@@ -48,6 +48,19 @@
               "content": "If 8th-grade students have not taken this course or studied the Constitution, they should consider taking it instead of the 8th-grade option."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "American Government: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "American Government: Grade 7\n1 time/week 30 min",
+              "books": "Your Rugged Constitution"
+            }
+          ]
         }
       ]
     }

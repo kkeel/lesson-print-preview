@@ -54,6 +54,40 @@
               "content": "Science: Grade 2\nFor second-grade students or possibly hungry first-graders and third-graders taking their time. If combining grades is desirable, it is recommended that the combined grades begin at the appropriate level and move forward together.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate.\n\nNature Notebook: Grade 2\nLearners may be combined and share prompts or follow their own interest. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "General Science: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "General Science: Grade 2\n1 time/week 15 min",
+              "books": "A Walk in the..., Monarch and Milkweed, Desert Giant, Mama Built a Little Nest, The Secret Life of the Skunk"
+            },
+            {
+              "rowType": "topic",
+              "label": "Natural History: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Natural History: Grade 2\n1 time/week 10 min",
+              "books": "Walks with a Naturalist: Living Nature Reader Volume 2"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Nature Notebook: Grade 2\n1+ time/week 10 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

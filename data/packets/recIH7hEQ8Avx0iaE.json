@@ -44,6 +44,19 @@
               "content": "This course is intended to follow Part 1; however, the order may be reversed to facilitate combining students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Story of Geometry: Part 2",
+              "grade": "8",
+              "scheduleInfo": "Story of Geometry: Part 2\n1 time/week 15 min",
+              "books": "String, Straight-Edge, and Shadow"
+            }
+          ]
         }
       ]
     }

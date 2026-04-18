@@ -56,6 +56,47 @@
               "content": "Poetry Study: Grade 9\nPrerequisite: Grade 8 Poetry Study or a working knowledge of poetic forms and terminology.\n\nGeneral Lit.: Grades 9-10\nSuitable for hungry 8th graders. Can be combined easily with Grades 11-12.\n\nHistory of Lit: Grades 9-12\nLessons are shared across high school grades with grade-specific assignments in the lesson plans as appropriate.\n\nPlays: Grades 9-12\nThis year, this course is the same as Shakespeare for Grades 5-8 with the only difference coming in Extra Helpings and additional options for further study. \n\nPoetry Reading: Grades 9-12\nStudents new or struggling in their relationship with poetry should use Grade 8 lessons."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Poetry Study: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Poetry Study: Grade 9\n2 times/week 15 min",
+              "books": "The Making of a Poem"
+            },
+            {
+              "rowType": "topic",
+              "label": "General Lit.: Grades 9-10",
+              "grade": "9-10",
+              "scheduleInfo": "General Lit.: Grades 9-10\n2 times/week 30 min",
+              "books": "Up from Slavery, Frankenstein, Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Silas Marner, Short stories and other writings"
+            },
+            {
+              "rowType": "topic",
+              "label": "History of Lit: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "History of Lit: Grades 9-12\n1 time/week 30 min",
+              "books": "English Literature for Boys and Girls, American Literature, History of Literature PDF"
+            },
+            {
+              "rowType": "topic",
+              "label": "Plays: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Plays: Grades 9-12\n1 time/week 30 min",
+              "books": "The Tempest, The Tempest (Audio recording), Henry IV Part 2, Henry IV Part 2 (Audio recording), The Winter's Tale, The Winter's Tale (Audio recording)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Poetry Reading: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Poetry Reading: Grades 9-12\n2 times/week 15 min",
+              "books": "Poetry, The Lightning Dreamer: Cuba's Greatest Abolitionist, The Crescent Moon, The Aeneid, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+            }
+          ]
         }
       ]
     }

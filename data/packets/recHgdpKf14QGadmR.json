@@ -48,6 +48,19 @@
               "content": "Increase the number of written narrations at a pace at which your student can be successful."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Written Narration: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Written Narration: Grade 6\n5 times/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

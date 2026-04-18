@@ -48,6 +48,19 @@
               "content": "About Science: Grade 6\nIn level 6, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from oceanography, architecture, and more. Reading level, historical context, and time required are transitional as we gently prepare for the middle grades.\n\nGeneral Science: Grade 6\nFor sixth-grade students or possibly hungry fifth-graders or seventh-graders taking their time. If combining grades is desirable: the combined grades may begin at the appropriate level and move forward together, or teachers can adapt the reading level and laboratory content to meet their needs."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "General Science: Grade 6\n2 times/week 30 min",
+              "books": "Plate Tectonics, Phineas Gage, The Art of Construction"
+            }
+          ]
         }
       ]
     }

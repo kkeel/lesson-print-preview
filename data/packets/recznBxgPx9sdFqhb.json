@@ -52,6 +52,33 @@
               "content": "Old Testament: Grade 2\nStudents in Grade 2 may take this course, which reads straight from the Bible, or First Bible Stories. They may also combine with Grades 3-6 Bible if they are familiar with OT narratives.\n\nChurch History: Grades 1-3\nThose who wish to combine students in Grades 1-3 with older students should choose either this course or the Church History for grades 4-6."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Old Testament: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Old Testament: Grade 2\n3 times/week 20 min",
+              "books": "ESV Large Print Bible, God's Bible Timeline: The Big Book of Biblical History, The Bible Story Handbook"
+            },
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "New Testament: Grade 2\n1 time/week 20 min",
+              "books": "ESV Large Print Bible, God's Bible Timeline: The Big Book of Biblical History, The Bible Story Handbook"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 1-3",
+              "grade": "1-3",
+              "scheduleInfo": "Church History: Grades 1-3\n1 time/week 20 min",
+              "books": "The Bandit of Ashley Downs: George Muller, Adoniram Judson: Danger on the Streets of Gold"
+            }
+          ]
         }
       ]
     }

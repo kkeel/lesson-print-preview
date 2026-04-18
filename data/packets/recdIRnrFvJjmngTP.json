@@ -44,6 +44,19 @@
               "content": "Grade 3 students who are new to sloyd should take Sloyd: Intro and then continue the courses in sequence.\n\nPrerequisite: Sloyd: Level 1"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Level 2",
+              "grade": "3+",
+              "scheduleInfo": "Sloyd: Level 2\n1 time/week 20 min",
+              "books": "Paper Sloyd for Primary Grades"
+            }
+          ]
         }
       ]
     }

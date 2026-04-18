@@ -34,6 +34,19 @@
               "content": "Get to know the diverse people who inhabited North America before Columbus arrived. Learn how they used what was available around them for food, shelter, clothing, and protection. Observe their customs and hear their stories."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "History: Grade 1 (U.S.)",
+              "grade": "1",
+              "scheduleInfo": "History: Grade 1 (U.S.)\n1 time/week 10 min",
+              "books": "The Very First Americans, Frozen Land, Tales the Totems Tell, The Book of Indians, Moonstick: The Seasons of the Sioux, Hiawatha and the Peacemaker, Itse Selu: Cherokee Harvest Festival"
+            }
+          ]
         }
       ]
     }

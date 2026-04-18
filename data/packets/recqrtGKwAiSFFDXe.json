@@ -52,6 +52,33 @@
               "content": "Old Testament: Grades 3-6\nSuitable for older students if combining lessons, and ideal for older students just getting familiar with the Bible.\n\nNew Testament: Grades 3-6\nSuitable for older students if combining lessons, and ideal for older students just getting familiar with the Bible.\n\nChurch History: Grades 1-3\nThose who wish to combine students in Grades 1-3 with older students should choose either this course or the Church History for grades 4-6."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Old Testament: Grades 3-6",
+              "grade": "3-6",
+              "scheduleInfo": "Old Testament: Grades 3-6\n2 times/week 20 min",
+              "books": "ESV Large Print Bible, The Student Bible Atlas, Revised Edition, The New Manners and Customs of Bible Times"
+            },
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grades 3-6",
+              "grade": "3-6",
+              "scheduleInfo": "New Testament: Grades 3-6\n2 times/week 20 min",
+              "books": "ESV Large Print Bible, The New Manners and Customs of Bible Times, The Student Bible Atlas, Revised Edition"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 1-3",
+              "grade": "1-3",
+              "scheduleInfo": "Church History: Grades 1-3\n1 time/week 20 min",
+              "books": "The Bandit of Ashley Downs: George Muller, Adoniram Judson: Danger on the Streets of Gold"
+            }
+          ]
         }
       ]
     }

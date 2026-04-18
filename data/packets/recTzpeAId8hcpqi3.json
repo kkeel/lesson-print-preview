@@ -34,6 +34,19 @@
               "content": "Students study basic principles of economics.\n\nThis topic is included in the following course(s): Citizenship: Grade 12"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Economics: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Economics: Grade 12\n1 time/week 40 min",
+              "books": "Economics in One Lesson"
+            }
+          ]
         }
       ]
     }

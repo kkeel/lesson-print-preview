@@ -24,7 +24,21 @@
     },
     {
       "type": "header",
-      "items": []
+      "items": [
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Science: Introduction to Engineering",
+              "grade": "9-12",
+              "scheduleInfo": "Science: Introduction to Engineering\n",
+              "books": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

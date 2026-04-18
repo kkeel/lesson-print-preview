@@ -50,6 +50,26 @@
               "content": "Reading Level 1\nStudents who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation. \n\nPrerequisite: Students should recognize upper- and lower-case letters and know most of their sounds prior to starting this course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Reading Level 1",
+              "grade": "1",
+              "scheduleInfo": "Reading Level 1\n5 times/week 15 min",
+              "books": "Reading-Literature: The Primer, Reading Lessons: Level 1 (Revised 2025)"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 1",
+              "grade": "1",
+              "scheduleInfo": "Penmanship & Copywork: Grade 1\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book B"
+            }
+          ]
         }
       ]
     }

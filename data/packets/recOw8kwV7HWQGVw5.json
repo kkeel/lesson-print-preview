@@ -48,6 +48,19 @@
               "content": "About Science: Grade 8\nIn level 8, learners study science in its historical, political, and cultural context with a growing understanding that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nNatural History: Grade 8\nFor approximately eighth-grade students based on a balance of complexity and reading level. However, learners may be freely combined based on needs and preferences."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Natural History: Grade 8\n1 time/week 30 min",
+              "books": "Invincible Microbe"
+            }
+          ]
         }
       ]
     }

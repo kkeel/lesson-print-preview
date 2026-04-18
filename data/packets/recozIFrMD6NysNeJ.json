@@ -44,6 +44,19 @@
               "content": "Also suitable for students in Grades 10-12."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Geography: Grade 9\n2 times/week 30 min",
+              "books": "Prisoners of Geography: Ten Maps That Explain Everything About the World, Five Months on the Missouri River: Paddling a Dugout Canoe"
+            }
+          ]
         }
       ]
     }

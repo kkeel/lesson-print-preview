@@ -44,6 +44,19 @@
               "content": "Grade 8 students who are new to sloyd should begin with Sloyd: Level 1 and then continue courses in sequence.\n\nPrerequisite: Sloyd: Level 6"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Level 7",
+              "grade": "8+",
+              "scheduleInfo": "Sloyd: Level 7\n1 time/week 45 min",
+              "books": "Folding Techniques for Designers"
+            }
+          ]
         }
       ]
     }

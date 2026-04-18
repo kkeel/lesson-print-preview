@@ -48,6 +48,19 @@
               "content": "About Science: Grade 7\nIn level 7, learners extend their relationship with science in a new direction (time), situating science in its historical, political, and cultural context, and begin to understand that science is an ever-changing process rather than a static body of knowledge. Reading level and expectations increase from previous levels.\n\nNatural History: Grade 7\nFor approximately seventh-grade students, based on a balance of complexity and reading level. However, learners may be freely combined based on needs and preferences."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Natural History: Grade 7\n1 time/week 30 min",
+              "books": "The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science"
+            }
+          ]
         }
       ]
     }

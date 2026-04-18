@@ -34,6 +34,19 @@
               "content": "Note that labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.\n\nThis topic is included in the following course(s): Science: Food Science"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Food Science Labs",
+              "grade": "9-12",
+              "scheduleInfo": "Food Science Labs\n1 time/week 60 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

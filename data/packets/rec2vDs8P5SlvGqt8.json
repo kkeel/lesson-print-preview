@@ -34,6 +34,19 @@
               "content": "Each term, recite from memory or read beautifully 1 hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 poem or Shakespeare passage."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Recitation: Grade 11",
+              "grade": "11",
+              "scheduleInfo": "Recitation: Grade 11\n3 times/week 10 min",
+              "books": "Our Work: Grades 9-12"
+            }
+          ]
         }
       ]
     }

@@ -54,6 +54,19 @@
               "content": "Students new or struggling in their relationship with poetry should use Grade 8 lessons."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Poetry Reading: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Poetry Reading: Grades 9-12\n2 times/week 15 min",
+              "books": "Poetry, The Lightning Dreamer: Cuba's Greatest Abolitionist, The Crescent Moon, The Aeneid, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+            }
+          ]
         }
       ]
     }

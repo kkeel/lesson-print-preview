@@ -50,6 +50,26 @@
               "content": "Math Lessons: Grade 5\nStudents who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com). \nPrerequisite: RightStart D or appropriate skill proficiency"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Math Lessons: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Math Lessons: Grade 5\n5 times/week 20 min",
+              "books": "RightStart Mathematics Level E 2nd Ed. Book Bundle"
+            },
+            {
+              "rowType": "topic",
+              "label": "Math Games: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
+              "books": "Math Card Games Kit"
+            }
+          ]
         }
       ]
     }

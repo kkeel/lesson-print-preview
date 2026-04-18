@@ -52,6 +52,33 @@
               "content": "Reading Level 3\nStudents who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation. \n\nPrerequisite: Beginning Reading & Lang. Level 2 or appropriate skill proficiency.\n\nWritten Narration: Grade 3\nStudents who are not yet secure with their penmanship are not yet ready for written narration. Instead of written narrations, use the time to have students work on skills that will better support their development."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Reading Level 3",
+              "grade": "3",
+              "scheduleInfo": "Reading Level 3\n5 times/week 15 min",
+              "books": "Reading-Literature: Second Reader, Reading Lessons: Level 3"
+            },
+            {
+              "rowType": "topic",
+              "label": "Penmanship & Copywork: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Penmanship & Copywork: Grade 3\n5 times/week 10 min",
+              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book D"
+            },
+            {
+              "rowType": "topic",
+              "label": "Written Narration: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Written Narration: Grade 3\n1 time/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

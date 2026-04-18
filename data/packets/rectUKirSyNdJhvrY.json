@@ -50,6 +50,19 @@
               "content": "Ourselves by Charlotte Mason is scheduled over five years. In a multi-age context, students can jump into the book wherever the class is reading. Otherwise, students should begin the book in Part 1."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Ethics: Part 1",
+              "grade": "7+",
+              "scheduleInfo": "Ethics: Part 1\n1 time/week 25 min",
+              "books": "Ourselves: Book 1"
+            }
+          ]
         }
       ]
     }

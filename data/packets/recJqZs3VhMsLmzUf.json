@@ -44,6 +44,19 @@
               "content": "Grade 4 students who are new to sloyd should begin with Sloyd: Level 1 and then continue courses in sequence.\n\nPrerequisite: Sloyd: Level 2"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sloyd: Level 3",
+              "grade": "4+",
+              "scheduleInfo": "Sloyd: Level 3\n1 time/week 20 min",
+              "books": "Paper Sloyd for Primary Grades"
+            }
+          ]
         }
       ]
     }

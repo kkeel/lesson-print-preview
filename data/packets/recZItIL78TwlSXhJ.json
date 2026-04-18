@@ -44,6 +44,19 @@
               "content": "Prerequisite: Lettering Level 2"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Lettering: Level 3",
+              "grade": "9+",
+              "scheduleInfo": "Lettering: Level 3\n1 time/week 20 min",
+              "books": "The Complete Book of Chalk Lettering"
+            }
+          ]
         }
       ]
     }

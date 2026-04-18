@@ -48,6 +48,19 @@
               "content": "Students in Grades 5-8 can easily be combined for these lessons as all grades use nearly the same texts this year, although Grades 7-8 read additional selections and have corresponding composition assignments. Poetry lessons are also an integral part of the whole Literature program, so look at both literature and poetry selections together when placing students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Poetry Reading: Grade 7",
+              "grade": "7",
+              "scheduleInfo": "Poetry Reading: Grade 7\n4 times/week 5 min",
+              "books": "A Kick in the Head: An Everyday Guide to Poetic Forms, Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry, The Crescent Moon, The Poet: Pauline Johnson, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+            }
+          ]
         }
       ]
     }

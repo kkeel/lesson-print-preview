@@ -54,6 +54,40 @@
               "content": "Science: Grade 3\nThis level 3 course is for third-grade students or possibly hungry second-graders or fourth-graders taking their time. If combining grades is desirable, it is recommended that the combined grades begin at the appropriate level and move forward together.\n\nNature Walks & Scouting: Grades 1-8\nLearners may be combined and share prompts or follow the plan of their local scouting troop or natural history club. Support accessibility and sensory development as appropriate.\n\nNature Notebook: Grade 3\nLearners may be combined and share prompts or follow their own interest. Support through varied media, scribing observations, or notebooking in tandem."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 1-8\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "General Science: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "General Science: Grade 3\n1 time/week 15 min",
+              "books": "Next Time You See a Cloud, Buzztail and Leaper, Going Home"
+            },
+            {
+              "rowType": "topic",
+              "label": "Natural History: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Natural History: Grade 3\n1 time/week 10 min",
+              "books": "Christian Liberty Nature Reader Book 4"
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "Nature Notebook: Grade 3\n1+ time/week 10 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

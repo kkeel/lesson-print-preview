@@ -54,6 +54,40 @@
               "content": "Old Testament: Grades 7-12\nStudents in Grades 7-12 read the same passages of Scripture, but the lesson plans include a variety of discussion questions and extra study helps differentiated by grade to help students engage at various depths. This makes these lessons flexible for individual students and/or a multi-age context. Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the narratives and overarching story of the OT.\n\nNew Testament: Grades 7-8\nYounger students in Grades 5-6 can be combined with older students if they have a good general understanding of the gospels. Ideal for HS students who are new to studying the Bible or unused to commentaries or discussions about cultural context or interpretive issues.\n\nChurch History: Grades 7-9\nCan be combined with Grades 5-6.\n\nSpiritual Formation: Grades 7-8\nAlso appropriate for HS students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Old Testament: Grades 7-12",
+              "grade": "7-12",
+              "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
+              "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
+            },
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "New Testament: Grades 7-8\n1 time/week 30 min",
+              "books": "ESV Concise Study Bible, The Student Bible Atlas, Revised Edition, Introducing the New Testament: A Historical, Literary, and Theological Survey"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Church History: Grades 7-9\n1 time/week 30 min",
+              "books": "Spurgeon: A Biography, Renewal: The Church That Expands Outward, An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+            },
+            {
+              "rowType": "topic",
+              "label": "Spiritual Formation: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Spiritual Formation: Grades 7-8\n1 time/week 30 min",
+              "books": "Transformed by Truth, This Changes Everything"
+            }
+          ]
         }
       ]
     }

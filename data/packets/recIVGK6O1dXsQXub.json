@@ -52,6 +52,33 @@
               "content": "World History: Grade 9\nAll the books are appropriate for any HS student. If a HS student is new to the Alveary, especially consider assigning the third term book, A Little Book for New Historians, no matter their grade."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Canadian History: Grades 9-10",
+              "grade": "9-10",
+              "scheduleInfo": "Canadian History: Grades 9-10\n1 time/week 40 min\n1 time/week 30 min",
+              "books": "The Underground Railroad: Next Stop, Toronto!, Early Voices, Sophie's Rebellion, Vanished Beyond the Map, Red Wolf, The Charlottetown Conference and the Birth of Confederation"
+            },
+            {
+              "rowType": "topic",
+              "label": "Ancient History: Grades 7-9",
+              "grade": "7-9",
+              "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
+              "books": "A Short History of Ancient Rome, The Witness of Early Christian Women: Mothers of the Church"
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "World History: Grade 9\n1 time/week 30 min",
+              "books": "A Little Book for New Historians, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
+            }
+          ]
         }
       ]
     }

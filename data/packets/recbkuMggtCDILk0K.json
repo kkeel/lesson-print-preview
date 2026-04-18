@@ -48,6 +48,19 @@
               "content": "If your student did not do Sentence Island the previous year, you should incorporate that book with the 6th-grade grammar book."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Grammar: Grade 6",
+              "grade": "6",
+              "scheduleInfo": "Grammar: Grade 6\n2 times/week 15 min",
+              "books": "Grammar Town, Grammar Town Teacher Manual (select pages), Practice Town, Practice Town Teacher Manual (select pages)"
+            }
+          ]
         }
       ]
     }

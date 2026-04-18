@@ -48,6 +48,19 @@
               "content": "This topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Afternoon Listening",
+              "grade": "1-12",
+              "scheduleInfo": "Afternoon Listening\n1+ time/week 10 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

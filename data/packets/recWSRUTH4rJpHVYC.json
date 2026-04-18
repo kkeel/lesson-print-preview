@@ -44,6 +44,19 @@
               "content": "May be suitable for a 4th grader who has knowledge of basic music concepts."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sol-fa: Fast Track",
+              "grade": "5-12",
+              "scheduleInfo": "Sol-fa: Fast Track\n1 time/week 15 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "New students entering Grade 9 without much former Grammar instruction should complete MCT's Grammar and Practice Voyage scheduled in Grade 8. Composition prompts often reference Alveary lessons in Literature, History, Geography, Bible, etc., so it is ideal if students are using Alveary subjects across the curriculum. However, lessons include the lesson topic and target skill/form, along with ideas for substitution when possible to make the lessons flexible for teachers and students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Grammar/Comp: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "Grammar/Comp: Grade 9\n2 times/week 20 min\n2 times/week 30 min",
+              "books": "Essay Voyage, Essay Voyage Teacher Manual (select pages)"
+            }
+          ]
         }
       ]
     }

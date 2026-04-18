@@ -44,6 +44,19 @@
               "content": "Beginners complete Lessons 1-12, which teach basic skills needed for projects."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Sewing: Level 1",
+              "grade": "1-3",
+              "scheduleInfo": "Sewing: Level 1\n1 time/week 20 min",
+              "books": "Sewing School"
+            }
+          ]
         }
       ]
     }

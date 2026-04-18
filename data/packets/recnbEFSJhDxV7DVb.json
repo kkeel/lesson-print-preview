@@ -44,6 +44,19 @@
               "content": "There are no specific prerequisites or concurrents for this course."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Food Science Lessons",
+              "grade": "9-12",
+              "scheduleInfo": "Food Science Lessons\n5 times/week 45 min",
+              "books": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking, The Elements of Baking, Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island, Mexico in Your Kitchen, Classic Russian Cooking, Pomp and Sustenance, Celtic Folklore Cooking, Culinary Reactions: The Everyday Chemistry of Cooking"
+            }
+          ]
         }
       ]
     }

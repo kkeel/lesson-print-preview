@@ -52,6 +52,33 @@
               "content": "Algebra 1: Part 1\nEven students in Grade 8 who have not taken Pre-Algebra should take this course to keep on pace for earning high school credits.\n\nPrerequisite: RightStart F or mastery of basic arithmetic, fractions, decimals, and percents.\n\nGeometry: Grade 8\nRightStart G Primary Skill Focus: Geometry. This course progresses through the book over two years. Continue from Grade 7."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Algebra 1: Part 1",
+              "grade": "8",
+              "scheduleInfo": "Algebra 1: Part 1\n3 times/week 40 min",
+              "books": "Elementary Algebra Teacher Guide (Revised Edition), Elementary Algebra Student Book"
+            },
+            {
+              "rowType": "topic",
+              "label": "Geometry: Grade 8",
+              "grade": "8",
+              "scheduleInfo": "Geometry: Grade 8\n2 times/week 40 min",
+              "books": "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+            },
+            {
+              "rowType": "topic",
+              "label": "Math Games: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
+              "books": "Math Card Games Kit"
+            }
+          ]
         }
       ]
     }

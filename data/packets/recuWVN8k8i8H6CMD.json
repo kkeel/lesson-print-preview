@@ -48,6 +48,19 @@
               "content": "Lessons in one of the gospels are shared across HS grades. The epistles scheduled in Grades 10-11 are a little more thematically challenging than those in Grade 9, but lessons may be combined with Grade 9 or Grade 12 if desired. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "New Testament: Grades 10-11",
+              "grade": "10-11",
+              "scheduleInfo": "New Testament: Grades 10-11\n1 time/week 30 min",
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+            }
+          ]
         }
       ]
     }

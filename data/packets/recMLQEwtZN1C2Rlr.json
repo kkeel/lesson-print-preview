@@ -52,6 +52,33 @@
               "content": "New Testament: Grades 10-11\nLessons in one of the gospels are shared across HS grades. The epistles scheduled in Grades 10-11 are a little more thematically challenging than those in Grade 9, but lessons may be combined with Grade 9 or Grade 12 if desired. Students new to reading the Bible for themselves or unused to commentaries or study notes may find the lessons in Grades 7-8 a gentler introduction to these study practices.\n\nSpiritual Formation: Grades 10-11\nCan be combined with Grade 12 students. Students new to spiritual formation topics should begin with Spiritual Formation: Grades 7-8 or Bible History in Grade 9."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "New Testament: Grades 10-11",
+              "grade": "10-11",
+              "scheduleInfo": "New Testament: Grades 10-11\n1 time/week 30 min",
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+            },
+            {
+              "rowType": "topic",
+              "label": "Church History: Grades 10-12",
+              "grade": "10-12",
+              "scheduleInfo": "Church History: Grades 10-12\n1 time/week 30 min",
+              "books": "When the Church Was Young: Voices of the Early Fathers, Turning Points in American Church History"
+            },
+            {
+              "rowType": "topic",
+              "label": "Spiritual Formation: Grades 10-11",
+              "grade": "10-11",
+              "scheduleInfo": "Spiritual Formation: Grades 10-11\n1 time/week 30 min",
+              "books": "Reading the Bible for a Change, God of All Things"
+            }
+          ]
         }
       ]
     }

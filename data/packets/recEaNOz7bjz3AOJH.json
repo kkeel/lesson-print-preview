@@ -50,6 +50,26 @@
               "content": "Commonplace: Grades 9-12\nStudents new to copywork or keeping a commonplace book may want to schedule this during morning lessons to build the habit.\n\nComposition: Grade 12\nPrerequisite: Students with little background in the essay form should begin with Essay Voyage from the Grade 9 lessons. \n\nStudents new to the concept of revision and editing should take the Grade 10 lessons through Style: The Basics of Clarity and Grace and may want to substitute the other revision/editing lessons in Grade 10 to build their skills."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Commonplace: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Commonplace: Grades 9-12\n1+ time/week 10 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Composition: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Composition: Grade 12\n4 times/week 40 min",
+              "books": "Caring for Words in a Culture of Lies (2nd ed.), Advanced Academic Writing II Teacher Manual, The Craft of Research"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "About Science: Grade 4\nIn level 4, learners begin to notice science in their community and begin to develop their own interests as they discover a variety of topics from the microscopic world, physical science, and more. A mixture of more and less challenging books is included in this course.\n\nNatural History: Grade 4\nFor approximately fourth-grade students based on a balance of complexity and reading level. However, learners may be freely combined or sequence reordered based on needs and preferences."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Natural History: Grade 4",
+              "grade": "4",
+              "scheduleInfo": "Natural History: Grade 4\n1 time/week 15 min",
+              "books": "A World in a Drop of Water: Exploring with a Microscope, The Octopus Scientists: Exploring the Mind of a Mollusk, Life on Surtsey: Iceland's Upstart Island"
+            }
+          ]
         }
       ]
     }

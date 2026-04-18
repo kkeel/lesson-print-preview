@@ -44,6 +44,19 @@
               "content": "Prerequisite: Spanish Level 4"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Upper Spanish: Level 5",
+              "grade": "11-12",
+              "scheduleInfo": "Upper Spanish: Level 5\n5 times/week 30 min",
+              "books": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists, Spanish: Level 5 SoundCloud Playlist, Spanish: Level 5 Student Notebook, Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told), Tales Our Abuelitas Told: A Hispanic Folktale Collection"
+            }
+          ]
         }
       ]
     }

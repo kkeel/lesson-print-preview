@@ -52,6 +52,33 @@
               "content": "Classic Lit.: Grade 2\nStudents in Grades 1-3 can share these lessons if combining.\n\nMythology: Grade 2\nStudents in Grades 1-3 can share these lessons if combining."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Community Read Alouds: Grades 1-12",
+              "grade": "1-12",
+              "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Classic Lit.: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Classic Lit.: Grade 2\n1 time/week 15 min",
+              "books": "Pilgrim's Progress: Updated, Modern English"
+            },
+            {
+              "rowType": "topic",
+              "label": "Mythology: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "Mythology: Grade 2\n1 time/week 15 min",
+              "books": "A Wonder Book for Girls and Boys"
+            }
+          ]
         }
       ]
     }

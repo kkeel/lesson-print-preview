@@ -40,6 +40,26 @@
               "content": "This course includeds the following topic(s): Current Events: Grades 9-12, Community Read Alouds: Grades 1-12\n\nAbout Current Events: Grades 9-12\nStudents are exposed to current events by reading from a variety of sources and having conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nAbout Econ/ Civics: Grade 12\nStudents study basic principles of economics and finish the year learning about various ways to engage with topics in contemporary culture.\n\nAbout Ethics: Grade 12\nStudents study citizenship topics of stewardship, relationships in a technological world, and understanding our consciences.\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Current Events: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Current Events: Grades 9-12\n1+ time/week 20 min",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Community Read Alouds: Grades 1-12",
+              "grade": "1-12",
+              "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

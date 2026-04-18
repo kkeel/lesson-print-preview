@@ -38,6 +38,19 @@
               "content": "This topic is included in the following course(s): Science: Advanced Nature Study"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Advanced Nature Study Afternoon Work",
+              "grade": "9-12",
+              "scheduleInfo": "Advanced Nature Study Afternoon Work\n1+ time/week 20 min+",
+              "books": ""
+            }
+          ]
         }
       ]
     }

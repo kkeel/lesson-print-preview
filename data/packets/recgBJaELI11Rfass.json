@@ -44,6 +44,19 @@
               "content": "Students new to recitation may want to choose shorter passages or use those in Grades 4-6."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Recitation: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "Recitation: Grades 7-8\n5 times/week 10 min",
+              "books": "Our Work: Grades 7-8"
+            }
+          ]
         }
       ]
     }

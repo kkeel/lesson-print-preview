@@ -54,6 +54,19 @@
               "content": "This year, this course is the same as Shakespeare for Grades 5-8 with the only difference coming in Extra Helpings and additional options for further study."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Plays: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Plays: Grades 9-12\n1 time/week 30 min",
+              "books": "The Tempest, The Tempest (Audio recording), Henry IV Part 2, Henry IV Part 2 (Audio recording), The Winter's Tale, The Winter's Tale (Audio recording)"
+            }
+          ]
         }
       ]
     }

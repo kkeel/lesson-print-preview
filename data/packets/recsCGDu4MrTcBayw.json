@@ -44,6 +44,19 @@
               "content": "The Canadian mapping exercises are the same each year, but the reading component changes for each of the historical time periods."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Geography: Grade 8 (Canada)",
+              "grade": "8",
+              "scheduleInfo": "Geography: Grade 8 (Canada)\n2 times/week 30 min",
+              "books": "Canadian Student Atlas, Draw the Natural Wonders of Canada and Greenland: Geography Disguised as Fun, Student World Atlas 6th Ed., Vanished Beyond the Map"
+            }
+          ]
         }
       ]
     }

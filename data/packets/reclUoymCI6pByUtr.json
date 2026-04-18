@@ -44,6 +44,19 @@
               "content": "Suitable for interested younger students."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Lettering: Level 1",
+              "grade": "7+",
+              "scheduleInfo": "Lettering: Level 1\n1 time/week 20 min",
+              "books": "The Complete Book of Chalk Lettering"
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "About Science: Grade 3\nIn level 3, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and more abstract concepts."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 3",
+              "grade": "3",
+              "scheduleInfo": "General Science: Grade 3\n1 time/week 15 min",
+              "books": "Next Time You See a Cloud, Buzztail and Leaper, Going Home"
+            }
+          ]
         }
       ]
     }

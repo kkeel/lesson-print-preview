@@ -44,6 +44,19 @@
               "content": "If students are in grade 6 or above, they should begin with the fast-track lessons and then move on to Level 4. \n\nPrerequisite: Level 7 or appropriate skill proficiency."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "standalone-course",
+              "label": "Art: Level 8",
+              "grade": "8-12",
+              "scheduleInfo": "Art: Level 8\n2 times/week 45 min",
+              "books": "Drawing, Design, and Craft-Work"
+            }
+          ]
         }
       ]
     }

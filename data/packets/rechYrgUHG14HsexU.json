@@ -48,6 +48,19 @@
               "content": "About Science: Grade 2\nIn level 2, learners are developing familiarity and friendship with Creation through a broader scope of Things, more challenging text, and slightly more abstract concepts."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "General Science: Grade 2",
+              "grade": "2",
+              "scheduleInfo": "General Science: Grade 2\n1 time/week 15 min",
+              "books": "A Walk in the..., Monarch and Milkweed, Desert Giant, Mama Built a Little Nest, The Secret Life of the Skunk"
+            }
+          ]
         }
       ]
     }

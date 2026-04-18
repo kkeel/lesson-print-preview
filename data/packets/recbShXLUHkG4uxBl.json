@@ -48,6 +48,19 @@
               "content": "Students are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nThis topic is included in the following course(s): Citizenship: Grade 5, Citizenship: Grade 6, Citizenship: Grade 7 (U.S.), Citizenship: Grade 7 (Canada), Citizenship: Grade 8 (U.S.), Citizenship: Grade 8 (Canada)"
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Current Events: Grades 5-8",
+              "grade": "5-8",
+              "scheduleInfo": "Current Events: Grades 5-8\n1+ time/week 15 min",
+              "books": ""
+            }
+          ]
         }
       ]
     }

@@ -48,6 +48,19 @@
               "content": "About Science: Grade 5\nIn level 5, learners expand their knowledge of science in their world and continue building personal connections as they discover a variety of topics from botany, astronomy, and more.\n\nLabs: Grade 5\nThe ideas and skills in this component are progressive, like math or grammar. Teachers should read the lab book thoroughly to understand what concepts might need to be supplemented should they choose a different sequence or a substitution."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Labs: Grade 5",
+              "grade": "5",
+              "scheduleInfo": "Labs: Grade 5\n1 time/week 30 min",
+              "books": "Science: Grade 5 Lab Book"
+            }
+          ]
         }
       ]
     }

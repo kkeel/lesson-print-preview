@@ -54,6 +54,40 @@
               "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nBiology Lessons\nThere are no specific prerequisites or concurrents for this course, but there are a number of complex ideas that are difficult without some prior experience. A course with some exposure to basic chemistry is recommended before enrollment in Biology."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Biology Lessons",
+              "grade": "10-12+",
+              "scheduleInfo": "Biology Lessons\n5 times/week 45 min",
+              "books": "General Biology, 2nd Edition, The Biology Coloring Book, The Fool and the Heretic, The Spirit of the Rainforest"
+            },
+            {
+              "rowType": "topic",
+              "label": "Biology Labs",
+              "grade": "10-12+",
+              "scheduleInfo": "Biology Labs\n1 time/week 60 min",
+              "books": "Alveary Biology Lab Book"
+            }
+          ]
         }
       ]
     }

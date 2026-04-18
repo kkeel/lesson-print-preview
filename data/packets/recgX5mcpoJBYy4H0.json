@@ -48,6 +48,19 @@
               "content": "Appropriate for interested students in Grades 10-11."
             }
           ]
+        },
+        {
+          "kind": "scheduling",
+          "title": "Scheduling",
+          "rows": [
+            {
+              "rowType": "topic-packet",
+              "label": "Spiritual Formation: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Spiritual Formation: Grade 12\n1 time/week 30 min",
+              "books": "Becoming by Beholding, Being God's Image: Why Creation Still Matters, Delighting in the Trinity"
+            }
+          ]
         }
       ]
     }
