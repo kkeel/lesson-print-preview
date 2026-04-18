@@ -45,19 +45,7 @@
           "entries": [
             {
               "title": "About the Course",
-              "label": "",
               "content": "This topic is included in the following course(s): Music: Intro, Music: Level 1, Music: Level 2, Music: Level 3, Music: Level 4, Music: Level 5"
-            }
-          ]
-        },
-        {
-          "kind": "tips-group",
-          "title": "Placement & Combining Tips",
-          "entries": [
-            {
-              "title": "Placement & Combining Tips",
-              "label": "",
-              "content": "null"
             }
           ]
         }
