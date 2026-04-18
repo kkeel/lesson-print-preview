@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read about Canadian history from 1800-1900 through a variety of texts: engaging narratives, history spines, primary source documents, and historical fiction. These books, which offer a range of perspectives, will immerse students in the time period and allow them to see the world through the eyes of those who lived it. Students will view images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (Canada)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read about Canadian history from 1800-1900 through a variety of texts: engaging narratives, history spines, primary source documents, and historical fiction. These books, which offer a range of perspectives, will immerse students in the time period and allow them to see the world through the eyes of those who lived it. Students will view images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (Canada)",
-              "label": "Read about Canadian history from 1800-1900 through a variety of texts: engaging narratives, history spines, primary source documents, and historical fiction. These books, which offer a range of perspectives, will immerse students in the time period and allow them to see the world through the eyes of those who lived it. Students will view images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (Canada)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "This course is the same for students in grades 5 and 6. In grade 5, students may begin their Book of Centuries. It could be easily modified for students in grade 4, if combining."
             }
           ]

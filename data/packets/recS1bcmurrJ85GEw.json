@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read living books full of memorable characters, surprising plot twists, and heartwarming endings. Due to the rise of Children's Literature in the 19th century, students read period literature rather than historical fiction this year and will spend about a term and a half each with Little Women and Hans Brinker.\n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read living books full of memorable characters, surprising plot twists, and heartwarming endings. Due to the rise of Children's Literature in the 19th century, students read period literature rather than historical fiction this year and will spend about a term and a half each with Little Women and Hans Brinker.\n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
-              "label": "Read living books full of memorable characters, surprising plot twists, and heartwarming endings. Due to the rise of Children's Literature in the 19th century, students read period literature rather than historical fiction this year and will spend about a term and a half each with Little Women and Hans Brinker.\n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "About Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nGeneral Lit.: Grades 5-6\nEasily combined with Grade 4."
             }
           ]

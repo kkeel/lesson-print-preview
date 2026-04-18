@@ -36,12 +36,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Using Marshall's and Long's spines along with a variety of primary sources and additional readings, the History of Literature course introduces students to literary movements and figures in the 19th century. The course prioritizes influential texts in the English-speaking world but also seeks to give students glimpses at literary developments across the globe.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12, Literature: Grade 9, Literature: Grade 10"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Using Marshall's and Long's spines along with a variety of primary sources and additional readings, the History of Literature course introduces students to literary movements and figures in the 19th century. The course prioritizes influential texts in the English-speaking world but also seeks to give students glimpses at literary developments across the globe.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12, Literature: Grade 9, Literature: Grade 10",
-              "label": "Using Marshall's and Long's spines along with a variety of primary sources and additional readings, the History of Literature course introduces students to literary movements and figures in the 19th century. The course prioritizes influential texts in the English-speaking world but also seeks to give students glimpses at literary developments across the globe.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12, Literature: Grade 9, Literature: Grade 10",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Lessons are shared across high school grades with grade-specific assignments in the lesson plans as appropriate."
             }
           ]

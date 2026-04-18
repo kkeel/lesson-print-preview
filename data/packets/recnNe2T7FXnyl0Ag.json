@@ -36,12 +36,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Grammar: Grade 6, Dictation: Grade 6, Penmanship & Copywork: Grade 6, Written Narration: Grade 6\n\nAbout Grammar: Grade 6\nStudents deepen their understanding of the parts of speech.\n\nAbout Dictation: Grade 6\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 6\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 6\nStudents continue to gain fluency in writing through written narrations."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Grammar: Grade 6, Dictation: Grade 6, Penmanship & Copywork: Grade 6, Written Narration: Grade 6\n\nAbout Grammar: Grade 6\nStudents deepen their understanding of the parts of speech.\n\nAbout Dictation: Grade 6\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 6\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 6\nStudents continue to gain fluency in writing through written narrations.",
-              "label": "This course includeds the following topic(s): Grammar: Grade 6, Dictation: Grade 6, Penmanship & Copywork: Grade 6, Written Narration: Grade 6\n\nAbout Grammar: Grade 6\nStudents deepen their understanding of the parts of speech.\n\nAbout Dictation: Grade 6\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 6\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 6\nStudents continue to gain fluency in writing through written narrations.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grammar: Grade 6\nIf your student did not do Sentence Island the previous year, you should incorporate that book with the 6th-grade grammar book.\n\nWritten Narration: Grade 6\nIncrease the number of written narrations at a pace at which your student can be successful."
             }
           ]

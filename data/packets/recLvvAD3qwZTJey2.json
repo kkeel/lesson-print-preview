@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nThis topic is included in the following course(s): History: Grade 10 (Canada), History: Grades 11-12 (Canada), History: Grades 10-12 (U.S.)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nThis topic is included in the following course(s): History: Grade 10 (Canada), History: Grades 11-12 (Canada), History: Grades 10-12 (U.S.)",
-              "label": "Read about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nThis topic is included in the following course(s): History: Grade 10 (Canada), History: Grades 11-12 (Canada), History: Grades 10-12 (U.S.)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

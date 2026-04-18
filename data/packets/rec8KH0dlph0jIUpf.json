@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Complete Algebra 1 course with video lessons taught by a veteran teacher and designed to equip students with a solid foundation for future upper-level math classes. What sets this course apart is its thoughtful, supportive design. It not only presents essential algebra 1 topics in a way that is easy to understand and remember, but it also teaches students the habits and techniques they need to succeed in upper-level math. Essentially, they will learn how to learn math. With this course, students will gain a strong Algebra 1 foundation, preparing them for success in Geometry, Algebra 2, and beyond, while also reducing math anxiety and building math confidence. A success version is also offered for those students with learning differences that make math challenging.\n\nThis topic is included in the following course(s): Mathematics: Grade 8 (Denison)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Complete Algebra 1 course with video lessons taught by a veteran teacher and designed to equip students with a solid foundation for future upper-level math classes. What sets this course apart is its thoughtful, supportive design. It not only presents essential algebra 1 topics in a way that is easy to understand and remember, but it also teaches students the habits and techniques they need to succeed in upper-level math. Essentially, they will learn how to learn math. With this course, students will gain a strong Algebra 1 foundation, preparing them for success in Geometry, Algebra 2, and beyond, while also reducing math anxiety and building math confidence. A success version is also offered for those students with learning differences that make math challenging.\n\nThis topic is included in the following course(s): Mathematics: Grade 8 (Denison)",
-              "label": "Complete Algebra 1 course with video lessons taught by a veteran teacher and designed to equip students with a solid foundation for future upper-level math classes. What sets this course apart is its thoughtful, supportive design. It not only presents essential algebra 1 topics in a way that is easy to understand and remember, but it also teaches students the habits and techniques they need to succeed in upper-level math. Essentially, they will learn how to learn math. With this course, students will gain a strong Algebra 1 foundation, preparing them for success in Geometry, Algebra 2, and beyond, while also reducing math anxiety and building math confidence. A success version is also offered for those students with learning differences that make math challenging.\n\nThis topic is included in the following course(s): Mathematics: Grade 8 (Denison)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

@@ -36,12 +36,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read about ancient history from 100 BC-350 AD through biographies, primary source documents, historical fiction, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nThis topic is included in the following course(s): History: Grades 7-8 (U.S.), History: Grades 7-8 (Canada), History: Grade 9 (U.S.), History: Grade 9 (Canada)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read about ancient history from 100 BC-350 AD through biographies, primary source documents, historical fiction, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nThis topic is included in the following course(s): History: Grades 7-8 (U.S.), History: Grades 7-8 (Canada), History: Grade 9 (U.S.), History: Grade 9 (Canada)",
-              "label": "Read about ancient history from 100 BC-350 AD through biographies, primary source documents, historical fiction, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nThis topic is included in the following course(s): History: Grades 7-8 (U.S.), History: Grades 7-8 (Canada), History: Grade 9 (U.S.), History: Grade 9 (Canada)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

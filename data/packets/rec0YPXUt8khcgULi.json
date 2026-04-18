@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grade 4 (U.S.), History: Grades 5-6 (U.S.)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grade 4 (U.S.), History: Grades 5-6 (U.S.)",
-              "label": "Read United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grade 4 (U.S.), History: Grades 5-6 (U.S.)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "This course is the same for 4th-6th graders. In grade 5, students may begin their Book of Centuries."
             }
           ]

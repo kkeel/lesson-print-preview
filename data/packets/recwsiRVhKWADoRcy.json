@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 7"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 7",
-              "label": "Students study poetic devices and forms and practice writing poetry themselves.\n\nThis topic is included in the following course(s): Poetry: Grade 7",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

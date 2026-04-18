@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "An elective in Environmental Science, Advanced Nature Study requires independent interest as it is designed to be personalized by the student and requires some flexibility in scheduling due to the amount of fieldwork required beyond the regular lesson time.\n\nThis topic is included in the following course(s): Science: Advanced Nature Study"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "An elective in Environmental Science, Advanced Nature Study requires independent interest as it is designed to be personalized by the student and requires some flexibility in scheduling due to the amount of fieldwork required beyond the regular lesson time.\n\nThis topic is included in the following course(s): Science: Advanced Nature Study",
-              "label": "An elective in Environmental Science, Advanced Nature Study requires independent interest as it is designed to be personalized by the student and requires some flexibility in scheduling due to the amount of fieldwork required beyond the regular lesson time.\n\nThis topic is included in the following course(s): Science: Advanced Nature Study",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Students should have at least 3 years of nature study experience and be comfortable with their nature journal."
             }
           ]

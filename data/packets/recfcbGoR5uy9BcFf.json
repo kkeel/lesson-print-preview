@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Read Canadian history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 2-3 (Canada), History: Grade 4 (Canada)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Read Canadian history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 2-3 (Canada), History: Grade 4 (Canada)",
-              "label": "Read Canadian history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 2-3 (Canada), History: Grade 4 (Canada)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "History courses are on a four-year rotation. Students should follow the current Alveary rotation.\nStudents in grades 2-4 will take the same course."
             }
           ]

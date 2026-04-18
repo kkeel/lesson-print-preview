@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Complete assigned models, focusing on craftsmanship. 1st-Year Models include simple boxes and envelopes based mainly on the square or rectangular prism."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Complete assigned models, focusing on craftsmanship. 1st-Year Models include simple boxes and envelopes based mainly on the square or rectangular prism.",
-              "label": "Complete assigned models, focusing on craftsmanship. 1st-Year Models include simple boxes and envelopes based mainly on the square or rectangular prism.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grade 2 students who are new to sloyd should take Sloyd: Intro and then continue the courses in sequence."
             }
           ]

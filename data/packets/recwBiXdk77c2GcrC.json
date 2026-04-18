@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Discover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart E Primary Skill Focus: Division, Fractions, Percents\n\nThis topic is included in the following course(s): Mathematics: Grade 5"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Discover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart E Primary Skill Focus: Division, Fractions, Percents\n\nThis topic is included in the following course(s): Mathematics: Grade 5",
-              "label": "Discover mathematical concepts using manipulatives. Learn strategies and build agility through mental math. RightStart E Primary Skill Focus: Division, Fractions, Percents\n\nThis topic is included in the following course(s): Mathematics: Grade 5",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Students who are new to RightStart Math should take the placement test on the RightStart website (rightstartmath.com). \nPrerequisite: RightStart D or appropriate skill proficiency"
             }
           ]

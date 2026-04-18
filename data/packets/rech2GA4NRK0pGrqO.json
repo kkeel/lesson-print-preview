@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course will guide students in developing meaningful skills using modern tools. Students will work hands-on with various technologies, from digital media creation to coding. Throughout the course, they will explore foundational principles and use what they have learned to solve problems and create original media while reflecting on the implications of technology and considering questions about privacy, the digital divide, and the role of innovation in society. This course will equip students to think critically about the world of technology and its impact on their lives and future.\n\nNOTE: Students need a Google email account, but no books are required for this course."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course will guide students in developing meaningful skills using modern tools. Students will work hands-on with various technologies, from digital media creation to coding. Throughout the course, they will explore foundational principles and use what they have learned to solve problems and create original media while reflecting on the implications of technology and considering questions about privacy, the digital divide, and the role of innovation in society. This course will equip students to think critically about the world of technology and its impact on their lives and future.\n\nNOTE: Students need a Google email account, but no books are required for this course.",
-              "label": "This course will guide students in developing meaningful skills using modern tools. Students will work hands-on with various technologies, from digital media creation to coding. Throughout the course, they will explore foundational principles and use what they have learned to solve problems and create original media while reflecting on the implications of technology and considering questions about privacy, the digital divide, and the role of innovation in society. This course will equip students to think critically about the world of technology and its impact on their lives and future.\n\nNOTE: Students need a Google email account, but no books are required for this course.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "May be suitable for Grades 7-8."
             }
           ]

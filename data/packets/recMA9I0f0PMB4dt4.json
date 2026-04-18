@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students spend extended time with a 19th century novel and personal narrative and will find rich opportunities for discussion and inspiration.\n\nThis topic is included in the following course(s): Literature: Grades 7-8"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students spend extended time with a 19th century novel and personal narrative and will find rich opportunities for discussion and inspiration.\n\nThis topic is included in the following course(s): Literature: Grades 7-8",
-              "label": "Students spend extended time with a 19th century novel and personal narrative and will find rich opportunities for discussion and inspiration.\n\nThis topic is included in the following course(s): Literature: Grades 7-8",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Suitable for Grades 9-10. Due to more challenging content, we do not advise using these lessons with younger students if combining."
             }
           ]

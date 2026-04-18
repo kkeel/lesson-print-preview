@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Journey into the 19th century with novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 9, Literature: Grade 10"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Journey into the 19th century with novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 9, Literature: Grade 10",
-              "label": "Journey into the 19th century with novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 9, Literature: Grade 10",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Suitable for hungry 8th graders. Can be combined easily with Grades 11-12."
             }
           ]

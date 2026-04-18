@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Mythology: Grade 2, Classic Lit.: Grade 2, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout Classic Lit.: Grade 2\nThis course introduces students to John Bunyan's classic work, Pilgrim's Progress, building their vocabulary and furnishing their imaginations along the way.\n\nAbout Mythology: Grade 2\nIntroduce students to foundational Greek myths through Nathaniel Hawthorne's A Wonder Book for Boys and Girls."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Mythology: Grade 2, Classic Lit.: Grade 2, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout Classic Lit.: Grade 2\nThis course introduces students to John Bunyan's classic work, Pilgrim's Progress, building their vocabulary and furnishing their imaginations along the way.\n\nAbout Mythology: Grade 2\nIntroduce students to foundational Greek myths through Nathaniel Hawthorne's A Wonder Book for Boys and Girls.",
-              "label": "This course includeds the following topic(s): Mythology: Grade 2, Classic Lit.: Grade 2, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout Classic Lit.: Grade 2\nThis course introduces students to John Bunyan's classic work, Pilgrim's Progress, building their vocabulary and furnishing their imaginations along the way.\n\nAbout Mythology: Grade 2\nIntroduce students to foundational Greek myths through Nathaniel Hawthorne's A Wonder Book for Boys and Girls.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Classic Lit.: Grade 2\nStudents in Grades 1-3 can share these lessons if combining.\n\nMythology: Grade 2\nStudents in Grades 1-3 can share these lessons if combining."
             }
           ]

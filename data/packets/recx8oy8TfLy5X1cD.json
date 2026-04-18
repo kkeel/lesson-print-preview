@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students read through the book of Acts over the year. Additional study helps assigned in the lesson plans provide background information and context to help students begin to dive deeper into the life, ministry, and message of the early church.\n\nThis topic is included in the following course(s): Bible: Grades 7-8"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students read through the book of Acts over the year. Additional study helps assigned in the lesson plans provide background information and context to help students begin to dive deeper into the life, ministry, and message of the early church.\n\nThis topic is included in the following course(s): Bible: Grades 7-8",
-              "label": "Students read through the book of Acts over the year. Additional study helps assigned in the lesson plans provide background information and context to help students begin to dive deeper into the life, ministry, and message of the early church.\n\nThis topic is included in the following course(s): Bible: Grades 7-8",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Younger students in Grades 5-6 can be combined with older students if they have a good general understanding of the gospels. Ideal for HS students who are new to studying the Bible or unused to commentaries or discussions about cultural context or interpretive issues."
             }
           ]

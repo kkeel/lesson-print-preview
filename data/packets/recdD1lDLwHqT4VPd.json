@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students learn to love the sight and sound of words and appreciate history through daily poetry reading covering a wide variety of authors and poems from the 19th century."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students learn to love the sight and sound of words and appreciate history through daily poetry reading covering a wide variety of authors and poems from the 19th century.",
-              "label": "Students learn to love the sight and sound of words and appreciate history through daily poetry reading covering a wide variety of authors and poems from the 19th century.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Students in Grades 5-8 can easily be combined for these lessons as all grades use nearly the same texts this year, although older grades read additional selections and have corresponding composition assignments."
             }
           ]

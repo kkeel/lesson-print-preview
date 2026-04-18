@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students deepen their understanding of the parts of speech.\n\nThis topic is included in the following course(s): Language Study: Grade 6"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students deepen their understanding of the parts of speech.\n\nThis topic is included in the following course(s): Language Study: Grade 6",
-              "label": "Students deepen their understanding of the parts of speech.\n\nThis topic is included in the following course(s): Language Study: Grade 6",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "If your student did not do Sentence Island the previous year, you should incorporate that book with the 6th-grade grammar book."
             }
           ]

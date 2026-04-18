@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): U.S. History: Grades 4-6, World History: Grades 4-6\n\nAbout U.S. History: Grades 4-6\nRead United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nAbout World History: Grades 4-6\nThrough the reading of history stories and biographies, students experience what life was like in different times and places. They are exposed to the everyday experiences as well as the major events from our current history cycle (1800-1900). Students will also view images, reference maps, and work on their century charts and Book of Centuries as part of their lessons."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): U.S. History: Grades 4-6, World History: Grades 4-6\n\nAbout U.S. History: Grades 4-6\nRead United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nAbout World History: Grades 4-6\nThrough the reading of history stories and biographies, students experience what life was like in different times and places. They are exposed to the everyday experiences as well as the major events from our current history cycle (1800-1900). Students will also view images, reference maps, and work on their century charts and Book of Centuries as part of their lessons.",
-              "label": "This course includeds the following topic(s): U.S. History: Grades 4-6, World History: Grades 4-6\n\nAbout U.S. History: Grades 4-6\nRead United States and world history stories from the current history cycle (1800-1900). View images and reference atlases and maps to set the people and events in their time and place. Update History Charts as appropriate for student level.\n\nAbout World History: Grades 4-6\nThrough the reading of history stories and biographies, students experience what life was like in different times and places. They are exposed to the everyday experiences as well as the major events from our current history cycle (1800-1900). Students will also view images, reference maps, and work on their century charts and Book of Centuries as part of their lessons.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "U.S. History: Grades 4-6\nThis course is the same for 4th-6th graders. In grade 5, students may begin their Book of Centuries.\n\nWorld History: Grades 4-6\nThis course is the same for 4th-6th graders. In grade 5, students may begin their Book of Centuries."
             }
           ]

@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Complete assigned models, focusing on craftsmanship. Students work with cardboard to create 3-dimensional geometric shapes."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Complete assigned models, focusing on craftsmanship. Students work with cardboard to create 3-dimensional geometric shapes.",
-              "label": "Complete assigned models, focusing on craftsmanship. Students work with cardboard to create 3-dimensional geometric shapes.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grade 5 students who are new to sloyd should begin with Sloyd: Level 1 and then continue courses in sequence.\n\nPrerequisite: Sloyd: Level 3"
             }
           ]

@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Canadian History: Grades 11-12, World History: Grades 10-12, Ancient History: Grades 10-12\n\nAbout Canadian History: Grades 11-12\nRead about Canadian history from 1800-1900 through biographies, primary source documents, history spines, and historical fiction. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout World History: Grades 10-12\nRead about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout Ancient History: Grades 10-12\nDrawing on material culture, primary sources, and wider overviews, this course delves into the time period from 100 BC to 350 AD."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Canadian History: Grades 11-12, World History: Grades 10-12, Ancient History: Grades 10-12\n\nAbout Canadian History: Grades 11-12\nRead about Canadian history from 1800-1900 through biographies, primary source documents, history spines, and historical fiction. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout World History: Grades 10-12\nRead about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout Ancient History: Grades 10-12\nDrawing on material culture, primary sources, and wider overviews, this course delves into the time period from 100 BC to 350 AD.",
-              "label": "This course includeds the following topic(s): Canadian History: Grades 11-12, World History: Grades 10-12, Ancient History: Grades 10-12\n\nAbout Canadian History: Grades 11-12\nRead about Canadian history from 1800-1900 through biographies, primary source documents, history spines, and historical fiction. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout World History: Grades 10-12\nRead about world history from 1800-1900. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout Ancient History: Grades 10-12\nDrawing on material culture, primary sources, and wider overviews, this course delves into the time period from 100 BC to 350 AD.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Canadian History: Grades 11-12\nThis course is the same for Grade 11 and Grade 12.\n\nAncient History: Grades 10-12\nInquisitive 9th graders could enjoy this course, but the main texts have an advanced reading level, so students would likely want to move at a slower pace."
             }
           ]

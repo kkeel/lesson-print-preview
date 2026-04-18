@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.\n\nThis topic is included in the following course(s): Science: Microbiology"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.\n\nThis topic is included in the following course(s): Science: Microbiology",
-              "label": "Labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.\n\nThis topic is included in the following course(s): Science: Microbiology",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

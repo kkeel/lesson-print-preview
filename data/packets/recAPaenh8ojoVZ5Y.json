@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Continue building an artistic toolbox to create hand-lettered art. Students learn to make banners, frames, and borders and practice a variety of lettering styles, including retro, faceted, vintage circus, bubble, ribbon styles, and more. Skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Continue building an artistic toolbox to create hand-lettered art. Students learn to make banners, frames, and borders and practice a variety of lettering styles, including retro, faceted, vintage circus, bubble, ribbon styles, and more. Skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts.",
-              "label": "Continue building an artistic toolbox to create hand-lettered art. Students learn to make banners, frames, and borders and practice a variety of lettering styles, including retro, faceted, vintage circus, bubble, ribbon styles, and more. Skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Prerequisite: Lettering Level 1"
             }
           ]

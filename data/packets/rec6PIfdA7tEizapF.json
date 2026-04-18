@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Reading Level 3, Penmanship & Copywork: Grade 3, Written Narration: Grade 3\n\nAbout Reading Level 3\nThe Alveary Reading Level 3 lessons feature captivating folk tales, fairy tales, fables, and wonder tales from around the world. The Free and Treadwell Reader for this course also includes the poetry of Robert Louis Stevenson and Christina Rossetti. By this Level, readers will typically have mastered basic word decoding. They will continue to practice higher-level phonics, learn less common spelling patterns, and investigate the morphology and etymology of new words. Fluency (the ability to read text quickly, easily, and accurately) is emphasized. Grammar concepts introduced in Levels 1 and 2 will be taught in more detail and new topics will be added. The intent of the lessons is that they serve as a bridge to independent reading by providing students with the capability for becoming self-directed, insightful, thinking readers.\n\nAbout Penmanship & Copywork: Grade 3\nCopy short sentences and write them from dictation.\n\nAbout Written Narration: Grade 3\nStudents begin writing narrations or a part of a narration as appropriate."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Reading Level 3, Penmanship & Copywork: Grade 3, Written Narration: Grade 3\n\nAbout Reading Level 3\nThe Alveary Reading Level 3 lessons feature captivating folk tales, fairy tales, fables, and wonder tales from around the world. The Free and Treadwell Reader for this course also includes the poetry of Robert Louis Stevenson and Christina Rossetti. By this Level, readers will typically have mastered basic word decoding. They will continue to practice higher-level phonics, learn less common spelling patterns, and investigate the morphology and etymology of new words. Fluency (the ability to read text quickly, easily, and accurately) is emphasized. Grammar concepts introduced in Levels 1 and 2 will be taught in more detail and new topics will be added. The intent of the lessons is that they serve as a bridge to independent reading by providing students with the capability for becoming self-directed, insightful, thinking readers.\n\nAbout Penmanship & Copywork: Grade 3\nCopy short sentences and write them from dictation.\n\nAbout Written Narration: Grade 3\nStudents begin writing narrations or a part of a narration as appropriate.",
-              "label": "This course includeds the following topic(s): Reading Level 3, Penmanship & Copywork: Grade 3, Written Narration: Grade 3\n\nAbout Reading Level 3\nThe Alveary Reading Level 3 lessons feature captivating folk tales, fairy tales, fables, and wonder tales from around the world. The Free and Treadwell Reader for this course also includes the poetry of Robert Louis Stevenson and Christina Rossetti. By this Level, readers will typically have mastered basic word decoding. They will continue to practice higher-level phonics, learn less common spelling patterns, and investigate the morphology and etymology of new words. Fluency (the ability to read text quickly, easily, and accurately) is emphasized. Grammar concepts introduced in Levels 1 and 2 will be taught in more detail and new topics will be added. The intent of the lessons is that they serve as a bridge to independent reading by providing students with the capability for becoming self-directed, insightful, thinking readers.\n\nAbout Penmanship & Copywork: Grade 3\nCopy short sentences and write them from dictation.\n\nAbout Written Narration: Grade 3\nStudents begin writing narrations or a part of a narration as appropriate.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Reading Level 3\nStudents who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation. \n\nPrerequisite: Beginning Reading & Lang. Level 2 or appropriate skill proficiency.\n\nWritten Narration: Grade 3\nStudents who are not yet secure with their penmanship are not yet ready for written narration. Instead of written narrations, use the time to have students work on skills that will better support their development."
             }
           ]

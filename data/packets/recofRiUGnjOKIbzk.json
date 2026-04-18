@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This topic is included in the following course(s): Science: Advanced Nature Study"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This topic is included in the following course(s): Science: Advanced Nature Study",
-              "label": "This topic is included in the following course(s): Science: Advanced Nature Study",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

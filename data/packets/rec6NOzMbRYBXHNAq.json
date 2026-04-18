@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students review the parts of speech and learn the components involved in writing a good sentence.\n\nThis topic is included in the following course(s): Language Study: Grade 5"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students review the parts of speech and learn the components involved in writing a good sentence.\n\nThis topic is included in the following course(s): Language Study: Grade 5",
-              "label": "Students review the parts of speech and learn the components involved in writing a good sentence.\n\nThis topic is included in the following course(s): Language Study: Grade 5",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Students can take this course even if they haven't taken grammar before. The beginning is written with a built-in review."
             }
           ]

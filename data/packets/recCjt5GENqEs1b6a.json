@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course uses Bible stories to introduce children to the beauty and flow of Scripture.\n\nThis topic is included in the following course(s): Bible: Grade 1"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course uses Bible stories to introduce children to the beauty and flow of Scripture.\n\nThis topic is included in the following course(s): Bible: Grade 1",
-              "label": "This course uses Bible stories to introduce children to the beauty and flow of Scripture.\n\nThis topic is included in the following course(s): Bible: Grade 1",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Those who wish to combine first graders and older students should choose either this course or any of the Bible courses for grades 2-6. Older students who are unfamiliar with Bible stories may wish to read these stories independently."
             }
           ]

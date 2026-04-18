@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Learn to sight-sing in multiple keys, time signatures, and with various rhythms. Train ears with melodic and rhythmic ear tests, learn how to compose music, and begin work on sight-singing exercises independently before checking work. Audio lessons are included in the lesson plans.\n\nSkills Focus: Keys, time signatures, sol-fa syllables and hand signs, ear test, music copywork, sharps and flats.\n\nThis topic is included in the following course(s): Music: Level 3"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Learn to sight-sing in multiple keys, time signatures, and with various rhythms. Train ears with melodic and rhythmic ear tests, learn how to compose music, and begin work on sight-singing exercises independently before checking work. Audio lessons are included in the lesson plans.\n\nSkills Focus: Keys, time signatures, sol-fa syllables and hand signs, ear test, music copywork, sharps and flats.\n\nThis topic is included in the following course(s): Music: Level 3",
-              "label": "Learn to sight-sing in multiple keys, time signatures, and with various rhythms. Train ears with melodic and rhythmic ear tests, learn how to compose music, and begin work on sight-singing exercises independently before checking work. Audio lessons are included in the lesson plans.\n\nSkills Focus: Keys, time signatures, sol-fa syllables and hand signs, ear test, music copywork, sharps and flats.\n\nThis topic is included in the following course(s): Music: Level 3",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Prerequisite: Sight-Singing with Sol-fa Level 2 or appropriate skill proficiency. Students in Grades 4+ with no experience with sol-fa or sight-reading music should start with Level 2."
             }
           ]

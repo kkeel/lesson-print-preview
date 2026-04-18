@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and more. This video course uses the same key text as the Latin 2 Independent Study course but is structured as a self-paced video course on an online course platform where students watch recorded class videos with Living Latin instructor Magistra Angela Reed, submit narrations, complete quizzes, and track their work."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and more. This video course uses the same key text as the Latin 2 Independent Study course but is structured as a self-paced video course on an online course platform where students watch recorded class videos with Living Latin instructor Magistra Angela Reed, submit narrations, complete quizzes, and track their work.",
-              "label": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and more. This video course uses the same key text as the Latin 2 Independent Study course but is structured as a self-paced video course on an online course platform where students watch recorded class videos with Living Latin instructor Magistra Angela Reed, submit narrations, complete quizzes, and track their work.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Prerequisite: Level 1. Students just beginning Latin should start at Level 1. This course may be counted as 1/2 credit for High School."
             }
           ]

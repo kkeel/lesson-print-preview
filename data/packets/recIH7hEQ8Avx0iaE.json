@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course gives students a glimpse into how the ideas that guide our study of geometry were first discovered."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course gives students a glimpse into how the ideas that guide our study of geometry were first discovered.",
-              "label": "This course gives students a glimpse into how the ideas that guide our study of geometry were first discovered.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "This course is intended to follow Part 1; however, the order may be reversed to facilitate combining students."
             }
           ]

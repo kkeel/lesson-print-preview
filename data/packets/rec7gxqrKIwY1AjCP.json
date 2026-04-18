@@ -36,12 +36,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Microbiology Lessons, Microbiology Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Microbiology Lessons\nAn elective in Life Science, Microbiology is a challenging course for the Alveary senior. Some self-direction is required.\n\nAbout Microbiology Labs\nLabs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Microbiology Lessons, Microbiology Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Microbiology Lessons\nAn elective in Life Science, Microbiology is a challenging course for the Alveary senior. Some self-direction is required.\n\nAbout Microbiology Labs\nLabs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
-              "label": "This course includeds the following topic(s): Microbiology Lessons, Microbiology Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Microbiology Lessons\nAn elective in Life Science, Microbiology is a challenging course for the Alveary senior. Some self-direction is required.\n\nAbout Microbiology Labs\nLabs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nMicrobiology Lessons\nStudents should take General Biology before Microbiology. Note that there is some sensitive content in this course, and it is recommended for students in Grade 12."
             }
           ]

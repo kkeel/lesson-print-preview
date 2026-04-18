@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Old Testament: Grade 2, New Testament: Grade 2, Church History: Grades 1-3\n\nAbout Old Testament: Grade 2\nWhen students are young, we want them to come to know God through his stories. In Grade 2, students read the stories directly from the Bible, which they were introduced to in Grade 1. Lesson plans also include occasional artwork illustrating the story read and suggested prep selections for teachers from resources such as the Bible Story Handbook, which provides biblical context, helps with interpretational issues, and points out mistakes to avoid when reading specific Bible passages.\n\nAbout New Testament: Grade 2\nNew Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nAbout Church History: Grades 1-3\nEach year in elementary grades, students read biographies of influential people from church history. This course features the stories of Christians from Alveary's modern history rotation for the years (1800-1900). The selections in these grades are chosen for their accessibility for younger students to learn about the lives and ministries of great men and women of faith."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Old Testament: Grade 2, New Testament: Grade 2, Church History: Grades 1-3\n\nAbout Old Testament: Grade 2\nWhen students are young, we want them to come to know God through his stories. In Grade 2, students read the stories directly from the Bible, which they were introduced to in Grade 1. Lesson plans also include occasional artwork illustrating the story read and suggested prep selections for teachers from resources such as the Bible Story Handbook, which provides biblical context, helps with interpretational issues, and points out mistakes to avoid when reading specific Bible passages.\n\nAbout New Testament: Grade 2\nNew Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nAbout Church History: Grades 1-3\nEach year in elementary grades, students read biographies of influential people from church history. This course features the stories of Christians from Alveary's modern history rotation for the years (1800-1900). The selections in these grades are chosen for their accessibility for younger students to learn about the lives and ministries of great men and women of faith.",
-              "label": "This course includeds the following topic(s): Old Testament: Grade 2, New Testament: Grade 2, Church History: Grades 1-3\n\nAbout Old Testament: Grade 2\nWhen students are young, we want them to come to know God through his stories. In Grade 2, students read the stories directly from the Bible, which they were introduced to in Grade 1. Lesson plans also include occasional artwork illustrating the story read and suggested prep selections for teachers from resources such as the Bible Story Handbook, which provides biblical context, helps with interpretational issues, and points out mistakes to avoid when reading specific Bible passages.\n\nAbout New Testament: Grade 2\nNew Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nAbout Church History: Grades 1-3\nEach year in elementary grades, students read biographies of influential people from church history. This course features the stories of Christians from Alveary's modern history rotation for the years (1800-1900). The selections in these grades are chosen for their accessibility for younger students to learn about the lives and ministries of great men and women of faith.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Old Testament: Grade 2\nStudents in Grade 2 may take this course, which reads straight from the Bible, or First Bible Stories. They may also combine with Grades 3-6 Bible if they are familiar with OT narratives.\n\nChurch History: Grades 1-3\nThose who wish to combine students in Grades 1-3 with older students should choose either this course or the Church History for grades 4-6."
             }
           ]

@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Learn and practice lettering techniques to create meaningful and inspirational hand-lettered art. Lesson topics include serifed, sans-serifed, and script fonts, line width and value, guidelines, outlines, and shadow lines, key principles of design, dimension, and shading. Each term concludes with a project, and skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Learn and practice lettering techniques to create meaningful and inspirational hand-lettered art. Lesson topics include serifed, sans-serifed, and script fonts, line width and value, guidelines, outlines, and shadow lines, key principles of design, dimension, and shading. Each term concludes with a project, and skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts.",
-              "label": "Learn and practice lettering techniques to create meaningful and inspirational hand-lettered art. Lesson topics include serifed, sans-serifed, and script fonts, line width and value, guidelines, outlines, and shadow lines, key principles of design, dimension, and shading. Each term concludes with a project, and skills can be used to create beautiful collections of mottoes and quotes in a Commonplace Book or for display or gifts.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Suitable for interested younger students."
             }
           ]

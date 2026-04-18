@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Study history stories about the ancient civilizations that lived from 100 BC to 350 AD. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (U.S.), History: Grades 5-6 (Canada)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Study history stories about the ancient civilizations that lived from 100 BC to 350 AD. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (U.S.), History: Grades 5-6 (Canada)",
-              "label": "Study history stories about the ancient civilizations that lived from 100 BC to 350 AD. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level.\n\nThis topic is included in the following course(s): History: Grades 5-6 (U.S.), History: Grades 5-6 (Canada)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

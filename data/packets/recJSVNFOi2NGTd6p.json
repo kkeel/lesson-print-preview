@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "An elective in Life Science, Botany guides learners through the basic foundations of the discipline, while incorporating historical context, modern developments, current events, and citizenship. This course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences.\n\nThis topic is included in the following course(s): Science: Botany"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "An elective in Life Science, Botany guides learners through the basic foundations of the discipline, while incorporating historical context, modern developments, current events, and citizenship. This course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences.\n\nThis topic is included in the following course(s): Science: Botany",
-              "label": "An elective in Life Science, Botany guides learners through the basic foundations of the discipline, while incorporating historical context, modern developments, current events, and citizenship. This course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences.\n\nThis topic is included in the following course(s): Science: Botany",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "There are no specific prerequisites or concurrents for this course."
             }
           ]

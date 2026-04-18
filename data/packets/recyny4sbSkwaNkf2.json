@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students will gain a better understanding of the foundation of American democracy as they learn about the key principles of the Constitution, including the separation of powers, checks and balances, and the responsibilities of each branch of government. There will be a special focus on the Bill of Rights so students understand their rights as citizens and the limits of the government. Supplemental material is provided through articles, videos, and Supreme Court cases. Students will engage with these ideas using their Citizenship notebook.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (U.S.)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students will gain a better understanding of the foundation of American democracy as they learn about the key principles of the Constitution, including the separation of powers, checks and balances, and the responsibilities of each branch of government. There will be a special focus on the Bill of Rights so students understand their rights as citizens and the limits of the government. Supplemental material is provided through articles, videos, and Supreme Court cases. Students will engage with these ideas using their Citizenship notebook.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (U.S.)",
-              "label": "Students will gain a better understanding of the foundation of American democracy as they learn about the key principles of the Constitution, including the separation of powers, checks and balances, and the responsibilities of each branch of government. There will be a special focus on the Bill of Rights so students understand their rights as citizens and the limits of the government. Supplemental material is provided through articles, videos, and Supreme Court cases. Students will engage with these ideas using their Citizenship notebook.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (U.S.)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "If 8th-grade students have not taken this course or studied the Constitution, they should consider taking it instead of the 8th-grade option."
             }
           ]

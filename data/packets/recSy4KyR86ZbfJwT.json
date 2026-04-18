@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Learn the sol-fa syllables, concepts of rhythm and meter, and how to read music. Video lessons are provided with the lesson plans.\n\nSkills Focus: Rhythm, meter, sol-fa syllables and hand signs, ear test.\n\nThis topic is included in the following course(s): Music: Level 2"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Learn the sol-fa syllables, concepts of rhythm and meter, and how to read music. Video lessons are provided with the lesson plans.\n\nSkills Focus: Rhythm, meter, sol-fa syllables and hand signs, ear test.\n\nThis topic is included in the following course(s): Music: Level 2",
-              "label": "Learn the sol-fa syllables, concepts of rhythm and meter, and how to read music. Video lessons are provided with the lesson plans.\n\nSkills Focus: Rhythm, meter, sol-fa syllables and hand signs, ear test.\n\nThis topic is included in the following course(s): Music: Level 2",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grade 3 students with no experience with sol-fa or sight-reading music may start with Level 1 or 2. Older students should start with Level 2."
             }
           ]

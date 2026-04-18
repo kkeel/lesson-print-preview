@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Student get a glimpse of the world beyond English with a poetic biography and then focus on stories and myths created and collected in the 19th century, including Russian fairy tales, short stories from a variety of authors, and Dickens' famous text, A Christmas Carol. \n\nThis topic is included in the following course(s): Literature: Grades 7-8"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Student get a glimpse of the world beyond English with a poetic biography and then focus on stories and myths created and collected in the 19th century, including Russian fairy tales, short stories from a variety of authors, and Dickens' famous text, A Christmas Carol. \n\nThis topic is included in the following course(s): Literature: Grades 7-8",
-              "label": "Student get a glimpse of the world beyond English with a poetic biography and then focus on stories and myths created and collected in the 19th century, including Russian fairy tales, short stories from a variety of authors, and Dickens' famous text, A Christmas Carol. \n\nThis topic is included in the following course(s): Literature: Grades 7-8",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Several readings are shared with Grades 5-6, though lesson plans include more advanced work for older students."
             }
           ]

@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and dictation."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and dictation.",
-              "label": "Develop Latin reading proficiency through narratives about a Roman family. Study Latin grammar and vocabulary. Build mastery through copywork, composition, narration, and dictation.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "This course may be counted as 1/2 credit for High School and is based on the same text as the Latin 1 Video Course, but without the accountability and structure of an online course platform and recorded class videos. Students work through lesson plans for the course as in other subjects."
             }
           ]

@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students read Roman, Norse, and Eastern mythology, Dickens' A Christmas Carol, and a selection of short stories and fairy tales written or collected in the 19th century. \n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students read Roman, Norse, and Eastern mythology, Dickens' A Christmas Carol, and a selection of short stories and fairy tales written or collected in the 19th century. \n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
-              "label": "Students read Roman, Norse, and Eastern mythology, Dickens' A Christmas Carol, and a selection of short stories and fairy tales written or collected in the 19th century. \n\nThis topic is included in the following course(s): Literature: Grades 5-6\n\nAbout Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "About Literature: Grades 5-6\nOverview note: Literature selections are chosen to encourage students to engage with rich ideas in literature and history and also to help them to gain independence in their reading and lessons.\n\nLit./Mythology: Grade 5-6\nSuitable for hungry 4th graders. A Christmas Carol and some stories and tales shared with Grades 7-8."
             }
           ]

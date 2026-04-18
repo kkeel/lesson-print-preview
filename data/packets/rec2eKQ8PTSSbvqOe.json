@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "New Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nThis topic is included in the following course(s): Bible: Grade 2"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "New Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nThis topic is included in the following course(s): Bible: Grade 2",
-              "label": "New Testament events from the life of Christ are read throughout the year, with beautiful artwork and teacher helps periodically included in the lesson plans to enrich and give context to the stories covered.\n\nThis topic is included in the following course(s): Bible: Grade 2",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

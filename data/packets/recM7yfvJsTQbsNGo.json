@@ -36,12 +36,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Grammar: Grade 5, Dictation: Grade 5, Penmanship & Copywork: Grade 5, Written Narration: Grade 5\n\nAbout Grammar: Grade 5\nStudents review the parts of speech and learn the components involved in writing a good sentence.\n\nAbout Dictation: Grade 5\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 5\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 5\nStudents continue to gain fluency in writing through written narrations."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Grammar: Grade 5, Dictation: Grade 5, Penmanship & Copywork: Grade 5, Written Narration: Grade 5\n\nAbout Grammar: Grade 5\nStudents review the parts of speech and learn the components involved in writing a good sentence.\n\nAbout Dictation: Grade 5\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 5\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 5\nStudents continue to gain fluency in writing through written narrations.",
-              "label": "This course includeds the following topic(s): Grammar: Grade 5, Dictation: Grade 5, Penmanship & Copywork: Grade 5, Written Narration: Grade 5\n\nAbout Grammar: Grade 5\nStudents review the parts of speech and learn the components involved in writing a good sentence.\n\nAbout Dictation: Grade 5\nStudents use selected passages to practice dictation skills. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Penmanship & Copywork: Grade 5\nStudents copy short passages from their books. (Alveary Copywork & Dictation Books provide selected passages).\n\nAbout Written Narration: Grade 5\nStudents continue to gain fluency in writing through written narrations.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grammar: Grade 5\nStudents can take this course even if they haven't taken grammar before. The beginning is written with a built-in review.\n\nWritten Narration: Grade 5\nIncrease the number of written narrations at a pace that your student can be successful."
             }
           ]

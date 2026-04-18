@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "The first years of reading instruction set a child on a path leading to a love of stories and books. The Alveary Level 1 Reading lessons integrate phonological awareness, phonics, and vocabulary within the traditional folk tales in the first Free and Treadwell Reader. Teacher read-alouds, shared reading, and independent reading are included throughout the course. Narration follows reading. Use of a Word Journal begins in the first term; children record new words and groups of similar words. They also add copywork, and later, short sentence dictations. Lessons include prediction, word work, and grammar topics such as sentence structure, nouns, verbs, punctuation, and capitalization. By the end of Level 1, children will decode and spell single sounds and syllables and read the stories with appropriate fluency.\n\nThis topic is included in the following course(s): Language Study: Grade 1"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "The first years of reading instruction set a child on a path leading to a love of stories and books. The Alveary Level 1 Reading lessons integrate phonological awareness, phonics, and vocabulary within the traditional folk tales in the first Free and Treadwell Reader. Teacher read-alouds, shared reading, and independent reading are included throughout the course. Narration follows reading. Use of a Word Journal begins in the first term; children record new words and groups of similar words. They also add copywork, and later, short sentence dictations. Lessons include prediction, word work, and grammar topics such as sentence structure, nouns, verbs, punctuation, and capitalization. By the end of Level 1, children will decode and spell single sounds and syllables and read the stories with appropriate fluency.\n\nThis topic is included in the following course(s): Language Study: Grade 1",
-              "label": "The first years of reading instruction set a child on a path leading to a love of stories and books. The Alveary Level 1 Reading lessons integrate phonological awareness, phonics, and vocabulary within the traditional folk tales in the first Free and Treadwell Reader. Teacher read-alouds, shared reading, and independent reading are included throughout the course. Narration follows reading. Use of a Word Journal begins in the first term; children record new words and groups of similar words. They also add copywork, and later, short sentence dictations. Lessons include prediction, word work, and grammar topics such as sentence structure, nouns, verbs, punctuation, and capitalization. By the end of Level 1, children will decode and spell single sounds and syllables and read the stories with appropriate fluency.\n\nThis topic is included in the following course(s): Language Study: Grade 1",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Students who can already read may use the stories for reading practice but focus mainly on the spelling and grammar elements, including copywork and dictation. \n\nPrerequisite: Students should recognize upper- and lower-case letters and know most of their sounds prior to starting this course."
             }
           ]

@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Study target language using interactive readings and grammar exercises."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Study target language using interactive readings and grammar exercises.",
-              "label": "Study target language using interactive readings and grammar exercises.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "All students in Grades 7+ (regardless of language background) should take French: Level 1."
             }
           ]

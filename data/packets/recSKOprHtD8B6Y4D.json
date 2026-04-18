@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "March, imitate, and play games with music. Explore how simple melodic patterns and rhythms build into scales. Finish with an understanding of dynamics, basic rhythms, and the sol-fa scale. Audio lessons are provided with the lesson plans.\n\nSkill Focus: Rhythm, melody, scales, dynamics, and sol-fa syllables (\"do\" - \"so\").\n\nThis topic is included in the following course(s): Music: Level 1"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "March, imitate, and play games with music. Explore how simple melodic patterns and rhythms build into scales. Finish with an understanding of dynamics, basic rhythms, and the sol-fa scale. Audio lessons are provided with the lesson plans.\n\nSkill Focus: Rhythm, melody, scales, dynamics, and sol-fa syllables (\"do\" - \"so\").\n\nThis topic is included in the following course(s): Music: Level 1",
-              "label": "March, imitate, and play games with music. Explore how simple melodic patterns and rhythms build into scales. Finish with an understanding of dynamics, basic rhythms, and the sol-fa scale. Audio lessons are provided with the lesson plans.\n\nSkill Focus: Rhythm, melody, scales, dynamics, and sol-fa syllables (\"do\" - \"so\").\n\nThis topic is included in the following course(s): Music: Level 1",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Grade 3 students with no experience with sol-fa or sight-reading music may start with Level 1."
             }
           ]

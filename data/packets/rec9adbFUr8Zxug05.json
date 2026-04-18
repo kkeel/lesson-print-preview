@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Each term, recite from memory or read beautifully 1 Hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 Poem."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Each term, recite from memory or read beautifully 1 Hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 Poem.",
-              "label": "Each term, recite from memory or read beautifully 1 Hymn, 1 Old Testament passage, 1 New Testament passage, 1 Psalm, and 1 Poem.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Except for some Bible passages, recitation selections are shared with Grades 1-2."
             }
           ]

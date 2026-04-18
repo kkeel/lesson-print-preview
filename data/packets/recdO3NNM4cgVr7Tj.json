@@ -34,14 +34,9 @@
           "title": "About the Course",
           "entries": [
             {
-              "title": "About This topic is included in the following course(s): PE: Grades 1-3",
-              "label": "This topic is included in the following course(s): PE: Grades 1-3",
-              "content": "PE: Grades 1-3\nLessons specifically created for Grades 1-6. We recommend you make sure to include some sort of physical activity as breaks throughout your school day. If you already have sports or similar activities as a regular part of your life rhythms"
-            },
-            {
               "title": "About the Course",
               "label": "",
-              "content": "these lessons are optional."
+              "content": "This topic is included in the following course(s): PE: Grades 1-3\n\nPE: Grades 1-3\nLessons specifically created for Grades 1-6. We recommend you make sure to include some sort of physical activity as breaks throughout your school day. If you already have sports or similar activities as a regular part of your life rhythms, these lessons are optional."
             }
           ]
         },
@@ -50,8 +45,8 @@
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This topic is included in the following course(s): PE: Grades 1-3",
-              "label": "This topic is included in the following course(s): PE: Grades 1-3",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

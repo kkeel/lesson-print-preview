@@ -34,12 +34,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course includeds the following topic(s): Lit./Mythology: Grade 3, General Lit.: Grade 3, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout General Lit.: Grade 3\nAccessible texts such as Charlotte's Web help students grow the delight of reading for themselves.\n\nAbout Lit./Mythology: Grade 3\nContinue to expose students to rich stories with either Pilgrim's Progress or classic Greek myths."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course includeds the following topic(s): Lit./Mythology: Grade 3, General Lit.: Grade 3, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout General Lit.: Grade 3\nAccessible texts such as Charlotte's Web help students grow the delight of reading for themselves.\n\nAbout Lit./Mythology: Grade 3\nContinue to expose students to rich stories with either Pilgrim's Progress or classic Greek myths.",
-              "label": "This course includeds the following topic(s): Lit./Mythology: Grade 3, General Lit.: Grade 3, Community Read Alouds: Grades 1-12\n\nAbout Community Read Alouds: Grades 1-12\nThis is meant to be a read-aloud for all ages to enjoy together in the afternoon at least 1 time a week. We encourage you to choose a book that is specific to your region. However, we will offer some suggestions in the Grades 1-3 Literature lessons and Grades 4+ Citizenship lessons. The suggested book titles will be available June 1st in the lesson plans.\n\nAbout General Lit.: Grade 3\nAccessible texts such as Charlotte's Web help students grow the delight of reading for themselves.\n\nAbout Lit./Mythology: Grade 3\nContinue to expose students to rich stories with either Pilgrim's Progress or classic Greek myths.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "General Lit.: Grade 3\nSelections in General Literature are chosen to allow students to begin taking turns reading with their teacher and/or entirely by themselves (depending on reading level). If combining with younger students, make sure emerging readers still have space to practice reading somewhere in their lessons.\n\nLit./Mythology: Grade 3\nLit/Mythology selections are continued from Grade 2. Students can jump in at the current rotation or use Grade 2 lessons if you prefer to start from the beginning. Students in Grades 1-3 can be combined for these lessons."
             }
           ]

@@ -40,12 +40,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nThis topic is included in the following course(s): Citizenship: Grade 5, Citizenship: Grade 6, Citizenship: Grade 7 (U.S.), Citizenship: Grade 7 (Canada), Citizenship: Grade 8 (U.S.), Citizenship: Grade 8 (Canada)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nThis topic is included in the following course(s): Citizenship: Grade 5, Citizenship: Grade 6, Citizenship: Grade 7 (U.S.), Citizenship: Grade 7 (Canada), Citizenship: Grade 8 (U.S.), Citizenship: Grade 8 (Canada)",
-              "label": "Students are exposed to current events by reading from a variety of sources and having age-appropriate conversations with teachers. Topics such as scientific discoveries, the arts, and human interest stories are generally suitable.\n\nThis topic is included in the following course(s): Citizenship: Grade 5, Citizenship: Grade 6, Citizenship: Grade 7 (U.S.), Citizenship: Grade 7 (Canada), Citizenship: Grade 8 (U.S.), Citizenship: Grade 8 (Canada)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

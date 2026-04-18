@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students in Grades 3-6 read Old Testament narratives chronologically. For 2026-2027 students read selections of Joshua, Judges, Ruth, and  1-2 Samuel. Lesson plans also include selections from maps and books such as The New Manners and Customs of Bible Times, which teachers can read or share with their students to help understand the biblical context and gain insight into the culture and geography of Israel.\n\nThis topic is included in the following course(s): Bible: Grade 3, Bible: Grades 4-6"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students in Grades 3-6 read Old Testament narratives chronologically. For 2026-2027 students read selections of Joshua, Judges, Ruth, and  1-2 Samuel. Lesson plans also include selections from maps and books such as The New Manners and Customs of Bible Times, which teachers can read or share with their students to help understand the biblical context and gain insight into the culture and geography of Israel.\n\nThis topic is included in the following course(s): Bible: Grade 3, Bible: Grades 4-6",
-              "label": "Students in Grades 3-6 read Old Testament narratives chronologically. For 2026-2027 students read selections of Joshua, Judges, Ruth, and  1-2 Samuel. Lesson plans also include selections from maps and books such as The New Manners and Customs of Bible Times, which teachers can read or share with their students to help understand the biblical context and gain insight into the culture and geography of Israel.\n\nThis topic is included in the following course(s): Bible: Grade 3, Bible: Grades 4-6",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Suitable for older students if combining lessons, and ideal for older students just getting familiar with the Bible."
             }
           ]

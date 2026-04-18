@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course helps students explore and enjoy poems on many levels; lessons include practice in both reading and writing about poetry.\n\nThis topic is included in the following course(s): Literature: Grade 10"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course helps students explore and enjoy poems on many levels; lessons include practice in both reading and writing about poetry.\n\nThis topic is included in the following course(s): Literature: Grade 10",
-              "label": "This course helps students explore and enjoy poems on many levels; lessons include practice in both reading and writing about poetry.\n\nThis topic is included in the following course(s): Literature: Grade 10",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Prerequisite: Grade 9 Poetry Study or a familiarity with a variety of poems and a strong working understanding of poetic forms and terminology."
             }
           ]

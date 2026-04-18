@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Students study a life by Plutarch for two terms and then spend the rest of the year exploring topics of government through historical documents and decisions from this rotation.\n\nThis topic is included in the following course(s): Citizenship: Grade 9 (U.S.)"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Students study a life by Plutarch for two terms and then spend the rest of the year exploring topics of government through historical documents and decisions from this rotation.\n\nThis topic is included in the following course(s): Citizenship: Grade 9 (U.S.)",
-              "label": "Students study a life by Plutarch for two terms and then spend the rest of the year exploring topics of government through historical documents and decisions from this rotation.\n\nThis topic is included in the following course(s): Citizenship: Grade 9 (U.S.)",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Plutarch lessons are shared with Grades 6-8, and the final term of government lessons is shared with Grades 10-11, and are also suitable for inquisitive 8th graders."
             }
           ]

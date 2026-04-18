@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course will provide the ½ credit health requirement for those states that require it or elective credit for any student (two terms of lessons). Approached within a Charlotte Mason framework of focusing on the whole personhood of the student, this course will explore nutrition, mental health, and physical well-being."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course will provide the ½ credit health requirement for those states that require it or elective credit for any student (two terms of lessons). Approached within a Charlotte Mason framework of focusing on the whole personhood of the student, this course will explore nutrition, mental health, and physical well-being.",
-              "label": "This course will provide the ½ credit health requirement for those states that require it or elective credit for any student (two terms of lessons). Approached within a Charlotte Mason framework of focusing on the whole personhood of the student, this course will explore nutrition, mental health, and physical well-being.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "May be suitable for Grade 9 students"
             }
           ]

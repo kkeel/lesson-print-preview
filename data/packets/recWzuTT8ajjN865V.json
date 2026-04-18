@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Copy letters and words and write them from dictation.\n\nThis topic is included in the following course(s): Language Study: Grade 1"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Copy letters and words and write them from dictation.\n\nThis topic is included in the following course(s): Language Study: Grade 1",
-              "label": "Copy letters and words and write them from dictation.\n\nThis topic is included in the following course(s): Language Study: Grade 1",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "null"
             }
           ]

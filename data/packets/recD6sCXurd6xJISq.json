@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Skills Focus: Learn a new color wheel by introducing new primary colors, mixing new browns, as well as understanding and applying color intensity and color tone. Continue mastering watercolor skills through brush drawing projects as well as learning the salt technique. Focus on composition and applying texture and tonal value to still life drawing using specific light sources. Revisit all of the basics with the new medium of graphite."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Skills Focus: Learn a new color wheel by introducing new primary colors, mixing new browns, as well as understanding and applying color intensity and color tone. Continue mastering watercolor skills through brush drawing projects as well as learning the salt technique. Focus on composition and applying texture and tonal value to still life drawing using specific light sources. Revisit all of the basics with the new medium of graphite.",
-              "label": "Skills Focus: Learn a new color wheel by introducing new primary colors, mixing new browns, as well as understanding and applying color intensity and color tone. Continue mastering watercolor skills through brush drawing projects as well as learning the salt technique. Focus on composition and applying texture and tonal value to still life drawing using specific light sources. Revisit all of the basics with the new medium of graphite.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "If students are in grade 6 or above, they should begin with the fast-track lessons and then move on to Level 4. \n\nPrerequisite: Level 6 or appropriate skill proficiency."
             }
           ]

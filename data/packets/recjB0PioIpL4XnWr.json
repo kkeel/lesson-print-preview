@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "This course aims to foster a love of music. Students begin by learning about and listening to common orchestral instruments. Then they spend the rest of the course with a few famous pieces of music that serve as a fun introduction for students with no prior exposure to classical music.\n\nThis topic is included in the following course(s): Music: Intro"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "This course aims to foster a love of music. Students begin by learning about and listening to common orchestral instruments. Then they spend the rest of the course with a few famous pieces of music that serve as a fun introduction for students with no prior exposure to classical music.\n\nThis topic is included in the following course(s): Music: Intro",
-              "label": "This course aims to foster a love of music. Students begin by learning about and listening to common orchestral instruments. Then they spend the rest of the course with a few famous pieces of music that serve as a fun introduction for students with no prior exposure to classical music.\n\nThis topic is included in the following course(s): Music: Intro",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Suitable for Grades 1-3 if combining."
             }
           ]

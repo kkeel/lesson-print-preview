@@ -32,12 +32,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Journey into the 19th century via novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from and about the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Journey into the 19th century via novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from and about the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12",
-              "label": "Journey into the 19th century via novels, short stories, personal narratives, fairy tales, and more. Students engage with a variety of authors and texts from and about the time period and reflect on literary techniques and the characteristics of multiple genres along the way.\n\nThis topic is included in the following course(s): Literature: Grade 11, Literature: Grade 12",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Some books shared with other high school grades. Literature, history, and geography lessons work in sync in Grades 9-12, so it is best to consider all three together when placing students."
             }
           ]

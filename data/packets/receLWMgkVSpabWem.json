@@ -30,12 +30,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Spiritual formation courses cover particular topics in the Christian life to encourage and deepen students' faith. This course focuses on reading, understanding, and following God's Word along with looking at how the things of this world point us to God.\n\nThis topic is included in the following course(s): Bible: Grades 10-11"
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Spiritual formation courses cover particular topics in the Christian life to encourage and deepen students' faith. This course focuses on reading, understanding, and following God's Word along with looking at how the things of this world point us to God.\n\nThis topic is included in the following course(s): Bible: Grades 10-11",
-              "label": "Spiritual formation courses cover particular topics in the Christian life to encourage and deepen students' faith. This course focuses on reading, understanding, and following God's Word along with looking at how the things of this world point us to God.\n\nThis topic is included in the following course(s): Bible: Grades 10-11",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "Can be combined with Grade 12 students. Students new to spiritual formation topics should begin with Spiritual Formation: Grades 7-8 or Bible History in Grade 9."
             }
           ]

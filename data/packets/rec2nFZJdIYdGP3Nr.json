@@ -26,12 +26,23 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "label": "",
+              "content": "Travel along rivers, across continents, and along trade routes significant during this year's time period (1800-1900). Explore the physical and human geography (including economy and culture) of each region through reading, map work, and models. Students will also engage in map activities that focus on their local region."
+            }
+          ]
+        },
+        {
           "kind": "tips-group",
           "title": "Placement & Combining Tips",
           "entries": [
             {
-              "title": "Travel along rivers, across continents, and along trade routes significant during this year's time period (1800-1900). Explore the physical and human geography (including economy and culture) of each region through reading, map work, and models. Students will also engage in map activities that focus on their local region.",
-              "label": "Travel along rivers, across continents, and along trade routes significant during this year's time period (1800-1900). Explore the physical and human geography (including economy and culture) of each region through reading, map work, and models. Students will also engage in map activities that focus on their local region.",
+              "title": "Placement & Combining Tips",
+              "label": "",
               "content": "This course is the same for 4th-6th graders. Lesson plans may include more advanced map skills for older students."
             }
           ]
