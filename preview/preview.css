@@ -606,3 +606,33 @@ a:hover {
     print-color-adjust: exact;
   }
 }
+
+/* =========================
+   Scheduling table
+   ========================= */
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 13px;
+}
+
+.schedule-table thead th {
+  background: #596e5e;
+  color: white;
+  text-align: left;
+  padding: 8px 10px;
+  font-weight: 700;
+}
+
+.schedule-table td {
+  padding: 10px;
+  border-bottom: 1px solid #cfd6cf;
+  vertical-align: top;
+}
+
+.schedule-table tr.course-books td {
+  font-style: italic;
+  color: #596e5e;
+}
