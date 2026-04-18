@@ -172,6 +172,43 @@ function renderHeaderItem(item) {
     `;
   }
 
+  if (item.kind === "scheduling") {
+    const iconSrc = "../images/header_icons/Scheduling.png";
+  
+    return `
+      <section class="flow-block header-block header-group-block">
+        <div class="header-panel">
+          <div class="header-panel-icon-col">
+            <img src="${iconSrc}" alt="Scheduling" class="header-panel-icon" />
+          </div>
+  
+          <div class="header-panel-content">
+            <h3 class="header-entry-title">Scheduling</h3>
+  
+            <table class="schedule-table">
+              <thead>
+                <tr>
+                  <th>GRADE</th>
+                  <th>SCHEDULE INFO.</th>
+                  <th>BOOKS</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${(item.rows || []).map(row => `
+                  <tr class="${row.rowType || ""}">
+                    <td>${escapeHtml(row.grade || "")}</td>
+                    <td>${escapeHtml(row.scheduleInfo || "")}</td>
+                    <td>${escapeHtml(row.books || "")}</td>
+                  </tr>
+                `).join("")}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
   if (item.kind === "about" || item.kind === "scheduling" || item.kind === "planning-prep" || item.kind === "text") {
     return `
       <section class="flow-block header-block">
