@@ -121,20 +121,11 @@ function normalizeSubject(value) {
   return arr[0] || "";
 }
 
-function zipLookupEntries(labels, contents) {
-  const maxLength = Math.max(labels.length, contents.length);
-  const entries = [];
-
-  for (let i = 0; i < maxLength; i += 1) {
-    const label = String(labels[i] ?? "").trim();
-    const content = String(contents[i] ?? "").trim();
-
-    if (!label && !content) continue;
-
-    entries.push({ label, content });
-  }
-
-  return entries;
+function joinNonEmptyBlocks(blocks) {
+  return blocks
+    .map(block => String(block ?? "").trim())
+    .filter(Boolean)
+    .join("\n\n");
 }
 
 function buildHeaderLookup(headerRecords) {
@@ -173,36 +164,27 @@ function getMatchedHeaderRecords(lessonFields, lessonSetId, headerLookup) {
   return headerLookup.byLessonPlanId.get(lessonSetId) || [];
 }
 
-function buildAboutEntries(headerRecords, lessonSetName, coverTitle) {
+function buildAboutEntries(headerRecords) {
   const entries = [];
 
   for (const record of headerRecords) {
     const fields = record.fields || {};
 
-    const labels = normalizeArray(fields["Course/Topic Description (LP)"]);
-    const contents = normalizeArray(fields["About_Export"]);
-    const pairs = zipLookupEntries(labels, contents);
+    const courseTopicDescription = normalizeRichText(fields["Course/Topic Description (LP)"]);
+    const aboutExport = normalizeRichText(fields["About_Export"]);
 
-    for (const pair of pairs) {
-      const label = pair.label;
-      const content = pair.content;
+    const combinedContent = joinNonEmptyBlocks([
+      courseTopicDescription,
+      aboutExport
+    ]);
 
-      if (!content) continue;
+    if (!combinedContent) continue;
 
-      const normalizedLabel = label.trim().toLowerCase();
-      const normalizedLessonSet = lessonSetName.trim().toLowerCase();
-      const normalizedCoverTitle = coverTitle.trim().toLowerCase();
-
-      const isPrimary =
-        normalizedLabel === normalizedLessonSet ||
-        normalizedLabel === normalizedCoverTitle;
-
-      entries.push({
-        title: isPrimary || !label ? "About the Course" : `About ${label}`,
-        label,
-        content
-      });
-    }
+    entries.push({
+      title: "About the Course",
+      label: "",
+      content: combinedContent
+    });
   }
 
   return entries;
@@ -214,29 +196,21 @@ function buildPlacementEntries(headerRecords) {
   for (const record of headerRecords) {
     const fields = record.fields || {};
 
-    const labels = normalizeArray(fields["Course/Topic Description (LP)"]);
-    const contents = normalizeArray(fields["Combining & Placement Tips (LP)"]);
-    const pairs = zipLookupEntries(labels, contents);
+    const content = normalizeRichText(fields["Combining & Placement Tips (LP)"]);
+    if (!content) continue;
 
-    for (const pair of pairs) {
-      const label = pair.label;
-      const content = pair.content;
-
-      if (!content) continue;
-
-      entries.push({
-        title: label || "Placement & Combining Tips",
-        label,
-        content
-      });
-    }
+    entries.push({
+      title: "Placement & Combining Tips",
+      label: "",
+      content
+    });
   }
 
   return entries;
 }
 
-function buildHeaderItems(headerRecords, lessonSetName, coverTitle) {
-  const aboutEntries = buildAboutEntries(headerRecords, lessonSetName, coverTitle);
+function buildHeaderItems(headerRecords) {
+  const aboutEntries = buildAboutEntries(headerRecords);
   const placementEntries = buildPlacementEntries(headerRecords);
 
   const items = [];
@@ -281,7 +255,7 @@ function buildPacket(record, headerLookup) {
   const isStandaloneCourse = !isTopicRow && !hasTopics;
 
   const matchedHeaderRecords = getMatchedHeaderRecords(fields, setId, headerLookup);
-  const headerItems = buildHeaderItems(matchedHeaderRecords, lessonSetName, coverTitle);
+  const headerItems = buildHeaderItems(matchedHeaderRecords);
 
   return {
     id: setId,
