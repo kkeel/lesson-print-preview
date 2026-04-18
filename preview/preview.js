@@ -120,14 +120,27 @@ function renderHeaderSection(section) {
 
 function renderHeaderItem(item) {
   if (item.kind === "about-group" || item.kind === "tips-group") {
+    const iconSrc =
+      item.kind === "about-group"
+        ? "../images/header_icons/About the Course.png"
+        : "../images/header_icons/Placement & Combining Tips.png";
+  
     return `
       <section class="flow-block header-block header-group-block">
-        ${(item.entries || []).map(entry => `
-          <div class="header-entry">
-            ${entry.title ? `<h3 class="header-entry-title">${escapeHtml(entry.title)}</h3>` : ""}
-            <p>${nl2br(entry.content || "")}</p>
+        <div class="header-panel">
+          <div class="header-panel-icon-col">
+            <img src="${iconSrc}" alt="${escapeHtml(item.entries?.[0]?.title || item.title || "")}" class="header-panel-icon" />
           </div>
-        `).join("")}
+  
+          <div class="header-panel-content">
+            ${(item.entries || []).map(entry => `
+              <div class="header-entry">
+                ${entry.title ? `<h3 class="header-entry-title">${escapeHtml(entry.title)}</h3>` : ""}
+                <p>${nl2br(entry.content || "")}</p>
+              </div>
+            `).join("")}
+          </div>
+        </div>
       </section>
     `;
   }
