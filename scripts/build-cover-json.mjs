@@ -94,13 +94,17 @@ function normalizeText(value) {
 
 function normalizeRichText(value) {
   if (value == null) return "";
+
   if (Array.isArray(value)) {
     return value
-      .map(item => String(item).trim())
-      .filter(Boolean)
+      .map(item => String(item ?? "").trim())
+      .filter(item => item && item.toLowerCase() !== "null")
       .join("\n\n");
   }
-  return String(value).trim();
+
+  const text = String(value).trim();
+  if (!text || text.toLowerCase() === "null") return "";
+  return text;
 }
 
 function normalizeArray(value) {
@@ -124,7 +128,7 @@ function normalizeSubject(value) {
 function joinNonEmptyBlocks(blocks) {
   return blocks
     .map(block => String(block ?? "").trim())
-    .filter(Boolean)
+    .filter(block => block && block.toLowerCase() !== "null")
     .join("\n\n");
 }
 
@@ -182,7 +186,6 @@ function buildAboutEntries(headerRecords) {
 
     entries.push({
       title: "About the Course",
-      label: "",
       content: combinedContent
     });
   }
@@ -201,7 +204,6 @@ function buildPlacementEntries(headerRecords) {
 
     entries.push({
       title: "Placement & Combining Tips",
-      label: "",
       content
     });
   }
