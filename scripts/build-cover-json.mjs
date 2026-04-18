@@ -239,6 +239,90 @@ function buildHeaderItems(headerRecords) {
   return items;
 }
 
+function buildSchedulingRows(packetRecord, allLessonRecordsById) {
+  const rows = [];
+
+  const fields = packetRecord.fields || {};
+
+  const grade = normalizeText(fields["Grade"]);
+  const scheduleInfo = normalizeText(fields["Schedule Info."]);
+  const books = normalizeText(fields["Books"]);
+
+  const topicIds = normalizeArray(fields["Topic Connection"]);
+  const isTopic = normalizeArray(fields["Course Connection"]).length > 0;
+
+  // -----------------------------
+  // 1. TOPIC PACKET
+  // -----------------------------
+  if (isTopic) {
+    rows.push({
+      rowType: "topic-packet",
+      label: normalizeText(fields["Lesson Set Name"]),
+      grade,
+      scheduleInfo,
+      books
+    });
+    return rows;
+  }
+
+  // -----------------------------
+  // 2. STANDALONE COURSE
+  // -----------------------------
+  if (!topicIds.length) {
+    rows.push({
+      rowType: "standalone-course",
+      label: normalizeText(fields["Lesson Set Name"]),
+      grade,
+      scheduleInfo,
+      books
+    });
+    return rows;
+  }
+
+  // -----------------------------
+  // 3. COURSE WITH TOPICS
+  // -----------------------------
+  let hasTopicRows = false;
+
+  for (const topicId of topicIds) {
+    const topicRecord = allLessonRecordsById.get(topicId);
+    if (!topicRecord) continue;
+
+    const tf = topicRecord.fields || {};
+
+    const tGrade = normalizeText(tf["Grade"]);
+    const tSchedule = normalizeText(tf["Schedule Info."]);
+    const tBooks = normalizeText(tf["Books"]);
+
+    if (!tGrade && !tSchedule && !tBooks) continue;
+
+    hasTopicRows = true;
+
+    rows.push({
+      rowType: "topic",
+      label: normalizeText(tf["Lesson Set Name"]),
+      grade: tGrade,
+      scheduleInfo: tSchedule,
+      books: tBooks
+    });
+  }
+
+  // -----------------------------
+  // 4. HYBRID COURSE (shared books)
+  // -----------------------------
+  if (hasTopicRows && books) {
+    rows.push({
+      rowType: "course-books",
+      label: normalizeText(fields["Lesson Set Name"]),
+      grade: "",
+      scheduleInfo: "Shared course resources",
+      books
+    });
+  }
+
+  return rows;
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -288,7 +372,15 @@ function buildPacket(record, headerLookup) {
       },
       {
         type: "header",
-        items: headerItems
+        items: [
+          ...headerItems,
+    
+          {
+            kind: "scheduling",
+            title: "Scheduling",
+            rows: buildSchedulingRows(record, headerLookup.lessonRecordsById || new Map())
+          }
+        ]
       }
     ]
   };
@@ -334,6 +426,10 @@ async function main() {
     LESSON_FIELDS
   );
 
+  const lessonRecordsById = new Map(
+    lessonRecords.map(r => [r.id, r])
+  );
+
   const headerRecords = await fetchAllRecords(
     HEADER_TABLE_NAME,
     HEADER_VIEW_NAME,
@@ -341,6 +437,7 @@ async function main() {
   );
 
   const headerLookup = buildHeaderLookup(headerRecords);
+  headerLookup.lessonRecordsById = lessonRecordsById;
 
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
