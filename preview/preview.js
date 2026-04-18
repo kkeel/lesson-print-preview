@@ -121,7 +121,7 @@ function renderHeaderSection(section, packetData) {
 }
 
 function renderHeaderIntro(packetData) {
-  const title = packetData.title || "";
+  const title = packetData.subject || "";
   const lessonSetName = packetData.lessonSetName || "";
   const gradeText = packetData.gradeText || "";
 
