@@ -452,6 +452,78 @@ a:hover {
 }
 
 /* =========================
+   Header page intro
+   ========================= */
+
+.header-page-intro {
+  margin-bottom: 14px;
+}
+
+.header-page-toprow {
+  display: grid;
+  grid-template-columns: 1fr 2.15in;
+  gap: 18px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.header-page-brand {
+  display: flex;
+  align-items: center;
+}
+
+.header-page-logo {
+  width: 2.35in;
+  height: auto;
+  display: block;
+}
+
+.header-page-title-pill {
+  background: #596e5e;
+  color: #ffffff;
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-align: center;
+  padding: 14px 18px;
+}
+
+.header-page-subbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  background: #adb58f;
+  color: #ffffff;
+  padding: 8px 14px;
+}
+
+.header-page-subbar-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.header-page-subbar-grade {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 11px;
+  line-height: 1.1;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+@media print {
+  .header-page-title-pill,
+  .header-page-subbar {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+/* =========================
    Header page – first two sections
    ========================= */
 
