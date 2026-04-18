@@ -58,7 +58,7 @@ function renderSection(section, packetData) {
   }
   
   if (section.type === "header") {
-    return renderHeaderSection(section);
+    return renderHeaderSection(section, packetData);
   }
 
   if (section.type === "howto") {
@@ -107,8 +107,10 @@ function renderCoverSection(section, packetData) {
   `;
 }
 
-function renderHeaderSection(section) {
+function renderHeaderSection(section, packetData) {
   let html = `<div class="page-flow header-section">`;
+
+  html += renderHeaderIntro(packetData);
 
   (section.items || []).forEach(item => {
     html += renderHeaderItem(item);
@@ -116,6 +118,31 @@ function renderHeaderSection(section) {
 
   html += `</div>`;
   return html;
+}
+
+function renderHeaderIntro(packetData) {
+  const title = packetData.title || "";
+  const lessonSetName = packetData.lessonSetName || "";
+  const gradeText = packetData.gradeText || "";
+
+  return `
+    <section class="flow-block header-page-intro">
+      <div class="header-page-toprow">
+        <div class="header-page-brand">
+          <img src="../images/Alveary Greens.png" alt="Alveary logo" class="header-page-logo" />
+        </div>
+
+        <div class="header-page-title-pill">
+          ${escapeHtml(title)}
+        </div>
+      </div>
+
+      <div class="header-page-subbar">
+        <div class="header-page-subbar-title">${escapeHtml(lessonSetName || title)}</div>
+        <div class="header-page-subbar-grade">${escapeHtml(gradeText)}</div>
+      </div>
+    </section>
+  `;
 }
 
 function renderHeaderItem(item) {
