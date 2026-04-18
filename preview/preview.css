@@ -460,30 +460,46 @@ a:hover {
 }
 
 .header-block {
-  margin-bottom: 28px;
+  margin-bottom: 0;
 }
 
-.header-block h2 {
-  font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 30px;
-  line-height: 1.12;
-  font-weight: 200;
-  color: #596e5e;
-  margin: 0 0 16px;
+.header-group-block + .header-group-block {
+  margin-top: 0;
 }
 
-.header-group-block {
-  padding-top: 6px;
+.header-panel {
+  display: grid;
+  grid-template-columns: 1.2in 1fr;
+  border-top: 2px solid #8da08c;
+  border-bottom: 2px solid #8da08c;
+}
+
+.header-panel-icon-col {
+  background: #eef0f4;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.32in 0.16in;
+}
+
+.header-panel-icon {
+  width: 0.58in;
+  height: auto;
+  display: block;
+}
+
+.header-panel-content {
+  padding: 0.26in 0.26in 0.22in 0.26in;
 }
 
 .header-entry + .header-entry {
-  margin-top: 22px;
+  margin-top: 0.28in;
 }
 
 .header-entry-title {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
   font-size: 20px;
-  line-height: 1.25;
+  line-height: 1.22;
   font-weight: 700;
   color: #596e5e;
   margin: 0 0 10px;
@@ -493,7 +509,25 @@ a:hover {
 .header-entry p {
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 14px;
-  line-height: 1.6;
+  line-height: 1.58;
   color: #262b26;
   margin: 0;
+}
+
+@media print {
+  .header-panel {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .header-panel-icon-col {
+    background: #eef0f4 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .header-panel {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
 }
