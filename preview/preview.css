@@ -671,7 +671,7 @@ a:hover {
    ========================= */
 
 .weekly-view-block {
-  margin-top: 0.34in;
+  margin-top: 0.3in;
 }
 
 .weekly-view-title {
@@ -680,21 +680,31 @@ a:hover {
   line-height: 1.2;
   font-weight: 700;
   color: #adb58f;
-  margin: 0 0 10px 0.72in;
+  margin: 0 0 10px;
 }
 
-.weekly-view-grid {
-  display: grid;
-  grid-template-columns: 0.72in repeat(5, 1fr);
-  border: 1px solid #596e5e;
+.weekly-view-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.weekly-view-row-title {
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 8.5px;
-  line-height: 1.18;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #596e5e;
+  margin: 0 0 3px;
 }
 
-.weekly-view-corner {
-  border-right: 1px solid transparent;
-  border-bottom: 1px solid #596e5e;
+.weekly-view-days {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 1px solid #596e5e;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 8.3px;
+  line-height: 1.15;
 }
 
 .weekly-view-day-header {
@@ -702,37 +712,28 @@ a:hover {
   color: #ffffff;
   text-align: center;
   font-weight: 700;
-  padding: 6px 4px;
+  padding: 5px 4px;
+  border-right: 1px solid #596e5e;
   border-bottom: 1px solid #596e5e;
 }
 
-.weekly-view-row-label {
-  color: #596e5e;
-  font-weight: 700;
-  padding: 6px 6px 6px 0;
-  text-align: right;
-  align-self: center;
-  border-right: 1px solid #596e5e;
+.weekly-view-day-header:nth-child(5) {
+  border-right: 0;
 }
 
 .weekly-view-cell {
-  min-height: 0.38in;
-  padding: 6px 5px;
+  min-height: 0.33in;
+  padding: 5px 4px;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   border-right: 1px solid #596e5e;
-  border-bottom: 1px solid #596e5e;
   background: #f4f5f8;
 }
 
-.weekly-view-cell:nth-child(6n) {
+.weekly-view-cell:nth-child(10) {
   border-right: 0;
-}
-
-.weekly-view-grid > :nth-last-child(-n + 6) {
-  border-bottom: 0;
 }
 
 @media print {
