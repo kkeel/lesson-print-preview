@@ -46,7 +46,21 @@
               "scheduleInfo": "Recitation: Grade 10\n3 times/week 10 min",
               "books": "Our Work: Grades 9-12"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Recitation: Grade 10",
+                "days": [
+                  "Recitation: Grade 10",
+                  "",
+                  "Recitation: Grade 10",
+                  "",
+                  "Recitation: Grade 10"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

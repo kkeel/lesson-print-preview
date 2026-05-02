@@ -60,7 +60,21 @@
               "scheduleInfo": "General Lit: Grades 7-8\n1 time/week 30 min",
               "books": "Little Women, Sir Gibbie, Narrative of the Life of Frederick Douglass"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grades 7-8",
+                "days": [
+                  "General Lit: Grades 7-8",
+                  "",
+                  "",
+                  "",
+                  "Lit./Mythology: Grades 7-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -78,7 +78,21 @@
               "scheduleInfo": "World History: Grade 9\n1 time/week 30 min",
               "books": "A Little Book for New Historians, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grade 9 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 9-10",
+                  "Ancient History: Grades 7-9",
+                  "World History: Grade 9*Canadian History: Grades 9-10",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

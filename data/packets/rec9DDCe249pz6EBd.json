@@ -60,7 +60,21 @@
               "scheduleInfo": "Chemistry Lessons\n5 times/week 45 min",
               "books": "HS Chem Intro, Michael Faraday's The Chemical History of a Candle, Introductory Chemistry: A Foundation, The Chemical Elements Coloring and Activity Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Chemistry",
+                "days": [
+                  "Chemistry Lessons*Nature Walks & Scouting: Grades 9-12",
+                  "Chemistry Lessons",
+                  "Chemistry Lessons*Chemistry Labs",
+                  "Chemistry Lessons*Nature Notebook: Grades 9-12",
+                  "Chemistry Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

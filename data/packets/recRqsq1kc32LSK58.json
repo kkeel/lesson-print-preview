@@ -50,7 +50,21 @@
               "scheduleInfo": "Poetry Study: Grade 8\n1 time/week 20 min",
               "books": "A World of Poetry: Student Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Poetry: Grade 8",
+                "days": [
+                  "Poetry Reading: Grade 8",
+                  "Poetry Reading: Grade 8",
+                  "Poetry Reading: Grade 8",
+                  "Poetry Reading: Grade 8",
+                  "Poetry Study: Grade 8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

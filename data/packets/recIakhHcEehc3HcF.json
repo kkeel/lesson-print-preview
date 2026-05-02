@@ -56,7 +56,21 @@
               "scheduleInfo": "Art: Level 1\n2 times/week 20 min",
               "books": "Drawing, Design, and Craft-Work, Brushwork: Elementary Brush-Forms"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art: Level 1",
+                "days": [
+                  "",
+                  "",
+                  "Art: Level 1",
+                  "",
+                  "Art: Level 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

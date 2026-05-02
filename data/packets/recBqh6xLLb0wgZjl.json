@@ -60,7 +60,21 @@
               "scheduleInfo": "General Science: Grade 8\n3 times/week 30 min",
               "books": "The Story of Science: Newton At the Center, The Story of Science: Einstein Adds a New Dimension"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 8",
+                "days": [
+                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 8",
+                  "Natural History: Grade 8*Nature Notebook: Grade 8",
+                  "General Science: Grade 8",
+                  "General Science: Grade 8",
+                  "Labs: Grade 8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

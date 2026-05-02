@@ -46,7 +46,21 @@
               "scheduleInfo": "Recitation: Grades 4-6\n5 times/week 10 min",
               "books": "Our Work: Grades 4-6"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Recitation: Grades 4-6",
+                "days": [
+                  "Recitation: Grades 4-6",
+                  "Recitation: Grades 4-6",
+                  "Recitation: Grades 4-6",
+                  "Recitation: Grades 4-6",
+                  "Recitation: Grades 4-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

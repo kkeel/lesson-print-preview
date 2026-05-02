@@ -50,7 +50,21 @@
               "scheduleInfo": "Penmanship & Copywork: Grade 3\n5 times/week 10 min",
               "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book D"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 3",
+                "days": [
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3*Written Narration: Grade 3"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

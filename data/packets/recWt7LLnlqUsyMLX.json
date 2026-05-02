@@ -76,7 +76,111 @@
               "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Chemistry",
+                "days": [
+                  "Chemistry Lessons*Nature Walks & Scouting: Grades 9-12",
+                  "Chemistry Lessons",
+                  "Chemistry Lessons*Chemistry Labs",
+                  "Chemistry Lessons*Nature Notebook: Grades 9-12",
+                  "Chemistry Lessons"
+                ]
+              },
+              {
+                "label": "Science: Biology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Biology Lessons",
+                  "Biology Lessons",
+                  "Biology Lessons*Biology Labs",
+                  "Nature Notebook: Grades 9-12*Biology Lessons",
+                  "Biology Lessons"
+                ]
+              },
+              {
+                "label": "Science: Physics",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Physics Lessons",
+                  "Physics Lessons",
+                  "Physics Lessons*Physics Labs",
+                  "Nature Notebook: Grades 9-12*Physics Lessons",
+                  "Physics Lessons"
+                ]
+              },
+              {
+                "label": "Science: Food Science",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Food Science Lessons",
+                  "Food Science Lessons",
+                  "Food Science Lessons*Food Science Labs",
+                  "Nature Notebook: Grades 9-12*Food Science Lessons",
+                  "Food Science Lessons"
+                ]
+              },
+              {
+                "label": "Science: Introduction to Engineering",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons*Introduction to Engineering Labs",
+                  "Nature Notebook: Grades 9-12*Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons"
+                ]
+              },
+              {
+                "label": "Science: Botany",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Botany Lessons",
+                  "Botany Lessons",
+                  "Botany Lessons*Botany Labs",
+                  "Nature Notebook: Grades 9-12*Botany Lessons",
+                  "Botany Lessons"
+                ]
+              },
+              {
+                "label": "Science: Advanced Nature Study",
+                "days": [
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons*Advanced Nature Study Afternoon Work",
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons"
+                ]
+              },
+              {
+                "label": "Science: Geology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Geology Lessons",
+                  "Geology Lessons",
+                  "Geology Lessons*Geology Labs",
+                  "Nature Notebook: Grades 9-12*Geology Lessons",
+                  "Geology Lessons"
+                ]
+              },
+              {
+                "label": "Science: Astronomy",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons",
+                  "Astronomy Lessons*Astronomy Labs",
+                  "Nature Notebook: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons"
+                ]
+              },
+              {
+                "label": "Science: Microbiology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Microbiology Lessons",
+                  "Microbiology Lessons",
+                  "Microbiology Lessons*Microbiology Labs",
+                  "Nature Notebook: Grades 9-12*Microbiology Lessons",
+                  "Microbiology Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

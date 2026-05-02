@@ -56,7 +56,51 @@
               "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
               "books": "A Short History of Ancient Rome, The Witness of Early Christian Women: Mothers of the Church"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 7-8 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 7-8*World History: Grades 7-8",
+                  "Ancient History: Grades 7-9",
+                  "U.S. History: Grades 7-8",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grades 7-8 (Canada)",
+                "days": [
+                  "",
+                  "World History: Grades 7-8*Canadian History: Grades 7-8",
+                  "Ancient History: Grades 7-9",
+                  "Canadian History: Grades 7-8",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grade 9 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 9-12",
+                  "Ancient History: Grades 7-9",
+                  "U.S. History: Grades 9-12*World History: Grade 9",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grade 9 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 9-10",
+                  "Ancient History: Grades 7-9",
+                  "World History: Grade 9*Canadian History: Grades 9-10",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

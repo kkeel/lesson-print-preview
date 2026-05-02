@@ -50,7 +50,21 @@
               "scheduleInfo": "Algebra 2/Trigonometry: Part 2\n5 times/week 40 min",
               "books": "Algebra and Trigonometry: Functions and Applications, Algebra 2/Trig Ancillary Materials, Home Study Companion: Algebra 2/Trigonometry"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 11",
+                "days": [
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

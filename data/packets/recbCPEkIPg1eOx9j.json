@@ -78,7 +78,21 @@
               "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 5",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Plutarch: Beginner Track*Current Events: Grades 5-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

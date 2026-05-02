@@ -78,7 +78,21 @@
               "scheduleInfo": "Spiritual Formation: Grade 12\n1 time/week 30 min",
               "books": "Becoming by Beholding, Being God's Image: Why Creation Still Matters, Delighting in the Trinity"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 12",
+                "days": [
+                  "Old Testament: Grades 7-12*Spiritual Formation: Grade 12",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 12",
+                  "",
+                  "Church History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

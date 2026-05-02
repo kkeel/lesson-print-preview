@@ -59,7 +59,21 @@
               "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 12",
+                "days": [
+                  "Civics/Ethics: Grade 12",
+                  "",
+                  "Economics: Grade 12",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

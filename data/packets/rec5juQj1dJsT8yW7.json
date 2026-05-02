@@ -59,7 +59,21 @@
               "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
               "books": "Math Card Games Kit"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 7 (Denison)",
+                "days": [
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

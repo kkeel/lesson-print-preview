@@ -60,7 +60,21 @@
               "scheduleInfo": "Astronomy Lessons\n5 times/week 45 min",
               "books": "100 Things to See in the Night Sky, Astronomy Textbook, The Last Stargazers, The Crossroads of Science and Faith: Astronomy Through a Christian Worldview, The Crossroads of Science and Faith: Answers to Exercises, The Day Without Yesterday"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Astronomy",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons",
+                  "Astronomy Lessons*Astronomy Labs",
+                  "Nature Notebook: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

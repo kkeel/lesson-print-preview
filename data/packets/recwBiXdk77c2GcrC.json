@@ -60,7 +60,21 @@
               "scheduleInfo": "Math Lessons: Grade 5\n5 times/week 20 min",
               "books": "RightStart Mathematics Level E 2nd Ed. Book Bundle"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 5",
+                "days": [
+                  "Math Games: Grades 1-8*Math Lessons: Grade 5",
+                  "Math Lessons: Grade 5",
+                  "Math Games: Grades 1-8*Math Lessons: Grade 5",
+                  "Math Lessons: Grade 5",
+                  "Math Games: Grades 1-8*Math Lessons: Grade 5"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

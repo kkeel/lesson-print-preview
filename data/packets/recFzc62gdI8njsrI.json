@@ -56,7 +56,21 @@
               "scheduleInfo": "Story of Arithmetic: Part 1\n1 time/week 15 min",
               "books": "Number Stories of Long Ago, Student World Atlas 6th Ed., Historical Atlas of the World 6th Ed., The Student Bible Atlas, Revised Edition"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Story of Arithmetic: Part 1",
+                "days": [
+                  "Story of Arithmetic: Part 1",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -46,7 +46,21 @@
               "scheduleInfo": "Mathematics: Grade 11 (Denison)\n5 times/week 40 min",
               "books": "Denison Advanced Algebra & Trigonometry"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 11 (Denison)",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

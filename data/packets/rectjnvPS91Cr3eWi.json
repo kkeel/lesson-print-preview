@@ -62,7 +62,31 @@
               "scheduleInfo": "Free Play/ Circuits\n2 times/week 20 min",
               "books": "303 Tween-Approved Exercises and Active Games"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "PE: Grades 4-6",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Folk Dancing"
+                ]
+              },
+              {
+                "label": "PE: Grades 7-12",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Historic Dancing"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Fairy Tales\n1 time/week 15 min",
               "books": "Tales from Grimm, Around the World in 80 Tales"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 1",
+                "days": [
+                  "",
+                  "",
+                  "Fairy Tales",
+                  "Community Read Alouds: Grades 1-12",
+                  "Tall Tales/ Fables"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

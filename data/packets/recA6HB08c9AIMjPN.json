@@ -60,7 +60,21 @@
               "scheduleInfo": "Math Lessons: Grade 4\n5 times/week 20 min",
               "books": "RightStart Mathematics Level D 2nd Ed. Book Bundle"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 4",
+                "days": [
+                  "Math Games: Grades 1-8*Math Lessons: Grade 4",
+                  "Math Lessons: Grade 4",
+                  "Math Games: Grades 1-8*Math Lessons: Grade 4",
+                  "Math Lessons: Grade 4",
+                  "Math Games: Grades 1-8*Math Lessons: Grade 4"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

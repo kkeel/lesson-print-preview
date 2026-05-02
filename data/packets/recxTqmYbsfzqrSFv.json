@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 10-11\n2 times/week 40 min",
               "books": "Five Months on the Missouri River: Paddling a Dugout Canoe, Across This Land, Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs, All Over the Map: A Cartographic Odyssey"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 10-11",
+                "days": [
+                  "",
+                  "Geography: Grade 10-11",
+                  "",
+                  "Geography: Grade 10-11",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

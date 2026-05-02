@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 2 (Canada)\n2 times/week 20 min",
               "books": "Making Your Own Maps, The Kids Book of Canada, My Canada: An Illustrated Atlas, Canada Wild: Animals Found Nowhere Else on Earth, Our Canadian Flag"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 2 (Canada)",
+                "days": [
+                  "Geography: Grade 2 (Canada)",
+                  "",
+                  "Geography: Grade 2 (Canada)",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

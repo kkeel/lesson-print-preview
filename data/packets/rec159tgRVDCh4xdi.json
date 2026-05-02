@@ -46,7 +46,21 @@
               "scheduleInfo": "Poetry Study: Grade 11\n2 times/week 15 min",
               "books": "The Word Made Fresh, Poetry Anthology"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 11",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 11",
+                  "",
+                  "Poetry Reading: Grades 9-12*General Lit.: Grades 11-12*Poetry Study: Grade 11",
+                  "",
+                  "Plays: Grades 9-12*Poetry Reading: Grades 9-12*General Lit.: Grades 11-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

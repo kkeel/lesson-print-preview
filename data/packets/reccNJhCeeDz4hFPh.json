@@ -60,7 +60,21 @@
               "scheduleInfo": "Biology Lessons\n5 times/week 45 min",
               "books": "General Biology, 2nd Edition, The Biology Coloring Book, The Fool and the Heretic, The Spirit of the Rainforest"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Biology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Biology Lessons",
+                  "Biology Lessons",
+                  "Biology Lessons*Biology Labs",
+                  "Nature Notebook: Grades 9-12*Biology Lessons",
+                  "Biology Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

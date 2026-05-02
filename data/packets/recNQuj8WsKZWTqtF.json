@@ -60,7 +60,21 @@
               "scheduleInfo": "Lit./Mythology: Grade 3\n1 time/week 15 min",
               "books": "A Wonder Book for Girls and Boys, Pilgrim's Progress: Updated, Modern English"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 3",
+                "days": [
+                  "",
+                  "General Lit.: Grade 3",
+                  "",
+                  "Community Read Alouds: Grades 1-12*Lit./Mythology: Grade 3",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

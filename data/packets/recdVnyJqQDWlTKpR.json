@@ -56,7 +56,21 @@
               "scheduleInfo": "Latin 3\n2 times/week 30 min+",
               "books": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access), North American Cambridge Latin Unit 3 5th Ed. , Cambridge Latin Unit 3 Online Resources"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Latin 3",
+                "days": [
+                  "",
+                  "Latin 3",
+                  "",
+                  "Latin 3",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

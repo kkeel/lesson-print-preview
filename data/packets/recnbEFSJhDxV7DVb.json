@@ -60,7 +60,21 @@
               "scheduleInfo": "Food Science Lessons\n5 times/week 45 min",
               "books": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking, The Elements of Baking, Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island, Mexico in Your Kitchen, Classic Russian Cooking, Pomp and Sustenance, Celtic Folklore Cooking, Culinary Reactions: The Everyday Chemistry of Cooking"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Food Science",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Food Science Lessons",
+                  "Food Science Lessons",
+                  "Food Science Lessons*Food Science Labs",
+                  "Nature Notebook: Grades 9-12*Food Science Lessons",
+                  "Food Science Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

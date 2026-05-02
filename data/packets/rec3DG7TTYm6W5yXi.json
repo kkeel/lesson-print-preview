@@ -56,7 +56,21 @@
               "scheduleInfo": "Sloyd: Level 1\n1 time/week 15 min",
               "books": "Paper Sloyd for Primary Grades"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Sloyd: Level 1",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Sloyd: Level 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

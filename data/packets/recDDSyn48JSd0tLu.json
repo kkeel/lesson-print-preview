@@ -50,7 +50,21 @@
               "scheduleInfo": "Pre-Calculus: Part 1\n5 times/week 40 min",
               "books": "Home Study Companion: Precalculus"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 11",
+                "days": [
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11",
+                  "Mathematics: Grade 11"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

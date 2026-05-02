@@ -56,7 +56,21 @@
               "scheduleInfo": "History: Grades 2-3 (U.S.)\n1 time/week 20 min",
               "books": "Abraham Lincoln: An Initial Biography, Escape by Night: A Civil War Adventure, Dandelions, Buffalo Bird Girl: A Hidatsa Story, Coolies"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 2-3 (U.S.)",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "History: Grades 2-3 (U.S.)"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

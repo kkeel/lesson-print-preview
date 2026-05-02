@@ -78,7 +78,21 @@
               "scheduleInfo": "Canadian History: Grades 5-6\n1 time/week 25 min",
               "books": "The Story of Canada, Joe and the Wreck of the Tribune, Tecumseh, The Loxleys and Confederation"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 5-6 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 5-6",
+                  "",
+                  "World History: Grades 4-6",
+                  "Ancient History: Grades 5-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

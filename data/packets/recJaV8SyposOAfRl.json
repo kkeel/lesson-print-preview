@@ -62,7 +62,31 @@
               "scheduleInfo": "Ethics: Part 3\n1 time/week 25 min",
               "books": "Ourselves: Book 1"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 9 (U.S.)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (U.S.)"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 9 (Canada)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (Canada)"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

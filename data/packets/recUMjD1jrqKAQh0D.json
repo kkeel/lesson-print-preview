@@ -46,7 +46,21 @@
               "scheduleInfo": "Civics/Ethics: Grade 12\n1 time/week 40 min",
               "books": "Citizenship Without Illusions: A Christian Guide to Political Engagement, The Life We're Looking For: Reclaiming Relationship in a Technological World, Conscience: What It Is, How to Train It, and Loving Those Who Differ"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 12",
+                "days": [
+                  "Civics/Ethics: Grade 12",
+                  "",
+                  "Economics: Grade 12",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

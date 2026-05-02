@@ -60,7 +60,21 @@
               "scheduleInfo": "Canadian History: Grades 7-8\n2 times/week 30 min",
               "books": "The Story of Canada, Jeremy's War 1812, The Charlottetown Conference and the Birth of Confederation, Sophie's Rebellion, Elijah of Buxton"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 7-8 (Canada)",
+                "days": [
+                  "",
+                  "World History: Grades 7-8*Canadian History: Grades 7-8",
+                  "Ancient History: Grades 7-9",
+                  "Canadian History: Grades 7-8",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

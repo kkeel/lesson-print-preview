@@ -60,7 +60,21 @@
               "scheduleInfo": "Canadian History: Grades 11-12\n1 time/week 40 min\n1 time/week 30 min",
               "books": "A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land, Early Voices, Making of Canada: An Epic History in Twenty Extraordinary Lives, How Different It Was: Canadians at the Time of Confederation, The Unweaving"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 11-12 (Canada)",
+                "days": [
+                  "Canadian History: Grades 11-12",
+                  "Canadian History: Grades 11-12",
+                  "Ancient History: Grades 10-12",
+                  "World History: Grades 10-12",
+                  "Ancient History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

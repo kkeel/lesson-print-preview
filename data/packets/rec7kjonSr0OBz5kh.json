@@ -56,7 +56,21 @@
               "scheduleInfo": "Latin 1 (Independent Study)\n2 times/week 45 min",
               "books": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access), North American Cambridge Latin Unit 1 5th Ed. Student Book, Cambridge Latin Unit 1 Online Resources"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Latin 1 (Independent Study)",
+                "days": [
+                  "",
+                  "Latin 1 (Independent Study)",
+                  "",
+                  "Latin 1 (Independent Study)",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Bible Stories\n4 times/week 20 min",
               "books": "Hurlbut's Story of the Bible"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 1",
+                "days": [
+                  "Bible Stories",
+                  "Bible Stories",
+                  "Bible Stories",
+                  "Bible Stories*Church History: Grades 1-3",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

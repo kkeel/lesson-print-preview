@@ -60,7 +60,21 @@
               "scheduleInfo": "Plutarch/Government: Grade 9 (U.S.)\n1 time/week 30 min",
               "books": "The Plutarch Project Volume Three (Revised), Reading PDF"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 9 (U.S.)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (U.S.)"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

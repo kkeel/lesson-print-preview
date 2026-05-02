@@ -69,7 +69,21 @@
               "scheduleInfo": "Penmanship & Copywork: Grade 2\n5 times/week 10 min",
               "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book C"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 2",
+                "days": [
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

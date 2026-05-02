@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 8 (Canada)\n2 times/week 30 min",
               "books": "Canadian Student Atlas, Draw the Natural Wonders of Canada and Greenland: Geography Disguised as Fun, Vanished Beyond the Map"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 8 (Canada)",
+                "days": [
+                  "Geography: Grade 8 (Canada)",
+                  "",
+                  "Geography: Grade 8 (Canada)",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

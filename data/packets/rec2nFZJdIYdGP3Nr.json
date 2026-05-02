@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grades 4-6\n2 times/week 25 min",
               "books": "Student World Atlas 6th Ed., David Livingstone: African Explorer, Africa Is Not a Country"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grades 4-6",
+                "days": [
+                  "Geography: Grades 4-6",
+                  "",
+                  "",
+                  "",
+                  "Geography: Grades 4-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

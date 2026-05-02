@@ -69,7 +69,21 @@
               "scheduleInfo": "World History: Grades 4-6\n1 time/week 25 min",
               "books": "Under the Hawthorn Tree, William Wilberforce: The Freedom Fighter, Commodore Perry in the Land of the Shogun"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grade 4 (Canada)",
+                "days": [
+                  "",
+                  "",
+                  "Canadian History: Grades 2-4",
+                  "World History: Grades 4-6",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

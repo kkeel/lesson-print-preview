@@ -60,7 +60,21 @@
               "scheduleInfo": "General Lit.: Grades 5-6\n1 time/week 20 min",
               "books": "Little Women, Hans Brinker or The Silver Skates"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grades 5-6",
+                "days": [
+                  "Lit./Mythology: Grade 5-6",
+                  "",
+                  "General Lit.: Grades 5-6",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

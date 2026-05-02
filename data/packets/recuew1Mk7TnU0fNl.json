@@ -60,7 +60,21 @@
               "scheduleInfo": "Reading Level 1\n5 times/week 15 min",
               "books": "Reading-Literature: The Primer, Reading Lessons: Level 1 (Revised 2025)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 1",
+                "days": [
+                  "Reading Level 1*Penmanship & Copywork: Grade 1",
+                  "Reading Level 1*Penmanship & Copywork: Grade 1",
+                  "Reading Level 1*Penmanship & Copywork: Grade 1",
+                  "Reading Level 1*Penmanship & Copywork: Grade 1",
+                  "Reading Level 1*Penmanship & Copywork: Grade 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

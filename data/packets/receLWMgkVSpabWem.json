@@ -60,7 +60,21 @@
               "scheduleInfo": "Spiritual Formation: Grades 10-11\n1 time/week 30 min",
               "books": "Reading the Bible for a Change, God of All Things"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 10-11",
+                "days": [
+                  "Old Testament: Grades 7-12*Spiritual Formation: Grades 10-11",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grades 10-11",
+                  "",
+                  "Church History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

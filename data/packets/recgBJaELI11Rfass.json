@@ -56,7 +56,21 @@
               "scheduleInfo": "Recitation: Grades 7-8\n5 times/week 10 min",
               "books": "Our Work: Grades 7-8"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Recitation: Grades 7-8",
+                "days": [
+                  "Recitation: Grades 7-8",
+                  "Recitation: Grades 7-8",
+                  "Recitation: Grades 7-8",
+                  "Recitation: Grades 7-8",
+                  "Recitation: Grades 7-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

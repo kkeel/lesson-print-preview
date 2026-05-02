@@ -60,7 +60,21 @@
               "scheduleInfo": "Reading Level 3\n5 times/week 15 min",
               "books": "Reading-Literature: Second Reader, Reading Lessons: Level 3"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 3",
+                "days": [
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3*Written Narration: Grade 3"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

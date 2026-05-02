@@ -60,7 +60,21 @@
               "scheduleInfo": "Natural History: Grade 1\n1 time/week 10 min",
               "books": "Walks with a Naturalist: Living Nature Reader Volume 1"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 1",
+                "days": [
+                  "Natural History: Grade 1*Nature Walks & Scouting: Grades 1-8",
+                  "Nature Notebook: Grade 1",
+                  "",
+                  "General Science: Grade 1",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

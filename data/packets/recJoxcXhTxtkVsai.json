@@ -78,7 +78,21 @@
               "scheduleInfo": "Mythology: Grade 2\n1 time/week 15 min",
               "books": "A Wonder Book for Girls and Boys"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 2",
+                "days": [
+                  "",
+                  "Classic Lit.: Grade 2",
+                  "",
+                  "Community Read Alouds: Grades 1-12*Mythology: Grade 2",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

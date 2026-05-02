@@ -87,7 +87,21 @@
               "scheduleInfo": "Nature Notebook: Grade 3\n1+ time/week 10 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 3",
+                "days": [
+                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 3",
+                  "Nature Notebook: Grade 3",
+                  "Natural History: Grade 3",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

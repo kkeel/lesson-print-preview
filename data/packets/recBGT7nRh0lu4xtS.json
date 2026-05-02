@@ -56,7 +56,21 @@
               "scheduleInfo": "Sloyd: Level 4\n1 time/week 30 min",
               "books": "Sloyd"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Sloyd: Level 4",
+                "days": [
+                  "",
+                  "",
+                  "Sloyd: Level 4",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

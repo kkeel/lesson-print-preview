@@ -62,7 +62,31 @@
               "scheduleInfo": "Canadian History: Grades 2-4\n1 time/week 20 min",
               "books": "The Kids Book of Canadian History, The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs, Laura Secord's Brave Walk, Born!: A Foal, Five Kittens and Confederation, Belle of Batoche, I Am Not a Ghost: The Canadian Pacific Railway"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 2-3 (Canada)",
+                "days": [
+                  "",
+                  "",
+                  "Canadian History: Grades 2-4",
+                  "",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grade 4 (Canada)",
+                "days": [
+                  "",
+                  "",
+                  "Canadian History: Grades 2-4",
+                  "World History: Grades 4-6",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

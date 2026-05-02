@@ -56,7 +56,21 @@
               "scheduleInfo": "Art: Fast Track\n2 times/week 30 min",
               "books": "Drawing, Design, and Craft-Work, Brushwork: Elementary Brush-Forms"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art: Fast Track",
+                "days": [
+                  "",
+                  "Art: Fast Track",
+                  "",
+                  "Art: Fast Track",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

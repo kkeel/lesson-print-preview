@@ -50,7 +50,21 @@
               "scheduleInfo": "Canadian Government: Grade 7\n1 time/week 25 min",
               "books": "Who Runs This Country, Anyway?"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 7 (Canada)",
+                "days": [
+                  "Ethics: Part 1",
+                  "",
+                  "Canadian Government: Grade 7",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

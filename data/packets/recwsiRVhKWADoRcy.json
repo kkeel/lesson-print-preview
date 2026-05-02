@@ -50,7 +50,21 @@
               "scheduleInfo": "Poetry Study: Grade 7\n1 time/week 20 min",
               "books": "What Is Poetry?"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Poetry: Grade 7",
+                "days": [
+                  "Poetry Reading: Grade 7",
+                  "Poetry Reading: Grade 7",
+                  "Poetry Reading: Grade 7",
+                  "Poetry Reading: Grade 7",
+                  "Poetry Study: Grade 7"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Poetry Study: Grade 10\n2 times/week 15 min",
               "books": "The Word Made Fresh, Poetry Anthology"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 10",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 10",
+                  "",
+                  "General Lit.: Grades 9-10*Poetry Reading: Grades 9-12",
+                  "Poetry Study: Grade 10",
+                  "General Lit.: Grades 9-10*Plays: Grades 9-12*Poetry Reading: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

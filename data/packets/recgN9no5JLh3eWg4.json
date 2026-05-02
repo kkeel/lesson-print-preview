@@ -60,7 +60,21 @@
               "scheduleInfo": "Plutarch/Government: Grade 9 (Canada)\n1 time/week 30 min",
               "books": "The Plutarch Project Volume Three (Revised), Canada's Constitutional Monarchy"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 9 (Canada)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (Canada)"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

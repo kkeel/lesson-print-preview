@@ -60,7 +60,21 @@
               "scheduleInfo": "Church History: Grades 4-6\n1 time/week 20 min",
               "books": "Hudson Taylor: Deep in the Heart of China, Trial by Poison: Mary Slessor"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 4-6",
+                "days": [
+                  "Old Testament: Grades 3-6",
+                  "New Testament: Grades 3-6",
+                  "Old Testament: Grades 3-6",
+                  "New Testament: Grades 3-6",
+                  "Church History: Grades 4-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

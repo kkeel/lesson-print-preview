@@ -62,7 +62,51 @@
               "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
               "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 7-8",
+                "days": [
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grades 7-8",
+                  "Old Testament: Grades 7-12",
+                  "Church History: Grades 7-9",
+                  "Spiritual Formation: Grades 7-8"
+                ]
+              },
+              {
+                "label": "Bible: Grade 9",
+                "days": [
+                  "Old Testament: Grades 7-12*Bible History: Grade 9",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 9",
+                  "Church History: Grades 7-9",
+                  ""
+                ]
+              },
+              {
+                "label": "Bible: Grades 10-11",
+                "days": [
+                  "Old Testament: Grades 7-12*Spiritual Formation: Grades 10-11",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grades 10-11",
+                  "",
+                  "Church History: Grades 10-12"
+                ]
+              },
+              {
+                "label": "Bible: Grade 12",
+                "days": [
+                  "Old Testament: Grades 7-12*Spiritual Formation: Grade 12",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 12",
+                  "",
+                  "Church History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

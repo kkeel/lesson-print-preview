@@ -60,7 +60,21 @@
               "scheduleInfo": "Composition: Grade 12\n4 times/week 40 min",
               "books": "Caring for Words in a Culture of Lies (2nd ed.), Advanced Academic Writing II Teacher Manual, The Craft of Research"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 12",
+                "days": [
+                  "Composition: Grade 12",
+                  "Composition: Grade 12",
+                  "Commonplace: Grades 9-12*Composition: Grade 12",
+                  "",
+                  "Composition: Grade 12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

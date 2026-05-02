@@ -60,7 +60,21 @@
               "scheduleInfo": "Algebra 1: Part 1\n3 times/week 40 min",
               "books": "Elementary Algebra Teacher Guide (Revised Edition), Elementary Algebra Student Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 8",
+                "days": [
+                  "Math Games: Grades 1-8*Algebra 1: Part 1",
+                  "Geometry: Grade 8",
+                  "Math Games: Grades 1-8*Algebra 1: Part 1",
+                  "Geometry: Grade 8",
+                  "Math Games: Grades 1-8*Algebra 1: Part 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

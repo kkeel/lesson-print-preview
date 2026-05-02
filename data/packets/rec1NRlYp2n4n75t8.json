@@ -46,7 +46,21 @@
               "scheduleInfo": "History: Grade 1 (Canada)\n1 time/week 10 min",
               "books": "The Honour Drum, Thirteen Moons on Turtle's Back: A Native American Year of Moons, The Pencil, Maple Moon, The Gift of the Great Buffalo, On the Trapline, Hiawatha and the Peacemaker"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grade 1 (Canada)",
+                "days": [
+                  "",
+                  "History: Grade 1 (Canada)",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -56,7 +56,21 @@
               "scheduleInfo": "Sloyd: Level 7\n1 time/week 45 min",
               "books": "Folding Techniques for Designers"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Sloyd: Level 7",
+                "days": [
+                  "",
+                  "",
+                  "Sloyd: Level 7",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

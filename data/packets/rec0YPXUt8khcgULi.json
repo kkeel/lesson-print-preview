@@ -62,7 +62,31 @@
               "scheduleInfo": "U.S. History: Grades 4-6\n1 time/week 25 min",
               "books": "Heart and Soul: The Story of America and African Americans, SeaMan: The Dog Who Explored The West With Lewis & Clark, Lincoln: A Photobiography, Children of the Wild West"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grade 4 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 4-6",
+                  "",
+                  "World History: Grades 4-6",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grades 5-6 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 4-6",
+                  "",
+                  "World History: Grades 4-6",
+                  "Ancient History: Grades 5-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

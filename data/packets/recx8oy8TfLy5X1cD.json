@@ -60,7 +60,21 @@
               "scheduleInfo": "New Testament: Grades 7-8\n1 time/week 30 min",
               "books": "ESV Concise Study Bible, The Student Bible Atlas, Revised Edition, Introducing the New Testament: A Historical, Literary, and Theological Survey"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 7-8",
+                "days": [
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grades 7-8",
+                  "Old Testament: Grades 7-12",
+                  "Church History: Grades 7-9",
+                  "Spiritual Formation: Grades 7-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

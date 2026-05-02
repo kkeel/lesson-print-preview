@@ -60,7 +60,21 @@
               "scheduleInfo": "Written Narration: Grade 3\n1 time/week 10 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 3",
+                "days": [
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3",
+                  "Reading Level 3*Penmanship & Copywork: Grade 3*Written Narration: Grade 3"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

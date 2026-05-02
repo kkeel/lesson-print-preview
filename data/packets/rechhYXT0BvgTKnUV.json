@@ -46,7 +46,21 @@
               "scheduleInfo": "Mathematics: Grade 10 (Denison)\n5 times/week 40 min",
               "books": "Denison Algebra 2"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 10 (Denison)",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

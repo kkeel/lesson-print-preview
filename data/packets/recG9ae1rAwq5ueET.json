@@ -60,7 +60,21 @@
               "scheduleInfo": "Reading Level 2\n5 times/week 15 min",
               "books": "Reading-Literature: First Reader, Reading Lessons: Level 2 (Revised 2025)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 2",
+                "days": [
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2",
+                  "Reading Level 2*Penmanship & Copywork: Grade 2"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

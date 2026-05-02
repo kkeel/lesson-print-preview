@@ -56,7 +56,21 @@
               "scheduleInfo": "Keyboarding\n2 times/week 30 min",
               "books": "Typing.com"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Keyboarding",
+                "days": [
+                  "",
+                  "Keyboarding",
+                  "",
+                  "",
+                  "Keyboarding"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

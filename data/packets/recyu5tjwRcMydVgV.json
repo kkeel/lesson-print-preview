@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 7 (U.S.)\n2 times/week 30 min",
               "books": "Student World Atlas 6th Ed., United States Atlas 7th Ed., Mapping the World with Art, This Strange Wilderness: The Life and Art of John James Audubon"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 7 (U.S.)",
+                "days": [
+                  "Geography: Grade 7 (U.S.)",
+                  "",
+                  "Geography: Grade 7 (U.S.)",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

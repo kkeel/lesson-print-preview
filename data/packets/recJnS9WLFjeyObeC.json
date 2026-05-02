@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 8 (U.S.)\n2 times/week 30 min",
               "books": "Our States Have Crazy Shapes, United States Atlas 7th Ed., Student World Atlas 6th Ed., Westward with Fremont: The Story of Solomon Carvalho, This Strange Wilderness: The Life and Art of John James Audubon"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 8 (U.S.)",
+                "days": [
+                  "Geography: Grade 8 (U.S.)",
+                  "",
+                  "Geography: Grade 8 (U.S.)",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

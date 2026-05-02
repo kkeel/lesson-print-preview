@@ -96,7 +96,21 @@
               "scheduleInfo": "Nature Notebook: Grade 5\n1+ time/week 15 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 5",
+                "days": [
+                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 5",
+                  "Nature Notebook: Grade 5",
+                  "Natural History: Grade 5",
+                  "",
+                  "Labs: Grade 5"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

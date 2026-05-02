@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 9\n2 times/week 30 min",
               "books": "Prisoners of Geography: Ten Maps That Explain Everything About the World, Five Months on the Missouri River: Paddling a Dugout Canoe"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 9",
+                "days": [
+                  "",
+                  "Geography: Grade 9",
+                  "",
+                  "Geography: Grade 9",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

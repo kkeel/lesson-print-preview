@@ -56,7 +56,21 @@
               "scheduleInfo": "Picture Study\n1 time/week 10 min\n1 time/week 15 min\n1 time/week 20 min\n1 time/week 20 min",
               "books": "Redeeming Vision, Art Print Set, Our Work: Grades 1-2, Our Work: Grade 3, Our Work: Grades 4-6, Our Work: Grades 7-8, Our Work: Grades 9-12, A Passion for the Impossible: The Life of Lilias Trotter, Van Gogh"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Picture Study",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Picture Study"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -78,7 +78,21 @@
               "scheduleInfo": "Church History: Grades 1-3\n1 time/week 20 min",
               "books": "The Bandit of Ashley Downs: George Muller, Adoniram Judson: Danger on the Streets of Gold"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 2",
+                "days": [
+                  "Old Testament: Grade 2",
+                  "New Testament: Grade 2",
+                  "Old Testament: Grade 2",
+                  "Church History: Grades 1-3",
+                  "Old Testament: Grade 2"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

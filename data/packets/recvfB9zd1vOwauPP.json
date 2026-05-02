@@ -56,7 +56,21 @@
               "scheduleInfo": "Lower Spanish: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
               "books": "Diez Deditos (Audio mp3), Spanish: Student Notebook, Fábulas de Esopo: Edición Clásica, Family Pictures/Cuadros de familia, Diez Deditos and Other Play Rhymes and Action Songs from Latin America, Spanish: Grades 1-6 SoundCloud Playlists"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Lower Spanish: Grades 1-6",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

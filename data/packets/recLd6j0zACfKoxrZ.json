@@ -46,7 +46,21 @@
               "scheduleInfo": "Poetry: Grades 1-4\n5 times/week 5 min",
               "books": "The Crescent Moon, Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry, Gladiola Garden, Emma's Poem: The Voice of the Statue of Liberty"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Poetry: Grades 1-4",
+                "days": [
+                  "Poetry: Grades 1-4",
+                  "Poetry: Grades 1-4",
+                  "Poetry: Grades 1-4",
+                  "Poetry: Grades 1-4",
+                  "Poetry: Grades 1-4"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

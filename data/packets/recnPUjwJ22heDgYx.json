@@ -96,7 +96,21 @@
               "scheduleInfo": "Ethics: Part 1\n1 time/week 25 min",
               "books": "Ourselves: Book 1"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 7 (U.S.)",
+                "days": [
+                  "Ethics: Part 1",
+                  "",
+                  "American Government: Grade 7",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

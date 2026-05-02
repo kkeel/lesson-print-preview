@@ -56,7 +56,21 @@
               "scheduleInfo": "Art: Level 4\n2 times/week 30 min",
               "books": "Drawing, Design, and Craft-Work, Brush Drawing as Applied to Natural Forms and Common Objects"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art: Level 4",
+                "days": [
+                  "",
+                  "Art: Level 4",
+                  "",
+                  "Art: Level 4",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

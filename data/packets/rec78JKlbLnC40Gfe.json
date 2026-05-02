@@ -50,7 +50,21 @@
               "scheduleInfo": "Math Lessons: Grade 7 (Denison)\n5 times/week 30 min",
               "books": "Denison Pre-Algebra"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 7 (Denison)",
+                "days": [
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Sol-fa: Level 2\n1 time/week 10 min",
               "books": "Sol-fa Level 2 Audio/Video Lessons"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Level 2",
+                "days": [
+                  "Sol-fa: Level 2",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening*Composer Study",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

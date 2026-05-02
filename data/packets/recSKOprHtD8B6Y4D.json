@@ -60,7 +60,21 @@
               "scheduleInfo": "Sol-fa: Level 1\n1 time/week 10 min",
               "books": "Sol-fa Level 1 Audio Lessons"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Level 1",
+                "days": [
+                  "Sol-fa: Level 1",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening*Composer Study",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

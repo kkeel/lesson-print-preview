@@ -60,7 +60,21 @@
               "scheduleInfo": "Grammar/Comp: Grade 8\n2 times/week 20 min\n2 times/week 15 min",
               "books": "Grammar Voyage, Grammar Voyage Teacher Manual (select pages), Practice Voyage, Practice Voyage Teacher Manual (select pages)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 8",
+                "days": [
+                  "Written Narration: Grade 8*Copywork: Grade 8",
+                  "Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
+                  "Dictation: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
+                  "Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
+                  "Dictation: Grade 8*Written Narration: Grade 8*Copywork: Grade 8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -103,7 +103,21 @@
               "scheduleInfo": "Shared course resources",
               "books": "Our Work: Grades 1-2, Hymns, Spirituals, & Folk Songs PDF"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Level 1",
+                "days": [
+                  "Sol-fa: Level 1",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening*Composer Study",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

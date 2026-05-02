@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 3 (Canada)\n2 times/week 20 min",
               "books": "The Kids Book of Canada, My Canada: An Illustrated Atlas, Canada Wild: Animals Found Nowhere Else on Earth"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 3 (Canada)",
+                "days": [
+                  "Geography: Grade 3 (Canada)",
+                  "",
+                  "Geography: Grade 3 (Canada)",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

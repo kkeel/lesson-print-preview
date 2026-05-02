@@ -52,7 +52,31 @@
               "scheduleInfo": "Canadian History: Grades 9-10\n1 time/week 40 min\n1 time/week 30 min",
               "books": "The Underground Railroad: Next Stop, Toronto!, Early Voices, Sophie's Rebellion, Vanished Beyond the Map, Red Wolf, The Charlottetown Conference and the Birth of Confederation"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grade 9 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 9-10",
+                  "Ancient History: Grades 7-9",
+                  "World History: Grade 9*Canadian History: Grades 9-10",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grade 10 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 9-10",
+                  "Ancient History: Grades 10-12",
+                  "Canadian History: Grades 9-10*World History: Grades 10-12",
+                  "Ancient History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Composition: Grade 11\n4 times/week 40 min",
               "books": "Advanced Academic Writing II Teacher Manual, Steering the Craft: A Twenty-First Century Guide to Sailing the Sea of Story, Communicating with Grace and Virtue: Learning to Listen, Speak, Text, and Interact as a Christian"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 11",
+                "days": [
+                  "Composition: Grade 11",
+                  "Composition: Grade 11",
+                  "Commonplace: Grades 9-12*Composition: Grade 11",
+                  "",
+                  "Composition: Grade 11"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

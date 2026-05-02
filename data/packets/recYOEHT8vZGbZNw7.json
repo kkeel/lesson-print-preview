@@ -60,7 +60,21 @@
               "scheduleInfo": "Labs: Grade 6\n1 time/week 30 min",
               "books": "Science: Grade 6 Lab Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 6",
+                "days": [
+                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 6",
+                  "Nature Notebook: Grade 6",
+                  "General Science: Grade 6",
+                  "Natural History: Grade 6",
+                  "Labs: Grade 6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

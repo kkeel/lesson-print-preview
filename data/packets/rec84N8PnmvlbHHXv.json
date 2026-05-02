@@ -87,7 +87,21 @@
               "scheduleInfo": "History of Lit: Grades 9-12\n1 time/week 30 min",
               "books": "English Literature for Boys and Girls, American Literature, History of Literature PDF"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 11",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 11",
+                  "",
+                  "Poetry Reading: Grades 9-12*General Lit.: Grades 11-12*Poetry Study: Grade 11",
+                  "",
+                  "Plays: Grades 9-12*Poetry Reading: Grades 9-12*General Lit.: Grades 11-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

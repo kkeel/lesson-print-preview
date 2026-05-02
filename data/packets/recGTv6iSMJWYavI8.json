@@ -60,7 +60,21 @@
               "scheduleInfo": "Sol-fa: Level 3\n1 time/week 15 min",
               "books": "Fifty Steps in Sight-Singing, Sol-fa Level 3 Audio Lessons"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Level 3",
+                "days": [
+                  "Sol-fa: Level 3",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening*Composer Study",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

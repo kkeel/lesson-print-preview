@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 12\n2 times/week 40 min",
               "books": "Five Months on the Missouri River: Paddling a Dugout Canoe, Across This Land, Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs, A Brief History of the World in 47 Borders: Surprising Stories Behind the Lines on Our Maps"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 12",
+                "days": [
+                  "",
+                  "Geography: Grade 12",
+                  "",
+                  "Geography: Grade 12",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

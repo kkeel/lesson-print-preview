@@ -62,7 +62,31 @@
               "scheduleInfo": "General Lit.: Grades 9-10\n2 times/week 30 min",
               "books": "Up from Slavery, Frankenstein, Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Silas Marner, Short stories and other writings"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 9",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 9",
+                  "",
+                  "General Lit.: Grades 9-10*Poetry Study: Grade 9*Poetry Reading: Grades 9-12",
+                  "",
+                  "General Lit.: Grades 9-10*Plays: Grades 9-12*Poetry Reading: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Literature: Grade 10",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 10",
+                  "",
+                  "General Lit.: Grades 9-10*Poetry Reading: Grades 9-12",
+                  "Poetry Study: Grade 10",
+                  "General Lit.: Grades 9-10*Plays: Grades 9-12*Poetry Reading: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -50,7 +50,21 @@
               "scheduleInfo": "Biology Labs\n1 time/week 60 min",
               "books": "Alveary Biology Lab Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Biology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Biology Lessons",
+                  "Biology Lessons",
+                  "Biology Lessons*Biology Labs",
+                  "Nature Notebook: Grades 9-12*Biology Lessons",
+                  "Biology Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

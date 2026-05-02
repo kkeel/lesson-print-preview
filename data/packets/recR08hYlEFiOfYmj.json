@@ -60,7 +60,21 @@
               "scheduleInfo": "Econ/Civics: Grade 11 (Canada)\n1 time/week 40 min",
               "books": "The Art of Asking Better Questions, The Prime Ministers: Canada's Leaders and the Nation They Shaped, What Would Keynes Do?"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 11 (Canada)",
+                "days": [
+                  "Econ/Civics: Grade 11 (Canada)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

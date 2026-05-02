@@ -56,7 +56,21 @@
               "scheduleInfo": "Art: High School Fast Track\n2 times/week 45 min",
               "books": "Drawing, Design, and Craft-Work, Color: A Course in Mastering the Art of Mixing Colors, Brushwork: Elementary Brush-Forms, Brush Drawing as Applied to Natural Forms and Common Objects"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art: High School Fast Track",
+                "days": [
+                  "",
+                  "Art: High School Fast Track",
+                  "",
+                  "Art: High School Fast Track",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

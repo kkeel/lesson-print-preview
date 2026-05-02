@@ -60,7 +60,21 @@
               "scheduleInfo": "General Lit.: Grade 4\n1 time/week 20 min",
               "books": "The Lion, the Witch and the Wardrobe, Hans Brinker or The Silver Skates"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 4",
+                "days": [
+                  "",
+                  "General Lit.: Grade 4",
+                  "",
+                  "Mythology/Hist. Fiction: Grade 4",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

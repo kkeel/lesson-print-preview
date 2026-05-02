@@ -56,7 +56,21 @@
               "scheduleInfo": "Lettering: Level 1\n1 time/week 20 min",
               "books": "The Complete Book of Chalk Lettering"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Lettering: Level 1",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "Lettering: Level 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

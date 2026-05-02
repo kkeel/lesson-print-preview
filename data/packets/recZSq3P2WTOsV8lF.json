@@ -78,7 +78,21 @@
               "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 1",
+                "days": [
+                  "",
+                  "",
+                  "Fairy Tales",
+                  "Community Read Alouds: Grades 1-12",
+                  "Tall Tales/ Fables"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -50,7 +50,21 @@
               "scheduleInfo": "Calculus: Part 1\n5 times/week 40 min",
               "books": "Home Study Companion: Calculus"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 12",
+                "days": [
+                  "Mathematics: Grade 12",
+                  "Mathematics: Grade 12",
+                  "Mathematics: Grade 12",
+                  "Mathematics: Grade 12",
+                  "Mathematics: Grade 12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

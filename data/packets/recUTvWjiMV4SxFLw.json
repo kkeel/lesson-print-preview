@@ -60,7 +60,21 @@
               "scheduleInfo": "Plutarch: Beginner Track\n1 time/week 30 min",
               "books": "The Plutarch Project Primer: Publicola (Revised)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 5",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Plutarch: Beginner Track*Current Events: Grades 5-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

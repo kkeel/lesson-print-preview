@@ -56,7 +56,21 @@
               "scheduleInfo": "Sol-fa: Fast Track\n1 time/week 15 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Sol-fa: Fast Track",
+                "days": [
+                  "Sol-fa: Fast Track",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

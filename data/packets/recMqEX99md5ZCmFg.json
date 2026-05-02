@@ -62,7 +62,31 @@
               "scheduleInfo": "General Lit.: Grades 11-12\n2 times/week 30 min",
               "books": "Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Up from Slavery, The Count of Monte Cristo, Jane Eyre, James, Short stories and other writings, Things Fall Apart"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 11",
+                "days": [
+                  "History of Lit: Grades 9-12*Poetry Study: Grade 11",
+                  "",
+                  "Poetry Reading: Grades 9-12*General Lit.: Grades 11-12*Poetry Study: Grade 11",
+                  "",
+                  "Plays: Grades 9-12*Poetry Reading: Grades 9-12*General Lit.: Grades 11-12"
+                ]
+              },
+              {
+                "label": "Literature: Grade 12",
+                "days": [
+                  "History of Lit: Grades 9-12",
+                  "",
+                  "Poetry Reading: Grades 9-12*General Lit.: Grades 11-12",
+                  "",
+                  "Plays: Grades 9-12*Poetry Reading: Grades 9-12*General Lit.: Grades 11-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -60,7 +60,21 @@
               "scheduleInfo": "Historic Dancing\n1 time/week 20 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "PE: Grades 7-12",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Historic Dancing"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

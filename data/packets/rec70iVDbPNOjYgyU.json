@@ -60,7 +60,21 @@
               "scheduleInfo": "Microbiology Lessons\n5 times/week 45 min",
               "books": "I Contain Multitudes, A Field Guide to Bacteria , A Planet of Viruses, Microbe Hunters, The Immortal Life of Henrietta Lacks, Micro Life, Growing a Revolution: Bringing Our Soil Back to Life"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Microbiology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Microbiology Lessons",
+                  "Microbiology Lessons",
+                  "Microbiology Lessons*Microbiology Labs",
+                  "Nature Notebook: Grades 9-12*Microbiology Lessons",
+                  "Microbiology Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

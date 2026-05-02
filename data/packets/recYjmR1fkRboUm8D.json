@@ -56,7 +56,21 @@
               "scheduleInfo": "Art History\n2 times/week 45 min",
               "books": "The Arts: A Visual Encyclopedia, Children's Book of Art"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art History",
+                "days": [
+                  "",
+                  "Art History",
+                  "",
+                  "Art History",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

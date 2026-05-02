@@ -60,7 +60,21 @@
               "scheduleInfo": "Grammar/Comp: Grade 9\n2 times/week 20 min\n2 times/week 30 min",
               "books": "Essay Voyage, Essay Voyage Teacher Manual (select pages)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 9",
+                "days": [
+                  "Grammar/Comp: Grade 9",
+                  "Grammar/Comp: Grade 9",
+                  "Dictation: Grade 9*Commonplace: Grades 9-12",
+                  "Grammar/Comp: Grade 9",
+                  "Grammar/Comp: Grade 9"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

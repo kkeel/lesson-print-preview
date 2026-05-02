@@ -87,7 +87,21 @@
               "scheduleInfo": "Astronomy Labs\n1 time/week 60 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Astronomy",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons",
+                  "Astronomy Lessons*Astronomy Labs",
+                  "Nature Notebook: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

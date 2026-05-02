@@ -50,7 +50,21 @@
               "scheduleInfo": "New Testament: Grade 2\n1 time/week 20 min",
               "books": "ESV Large Print Bible, God's Bible Timeline: The Big Book of Biblical History, The Bible Story Handbook"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 2",
+                "days": [
+                  "Old Testament: Grade 2",
+                  "New Testament: Grade 2",
+                  "Old Testament: Grade 2",
+                  "Church History: Grades 1-3",
+                  "Old Testament: Grade 2"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

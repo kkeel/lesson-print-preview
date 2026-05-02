@@ -78,7 +78,21 @@
               "scheduleInfo": "Composition: Grade 10\n3 times/week 40 min",
               "books": "Style: The Basics of Clarity & Grace 5th ed."
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 10",
+                "days": [
+                  "Grammar: Grade 10",
+                  "Composition: Grade 10",
+                  "Commonplace: Grades 9-12*Composition: Grade 10",
+                  "",
+                  "Composition: Grade 10"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

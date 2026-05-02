@@ -56,7 +56,21 @@
               "scheduleInfo": "Latin 2 (Video Course)\n2 times/week 45 min\n2 times/week 15 min",
               "books": "Alveary Exclusive Cambridge Latin Unit 2 Online Course, North American Cambridge Latin Unit 2 5th Ed. Student Book, Lars Romam Odit: A Latin Novella"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Latin 2 (Video Course)",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

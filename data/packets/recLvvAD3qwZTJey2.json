@@ -54,7 +54,41 @@
               "scheduleInfo": "World History: Grades 10-12\n1 time/week 30 min",
               "books": "When America First Met China, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 10-12 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 9-12",
+                  "Ancient History: Grades 10-12",
+                  "U.S. History: Grades 9-12*World History: Grades 10-12",
+                  "Ancient History: Grades 10-12"
+                ]
+              },
+              {
+                "label": "History: Grade 10 (Canada)",
+                "days": [
+                  "",
+                  "Canadian History: Grades 9-10",
+                  "Ancient History: Grades 10-12",
+                  "Canadian History: Grades 9-10*World History: Grades 10-12",
+                  "Ancient History: Grades 10-12"
+                ]
+              },
+              {
+                "label": "History: Grades 11-12 (Canada)",
+                "days": [
+                  "Canadian History: Grades 11-12",
+                  "Canadian History: Grades 11-12",
+                  "Ancient History: Grades 10-12",
+                  "World History: Grades 10-12",
+                  "Ancient History: Grades 10-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

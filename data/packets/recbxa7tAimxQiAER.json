@@ -103,7 +103,21 @@
               "scheduleInfo": "Shared course resources",
               "books": "Our Work: Grades 1-2, Hymns, Spirituals, & Folk Songs PDF"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Intro",
+                "days": [
+                  "Sol-fa: Musical Games",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening",
+                  "Music Appreciation"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

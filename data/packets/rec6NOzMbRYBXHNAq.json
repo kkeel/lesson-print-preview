@@ -60,7 +60,21 @@
               "scheduleInfo": "Grammar: Grade 5\n2 times/week 15 min",
               "books": "Sentence Island, Practice Island, Practice Island Teacher Manual (select pages)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 5",
+                "days": [
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Grammar: Grade 5*Penmanship & Copywork: Grade 5",
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Grammar: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

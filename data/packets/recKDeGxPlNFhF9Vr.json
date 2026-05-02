@@ -50,7 +50,21 @@
               "scheduleInfo": "Introduction to Engineering Labs\n1 time/week 60 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Introduction to Engineering",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons*Introduction to Engineering Labs",
+                  "Nature Notebook: Grades 9-12*Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

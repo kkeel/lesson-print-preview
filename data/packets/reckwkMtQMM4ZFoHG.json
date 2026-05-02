@@ -60,7 +60,21 @@
               "scheduleInfo": "General Lit.: Grade 3\n1 time/week 15 min",
               "books": "Charlotte's Web, Heart of a Samurai"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 3",
+                "days": [
+                  "",
+                  "General Lit.: Grade 3",
+                  "",
+                  "Community Read Alouds: Grades 1-12*Lit./Mythology: Grade 3",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

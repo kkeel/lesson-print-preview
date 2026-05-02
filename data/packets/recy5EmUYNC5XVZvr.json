@@ -62,7 +62,31 @@
               "scheduleInfo": "Ethics: Part 5\n1 time/week 20 min",
               "books": "Ourselves Book 2: Self-Direction"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 11 (U.S.)",
+                "days": [
+                  "Econ/Civics: Grade 11 (U.S.)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 11 (Canada)",
+                "days": [
+                  "Econ/Civics: Grade 11 (Canada)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

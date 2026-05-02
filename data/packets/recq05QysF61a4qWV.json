@@ -56,7 +56,21 @@
               "scheduleInfo": "Art: Level 8\n2 times/week 45 min",
               "books": "Drawing, Design, and Craft-Work"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Art: Level 8",
+                "days": [
+                  "Art: Level 8",
+                  "",
+                  "",
+                  "",
+                  "Art: Level 8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

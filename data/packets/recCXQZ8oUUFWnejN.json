@@ -60,7 +60,21 @@
               "scheduleInfo": "Natural History: Grade 2\n1 time/week 10 min",
               "books": "Walks with a Naturalist: Living Nature Reader Volume 2"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 2",
+                "days": [
+                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 2*Nature Notebook: Grade 2",
+                  "",
+                  "Natural History: Grade 2",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

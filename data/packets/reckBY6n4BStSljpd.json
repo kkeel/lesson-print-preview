@@ -62,7 +62,31 @@
               "scheduleInfo": "Church History: Grades 7-9\n1 time/week 30 min",
               "books": "Spurgeon: A Biography, Renewal: The Church That Expands Outward, An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 7-8",
+                "days": [
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grades 7-8",
+                  "Old Testament: Grades 7-12",
+                  "Church History: Grades 7-9",
+                  "Spiritual Formation: Grades 7-8"
+                ]
+              },
+              {
+                "label": "Bible: Grade 9",
+                "days": [
+                  "Old Testament: Grades 7-12*Bible History: Grade 9",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 9",
+                  "Church History: Grades 7-9",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

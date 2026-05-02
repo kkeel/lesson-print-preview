@@ -60,7 +60,21 @@
               "scheduleInfo": "Econ/Civics: Grade 11 (U.S.)\n1 time/week 40 min",
               "books": "The Art of Asking Better Questions, Reading PDF, What Would Keynes Do?"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 11 (U.S.)",
+                "days": [
+                  "Econ/Civics: Grade 11 (U.S.)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

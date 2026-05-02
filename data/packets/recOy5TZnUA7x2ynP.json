@@ -60,7 +60,21 @@
               "scheduleInfo": "General Science: Grade 1\n1 time/week 15 min",
               "books": "Over and Under the Pond, Bat Loves the Night, Winter Sleep: A Hibernation Story, A Fruit is a Suitcase for Seeds, Up in the Garden and Down in the Dirt, A House Spider's Life"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Grade 1",
+                "days": [
+                  "Natural History: Grade 1*Nature Walks & Scouting: Grades 1-8",
+                  "Nature Notebook: Grade 1",
+                  "",
+                  "General Science: Grade 1",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

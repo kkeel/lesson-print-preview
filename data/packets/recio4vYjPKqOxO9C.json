@@ -56,7 +56,21 @@
               "scheduleInfo": "Geography: Grade 1\n2 times/week 15 min",
               "books": "Elementary Geography, Me on the Map, What Makes Day and Night, United States Atlas 7th Ed., The Reasons for Seasons, Down Comes the Rain"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Geography: Grade 1",
+                "days": [
+                  "Geography: Grade 1",
+                  "",
+                  "",
+                  "Geography: Grade 1",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

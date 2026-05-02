@@ -60,7 +60,21 @@
               "scheduleInfo": "Math Lessons: Grade 1\n5 times/week 20 min",
               "books": "RightStart Mathematics Level A 2nd Ed. Book Bundle"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 1",
+                "days": [
+                  "Math Lessons: Grade 1*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 1",
+                  "Math Lessons: Grade 1*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 1",
+                  "Math Lessons: Grade 1*Math Games: Grades 1-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -50,7 +50,21 @@
               "scheduleInfo": "Math Lessons: Grade 8 (Denison)\n5 times/week 40 min",
               "books": "Denison Algebra 1"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 8 (Denison)",
+                "days": [
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8",
+                  "",
+                  "Math Games: Grades 1-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

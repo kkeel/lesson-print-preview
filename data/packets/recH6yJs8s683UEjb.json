@@ -60,7 +60,21 @@
               "scheduleInfo": "Sol-fa: Musical Games\n1 time/week 10 min",
               "books": "Musical Games Playlist"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Intro",
+                "days": [
+                  "Sol-fa: Musical Games",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening",
+                  "Music Appreciation"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

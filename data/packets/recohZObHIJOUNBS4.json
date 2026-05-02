@@ -62,7 +62,31 @@
               "scheduleInfo": "Sports\n1 time/week 20 min",
               "books": "The Ultimate Homeschool Physical Education Game Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "PE: Grades 4-6",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Folk Dancing"
+                ]
+              },
+              {
+                "label": "PE: Grades 7-12",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Historic Dancing"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

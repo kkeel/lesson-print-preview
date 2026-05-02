@@ -56,7 +56,21 @@
               "scheduleInfo": "Recitation: Grade 3\n5 times/week 10 min",
               "books": "Our Work: Grade 3"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Recitation: Grade 3",
+                "days": [
+                  "Recitation: Grade 3",
+                  "Recitation: Grade 3",
+                  "Recitation: Grade 3",
+                  "Recitation: Grade 3",
+                  "Recitation: Grade 3"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

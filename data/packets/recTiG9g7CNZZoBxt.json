@@ -60,7 +60,21 @@
               "scheduleInfo": "Mythology/Hist. Fiction: Grade 4\n1 time/week 20 min",
               "books": "In the Days of Giants, Russian Fairy Tales, South American Jungle Tales, Short Stories & Folktales, The Tales of Uncle Remus: The Adventures of Brer Rabbit"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Literature: Grade 4",
+                "days": [
+                  "",
+                  "General Lit.: Grade 4",
+                  "",
+                  "Mythology/Hist. Fiction: Grade 4",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

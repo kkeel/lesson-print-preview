@@ -60,7 +60,21 @@
               "scheduleInfo": "First Citizen Stories\n1 time/week 20 min",
               "books": "Stories From the History of Rome, Historical Atlas of the World 6th Ed."
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 4",
+                "days": [
+                  "First Citizen Stories",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

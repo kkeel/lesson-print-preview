@@ -60,7 +60,21 @@
               "scheduleInfo": "Advanced Nature Study Lessons\n5 times/week 45 min",
               "books": "Master of Field Arts"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Advanced Nature Study",
+                "days": [
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons*Advanced Nature Study Afternoon Work",
+                  "Advanced Nature Study Lessons",
+                  "Advanced Nature Study Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -62,7 +62,81 @@
               "scheduleInfo": "Current Events: Grades 9-12\n1+ time/week 20 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 9 (U.S.)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (U.S.)"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 9 (Canada)",
+                "days": [
+                  "Ethics: Part 3",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (Canada)"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 10 (U.S.)",
+                "days": [
+                  "Econ/Civics: Grade 10 (U.S.)",
+                  "",
+                  "",
+                  "Ethics: Part 4*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 10 (Canada)",
+                "days": [
+                  "Econ/Civics: Grade 10 (Canada)",
+                  "",
+                  "",
+                  "Ethics: Part 4*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 11 (U.S.)",
+                "days": [
+                  "Econ/Civics: Grade 11 (U.S.)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 11 (Canada)",
+                "days": [
+                  "Econ/Civics: Grade 11 (Canada)",
+                  "",
+                  "",
+                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              },
+              {
+                "label": "Citizenship: Grade 12",
+                "days": [
+                  "Civics/Ethics: Grade 12",
+                  "",
+                  "Economics: Grade 12",
+                  "Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

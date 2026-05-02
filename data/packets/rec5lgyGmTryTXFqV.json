@@ -56,7 +56,21 @@
               "scheduleInfo": "Lower French: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
               "books": "French: Student Notebook, Linnea in Monet's Garden, French: Grades 1-6 SoundCloud Playlists"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Lower French: Grades 1-6",
+                "days": [
+                  "Lower French: Grades 1-6",
+                  "Lower French: Grades 1-6",
+                  "Lower French: Grades 1-6",
+                  "Lower French: Grades 1-6",
+                  "Lower French: Grades 1-6"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

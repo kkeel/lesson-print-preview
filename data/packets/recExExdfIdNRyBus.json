@@ -60,7 +60,21 @@
               "scheduleInfo": "Spiritual Formation: Grades 7-8\n1 time/week 30 min",
               "books": "Transformed by Truth, This Changes Everything"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grades 7-8",
+                "days": [
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grades 7-8",
+                  "Old Testament: Grades 7-12",
+                  "Church History: Grades 7-9",
+                  "Spiritual Formation: Grades 7-8"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

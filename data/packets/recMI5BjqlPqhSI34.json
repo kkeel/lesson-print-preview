@@ -52,7 +52,31 @@
               "scheduleInfo": "Folk Dancing\n1 time/week 20 min",
               "books": "The Book of Song Dances"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "PE: Grades 1-3",
+                "days": [
+                  "Jump Rope",
+                  "Free Play",
+                  "Playground Songs & Rhymes",
+                  "Free Play",
+                  "Folk Dancing"
+                ]
+              },
+              {
+                "label": "PE: Grades 4-6",
+                "days": [
+                  "Playground Games",
+                  "Free Play/ Circuits",
+                  "Sports",
+                  "Free Play/ Circuits",
+                  "Folk Dancing"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

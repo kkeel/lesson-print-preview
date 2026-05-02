@@ -50,7 +50,21 @@
               "scheduleInfo": "Grammar/Comp: Grade 7\n2 times/week 20 min\n2 times/week 15 min",
               "books": "Paragraph Town, Practice Town, Practice Town Teacher Manual (select pages)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 7",
+                "days": [
+                  "Written Narration: Grade 7*Copywork: Grade 7",
+                  "Grammar/Comp: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
+                  "Dictation: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
+                  "Grammar/Comp: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
+                  "Dictation: Grade 7*Written Narration: Grade 7*Copywork: Grade 7"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

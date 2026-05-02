@@ -56,7 +56,21 @@
               "scheduleInfo": "Story of Geometry: Part 2\n1 time/week 15 min",
               "books": "String, Straight-Edge, and Shadow"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Story of Geometry: Part 2",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "Story of Geometry: Part 2",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

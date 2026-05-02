@@ -56,7 +56,21 @@
               "scheduleInfo": "Latin 1 (Video Course)\n2 times/week 45 min\n2 times/week 15 min",
               "books": "Alveary Exclusive Cambridge Latin Unit 1 Online Course, North American Cambridge Latin Unit 1 5th Ed. Student Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Latin 1 (Video Course)",
+                "days": [
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

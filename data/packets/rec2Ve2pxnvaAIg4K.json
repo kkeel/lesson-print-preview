@@ -56,7 +56,31 @@
               "scheduleInfo": "World History: Grades 7-8\n1 time/week 30 min",
               "books": "In the Shadow of the Alamo, Eiffel's Tower for Young People"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "History: Grades 7-8 (U.S.)",
+                "days": [
+                  "",
+                  "U.S. History: Grades 7-8*World History: Grades 7-8",
+                  "Ancient History: Grades 7-9",
+                  "U.S. History: Grades 7-8",
+                  ""
+                ]
+              },
+              {
+                "label": "History: Grades 7-8 (Canada)",
+                "days": [
+                  "",
+                  "World History: Grades 7-8*Canadian History: Grades 7-8",
+                  "Ancient History: Grades 7-9",
+                  "Canadian History: Grades 7-8",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

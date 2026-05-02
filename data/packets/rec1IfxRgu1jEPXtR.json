@@ -50,7 +50,21 @@
               "scheduleInfo": "Grammar: Grade 10\n1 time/week 40 min",
               "books": "Caesar's English II, Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 10",
+                "days": [
+                  "Grammar: Grade 10",
+                  "Composition: Grade 10",
+                  "Commonplace: Grades 9-12*Composition: Grade 10",
+                  "",
+                  "Composition: Grade 10"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

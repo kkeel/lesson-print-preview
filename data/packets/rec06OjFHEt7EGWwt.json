@@ -87,7 +87,21 @@
               "scheduleInfo": "Geology Labs\n1 time/week 60 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Geology",
+                "days": [
+                  "Nature Walks & Scouting: Grades 9-12*Geology Lessons",
+                  "Geology Lessons",
+                  "Geology Lessons*Geology Labs",
+                  "Nature Notebook: Grades 9-12*Geology Lessons",
+                  "Geology Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

@@ -103,7 +103,21 @@
               "scheduleInfo": "Shared course resources",
               "books": "Hymns, Spirituals, & Folk Songs PDF, Our Work: Grades 4-6, Our Work: Grades 7-8, Our Work: Grades 9-12"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Music: Level 5",
+                "days": [
+                  "Sol-fa: Level 5",
+                  "Hymns & Spirituals",
+                  "",
+                  "Folk Songs*Afternoon Listening*Composer Study",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

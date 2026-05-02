@@ -46,7 +46,21 @@
               "scheduleInfo": "Geometry: Part 2\n2 times/week 40 min",
               "books": "Geometry Curriculum Pack"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 10",
+                "days": [
+                  "Algebra 2/Trigonometry: Part 1",
+                  "Geometry: Part 2",
+                  "Algebra 2/Trigonometry: Part 1",
+                  "Geometry: Part 2",
+                  "Algebra 2/Trigonometry: Part 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

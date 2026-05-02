@@ -87,7 +87,21 @@
               "scheduleInfo": "Bible History: Grade 9\n1 time/week 30 min",
               "books": "God’s Big Picture: Tracing the Storyline of the Bible"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 9",
+                "days": [
+                  "Old Testament: Grades 7-12*Bible History: Grade 9",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 9",
+                  "Church History: Grades 7-9",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

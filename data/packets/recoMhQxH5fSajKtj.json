@@ -60,7 +60,21 @@
               "scheduleInfo": "New Testament: Grade 9\n1 time/week 30 min",
               "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Bible: Grade 9",
+                "days": [
+                  "Old Testament: Grades 7-12*Bible History: Grade 9",
+                  "",
+                  "Old Testament: Grades 7-12*New Testament: Grade 9",
+                  "Church History: Grades 7-9",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

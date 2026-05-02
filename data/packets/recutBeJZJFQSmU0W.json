@@ -66,7 +66,51 @@
               "scheduleInfo": "Commonplace: Grades 9-12\n1+ time/week 10 min",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 9",
+                "days": [
+                  "Grammar/Comp: Grade 9",
+                  "Grammar/Comp: Grade 9",
+                  "Dictation: Grade 9*Commonplace: Grades 9-12",
+                  "Grammar/Comp: Grade 9",
+                  "Grammar/Comp: Grade 9"
+                ]
+              },
+              {
+                "label": "Language Study: Grade 10",
+                "days": [
+                  "Grammar: Grade 10",
+                  "Composition: Grade 10",
+                  "Commonplace: Grades 9-12*Composition: Grade 10",
+                  "",
+                  "Composition: Grade 10"
+                ]
+              },
+              {
+                "label": "Language Study: Grade 11",
+                "days": [
+                  "Composition: Grade 11",
+                  "Composition: Grade 11",
+                  "Commonplace: Grades 9-12*Composition: Grade 11",
+                  "",
+                  "Composition: Grade 11"
+                ]
+              },
+              {
+                "label": "Language Study: Grade 12",
+                "days": [
+                  "Composition: Grade 12",
+                  "Composition: Grade 12",
+                  "Commonplace: Grades 9-12*Composition: Grade 12",
+                  "",
+                  "Composition: Grade 12"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

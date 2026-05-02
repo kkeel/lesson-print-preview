@@ -87,7 +87,21 @@
               "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Science: Chemistry",
+                "days": [
+                  "Chemistry Lessons*Nature Walks & Scouting: Grades 9-12",
+                  "Chemistry Lessons",
+                  "Chemistry Lessons*Chemistry Labs",
+                  "Chemistry Lessons*Nature Notebook: Grades 9-12",
+                  "Chemistry Lessons"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

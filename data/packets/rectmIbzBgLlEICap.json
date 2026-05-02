@@ -50,7 +50,21 @@
               "scheduleInfo": "Penmanship & Copywork: Grade 5\n5 times/week 10 min",
               "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book F, Grade 5 Copywork & Dictation Book"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Language Study: Grade 5",
+                "days": [
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Grammar: Grade 5*Penmanship & Copywork: Grade 5",
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Grammar: Grade 5*Penmanship & Copywork: Grade 5*Written Narration: Grade 5",
+                  "Dictation: Grade 5*Penmanship & Copywork: Grade 5"
+                ]
+              }
+            ]
+          }
         }
       ]
     }

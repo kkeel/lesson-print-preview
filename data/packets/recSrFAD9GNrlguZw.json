@@ -69,7 +69,21 @@
               "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
               "books": ""
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Citizenship: Grade 4",
+                "days": [
+                  "First Citizen Stories",
+                  "",
+                  "",
+                  "Community Read Alouds: Grades 1-12",
+                  ""
+                ]
+              }
+            ]
+          }
         }
       ]
     }

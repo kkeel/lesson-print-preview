@@ -60,7 +60,21 @@
               "scheduleInfo": "Algebra 1: Part 2\n2 times/week 40 min",
               "books": "Elementary Algebra Student Book, Elementary Algebra Teacher Guide (Revised Edition)"
             }
-          ]
+          ],
+          "weeklyView": {
+            "rows": [
+              {
+                "label": "Mathematics: Grade 9",
+                "days": [
+                  "Geometry: Part 1",
+                  "Algebra 1: Part 2",
+                  "Geometry: Part 1",
+                  "Algebra 1: Part 2",
+                  "Geometry: Part 1"
+                ]
+              }
+            ]
+          }
         }
       ]
     }
