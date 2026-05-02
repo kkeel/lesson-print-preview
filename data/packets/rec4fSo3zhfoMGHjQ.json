@@ -46,6 +46,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Sewing: Level 2\n☐ Brainstorm with students a list of people, missions, or community service organizations to whom you can give away projects.\n\n☐ Plan what projects to work on first and purchase supplies needed. See book for details and materials.\n\n☐ Organize supplies by project so they are easily accessible during lesson time and free time.\n\n☐ Have students choose two projects each term.\n\n☐ Set goals for project completion dates in order to give as gifts."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

@@ -36,6 +36,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Handicrafts\nTo prep for Term 1, have supplies ready. Younger students may need assistance wedging clay, or getting started with their project. A slow and steady pace is encouraged as they complete their projects. \nVideo tutorials are provided to introduce new concepts as the lessons progress. This will be referred to in the lessons - optionally - can be watched by the teacher ahead of time to familiarize yourself with the goal of the project. \n\nSashiko & Red Work: Read through the history of both to familiarize yourself with the crafts and preread the sites students will see. There are websites linked to the first and sixth lessons. Teachers can share this information \"by the way\" or allow students to directly interact with the websites. It is helpful to allow students to see images of completed work so that they will have an idea in mind.\n\nCloisonne: Tutorial videos will be provided for each new lesson introduction. Teachers can watch these videos and teach the students or allow the students to interact directly with the videos. Please preview any websites that are linked before allowing students to access them."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Handicrafts\nTerm 3 (Optional): Visit the Cloisonne kit website below in the Quick Links, and instead of working on the term’s projects, students can work at their own pace and choose any beginner kit."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

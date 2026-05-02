@@ -58,6 +58,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Citizenship: Grade 8 (Canada)\n☐ Make sure your student sets up a Citizenship Notebook. They will need a 3-ring binder, lined notebook paper, and 5 Tabbed Dividers. You can read more about how to set one up and suggestions for various sections in the document in Quick Links. \n\n☐ As desired, plan for a read aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible.\n\n☐ Make a Calendar of Events for Current Events lessons by drawing a calendar grid in a notebook (or print a blank calendar from the internet).\n\nPlutarch: Grades 6-8\n☐ Watch the video in Quick Links about teaching Plutarch."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Canadian Gov./ Economics: Grade 8\nIn Term 2 students will be asked to do online research about their own local municipal, provincial, and federal elected officials. These assignments should be done with parental supervision to ensure internet safety."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

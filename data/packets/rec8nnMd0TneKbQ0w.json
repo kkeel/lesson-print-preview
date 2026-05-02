@@ -50,6 +50,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Introduction to Engineering Lessons\n☐ There are 2 sensitive terms used in Ch.2 of The Things We Make as part of a larger discussion on design bias. Teachers should review Lesson 1 before the start of the term.\n\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.  \n\n☐ Obtain materials from the supply lists.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Introduction to Engineering Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• items with which to tinker by student choice; Basements, closets, thrift shops, and scrap exchanges are great places to find objects for tinkering\n• materials for projects by student choice; if you would like to have materials for the suggested Week 1 activity, obtain the optional supplies below\n• optional: 2-3 boxes uncooked spaghetti (Term 1 Week 1)\n• optional: all-purpose glue (Term 1 Week 1)\n• optional: uncooked spaghetti (Term 1 Week 1)\n• optional: S hook (Term 1 Week 1)\n• optional: plastic bucket (Term 1 Week 1)\n• optional: water or sand (Term 1 Week 1)\n• optional: uncooked spaghetti (Term 1 Week 1)\n• optional: kitchen scale(Term 1 Week 1)\n• optional: bathroom scale (Term 1 Week 1)\n• optional: 6-12\" piece of wooden board (Term 1 Week 1)"
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

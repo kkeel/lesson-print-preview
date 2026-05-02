@@ -50,6 +50,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "General Lit.: Grades 5-6\n☐ With engaging and straightforward narrative, King of the Wind (Term 1) eases students into the year and is a great book for them to read independently and use for written narrations.\n\n☐ Due to the length of the books, students will not finish Johnny Tremain (Term 2) or Treasure Island (Term 3) in the scheduled lessons. Encourage students to finish these books on their own time over Exam week or on breaks. Both are riveting stories and are great options to encourage a lifelong habit of reading outside of school.\n\n☐ Treasure Island (Term 3) contains a few instances of racist and/or outdated language, and wine and rum appear regularly throughout the book. Some notes are added in the lessons, but you will want to decide how to discuss these realities with your students."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

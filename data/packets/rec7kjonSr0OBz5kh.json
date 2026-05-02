@@ -46,6 +46,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Latin 1 (Independent Study)\n☐ This course is best taught by someone who has some mastery of Latin. If you are new to Latin, it will be important to work through each lesson as a student yourself before teaching it. It works best if you can stay at least one full chapter ahead of students so that you can anticipate their questions. Cambridge offers distance learning courses for those who need extra support.\n\n☐ Students will gain familiarity with a great deal of vocabulary, but only the Vocabulary Checklists on the final page of each stage, or chapter, are memorized. These Checklists are copied into their Latin Notebook, defined, and reviewed regularly.\n\n☐ The Vocabulary Checklists include definitions. In order to allow students an opportunity to infer meanings from the stories' contexts, cover the definitions with sticky notes. Students will read stories that incorporate the new vocabulary and narrate what they understand in English. Following the reading, they may remove the sticky notes and correct their definitions. \n\n☐ The digital subscription provides many supplemental options, including vocabulary practice, grammar activities, videos of the stories, an online dictionary, and the ability to hear each story read aloud. Be sure to explore these resources!"
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

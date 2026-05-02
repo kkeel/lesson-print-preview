@@ -40,6 +40,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Grammar: Grade 4\n☐ Bookmark or Print Grammar Island Additional Practice PDF (Find in Quick Links)\n\n☐ Bookmark Grammar Island Teacher Manual select pages for lesson answer key (Find in Quick Links)\n\n☐ Bookmark Practice Island Teacher Manual for answer key (Find in Quick Links)"
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

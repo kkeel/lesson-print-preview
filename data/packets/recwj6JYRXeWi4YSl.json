@@ -50,6 +50,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Literature: Grade 2\nNOTE: We have noticed that some books with the same ISBN have slightly different pagination. If the pagination in your book does not exactly match the lesson plans, please go by the beginning/ending quotes. There is no need to let us know about wrong page numbers.\n\n☐ As desired, plan for a read-aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible.\n\n☐ The right-hand column of the lesson plans includes teacher notes and ideas to dive deeper into the lesson. Activities such as an \"ILLUSTRATE\" prompt are mainly intended as afternoon occupations, but they can be included during the lesson if time allows."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

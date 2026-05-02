@@ -50,6 +50,32 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Science: Grade 8\n☐ Obtain any supplies indicated on the science or grade-level supply lists.\n☐ Download any apps and shortcut any desired links.\n\nNature Lore:\n☐ Bookmark your Outdoor Work Quick Link, so that you have it available on your weekly outing. Outdoor Work is generally flexible for your location and season and can be moved around in the schedule to incorporate or substitute Natural History Club outings, except where the suggestion is to collect some Thing for a lesson.  \n☐ Print or bookmark grade-specific nature notebook suggestions to support natural history and general science. Notebooking can be done on a walk, during occupations, or as a field trip, as appropriate."
+            },
+            {
+              "title": "Special Topics & Field Trips",
+              "content": "Science: Grade 8\nEncourage students to choose their own special topic and to notice its ecological relationships. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too!\n\n☐ Learn a few of your local species or varieties in connection with special topics.\n\nNatural History: Grade 8\n☐ Any term: a science museum with an exhibit on microbes"
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Natural History: Grade 8\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• 8 Tbsp cornstarch\n• 1-2 c milk (Term 1)\n• 3-5 c white vinegar\n• paper towels\n• water\n• 1 egg (Term 1)\n• 3 antimicrobial agents used at home (e.g., soap, hydrogen peroxide, rubbing alcohol, essential oils, etc.)"
+            },
+            {
+              "title": "Reminders",
+              "content": "Natural History: Grade 8\n☐ Note that the first lesson of Natural History is an activity, so be prepared with these materials and any others from the supply lists on day 1. \n☐ Any type of milk is needed for Week 5. Make a note on your calendar if you will need to purchase this closer to the appropriate time."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

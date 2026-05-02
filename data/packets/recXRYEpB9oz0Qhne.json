@@ -50,6 +50,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Written Narration: Grade 5\n☐ Plan to complete three written narrations every week and consider increasing to four by the end of the year. \n\n☐ Written narrations can happen after reading at the end of any lesson, if time allows, and do not need to take up an extra 10 minutes in your schedule. This tracker serves to help you keep records of what was done throughout the year.\n\n☐ To keep written narrations fresh and interesting, have your student try narrating in different ways (lessons sometimes include specific suggestions): In addition to just “what did we read about?”, you can ask students to:\n- “Write the story of ___.” (Example: “Write the story of the battle of Troy.”) \n- Imagine they are a character in the story and write what happened as a diary entry (Example: pretend you are Christian in Pilgrim’s Progress and write a letter or diary entry telling what happened to him in today’s chapter.”\n- For those who want a challenge, tell back the reading as a poem or a comic strip style narration, combining illustration and words.\n\n☐ Make sure students are practicing typing skills regularly, and have them increasingly type more narrations as they become comfortable."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Written Narration: Grade 5\nSome ideas on helping students transition to written narration: \n- Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n- Have students write down brief sentences (even numbered statements) telling the sequence of events and then have them orally give more details about each of them.\n- Write the beginning and then orally tell the rest, or vice versa.\n- Some students may find writing easier if you provide external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

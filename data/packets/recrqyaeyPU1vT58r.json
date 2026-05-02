@@ -52,6 +52,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Reading Level 1\n☐ Carefully read \"Literacy Development From Birth to Age 9\" prior to beginning the day-to-day lessons.\n\n☐ Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n\n☐ Supply a blank, lined Word Journal to students, which they will continue to add to and review in Levels 2 and 3.   \n\nPenmanship & Copywork: Grade 1\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at the student's pace."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

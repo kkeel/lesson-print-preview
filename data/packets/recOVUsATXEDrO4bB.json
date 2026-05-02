@@ -50,6 +50,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "General Lit.: Grade 4\n☐ Although these books also make for great read-alouds, they were specifically chosen to help students to begin transitioning toward independence and continue growing in reading fluency and ease. While lesson plans are intended to be achievable during the lesson times on average, reading speed varies widely at this age. Focus on having students read for the time allotted, more than getting through the exact section assigned.\n\n☐ Ask students to recall what happened last before sending them to read the day's selection on their own. Oral narrations can be completed into a voice recorder or back with a parent or class. These are also great books to use for occasional written narrations."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "General Lit.: Grade 4\n☐ If students have already read The Lion, the Witch and the Wardrobe, consider having them still read it on their own if it might help them gain confidence reading and completing lessons themselves. Otherwise, substitute another book in the Narnia series or substitute with a book from an adjacent grade's literature lessons and begin Johnny Tremain earlier in the year (the whole book is too long to finish before the end of Term 3, so it can easily be moved back)."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

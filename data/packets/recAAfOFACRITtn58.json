@@ -46,6 +46,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Sloyd: Level 7\n☐ View the \"Sloyd Introduction Video\" in the Quick Links below for an overview of materials and resources used in Sloyd.\n\n☐ Allow time for loading and viewing videos if available. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Purchase supplies and introduce students to their Sloyd tools (discuss their care and safe use). Organize them so they are easily accessible.\n\n☐ Students will need the book and A4 paper for these models. Some models will require the paper to be cut into a square or cut in half lengthwise before beginning."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Sloyd: Level 7\nA4 paper (This is different from traditional, American copy paper, though it looks very similar. The measurements will be completely off if you choose to use traditional copy paper.)"
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

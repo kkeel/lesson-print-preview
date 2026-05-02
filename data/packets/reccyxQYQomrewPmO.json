@@ -58,6 +58,24 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Hymns & Spirituals\n☐ Bookmark the Alveary hymns, spirituals, and folk song playlist for the year, or create your own YouTube, Spotify, or Amazon playlist if desired.\n\nComposer Study\n• Charlotte Mason often included more music in the program than could be covered in the lesson time. While we choose segments that fit the length of the lesson, students will develop a relationship with the term’s music insofar as it is a part of their daily atmosphere. \n• The YouTube playlist contains nearly the whole year's music, though lessons will occasionally have extra links to historical or musical information. Feel free to create your own playlist if you prefer other platforms to YouTube; though videos are often chosen for visual and sometimes historical interest, the crucial element is the music itself. \n• Use the year's playlist to listen to previous and current pieces in the afternoons, and explore the Extra Helpings as interested (ideas which relate directly to a lesson are usually included nearby, while more general resources and activities are listed on the Extra Helpings page). Grade 5+ extensions are also usually appropriate as Extra Helpings for interested younger students. \n\nSol-fa: Level 2\n☐ Bookmark Sol-fa playlists (see Quick Links). If you create a free account on the SoundCloud app, the Sol-Fa lessons become downloadable for offline use."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Composer Study\n☐ Lessons on Handel's Messiah are scheduled at the beginning of Term 2, so many students will reach them around the Christmas holidays. However, depending on how you schedule your year, this may not fit. Feel free to complete the lessons whenever suits your schedule. The Messiah is as much (or more) an Easter piece as a Christmas one, so you could even bump it to Term 3!"
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

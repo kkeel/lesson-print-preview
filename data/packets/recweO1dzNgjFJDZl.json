@@ -58,6 +58,32 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Science: Grade 7\n☐ Obtain any supplies indicated on the science or grade-level supply lists.\n☐ Download any apps and shortcut any desired links.\n\nNature Lore:\n☐ Bookmark your Outdoor Work Quick Link, so that you have it available on your weekly outing. Outdoor Work is generally flexible for your location and season and can be moved around in the schedule to incorporate or substitute Natural History Club outings, except where the suggestion is to collect some Thing for a lesson.  \n☐ Print or bookmark grade-specific nature notebook suggestions to support natural history and general science. Notebooking can be done on a walk, during occupations, or as a field trip, as appropriate."
+            },
+            {
+              "title": "Special Topics & Field Trips",
+              "content": "Science: Grade 7\nEncourage students to choose their own special topic and to notice its ecological relationships. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too!\n\n☐ Learn a few of your local species or varieties in connection with special topics.\n\nGeneral Science: Grade 7\n☐ Terms 1 and 3: a planetarium or local astronomy club event \n☐ Term 2: a playground\n\nNatural History: Grade 7\n☐ Any term: natural history museum or butterfly house"
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "General Science: Grade 7\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• medium-large sized recycled box, roughly 1-2'\n• knife, blade, or scissors to cut the box\n• table/reading lamp\n• table or countertop\n• books or wood blocks to adjust height\n• 1 gallon jug of milk or water, the type with a handle\n• horizontal bar to support weight, such as broom handle held by 2 people. a chin up bar, a porch railing, etc.\n• recycled cereal box or toothbrush\n• a flat location that is in the sun at noon\n• various supplies by student design\n• printables\n• computer\n• optional: empty cereal box\n• optional: orange\n• optional: flashlight\n• optional: calculator, such as found on most electronic devices\n\nNatural History: Grade 7\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• a flower with large, visible parts, such as a lily (Term 1)\n• a sunny window\n• water\n• a few sprigs of any water weed obtained from a pond or pet store that sells fish (Term 3)\n• various supplies by student design\n• optional: salt\n• optional: forceps/tweezers"
+            },
+            {
+              "title": "Reminders",
+              "content": "Natural History: Grade 7\n☐ Note that the first lesson of Natural History is an activity, so be prepared with these and any other materials from the supply list on day 1."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

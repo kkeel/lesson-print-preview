@@ -46,6 +46,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Ancient History: Grades 7-9\nThe Sand-Reckoner is a well-written and well-researched account of a portion of the life of Archimedes. Math, engineering, duty, justice, stewardship, and courage are some of the themes. The setting is Syracuse in 264 B.C. and as such has a few references to immoral behavior representative of the period as well as some light romantic content that you may want to preview to decide what is best for your particular student(s), especially those on the younger end of the age range. Some may choose to read the story aloud to edit on the fly if needed and to encourage discussion. Some may choose to edit some wording in the text. Others will be fine with the content as is. We encourage all to provide an inviting space for students to ask questions and share thoughts as they process what they are reading in their books. Pages to preview: 14, 36, 40-41, 171, 198, 204, 249.  There is always the option of substituting for either of the books scheduled in Grades 4-6 as well."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

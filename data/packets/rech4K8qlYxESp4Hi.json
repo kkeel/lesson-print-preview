@@ -56,6 +56,28 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Food Science Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.  \n\n☐ Obtain materials from the supply lists.\n\n☐ The lab period is the student's opportunity to prepare a meal (or part of a meal, depending on teacher preference).  Therefore, it should be scheduled at a time when there will be people to eat what they prepare, which may not be during their school day.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Food Science Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• basic cookware and bakeware (pots, pans, baking sheets, mixing bowls)\n• basic cooking utensils (mixing spoons, spatula, tongs, knives, measuring cups and spoons, whisk, meat thermometer)\n• kitchen scale\n• mortar and pestle\n• salt and pepper\n• romaine lettuce (Term 1 Week 1)\n• anchovies (Term 1 Week 1)\n• mayonnaise or an egg to make fresh (Term 1 Week 1)\n• garlic clove (Term 1 Week 1)\n• lemon juice (Term 1 Week 1)\n• white wine vinegar (Term 1 Week 1)\n• parmesan cheese (Term 1 Week 1)\n• Worcestershire sauce (Term 1 Week 1)\n• olive oil (Term 1 Week 1)\n• bread of your choice (Term 1 Week 1)\n• dinner protein of your choice (Term 1 Week 1)\n• ingredients by student choice (students are prompted to make a grocery list most weeks)\n• optional: additional kitchen tools as indicated in cookbooks, depending on recipes chosen by students"
+            },
+            {
+              "title": "Reminders",
+              "content": "Food Science Lessons\n☐ Note that Lab in week 1 calls for lettuce, anchovies, mayonnaise/egg, garlic clove, lemon juice. white wine vinegar, parmesan cheese, Worcestershire sauce, olive oil, and bread and dinner protein of choice.  Additional grocery lists will be provided by the student throughout the year."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [

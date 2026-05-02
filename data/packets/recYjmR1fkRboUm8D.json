@@ -46,6 +46,20 @@
           ]
         },
         {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Art History\nThis course assumes the student has been through several years of Art levels and handicrafts, as well as Lettering. While this course is beneficial to all students, regardless of their past with the Alveary, students who have been with the program longer will find it easier to understand the references and concepts. This course is geared towards the High School student as an elective after having gone through all of the Art Instruction Levels. There is also an assumption of independent learning and abilities, such as the freedom to use an X-Acto or utility knife."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
