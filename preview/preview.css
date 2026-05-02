@@ -709,17 +709,14 @@ a:hover {
   border-bottom: 1px solid #596e5e;
 }
 
-.weekly-view-row-title {
+.weekly-view-row-full {
+  grid-column: 1 / -1;
   font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 8.2px;
-  line-height: 1.12;
+  font-size: 8.4px;
   font-weight: 700;
   color: #596e5e;
-  padding: 5px 5px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  text-align: right;
+  padding: 4px 6px;
+  background: #ffffff;
   border-right: 1px solid #596e5e;
   border-bottom: 1px solid #596e5e;
 }
