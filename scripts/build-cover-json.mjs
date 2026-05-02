@@ -95,6 +95,21 @@ function normalizeText(value) {
   return String(value).trim();
 }
 
+function normalizeLineBreakText(value) {
+  if (value == null) return "";
+
+  if (Array.isArray(value)) {
+    return value
+      .map(item => String(item ?? "").trim())
+      .filter(item => item && item.toLowerCase() !== "null")
+      .join("\n");
+  }
+
+  const text = String(value).trim();
+  if (!text || text.toLowerCase() === "null") return "";
+  return text;
+}
+
 function normalizeRichText(value) {
   if (value == null) return "";
 
@@ -245,8 +260,8 @@ function buildSchedulingRows(packetRecord, allLessonRecordsById) {
   const fields = packetRecord.fields || {};
 
   const grade = normalizeText(fields["Grade"]);
-  const scheduleInfo = normalizeText(fields["Schedule Info."]);
-  const books = normalizeText(fields["Books"]);
+  const scheduleInfo = normalizeLineBreakText(fields["Schedule Info."]);
+  const books = normalizeLineBreakText(fields["Books"]);
 
   const topicIds = normalizeArray(fields["Topic Connection"]);
   const isTopic = normalizeArray(fields["Course Connection"]).length > 0;
@@ -291,8 +306,8 @@ function buildSchedulingRows(packetRecord, allLessonRecordsById) {
     const tf = topicRecord.fields || {};
 
     const tGrade = normalizeText(tf["Grade"]);
-    const tSchedule = normalizeText(tf["Schedule Info."]);
-    const tBooks = normalizeText(tf["Books"]);
+    const tSchedule = normalizeLineBreakText(tf["Schedule Info."]);
+    const tBooks = normalizeLineBreakText(tf["Books"]);
 
     if (!tGrade && !tSchedule && !tBooks) continue;
 
