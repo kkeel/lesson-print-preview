@@ -196,9 +196,9 @@ function renderHeaderItem(item) {
               <tbody>
                 ${(item.rows || []).map(row => `
                   <tr class="${row.rowType || ""}">
-                    <td>${escapeHtml(row.grade || "")}</td>
-                    <td>${escapeHtml(row.scheduleInfo || "")}</td>
-                    <td>${escapeHtml(row.books || "")}</td>
+                    <td class="schedule-grade-cell">${escapeHtml(row.grade || "")}</td>
+                    <td class="schedule-info-cell">${nl2br(row.scheduleInfo || "")}</td>
+                    <td class="schedule-books-cell">${nl2br(row.books || "")}</td>
                   </tr>
                 `).join("")}
               </tbody>
