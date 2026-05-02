@@ -686,8 +686,8 @@ a:hover {
 .weekly-view-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  border-top: 1px solid #596e5e;
-  border-left: 1px solid #596e5e;
+  border-top: 1px solid #c7d0bd;
+  border-left: 1px solid #c7d0bd;
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 8px;
   line-height: 1.12;
@@ -699,8 +699,8 @@ a:hover {
   text-align: center;
   font-weight: 700;
   padding: 4px;
-  border-right: 1px solid #596e5e;
-  border-bottom: 1px solid #596e5e;
+  border-right: 1px solid #c7d0bd;
+  border-bottom: 1px solid #c7d0bd;
 }
 
 .weekly-view-row-full {
@@ -712,14 +712,14 @@ a:hover {
   color: #596e5e;
   padding: 3px 6px;
   background: #f7f8f4;
-  border-right: 1px solid #596e5e;
+  border-right: 1px solid #c7d0bd;
   border-bottom: 1px solid #c7d0bd;
 }
 
 .weekly-view-cell {
   min-height: 0.29in;
   padding: 4px;
-  text-align: center;
+  text-align: left;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -729,8 +729,8 @@ a:hover {
   color: #111111;
 }
 
-.weekly-view-cell:nth-child(5n) {
-  border-right-color: #596e5e;
+.weekly-view-grid {
+  border: 1px solid #c7d0bd;
 }
 
 @media print {
