@@ -38,6 +38,24 @@ function nl2br(value) {
   return escapeHtml(value).replace(/\n/g, "<br>");
 }
 
+function booksToLines(value) {
+  const text = String(value ?? "").trim();
+  if (!text) return "";
+
+  // Preserve real line breaks if the JSON already has them.
+  if (text.includes("\n")) {
+    return nl2br(text);
+  }
+
+  // Fallback: split comma-separated book lists into separate lines.
+  return text
+    .split(/\s*,\s*/)
+    .map(item => item.trim())
+    .filter(Boolean)
+    .map(item => escapeHtml(item))
+    .join("<br>");
+}
+
 function renderPacket(data) {
   let html = "";
 
@@ -198,7 +216,7 @@ function renderHeaderItem(item) {
                   <tr class="${row.rowType || ""}">
                     <td class="schedule-grade-cell">${escapeHtml(row.grade || "")}</td>
                     <td class="schedule-info-cell">${nl2br(row.scheduleInfo || "")}</td>
-                    <td class="schedule-books-cell">${nl2br(row.books || "")}</td>
+                    <td class="schedule-books-cell">${booksToLines(row.books || "")}</td>
                   </tr>
                 `).join("")}
               </tbody>
