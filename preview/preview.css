@@ -657,7 +657,7 @@ a:hover {
 }
 
 .schedule-grade-cell {
-  text-align: center;
+  text-align: left;
   white-space: nowrap;
 }
 
