@@ -56,6 +56,18 @@ function booksToLines(value) {
     .join("<br>");
 }
 
+function weeklyCellToLines(value) {
+  const text = String(value ?? "").trim();
+  if (!text) return "";
+
+  return text
+    .split("*")
+    .map(item => item.trim())
+    .filter(Boolean)
+    .map(item => escapeHtml(item))
+    .join("<br>");
+}
+
 function renderPacket(data) {
   let html = "";
 
@@ -221,6 +233,27 @@ function renderHeaderItem(item) {
                 `).join("")}
               </tbody>
             </table>
+            ${item.weeklyView?.rows?.length ? `
+              <div class="weekly-view-block">
+                <h4 class="weekly-view-title">Sample Weekly View</h4>
+
+                <div class="weekly-view-grid">
+                  <div class="weekly-view-corner"></div>
+                  <div class="weekly-view-day-header">Day 1</div>
+                  <div class="weekly-view-day-header">Day 2</div>
+                  <div class="weekly-view-day-header">Day 3</div>
+                  <div class="weekly-view-day-header">Day 4</div>
+                  <div class="weekly-view-day-header">Day 5</div>
+
+                  ${item.weeklyView.rows.map(row => `
+                    <div class="weekly-view-row-label">${nl2br(row.label || "")}</div>
+                    ${(row.days || []).map(day => `
+                      <div class="weekly-view-cell">${weeklyCellToLines(day)}</div>
+                    `).join("")}
+                  `).join("")}
+                </div>
+              </div>
+            ` : ""}
           </div>
         </div>
       </section>
