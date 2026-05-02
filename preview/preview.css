@@ -729,10 +729,6 @@ a:hover {
   color: #111111;
 }
 
-.weekly-view-grid {
-  border: 1px solid #c7d0bd;
-}
-
 @media print {
   .weekly-view-day-header,
   .weekly-view-row-full,
