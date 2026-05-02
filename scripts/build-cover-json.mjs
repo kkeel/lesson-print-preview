@@ -25,7 +25,13 @@ const LESSON_FIELDS = [
   "Connect Header Pages",
   "Grade",
   "Schedule Info.",
-  "Books"
+  "Books",
+  "SS Row Lables",
+  "Day 1",
+  "Day 2",
+  "Day 3",
+  "Day 4",
+  "Day 5"
 ];
 
 const HEADER_FIELDS = [
@@ -136,6 +142,14 @@ function normalizeArray(value) {
     .split(",")
     .map(item => item.trim())
     .filter(Boolean);
+}
+
+function splitWeeklyRollup(value) {
+  if (value == null) return [];
+
+  return String(value)
+    .split("||")
+    .map(item => item.trim());
 }
 
 function normalizeSubject(value) {
@@ -338,6 +352,45 @@ function buildSchedulingRows(packetRecord, allLessonRecordsById) {
   return rows;
 }
 
+function buildWeeklyView(record) {
+  const fields = record.fields || {};
+
+  const labels = splitWeeklyRollup(fields["SS Row Lables"]);
+  const day1 = splitWeeklyRollup(fields["Day 1"]);
+  const day2 = splitWeeklyRollup(fields["Day 2"]);
+  const day3 = splitWeeklyRollup(fields["Day 3"]);
+  const day4 = splitWeeklyRollup(fields["Day 4"]);
+  const day5 = splitWeeklyRollup(fields["Day 5"]);
+
+  const rowCount = Math.max(
+    labels.length,
+    day1.length,
+    day2.length,
+    day3.length,
+    day4.length,
+    day5.length
+  );
+
+  const rows = [];
+
+  for (let i = 0; i < rowCount; i += 1) {
+    const label = labels[i] ?? "";
+    const days = [
+      day1[i] ?? "",
+      day2[i] ?? "",
+      day3[i] ?? "",
+      day4[i] ?? "",
+      day5[i] ?? ""
+    ];
+
+    if (!label && days.every(day => !day)) continue;
+
+    rows.push({ label, days });
+  }
+
+  return rows.length ? { rows } : null;
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -393,7 +446,8 @@ function buildPacket(record, headerLookup) {
           {
             kind: "scheduling",
             title: "Scheduling",
-            rows: buildSchedulingRows(record, headerLookup.lessonRecordsById || new Map())
+            rows: buildSchedulingRows(record, headerLookup.lessonRecordsById || new Map()),
+            weeklyView: buildWeeklyView(record)
           }
         ]
       }
