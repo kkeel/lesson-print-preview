@@ -665,3 +665,80 @@ a:hover {
   font-style: italic;
   color: #596e5e;
 }
+
+/* =========================
+   Sample weekly view
+   ========================= */
+
+.weekly-view-block {
+  margin-top: 0.34in;
+}
+
+.weekly-view-title {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #adb58f;
+  margin: 0 0 10px 0.72in;
+}
+
+.weekly-view-grid {
+  display: grid;
+  grid-template-columns: 0.72in repeat(5, 1fr);
+  border: 1px solid #596e5e;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 8.5px;
+  line-height: 1.18;
+}
+
+.weekly-view-corner {
+  border-right: 1px solid transparent;
+  border-bottom: 1px solid #596e5e;
+}
+
+.weekly-view-day-header {
+  background: #adb58f;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 700;
+  padding: 6px 4px;
+  border-bottom: 1px solid #596e5e;
+}
+
+.weekly-view-row-label {
+  color: #596e5e;
+  font-weight: 700;
+  padding: 6px 6px 6px 0;
+  text-align: right;
+  align-self: center;
+  border-right: 1px solid #596e5e;
+}
+
+.weekly-view-cell {
+  min-height: 0.38in;
+  padding: 6px 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 1px solid #596e5e;
+  border-bottom: 1px solid #596e5e;
+  background: #f4f5f8;
+}
+
+.weekly-view-cell:nth-child(6n) {
+  border-right: 0;
+}
+
+.weekly-view-grid > :nth-last-child(-n + 6) {
+  border-bottom: 0;
+}
+
+@media print {
+  .weekly-view-day-header,
+  .weekly-view-cell {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
