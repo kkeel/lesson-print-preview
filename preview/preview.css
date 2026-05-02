@@ -621,6 +621,21 @@ a:hover {
   border: 1px solid #596e5e;
 }
 
+.schedule-table th:nth-child(1),
+.schedule-table td:nth-child(1) {
+  width: 12%;
+}
+
+.schedule-table th:nth-child(2),
+.schedule-table td:nth-child(2) {
+  width: 32%;
+}
+
+.schedule-table th:nth-child(3),
+.schedule-table td:nth-child(3) {
+  width: 56%;
+}
+
 .schedule-table thead th {
   background: #596e5e;
   color: white;
@@ -642,17 +657,8 @@ a:hover {
 }
 
 .schedule-grade-cell {
-  width: 0.48in;
   text-align: center;
   white-space: nowrap;
-}
-
-.schedule-info-cell {
-  width: 1.8in;
-}
-
-.schedule-books-cell {
-  width: auto;
 }
 
 .schedule-table tr.course-books td {
