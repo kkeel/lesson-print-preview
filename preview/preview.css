@@ -683,28 +683,20 @@ a:hover {
   margin: 0 0 10px;
 }
 
-.weekly-view-stack {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.weekly-view-row-title {
-  font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 8.5px;
-  line-height: 1.15;
-  font-weight: 700;
-  color: #596e5e;
-  margin: 0 0 3px;
-}
-
-.weekly-view-days {
+.weekly-view-grid {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  border: 1px solid #596e5e;
+  grid-template-columns: 0.92in repeat(5, 1fr);
+  border-top: 1px solid #596e5e;
+  border-left: 1px solid #596e5e;
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 8.3px;
   line-height: 1.15;
+}
+
+.weekly-view-corner {
+  background: #ffffff;
+  border-right: 1px solid #596e5e;
+  border-bottom: 1px solid #596e5e;
 }
 
 .weekly-view-day-header {
@@ -717,23 +709,31 @@ a:hover {
   border-bottom: 1px solid #596e5e;
 }
 
-.weekly-view-day-header:nth-child(5) {
-  border-right: 0;
+.weekly-view-row-title {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 8.2px;
+  line-height: 1.12;
+  font-weight: 700;
+  color: #596e5e;
+  padding: 5px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+  border-right: 1px solid #596e5e;
+  border-bottom: 1px solid #596e5e;
 }
 
 .weekly-view-cell {
-  min-height: 0.33in;
+  min-height: 0.34in;
   padding: 5px 4px;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   border-right: 1px solid #596e5e;
+  border-bottom: 1px solid #596e5e;
   background: #f4f5f8;
-}
-
-.weekly-view-cell:nth-child(10) {
-  border-right: 0;
 }
 
 @media print {
