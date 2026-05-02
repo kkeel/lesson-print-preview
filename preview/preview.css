@@ -636,3 +636,17 @@ a:hover {
   font-style: italic;
   color: #596e5e;
 }
+
+.schedule-info-cell,
+.schedule-books-cell {
+  white-space: normal;
+}
+
+.schedule-info-cell br,
+.schedule-books-cell br {
+  content: "";
+}
+
+.schedule-books-cell {
+  line-height: 1.5;
+}
