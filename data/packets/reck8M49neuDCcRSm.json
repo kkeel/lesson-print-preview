@@ -6,18 +6,28 @@
   "sortId": "017.009.002.000",
   "gradeText": "GRADE(S): 9-12",
   "rowType": "course",
-  "hasTopics": false,
-  "isStandaloneCourse": true,
+  "hasTopics": true,
+  "isStandaloneCourse": false,
   "courseConnectionIds": [],
-  "topicConnectionIds": [],
+  "topicConnectionIds": [
+    "recH7dK88YkNRwvPD",
+    "recWt7LLnlqUsyMLX",
+    "rec8nnMd0TneKbQ0w",
+    "recKDeGxPlNFhF9Vr"
+  ],
   "courseConnectionNames": [],
-  "topicConnectionNames": [],
+  "topicConnectionNames": [
+    "Nature Notebook: Grades 9-12",
+    "Nature Walks & Scouting: Grades 9-12",
+    "Introduction to Engineering Lessons",
+    "Introduction to Engineering Labs"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Science",
-      "subtitle": "Introduction to Engineering",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nIntroduction to Engineering Lessons\nIntroduction to Engineering Labs",
       "gradeText": "GRADE(S): 9-12",
       "subject": "Alt. Science Options",
       "sortId": "017.009.002.000"
@@ -26,14 +36,55 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "content": "This course includes the following topic(s): Introduction to Engineering Lessons, Introduction to Engineering Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Introduction to Engineering Lessons\nAn elective in Physical Science, Introduction to Engineering develops thinking skills and practical experience that are applicable to any field of design/innovation, while incorporating historical context, modern developments, current events, and citizenship. This is a VERY hands-on course that requires independent interest in any form of design/innovation, including various fields of engineering and the skilled trades. The course provides guidance and flexibility for teachers and learners to adjust the course for personal needs and preferences. \n\nAbout Introduction to Engineering Labs\nNote that labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Placement & Combining Tips",
+              "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nIntroduction to Engineering Lessons\nThe completion of Algebra 1 and Geometry are recommended for this course, as the experience will contribute to the learner's understanding, but they are not required."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
-              "label": "Science: Introduction to Engineering",
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
               "grade": "9-12",
-              "scheduleInfo": "Science: Introduction to Engineering",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Introduction to Engineering Lessons",
+              "grade": "9-12",
+              "scheduleInfo": "Introduction to Engineering Lessons\n5 times/week 45 min",
+              "books": "The Things We Make, The Boy Who Harnessed the Wind, The Boy Who Harnessed the Wind, Young Reader's Edition, The Way Things Work: Newly Revised Edition: The Ultimate Guide to How Things Work, By Design: Ethics, Theology, and the Practice of Engineering"
+            },
+            {
+              "rowType": "topic",
+              "label": "Introduction to Engineering Labs",
+              "grade": "9-12",
+              "scheduleInfo": "Introduction to Engineering Labs\n1 time/week 60 min",
               "books": ""
             }
           ]

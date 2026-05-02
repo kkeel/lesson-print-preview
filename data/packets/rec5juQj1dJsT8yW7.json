@@ -6,18 +6,24 @@
   "sortId": "012.008.007.000",
   "gradeText": "GRADE(S): 7",
   "rowType": "course",
-  "hasTopics": false,
-  "isStandaloneCourse": true,
+  "hasTopics": true,
+  "isStandaloneCourse": false,
   "courseConnectionIds": [],
-  "topicConnectionIds": [],
+  "topicConnectionIds": [
+    "rec78JKlbLnC40Gfe",
+    "rechBr1klp07q5DHA"
+  ],
   "courseConnectionNames": [],
-  "topicConnectionNames": [],
+  "topicConnectionNames": [
+    "Math Lessons: Grade 7 (Denison)",
+    "Math Games: Grades 1-8"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Mathematics",
-      "subtitle": "Denison",
+      "subtitle": "Math Lessons\nMath Games",
       "gradeText": "GRADE(S): 7",
       "subject": "Math",
       "sortId": "012.008.007.000"
@@ -26,15 +32,32 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "content": "This course includes the following topic(s): Math Lessons: Grade 7 (Denison), Math Games: Grades 1-8\n\nAbout Math Lessons: Grade 7 (Denison)\nComplete Pre-Algebra course with video lessons taught by a veteran teacher. Pre-Algebra is designed for students entering 7th or 8th grade who would benefit from a solid review of arithmetic alongside a gentle introduction to algebra. It covers every essential pre-algebra topic with a strong emphasis on reinforcing arithmetic fundamentals, filling in any learning gaps, and building confidence as students transition into more abstract algebraic thinking. It is ideal for situations who need to revisit key arithmetic skills, strengthen problem-solving confidence, or bridge gaps before beginning Algebra 1. Despite its basic approach, the course covers all the essential topics needed for success in high school Algebra 1 and beyond.\n\nAbout Math Games: Grades 1-8\nPractice and learn math facts through games."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
-              "label": "Mathematics: Grade 7 (Denison)",
+              "rowType": "topic",
+              "label": "Math Lessons: Grade 7 (Denison)",
               "grade": "7",
-              "scheduleInfo": "Mathematics: Grade 7 (Denison)",
-              "books": ""
+              "scheduleInfo": "Math Lessons: Grade 7 (Denison)\n5 times/week 30 min",
+              "books": "Denison Pre-Algebra"
+            },
+            {
+              "rowType": "topic",
+              "label": "Math Games: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
+              "books": "Math Card Games Kit"
             }
           ]
         }

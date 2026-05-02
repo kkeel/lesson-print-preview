@@ -5,12 +5,16 @@
   "subject": "Math",
   "sortId": "012.015.011.002",
   "gradeText": "GRADE(S): 11",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recEbVV9AfUEFJtAS"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 11"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -40,7 +44,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Pre-Calculus: Part 1",
               "grade": "11",
               "scheduleInfo": "Pre-Calculus: Part 1\n5 times/week 40 min",

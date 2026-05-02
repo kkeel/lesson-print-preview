@@ -5,12 +5,16 @@
   "subject": "Math",
   "sortId": "012.008.007.001",
   "gradeText": "GRADE(S): 7",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec5juQj1dJsT8yW7"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 7 (Denison)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -40,7 +44,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Math Lessons: Grade 7 (Denison)",
               "grade": "7",
               "scheduleInfo": "Math Lessons: Grade 7 (Denison)\n5 times/week 30 min",

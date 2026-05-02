@@ -6,18 +6,24 @@
   "sortId": "012.015.011.000",
   "gradeText": "GRADE(S): 11",
   "rowType": "course",
-  "hasTopics": false,
-  "isStandaloneCourse": true,
+  "hasTopics": true,
+  "isStandaloneCourse": false,
   "courseConnectionIds": [],
-  "topicConnectionIds": [],
+  "topicConnectionIds": [
+    "recDcQNO5PijuitA3",
+    "recDDSyn48JSd0tLu"
+  ],
   "courseConnectionNames": [],
-  "topicConnectionNames": [],
+  "topicConnectionNames": [
+    "Algebra 2/Trigonometry: Part 2",
+    "Pre-Calculus: Part 1"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Mathematics",
-      "subtitle": "",
+      "subtitle": "Algebra 2/Trigonometry\nPre-Calculus",
       "gradeText": "GRADE(S): 11",
       "subject": "Math",
       "sortId": "012.015.011.000"
@@ -31,7 +37,7 @@
           "entries": [
             {
               "title": "About the Course",
-              "content": "Mathematics: Grade 11\nStudents should look ahead to college math requirements at schools they may want to attend or majors they may plan to pursue and plan accordingly. It is important to work at a student's pace. Alveary pacing has students study geometry and algebra concurrently in 9th and 10th grade and then finish Algebra II/Trig during 11th grade. Students can then start precalculus in 11th grade and finish 12th grade with precalculus or calculus."
+              "content": "This course includes the following topic(s): Algebra 2/Trigonometry: Part 2, Pre-Calculus: Part 1\n\nAbout Algebra 2/Trigonometry: Part 2\nStudents continue lessons in Algebra 2/Trig and begin Precalculus if ready.\n\nAbout Pre-Calculus: Part 1\nStudents continue lessons in Algebra 2/Trig and begin Precalculus if ready.\n\nMathematics: Grade 11\nStudents should look ahead to college math requirements at schools they may want to attend or majors they may plan to pursue and plan accordingly. It is important to work at a student's pace. Alveary pacing has students study geometry and algebra concurrently in 9th and 10th grade and then finish Algebra II/Trig during 11th grade. Students can then start precalculus in 11th grade and finish 12th grade with precalculus or calculus."
             }
           ]
         },
@@ -41,7 +47,7 @@
           "entries": [
             {
               "title": "Placement & Combining Tips",
-              "content": "Students should have facility with Algebra 1 before beginning Algebra 2/Trig."
+              "content": "Mathematics: Grade 11\nStudents should have facility with Algebra 1 before beginning Algebra 2/Trig."
             }
           ]
         },
@@ -50,11 +56,18 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
-              "label": "Mathematics: Grade 11",
+              "rowType": "topic",
+              "label": "Algebra 2/Trigonometry: Part 2",
               "grade": "11",
-              "scheduleInfo": "Mathematics: Grade 11",
-              "books": ""
+              "scheduleInfo": "Algebra 2/Trigonometry: Part 2\n5 times/week 40 min",
+              "books": "Algebra and Trigonometry: Functions and Applications, Algebra 2/Trig Ancillary Materials, Home Study Companion: Algebra 2/Trigonometry"
+            },
+            {
+              "rowType": "topic",
+              "label": "Pre-Calculus: Part 1",
+              "grade": "11",
+              "scheduleInfo": "Pre-Calculus: Part 1\n5 times/week 40 min",
+              "books": "Home Study Companion: Precalculus"
             }
           ]
         }

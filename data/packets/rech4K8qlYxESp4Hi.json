@@ -6,18 +6,28 @@
   "sortId": "017.009.001.000",
   "gradeText": "GRADE(S): 9-12",
   "rowType": "course",
-  "hasTopics": false,
-  "isStandaloneCourse": true,
+  "hasTopics": true,
+  "isStandaloneCourse": false,
   "courseConnectionIds": [],
-  "topicConnectionIds": [],
+  "topicConnectionIds": [
+    "recH7dK88YkNRwvPD",
+    "recWt7LLnlqUsyMLX",
+    "recnbEFSJhDxV7DVb",
+    "rec6h4nkUT7DoBh5s"
+  ],
   "courseConnectionNames": [],
-  "topicConnectionNames": [],
+  "topicConnectionNames": [
+    "Nature Notebook: Grades 9-12",
+    "Nature Walks & Scouting: Grades 9-12",
+    "Food Science Lessons",
+    "Food Science Labs"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Science",
-      "subtitle": "Food Science",
+      "subtitle": "Nature Notebook\nNature Walks & Scouting\nFood Science Lessons\nFood Science Labs",
       "gradeText": "GRADE(S): 9-12",
       "subject": "Alt. Science Options",
       "sortId": "017.009.001.000"
@@ -26,14 +36,55 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "content": "This course includes the following topic(s): Food Science Lessons, Food Science Labs, Nature Notebook: Grades 9-12, Nature Walks & Scouting: Grades 9-12\n\nAbout Nature Notebook: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Nature Walks & Scouting: Grades 9-12\nOutdoor work is established or continued as a lifelong habit. Optional resources are provided in science lessons and on the Alveary bookshelf.\n\nAbout Food Science Lessons\nAn elective in Physical Science, Food Science introduces learners to applications in chemistry and physics as they relate to cooking and baking, while incorporating historical context, modern developments, current events, and citizenship. This is a hands-on course that requires independent interest and some flexibility for work time in the kitchen. There is room for teachers and learners to adjust the course for personal needs and preferences.\n\nAbout Food Science Labs\nNote that labs are an essential part of science in which students engage with the Things they are reading about and practice the scientific method."
+            }
+          ]
+        },
+        {
+          "kind": "tips-group",
+          "title": "Placement & Combining Tips",
+          "entries": [
+            {
+              "title": "Placement & Combining Tips",
+              "content": "Nature Notebook: Grades 9-12\nLearners may be combined and follow their own interests.\n\nNature Walks & Scouting: Grades 9-12\nLearners may follow their own interests or follow the plan of their local scouting troop or natural history club.\n\nFood Science Lessons\nThere are no specific prerequisites or concurrents for this course."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
-              "label": "Science: Food Science",
+              "rowType": "topic",
+              "label": "Nature Notebook: Grades 9-12",
               "grade": "9-12",
-              "scheduleInfo": "Science: Food Science",
+              "scheduleInfo": "Nature Notebook: Grades 9-12\n1+ time/week 20 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Nature Walks & Scouting: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "Nature Walks & Scouting: Grades 9-12\n1 time/week 30 min+",
+              "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Food Science Lessons",
+              "grade": "9-12",
+              "scheduleInfo": "Food Science Lessons\n5 times/week 45 min",
+              "books": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking, The Elements of Baking, Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island, Mexico in Your Kitchen, Classic Russian Cooking, Pomp and Sustenance, Celtic Folklore Cooking, Culinary Reactions: The Everyday Chemistry of Cooking"
+            },
+            {
+              "rowType": "topic",
+              "label": "Food Science Labs",
+              "grade": "9-12",
+              "scheduleInfo": "Food Science Labs\n1 time/week 60 min",
               "books": ""
             }
           ]

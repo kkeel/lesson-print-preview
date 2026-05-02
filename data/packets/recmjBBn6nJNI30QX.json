@@ -5,12 +5,16 @@
   "subject": "Citizenship",
   "sortId": "005.011.001.001",
   "gradeText": "GRADE(S): 11",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recOUpJF18JdVLMQz"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 11 (U.S.)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -50,7 +54,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Econ/Civics: Grade 11 (U.S.)",
               "grade": "11",
               "scheduleInfo": "Econ/Civics: Grade 11 (U.S.)\n1 time/week 40 min",

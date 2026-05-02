@@ -9,11 +9,23 @@
   "hasTopics": false,
   "isStandaloneCourse": false,
   "courseConnectionIds": [
-    "recK8yvTqP3qOQR56"
+    "recdGvYPzMKn0lFdV",
+    "recck2P6vunBlHewr",
+    "recKa7MPZrKDMtNrX",
+    "recIBBx3okFwCHQSt",
+    "recK8yvTqP3qOQR56",
+    "recxqVEdN0ofOM5iT",
+    "recOUpJF18JdVLMQz"
   ],
   "topicConnectionIds": [],
   "courseConnectionNames": [
-    "Citizenship: Grade 12"
+    "Citizenship: Grade 9 (U.S.)",
+    "Citizenship: Grade 9 (Canada)",
+    "Citizenship: Grade 10 (Canada)",
+    "Citizenship: Grade 11 (Canada)",
+    "Citizenship: Grade 12",
+    "Citizenship: Grade 10 (U.S.)",
+    "Citizenship: Grade 11 (U.S.)"
   ],
   "topicConnectionNames": [],
   "templateType": "standard",

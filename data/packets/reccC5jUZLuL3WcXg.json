@@ -5,12 +5,16 @@
   "subject": "Citizenship",
   "sortId": "005.010.001.001",
   "gradeText": "GRADE(S): 10",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recxqVEdN0ofOM5iT"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 10 (U.S.)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -50,7 +54,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Econ/Civics: Grade 10 (U.S.)",
               "grade": "10",
               "scheduleInfo": "Econ/Civics: Grade 10 (U.S.)\n1 time/week 40 min",

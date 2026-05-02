@@ -5,12 +5,16 @@
   "subject": "Math",
   "sortId": "012.010.008.001",
   "gradeText": "GRADE(S): 8",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recPqAaYKNZk1NeSq"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Mathematics: Grade 8 (Denison)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -40,7 +44,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Math Lessons: Grade 8 (Denison)",
               "grade": "8",
               "scheduleInfo": "Math Lessons: Grade 8 (Denison)\n5 times/week 40 min",

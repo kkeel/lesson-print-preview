@@ -6,18 +6,24 @@
   "sortId": "012.010.008.000",
   "gradeText": "GRADE(S): 8",
   "rowType": "course",
-  "hasTopics": false,
-  "isStandaloneCourse": true,
+  "hasTopics": true,
+  "isStandaloneCourse": false,
   "courseConnectionIds": [],
-  "topicConnectionIds": [],
+  "topicConnectionIds": [
+    "rec8KH0dlph0jIUpf",
+    "rechBr1klp07q5DHA"
+  ],
   "courseConnectionNames": [],
-  "topicConnectionNames": [],
+  "topicConnectionNames": [
+    "Math Lessons: Grade 8 (Denison)",
+    "Math Games: Grades 1-8"
+  ],
   "templateType": "standard",
   "sections": [
     {
       "type": "cover",
       "title": "Mathematics",
-      "subtitle": "Denison",
+      "subtitle": "Math Lessons\nMath Games",
       "gradeText": "GRADE(S): 8",
       "subject": "Math",
       "sortId": "012.010.008.000"
@@ -26,15 +32,32 @@
       "type": "header",
       "items": [
         {
+          "kind": "about-group",
+          "title": "About the Course",
+          "entries": [
+            {
+              "title": "About the Course",
+              "content": "This course includes the following topic(s): Math Lessons: Grade 8 (Denison), Math Games: Grades 1-8\n\nAbout Math Lessons: Grade 8 (Denison)\nComplete Algebra 1 course with video lessons taught by a veteran teacher and designed to equip students with a solid foundation for future upper-level math classes. What sets this course apart is its thoughtful, supportive design. It not only presents essential algebra 1 topics in a way that is easy to understand and remember, but it also teaches students the habits and techniques they need to succeed in upper-level math. Essentially, they will learn how to learn math. With this course, students will gain a strong Algebra 1 foundation, preparing them for success in Geometry, Algebra 2, and beyond, while also reducing math anxiety and building math confidence. A success version is also offered for those students with learning differences that make math challenging.\n\nAbout Math Games: Grades 1-8\nPractice and learn math facts through games."
+            }
+          ]
+        },
+        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
-              "label": "Mathematics: Grade 8 (Denison)",
+              "rowType": "topic",
+              "label": "Math Lessons: Grade 8 (Denison)",
               "grade": "8",
-              "scheduleInfo": "Mathematics: Grade 8 (Denison)",
-              "books": ""
+              "scheduleInfo": "Math Lessons: Grade 8 (Denison)\n5 times/week 40 min",
+              "books": "Denison Algebra 1"
+            },
+            {
+              "rowType": "topic",
+              "label": "Math Games: Grades 1-8",
+              "grade": "1-8",
+              "scheduleInfo": "Math Games: Grades 1-8\n3+ times/week 15 min+",
+              "books": "Math Card Games Kit"
             }
           ]
         }

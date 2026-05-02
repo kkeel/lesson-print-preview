@@ -5,12 +5,16 @@
   "subject": "Citizenship",
   "sortId": "005.011.002.001",
   "gradeText": "GRADE(S): 11",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recIBBx3okFwCHQSt"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 11 (Canada)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -50,7 +54,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Econ/Civics: Grade 11 (Canada)",
               "grade": "11",
               "scheduleInfo": "Econ/Civics: Grade 11 (Canada)\n1 time/week 40 min",

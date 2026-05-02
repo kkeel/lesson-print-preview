@@ -5,12 +5,18 @@
   "subject": "Citizenship",
   "sortId": "005.011.001.003",
   "gradeText": "GRADE(S): 11+",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recOUpJF18JdVLMQz",
+    "recIBBx3okFwCHQSt"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 11 (U.S.)",
+    "Citizenship: Grade 11 (Canada)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -50,7 +56,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Ethics: Part 5",
               "grade": "11+",
               "scheduleInfo": "Ethics: Part 5\n1 time/week 20 min",

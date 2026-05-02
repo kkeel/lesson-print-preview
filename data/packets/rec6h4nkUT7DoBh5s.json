@@ -5,12 +5,16 @@
   "subject": "Alt. Science Options",
   "sortId": "017.009.001.002",
   "gradeText": "GRADE(S): 9-12",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rech4K8qlYxESp4Hi"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Science: Food Science"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "sections": [
@@ -40,7 +44,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Food Science Labs",
               "grade": "9-12",
               "scheduleInfo": "Food Science Labs\n1 time/week 60 min",
