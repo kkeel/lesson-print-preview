@@ -686,7 +686,8 @@ a:hover {
 .weekly-view-grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  border: 1px solid #596e5e;
+  border-top: 1px solid #596e5e;
+  border-left: 1px solid #596e5e;
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 8px;
   line-height: 1.12;
@@ -697,13 +698,9 @@ a:hover {
   color: #ffffff;
   text-align: center;
   font-weight: 700;
-  padding: 4px 4px;
-  border-right: 1px solid #7f907b;
+  padding: 4px;
+  border-right: 1px solid #596e5e;
   border-bottom: 1px solid #596e5e;
-}
-
-.weekly-view-day-header:nth-child(5) {
-  border-right: 0;
 }
 
 .weekly-view-row-full {
@@ -715,13 +712,13 @@ a:hover {
   color: #596e5e;
   padding: 3px 6px;
   background: #f7f8f4;
-  border-top: 1px solid #c7d0bd;
+  border-right: 1px solid #596e5e;
   border-bottom: 1px solid #c7d0bd;
 }
 
 .weekly-view-cell {
   min-height: 0.29in;
-  padding: 4px 4px;
+  padding: 4px;
   text-align: center;
   display: flex;
   align-items: center;
@@ -733,7 +730,7 @@ a:hover {
 }
 
 .weekly-view-cell:nth-child(5n) {
-  border-right: 0;
+  border-right-color: #596e5e;
 }
 
 @media print {
