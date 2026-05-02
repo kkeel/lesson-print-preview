@@ -40,7 +40,11 @@ const HEADER_FIELDS = [
   "Subject",
   "Course/Topic Description (LP)",
   "About_Export",
-  "Combining & Placement Tips (LP)"
+  "Combining & Placement Tips (LP)",
+  "General_Export",
+  "Special_Export",
+  "Term_Export",
+  "Reminders_Export"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -225,6 +229,12 @@ function buildAboutEntries(headerRecords) {
   return entries;
 }
 
+const PLANNING_PREP_DISCLAIMER = [
+  "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.",
+  "LINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.",
+  "Responsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+].join("\n\n");
+
 function buildPlacementEntries(headerRecords) {
   const entries = [];
 
@@ -243,9 +253,62 @@ function buildPlacementEntries(headerRecords) {
   return entries;
 }
 
+function buildPlanningPrepEntries(headerRecords) {
+  const entries = [];
+
+  for (const record of headerRecords) {
+    const fields = record.fields || {};
+
+    const generalExport = normalizeRichText(fields["General_Export"]);
+    const specialExport = normalizeRichText(fields["Special_Export"]);
+    const termExport = normalizeRichText(fields["Term_Export"]);
+    const remindersExport = normalizeRichText(fields["Reminders_Export"]);
+
+    const recordEntries = [
+      {
+        title: "",
+        content: PLANNING_PREP_DISCLAIMER
+      }
+    ];
+
+    if (generalExport) {
+      recordEntries.push({
+        title: "",
+        content: generalExport
+      });
+    }
+
+    if (specialExport) {
+      recordEntries.push({
+        title: "Special Topics & Field Trips",
+        content: specialExport
+      });
+    }
+
+    if (termExport) {
+      recordEntries.push({
+        title: "Term Prep & Teacher Tips",
+        content: termExport
+      });
+    }
+
+    if (remindersExport) {
+      recordEntries.push({
+        title: "Reminders",
+        content: remindersExport
+      });
+    }
+
+    entries.push(...recordEntries);
+  }
+
+  return entries;
+}
+
 function buildHeaderItems(headerRecords) {
   const aboutEntries = buildAboutEntries(headerRecords);
   const placementEntries = buildPlacementEntries(headerRecords);
+  const planningPrepEntries = buildPlanningPrepEntries(headerRecords);
 
   const items = [];
 
@@ -262,6 +325,14 @@ function buildHeaderItems(headerRecords) {
       kind: "tips-group",
       title: "Placement & Combining Tips",
       entries: placementEntries
+    });
+  }
+
+  if (planningPrepEntries.length) {
+    items.push({
+      kind: "planning-prep-group",
+      title: "Planning & Prep",
+      entries: planningPrepEntries
     });
   }
 
