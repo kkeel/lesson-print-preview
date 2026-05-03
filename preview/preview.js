@@ -232,6 +232,46 @@ function renderHeaderItem(item) {
     `;
   }
 
+  if (item.kind === "books-resources") {
+    const iconSrc = "../images/header_icons/Books & Resources.png";
+    const linkUrl = item.linkUrl || "#";
+  
+    return `
+      <section class="flow-block header-block header-group-block">
+        <div class="header-panel">
+          <div class="header-panel-icon-col">
+            <img src="${iconSrc}" alt="Books & Resources" class="header-panel-icon" />
+          </div>
+  
+          <div class="header-panel-content books-resources-content">
+            <h3 class="header-entry-title">Books & Resources</h3>
+  
+            <p class="books-resources-intro">
+              For book rationales and purchase options, click the Book List link or<br>
+              scan the QR code below.
+            </p>
+  
+            <p class="books-resources-link-line">
+              ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
+            </p>
+  
+            <div class="books-resources-list">
+              ${(item.groups || []).map(group => `
+                <div class="books-resource-group ${group.type === "course" ? "books-resource-course" : "books-resource-topic"}">
+                  <h4>${escapeHtml(group.title || "")}</h4>
+  
+                  ${(group.books || []).map(book => `
+                    <div class="books-resource-book">${escapeHtml(book)}</div>
+                  `).join("")}
+                </div>
+              `).join("")}
+            </div>
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
   if (item.kind === "scheduling") {
     const iconSrc = "../images/header_icons/Scheduling.png";
   
