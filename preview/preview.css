@@ -770,3 +770,73 @@ a:hover {
   color: #adb58f;
   margin: 0 0 0.12in;
 }
+
+/* =========================
+   Books & Resources
+   ========================= */
+
+.books-resources-content {
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+.books-resources-intro {
+  font-size: 12px;
+  line-height: 1.45;
+  margin: 0 0 0.12in;
+}
+
+.books-resources-link-line {
+  font-size: 12px;
+  line-height: 1.3;
+  margin: 0 0 0.18in;
+}
+
+.books-resources-link-line a {
+  color: #2458d6;
+  text-decoration: underline;
+  margin-left: 0.18in;
+}
+
+.books-resources-list {
+  margin-top: 0.14in;
+}
+
+.books-resource-group {
+  margin-top: 0.16in;
+}
+
+.books-resource-group:first-child {
+  margin-top: 0;
+}
+
+.books-resource-group h4 {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  line-height: 1.2;
+  font-weight: 700;
+  margin: 0 0 0.08in;
+}
+
+.books-resource-course h4 {
+  background: #596e5e;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 7px 10px;
+}
+
+.books-resource-topic h4 {
+  color: #adb58f;
+  font-size: 13px;
+}
+
+.books-resource-book {
+  font-size: 12px;
+  line-height: 1.35;
+  margin: 0 0 0.08in 0.28in;
+}
+
+@media print {
+  .books-resource-course h4 {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
