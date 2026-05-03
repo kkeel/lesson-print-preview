@@ -202,6 +202,31 @@ function renderHeaderItem(item) {
     `;
   }
 
+  if (item.kind === "planning-prep-group") {
+    const iconSrc = "../images/header_icons/Planning & Prep.png";
+  
+    return `
+      <section class="flow-block header-block header-group-block">
+        <div class="header-panel">
+          <div class="header-panel-icon-col">
+            <img src="${iconSrc}" alt="Planning & Prep" class="header-panel-icon" />
+          </div>
+  
+          <div class="header-panel-content planning-prep-content">
+            <h3 class="header-entry-title">Planning & Prep</h3>
+  
+            ${(item.entries || []).map(entry => `
+              <div class="planning-prep-entry">
+                ${entry.title ? `<h4 class="planning-prep-subtitle">${escapeHtml(entry.title)}</h4>` : ""}
+                <p>${nl2br(entry.content || "")}</p>
+              </div>
+            `).join("")}
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
   if (item.kind === "scheduling") {
     const iconSrc = "../images/header_icons/Scheduling.png";
   
