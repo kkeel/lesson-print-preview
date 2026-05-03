@@ -110,6 +110,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Bible: Grades 4-6",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Old Testament: Grades 3-6",
               "type": "topic",
               "books": [

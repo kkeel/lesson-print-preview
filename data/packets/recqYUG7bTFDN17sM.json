@@ -101,6 +101,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grade 4 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Canadian History: Grades 2-4",
               "type": "topic",
               "books": [

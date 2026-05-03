@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 3",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Reading Level 3",
               "type": "topic",
               "books": [

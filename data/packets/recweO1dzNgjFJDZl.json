@@ -144,6 +144,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 7",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 7",
               "type": "topic",
               "books": [

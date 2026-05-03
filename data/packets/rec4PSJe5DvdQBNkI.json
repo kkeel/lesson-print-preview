@@ -135,6 +135,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 2",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 2",
               "type": "topic",
               "books": [

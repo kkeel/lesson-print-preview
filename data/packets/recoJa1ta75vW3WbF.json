@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Mathematics: Grade 2",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Math Lessons: Grade 2",
               "type": "topic",
               "books": [

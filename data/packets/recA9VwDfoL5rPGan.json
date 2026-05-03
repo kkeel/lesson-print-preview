@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grades 7-8 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "U.S. History: Grades 7-8",
               "type": "topic",
               "books": [

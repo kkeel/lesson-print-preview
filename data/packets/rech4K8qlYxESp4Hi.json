@@ -131,6 +131,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Food Science",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Food Science Lessons",
               "type": "topic",
               "books": [

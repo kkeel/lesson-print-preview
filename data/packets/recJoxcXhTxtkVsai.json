@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Literature: Grade 2",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Classic Lit.: Grade 2",
               "type": "topic",
               "books": [

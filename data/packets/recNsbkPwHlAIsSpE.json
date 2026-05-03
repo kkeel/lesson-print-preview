@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "PE: Grades 7-12",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Playground Games",
               "type": "topic",
               "books": [

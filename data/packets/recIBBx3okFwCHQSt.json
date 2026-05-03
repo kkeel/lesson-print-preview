@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 11 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Econ/Civics: Grade 11 (Canada)",
               "type": "topic",
               "books": [

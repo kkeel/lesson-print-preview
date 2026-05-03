@@ -132,6 +132,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Literature: Grade 9",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Poetry Study: Grade 9",
               "type": "topic",
               "books": [

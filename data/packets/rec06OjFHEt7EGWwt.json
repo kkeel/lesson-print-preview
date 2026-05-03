@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Geology",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Geology Lessons",
               "type": "topic",
               "books": [

@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 9 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Plutarch/Government: Grade 9 (U.S.)",
               "type": "topic",
               "books": [

@@ -140,6 +140,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 6",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 6",
               "type": "topic",
               "books": [

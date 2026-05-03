@@ -118,6 +118,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 8",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Grammar/Comp: Grade 8",
               "type": "topic",
               "books": [

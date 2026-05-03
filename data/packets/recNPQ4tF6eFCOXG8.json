@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grade 4 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "U.S. History: Grades 4-6",
               "type": "topic",
               "books": [

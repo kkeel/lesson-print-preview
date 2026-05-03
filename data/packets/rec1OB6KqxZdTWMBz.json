@@ -131,6 +131,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Chemistry",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Chemistry Lessons",
               "type": "topic",
               "books": [

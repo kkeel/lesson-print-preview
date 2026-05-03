@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 4",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "First Citizen Stories",
               "type": "topic",
               "books": [

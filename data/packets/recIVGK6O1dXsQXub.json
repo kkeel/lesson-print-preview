@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grade 9 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Canadian History: Grades 9-10",
               "type": "topic",
               "books": [

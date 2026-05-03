@@ -88,6 +88,18 @@
               "content": "Current Events: Grades 9-12\n☐ Set up a Citizenship Notebook. You can do it multiple ways, but having a 3-ring binder, lined notebook paper, and about 5 tabbed dividers often works well. You can read more about how to set one up and suggestions for various sections in the Quick Links. \n\n☐ Make a Calendar of Events for Current Events lessons by drawing a calendar grid in a notebook (or print a blank calendar from the internet)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 12",
+              "type": "course",
+              "books": []
+            }
+          ]
         }
       ]
     }

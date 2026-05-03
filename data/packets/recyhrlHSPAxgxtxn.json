@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grades 7-8 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Ancient History: Grades 7-9",
               "type": "topic",
               "books": [

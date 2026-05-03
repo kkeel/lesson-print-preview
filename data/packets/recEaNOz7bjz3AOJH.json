@@ -109,6 +109,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 12",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Composition: Grade 12",
               "type": "topic",
               "books": [

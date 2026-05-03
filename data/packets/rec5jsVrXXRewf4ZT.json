@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Mathematics: Grade 12",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Pre-Calculus: Part 2",
               "type": "topic",
               "books": [

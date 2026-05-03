@@ -127,6 +127,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Introduction to Engineering",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Introduction to Engineering Lessons",
               "type": "topic",
               "books": [

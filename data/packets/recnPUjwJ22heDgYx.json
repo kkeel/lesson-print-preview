@@ -132,6 +132,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 7 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Plutarch: Grades 6-8",
               "type": "topic",
               "books": [

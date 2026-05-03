@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Advanced Nature Study",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Advanced Nature Study Lessons",
               "type": "topic",
               "books": [

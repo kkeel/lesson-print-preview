@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Mathematics: Grade 11",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Algebra 2/Trigonometry: Part 2",
               "type": "topic",
               "books": [

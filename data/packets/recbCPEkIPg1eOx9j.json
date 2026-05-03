@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 5",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Plutarch: Beginner Track",
               "type": "topic",
               "books": [

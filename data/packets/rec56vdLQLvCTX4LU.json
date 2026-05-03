@@ -96,6 +96,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grade 9 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Ancient History: Grades 7-9",
               "type": "topic",
               "books": [

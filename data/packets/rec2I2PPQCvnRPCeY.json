@@ -108,6 +108,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 7",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Grammar/Comp: Grade 7",
               "type": "topic",
               "books": [

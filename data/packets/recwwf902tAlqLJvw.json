@@ -131,6 +131,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Biology",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Biology Lessons",
               "type": "topic",
               "books": [

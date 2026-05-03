@@ -127,6 +127,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 6",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Grammar: Grade 6",
               "type": "topic",
               "books": [

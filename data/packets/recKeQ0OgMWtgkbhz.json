@@ -105,6 +105,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 2",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Reading Level 2",
               "type": "topic",
               "books": [

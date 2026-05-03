@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 6",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Plutarch: Grades 6-8",
               "type": "topic",
               "books": [

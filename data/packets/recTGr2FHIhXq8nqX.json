@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Literature: Grade 3",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Lit.: Grade 3",
               "type": "topic",
               "books": [

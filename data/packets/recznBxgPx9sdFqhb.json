@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Bible: Grade 2",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Old Testament: Grade 2",
               "type": "topic",
               "books": [

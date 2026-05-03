@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Citizenship: Grade 10 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Econ/Civics: Grade 10 (U.S.)",
               "type": "topic",
               "books": [

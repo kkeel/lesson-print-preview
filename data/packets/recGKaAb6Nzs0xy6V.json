@@ -144,6 +144,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 8",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 8",
               "type": "topic",
               "books": [

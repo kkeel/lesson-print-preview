@@ -131,6 +131,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Botany",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Botany Lessons",
               "type": "topic",
               "books": [

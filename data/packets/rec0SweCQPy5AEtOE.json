@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Language Study: Grade 9",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Grammar/Comp: Grade 9",
               "type": "topic",
               "books": [

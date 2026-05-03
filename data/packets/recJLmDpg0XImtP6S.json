@@ -132,6 +132,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Literature: Grade 10",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Poetry Study: Grade 10",
               "type": "topic",
               "books": [

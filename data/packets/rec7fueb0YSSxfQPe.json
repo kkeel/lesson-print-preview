@@ -135,6 +135,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 3",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 3",
               "type": "topic",
               "books": [

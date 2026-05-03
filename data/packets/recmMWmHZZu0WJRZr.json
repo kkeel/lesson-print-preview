@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "PE: Grades 4-6",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Folk Dancing",
               "type": "topic",
               "books": [

@@ -96,6 +96,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grades 2-3 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Canadian History: Grades 2-4",
               "type": "topic",
               "books": [

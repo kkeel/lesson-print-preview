@@ -101,6 +101,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grades 10-12 (U.S.)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Ancient History: Grades 10-12",
               "type": "topic",
               "books": [

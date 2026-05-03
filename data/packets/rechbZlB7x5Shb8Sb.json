@@ -118,6 +118,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Bible: Grade 12",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Church History: Grades 10-12",
               "type": "topic",
               "books": [

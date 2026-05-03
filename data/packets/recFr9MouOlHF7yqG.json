@@ -96,6 +96,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Mathematics: Grade 9",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Algebra 1: Part 2",
               "type": "topic",
               "books": [

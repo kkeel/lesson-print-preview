@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Literature: Grade 12",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Plays: Grades 9-12",
               "type": "topic",
               "books": [

@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Microbiology",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Microbiology Lessons",
               "type": "topic",
               "books": [

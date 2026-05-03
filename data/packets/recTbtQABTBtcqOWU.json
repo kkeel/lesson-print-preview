@@ -75,6 +75,18 @@
               "content": "Algebra 2/Trigonometry: Part 1\n☐ Work through your Algebra 2/Trig book 3 days/week at your own pace, aiming to finish 20-30%. Drop down to 1 day/week and up Geometry to 4 days/week if the content seems unduly difficult.\n\nGeometry: Part 2\n☐ Work through your Geometry book 2 days/week at your own pace, aiming to finish by the end of the year. You should have 50-60% left if you began in 9th grade."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 10",
+              "type": "course",
+              "books": []
+            }
+          ]
         }
       ]
     }

@@ -123,6 +123,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Astronomy",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Astronomy Lessons",
               "type": "topic",
               "books": [

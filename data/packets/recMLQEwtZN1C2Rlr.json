@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Bible: Grades 10-11",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "New Testament: Grades 10-11",
               "type": "topic",
               "books": [

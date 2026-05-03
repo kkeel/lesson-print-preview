@@ -85,6 +85,18 @@
               "content": "Technology\nYou will need a Google account before starting this course. The student's experience will be greatly enhanced if they have access to a mobile device to test out the apps they will be making."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Technology",
+              "type": "course",
+              "books": []
+            }
+          ]
         }
       ]
     }

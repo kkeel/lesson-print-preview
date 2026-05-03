@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "History: Grades 5-6 (Canada)",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "World History: Grades 4-6",
               "type": "topic",
               "books": [

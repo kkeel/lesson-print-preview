@@ -144,6 +144,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Grade 5",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "General Science: Grade 5",
               "type": "topic",
               "books": [

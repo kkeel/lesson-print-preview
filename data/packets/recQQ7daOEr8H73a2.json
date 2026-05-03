@@ -114,6 +114,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Mathematics: Grade 7",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Geometry: Grade 7",
               "type": "topic",
               "books": [

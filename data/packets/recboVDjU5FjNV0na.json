@@ -127,6 +127,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "Science: Physics",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Physics Lessons",
               "type": "topic",
               "books": [

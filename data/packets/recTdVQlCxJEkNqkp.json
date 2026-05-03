@@ -113,6 +113,11 @@
           "linkUrl": "",
           "groups": [
             {
+              "title": "PE: Grades 1-3",
+              "type": "course",
+              "books": []
+            },
+            {
               "title": "Playground Songs & Rhymes",
               "type": "topic",
               "books": [
