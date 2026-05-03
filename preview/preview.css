@@ -583,8 +583,8 @@ a:hover {
 .header-block p,
 .header-entry p {
   font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 14px;
-  line-height: 1.58;
+  font-size: 12px;
+  line-height: 1.45;
   color: #262b26;
   margin: 0;
 }
