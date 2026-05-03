@@ -26,6 +26,7 @@ const LESSON_FIELDS = [
   "Grade",
   "Schedule Info.",
   "Books",
+  "Book List Link",
   "SS Row Lables",
   "Day 1",
   "Day 2",
@@ -423,6 +424,84 @@ function buildSchedulingRows(packetRecord, allLessonRecordsById) {
   return rows;
 }
 
+function splitBooks(value) {
+  const text = normalizeLineBreakText(value);
+  if (!text) return [];
+
+  if (text.includes("||")) {
+    return text
+      .split("||")
+      .map(item => item.trim())
+      .filter(Boolean);
+  }
+
+  if (text.includes("\n")) {
+    return text
+      .split("\n")
+      .map(item => item.trim())
+      .filter(Boolean);
+  }
+
+  return [text];
+}
+
+function buildBooksResources(packetRecord, allLessonRecordsById) {
+  const fields = packetRecord.fields || {};
+
+  const linkUrl = normalizeText(fields["Book List Link"]);
+  const lessonSetName = normalizeText(fields["Lesson Set Name"]);
+  const courseBooks = splitBooks(fields["Books"]);
+
+  const topicIds = normalizeArray(fields["Topic Connection"]);
+  const isTopic = normalizeArray(fields["Course Connection"]).length > 0;
+
+  const groups = [];
+
+  if (isTopic || !topicIds.length) {
+    if (courseBooks.length) {
+      groups.push({
+        title: lessonSetName,
+        type: isTopic ? "topic" : "course",
+        books: courseBooks
+      });
+    }
+  } else {
+    if (courseBooks.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "course",
+        books: courseBooks
+      });
+    }
+
+    for (const topicId of topicIds) {
+      const topicRecord = allLessonRecordsById.get(topicId);
+      if (!topicRecord) continue;
+
+      const topicFields = topicRecord.fields || {};
+      const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
+      const topicBooks = splitBooks(topicFields["Books"]);
+
+      if (!topicBooks.length) continue;
+
+      groups.push({
+        title: topicTitle,
+        type: "topic",
+        books: topicBooks
+      });
+    }
+  }
+
+  if (!groups.length && !linkUrl) return null;
+
+  return {
+    kind: "books-resources",
+    title: "Books & Resources",
+    linkUrl,
+    groups
+  };
+}
+
 function buildWeeklyView(record) {
   const fields = record.fields || {};
 
@@ -521,8 +600,10 @@ function buildPacket(record, headerLookup) {
             weeklyView: buildWeeklyView(record)
           },
         
-          ...headerItems.filter(item => item.kind === "planning-prep-group")
-        ]
+          ...headerItems.filter(item => item.kind === "planning-prep-group"),
+        
+          buildBooksResources(record, headerLookup.lessonRecordsById || new Map())
+        ].filter(Boolean)
       }
     ]
   };
