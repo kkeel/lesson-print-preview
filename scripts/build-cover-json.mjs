@@ -445,6 +445,21 @@ function splitBooks(value) {
   return [text];
 }
 
+function uniqueBooks(books) {
+  const seen = new Set();
+  const result = [];
+
+  for (const book of books) {
+    const key = String(book || "").trim().toLowerCase();
+    if (!key || seen.has(key)) continue;
+
+    seen.add(key);
+    result.push(book);
+  }
+
+  return result;
+}
+
 function buildBooksResources(packetRecord, allLessonRecordsById) {
   const fields = packetRecord.fields || {};
 
@@ -452,27 +467,62 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
   const lessonSetName = normalizeText(fields["Lesson Set Name"]);
   const courseBooks = splitBooks(fields["Books"]);
 
+  const courseIds = normalizeArray(fields["Course Connection"]);
   const topicIds = normalizeArray(fields["Topic Connection"]);
-  const isTopic = normalizeArray(fields["Course Connection"]).length > 0;
+  const isTopic = courseIds.length > 0;
 
   const groups = [];
 
-  if (isTopic || !topicIds.length) {
-    if (courseBooks.length) {
+  // -----------------------------
+  // 1. TOPIC PACKET
+  // Include parent course-level books, but do NOT show course header.
+  // De-dupe so music PDFs/resources do not repeat.
+  // -----------------------------
+  if (isTopic) {
+    const parentCourseBooks = [];
+
+    for (const courseId of courseIds) {
+      const courseRecord = allLessonRecordsById.get(courseId);
+      if (!courseRecord) continue;
+
+      parentCourseBooks.push(...splitBooks(courseRecord.fields?.["Books"]));
+    }
+
+    const combinedBooks = uniqueBooks([
+      ...parentCourseBooks,
+      ...courseBooks
+    ]);
+
+    if (combinedBooks.length) {
       groups.push({
         title: lessonSetName,
-        type: isTopic ? "topic" : "course",
-        books: courseBooks
+        type: "topic",
+        books: combinedBooks
       });
     }
-  } else {
-    if (courseBooks.length) {
-      groups.push({
-        title: lessonSetName,
-        type: "course",
-        books: courseBooks
-      });
-    }
+  }
+
+  // -----------------------------
+  // 2. STANDALONE COURSE
+  // -----------------------------
+  else if (!topicIds.length) {
+    groups.push({
+      title: lessonSetName,
+      type: "course",
+      books: uniqueBooks(courseBooks)
+    });
+  }
+
+  // -----------------------------
+  // 3. COURSE WITH TOPICS
+  // Always show the course heading, even if no course-level books.
+  // -----------------------------
+  else {
+    groups.push({
+      title: lessonSetName,
+      type: "course",
+      books: uniqueBooks(courseBooks)
+    });
 
     for (const topicId of topicIds) {
       const topicRecord = allLessonRecordsById.get(topicId);
@@ -480,7 +530,7 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
 
       const topicFields = topicRecord.fields || {};
       const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
-      const topicBooks = splitBooks(topicFields["Books"]);
+      const topicBooks = uniqueBooks(splitBooks(topicFields["Books"]));
 
       if (!topicBooks.length) continue;
 
