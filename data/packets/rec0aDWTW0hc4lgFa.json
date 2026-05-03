@@ -81,6 +81,25 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "U.S. History: Grades 9-12",
+              "type": "course",
+              "books": [
+                "I Am a Man: Chief Standing Bear's Journey for Justice",
+                "American History, Volume 1: 1492-1877",
+                "American History, Volume 2: 1877 - Present",
+                "The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.",
+                "They Fought Like Demons: Women Soldiers in the Civil War",
+                "Reading American Horizons"
+              ]
+            }
+          ]
         }
       ]
     }

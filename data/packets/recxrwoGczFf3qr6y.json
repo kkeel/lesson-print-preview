@@ -101,6 +101,22 @@
               "content": "General Science: Grade 3\n☐ Students will raise ladybugs at the start of Term 1, so make a note in your calendar to order them at the appropriate time and be flexible with the schedule to accommodate their development and release according to the instructions that come with them."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 3",
+              "type": "topic",
+              "books": [
+                "Buzztail and Leaper",
+                "Next Time You See a Cloud",
+                "Going Home"
+              ]
+            }
+          ]
         }
       ]
     }

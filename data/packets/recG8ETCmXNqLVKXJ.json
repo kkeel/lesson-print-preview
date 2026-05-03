@@ -94,6 +94,31 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Ancient History: Grades 10-12",
+              "type": "topic",
+              "books": [
+                "Early Christian Writings: The Apostolic Fathers edited",
+                "Ancient Empires: From Mesopotamia to the Rise of Islam",
+                "Christians Reading Classics"
+              ]
+            },
+            {
+              "title": "World History: Grades 10-12",
+              "type": "topic",
+              "books": [
+                "Blood and Iron: The Rise and Fall of the German Empire",
+                "When America First Met China",
+                "Erebus: The Story of a Ship"
+              ]
+            }
+          ]
         }
       ]
     }

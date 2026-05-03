@@ -125,6 +125,22 @@
               "content": "History of Lit: Grades 9-12\n ☐ Print off the History of Literature PDF, as students will need to annotate and mark up various sections throughout the year.\n\n ☐ Although sources were condensed into one PDF when possible, there are still quite a few outside links due to the number of primary sources referenced, so make sure your student(s) has/have access to the internet for their course."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "History of Lit: Grades 9-12",
+              "type": "topic",
+              "books": [
+                "American Literature",
+                "English Literature for Boys and Girls",
+                "History of Literature PDF"
+              ]
+            }
+          ]
         }
       ]
     }

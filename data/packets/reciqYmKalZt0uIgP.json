@@ -128,6 +128,32 @@
               "content": "General Science: Grade 1\n☐ Fresh fruits are required for Term 2 Week 8. Make a note on your calendar to obtain these at the appropriate time."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 1",
+              "type": "topic",
+              "books": [
+                "A Fruit is a Suitcase for Seeds",
+                "A House Spider's Life",
+                "Over and Under the Pond",
+                "Up in the Garden and Down in the Dirt",
+                "Winter Sleep: A Hibernation Story",
+                "Bat Loves the Night"
+              ]
+            },
+            {
+              "title": "Natural History: Grade 1",
+              "type": "topic",
+              "books": [
+                "Walks with a Naturalist: Living Nature Reader Volume 1"
+              ]
+            }
+          ]
         }
       ]
     }

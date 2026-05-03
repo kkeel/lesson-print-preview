@@ -85,6 +85,22 @@
               "content": "Geography: Grades 4-6\n☐ Print any special maps needed for lessons."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geography: Grades 4-6",
+              "type": "course",
+              "books": [
+                "Student World Atlas 6th Ed.",
+                "David Livingstone: African Explorer",
+                "Africa Is Not a Country"
+              ]
+            }
+          ]
         }
       ]
     }

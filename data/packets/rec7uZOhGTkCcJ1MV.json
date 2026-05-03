@@ -121,6 +121,23 @@
               "content": "Bible: Grade 12\n☐ Make or purchase Bible journals for Old and New Testament studies (see some suggestions in the following course Extra Helpings: Bible: Grades 7-8, 9, 10-11, and 12)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Old Testament: Grades 7-12",
+              "type": "topic",
+              "books": [
+                "The Student Bible Atlas, Revised Edition",
+                "Old Testament Today",
+                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                "ESV Concise Study Bible"
+              ]
+            }
+          ]
         }
       ]
     }

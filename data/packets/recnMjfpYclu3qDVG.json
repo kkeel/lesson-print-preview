@@ -89,6 +89,21 @@
               "content": "Mathematics: Grade 7\n☐ If you downloaded the RightStart ebook, print out enough copies of each page and put them in a binder for easy access.\n\n☐ Organize math manipulatives for easy access."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Pre-Algebra",
+              "type": "topic",
+              "books": [
+                "Hands-On Equations Deluxe Home Set",
+                "The Hands-On Equations Verbal Problems Book"
+              ]
+            }
+          ]
         }
       ]
     }

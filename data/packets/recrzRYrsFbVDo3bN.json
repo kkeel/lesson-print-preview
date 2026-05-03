@@ -101,6 +101,22 @@
               "content": "General Science: Grade 5\n☐ Note that Lab in week 1 begins with 5 \"unknown\" food substances (1- 2 Tbsp) to include honey and any other various items, e.g. peanut butter, whole grain bread, white bread, raw egg white, cereal, applesauce, jelly, whole milk, milk substitute, juice, flavored yogurt, plain yogurt, etc. These will be provided to students in 5 similar-looking containers for study. Refer to the lab book for more details."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 5",
+              "type": "topic",
+              "books": [
+                "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
+                "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
+                "The Tornado Scientist"
+              ]
+            }
+          ]
         }
       ]
     }

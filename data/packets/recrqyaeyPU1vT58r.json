@@ -98,6 +98,29 @@
               "content": "Reading Level 1\n☐ Carefully read \"Literacy Development From Birth to Age 9\" prior to beginning the day-to-day lessons.\n\n☐ Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n\n☐ Supply a blank, lined Word Journal to students, which they will continue to add to and review in Levels 2 and 3.   \n\nPenmanship & Copywork: Grade 1\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at the student's pace."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Reading Level 1",
+              "type": "topic",
+              "books": [
+                "Reading Lessons: Level 1 (Revised 2025)",
+                "Reading-Literature: The Primer"
+              ]
+            },
+            {
+              "title": "Penmanship & Copywork: Grade 1",
+              "type": "topic",
+              "books": [
+                "Getty-Dubay® Italic Handwriting Book B",
+                "Italics: Beautiful Handwriting for Children"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -85,6 +85,20 @@
               "content": "Lettering: Level 2\n☐ Be sure to have all necessary supplies available for each lesson."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Lettering: Level 2",
+              "type": "course",
+              "books": [
+                "The Complete Book of Chalk Lettering"
+              ]
+            }
+          ]
         }
       ]
     }

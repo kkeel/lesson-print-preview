@@ -85,6 +85,20 @@
               "content": "Sloyd: Level 6\n☐ View the \"Sloyd Introduction Video\" in the Quick Links below for an overview of materials and resources used in Sloyd.\n\n☐ Allow time for loading and viewing videos if available. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Purchase supplies and introduce students to their Sloyd tools (discuss their care and safe use). Organize them so they are easily accessible."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Level 6",
+              "type": "course",
+              "books": [
+                "Sloyd"
+              ]
+            }
+          ]
         }
       ]
     }

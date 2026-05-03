@@ -139,6 +139,20 @@
               "content": "Hymns & Spirituals\n☐ Bookmark the Alveary hymns, spirituals, and folk song playlist for the year, or create your own YouTube, Spotify, or Amazon playlist if desired."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Hymns & Spirituals",
+              "type": "topic",
+              "books": [
+                "Our Hymns, Our Heritage"
+              ]
+            }
+          ]
         }
       ]
     }

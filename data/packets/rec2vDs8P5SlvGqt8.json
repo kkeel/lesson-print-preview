@@ -75,6 +75,20 @@
               "content": "Recitation: Grade 11\n☐ Print or order a copy of \"Our Work\" student packet for each student. (Available as a hard copy, PDF, or editable template in Book List)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Recitation: Grade 11",
+              "type": "course",
+              "books": [
+                "Our Work: Grades 9-12"
+              ]
+            }
+          ]
         }
       ]
     }

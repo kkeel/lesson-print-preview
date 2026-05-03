@@ -101,6 +101,20 @@
               "content": "Natural History: Grade 7\n☐ Note that the first lesson of Natural History is an activity, so be prepared with these and any other materials from the supply list on day 1."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Natural History: Grade 7",
+              "type": "topic",
+              "books": [
+                "The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science"
+              ]
+            }
+          ]
         }
       ]
     }

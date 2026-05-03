@@ -89,6 +89,21 @@
               "content": "Grammar/Comp: Grade 9\n☐ Bookmark or print the documents listed in Quick Links below for use throughout the term."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar/Comp: Grade 9",
+              "type": "topic",
+              "books": [
+                "Essay Voyage",
+                "Essay Voyage Teacher Manual (select pages)"
+              ]
+            }
+          ]
         }
       ]
     }

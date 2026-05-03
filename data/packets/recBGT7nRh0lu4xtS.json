@@ -85,6 +85,20 @@
               "content": "Sloyd: Level 4\n☐ View the \"Sloyd Introduction Video\" for an overview of materials and resources used in Sloyd (see Quick Links)\n\n☐ Allow time for loading and viewing videos. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Refresh students on how to use a ruler (note where \"0\" starts) and how to use the edge to draw a straight line.\n\n☐ Purchase supplies and introduce students to their Sloyd tools (discuss their care and safe use). Organize them so they are easily accessible."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Level 4",
+              "type": "course",
+              "books": [
+                "Sloyd"
+              ]
+            }
+          ]
         }
       ]
     }

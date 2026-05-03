@@ -97,6 +97,20 @@
               "content": "Science: Grade 2\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term:\n\nNatural History: Grade 2\n☐ Term 1: insects p.294-300, trees p.618-623\n☐ Term 2: tree winter work p.624, choose 1-2 mammals from p.214-293\n☐ Term 3: wildflower intro and 1-2 spring ephemerals from p.460-487, aquatic insects and dragonflies p.400-408"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Natural History: Grade 2",
+              "type": "topic",
+              "books": [
+                "Walks with a Naturalist: Living Nature Reader Volume 2"
+              ]
+            }
+          ]
         }
       ]
     }

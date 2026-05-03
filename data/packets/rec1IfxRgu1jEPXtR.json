@@ -79,6 +79,21 @@
               "content": "Grammar: Grade 10\n☐ Print or bookmark the Quick Links below for use during the term."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar: Grade 10",
+              "type": "topic",
+              "books": [
+                "Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right",
+                "Caesar's English II"
+              ]
+            }
+          ]
         }
       ]
     }

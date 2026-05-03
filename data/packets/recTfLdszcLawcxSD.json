@@ -81,6 +81,24 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Upper Spanish: Level 4",
+              "type": "course",
+              "books": [
+                "Spanish: Level 4 SoundCloud Playlist",
+                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
+                "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
+                "Spanish: Level 4 Student Notebook"
+              ]
+            }
+          ]
         }
       ]
     }

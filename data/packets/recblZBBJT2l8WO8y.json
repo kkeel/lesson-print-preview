@@ -102,6 +102,32 @@
               "content": "General Lit.: Grade 4\n☐ If students have already read The Lion, the Witch and the Wardrobe, consider having them still read it on their own if it might help them gain confidence reading and completing lessons themselves. Otherwise, substitute another book in the Narnia series or substitute with a book from an adjacent grade's literature lessons and begin Johnny Tremain earlier in the year (the whole book is too long to finish before the end of Term 3, so it can easily be moved back)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Lit.: Grade 4",
+              "type": "topic",
+              "books": [
+                "The Lion, the Witch and the Wardrobe",
+                "Hans Brinker or The Silver Skates"
+              ]
+            },
+            {
+              "title": "Mythology/Hist. Fiction: Grade 4",
+              "type": "topic",
+              "books": [
+                "In the Days of Giants",
+                "Russian Fairy Tales",
+                "South American Jungle Tales",
+                "The Tales of Uncle Remus: The Adventures of Brer Rabbit",
+                "Short Stories & Folktales"
+              ]
+            }
+          ]
         }
       ]
     }

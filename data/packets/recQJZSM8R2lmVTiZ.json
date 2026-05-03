@@ -97,6 +97,20 @@
               "content": "Science: Grade 5\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Labs: Grade 5",
+              "type": "topic",
+              "books": [
+                "Science: Grade 5 Lab Book"
+              ]
+            }
+          ]
         }
       ]
     }

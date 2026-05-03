@@ -75,6 +75,26 @@
               "content": "History: Grade 1 (U.S.)\n☐ NOTE: Hiawatha & the Peacemaker contains some illustrations that sensitive children may find scary; however, this book is very important, as it tells the traditional legend of how the Iroquois Confederacy (which heavily influenced the American Founding Fathers) was formed. Preview the book and decide if there are pictures you would rather your student(s) not see.\n\n☐ Go through the lessons and decide if you want to print the images provided in the links. Store these with lesson plans for easy access.\n\n☐ Number the pages (starting with the first page of text) in The Very First Americans, Frozen Land, Moonstick, Hiawatha & The Peacemaker, and Itse Selu.\n\n☐ Print the PDFs linked below in Quick Links for Tales the Totems Tell and The Book of Indians, Chapter IX."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "History: Grade 1 (U.S.)",
+              "type": "course",
+              "books": [
+                "Frozen Land",
+                "Hiawatha and the Peacemaker",
+                "Itse Selu: Cherokee Harvest Festival",
+                "Moonstick: The Seasons of the Sioux",
+                "Tales the Totems Tell",
+                "The Book of Indians",
+                "The Very First Americans"
+              ]
+            }
+          ]
         }
       ]
     }

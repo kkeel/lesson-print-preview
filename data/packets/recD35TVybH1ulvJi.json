@@ -89,6 +89,21 @@
               "content": "Sol-fa: Level 5\n☐ Bookmark Sol-fa playlists (see Quick Links). If you create a free account on the SoundCloud app, the Sol-Fa lessons become downloadable for offline use."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 5",
+              "type": "topic",
+              "books": [
+                "Fifty Steps in Sight-Singing",
+                "Sol-fa Level 5 Audio Lessons"
+              ]
+            }
+          ]
         }
       ]
     }

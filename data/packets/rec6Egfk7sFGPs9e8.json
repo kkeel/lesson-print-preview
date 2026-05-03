@@ -79,6 +79,20 @@
               "content": "Handicrafts\nTerm 3 (Optional): Visit the Cloisonne kit website below in the Quick Links, and instead of working on the term’s projects, students can work at their own pace and choose any beginner kit."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Handicrafts",
+              "type": "course",
+              "books": [
+                "The Ultimate Sashiko Sourcebook"
+              ]
+            }
+          ]
         }
       ]
     }

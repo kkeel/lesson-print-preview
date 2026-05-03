@@ -89,6 +89,20 @@
               "content": "Sol-fa: Level 2\n☐ Bookmark Sol-fa playlists (see Quick Links). If you create a free account on the SoundCloud app, the Sol-Fa lessons become downloadable for offline use."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 2",
+              "type": "topic",
+              "books": [
+                "Sol-fa Level 2 Audio/Video Lessons"
+              ]
+            }
+          ]
         }
       ]
     }

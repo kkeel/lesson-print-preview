@@ -98,6 +98,32 @@
               "content": "Ancient History: Grades 7-9\nThe Sand-Reckoner is a well-written and well-researched account of a portion of the life of Archimedes. Math, engineering, duty, justice, stewardship, and courage are some of the themes. The setting is Syracuse in 264 B.C. and as such has a few references to immoral behavior representative of the period as well as some light romantic content that you may want to preview to decide what is best for your particular student(s), especially those on the younger end of the age range. Some may choose to read the story aloud to edit on the fly if needed and to encourage discussion. Some may choose to edit some wording in the text. Others will be fine with the content as is. We encourage all to provide an inviting space for students to ask questions and share thoughts as they process what they are reading in their books. Pages to preview: 14, 36, 40-41, 171, 198, 204, 249.  There is always the option of substituting for either of the books scheduled in Grades 4-6 as well."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Ancient History: Grades 7-9",
+              "type": "topic",
+              "books": [
+                "The Witness of Early Christian Women: Mothers of the Church",
+                "A Short History of Ancient Rome"
+              ]
+            },
+            {
+              "title": "Canadian History: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "The Story of Canada",
+                "Elijah of Buxton",
+                "The Charlottetown Conference and the Birth of Confederation",
+                "Jeremy's War 1812",
+                "Sophie's Rebellion"
+              ]
+            }
+          ]
         }
       ]
     }

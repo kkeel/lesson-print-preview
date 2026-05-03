@@ -97,6 +97,23 @@
               "content": "Chemistry Lessons\n☐ Note that egg whites are used in the last lab of the year. Make a note in your calendar if you will need to purchase these closer to the appropriate time. Refer to the lab book for more details."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Chemistry Lessons",
+              "type": "topic",
+              "books": [
+                "HS Chem Intro",
+                "Introductory Chemistry: A Foundation",
+                "Michael Faraday's The Chemical History of a Candle",
+                "The Chemical Elements Coloring and Activity Book"
+              ]
+            }
+          ]
         }
       ]
     }

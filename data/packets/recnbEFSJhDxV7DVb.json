@@ -97,6 +97,27 @@
               "content": "Food Science Lessons\n☐ Note that Lab in week 1 calls for lettuce, anchovies, mayonnaise/egg, garlic clove, lemon juice. white wine vinegar, parmesan cheese, Worcestershire sauce, olive oil, and bread and dinner protein of choice.  Additional grocery lists will be provided by the student throughout the year."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Food Science Lessons",
+              "type": "topic",
+              "books": [
+                "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+                "The Elements of Baking",
+                "Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island",
+                "Mexico in Your Kitchen",
+                "Classic Russian Cooking",
+                "Pomp and Sustenance",
+                "Celtic Folklore Cooking",
+                "Culinary Reactions: The Everyday Chemistry of Cooking"
+              ]
+            }
+          ]
         }
       ]
     }

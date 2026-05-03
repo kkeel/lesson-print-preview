@@ -98,6 +98,29 @@
               "content": "Mathematics: Grade 11\n☐ Work through your Algebra 2/Trig book 5 days/week at your own pace, aiming to finish by the end of the year. If you finish early, proceed to Precalculus by Foerster with Math Without Borders Guide."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Algebra 2/Trigonometry: Part 2",
+              "type": "topic",
+              "books": [
+                "Algebra and Trigonometry: Functions and Applications",
+                "Algebra 2/Trig Ancillary Materials",
+                "Home Study Companion: Algebra 2/Trigonometry"
+              ]
+            },
+            {
+              "title": "Pre-Calculus: Part 1",
+              "type": "topic",
+              "books": [
+                "Home Study Companion: Precalculus"
+              ]
+            }
+          ]
         }
       ]
     }

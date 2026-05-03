@@ -89,6 +89,20 @@
               "content": "Sol-fa: Musical Games\n☐ Bookmark the Musical Games Playlist (in Quick Links), which includes many selections from the term."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sol-fa: Musical Games",
+              "type": "topic",
+              "books": [
+                "Musical Games Playlist"
+              ]
+            }
+          ]
         }
       ]
     }

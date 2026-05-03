@@ -79,6 +79,20 @@
               "content": "Poetry Study: Grade 7\n☐ Some of the poems are given as links or PDFs. You may want to print those out. \n\n☐ Make sure the student has a Commonplace Book to write down any poems they especially enjoy. You will want to remind them to do that during poetry time, or set another time in the afternoon to do that."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Poetry Study: Grade 7",
+              "type": "topic",
+              "books": [
+                "What Is Poetry?"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -124,6 +124,30 @@
               "content": "Biology Lessons\n☐ Note that Lab in week 5 calls for red onions and Lab in week 8 for strawberries. Make a note in your calendar if you will need to purchase these closer to the appropriate time. Refer to the lab book for more details.\n\n☐ Note that the Keys (provided in Quick Links) are for the 1st edition. The overall content in the two editions is very similar, but the numbering of chapters is slightly different, especially as learners reach Term 3. When using the Keys, teachers should attend to the topics rather than relying on the numbering."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Biology Lessons",
+              "type": "topic",
+              "books": [
+                "The Biology Coloring Book",
+                "The Spirit of the Rainforest",
+                "General Biology, 2nd Edition",
+                "The Fool and the Heretic"
+              ]
+            },
+            {
+              "title": "Biology Labs",
+              "type": "topic",
+              "books": [
+                "Alveary Biology Lab Book"
+              ]
+            }
+          ]
         }
       ]
     }

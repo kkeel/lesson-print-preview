@@ -107,6 +107,29 @@
               "content": "Literature: Grade 3\n☐ Grade 3 should write a narration every couple of weeks from the term's reading, or write a part and tell the rest. The video \"Tips for Transitioning from Oral to Written Narration\" can be found in the Quick Links. As indicated in the video, students who are not yet secure with penmanship are not yet ready for written narration. In these cases, students may continue with oral and/or illustrated narrations only. Continue penmanship, but instead of written narrations, use the time to have students work on skills that will better support their development, such as climbing on trees or playground equipment, doing household chores, working clay or dough, and doing mazes and dot-to-dot activities.\n\n☐ As desired, plan for a read-aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Lit.: Grade 3",
+              "type": "topic",
+              "books": [
+                "Charlotte's Web",
+                "Heart of a Samurai"
+              ]
+            },
+            {
+              "title": "Lit./Mythology: Grade 3",
+              "type": "topic",
+              "books": [
+                "A Wonder Book for Girls and Boys",
+                "Pilgrim's Progress: Updated, Modern English"
+              ]
+            }
+          ]
         }
       ]
     }

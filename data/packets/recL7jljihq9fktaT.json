@@ -137,6 +137,38 @@
               "content": "General Science: Grade 4\n☐ Note that there is an activity during Lesson 1.  Be sure to have your materials ready!\n\nNatural History: Grade 4\n☐ Students will need to collect a sample of pond water for use during Term 1: weeks 1, 8, and 10.  There is a reminder to visit a pond in the Nature Notebook section of their Outdoor Work resource, but teachers may want to make a note in their calendars, as well."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 4",
+              "type": "topic",
+              "books": [
+                "The Elephant Scientist",
+                "To Fly: The Story of the Wright Brothers",
+                "The Universe in You: A Microscopic Journey"
+              ]
+            },
+            {
+              "title": "Labs: Grade 4",
+              "type": "topic",
+              "books": [
+                "Science: Grade 4 Lab Book"
+              ]
+            },
+            {
+              "title": "Natural History: Grade 4",
+              "type": "topic",
+              "books": [
+                "A World in a Drop of Water: Exploring with a Microscope",
+                "Life on Surtsey: Iceland's Upstart Island",
+                "The Octopus Scientists: Exploring the Mind of a Mollusk"
+              ]
+            }
+          ]
         }
       ]
     }

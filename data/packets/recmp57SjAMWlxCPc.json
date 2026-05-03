@@ -107,6 +107,40 @@
               "content": "History: Grades 5-6 (Canada)\n☐ Read the document in the Quick Links about History Timelines and Charts.\n\n☐ We encourage you to pick a biography for each term to read in the afternoons. The Bookshelf has many recommendations."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "World History: Grades 4-6",
+              "type": "topic",
+              "books": [
+                "William Wilberforce: The Freedom Fighter",
+                "Under the Hawthorn Tree",
+                "Commodore Perry in the Land of the Shogun"
+              ]
+            },
+            {
+              "title": "Ancient History: Grades 5-6",
+              "type": "topic",
+              "books": [
+                "The Bronze Bow",
+                "Redemption: The Church in Ancient Times"
+              ]
+            },
+            {
+              "title": "Canadian History: Grades 5-6",
+              "type": "topic",
+              "books": [
+                "The Story of Canada",
+                "Tecumseh",
+                "The Loxleys and Confederation",
+                "Joe and the Wreck of the Tribune"
+              ]
+            }
+          ]
         }
       ]
     }

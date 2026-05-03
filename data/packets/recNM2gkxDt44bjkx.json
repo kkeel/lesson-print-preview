@@ -97,6 +97,20 @@
               "content": "General Science: Grade 7\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• medium-large sized recycled box, roughly 1-2'\n• knife, blade, or scissors to cut the box\n• table/reading lamp\n• table or countertop\n• books or wood blocks to adjust height\n• 1 gallon jug of milk or water, the type with a handle\n• horizontal bar to support weight, such as broom handle held by 2 people. a chin up bar, a porch railing, etc.\n• recycled cereal box or toothbrush\n• a flat location that is in the sun at noon\n• various supplies by student design\n• printables\n• computer\n• optional: empty cereal box\n• optional: orange\n• optional: flashlight\n• optional: calculator, such as found on most electronic devices"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 7",
+              "type": "topic",
+              "books": [
+                "The Story of Science: Aristotle Leads the Way"
+              ]
+            }
+          ]
         }
       ]
     }

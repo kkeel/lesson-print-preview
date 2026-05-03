@@ -116,6 +116,25 @@
               "content": "Geology Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.  \n\n☐ Obtain materials from the supply lists.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geology Lessons",
+              "type": "topic",
+              "books": [
+                "101 American Geo-Sites You've Gotta See",
+                "Annals of the Former World",
+                "Roadside Geology/Geology Underfoot Series",
+                "The Field Guide to Geology",
+                "The Map That Changed the World",
+                "The Story of the Earth in 25 Rocks"
+              ]
+            }
+          ]
         }
       ]
     }

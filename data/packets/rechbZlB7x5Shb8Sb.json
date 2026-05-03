@@ -111,6 +111,39 @@
               "content": "Church History: Grades 10-12\nCheck the Teacher Notes for content guidance."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Church History: Grades 10-12",
+              "type": "topic",
+              "books": [
+                "When the Church Was Young: Voices of the Early Fathers",
+                "Turning Points in American Church History"
+              ]
+            },
+            {
+              "title": "New Testament: Grade 12",
+              "type": "topic",
+              "books": [
+                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                "Introducing the New Testament: A Historical, Literary, and Theological Survey",
+                "Luke for Everyone"
+              ]
+            },
+            {
+              "title": "Spiritual Formation: Grade 12",
+              "type": "topic",
+              "books": [
+                "Being God's Image: Why Creation Still Matters",
+                "Delighting in the Trinity",
+                "Becoming by Beholding"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -93,6 +93,24 @@
               "content": "Lit./Mythology: Grade 5-6\n☐ The Age of Fable (Term 1) is best as a read-aloud or assigned as a stretch book for independent reading after the first few lessons are done together. Vocabulary may be difficult to understand, but can be comprehended in context. Reference the glossary in Quick Links as needed. These stories reference imaginary creatures and ancient deities. It is a good idea to think ahead about how you might explain these characters if your students ask.  \n\n☐ Black Ships Before Troy (Term 2) and Nearer My Freedom (Term 3) are great books for written narrations and more independent reading. However, since Homer's famous epic is all about the famous siege of Troy and Equiano's book is a slave narrative, they have some hard and gory parts throughout, which teachers may wish to preview or read with more sensitive students."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Lit./Mythology: Grade 5-6",
+              "type": "topic",
+              "books": [
+                "The Age of Fable",
+                "South American Jungle Tales",
+                "Russian Fairy Tales",
+                "A Christmas Carol",
+                "Short Stories & Folktales"
+              ]
+            }
+          ]
         }
       ]
     }

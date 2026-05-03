@@ -95,6 +95,21 @@
               "content": "Church History: Grades 10-12\nCheck the Teacher Notes for content guidance."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Church History: Grades 10-12",
+              "type": "topic",
+              "books": [
+                "When the Church Was Young: Voices of the Early Fathers",
+                "Turning Points in American Church History"
+              ]
+            }
+          ]
         }
       ]
     }

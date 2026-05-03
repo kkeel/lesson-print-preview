@@ -81,6 +81,23 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Poetry: Grades 5-6",
+              "type": "course",
+              "books": [
+                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
+                "The Poet: Pauline Johnson",
+                "The Crescent Moon"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -89,6 +89,26 @@
               "content": "Microbiology Lessons\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed.\n\n☐ Gather supplies for the first microbiology labs initially. You will gather additional supplies once you decide on additional labs.\n\n☐ Teacher Note: Preread Chapter 15. Henrietta Lacks's children had to deal with a lot of abuse of every kind. Discuss with your student(s). The note for the student is in Week 1 of Term 2."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Microbiology Lessons",
+              "type": "topic",
+              "books": [
+                "A Field Guide to Bacteria",
+                "A Planet of Viruses",
+                "Growing a Revolution: Bringing Our Soil Back to Life",
+                "I Contain Multitudes",
+                "Micro Life",
+                "Microbe Hunters",
+                "The Immortal Life of Henrietta Lacks"
+              ]
+            }
+          ]
         }
       ]
     }

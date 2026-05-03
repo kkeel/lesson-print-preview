@@ -107,6 +107,20 @@
               "content": "Citizenship: Grade 5\n☐ Make sure your student sets up a Citizenship Notebook. They will need a 3-ring binder, lined notebook paper, and 5 Tabbed Dividers. You can read more about how to set one up and suggestions for various sections in the document in Quick Links. \n\n☐ As desired, plan for a read aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible.\n\n☐ Make a Calendar of Events for Current Events lessons by drawing a calendar grid in a notebook (or print a blank calendar from the internet)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Plutarch: Beginner Track",
+              "type": "topic",
+              "books": [
+                "The Plutarch Project Primer: Publicola (Revised)"
+              ]
+            }
+          ]
         }
       ]
     }

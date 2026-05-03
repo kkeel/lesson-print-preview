@@ -75,6 +75,20 @@
               "content": "Geometry: Part 2\n☐ Work through your Geometry book 2 days/week at your own pace, aiming to finish by the end of the year. You should have 50-60% left if you began in 9th grade."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geometry: Part 2",
+              "type": "course",
+              "books": [
+                "Geometry Curriculum Pack"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -101,6 +101,24 @@
               "content": "General Science: Grade 2\n☐ Raising caterpillars is planned for General Science in Term 1, so make a note in your calendar to order them at the appropriate time and be flexible with the schedule to accommodate their development and release according to the instruction that comes with them."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 2",
+              "type": "topic",
+              "books": [
+                "A Walk in the...",
+                "Desert Giant",
+                "Mama Built a Little Nest",
+                "Monarch and Milkweed",
+                "The Secret Life of the Skunk"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -120,6 +120,21 @@
               "content": "Physics Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• the instructor will suggest found items throughout the course\n• any cell phone with a camera"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Physics Lessons",
+              "type": "topic",
+              "books": [
+                "Home Study Companion: Physics",
+                "Schaum's Outlines: College Physics"
+              ]
+            }
+          ]
         }
       ]
     }

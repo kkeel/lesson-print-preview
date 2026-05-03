@@ -112,6 +112,49 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Old Testament: Grades 7-12",
+              "type": "topic",
+              "books": [
+                "The Student Bible Atlas, Revised Edition",
+                "Old Testament Today",
+                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                "ESV Concise Study Bible"
+              ]
+            },
+            {
+              "title": "New Testament: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "The Student Bible Atlas, Revised Edition",
+                "ESV Concise Study Bible",
+                "Introducing the New Testament: A Historical, Literary, and Theological Survey"
+              ]
+            },
+            {
+              "title": "Church History: Grades 7-9",
+              "type": "topic",
+              "books": [
+                "Spurgeon: A Biography",
+                "Renewal: The Church That Expands Outward",
+                "An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+              ]
+            },
+            {
+              "title": "Spiritual Formation: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "Transformed by Truth",
+                "This Changes Everything"
+              ]
+            }
+          ]
         }
       ]
     }

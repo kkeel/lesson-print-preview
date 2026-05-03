@@ -116,6 +116,41 @@
               "content": "PE: Grades 4-6\n☐ You may need to gather supplies for the activities, so plan accordingly.\n\nFolk Dancing\n☐ Read the Introduction for The Book of Song Dances p.4-9.\n\n☐ Bookmark the video folder of folk dances.\n\n☐ Preview dance video; learn beforehand to teach students.\n\nFree Play/ Circuits\n☐ You will want to figure out the circuit."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Folk Dancing",
+              "type": "topic",
+              "books": [
+                "The Book of Song Dances"
+              ]
+            },
+            {
+              "title": "Playground Games",
+              "type": "topic",
+              "books": [
+                "The Ultimate Homeschool Physical Education Game Book"
+              ]
+            },
+            {
+              "title": "Sports",
+              "type": "topic",
+              "books": [
+                "The Ultimate Homeschool Physical Education Game Book"
+              ]
+            },
+            {
+              "title": "Free Play/ Circuits",
+              "type": "topic",
+              "books": [
+                "303 Tween-Approved Exercises and Active Games"
+              ]
+            }
+          ]
         }
       ]
     }

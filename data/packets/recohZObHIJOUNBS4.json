@@ -101,6 +101,20 @@
               "content": "PE: Grades 4-6\n☐ You may need to gather supplies for the activities, so plan accordingly."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sports",
+              "type": "topic",
+              "books": [
+                "The Ultimate Homeschool Physical Education Game Book"
+              ]
+            }
+          ]
         }
       ]
     }

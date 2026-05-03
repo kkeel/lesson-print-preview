@@ -125,6 +125,22 @@
               "content": "History: Grade 4 (U.S.)\n☐ Read the document in the Quick Links about History Timelines and Charts.\n\n☐ We encourage you to pick a biography for each term to read in the afternoons. The Bookshelf has many recommendations.\n\nHistory: Grades 5-6 (Canada)\n☐ Read the document in the Quick Links about History Timelines and Charts.\n\n☐ We encourage you to pick a biography for each term to read in the afternoons. The Bookshelf has many recommendations."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "World History: Grades 4-6",
+              "type": "topic",
+              "books": [
+                "William Wilberforce: The Freedom Fighter",
+                "Under the Hawthorn Tree",
+                "Commodore Perry in the Land of the Shogun"
+              ]
+            }
+          ]
         }
       ]
     }

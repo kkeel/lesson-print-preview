@@ -89,6 +89,20 @@
               "content": "Bible History: Grade 9\nCheck the Extra Helpings for grades 9-12 resources for devotional reading, Sunday reading, seasonal reading, and more."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Bible History: Grade 9",
+              "type": "topic",
+              "books": [
+                "God’s Big Picture: Tracing the Storyline of the Bible"
+              ]
+            }
+          ]
         }
       ]
     }

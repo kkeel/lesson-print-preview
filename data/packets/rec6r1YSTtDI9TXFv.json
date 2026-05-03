@@ -85,6 +85,20 @@
               "content": "Keyboarding\n☐ Make sure students have an ergonomically friendly place to type. Proper posture improves speed while avoiding repetitive movement injury. Ideally, elbows should be bent at a 90-degree angle and should rest on the table/desk with the screen at eye level. To attain proper alignment, adjust the chair's height or have students sit on a pillow, use a footstool, and/or place the computer on a stand.\n\n☐ Be sure to view Extra Helpings for ideas on how to integrate Typing into your days and to explore resources for extra practice (such as a website where students practice typing classic literature)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Keyboarding",
+              "type": "course",
+              "books": [
+                "Typing.com"
+              ]
+            }
+          ]
         }
       ]
     }

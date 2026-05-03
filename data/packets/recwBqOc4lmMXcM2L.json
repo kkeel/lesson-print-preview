@@ -97,6 +97,20 @@
               "content": "Science: Grade 1\nObject lesson prompts are woven into the lessons as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term:\n\nNatural History: Grade 1\n☐ Term 1: ants p.369-374, bees p.384-395\n☐ Term 2: squirrels p.233-237, 1-2 species of birds from p.50-141\n☐ Term 3: lightning bugs p.367-368, spiders p.435-446"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Natural History: Grade 1",
+              "type": "topic",
+              "books": [
+                "Walks with a Naturalist: Living Nature Reader Volume 1"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -101,6 +101,20 @@
               "content": "Natural History: Grade 8\n☐ Note that the first lesson of Natural History is an activity, so be prepared with these materials and any others from the supply lists on day 1. \n☐ Any type of milk is needed for Week 5. Make a note on your calendar if you will need to purchase this closer to the appropriate time."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Natural History: Grade 8",
+              "type": "topic",
+              "books": [
+                "Invincible Microbe"
+              ]
+            }
+          ]
         }
       ]
     }

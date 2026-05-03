@@ -75,6 +75,20 @@
               "content": "Geometry: Part 1\n☐ Work through your Geometry book 3 days/week at your own pace, aiming to finish 40-50% of the book over the year.\n\n☐ If you are using Geometry: A Guided Inquiry with Math Without Borders and you have any questions, don't hesitate to contact David Chandler, the author of the Math Without Borders Guide."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geometry: Part 1",
+              "type": "course",
+              "books": [
+                "Geometry Curriculum Pack"
+              ]
+            }
+          ]
         }
       ]
     }

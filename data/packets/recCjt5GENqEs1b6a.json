@@ -89,6 +89,20 @@
               "content": "Bible Stories\n☐ Read the Introduction to Hurlbut's Story of the Bible.\n\n☐ Look at the links page to see if there are pictures you wish to print prior to the year."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Bible Stories",
+              "type": "topic",
+              "books": [
+                "Hurlbut's Story of the Bible"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -89,6 +89,23 @@
               "content": "Grammar: Grade 6\n☐ Bookmark Grammar Town Teacher Manual with select pages of answer key (Find in Quick Links)\n\n☐ Bookmark Practice Town Teacher Manual answer key (Find in Quick Links)"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar: Grade 6",
+              "type": "topic",
+              "books": [
+                "Grammar Town",
+                "Grammar Town Teacher Manual (select pages)",
+                "Practice Town",
+                "Practice Town Teacher Manual (select pages)"
+              ]
+            }
+          ]
         }
       ]
     }

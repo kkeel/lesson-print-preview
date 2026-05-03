@@ -89,6 +89,22 @@
               "content": "General Lit: Grades 7-8\n☐ My Brother Sam is Dead (Term 2) is a riveting and complex story about the American Revolution. We recommend previewing this book to decide if you want to discuss or give your students a heads up about some instances of language and intense scenes."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Lit: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "Little Women",
+                "Sir Gibbie",
+                "Narrative of the Life of Frederick Douglass"
+              ]
+            }
+          ]
         }
       ]
     }

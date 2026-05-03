@@ -85,6 +85,23 @@
               "content": "Art: High School Fast Track\nStudents will need to gather a live flower in Term 2 and still life objects in term 3. This may require a trip to a florist or the floral department of your local grocer. The still life objects can and should be simple objects like a cup and saucer, tissue box, roll of toilet paper (offers a great grey scale to look at and work from), a bowl of fruit, etc."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Art: High School Fast Track",
+              "type": "course",
+              "books": [
+                "Drawing, Design, and Craft-Work",
+                "Color: A Course in Mastering the Art of Mixing Colors",
+                "Brush Drawing as Applied to Natural Forms and Common Objects",
+                "Brushwork: Elementary Brush-Forms"
+              ]
+            }
+          ]
         }
       ]
     }

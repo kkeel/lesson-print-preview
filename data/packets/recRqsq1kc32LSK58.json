@@ -79,6 +79,20 @@
               "content": "Poetry Study: Grade 8\n☐ Make sure your student has a notebook for each lesson.\n\n☐ Students will be marking their poems and labeling the poems. If you don't want them to mark the books, you will need to make a copy of those pages."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Poetry Study: Grade 8",
+              "type": "topic",
+              "books": [
+                "A World of Poetry: Student Book"
+              ]
+            }
+          ]
         }
       ]
     }

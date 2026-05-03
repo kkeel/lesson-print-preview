@@ -89,6 +89,20 @@
               "content": "Sloyd: Level 7\nA4 paper (This is different from traditional, American copy paper, though it looks very similar. The measurements will be completely off if you choose to use traditional copy paper.)"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Level 7",
+              "type": "course",
+              "books": [
+                "Folding Techniques for Designers"
+              ]
+            }
+          ]
         }
       ]
     }

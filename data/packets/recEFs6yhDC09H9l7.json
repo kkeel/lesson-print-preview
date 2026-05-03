@@ -136,6 +136,52 @@
               "content": "Composer Study\n☐ Lessons on Handel's Messiah are scheduled at the beginning of Term 2, so many students will reach them around the Christmas holidays. However, depending on how you schedule your year, this may not fit. Feel free to complete the lessons whenever suits your schedule. The Messiah is as much (or more) an Easter piece as a Christmas one, so you could even bump it to Term 3!"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Music: Level 4",
+              "type": "course",
+              "books": [
+                "Our Work: Grades 4-6",
+                "Hymns, Spirituals, & Folk Songs PDF"
+              ]
+            },
+            {
+              "title": "Hymns & Spirituals",
+              "type": "topic",
+              "books": [
+                "Our Hymns, Our Heritage"
+              ]
+            },
+            {
+              "title": "Folk Songs",
+              "type": "topic",
+              "books": [
+                "Like a Bird: The Art of the American Slave Song"
+              ]
+            },
+            {
+              "title": "Composer Study",
+              "type": "topic",
+              "books": [
+                "Playlist for the Year",
+                "Mussorgsky's Pictures at an Exhibition",
+                "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins"
+              ]
+            },
+            {
+              "title": "Sol-fa: Level 4",
+              "type": "topic",
+              "books": [
+                "Fifty Steps in Sight-Singing",
+                "Sol-fa Level 4 Audio Lessons"
+              ]
+            }
+          ]
         }
       ]
     }

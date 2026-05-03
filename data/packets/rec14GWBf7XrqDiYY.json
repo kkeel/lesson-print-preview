@@ -79,6 +79,23 @@
               "content": "Grammar: Grade 4\n☐ Bookmark or Print Grammar Island Additional Practice PDF (Find in Quick Links)\n\n☐ Bookmark Grammar Island Teacher Manual select pages for lesson answer key (Find in Quick Links)\n\n☐ Bookmark Practice Island Teacher Manual for answer key (Find in Quick Links)"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar: Grade 4",
+              "type": "topic",
+              "books": [
+                "Grammar Island",
+                "Grammar Island Teacher Manual (select pages)",
+                "Practice Island",
+                "Practice Island Teacher Manual (select pages)"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -89,6 +89,21 @@
               "content": "Reading Level 2\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n \n☐ Provide the Word Journal introduced in Level 1.\n\n☐ Supply a second journal for Studied Dictation, Copywork, and Written Narrations."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Reading Level 2",
+              "type": "topic",
+              "books": [
+                "Reading Lessons: Level 2 (Revised 2025)",
+                "Reading-Literature: First Reader"
+              ]
+            }
+          ]
         }
       ]
     }

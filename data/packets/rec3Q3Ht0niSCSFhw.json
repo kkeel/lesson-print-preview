@@ -120,6 +120,39 @@
               "content": "Grammar: Grade 4\n☐ Bookmark or Print Grammar Island Additional Practice PDF (Find in Quick Links)\n\n☐ Bookmark Grammar Island Teacher Manual select pages for lesson answer key (Find in Quick Links)\n\n☐ Bookmark Practice Island Teacher Manual for answer key (Find in Quick Links)\n\nWritten Narration: Grade 4\nSome ideas on helping students transition to written narration: \n☐ Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n☐ Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n☐ Write the beginning and then orally tell the rest, or vice versa."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar: Grade 4",
+              "type": "topic",
+              "books": [
+                "Grammar Island",
+                "Grammar Island Teacher Manual (select pages)",
+                "Practice Island",
+                "Practice Island Teacher Manual (select pages)"
+              ]
+            },
+            {
+              "title": "Dictation: Grade 4",
+              "type": "topic",
+              "books": [
+                "Grade 4 Copywork & Dictation Book"
+              ]
+            },
+            {
+              "title": "Penmanship & Copywork: Grade 4",
+              "type": "topic",
+              "books": [
+                "Getty-Dubay® Italic Handwriting Book E",
+                "Italics: Beautiful Handwriting for Children",
+                "Grade 4 Copywork & Dictation Book"
+              ]
+            }
+          ]
         }
       ]
     }

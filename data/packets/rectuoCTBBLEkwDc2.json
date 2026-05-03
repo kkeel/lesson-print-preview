@@ -85,6 +85,22 @@
               "content": "Story of Arithmetic: Part 2\n☐ Term 1: Familiarize yourself with the \"lattice method.\" (See Lesson 6.)"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Story of Arithmetic: Part 2",
+              "type": "course",
+              "books": [
+                "Number Stories of Long Ago",
+                "Historical Atlas of the World 6th Ed.",
+                "Student World Atlas 6th Ed."
+              ]
+            }
+          ]
         }
       ]
     }

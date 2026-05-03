@@ -89,6 +89,21 @@
               "content": "Literature: Grade 1\n☐ As desired, plan for a read-aloud time together. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Fairy Tales",
+              "type": "topic",
+              "books": [
+                "Around the World in 80 Tales",
+                "Tales from Grimm"
+              ]
+            }
+          ]
         }
       ]
     }

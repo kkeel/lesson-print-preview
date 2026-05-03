@@ -89,6 +89,21 @@
               "content": "Poetry Study: Grade 10\n☐ You'll need a journal and a poetry anthology or two of your choice for this course, as well as the assigned book. A few suggested anthologies are listed in Extra Helpings."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Poetry Study: Grade 10",
+              "type": "topic",
+              "books": [
+                "The Word Made Fresh",
+                "Poetry Anthology"
+              ]
+            }
+          ]
         }
       ]
     }

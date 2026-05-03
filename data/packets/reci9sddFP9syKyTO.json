@@ -85,6 +85,20 @@
               "content": "Sloyd: Level 5\n☐ View the \"Sloyd Introduction Video\" for an overview of materials and resources used in Sloyd.\n\n☐ Purchase supplies and introduce students to their Sloyd tools (discuss their care and safe use). Organize them so they are easily accessible.\n\n☐ Allow time for loading and viewing videos if available. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Gather supplies for the lessons as listed in the materials list of each day's lesson plans."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Level 5",
+              "type": "course",
+              "books": [
+                "Sloyd"
+              ]
+            }
+          ]
         }
       ]
     }

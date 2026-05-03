@@ -101,6 +101,21 @@
               "content": "General Science: Grade 8\n☐ Note that Lab in week 6 of Term 1 calls for fresh eggs and Lab in week 2 of Term 2 includes an optional activity that uses a hard-boiled egg. Make a note on your calendar if you will need to purchase these closer to the appropriate dates. Refer to the lab book for more details."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 8",
+              "type": "topic",
+              "books": [
+                "The Story of Science: Einstein Adds a New Dimension",
+                "The Story of Science: Newton At the Center"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -79,6 +79,20 @@
               "content": "Mathematics: Grade 12\n☐ Work through your lessons at your own pace. If you finish Precalculus, then start Calculus.\n\n☐ Reach out to David Chandler at Math Without Borders if you have questions about your lessons.\n\n☐ Check out the Bookshelf for interesting free reads in the math genre."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Calculus: Part 1",
+              "type": "topic",
+              "books": [
+                "Home Study Companion: Calculus"
+              ]
+            }
+          ]
         }
       ]
     }

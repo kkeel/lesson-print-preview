@@ -102,6 +102,22 @@
               "content": "Composition: Grade 12\n☐ Plan to have your student(s) type the majority of their narrations and compositions. See keyboarding course for resources on typing if needed.\n\n☐ Encourage students to spend all the time left at the end of a lesson on their written narrations and the whole lesson time on their compositions and give as much detail as possible. For their narrations, it may help if you encourage them to think of writing their narrations for a friend or someone who has never read the book rather than for you, who might already know the story. If they feel like they've run out of things to write, have them try varying the type of narration they're writing (interview, sketch, letter, poem, etc.)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Composition: Grade 12",
+              "type": "topic",
+              "books": [
+                "Advanced Academic Writing II Teacher Manual",
+                "Caring for Words in a Culture of Lies (2nd ed.)",
+                "The Craft of Research"
+              ]
+            }
+          ]
         }
       ]
     }

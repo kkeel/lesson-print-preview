@@ -116,6 +116,25 @@
               "content": "Astronomy Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.  \n\n☐ Obtain materials from the supply lists.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Astronomy Lessons",
+              "type": "topic",
+              "books": [
+                "100 Things to See in the Night Sky",
+                "The Last Stargazers",
+                "Astronomy Textbook",
+                "The Day Without Yesterday",
+                "The Crossroads of Science and Faith: Answers to Exercises",
+                "The Crossroads of Science and Faith: Astronomy Through a Christian Worldview"
+              ]
+            }
+          ]
         }
       ]
     }

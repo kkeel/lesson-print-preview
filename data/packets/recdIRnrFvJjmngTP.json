@@ -85,6 +85,20 @@
               "content": "Sloyd: Level 2\n☐ View the \"Sloyd Introduction Video\" for an overview of materials and resources used in Sloyd (see Quick Links)\n\n☐ Purchase supplies and organize them so they are easily accessible. \n\n☐ Keep the page of images for each of the second-year models for reference while working on models (see Appendix). \n\n☐ Allow time for loading and viewing videos. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Before each lesson, gather needed materials as listed at the beginning of each day's lesson plan. \n\n☐ Introduce students to their Sloyd tools (discuss their care and safe use). Refresh students on how to use a ruler (note where \"0\" starts) and how to use the edge to draw a straight line."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Level 2",
+              "type": "course",
+              "books": [
+                "Paper Sloyd for Primary Grades"
+              ]
+            }
+          ]
         }
       ]
     }

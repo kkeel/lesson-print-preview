@@ -137,6 +137,40 @@
               "content": "General Science: Grade 5\n☐ Note that Lab in week 1 begins with 5 \"unknown\" food substances (1- 2 Tbsp) to include honey and any other various items, e.g. peanut butter, whole grain bread, white bread, raw egg white, cereal, applesauce, jelly, whole milk, milk substitute, juice, flavored yogurt, plain yogurt, etc. These will be provided to students in 5 similar-looking containers for study. Refer to the lab book for more details.\n\nNatural History: Grade 5\n☐ Note that term 1 of Natural History begins with planting a small garden, so be sure to have those supplies and any others indicated on the supply list ready. For indoor situations, the choices are many, provided there is a sunny window. For outdoors in a cooler season, some good options are parsley, carrots, or peas (may need a trellis). Basil, thyme, or beans (may need a trellis) are good options for outdoor planting in a warmer season. Note that some plants will not reach the flowering stage for a while."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 5",
+              "type": "topic",
+              "books": [
+                "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
+                "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
+                "The Tornado Scientist"
+              ]
+            },
+            {
+              "title": "Labs: Grade 5",
+              "type": "topic",
+              "books": [
+                "Science: Grade 5 Lab Book"
+              ]
+            },
+            {
+              "title": "Natural History: Grade 5",
+              "type": "topic",
+              "books": [
+                "Beetle Busters",
+                "Nature All Around: Plants",
+                "Shanleya's Quest Card Game",
+                "The Bat Scientists",
+                "The Forest in the Tree"
+              ]
+            }
+          ]
         }
       ]
     }

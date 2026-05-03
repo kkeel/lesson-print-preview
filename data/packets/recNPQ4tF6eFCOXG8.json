@@ -98,6 +98,32 @@
               "content": "History: Grade 4 (U.S.)\n☐ Read the document in the Quick Links about History Timelines and Charts.\n\n☐ We encourage you to pick a biography for each term to read in the afternoons. The Bookshelf has many recommendations."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "U.S. History: Grades 4-6",
+              "type": "topic",
+              "books": [
+                "Heart and Soul: The Story of America and African Americans",
+                "Children of the Wild West",
+                "Lincoln: A Photobiography",
+                "SeaMan: The Dog Who Explored The West With Lewis & Clark"
+              ]
+            },
+            {
+              "title": "World History: Grades 4-6",
+              "type": "topic",
+              "books": [
+                "William Wilberforce: The Freedom Fighter",
+                "Under the Hawthorn Tree",
+                "Commodore Perry in the Land of the Shogun"
+              ]
+            }
+          ]
         }
       ]
     }

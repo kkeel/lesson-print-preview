@@ -79,6 +79,21 @@
               "content": "Penmanship & Copywork: Grade 3\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Penmanship & Copywork: Grade 3",
+              "type": "topic",
+              "books": [
+                "Getty-Dubay® Italic Handwriting Book D",
+                "Italics: Beautiful Handwriting for Children"
+              ]
+            }
+          ]
         }
       ]
     }

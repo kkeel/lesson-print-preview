@@ -97,6 +97,33 @@
               "content": "Botany Lessons\n☐ Note that Lab in week 7 requires a lily flower. Make a calendar note to obtain this closer to the appropriate time."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Botany Lessons",
+              "type": "topic",
+              "books": [
+                "A Peterson Field Guide To Western Trees",
+                "Botany in a Day",
+                "Growing a Revolution: Bringing Our Soil Back to Life",
+                "Pacific Coast Tree Finder",
+                "Rocky Mountain Tree Finder",
+                "Shanleya's Quest Card Game",
+                "The Milkweed Lands: An Epic Story of One Plant: Its Nature and Ecology",
+                "Oaxaca Journal",
+                "Tree Finder - Eastern US",
+                "What a Plant Knows",
+                "Winter Tree Finder (Eastern US)",
+                "The Hidden Life of Trees: The Illustrated Edition",
+                "The Sibley Guide to Trees",
+                "Elementary Studies in Plant Life"
+              ]
+            }
+          ]
         }
       ]
     }

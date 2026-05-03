@@ -85,6 +85,20 @@
               "content": "Lettering: Level 3\n☐ Be sure to have all necessary supplies available for each lesson.\n\n☐ Watch the video tutorial on how to set up your Art Book (see Quick Links)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Lettering: Level 3",
+              "type": "course",
+              "books": [
+                "The Complete Book of Chalk Lettering"
+              ]
+            }
+          ]
         }
       ]
     }

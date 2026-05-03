@@ -85,6 +85,20 @@
               "content": "Sloyd: Intro\n☐ Gather supplies and print out PDFs for this course at the beginning of each term.\n☐ Watch tutorial videos for each lesson."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Sloyd: Intro",
+              "type": "course",
+              "books": [
+                "Paper Folding Video Lessons"
+              ]
+            }
+          ]
         }
       ]
     }

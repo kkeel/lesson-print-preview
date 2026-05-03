@@ -89,6 +89,23 @@
               "content": "Lit./Mythology: Grades 7-8\n☐ Term 1: Print off the Iliad Selections PDF (see Quick Links)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Lit./Mythology: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "The Lightning Dreamer: Cuba's Greatest Abolitionist",
+                "A Christmas Carol",
+                "The Man Who Invented Christmas directed",
+                "Short stories and other writings"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -89,6 +89,22 @@
               "content": "Old Testament: Grade 2\n☐ Read the introduction (p.13-30) in The Bible Story Handbook that includes the following sections: \"Why Do We Teach Bible Stories?\", \"Is There a Right Way or a Wrong Way to Use Bible Stories?\" & \"The Big Picture of the Bible.\"\n\n☐ Watch Dr. John Walton's video about using the Handbook. The link can be found in Quick Links below. \n\n☐ You may want to watch the overview videos from The Bible Project on Genesis, Exodus, Joshua, Judges, 1 Kings, Esther, Daniel, and Jonah. They help you see the major themes from the different Bible books. The link can be found in Quick Links below."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Old Testament: Grade 2",
+              "type": "topic",
+              "books": [
+                "ESV Large Print Bible",
+                "God's Bible Timeline: The Big Book of Biblical History",
+                "The Bible Story Handbook"
+              ]
+            }
+          ]
         }
       ]
     }

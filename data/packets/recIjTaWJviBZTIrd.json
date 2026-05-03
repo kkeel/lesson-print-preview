@@ -93,6 +93,21 @@
               "content": "Canadian Gov./ Economics: Grade 8\nIn Term 2 students will be asked to do online research about their own local municipal, provincial, and federal elected officials. These assignments should be done with parental supervision to ensure internet safety."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Canadian Gov./ Economics: Grade 8",
+              "type": "topic",
+              "books": [
+                "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
+                "Canada's Constitutional Monarchy"
+              ]
+            }
+          ]
         }
       ]
     }

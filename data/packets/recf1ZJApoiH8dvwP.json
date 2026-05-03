@@ -101,6 +101,24 @@
               "content": "Natural History: Grade 5\n☐ Note that term 1 of Natural History begins with planting a small garden, so be sure to have those supplies and any others indicated on the supply list ready. For indoor situations, the choices are many, provided there is a sunny window. For outdoors in a cooler season, some good options are parsley, carrots, or peas (may need a trellis). Basil, thyme, or beans (may need a trellis) are good options for outdoor planting in a warmer season. Note that some plants will not reach the flowering stage for a while."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Natural History: Grade 5",
+              "type": "topic",
+              "books": [
+                "Beetle Busters",
+                "Nature All Around: Plants",
+                "Shanleya's Quest Card Game",
+                "The Bat Scientists",
+                "The Forest in the Tree"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -116,6 +116,34 @@
               "content": "Free Play/ Circuits\n☐ You will want to figure out the circuit."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Playground Games",
+              "type": "topic",
+              "books": [
+                "The Ultimate Homeschool Physical Education Game Book"
+              ]
+            },
+            {
+              "title": "Sports",
+              "type": "topic",
+              "books": [
+                "The Ultimate Homeschool Physical Education Game Book"
+              ]
+            },
+            {
+              "title": "Free Play/ Circuits",
+              "type": "topic",
+              "books": [
+                "303 Tween-Approved Exercises and Active Games"
+              ]
+            }
+          ]
         }
       ]
     }

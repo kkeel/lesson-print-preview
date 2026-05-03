@@ -101,6 +101,25 @@
               "content": "General Lit.: Grades 9-10\n☐ For Term 1, read the translator's Preface (p.I-XXIII) to Celebrated Cases of Judge Dee and the Introduction (p.3-21) to Scarlet Letter to have enough context for the story to engage in discussion with your student(s) even if you are not able to read the full books. Reading Like a Serpent (linked in Extra Helpings) is also an excellent resource for students and teachers wishing to dive deeper into The Scarlet Letter.\n\n☐ A Tale of Two Cities (Term 3) is a long novel, and to allow students to digest, write narrations, and enjoy the story, only about half of it is scheduled over the term. If you wish students to finish it, consider starting the book in Term 2 after the Gulliver's Travels lessons OR allowing students to read the book on their own time if interested (during or after the end of the term)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Lit.: Grades 9-10",
+              "type": "topic",
+              "books": [
+                "Frankenstein",
+                "Silas Marner",
+                "Narrative of the Life of Frederick Douglass",
+                "The Souls of Black Folk",
+                "Up from Slavery",
+                "Short stories and other writings"
+              ]
+            }
+          ]
         }
       ]
     }

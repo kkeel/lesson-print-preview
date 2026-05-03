@@ -89,6 +89,22 @@
               "content": "Bible: Grade 12\n☐ Make or purchase Bible journals for Old and New Testament studies (see some suggestions in the following course Extra Helpings: Bible: Grades 7-8, 9, 10-11, and 12).\n\nSpiritual Formation: Grade 12\nCheck the Extra Helpings for grades 9-12 resources for devotional reading, Sunday reading, seasonal reading, and more."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Spiritual Formation: Grade 12",
+              "type": "topic",
+              "books": [
+                "Being God's Image: Why Creation Still Matters",
+                "Delighting in the Trinity",
+                "Becoming by Beholding"
+              ]
+            }
+          ]
         }
       ]
     }

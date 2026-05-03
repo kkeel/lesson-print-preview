@@ -85,6 +85,24 @@
               "content": "Geography: Grade 3 (U.S.)\n☐ Print the maps needed for some of the future lessons. You will find the map links in the prep section of each lesson.  \n\n☐ Print the 5th edition map PDF linked below in the Quick Links section for lessons that use economic symbols. (not in the 6th edition of the U.S. atlas)\n\n☐ Check the Appendix for tips on creating geography models and relief maps."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geography: Grade 3 (U.S.)",
+              "type": "course",
+              "books": [
+                "50 Adventures in the 50 States",
+                "Cross Country: Geography for Children",
+                "Grandma Gatewood Hikes the Appalachian Trail",
+                "United States Atlas 7th Ed.",
+                "Student World Atlas 6th Ed."
+              ]
+            }
+          ]
         }
       ]
     }

@@ -98,6 +98,27 @@
               "content": "Math Lessons: Grade 2\n☐ Read RightStart Level B Teacher's Guide p.ii-v.\n\n☐ Organize manipulatives and supplies for easy access.\n\n☐ Decide when in the day you will play math games and how you plan to keep up with assigning them.\n\n☐ If you downloaded the RightStart ebook, print out enough copies of each page and put them in a binder for easy access."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Math Lessons: Grade 2",
+              "type": "topic",
+              "books": [
+                "RightStart Mathematics Level B 2nd Ed. Book Bundle"
+              ]
+            },
+            {
+              "title": "Math Games: Grades 1-8",
+              "type": "topic",
+              "books": [
+                "Math Card Games Kit"
+              ]
+            }
+          ]
         }
       ]
     }

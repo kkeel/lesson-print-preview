@@ -98,6 +98,31 @@
               "content": "Poetry Study: Grade 7\n☐ Some of the poems are given as links or PDFs. You may want to print those out. \n\n☐ Make sure the student has a Commonplace Book to write down any poems they especially enjoy. You will want to remind them to do that during poetry time, or set another time in the afternoon to do that."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Poetry Study: Grade 7",
+              "type": "topic",
+              "books": [
+                "What Is Poetry?"
+              ]
+            },
+            {
+              "title": "Poetry Reading: Grade 7",
+              "type": "topic",
+              "books": [
+                "A Kick in the Head: An Everyday Guide to Poetic Forms",
+                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                "The Poet: Pauline Johnson",
+                "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
+                "The Crescent Moon"
+              ]
+            }
+          ]
         }
       ]
     }

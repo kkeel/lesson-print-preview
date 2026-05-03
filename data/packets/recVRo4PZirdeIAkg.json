@@ -98,6 +98,32 @@
               "content": "General Lit: Grades 7-8\n☐ My Brother Sam is Dead (Term 2) is a riveting and complex story about the American Revolution. We recommend previewing this book to decide if you want to discuss or give your students a heads up about some instances of language and intense scenes.\n\nLit./Mythology: Grades 7-8\n☐ Term 1: Print off the Iliad Selections PDF (see Quick Links)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Lit: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "Little Women",
+                "Sir Gibbie",
+                "Narrative of the Life of Frederick Douglass"
+              ]
+            },
+            {
+              "title": "Lit./Mythology: Grades 7-8",
+              "type": "topic",
+              "books": [
+                "The Lightning Dreamer: Cuba's Greatest Abolitionist",
+                "A Christmas Carol",
+                "The Man Who Invented Christmas directed",
+                "Short stories and other writings"
+              ]
+            }
+          ]
         }
       ]
     }

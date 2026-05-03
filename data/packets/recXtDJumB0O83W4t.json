@@ -79,6 +79,22 @@
               "content": "Grammar/Comp: Grade 7\n☐ Bookmark or Print Practice Town Teacher Manual (Find in Quick Links)"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar/Comp: Grade 7",
+              "type": "topic",
+              "books": [
+                "Paragraph Town",
+                "Practice Town",
+                "Practice Town Teacher Manual (select pages)"
+              ]
+            }
+          ]
         }
       ]
     }

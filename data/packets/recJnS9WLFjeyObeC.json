@@ -81,6 +81,24 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geography: Grade 8 (U.S.)",
+              "type": "course",
+              "books": [
+                "Student World Atlas 6th Ed.",
+                "United States Atlas 7th Ed.",
+                "This Strange Wilderness: The Life and Art of John James Audubon",
+                "Our States Have Crazy Shapes",
+                "Westward with Fremont: The Story of Solomon Carvalho"
+              ]
+            }
+          ]
         }
       ]
     }

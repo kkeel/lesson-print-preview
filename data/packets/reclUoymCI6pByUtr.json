@@ -85,6 +85,20 @@
               "content": "Lettering: Level 1\n☐ Allow time for loading and viewing the tutorial video each time you begin a new style. Then, plan your lesson time accordingly.\n\n☐ Purchase supplies, then organize and store them where they can be easily accessed.\n\n☐ If you haven't done so already for Art Instruction lessons, prep your chalkboard before beginning lessons. (See video in Lesson 1)\n\n☐ The best chalkboard option is to paint a wall that students can access during lesson time. If that is not possible, a usable substitute would be to either paint the back of the drawing board used in art lessons or purchase a frameless chalkboard."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Lettering: Level 1",
+              "type": "course",
+              "books": [
+                "The Complete Book of Chalk Lettering"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -101,6 +101,20 @@
               "content": "PE: Grades 4-6\n☐ You may need to gather supplies for the activities, so plan accordingly.\n\nFree Play/ Circuits\n☐ You will want to figure out the circuit."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Free Play/ Circuits",
+              "type": "topic",
+              "books": [
+                "303 Tween-Approved Exercises and Active Games"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -85,6 +85,21 @@
               "content": "Geography: Grade 9\n☐ Links to blank outline maps are in the Lesson Plans. Maps in the books for the course can be used as well. \n\n☐ You will need a blank or dotted notebook or sketchbook for your map work.\n\n☐ Make a point to know something about places mentioned in current news and events of the day. Look up place names in your atlas. Perhaps, make a map to identify event locations throughout the year."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geography: Grade 9",
+              "type": "course",
+              "books": [
+                "Prisoners of Geography: Ten Maps That Explain Everything About the World",
+                "Five Months on the Missouri River: Paddling a Dugout Canoe"
+              ]
+            }
+          ]
         }
       ]
     }

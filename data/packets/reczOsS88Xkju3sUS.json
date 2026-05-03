@@ -98,6 +98,28 @@
               "content": "Bible Stories\n☐ Read the Introduction to Hurlbut's Story of the Bible.\n\n☐ Look at the links page to see if there are pictures you wish to print prior to the year."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Bible Stories",
+              "type": "topic",
+              "books": [
+                "Hurlbut's Story of the Bible"
+              ]
+            },
+            {
+              "title": "Church History: Grades 1-3",
+              "type": "topic",
+              "books": [
+                "The Bandit of Ashley Downs: George Muller",
+                "Adoniram Judson: Danger on the Streets of Gold"
+              ]
+            }
+          ]
         }
       ]
     }

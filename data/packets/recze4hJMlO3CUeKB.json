@@ -79,6 +79,22 @@
               "content": "Penmanship & Copywork: Grade 6\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Penmanship & Copywork: Grade 6",
+              "type": "topic",
+              "books": [
+                "Getty-Dubay® Italic Handwriting Book G",
+                "Italics: Beautiful Handwriting for Children",
+                "Grade 6 Copywork & Dictation Book"
+              ]
+            }
+          ]
         }
       ]
     }

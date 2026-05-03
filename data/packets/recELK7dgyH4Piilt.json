@@ -98,6 +98,27 @@
               "content": "Math Lessons: Grade 4\n☐ Schedule math games into your day and determine how you will keep up with assigning them.\n\n☐ If you downloaded the RightStart ebook, print out enough copies of each page and put them in a binder for easy access.\n\n☐ Organize math manipulatives for easy access."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Math Lessons: Grade 4",
+              "type": "topic",
+              "books": [
+                "RightStart Mathematics Level D 2nd Ed. Book Bundle"
+              ]
+            },
+            {
+              "title": "Math Games: Grades 1-8",
+              "type": "topic",
+              "books": [
+                "Math Card Games Kit"
+              ]
+            }
+          ]
         }
       ]
     }

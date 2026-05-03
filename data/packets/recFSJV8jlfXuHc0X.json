@@ -93,6 +93,28 @@
               "content": "Picture Study\nOptional books have been assigned per term for teacher pre-study."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Picture Study",
+              "type": "course",
+              "books": [
+                "Our Work: Grades 1-2",
+                "Our Work: Grade 3",
+                "Our Work: Grades 4-6",
+                "Our Work: Grades 7-8",
+                "Our Work: Grades 9-12",
+                "Art Print Set",
+                "Redeeming Vision",
+                "A Passion for the Impossible: The Life of Lilias Trotter",
+                "Van Gogh"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -93,6 +93,20 @@
               "content": "Science: Grade 8\nEncourage students to choose their own special topic and to notice its ecological relationships. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too!\n\n☐ Learn a few of your local species or varieties in connection with special topics."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Labs: Grade 8",
+              "type": "topic",
+              "books": [
+                "Science: Grade 8 Lab Book"
+              ]
+            }
+          ]
         }
       ]
     }

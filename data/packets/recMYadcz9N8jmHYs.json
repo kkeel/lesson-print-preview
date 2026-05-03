@@ -101,6 +101,22 @@
               "content": "General Science: Grade 4\n☐ Note that there is an activity during Lesson 1.  Be sure to have your materials ready!"
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "General Science: Grade 4",
+              "type": "topic",
+              "books": [
+                "The Elephant Scientist",
+                "To Fly: The Story of the Wright Brothers",
+                "The Universe in You: A Microscopic Journey"
+              ]
+            }
+          ]
         }
       ]
     }

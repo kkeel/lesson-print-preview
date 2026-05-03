@@ -89,6 +89,21 @@
               "content": "Algebra 1: Part 2\n☐ Work through your Algebra book 2 days/week at your own pace, aiming to finish these chapters:\n\nTerm 1: Ch.9-11\nTerm 2: Ch.12-14\nTerm 3: Ch.15-17, Final Review\n\nComplete the odd answers to questions in Set 1 and every other answer in Set 2 of each chapter.\n\nGeometry: Part 1\n☐ Work through your Geometry book 3 days/week at your own pace, aiming to finish 40-50% of the book over the year.\n\n☐ If you are using Geometry: A Guided Inquiry with Math Without Borders and you have any questions, don't hesitate to contact David Chandler, the author of the Math Without Borders Guide."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Algebra 1: Part 2",
+              "type": "topic",
+              "books": [
+                "Elementary Algebra Student Book",
+                "Elementary Algebra Teacher Guide (Revised Edition)"
+              ]
+            }
+          ]
         }
       ]
     }

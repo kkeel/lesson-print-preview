@@ -107,6 +107,29 @@
               "content": "Reading Level 3\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n\n☐ Continue entering lists of words that follow specific spelling or sound patterns in students' Word Journals.\n \n☐ Equip students with blank-lined journals divided into sections for Copywork, Studied Dictation, and Written Narrations.\n\nPenmanship & Copywork: Grade 3\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace.\n\nWritten Narration: Grade 3\n☐ Aim to complete one written narration every week by the end of the year, but start with one every few weeks or every other week."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Reading Level 3",
+              "type": "topic",
+              "books": [
+                "Reading Lessons: Level 3",
+                "Reading-Literature: Second Reader"
+              ]
+            },
+            {
+              "title": "Penmanship & Copywork: Grade 3",
+              "type": "topic",
+              "books": [
+                "Getty-Dubay® Italic Handwriting Book D",
+                "Italics: Beautiful Handwriting for Children"
+              ]
+            }
+          ]
         }
       ]
     }

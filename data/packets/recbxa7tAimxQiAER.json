@@ -132,6 +132,50 @@
               "content": "Music Appreciation\n☐ Term 1: Download the audio files or bookmark the web page of A Child’s Introduction to the Orchestra. \n☐ Term 2: Learn how to pronounce Prokofiev and Camille Saint-Saens. \n☐ Term 3: Art and music are paired together throughout this term. If teachers anticipate the resources might be overstimulating, Wild Symphony by Dan Brown is a good alternative (see Extra Helpings).\n\nHymns & Spirituals\n☐ Bookmark the Alveary hymns, spirituals, and folk song playlist for the year, or create your own YouTube, Spotify, or Amazon playlist if desired.\n\nSol-fa: Musical Games\n☐ Bookmark the Musical Games Playlist (in Quick Links), which includes many selections from the term."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Music: Intro",
+              "type": "course",
+              "books": [
+                "Our Work: Grades 1-2",
+                "Hymns, Spirituals, & Folk Songs PDF"
+              ]
+            },
+            {
+              "title": "Music Appreciation",
+              "type": "topic",
+              "books": [
+                "A Child's Introduction to the Orchestra",
+                "Playlist for Afternoon Listening and Selected Lessons"
+              ]
+            },
+            {
+              "title": "Hymns & Spirituals",
+              "type": "topic",
+              "books": [
+                "Our Hymns, Our Heritage"
+              ]
+            },
+            {
+              "title": "Folk Songs",
+              "type": "topic",
+              "books": [
+                "Like a Bird: The Art of the American Slave Song"
+              ]
+            },
+            {
+              "title": "Sol-fa: Musical Games",
+              "type": "topic",
+              "books": [
+                "Musical Games Playlist"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -89,6 +89,24 @@
               "content": "Mythology/Hist. Fiction: Grade 4\nIn the Days of Giants tells the stories of Norse mythology and is read in Terms 1-2. The Nordic people would enjoy telling tales of heroes, gods, and monsters during the long, dark winter nights. As such, we recommend teachers preview the readings to ensure they are suitable for their particular students."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Mythology/Hist. Fiction: Grade 4",
+              "type": "topic",
+              "books": [
+                "In the Days of Giants",
+                "Russian Fairy Tales",
+                "South American Jungle Tales",
+                "The Tales of Uncle Remus: The Adventures of Brer Rabbit",
+                "Short Stories & Folktales"
+              ]
+            }
+          ]
         }
       ]
     }

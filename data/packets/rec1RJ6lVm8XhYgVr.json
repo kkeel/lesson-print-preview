@@ -89,6 +89,20 @@
               "content": "Advanced Nature Study Lessons\nDownload, save, bookmark, or print a copy of How to Teach Nature Journaling for regular use."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Advanced Nature Study Lessons",
+              "type": "topic",
+              "books": [
+                "Master of Field Arts"
+              ]
+            }
+          ]
         }
       ]
     }

@@ -101,6 +101,36 @@
               "content": "Written Narration: Grade 7\n☐ Some ideas on supporting students who are building fluency with written narrations: \n- Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n- Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n- Write the beginning and then orally tell the rest, or vice versa.\n- Some students may find writing easier if you provide external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n☐ Make sure students are practicing typing skills regularly, and have them increasingly type more narrations and compositions as they become comfortable."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar/Comp: Grade 7",
+              "type": "topic",
+              "books": [
+                "Paragraph Town",
+                "Practice Town",
+                "Practice Town Teacher Manual (select pages)"
+              ]
+            },
+            {
+              "title": "Dictation: Grade 7",
+              "type": "topic",
+              "books": [
+                "Grade 7 Copywork & Dictation Book"
+              ]
+            },
+            {
+              "title": "Copywork: Grade 7",
+              "type": "topic",
+              "books": [
+                "Grade 7 Copywork & Dictation Book"
+              ]
+            }
+          ]
         }
       ]
     }

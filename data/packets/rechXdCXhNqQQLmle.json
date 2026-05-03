@@ -116,6 +116,48 @@
               "content": "Bible History: Grade 9\nCheck the Extra Helpings for grades 9-12 resources for devotional reading, Sunday reading, seasonal reading, and more."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Old Testament: Grades 7-12",
+              "type": "topic",
+              "books": [
+                "The Student Bible Atlas, Revised Edition",
+                "Old Testament Today",
+                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                "ESV Concise Study Bible"
+              ]
+            },
+            {
+              "title": "Church History: Grades 7-9",
+              "type": "topic",
+              "books": [
+                "Spurgeon: A Biography",
+                "Renewal: The Church That Expands Outward",
+                "An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+              ]
+            },
+            {
+              "title": "New Testament: Grade 9",
+              "type": "topic",
+              "books": [
+                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                "Introducing the New Testament: A Historical, Literary, and Theological Survey",
+                "Luke for Everyone"
+              ]
+            },
+            {
+              "title": "Bible History: Grade 9",
+              "type": "topic",
+              "books": [
+                "God’s Big Picture: Tracing the Storyline of the Bible"
+              ]
+            }
+          ]
         }
       ]
     }

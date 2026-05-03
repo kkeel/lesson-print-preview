@@ -111,6 +111,37 @@
               "content": "Written Narration: Grade 8\n☐  Some ideas on supporting students who are still building fluency with written narrations: \n- Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n- Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n- Write the beginning and then orally tell the rest, or vice versa.\n- Some students may find writing easier if you provide external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Grammar/Comp: Grade 8",
+              "type": "topic",
+              "books": [
+                "Grammar Voyage",
+                "Grammar Voyage Teacher Manual (select pages)",
+                "Practice Voyage",
+                "Practice Voyage Teacher Manual (select pages)"
+              ]
+            },
+            {
+              "title": "Dictation: Grade 8",
+              "type": "topic",
+              "books": [
+                "Grade 8 Copywork & Dictation Book"
+              ]
+            },
+            {
+              "title": "Copywork: Grade 8",
+              "type": "topic",
+              "books": [
+                "Grade 8 Copywork & Dictation Book"
+              ]
+            }
+          ]
         }
       ]
     }

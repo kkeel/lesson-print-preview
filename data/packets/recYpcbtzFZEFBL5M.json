@@ -89,6 +89,21 @@
               "content": "First Citizen Stories\n☐ You may want to preread stories so that you are familiar with the pronunciation of the names, and you may also want to preview the content for sensitive students.\n\n☐ As desired, plan for a read-aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "First Citizen Stories",
+              "type": "topic",
+              "books": [
+                "Stories From the History of Rome",
+                "Historical Atlas of the World 6th Ed."
+              ]
+            }
+          ]
         }
       ]
     }

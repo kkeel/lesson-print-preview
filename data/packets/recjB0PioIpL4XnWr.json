@@ -89,6 +89,21 @@
               "content": "Music Appreciation\n☐ Term 1: Download the audio files or bookmark the web page of A Child’s Introduction to the Orchestra. \n☐ Term 2: Learn how to pronounce Prokofiev and Camille Saint-Saens. \n☐ Term 3: Art and music are paired together throughout this term. If teachers anticipate the resources might be overstimulating, Wild Symphony by Dan Brown is a good alternative (see Extra Helpings)."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Music Appreciation",
+              "type": "topic",
+              "books": [
+                "A Child's Introduction to the Orchestra",
+                "Playlist for Afternoon Listening and Selected Lessons"
+              ]
+            }
+          ]
         }
       ]
     }

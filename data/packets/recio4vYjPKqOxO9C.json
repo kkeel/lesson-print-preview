@@ -85,6 +85,25 @@
               "content": "Geography: Grade 1\n☐ Remember to look ahead to see what simple supplies will be needed."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Geography: Grade 1",
+              "type": "course",
+              "books": [
+                "Down Comes the Rain",
+                "Elementary Geography",
+                "Me on the Map",
+                "The Reasons for Seasons",
+                "What Makes Day and Night",
+                "United States Atlas 7th Ed."
+              ]
+            }
+          ]
         }
       ]
     }

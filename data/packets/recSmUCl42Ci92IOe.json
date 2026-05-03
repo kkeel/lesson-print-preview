@@ -87,6 +87,25 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
+        },
+        {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "",
+          "groups": [
+            {
+              "title": "Canadian History: Grades 9-10",
+              "type": "topic",
+              "books": [
+                "The Underground Railroad: Next Stop, Toronto!",
+                "Early Voices",
+                "Vanished Beyond the Map",
+                "Sophie's Rebellion",
+                "Red Wolf",
+                "The Charlottetown Conference and the Birth of Confederation"
+              ]
+            }
+          ]
         }
       ]
     }
