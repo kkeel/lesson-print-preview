@@ -60,14 +60,14 @@
               "label": "U.S. History: Grades 4-6",
               "grade": "4-6",
               "scheduleInfo": "U.S. History: Grades 4-6\n1 time/week 25 min",
-              "books": "Heart and Soul: The Story of America and African Americans, SeaMan: The Dog Who Explored The West With Lewis & Clark, Lincoln: A Photobiography, Children of the Wild West"
+              "books": "Heart and Soul: The Story of America and African Americans||Children of the Wild West||Lincoln: A Photobiography||SeaMan: The Dog Who Explored The West With Lewis & Clark"
             },
             {
               "rowType": "topic",
               "label": "World History: Grades 4-6",
               "grade": "4-6",
               "scheduleInfo": "World History: Grades 4-6\n1 time/week 25 min",
-              "books": "Under the Hawthorn Tree, William Wilberforce: The Freedom Fighter, Commodore Perry in the Land of the Shogun"
+              "books": "William Wilberforce: The Freedom Fighter||Under the Hawthorn Tree||Commodore Perry in the Land of the Shogun"
             }
           ],
           "weeklyView": {

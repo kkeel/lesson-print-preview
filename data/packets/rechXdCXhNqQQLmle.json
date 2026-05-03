@@ -64,21 +64,21 @@
               "label": "Old Testament: Grades 7-12",
               "grade": "7-12",
               "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
-              "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
+              "books": "The Student Bible Atlas, Revised Edition||Old Testament Today||NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture||ESV Concise Study Bible"
             },
             {
               "rowType": "topic",
               "label": "Church History: Grades 7-9",
               "grade": "7-9",
               "scheduleInfo": "Church History: Grades 7-9\n1 time/week 30 min",
-              "books": "Spurgeon: A Biography, Renewal: The Church That Expands Outward, An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+              "books": "Spurgeon: A Biography||Renewal: The Church That Expands Outward||An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
             },
             {
               "rowType": "topic",
               "label": "New Testament: Grade 9",
               "grade": "9",
               "scheduleInfo": "New Testament: Grade 9\n1 time/week 30 min",
-              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture||Introducing the New Testament: A Historical, Literary, and Theological Survey||Luke for Everyone"
             },
             {
               "rowType": "topic",

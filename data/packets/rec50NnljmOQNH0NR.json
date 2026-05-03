@@ -73,28 +73,28 @@
               "label": "General Lit.: Grades 9-10",
               "grade": "9-10",
               "scheduleInfo": "General Lit.: Grades 9-10\n2 times/week 30 min",
-              "books": "Up from Slavery, Frankenstein, Narrative of the Life of Frederick Douglass, The Souls of Black Folk, Silas Marner, Short stories and other writings"
+              "books": "Frankenstein||Silas Marner||Narrative of the Life of Frederick Douglass||The Souls of Black Folk||Up from Slavery||Short stories and other writings"
             },
             {
               "rowType": "topic",
               "label": "History of Lit: Grades 9-12",
               "grade": "9-12",
               "scheduleInfo": "History of Lit: Grades 9-12\n1 time/week 30 min",
-              "books": "English Literature for Boys and Girls, American Literature, History of Literature PDF"
+              "books": "American Literature||English Literature for Boys and Girls||History of Literature PDF"
             },
             {
               "rowType": "topic",
               "label": "Plays: Grades 9-12",
               "grade": "9-12",
               "scheduleInfo": "Plays: Grades 9-12\n1 time/week 30 min",
-              "books": "The Tempest, The Tempest (Audio recording), Henry IV Part 2, Henry IV Part 2 (Audio recording), The Winter's Tale, The Winter's Tale (Audio recording)"
+              "books": "The Tempest||The Tempest (Audio recording)||Henry IV Part 2||Henry IV Part 2 (Audio recording)||The Winter's Tale||The Winter's Tale (Audio recording)"
             },
             {
               "rowType": "topic",
               "label": "Poetry Reading: Grades 9-12",
               "grade": "9-12",
               "scheduleInfo": "Poetry Reading: Grades 9-12\n2 times/week 15 min",
-              "books": "Poetry, The Lightning Dreamer: Cuba's Greatest Abolitionist, The Crescent Moon, The Aeneid, Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar"
+              "books": "Poetry||The Aeneid||The Lightning Dreamer: Cuba's Greatest Abolitionist||Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar||The Crescent Moon"
             }
           ],
           "weeklyView": {

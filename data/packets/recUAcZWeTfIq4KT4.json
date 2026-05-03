@@ -58,7 +58,7 @@
               "label": "General Science: Grade 6",
               "grade": "6",
               "scheduleInfo": "General Science: Grade 6\n2 times/week 30 min",
-              "books": "Plate Tectonics, Phineas Gage, The Art of Construction"
+              "books": "Plate Tectonics||The Art of Construction||Phineas Gage"
             }
           ],
           "weeklyView": {

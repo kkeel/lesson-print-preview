@@ -66,7 +66,7 @@
               "label": "Music Appreciation",
               "grade": "1",
               "scheduleInfo": "Music Appreciation\n1 time/week 10 min",
-              "books": "A Child's Introduction to the Orchestra, Playlist for Afternoon Listening and Selected Lessons"
+              "books": "A Child's Introduction to the Orchestra||Playlist for Afternoon Listening and Selected Lessons"
             },
             {
               "rowType": "topic",
@@ -101,7 +101,7 @@
               "label": "Music: Intro",
               "grade": "",
               "scheduleInfo": "Shared course resources",
-              "books": "Our Work: Grades 1-2, Hymns, Spirituals, & Folk Songs PDF"
+              "books": "Our Work: Grades 1-2||Hymns, Spirituals, & Folk Songs PDF"
             }
           ],
           "weeklyView": {

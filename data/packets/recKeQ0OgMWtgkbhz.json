@@ -60,14 +60,14 @@
               "label": "Reading Level 2",
               "grade": "2",
               "scheduleInfo": "Reading Level 2\n5 times/week 15 min",
-              "books": "Reading-Literature: First Reader, Reading Lessons: Level 2 (Revised 2025)"
+              "books": "Reading Lessons: Level 2 (Revised 2025)||Reading-Literature: First Reader"
             },
             {
               "rowType": "topic",
               "label": "Penmanship & Copywork: Grade 2",
               "grade": "2",
               "scheduleInfo": "Penmanship & Copywork: Grade 2\n5 times/week 10 min",
-              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book C"
+              "books": "Getty-Dubay® Italic Handwriting Book C||Italics: Beautiful Handwriting for Children"
             }
           ],
           "weeklyView": {

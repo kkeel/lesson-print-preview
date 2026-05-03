@@ -73,7 +73,7 @@
               "label": "General Science: Grade 6",
               "grade": "6",
               "scheduleInfo": "General Science: Grade 6\n2 times/week 30 min",
-              "books": "Plate Tectonics, Phineas Gage, The Art of Construction"
+              "books": "Plate Tectonics||The Art of Construction||Phineas Gage"
             },
             {
               "rowType": "topic",
@@ -87,7 +87,7 @@
               "label": "Natural History: Grade 6",
               "grade": "6",
               "scheduleInfo": "Natural History: Grade 6\n1 time/week 15 min",
-              "books": "Tracking Trash, The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem, The Frog Scientist"
+              "books": "The Frog Scientist||The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem||Tracking Trash"
             },
             {
               "rowType": "topic",

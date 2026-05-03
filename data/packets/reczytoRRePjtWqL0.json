@@ -58,7 +58,7 @@
               "label": "Physics Lessons",
               "grade": "11-12",
               "scheduleInfo": "Physics Lessons\n5 times/week 45 min",
-              "books": "Home Study Companion: Physics, Schaum's Outlines: College Physics"
+              "books": "Home Study Companion: Physics||Schaum's Outlines: College Physics"
             }
           ],
           "weeklyView": {

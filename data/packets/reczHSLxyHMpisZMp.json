@@ -73,7 +73,7 @@
               "label": "General Science: Grade 5",
               "grade": "5",
               "scheduleInfo": "General Science: Grade 5\n1 time/week 20 min",
-              "books": "The Hive Detectives: Chronicle of a Honey Bee Catastrophe, The Tornado Scientist, Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt"
+              "books": "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt||The Hive Detectives: Chronicle of a Honey Bee Catastrophe||The Tornado Scientist"
             },
             {
               "rowType": "topic",
@@ -87,7 +87,7 @@
               "label": "Natural History: Grade 5",
               "grade": "5",
               "scheduleInfo": "Natural History: Grade 5\n1 time/week 15 min",
-              "books": "Nature All Around: Plants, Shanleya's Quest Card Game, The Forest in the Tree, The Bat Scientists, Beetle Busters"
+              "books": "Beetle Busters||Nature All Around: Plants||Shanleya's Quest Card Game||The Bat Scientists||The Forest in the Tree"
             },
             {
               "rowType": "topic",

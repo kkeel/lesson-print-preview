@@ -78,7 +78,7 @@
               "label": "Biology Lessons",
               "grade": "10-12+",
               "scheduleInfo": "Biology Lessons\n5 times/week 45 min",
-              "books": "General Biology, 2nd Edition, The Biology Coloring Book, The Fool and the Heretic, The Spirit of the Rainforest"
+              "books": "The Biology Coloring Book||The Spirit of the Rainforest||General Biology, 2nd Edition||The Fool and the Heretic"
             },
             {
               "rowType": "topic",

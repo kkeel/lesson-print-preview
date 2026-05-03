@@ -60,14 +60,14 @@
               "label": "Reading Level 1",
               "grade": "1",
               "scheduleInfo": "Reading Level 1\n5 times/week 15 min",
-              "books": "Reading-Literature: The Primer, Reading Lessons: Level 1 (Revised 2025)"
+              "books": "Reading Lessons: Level 1 (Revised 2025)||Reading-Literature: The Primer"
             },
             {
               "rowType": "topic",
               "label": "Penmanship & Copywork: Grade 1",
               "grade": "1",
               "scheduleInfo": "Penmanship & Copywork: Grade 1\n5 times/week 10 min",
-              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book B"
+              "books": "Getty-Dubay® Italic Handwriting Book B||Italics: Beautiful Handwriting for Children"
             }
           ],
           "weeklyView": {

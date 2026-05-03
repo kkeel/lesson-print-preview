@@ -62,21 +62,21 @@
               "label": "Canadian History: Grades 11-12",
               "grade": "11-12",
               "scheduleInfo": "Canadian History: Grades 11-12\n1 time/week 40 min\n1 time/week 30 min",
-              "books": "A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land, Early Voices, Making of Canada: An Epic History in Twenty Extraordinary Lives, How Different It Was: Canadians at the Time of Confederation, The Unweaving"
+              "books": "A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land||Early Voices||How Different It Was: Canadians at the Time of Confederation||The Unweaving||Making of Canada: An Epic History in Twenty Extraordinary Lives"
             },
             {
               "rowType": "topic",
               "label": "World History: Grades 10-12",
               "grade": "10-12",
               "scheduleInfo": "World History: Grades 10-12\n1 time/week 30 min",
-              "books": "When America First Met China, Erebus: The Story of a Ship, Blood and Iron: The Rise and Fall of the German Empire"
+              "books": "Blood and Iron: The Rise and Fall of the German Empire||When America First Met China||Erebus: The Story of a Ship"
             },
             {
               "rowType": "topic",
               "label": "Ancient History: Grades 10-12",
               "grade": "10-12",
               "scheduleInfo": "Ancient History: Grades 10-12\n1 time/week 30 min\n1 time/week 40 min",
-              "books": "Ancient Empires: From Mesopotamia to the Rise of Islam, Christians Reading Classics, Early Christian Writings: The Apostolic Fathers edited"
+              "books": "Early Christian Writings: The Apostolic Fathers edited||Ancient Empires: From Mesopotamia to the Rise of Islam||Christians Reading Classics"
             }
           ],
           "weeklyView": {

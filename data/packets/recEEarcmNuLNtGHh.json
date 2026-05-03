@@ -64,28 +64,28 @@
               "label": "Old Testament: Grades 7-12",
               "grade": "7-12",
               "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
-              "books": "Old Testament Today, NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, ESV Concise Study Bible, The Student Bible Atlas, Revised Edition"
+              "books": "The Student Bible Atlas, Revised Edition||Old Testament Today||NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture||ESV Concise Study Bible"
             },
             {
               "rowType": "topic",
               "label": "New Testament: Grades 7-8",
               "grade": "7-8",
               "scheduleInfo": "New Testament: Grades 7-8\n1 time/week 30 min",
-              "books": "ESV Concise Study Bible, The Student Bible Atlas, Revised Edition, Introducing the New Testament: A Historical, Literary, and Theological Survey"
+              "books": "The Student Bible Atlas, Revised Edition||ESV Concise Study Bible||Introducing the New Testament: A Historical, Literary, and Theological Survey"
             },
             {
               "rowType": "topic",
               "label": "Church History: Grades 7-9",
               "grade": "7-9",
               "scheduleInfo": "Church History: Grades 7-9\n1 time/week 30 min",
-              "books": "Spurgeon: A Biography, Renewal: The Church That Expands Outward, An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+              "books": "Spurgeon: A Biography||Renewal: The Church That Expands Outward||An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
             },
             {
               "rowType": "topic",
               "label": "Spiritual Formation: Grades 7-8",
               "grade": "7-8",
               "scheduleInfo": "Spiritual Formation: Grades 7-8\n1 time/week 30 min",
-              "books": "Transformed by Truth, This Changes Everything"
+              "books": "Transformed by Truth||This Changes Everything"
             }
           ],
           "weeklyView": {

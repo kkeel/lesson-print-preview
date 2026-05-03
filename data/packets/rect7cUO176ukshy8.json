@@ -58,7 +58,7 @@
               "label": "Reading Level 3",
               "grade": "3",
               "scheduleInfo": "Reading Level 3\n5 times/week 15 min",
-              "books": "Reading-Literature: Second Reader, Reading Lessons: Level 3"
+              "books": "Reading Lessons: Level 3||Reading-Literature: Second Reader"
             }
           ],
           "weeklyView": {

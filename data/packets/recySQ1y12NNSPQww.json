@@ -62,21 +62,21 @@
               "label": "Old Testament: Grades 3-6",
               "grade": "3-6",
               "scheduleInfo": "Old Testament: Grades 3-6\n2 times/week 20 min",
-              "books": "ESV Large Print Bible, The Student Bible Atlas, Revised Edition, The New Manners and Customs of Bible Times"
+              "books": "ESV Large Print Bible||The Student Bible Atlas, Revised Edition||The New Manners and Customs of Bible Times"
             },
             {
               "rowType": "topic",
               "label": "New Testament: Grades 3-6",
               "grade": "3-6",
               "scheduleInfo": "New Testament: Grades 3-6\n2 times/week 20 min",
-              "books": "ESV Large Print Bible, The New Manners and Customs of Bible Times, The Student Bible Atlas, Revised Edition"
+              "books": "ESV Large Print Bible||The Student Bible Atlas, Revised Edition||The New Manners and Customs of Bible Times"
             },
             {
               "rowType": "topic",
               "label": "Church History: Grades 4-6",
               "grade": "4-6",
               "scheduleInfo": "Church History: Grades 4-6\n1 time/week 20 min",
-              "books": "Hudson Taylor: Deep in the Heart of China, Trial by Poison: Mary Slessor"
+              "books": "Hudson Taylor: Deep in the Heart of China||Trial by Poison: Mary Slessor"
             }
           ],
           "weeklyView": {

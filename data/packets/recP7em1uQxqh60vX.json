@@ -66,7 +66,7 @@
               "label": "Plutarch: Grades 6-8",
               "grade": "6-8+",
               "scheduleInfo": "Plutarch: Grades 6-8\n1 time/week 30 min",
-              "books": "Historical Atlas of the World 6th Ed., The Plutarch Project Volume Three (Revised)"
+              "books": "Historical Atlas of the World 6th Ed.||The Plutarch Project Volume Three (Revised)"
             },
             {
               "rowType": "topic",
@@ -80,7 +80,7 @@
               "label": "Canadian Gov./ Economics: Grade 8",
               "grade": "8",
               "scheduleInfo": "Canadian Gov./ Economics: Grade 8\n1 time/week 25 min",
-              "books": "Canada's Constitutional Monarchy, Dollars and Sense: A Kid's Guide to Using - Not Losing - Money"
+              "books": "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money||Canada's Constitutional Monarchy"
             },
             {
               "rowType": "topic",

@@ -60,14 +60,14 @@
               "label": "General Lit.: Grades 5-6",
               "grade": "5-6",
               "scheduleInfo": "General Lit.: Grades 5-6\n1 time/week 20 min",
-              "books": "Little Women, Hans Brinker or The Silver Skates"
+              "books": "Hans Brinker or The Silver Skates||Little Women"
             },
             {
               "rowType": "topic",
               "label": "Lit./Mythology: Grade 5-6",
               "grade": "5-6",
               "scheduleInfo": "Lit./Mythology: Grade 5-6\n1 time/week 25 min",
-              "books": "The Age of Fable, South American Jungle Tales, Russian Fairy Tales, Short Stories & Folktales, A Christmas Carol"
+              "books": "The Age of Fable||South American Jungle Tales||Russian Fairy Tales||A Christmas Carol||Short Stories & Folktales"
             }
           ],
           "weeklyView": {

@@ -62,21 +62,21 @@
               "label": "New Testament: Grades 10-11",
               "grade": "10-11",
               "scheduleInfo": "New Testament: Grades 10-11\n1 time/week 30 min",
-              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture, Introducing the New Testament: A Historical, Literary, and Theological Survey, Luke for Everyone"
+              "books": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture||Introducing the New Testament: A Historical, Literary, and Theological Survey||Luke for Everyone"
             },
             {
               "rowType": "topic",
               "label": "Church History: Grades 10-12",
               "grade": "10-12",
               "scheduleInfo": "Church History: Grades 10-12\n1 time/week 30 min",
-              "books": "When the Church Was Young: Voices of the Early Fathers, Turning Points in American Church History"
+              "books": "When the Church Was Young: Voices of the Early Fathers||Turning Points in American Church History"
             },
             {
               "rowType": "topic",
               "label": "Spiritual Formation: Grades 10-11",
               "grade": "10-11",
               "scheduleInfo": "Spiritual Formation: Grades 10-11\n1 time/week 30 min",
-              "books": "Reading the Bible for a Change, God of All Things"
+              "books": "Reading the Bible for a Change||God of All Things"
             }
           ],
           "weeklyView": {

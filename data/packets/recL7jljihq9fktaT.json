@@ -73,7 +73,7 @@
               "label": "General Science: Grade 4",
               "grade": "4",
               "scheduleInfo": "General Science: Grade 4\n1 time/week 20 min",
-              "books": "The Universe in You: A Microscopic Journey, To Fly: The Story of the Wright Brothers, The Elephant Scientist"
+              "books": "The Elephant Scientist||To Fly: The Story of the Wright Brothers||The Universe in You: A Microscopic Journey"
             },
             {
               "rowType": "topic",
@@ -87,7 +87,7 @@
               "label": "Natural History: Grade 4",
               "grade": "4",
               "scheduleInfo": "Natural History: Grade 4\n1 time/week 15 min",
-              "books": "A World in a Drop of Water: Exploring with a Microscope, The Octopus Scientists: Exploring the Mind of a Mollusk, Life on Surtsey: Iceland's Upstart Island"
+              "books": "A World in a Drop of Water: Exploring with a Microscope||Life on Surtsey: Iceland's Upstart Island||The Octopus Scientists: Exploring the Mind of a Mollusk"
             },
             {
               "rowType": "topic",

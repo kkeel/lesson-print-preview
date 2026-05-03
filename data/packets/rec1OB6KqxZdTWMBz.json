@@ -64,7 +64,7 @@
               "label": "Chemistry Lessons",
               "grade": "9-12+",
               "scheduleInfo": "Chemistry Lessons\n5 times/week 45 min",
-              "books": "HS Chem Intro, Michael Faraday's The Chemical History of a Candle, Introductory Chemistry: A Foundation, The Chemical Elements Coloring and Activity Book"
+              "books": "HS Chem Intro||Introductory Chemistry: A Foundation||Michael Faraday's The Chemical History of a Candle||The Chemical Elements Coloring and Activity Book"
             },
             {
               "rowType": "topic",

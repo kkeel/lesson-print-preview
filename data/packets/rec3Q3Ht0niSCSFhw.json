@@ -64,7 +64,7 @@
               "label": "Grammar: Grade 4",
               "grade": "4",
               "scheduleInfo": "Grammar: Grade 4\n2 times/week 15 min",
-              "books": "Grammar Island, Grammar Island Teacher Manual (select pages), Practice Island, Practice Island Teacher Manual (select pages)"
+              "books": "Grammar Island||Grammar Island Teacher Manual (select pages)||Practice Island||Practice Island Teacher Manual (select pages)"
             },
             {
               "rowType": "topic",
@@ -78,7 +78,7 @@
               "label": "Penmanship & Copywork: Grade 4",
               "grade": "4",
               "scheduleInfo": "Penmanship & Copywork: Grade 4\n5 times/week 10 min",
-              "books": "Italics: Beautiful Handwriting for Children, Getty-Dubay® Italic Handwriting Book E, Grade 4 Copywork & Dictation Book"
+              "books": "Getty-Dubay® Italic Handwriting Book E||Italics: Beautiful Handwriting for Children||Grade 4 Copywork & Dictation Book"
             },
             {
               "rowType": "topic",
