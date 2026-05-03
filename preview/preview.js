@@ -42,18 +42,23 @@ function booksToLines(value) {
   const text = String(value ?? "").trim();
   if (!text) return "";
 
+  // New preferred separator from Airtable.
+  if (text.includes("||")) {
+    return text
+      .split("||")
+      .map(item => item.trim())
+      .filter(Boolean)
+      .map(item => escapeHtml(item))
+      .join("<br>");
+  }
+
   // Preserve real line breaks if the JSON already has them.
   if (text.includes("\n")) {
     return nl2br(text);
   }
 
-  // Fallback: split comma-separated book lists into separate lines.
-  return text
-    .split(/\s*,\s*/)
-    .map(item => item.trim())
-    .filter(Boolean)
-    .map(item => escapeHtml(item))
-    .join("<br>");
+  // Fallback: leave text as-is so book titles with commas do not break.
+  return escapeHtml(text);
 }
 
 function weeklyCellToLines(value) {
