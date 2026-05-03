@@ -445,6 +445,38 @@ function splitBooks(value) {
   return [text];
 }
 
+function ourWorkSortValue(book) {
+  const text = String(book || "");
+
+  if (!text.toLowerCase().startsWith("our work:")) {
+    return 999;
+  }
+
+  if (text.includes("Grades 1-2")) return 1;
+  if (text.includes("Grade 3")) return 3;
+  if (text.includes("Grades 4-6")) return 4;
+  if (text.includes("Grades 7-8")) return 7;
+  if (text.includes("Grades 9-12")) return 9;
+
+  return 998;
+}
+
+function sortBookResources(books) {
+  return [...books].sort((a, b) => {
+    const aIsOurWork = String(a).toLowerCase().startsWith("our work:");
+    const bIsOurWork = String(b).toLowerCase().startsWith("our work:");
+
+    if (aIsOurWork && bIsOurWork) {
+      return ourWorkSortValue(a) - ourWorkSortValue(b);
+    }
+
+    if (aIsOurWork) return -1;
+    if (bIsOurWork) return 1;
+
+    return 0;
+  });
+}
+
 function uniqueBooks(books) {
   const seen = new Set();
   const result = [];
@@ -457,7 +489,7 @@ function uniqueBooks(books) {
     result.push(book);
   }
 
-  return result;
+  return sortBookResources(result);
 }
 
 function buildBooksResources(packetRecord, allLessonRecordsById) {
