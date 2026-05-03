@@ -719,10 +719,10 @@ a:hover {
 .weekly-view-cell {
   min-height: 0.29in;
   padding: 4px;
-  text-align: left;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  text-align: left;
   border-right: 1px solid #c7d0bd;
   border-bottom: 1px solid #c7d0bd;
   background: #ffffff;
