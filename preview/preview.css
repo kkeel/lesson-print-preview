@@ -737,3 +737,36 @@ a:hover {
     print-color-adjust: exact;
   }
 }
+
+/* =========================
+   Planning & Prep
+   ========================= */
+
+.planning-prep-content {
+  font-family: "DM Sans", system-ui, sans-serif;
+}
+
+.planning-prep-entry {
+  margin-top: 0.18in;
+}
+
+.planning-prep-entry:first-of-type {
+  margin-top: 0;
+}
+
+.planning-prep-entry p {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #111111;
+  margin: 0;
+}
+
+.planning-prep-subtitle {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #adb58f;
+  margin: 0 0 0.12in;
+}
