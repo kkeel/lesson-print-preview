@@ -46,24 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Written Narration: Grade 8\nWRITTEN NARRATIONS\n☐ Plan to complete eight written narrations every week; at least half should be typed.\n\n☐ Written narrations can happen after reading at the end of any lesson, if time allows, and do NOT need to take up an extra 10-15 minutes in your schedule. This tracker serves to help you keep records of what was done throughout the year.\n\n☐ To keep written narrations fresh and interesting, have your student try narrating in different ways (specific suggestions are sometimes included directly in a lesson). Students are directly assigned some of these prompts in composition lessons, but they should feel free to use these as desired for their normal narrations as well. In addition to just “what did we read about?”, you can ask students to:\n- “Write the story of ___.” (Example: “Write the story of the battle of Troy.”) \n- \"Imagine you are a character in the story and write what happened as a diary entry\" (Example: pretend you are Christian in Pilgrim’s Progress and write a letter or diary entry telling what happened to him in today’s chapter.”\n- Pretend they are the author of the book and have them write their narration as if they are telling the story of the chapter they read for the book's first readers. (Then have them read it to someone who hasn't read the book!)\n- Tell back the reading as a poem, a news report or interview, a scene in a play, or a comic strip style narration combining illustration and words.\n\n☐ Encourage students to spend a full 10-15 minutes or so on their narrations and give as much detail as possible. It may help if you encourage them to think of writing their narrations for a friend or someone who has never read the book, rather than for you, who might already know the story. If they feel like they've run out of things to write, have them try one of the narration variations above.\n\n☐ Remind students that narration is a way for them to process and think more deeply about what they read. Narration isn't about proving to you that they read a book or did an assignment, but a chance for them to actually know it and better remember it themselves."
-            },
-            {
-              "title": "Reminders",
-              "content": "Written Narration: Grade 8\n☐  Some ideas on supporting students who are still building fluency with written narrations: \n- Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n- Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n- Write the beginning and then orally tell the rest, or vice versa.\n- Some students may find writing easier if you provide external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -89,6 +71,24 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Written Narration: Grade 8\nWRITTEN NARRATIONS\n☐ Plan to complete eight written narrations every week; at least half should be typed.\n\n☐ Written narrations can happen after reading at the end of any lesson, if time allows, and do NOT need to take up an extra 10-15 minutes in your schedule. This tracker serves to help you keep records of what was done throughout the year.\n\n☐ To keep written narrations fresh and interesting, have your student try narrating in different ways (specific suggestions are sometimes included directly in a lesson). Students are directly assigned some of these prompts in composition lessons, but they should feel free to use these as desired for their normal narrations as well. In addition to just “what did we read about?”, you can ask students to:\n- “Write the story of ___.” (Example: “Write the story of the battle of Troy.”) \n- \"Imagine you are a character in the story and write what happened as a diary entry\" (Example: pretend you are Christian in Pilgrim’s Progress and write a letter or diary entry telling what happened to him in today’s chapter.”\n- Pretend they are the author of the book and have them write their narration as if they are telling the story of the chapter they read for the book's first readers. (Then have them read it to someone who hasn't read the book!)\n- Tell back the reading as a poem, a news report or interview, a scene in a play, or a comic strip style narration combining illustration and words.\n\n☐ Encourage students to spend a full 10-15 minutes or so on their narrations and give as much detail as possible. It may help if you encourage them to think of writing their narrations for a friend or someone who has never read the book, rather than for you, who might already know the story. If they feel like they've run out of things to write, have them try one of the narration variations above.\n\n☐ Remind students that narration is a way for them to process and think more deeply about what they read. Narration isn't about proving to you that they read a book or did an assignment, but a chance for them to actually know it and better remember it themselves."
+            },
+            {
+              "title": "Reminders",
+              "content": "Written Narration: Grade 8\n☐  Some ideas on supporting students who are still building fluency with written narrations: \n- Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n- Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n- Write the beginning and then orally tell the rest, or vice versa.\n- Some students may find writing easier if you provide external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit."
+            }
+          ]
         }
       ]
     }

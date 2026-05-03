@@ -50,28 +50,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Botany Lessons\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Botany Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• various plants specimens, found or obtained as detailed in Elementary Plant Studies\n• lily flower (Term 1)\n• found twigs and fruits/seeds\n• needle and/or blade for dissecting\n• forceps/tweezers for dissecting\n• large, transparent cup/glass\n• masking tape\n• aluminum foil\n• 2 glass jars\n• salt\n• oil\n• microscope coverslips and slides\n• paper towels\n• saucer\n• recycled box\n• pins\n• cotton ball\n• various corks\n• recycled measuring spoon/cup marked in tsp/Tbsp or mL\n• recycled apple corer or trowel\n• place to dig soil\n• distilled water\n• zip top sandwich bags for soil samples\n• small jars with secure lid for each soil sample\n• dropper\n• pea/bean seeds\n• potting materials\n• denatured alcohol\n• iodine\n• potato\n• matches \n• candle\n• red food coloring/dye\n• straw\n• materials by student choice\n• optional: tulip bulb"
-            },
-            {
-              "title": "Reminders",
-              "content": "Botany Lessons\n☐ Note that Lab in week 7 requires a lily flower. Make a calendar note to obtain this closer to the appropriate time."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -97,6 +75,28 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Botany Lessons\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate.\n\n☐ Bookmark or print Quick Links, as needed."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Botany Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• various plants specimens, found or obtained as detailed in Elementary Plant Studies\n• lily flower (Term 1)\n• found twigs and fruits/seeds\n• needle and/or blade for dissecting\n• forceps/tweezers for dissecting\n• large, transparent cup/glass\n• masking tape\n• aluminum foil\n• 2 glass jars\n• salt\n• oil\n• microscope coverslips and slides\n• paper towels\n• saucer\n• recycled box\n• pins\n• cotton ball\n• various corks\n• recycled measuring spoon/cup marked in tsp/Tbsp or mL\n• recycled apple corer or trowel\n• place to dig soil\n• distilled water\n• zip top sandwich bags for soil samples\n• small jars with secure lid for each soil sample\n• dropper\n• pea/bean seeds\n• potting materials\n• denatured alcohol\n• iodine\n• potato\n• matches \n• candle\n• red food coloring/dye\n• straw\n• materials by student choice\n• optional: tulip bulb"
+            },
+            {
+              "title": "Reminders",
+              "content": "Botany Lessons\n☐ Note that Lab in week 7 requires a lily flower. Make a calendar note to obtain this closer to the appropriate time."
+            }
+          ]
         }
       ]
     }

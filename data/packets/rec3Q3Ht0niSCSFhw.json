@@ -56,24 +56,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Penmanship & Copywork: Grade 4\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace.\n\nWritten Narration: Grade 4\n☐ Plan to complete one written narration every week and consider increasing to two by the end of the year. \n\n☐ Written narrations can happen after reading at the end of any lesson if time allows and do not need to take up an extra 10 minutes in your schedule. This tracker serves to help you keep records of what was done throughout the year.\n\n☐ To keep written narrations fresh and interesting, you can try different ways to have your students narrate what they read or observed outside. In addition to just “what did we read about?”, you can ask students to “write the story of ___.” (Example: “Write the story of Loki.”) Some students may also like to imagine they are a character in the story and write what happened as a diary entry (Example: \"Pretend you are Christian in Pilgrim’s Progress and write a letter or diary entry telling what happened to him in today’s chapter.”)"
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Grammar: Grade 4\n☐ Bookmark or Print Grammar Island Additional Practice PDF (Find in Quick Links)\n\n☐ Bookmark Grammar Island Teacher Manual select pages for lesson answer key (Find in Quick Links)\n\n☐ Bookmark Practice Island Teacher Manual for answer key (Find in Quick Links)\n\nWritten Narration: Grade 4\nSome ideas on helping students transition to written narration: \n☐ Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n☐ Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n☐ Write the beginning and then orally tell the rest, or vice versa."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -120,6 +102,24 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Penmanship & Copywork: Grade 4\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace.\n\nWritten Narration: Grade 4\n☐ Plan to complete one written narration every week and consider increasing to two by the end of the year. \n\n☐ Written narrations can happen after reading at the end of any lesson if time allows and do not need to take up an extra 10 minutes in your schedule. This tracker serves to help you keep records of what was done throughout the year.\n\n☐ To keep written narrations fresh and interesting, you can try different ways to have your students narrate what they read or observed outside. In addition to just “what did we read about?”, you can ask students to “write the story of ___.” (Example: “Write the story of Loki.”) Some students may also like to imagine they are a character in the story and write what happened as a diary entry (Example: \"Pretend you are Christian in Pilgrim’s Progress and write a letter or diary entry telling what happened to him in today’s chapter.”)"
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Grammar: Grade 4\n☐ Bookmark or Print Grammar Island Additional Practice PDF (Find in Quick Links)\n\n☐ Bookmark Grammar Island Teacher Manual select pages for lesson answer key (Find in Quick Links)\n\n☐ Bookmark Practice Island Teacher Manual for answer key (Find in Quick Links)\n\nWritten Narration: Grade 4\nSome ideas on helping students transition to written narration: \n☐ Write down words on a whiteboard if a student wants to use a word they don’t know how to spell.\n☐ Have students write down brief sentences (even numbered statements) telling the sequence of events, and then have them orally give more details about each of them.\n☐ Write the beginning and then orally tell the rest, or vice versa."
+            }
+          ]
         }
       ]
     }

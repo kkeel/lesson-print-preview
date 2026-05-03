@@ -46,28 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Sloyd: Level 1\n☐ View the \"Sloyd Introduction\" video for an overview of materials and resources used in Sloyd (see Quick Links below).\n\n☐ Purchase supplies and organize them so they are easily accessible.\n\n☐ Read through pages 1-7 in the book to gain a general idea of the purpose and how to go about the lessons. This will also give you an understanding of how you can adapt supplies to fit our time. For example, \"Gummed Parquetry\" is equivalent to 1\" circle label stickers, and \"Gummed Stars\" are similar to gold foil star stickers. You can also substitute scotch tape or stapling in some places for pasting and threading. (i.e., on the \"wall pocket\" you can tape the pieces together where they join as opposed to stitching.) \n\n☐ Keep the page of images for each of the first-year models for reference while working on models (see Appendices).\n\n☐ Allow time for loading and viewing videos. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Before each lesson, gather needed materials as listed at the beginning of each day's lesson plan. \n\n☐ Introduce students to their Sloyd tools (talk about their care and safe use). Refresh students on how to use a ruler (note where \"0\" starts) and how to use the edge to draw a straight line."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Sloyd: Level 1\nTeachers need to watch \"Sloyd Introduction\" before the first lesson and complete the reading assignment in order to understand the purpose and process of Sloyd. (See Quick Links below.)"
-            },
-            {
-              "title": "Reminders",
-              "content": "Sloyd: Level 1"
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -93,6 +71,28 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Sloyd: Level 1\n☐ View the \"Sloyd Introduction\" video for an overview of materials and resources used in Sloyd (see Quick Links below).\n\n☐ Purchase supplies and organize them so they are easily accessible.\n\n☐ Read through pages 1-7 in the book to gain a general idea of the purpose and how to go about the lessons. This will also give you an understanding of how you can adapt supplies to fit our time. For example, \"Gummed Parquetry\" is equivalent to 1\" circle label stickers, and \"Gummed Stars\" are similar to gold foil star stickers. You can also substitute scotch tape or stapling in some places for pasting and threading. (i.e., on the \"wall pocket\" you can tape the pieces together where they join as opposed to stitching.) \n\n☐ Keep the page of images for each of the first-year models for reference while working on models (see Appendices).\n\n☐ Allow time for loading and viewing videos. We recommend teachers preview tutorials and work a model before teaching it.\n\n☐ Before each lesson, gather needed materials as listed at the beginning of each day's lesson plan. \n\n☐ Introduce students to their Sloyd tools (talk about their care and safe use). Refresh students on how to use a ruler (note where \"0\" starts) and how to use the edge to draw a straight line."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Sloyd: Level 1\nTeachers need to watch \"Sloyd Introduction\" before the first lesson and complete the reading assignment in order to understand the purpose and process of Sloyd. (See Quick Links below.)"
+            },
+            {
+              "title": "Reminders",
+              "content": "Sloyd: Level 1"
+            }
+          ]
         }
       ]
     }

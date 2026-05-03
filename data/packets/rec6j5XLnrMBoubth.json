@@ -56,20 +56,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "History of Lit: Grades 9-12\n ☐ Print off the History of Literature PDF, as students will need to annotate and mark up various sections throughout the year.\n\n ☐ Although sources were condensed into one PDF when possible, there are still quite a few outside links due to the number of primary sources referenced, so make sure your student(s) has/have access to the internet for their course."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -125,6 +111,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "History of Lit: Grades 9-12\n ☐ Print off the History of Literature PDF, as students will need to annotate and mark up various sections throughout the year.\n\n ☐ Although sources were condensed into one PDF when possible, there are still quite a few outside links due to the number of primary sources referenced, so make sure your student(s) has/have access to the internet for their course."
+            }
+          ]
         }
       ]
     }

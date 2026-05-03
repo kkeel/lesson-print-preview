@@ -50,24 +50,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Physics Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.\n\n☐ Obtain materials from the supply lists.\n\n☐ Note that time stamps have been included for each video in your lesson plans, so that the lesson time can be better managed. Lectures that are a bit too long for a single lesson have been broken into parts.\n\n☐ From the HSC Physics Unit 01 folder, review the PDFs Assessment, Installation, Course Overview, and License Agreement. We also recommend printing the Overview PDFs for each unit, as these provide an outline for the course. Keep these in your binder or folder.\n\n☐ Shortcut/download Geogebra from the Quick Links.\n\n☐ Download Tracker from the Quick Links.\n\n☐ If your smartphone does not allow you to control shutter speed, download a camera app, such as ProShot.\n\n☐ If you need a media player for this course, Mr. Chandler recommends the VLC media player. You may use whatever calculator you prefer.\n\n☐ If you would like to use the same calculator as Mr. Chandler, download Free42 from the Quick Links. You may use whatever calculator you prefer.\n\n☐ If you would like to use the same spreadsheet as Mr. Chandler, download Libre Office from the Quick Links. You may use whatever spreadsheet you prefer.\n\n☐ Plan for discussion and engagement. Teachers who do not feel that they can discuss the subject of this course with students should plan to either preread the material or complete the course alongside their students. Expertise is not necessary, but discussion is as important in math and science as in history and literature.\n\n☐ Labs/activities are presented in a fully integrated state in which the instructor's recommendations to complete certain activities or practice problems after a specified lesson are incorporated. To use them in this way, it is helpful for the lab to be scheduled after the 5th lesson. If your lab time is earlier in the week and you will find it difficult to be flexible, plan to delay the start of the lesson schedule so that lab day occurs after the 5th lesson. For example, if your lab time is on Tuesday, you might begin lesson 1 on Wednesday of the first week of school rather than on Monday. Those wanting to use the labs/activities on a more flexible schedule can do so, but should be ready and able to adjust lesson connections.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Physics Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• the instructor will suggest found items throughout the course\n• any cell phone with a camera"
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -93,6 +75,24 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Physics Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.\n\n☐ Obtain materials from the supply lists.\n\n☐ Note that time stamps have been included for each video in your lesson plans, so that the lesson time can be better managed. Lectures that are a bit too long for a single lesson have been broken into parts.\n\n☐ From the HSC Physics Unit 01 folder, review the PDFs Assessment, Installation, Course Overview, and License Agreement. We also recommend printing the Overview PDFs for each unit, as these provide an outline for the course. Keep these in your binder or folder.\n\n☐ Shortcut/download Geogebra from the Quick Links.\n\n☐ Download Tracker from the Quick Links.\n\n☐ If your smartphone does not allow you to control shutter speed, download a camera app, such as ProShot.\n\n☐ If you need a media player for this course, Mr. Chandler recommends the VLC media player. You may use whatever calculator you prefer.\n\n☐ If you would like to use the same calculator as Mr. Chandler, download Free42 from the Quick Links. You may use whatever calculator you prefer.\n\n☐ If you would like to use the same spreadsheet as Mr. Chandler, download Libre Office from the Quick Links. You may use whatever spreadsheet you prefer.\n\n☐ Plan for discussion and engagement. Teachers who do not feel that they can discuss the subject of this course with students should plan to either preread the material or complete the course alongside their students. Expertise is not necessary, but discussion is as important in math and science as in history and literature.\n\n☐ Labs/activities are presented in a fully integrated state in which the instructor's recommendations to complete certain activities or practice problems after a specified lesson are incorporated. To use them in this way, it is helpful for the lab to be scheduled after the 5th lesson. If your lab time is earlier in the week and you will find it difficult to be flexible, plan to delay the start of the lesson schedule so that lab day occurs after the 5th lesson. For example, if your lab time is on Tuesday, you might begin lesson 1 on Wednesday of the first week of school rather than on Monday. Those wanting to use the labs/activities on a more flexible schedule can do so, but should be ready and able to adjust lesson connections.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Physics Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• the instructor will suggest found items throughout the course\n• any cell phone with a camera"
+            }
+          ]
         }
       ]
     }

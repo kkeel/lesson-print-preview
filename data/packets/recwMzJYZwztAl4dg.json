@@ -46,24 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Health Elective (Beta)\n☐ At the beginning of the year, students will need to set up a health notebook of some sort where they will record their personal takeaways after each reading session. A wellness journal is highly recommended but not required to help track each student’s health journey. An optional link to purchase is included in the Quick Links.\n\n☐ As you move through the book Body into Balance, make note of any of the recipes that Maria shares that you would like to attempt in Term 3. Keep a running list and order the supplies you’ll need by the end of Term 2. Recommended herb suppliers include Mountain Rose Herbs and Starwest Botanicals."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Health Elective (Beta)\nTerm 2: Look through the Quick Link options or choose your own plan to reach your Intentional Fitness Goal by the end of the term."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -89,6 +71,24 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Health Elective (Beta)\n☐ At the beginning of the year, students will need to set up a health notebook of some sort where they will record their personal takeaways after each reading session. A wellness journal is highly recommended but not required to help track each student’s health journey. An optional link to purchase is included in the Quick Links.\n\n☐ As you move through the book Body into Balance, make note of any of the recipes that Maria shares that you would like to attempt in Term 3. Keep a running list and order the supplies you’ll need by the end of Term 2. Recommended herb suppliers include Mountain Rose Herbs and Starwest Botanicals."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Health Elective (Beta)\nTerm 2: Look through the Quick Link options or choose your own plan to reach your Intentional Fitness Goal by the end of the term."
+            }
+          ]
         }
       ]
     }

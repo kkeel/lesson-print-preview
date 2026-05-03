@@ -52,20 +52,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Reading Level 2\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n \n☐ Provide the Word Journal introduced in Level 1.\n\n☐ Supply a second journal for Studied Dictation, Copywork, and Written Narrations.\n\nPenmanship & Copywork: Grade 2\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -98,6 +84,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Reading Level 2\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n \n☐ Provide the Word Journal introduced in Level 1.\n\n☐ Supply a second journal for Studied Dictation, Copywork, and Written Narrations.\n\nPenmanship & Copywork: Grade 2\nIf you are using the Getty-Dubay Italic Handwriting Series, complete half a page per day or go at student's pace."
+            }
+          ]
         }
       ]
     }

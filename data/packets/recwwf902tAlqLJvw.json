@@ -56,28 +56,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Biology Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.\n\n☐ Obtain materials from the supply lists.\n\n☐ Plan for discussion and engagement. Teachers who do not feel that they can discuss the subject of this course with students should plan to either pre-read the material or complete the course alongside their students. Expertise is not necessary, but discussion is as important in math and science as in history and literature.\n\n☐ Labs/activities are presented in a fully integrated state in which they are connected to the lessons. To use them in this way, it is helpful for the lab to be scheduled after the 5th lesson. If your lab time is earlier in the week and you will find it difficult to be flexible, plan to delay the start of the lesson schedule so that lab day occurs after the 5th lesson. For example, if your lab time is on Tuesday, you might begin lesson 1 on Wednesday of the first week of school rather than on Monday. Those wanting to use the labs/activities on a more flexible schedule can do so, but should be ready and able to adjust lesson connections.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Biology Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• any living plant specimen found nearby\n• any non-living specimen \n• red onion (Term 1)\n• kitchen knife\n• distilled or deionized water\n• paper towels\n• lamp or bright light\n• strawberries (Term 1)\n• salt\n• a variety of colors of small Lego bricks\n• computer access\n• stopwatch, such as those found on most electronic devices\n• cereal O's \n• small bread cubes or mini marshmallows\n• chopsticks\n• fork"
-            },
-            {
-              "title": "Reminders",
-              "content": "Biology Lessons\n☐ Note that Lab in week 5 calls for red onions and Lab in week 8 for strawberries. Make a note in your calendar if you will need to purchase these closer to the appropriate time. Refer to the lab book for more details.\n\n☐ Note that the Keys (provided in Quick Links) are for the 1st edition. The overall content in the two editions is very similar, but the numbering of chapters is slightly different, especially as learners reach Term 3. When using the Keys, teachers should attend to the topics rather than relying on the numbering."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -124,6 +102,28 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Biology Lessons\n☐ Carve out time to continue or establish the regular habit of spending time in nature, including the use of a nature journal, as appropriate.\n\n☐ Obtain materials from the supply lists.\n\n☐ Plan for discussion and engagement. Teachers who do not feel that they can discuss the subject of this course with students should plan to either pre-read the material or complete the course alongside their students. Expertise is not necessary, but discussion is as important in math and science as in history and literature.\n\n☐ Labs/activities are presented in a fully integrated state in which they are connected to the lessons. To use them in this way, it is helpful for the lab to be scheduled after the 5th lesson. If your lab time is earlier in the week and you will find it difficult to be flexible, plan to delay the start of the lesson schedule so that lab day occurs after the 5th lesson. For example, if your lab time is on Tuesday, you might begin lesson 1 on Wednesday of the first week of school rather than on Monday. Those wanting to use the labs/activities on a more flexible schedule can do so, but should be ready and able to adjust lesson connections.\n\n☐ Select a science book from the Alveary bookshelf for personal reading time, as appropriate."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Biology Lessons\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• any living plant specimen found nearby\n• any non-living specimen \n• red onion (Term 1)\n• kitchen knife\n• distilled or deionized water\n• paper towels\n• lamp or bright light\n• strawberries (Term 1)\n• salt\n• a variety of colors of small Lego bricks\n• computer access\n• stopwatch, such as those found on most electronic devices\n• cereal O's \n• small bread cubes or mini marshmallows\n• chopsticks\n• fork"
+            },
+            {
+              "title": "Reminders",
+              "content": "Biology Lessons\n☐ Note that Lab in week 5 calls for red onions and Lab in week 8 for strawberries. Make a note in your calendar if you will need to purchase these closer to the appropriate time. Refer to the lab book for more details.\n\n☐ Note that the Keys (provided in Quick Links) are for the 1st edition. The overall content in the two editions is very similar, but the numbering of chapters is slightly different, especially as learners reach Term 3. When using the Keys, teachers should attend to the topics rather than relying on the numbering."
+            }
+          ]
         }
       ]
     }

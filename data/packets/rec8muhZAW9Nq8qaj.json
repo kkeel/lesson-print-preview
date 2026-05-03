@@ -50,20 +50,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Math Lessons: Grade 2\n☐ Read RightStart Level B Teacher's Guide p.ii-v.\n\n☐ Organize manipulatives and supplies for easy access.\n\n☐ Decide when in the day you will play math games and how you plan to keep up with assigning them.\n\n☐ If you downloaded the RightStart ebook, print out enough copies of each page and put them in a binder for easy access."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -89,6 +75,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Math Lessons: Grade 2\n☐ Read RightStart Level B Teacher's Guide p.ii-v.\n\n☐ Organize manipulatives and supplies for easy access.\n\n☐ Decide when in the day you will play math games and how you plan to keep up with assigning them.\n\n☐ If you downloaded the RightStart ebook, print out enough copies of each page and put them in a binder for easy access."
+            }
+          ]
         }
       ]
     }

@@ -50,20 +50,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Mythology/Hist. Fiction: Grade 4\nIn the Days of Giants tells the stories of Norse mythology and is read in Terms 1-2. The Nordic people would enjoy telling tales of heroes, gods, and monsters during the long, dark winter nights. As such, we recommend teachers preview the readings to ensure they are suitable for their particular students."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -89,6 +75,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Mythology/Hist. Fiction: Grade 4\nIn the Days of Giants tells the stories of Norse mythology and is read in Terms 1-2. The Nordic people would enjoy telling tales of heroes, gods, and monsters during the long, dark winter nights. As such, we recommend teachers preview the readings to ensure they are suitable for their particular students."
+            }
+          ]
         }
       ]
     }

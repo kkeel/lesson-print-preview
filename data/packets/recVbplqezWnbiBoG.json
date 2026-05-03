@@ -46,20 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Geography: Grade 2 (U.S.)\n☐ Print the maps needed for some of the future lessons. You will find the map links in the prep section of each lesson. \n\n☐ Print the 5th edition map PDF linked below in the Quick Links section for lessons that use economic symbols (not in the 6th edition of the U.S. atlas)."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -85,6 +71,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Geography: Grade 2 (U.S.)\n☐ Print the maps needed for some of the future lessons. You will find the map links in the prep section of each lesson. \n\n☐ Print the 5th edition map PDF linked below in the Quick Links section for lessons that use economic symbols (not in the 6th edition of the U.S. atlas)."
+            }
+          ]
         }
       ]
     }

@@ -46,20 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Art: Level 2\n☐ View Art Teacher Training Tutorials as you need them throughout the years of art study (see Quick Links below). Read Drawing, Design, and Craft-Work by Glass p.1-33 to understand the \"why\" behind what we do in art lessons, and look over Brushwork: Elementary Brush-Forms for levels 1-3 and Fast Track or Brush Drawing by May Mallam for students in levels 4-8.\n\n☐ Print online images as you need them for lessons. It is very important that students work from printed photos in books or magazines (or printed from the internet) rather than from a device. Computers, iPads, etc. are lightboxes whose illumination affects the way an object is seen. This illumination is not controllable and will lead to confusion and frustration. Students are welcome to view artwork or photographs on a device, but when they are working from a reference photo then it needs to be printed, and they should not work from a screen. \n\n☐ Prepare a large, frameless chalkboard for each student to allow for large shoulder movement. This could be on the backside of their individual drawing boards or one large chalkboard on the wall. Do what works best for your students and classroom. You can view the teacher tutorials to learn how to create a chalkboard for your student(s).\n\n☐ Before you begin the color theory or brush drawing term, prepare paint palettes by putting a small amount of each pigment in its own single palette space. Allow to dry for several days. View the video playlist of Art Teacher Training Tutorials to learn how to prepare, clean, and label your palette. \n• Level 2 Palette: Prussian Blue, Hansa Yellow, and Quinacridone Pink\n\n☐ Preview lesson plans to know if you will need a special supply for an upcoming lesson, and organize supplies for easy lesson setup. Replenish supplies as needed."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -85,6 +71,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Art: Level 2\n☐ View Art Teacher Training Tutorials as you need them throughout the years of art study (see Quick Links below). Read Drawing, Design, and Craft-Work by Glass p.1-33 to understand the \"why\" behind what we do in art lessons, and look over Brushwork: Elementary Brush-Forms for levels 1-3 and Fast Track or Brush Drawing by May Mallam for students in levels 4-8.\n\n☐ Print online images as you need them for lessons. It is very important that students work from printed photos in books or magazines (or printed from the internet) rather than from a device. Computers, iPads, etc. are lightboxes whose illumination affects the way an object is seen. This illumination is not controllable and will lead to confusion and frustration. Students are welcome to view artwork or photographs on a device, but when they are working from a reference photo then it needs to be printed, and they should not work from a screen. \n\n☐ Prepare a large, frameless chalkboard for each student to allow for large shoulder movement. This could be on the backside of their individual drawing boards or one large chalkboard on the wall. Do what works best for your students and classroom. You can view the teacher tutorials to learn how to create a chalkboard for your student(s).\n\n☐ Before you begin the color theory or brush drawing term, prepare paint palettes by putting a small amount of each pigment in its own single palette space. Allow to dry for several days. View the video playlist of Art Teacher Training Tutorials to learn how to prepare, clean, and label your palette. \n• Level 2 Palette: Prussian Blue, Hansa Yellow, and Quinacridone Pink\n\n☐ Preview lesson plans to know if you will need a special supply for an upcoming lesson, and organize supplies for easy lesson setup. Replenish supplies as needed."
+            }
+          ]
         }
       ]
     }

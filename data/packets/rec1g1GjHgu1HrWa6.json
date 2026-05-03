@@ -46,20 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Shakespeare: Beginner Track\n☐ You may want to read \"Shakespeare and a Christian Worldview\" which is Ch.9 in the book, Echoes of Eden – Reflections on Christianity, Literature, and the Arts by Jerram Barrs. This is an excellent overview of why Shakespeare is important for everyone to know, including Christians.\n\nNOTE on VERSIONS\nStudents should have an unabridged copy, such as the ones linked in the program, not a modern language edition. The language complexity gets easier to understand with practice. (Note: Shakespeare’s work does often contain bawdy jokes or off-color content that will go over the heads of students if left in its original form; a modern language version will lay it all right out there in plain modern English.) We like the Folger editions because they are inexpensive, the lines are numbered (making it easy to find your place), and they contain good notes. These are available on the Folger website as free PDFs as well, though the notes are omitted.\n\nNOTE on CONTENT\nTeachers are sometimes wary of reading Shakespeare with their students because the plays contain material that they would deem inappropriate. The Alveary generally follows Mason’s programs for younger students. However, that does not mean that your student will never encounter anything unsavory. Our best advice is to read in such a way that these things are moved over quickly, without added attention being drawn to them. Mason assures us that Shakespeare provides students with rich language and character lessons that are unparalleled."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -85,6 +71,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Shakespeare: Beginner Track\n☐ You may want to read \"Shakespeare and a Christian Worldview\" which is Ch.9 in the book, Echoes of Eden – Reflections on Christianity, Literature, and the Arts by Jerram Barrs. This is an excellent overview of why Shakespeare is important for everyone to know, including Christians.\n\nNOTE on VERSIONS\nStudents should have an unabridged copy, such as the ones linked in the program, not a modern language edition. The language complexity gets easier to understand with practice. (Note: Shakespeare’s work does often contain bawdy jokes or off-color content that will go over the heads of students if left in its original form; a modern language version will lay it all right out there in plain modern English.) We like the Folger editions because they are inexpensive, the lines are numbered (making it easy to find your place), and they contain good notes. These are available on the Folger website as free PDFs as well, though the notes are omitted.\n\nNOTE on CONTENT\nTeachers are sometimes wary of reading Shakespeare with their students because the plays contain material that they would deem inappropriate. The Alveary generally follows Mason’s programs for younger students. However, that does not mean that your student will never encounter anything unsavory. Our best advice is to read in such a way that these things are moved over quickly, without added attention being drawn to them. Mason assures us that Shakespeare provides students with rich language and character lessons that are unparalleled."
+            }
+          ]
         }
       ]
     }

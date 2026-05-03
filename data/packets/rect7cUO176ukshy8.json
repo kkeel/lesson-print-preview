@@ -50,20 +50,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Reading Level 3\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n\n☐ Continue entering lists of words that follow specific spelling or sound patterns in students' Word Journals.\n \n☐ Equip students with blank-lined journals divided into sections for Copywork, Studied Dictation, and Written Narrations."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -89,6 +75,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Reading Level 3\n☐  Print on cardstock, cut apart, sort, and label all Supplementary Materials for each lesson, found in the Introduction section of the Reading Lessons Teacher Guide. This should be completed before starting lessons with students. This is a crucial step needed in order to be successfully prepared for lessons.\n\n☐ Continue entering lists of words that follow specific spelling or sound patterns in students' Word Journals.\n \n☐ Equip students with blank-lined journals divided into sections for Copywork, Studied Dictation, and Written Narrations."
+            }
+          ]
         }
       ]
     }

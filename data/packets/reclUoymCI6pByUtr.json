@@ -46,20 +46,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Lettering: Level 1\n☐ Allow time for loading and viewing the tutorial video each time you begin a new style. Then, plan your lesson time accordingly.\n\n☐ Purchase supplies, then organize and store them where they can be easily accessed.\n\n☐ If you haven't done so already for Art Instruction lessons, prep your chalkboard before beginning lessons. (See video in Lesson 1)\n\n☐ The best chalkboard option is to paint a wall that students can access during lesson time. If that is not possible, a usable substitute would be to either paint the back of the drawing board used in art lessons or purchase a frameless chalkboard."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -85,6 +71,20 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Lettering: Level 1\n☐ Allow time for loading and viewing the tutorial video each time you begin a new style. Then, plan your lesson time accordingly.\n\n☐ Purchase supplies, then organize and store them where they can be easily accessed.\n\n☐ If you haven't done so already for Art Instruction lessons, prep your chalkboard before beginning lessons. (See video in Lesson 1)\n\n☐ The best chalkboard option is to paint a wall that students can access during lesson time. If that is not possible, a usable substitute would be to either paint the back of the drawing board used in art lessons or purchase a frameless chalkboard."
+            }
+          ]
         }
       ]
     }

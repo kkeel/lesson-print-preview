@@ -58,32 +58,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Science: Grade 5\n☐ Obtain any supplies indicated on the science or grade-level supply lists.\n☐ Download any apps and shortcut any desired links.\n\nNature Lore:\n☐ Bookmark your Outdoor Work Quick Link, so that you have it available on your weekly outing. Outdoor Work is generally flexible for your location and season and can be moved around in the schedule to incorporate or substitute Natural History Club outings.  \n☐ Print or bookmark grade-specific nature notebook suggestions to support natural history and general science. Notebooking can be done on a walk, during occupations, or as a field trip, as appropriate."
-            },
-            {
-              "title": "Special Topics & Field Trips",
-              "content": "Science: Grade 5\nEncourage students to begin choosing their own special topic to observe, study, and research in their field guides. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too! Suggested field trips include:\n\nGeneral Science: Grade 5\n☐ Term 1: a beekeeper \n☐ Term 2: a meteorologist or weather station\n☐ Term 3: evening walks, a planetarium\n\nNatural History: Grade 5\n☐ Term 1: a botanical garden or plant conservatory\n☐ Term 2: evening walks and/or a cave, a wildlife rehabilitator, or bat conservationist\n☐ Term 3: a forestry museum or tour"
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Science: Grade 5\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:\n\nGeneral Science: Grade 5\n☐ Term 1: bees p.384-395 \n☐ Term 2: climate and weather p.780-783, the winds and storms p.791-799 \n☐ Term 3: stars p.815-821\n\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• honey\n• food items suggested\n• spoons\n• small saucepan\n• plant fertilizer of your choice (only a small amount)\n• water\n• flowers (Term 1)\n• a strainer or sieve\n• 1 c dry soil\n• kitchen scale\n• kitchen thermometer, any stick-type tool that can be placed into hot water and soil\n• oven\n• oven mitt\n• clock\n• chair or stepladder\n• stopwatch, such as found on most electronic devices\n• freezer\n• stove\n• 1-2 c white vinegar\n• 1/2-1 c baking soda\n• flat surface outside to launch rocket\n• 10-20' height reference, such as the side of a building, a long piece of wood, or a flagpole\n• various supplies by student design\n• printables\n• optional: barometer\n• optional: computer\n\nNatural History: Grade 5\n☐ Term 1: one or more wildflowers from p.461-508\n☐ Term 2: bats p.241-244 \n☐ Term 3: one or more trees from p.628-692, one or more insects from p.301-395\n\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• flower pot with soil, or place in the ground \n• trowel\n• globe/wall map"
-            },
-            {
-              "title": "Reminders",
-              "content": "General Science: Grade 5\n☐ Note that Lab in week 1 begins with 5 \"unknown\" food substances (1- 2 Tbsp) to include honey and any other various items, e.g. peanut butter, whole grain bread, white bread, raw egg white, cereal, applesauce, jelly, whole milk, milk substitute, juice, flavored yogurt, plain yogurt, etc. These will be provided to students in 5 similar-looking containers for study. Refer to the lab book for more details.\n\nNatural History: Grade 5\n☐ Note that term 1 of Natural History begins with planting a small garden, so be sure to have those supplies and any others indicated on the supply list ready. For indoor situations, the choices are many, provided there is a sunny window. For outdoors in a cooler season, some good options are parsley, carrots, or peas (may need a trellis). Basil, thyme, or beans (may need a trellis) are good options for outdoor planting in a warmer season. Note that some plants will not reach the flowering stage for a while."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -137,6 +111,32 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Science: Grade 5\n☐ Obtain any supplies indicated on the science or grade-level supply lists.\n☐ Download any apps and shortcut any desired links.\n\nNature Lore:\n☐ Bookmark your Outdoor Work Quick Link, so that you have it available on your weekly outing. Outdoor Work is generally flexible for your location and season and can be moved around in the schedule to incorporate or substitute Natural History Club outings.  \n☐ Print or bookmark grade-specific nature notebook suggestions to support natural history and general science. Notebooking can be done on a walk, during occupations, or as a field trip, as appropriate."
+            },
+            {
+              "title": "Special Topics & Field Trips",
+              "content": "Science: Grade 5\nEncourage students to begin choosing their own special topic to observe, study, and research in their field guides. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too! Suggested field trips include:\n\nGeneral Science: Grade 5\n☐ Term 1: a beekeeper \n☐ Term 2: a meteorologist or weather station\n☐ Term 3: evening walks, a planetarium\n\nNatural History: Grade 5\n☐ Term 1: a botanical garden or plant conservatory\n☐ Term 2: evening walks and/or a cave, a wildlife rehabilitator, or bat conservationist\n☐ Term 3: a forestry museum or tour"
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Science: Grade 5\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:\n\nGeneral Science: Grade 5\n☐ Term 1: bees p.384-395 \n☐ Term 2: climate and weather p.780-783, the winds and storms p.791-799 \n☐ Term 3: stars p.815-821\n\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• honey\n• food items suggested\n• spoons\n• small saucepan\n• plant fertilizer of your choice (only a small amount)\n• water\n• flowers (Term 1)\n• a strainer or sieve\n• 1 c dry soil\n• kitchen scale\n• kitchen thermometer, any stick-type tool that can be placed into hot water and soil\n• oven\n• oven mitt\n• clock\n• chair or stepladder\n• stopwatch, such as found on most electronic devices\n• freezer\n• stove\n• 1-2 c white vinegar\n• 1/2-1 c baking soda\n• flat surface outside to launch rocket\n• 10-20' height reference, such as the side of a building, a long piece of wood, or a flagpole\n• various supplies by student design\n• printables\n• optional: barometer\n• optional: computer\n\nNatural History: Grade 5\n☐ Term 1: one or more wildflowers from p.461-508\n☐ Term 2: bats p.241-244 \n☐ Term 3: one or more trees from p.628-692, one or more insects from p.301-395\n\n☐ Gather household items, typically easy for students to scavenge or teachers to obtain locally:\n• flower pot with soil, or place in the ground \n• trowel\n• globe/wall map"
+            },
+            {
+              "title": "Reminders",
+              "content": "General Science: Grade 5\n☐ Note that Lab in week 1 begins with 5 \"unknown\" food substances (1- 2 Tbsp) to include honey and any other various items, e.g. peanut butter, whole grain bread, white bread, raw egg white, cereal, applesauce, jelly, whole milk, milk substitute, juice, flavored yogurt, plain yogurt, etc. These will be provided to students in 5 similar-looking containers for study. Refer to the lab book for more details.\n\nNatural History: Grade 5\n☐ Note that term 1 of Natural History begins with planting a small garden, so be sure to have those supplies and any others indicated on the supply list ready. For indoor situations, the choices are many, provided there is a sunny window. For outdoors in a cooler season, some good options are parsley, carrots, or peas (may need a trellis). Basil, thyme, or beans (may need a trellis) are good options for outdoor planting in a warmer season. Note that some plants will not reach the flowering stage for a while."
+            }
+          ]
         }
       ]
     }

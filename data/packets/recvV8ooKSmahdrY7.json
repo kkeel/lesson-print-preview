@@ -52,24 +52,6 @@
           ]
         },
         {
-          "kind": "planning-prep-group",
-          "title": "Planning & Prep",
-          "entries": [
-            {
-              "title": "",
-              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
-            },
-            {
-              "title": "",
-              "content": "Composition: Grade 11\n☐ One purpose of composition lessons is to encourage you, the student, to dig deeper, self-reflect on your own thoughts and writing, and learn how to ask good questions of yourself and your readings. It isn't about proving to your teacher that you read a book or did an assignment.\n\n☐ Set the timer and use the whole time allotted for a lesson. If you finish an assignment with extra time, explore another perspective, ask further questions, or take a bit more time to see if any other thoughts come to mind. Alternately, if you find yourself stuck, you may want to take a short break and come back later or break up the time into two shorter times. Growth, not frustration, is the goal."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Composition: Grade 11\n☐ Plan to have your student(s) type the majority of their narrations and compositions. See keyboarding course for resources on typing if needed.\n\n☐ Encourage students to spend all the time left at the end of a lesson on their written narrations and the whole lesson time on their compositions, and give as much detail as possible. For their narrations, it may help if you encourage them to think of writing their narrations for a friend or someone who has never read the book, rather than for you, who might already know the story. If they feel like they've run out of things to write, have them try varying the type of narration they're writing (interview, sketch, letter, poem, etc.)."
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
@@ -102,6 +84,24 @@
               }
             ]
           }
+        },
+        {
+          "kind": "planning-prep-group",
+          "title": "Planning & Prep",
+          "entries": [
+            {
+              "title": "",
+              "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
+            },
+            {
+              "title": "",
+              "content": "Composition: Grade 11\n☐ One purpose of composition lessons is to encourage you, the student, to dig deeper, self-reflect on your own thoughts and writing, and learn how to ask good questions of yourself and your readings. It isn't about proving to your teacher that you read a book or did an assignment.\n\n☐ Set the timer and use the whole time allotted for a lesson. If you finish an assignment with extra time, explore another perspective, ask further questions, or take a bit more time to see if any other thoughts come to mind. Alternately, if you find yourself stuck, you may want to take a short break and come back later or break up the time into two shorter times. Growth, not frustration, is the goal."
+            },
+            {
+              "title": "Term Prep & Teacher Tips",
+              "content": "Composition: Grade 11\n☐ Plan to have your student(s) type the majority of their narrations and compositions. See keyboarding course for resources on typing if needed.\n\n☐ Encourage students to spend all the time left at the end of a lesson on their written narrations and the whole lesson time on their compositions, and give as much detail as possible. For their narrations, it may help if you encourage them to think of writing their narrations for a friend or someone who has never read the book, rather than for you, who might already know the story. If they feel like they've run out of things to write, have them try varying the type of narration they're writing (interview, sketch, letter, poem, etc.)."
+            }
+          ]
         }
       ]
     }
