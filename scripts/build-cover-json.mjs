@@ -512,14 +512,16 @@ function buildPacket(record, headerLookup) {
       {
         type: "header",
         items: [
-          ...headerItems,
-    
+          ...headerItems.filter(item => item.kind !== "planning-prep-group"),
+        
           {
             kind: "scheduling",
             title: "Scheduling",
             rows: buildSchedulingRows(record, headerLookup.lessonRecordsById || new Map()),
             weeklyView: buildWeeklyView(record)
-          }
+          },
+        
+          ...headerItems.filter(item => item.kind === "planning-prep-group")
         ]
       }
     ]
