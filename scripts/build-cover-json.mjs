@@ -864,39 +864,44 @@ function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
     }
   }
 
-    else {
-    const courseLinks = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
-
-    groups.push({
-      title: lessonSetName,
-      type: "course",
-      links: courseLinks
-    });
-
-    for (const topicId of topicIds) {
-      const topicRecord = headerLookup.lessonRecordsById?.get(topicId);
-      if (!topicRecord) continue;
-
-      const topicFields = topicRecord.fields || {};
-      const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
-
-      const topicHeaderRecords = getMatchedHeaderRecords(
-        topicFields,
-        normalizeText(topicFields.setID) || topicRecord.id,
-        headerLookup
-      );
-
-      const topicLinks = getQuickLinksFromHeaderRecords(topicHeaderRecords, headerLookup);
-
-      if (!topicLinks.length) continue;
-
-      groups.push({
-        title: topicTitle,
-        type: "topic",
-        links: topicLinks
-      });
-    }
-  }
+      else {
+        const courseLinks = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
+        const topicGroups = [];
+    
+        for (const topicId of topicIds) {
+          const topicRecord = headerLookup.lessonRecordsById?.get(topicId);
+          if (!topicRecord) continue;
+    
+          const topicFields = topicRecord.fields || {};
+          const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
+    
+          const topicHeaderRecords = getMatchedHeaderRecords(
+            topicFields,
+            normalizeText(topicFields.setID) || topicRecord.id,
+            headerLookup
+          );
+    
+          const topicLinks = getQuickLinksFromHeaderRecords(topicHeaderRecords, headerLookup);
+    
+          if (!topicLinks.length) continue;
+    
+          topicGroups.push({
+            title: topicTitle,
+            type: "topic",
+            links: topicLinks
+          });
+        }
+    
+        if (courseLinks.length || topicGroups.length) {
+          groups.push({
+            title: lessonSetName,
+            type: "course",
+            links: courseLinks
+          });
+    
+          groups.push(...topicGroups);
+        }
+      }
 
   return {
     kind: "quick-links",
