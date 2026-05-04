@@ -26,6 +26,7 @@ const LESSON_FIELDS = [
   "Grade",
   "Schedule Info.",
   "Books",
+  "Resource IDs",
   "Book List Link",
   "SS Row Lables",
   "Day 1",
@@ -445,6 +446,49 @@ function splitBooks(value) {
   return [text];
 }
 
+function splitResourceIds(value) {
+  const text = normalizeLineBreakText(value);
+  if (!text) return [];
+
+  if (text.includes("||")) {
+    return text
+      .split("||")
+      .map(item => item.trim())
+      .filter(Boolean);
+  }
+
+  if (text.includes("\n")) {
+    return text
+      .split("\n")
+      .map(item => item.trim())
+      .filter(Boolean);
+  }
+
+  return [text];
+}
+
+function pairBooksWithIds(bookTitles, resourceIds) {
+  return bookTitles.map((title, index) => ({
+    title,
+    resourceId: resourceIds[index] || ""
+  }));
+}
+
+function uniqueBookObjects(books) {
+  const seen = new Set();
+  const result = [];
+
+  for (const book of books) {
+    const key = String(book?.title || "").trim().toLowerCase();
+    if (!key || seen.has(key)) continue;
+
+    seen.add(key);
+    result.push(book);
+  }
+
+  return sortBookResources(result);
+}
+
 function ourWorkSortValue(book) {
   const text = String(book || "");
 
@@ -463,11 +507,14 @@ function ourWorkSortValue(book) {
 
 function sortBookResources(books) {
   return [...books].sort((a, b) => {
-    const aIsOurWork = String(a).toLowerCase().startsWith("our work:");
-    const bIsOurWork = String(b).toLowerCase().startsWith("our work:");
+    const aTitle = typeof a === "string" ? a : a.title;
+    const bTitle = typeof b === "string" ? b : b.title;
+
+    const aIsOurWork = String(aTitle).toLowerCase().startsWith("our work:");
+    const bIsOurWork = String(bTitle).toLowerCase().startsWith("our work:");
 
     if (aIsOurWork && bIsOurWork) {
-      return ourWorkSortValue(a) - ourWorkSortValue(b);
+      return ourWorkSortValue(aTitle) - ourWorkSortValue(bTitle);
     }
 
     if (aIsOurWork) return -1;
@@ -492,12 +539,20 @@ function uniqueBooks(books) {
   return sortBookResources(result);
 }
 
+function getBookObjectsFromRecord(record) {
+  const fields = record?.fields || {};
+  const titles = splitBooks(fields["Books"]);
+  const ids = splitResourceIds(fields["Resource IDs"]);
+
+  return pairBooksWithIds(titles, ids);
+}
+
 function buildBooksResources(packetRecord, allLessonRecordsById) {
   const fields = packetRecord.fields || {};
 
   const linkUrl = normalizeText(fields["Book List Link"]);
   const lessonSetName = normalizeText(fields["Lesson Set Name"]);
-  const courseBooks = splitBooks(fields["Books"]);
+  const courseBooks = getBookObjectsFromRecord(packetRecord);
 
   const courseIds = normalizeArray(fields["Course Connection"]);
   const topicIds = normalizeArray(fields["Topic Connection"]);
@@ -505,11 +560,6 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
 
   const groups = [];
 
-  // -----------------------------
-  // 1. TOPIC PACKET
-  // Include parent course-level books, but do NOT show course header.
-  // De-dupe so music PDFs/resources do not repeat.
-  // -----------------------------
   if (isTopic) {
     const parentCourseBooks = [];
 
@@ -517,10 +567,10 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
       const courseRecord = allLessonRecordsById.get(courseId);
       if (!courseRecord) continue;
 
-      parentCourseBooks.push(...splitBooks(courseRecord.fields?.["Books"]));
+      parentCourseBooks.push(...getBookObjectsFromRecord(courseRecord));
     }
 
-    const combinedBooks = uniqueBooks([
+    const combinedBooks = uniqueBookObjects([
       ...parentCourseBooks,
       ...courseBooks
     ]);
@@ -534,26 +584,19 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
     }
   }
 
-  // -----------------------------
-  // 2. STANDALONE COURSE
-  // -----------------------------
   else if (!topicIds.length) {
     groups.push({
       title: lessonSetName,
       type: "course",
-      books: uniqueBooks(courseBooks)
+      books: uniqueBookObjects(courseBooks)
     });
   }
 
-  // -----------------------------
-  // 3. COURSE WITH TOPICS
-  // Always show the course heading, even if no course-level books.
-  // -----------------------------
   else {
     groups.push({
       title: lessonSetName,
       type: "course",
-      books: uniqueBooks(courseBooks)
+      books: uniqueBookObjects(courseBooks)
     });
 
     for (const topicId of topicIds) {
@@ -562,7 +605,7 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
 
       const topicFields = topicRecord.fields || {};
       const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
-      const topicBooks = uniqueBooks(splitBooks(topicFields["Books"]));
+      const topicBooks = uniqueBookObjects(getBookObjectsFromRecord(topicRecord));
 
       if (!topicBooks.length) continue;
 
