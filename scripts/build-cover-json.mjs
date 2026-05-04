@@ -798,12 +798,8 @@ function sortQuickLinks(links) {
   });
 }
 
-function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
-  const fields = packetRecord.fields || {};
-
-  const linkPageUrl = normalizeText(fields["Link Page"]) || "#";
+function getQuickLinksFromHeaderRecords(headerRecords, headerLookup) {
   const quickLinksById = headerLookup.quickLinksById || new Map();
-
   const links = [];
 
   for (const headerRecord of headerRecords || []) {
@@ -829,21 +825,86 @@ function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
     }
   }
 
-  const sortedLinks = sortQuickLinks(links);
+  return sortQuickLinks(links);
+}
 
-  if (!sortedLinks.length && !linkPageUrl) return null;
+function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
+  const fields = packetRecord.fields || {};
+
+  const linkPageUrl = normalizeText(fields["Link Page"]) || "#";
+  const lessonSetName = normalizeText(fields["Lesson Set Name"]);
+
+  const courseIds = normalizeArray(fields["Course Connection"]);
+  const topicIds = normalizeArray(fields["Topic Connection"]);
+  const isTopic = courseIds.length > 0;
+
+  const groups = [];
+
+  if (isTopic) {
+    const links = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
+
+    if (links.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "topic",
+        links
+      });
+    }
+  }
+
+  else if (!topicIds.length) {
+    const links = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
+
+    if (links.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "course",
+        links
+      });
+    }
+  }
+
+  else {
+    const courseLinks = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
+
+    if (courseLinks.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "course",
+        links: courseLinks
+      });
+    }
+
+    for (const topicId of topicIds) {
+      const topicRecord = headerLookup.lessonRecordsById?.get(topicId);
+      if (!topicRecord) continue;
+
+      const topicFields = topicRecord.fields || {};
+      const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
+
+      const topicHeaderRecords = getMatchedHeaderRecords(
+        topicFields,
+        normalizeText(topicFields.setID) || topicRecord.id,
+        headerLookup
+      );
+
+      const topicLinks = getQuickLinksFromHeaderRecords(topicHeaderRecords, headerLookup);
+
+      if (!topicLinks.length) continue;
+
+      groups.push({
+        title: topicTitle,
+        type: "topic",
+        links: topicLinks
+      });
+    }
+  }
 
   return {
     kind: "quick-links",
     title: "Quick Links",
     linkPageUrl,
-    groups: [
-      {
-        title: normalizeText(fields["Lesson Set Name"]),
-        type: "course",
-        links: sortedLinks
-      }
-    ]
+    groups
   };
 }
 
