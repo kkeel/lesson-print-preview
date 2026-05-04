@@ -19,6 +19,9 @@ const HOW_TO_VIEW_NAME = "Grid view";
 const HOW_TO_IMAGE_TABLE_NAME = "How To Image Bank";
 const HOW_TO_IMAGE_VIEW_NAME = "Grid view";
 
+const LESSONS_TABLE_NAME = "Lessons";
+const LESSONS_VIEW_NAME = "Grid view";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -47,7 +50,8 @@ const LESSON_FIELDS = [
   "Day 3",
   "Day 4",
   "Day 5",
-  "How To Pages"
+  "How To Pages",
+  "Lessons"
 ];
 
 const HEADER_FIELDS = [
@@ -75,6 +79,17 @@ const HOW_TO_FIELDS = [
   ...Array.from({ length: 15 }, (_, i) => `Prompt ${i + 1}`),
   ...Array.from({ length: 15 }, (_, i) => `Text ${i + 1}`),
   ...Array.from({ length: 15 }, (_, i) => `Image ID ${i + 1}`)
+];
+
+const LESSON_DETAIL_FIELDS = [
+  "Term",
+  "Week",
+  "Week:",
+  "Lesson Sequence",
+  "Lesson Label",
+  "Lesson Title",
+  "Lesson Body",
+  "Teacher Notes"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -977,6 +992,72 @@ function buildHowToSection(packetRecord, headerLookup) {
   };
 }
 
+function buildLessonsSection(packetRecord, headerLookup) {
+  const fields = packetRecord.fields || {};
+  const lessonIds = normalizeArray(fields["Lessons"]);
+  const lessonDetailsById = headerLookup.lessonDetailsById || new Map();
+
+  if (!lessonIds.length) return null;
+
+  const lessons = [];
+
+  for (const lessonId of lessonIds) {
+    const lessonRecord = lessonDetailsById.get(lessonId);
+    if (!lessonRecord) continue;
+
+    const lf = lessonRecord.fields || {};
+
+    const termNumber = Number(normalizeText(lf["Term"]) || 0);
+    const weekNumber = Number(normalizeText(lf["Week"]) || 0);
+    const sequence = Number(normalizeText(lf["Lesson Sequence"]) || 0);
+
+    lessons.push({
+      termNumber,
+      termLabel: termNumber ? `Term ${termNumber}` : "",
+      weekNumber,
+      weekLabel: normalizeText(lf["Week:"]),
+      sequence,
+      lessonLabel: normalizeText(lf["Lesson Label"]),
+      title: normalizeText(lf["Lesson Title"]),
+      body: normalizeRichText(lf["Lesson Body"]),
+      teacherNotes: normalizeRichText(lf["Teacher Notes"])
+    });
+  }
+
+  const sortedLessons = lessons.sort((a, b) => {
+    if (a.termNumber !== b.termNumber) return a.termNumber - b.termNumber;
+    if (a.weekNumber !== b.weekNumber) return a.weekNumber - b.weekNumber;
+    return a.sequence - b.sequence;
+  });
+
+  const termsByNumber = new Map();
+
+  for (const lesson of sortedLessons) {
+    const key = lesson.termNumber || 0;
+
+    if (!termsByNumber.has(key)) {
+      termsByNumber.set(key, {
+        termNumber: lesson.termNumber,
+        term: lesson.termLabel || "Term",
+        lessons: []
+      });
+    }
+
+    termsByNumber.get(key).lessons.push(lesson);
+  }
+
+  const terms = [...termsByNumber.values()].filter(term => term.lessons.length);
+
+  if (!terms.length) return null;
+
+  return {
+    type: "lessons",
+    title: normalizeText(fields["Lesson Set Name"]),
+    linkPageUrl: normalizeText(fields["Link Page"]) || "#",
+    terms
+  };
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -1043,7 +1124,8 @@ function buildPacket(record, headerLookup) {
           buildQuickLinksResources(record, matchedHeaderRecords, headerLookup)
         ].filter(Boolean)
       },
-      buildHowToSection(record, headerLookup)
+      buildHowToSection(record, headerLookup),
+      buildLessonsSection(record, headerLookup)
     ].filter(Boolean)
   };
 }
@@ -1115,6 +1197,12 @@ async function main() {
     HOW_TO_IMAGE_VIEW_NAME,
     ["Image"]
   );
+
+  const lessonDetailRecords = await fetchAllRecords(
+    LESSONS_TABLE_NAME,
+    LESSONS_VIEW_NAME,
+    LESSON_DETAIL_FIELDS
+  );
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
   const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
@@ -1128,6 +1216,10 @@ async function main() {
     quickLinkRecords.map(record => [record.id, record])
   );
   headerLookup.lessonRecordsById = lessonRecordsById;
+
+  headerLookup.lessonDetailsById = new Map(
+    lessonDetailRecords.map(record => [record.id, record])
+  );
 
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
