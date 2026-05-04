@@ -29,7 +29,7 @@ const LESSON_FIELDS = [
   "Resource IDs",
   "Book List Link",
   "Supplies",
-  "Supply ID's",
+  "Supply IDs",
   "Supply List Link",
   "SS Row Lables",
   "Day 1",
