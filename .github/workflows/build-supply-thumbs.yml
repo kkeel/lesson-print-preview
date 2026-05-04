@@ -1,0 +1,38 @@
+name: Build Supply Thumbnails
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Build supply thumbnails from Airtable attachments
+        run: node scripts/build-supply-thumbs-from-airtable.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_CURRICULUM_BASE_ID: ${{ secrets.AIRTABLE_CURRICULUM_BASE_ID }}
+
+      - name: Commit and push images if changed
+        run: |
+          git config user.name "actions-user"
+          git config user.email "actions-user@users.noreply.github.com"
+          git add images/supply_covers
+          git diff --cached --quiet || git commit -m "Update supply cover thumbnails"
+          git push
