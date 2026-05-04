@@ -281,6 +281,71 @@ function renderHeaderItem(item) {
     `;
   }
 
+    if (item.kind === "supplies-resources") {
+      const iconSrc = "../images/header_icons/Supplies.png";
+      const linkUrl = item.linkUrl || "#";
+      const basicSuppliesUrl = item.basicSuppliesUrl || "#";
+      const hasSupplyGroups = (item.groups || []).some(group => (group.supplies || []).length);
+  
+      return `
+        <section class="flow-block header-block header-group-block">
+          <div class="header-panel">
+            <div class="header-panel-icon-col">
+              <img src="${iconSrc}" alt="Supplies" class="header-panel-icon" />
+            </div>
+  
+            <div class="header-panel-content supplies-resources-content">
+              <h3 class="header-entry-title">Supplies</h3>
+  
+              <p class="supplies-resources-intro">
+                For supply list details and basic supplies helpful to have on hand, click the links or<br>
+                scan the QR code below.
+              </p>
+  
+              <p class="supplies-resources-link-line">
+                ∞ <a href="${escapeHtml(basicSuppliesUrl)}" target="_blank">View Basic Supplies</a>
+              </p>
+  
+              ${hasSupplyGroups ? `
+                <p class="supplies-resources-link-line">
+                  ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Supply List Details</a>
+                </p>
+  
+                <div class="supplies-resources-list">
+                  ${(item.groups || []).map(group => {
+                    const supplies = group.supplies || [];
+  
+                    if (!supplies.length) return "";
+  
+                    return `
+                      <div class="supplies-resource-group ${group.type === "course" ? "supplies-resource-course" : "supplies-resource-topic"}">
+                        <h4>${escapeHtml(group.title || "")}</h4>
+  
+                        ${supplies.map(supply => {
+                          const title = typeof supply === "string" ? supply : supply.title;
+                          const supplyId = typeof supply === "string" ? "" : supply.supplyId;
+                          const imgSrc = supplyId ? `../images/supply_covers/${escapeHtml(supplyId)}.webp` : "";
+  
+                          return `
+                            <div class="supplies-resource-supply">
+                              ${imgSrc ? `<img src="${imgSrc}" alt="" class="supplies-resource-cover" />` : `<div class="supplies-resource-cover-placeholder"></div>`}
+                              <div class="supplies-resource-title">${escapeHtml(title || "")}</div>
+                            </div>
+                          `;
+                        }).join("")}
+                      </div>
+                    `;
+                  }).join("")}
+                </div>
+              ` : `
+                <p class="supplies-resources-empty">(No Subject Supplies Assigned)</p>
+              `}
+            </div>
+          </div>
+        </section>
+      `;
+    }
+
   if (item.kind === "scheduling") {
     const iconSrc = "../images/header_icons/Scheduling.png";
   
