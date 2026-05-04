@@ -21,7 +21,7 @@ const API = `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}`;
 const TABLE = "MA_Resources";
 const VIEW  = `R${ROTATION} – Resources JSON`;
 
-const OUT_DIR = path.join(__dirname, "..", "img", "resources");
+const OUT_DIR = path.join(__dirname, "..", "images", "resource_covers");
 const TMP_DIR = path.join(__dirname, "..", ".tmp-resource-images");
 const MANIFEST_PATH = path.join(OUT_DIR, `.thumb-manifest-r${ROTATION}.json`);
 
