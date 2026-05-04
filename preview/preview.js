@@ -493,27 +493,35 @@ function renderHeaderItem(item) {
 }
 
 function renderHowToSection(section) {
-  let html = `<div class="page-flow howto-section section-break">`;
-
-  (section.items || []).forEach(item => {
-    html += `
-      <section class="flow-block howto-block">
-        <div class="howto-grid">
-          <div class="howto-image">
-            ${item.image ? `<img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.title || "")}">` : `<div class="image-placeholder">Image</div>`}
-          </div>
-          <div class="howto-content">
-            <div class="howto-prompt">${escapeHtml(item.prompt || "")}</div>
-            <h2>${escapeHtml(item.title || "")}</h2>
-            <p>${nl2br(item.content || "")}</p>
-          </div>
-        </div>
+  return (section.pages || []).map((page, pageIndex) => `
+    <div class="page-flow howto-section section-break">
+      <section class="flow-block howto-page-header">
+        <h1 class="howto-page-title">${escapeHtml(page.title || "")}</h1>
+        <div class="howto-page-subtitle">${escapeHtml(page.subtitle || "How To Teach")}</div>
       </section>
-    `;
-  });
 
-  html += `</div>`;
-  return html;
+      <div class="howto-block-list">
+        ${(page.blocks || []).map(block => `
+          <section class="flow-block howto-block">
+            <div class="howto-panel">
+              <div class="howto-icon-col">
+                ${block.image ? `
+                  <img src="${escapeHtml(block.image)}" alt="${escapeHtml(block.prompt || "")}" class="howto-icon" />
+                ` : `
+                  <div class="howto-icon-placeholder"></div>
+                `}
+              </div>
+
+              <div class="howto-content">
+                ${block.prompt ? `<h2 class="howto-prompt-title">${escapeHtml(block.prompt)}</h2>` : ""}
+                <p>${nl2br(block.text || "")}</p>
+              </div>
+            </div>
+          </section>
+        `).join("")}
+      </div>
+    </div>
+  `).join("");
 }
 
 function renderLessonsSection(section) {
