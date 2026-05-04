@@ -31,7 +31,7 @@ jobs:
 
       - name: Build cover thumbnails from Airtable attachments
         env:
-          AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           ROTATION: "3"
         run: |
