@@ -9,10 +9,10 @@ const execFileAsync = promisify(execFile);
 const __dirname = path.dirname(url.fileURLToPath(import.meta.url));
 
 const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
-const AIRTABLE_BASE_ID = process.env.AIRTABLE_CURRICULUM_BASE_ID;
+const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
 
 if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
-  console.error("ERROR: Missing AIRTABLE_TOKEN or AIRTABLE_CURRICULUM_BASE_ID");
+  console.error("ERROR: Missing AIRTABLE_TOKEN or AIRTABLE_BASE_ID");
   process.exit(1);
 }
 
