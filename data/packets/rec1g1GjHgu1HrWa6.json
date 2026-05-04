@@ -128,6 +128,39 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Shakespeare: Beginner Track",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Coloring Puppets",
+                  "url": "https://bluebirdsandblackberries.com/product/a-midsummer-nights-dream-outline-set/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Painted Puppets",
+                  "url": "https://bluebirdsandblackberries.com/product/a-midsummer-nights-dream-outline-set/",
+                  "sort": "2"
+                },
+                {
+                  "label": "Relational Methods, Sec. 9: How to Teach Shakespeare",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "3"
+                },
+                {
+                  "label": "Appendix: Ideas for Students New to Shakespeare",
+                  "url": "https://drive.google.com/file/d/17sgxRqinE_s4K-iiquCS_F0kI1AFV2Xe/view?usp=drive_link",
+                  "sort": "4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

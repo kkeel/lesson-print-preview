@@ -128,6 +128,29 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grade 9 (U.S.)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "History Charts & Timelines Scope & Sample",
+                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "sort": "1"
+                },
+                {
+                  "label": "Century Chart",
+                  "url": "https://static1.squarespace.com/static/5327b626e4b0bc54fcdbc4f4/t/55a70cd2e4b0efaafa4dfd0d/1437011154283/Century_Chart_Centered.pdf",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

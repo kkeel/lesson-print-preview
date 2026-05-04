@@ -129,6 +129,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Mythology/Hist. Fiction: Grade 4",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -113,6 +113,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 9",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

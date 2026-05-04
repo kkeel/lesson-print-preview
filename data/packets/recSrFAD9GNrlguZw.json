@@ -137,6 +137,24 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 4",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

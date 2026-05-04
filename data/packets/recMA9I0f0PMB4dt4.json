@@ -121,6 +121,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "General Lit: Grades 7-8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

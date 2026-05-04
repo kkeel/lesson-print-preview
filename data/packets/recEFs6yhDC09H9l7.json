@@ -232,6 +232,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 4",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -99,6 +99,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Copywork: Grade 8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

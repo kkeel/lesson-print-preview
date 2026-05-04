@@ -160,6 +160,29 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 3",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Transitioning from Oral to Written Narration",
+                  "url": "https://www.youtube.com/watch?v=X7uKcj-_XTo",
+                  "sort": "1"
+                },
+                {
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

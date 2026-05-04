@@ -140,6 +140,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "AmScope key for slide IDs",
+                  "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view?usp=sharing",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

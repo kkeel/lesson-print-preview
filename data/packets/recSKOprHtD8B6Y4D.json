@@ -121,6 +121,29 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 1",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Sol-fa SoundCloud Playlist",
+                  "url": "https://soundcloud.com/alveary/sets/solfege-level-1-beginner",
+                  "sort": "1"
+                },
+                {
+                  "label": "Warm-Ups",
+                  "url": "https://soundcloud.com/alveary/warm-up?in=alveary/sets/solfege-level-1-beginner",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -117,6 +117,29 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Labs: Grade 7",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Grade 7 Lab Book",
+                  "url": "#",
+                  "sort": ""
+                },
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/1tr0pp0CIeTQdqBf4MtSlNB8uRv8RarEV/view?usp=sharing",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

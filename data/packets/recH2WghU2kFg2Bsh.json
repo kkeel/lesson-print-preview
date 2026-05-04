@@ -183,6 +183,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Folk Songs",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

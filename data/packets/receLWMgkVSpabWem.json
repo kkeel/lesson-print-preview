@@ -113,6 +113,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Spiritual Formation: Grades 10-11",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Bible Project",
+                  "url": "bibleproject.com",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

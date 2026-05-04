@@ -240,6 +240,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 5",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

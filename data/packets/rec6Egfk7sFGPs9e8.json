@@ -218,6 +218,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Handicrafts",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Optional Cloisonne Kits (see Note in Header page)",
+                  "url": "https://www.cloisonnekit.com/",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

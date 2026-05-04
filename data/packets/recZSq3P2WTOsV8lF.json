@@ -164,6 +164,24 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 1",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

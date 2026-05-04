@@ -123,6 +123,34 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grade 1 (U.S.)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Tales the Totems Tell",
+                  "url": "https://drive.google.com/file/d/1t-nFka2dZpAoqFrUnSexog_8oP9ZEyan/view?usp=drive_link",
+                  "sort": "1"
+                },
+                {
+                  "label": "The Book of Indians",
+                  "url": "https://drive.google.com/file/d/15VmrracAvMy8ujcosqHU5pyitWu7-nAP/view?usp=drive_link",
+                  "sort": "2"
+                },
+                {
+                  "label": "Outdoor Work",
+                  "url": "#",
+                  "sort": "3"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

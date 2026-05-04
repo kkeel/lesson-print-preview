@@ -119,6 +119,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "World History: Grades 7-8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

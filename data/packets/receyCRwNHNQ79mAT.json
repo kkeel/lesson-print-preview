@@ -114,6 +114,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Biology Labs",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

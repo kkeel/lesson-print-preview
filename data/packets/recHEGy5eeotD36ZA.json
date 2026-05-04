@@ -113,6 +113,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Church History: Grades 4-6",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

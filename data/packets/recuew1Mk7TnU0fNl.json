@@ -160,6 +160,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Reading Level 1",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Alveary Reading Lesson Placement",
+                  "url": "https://drive.google.com/file/d/1LacFQJKYjPCSfdMKrhHZfzQYEh0CfYzp/view?usp=drive_link",
+                  "sort": "1"
+                },
+                {
+                  "label": "Literacy Development from Birth to Age 9",
+                  "url": "https://docs.google.com/document/d/14aiBeoKftBqos9DDvIt8YAczJyAHo6ia5P_6fT5czqs/export?format=pdf",
+                  "sort": "2"
+                },
+                {
+                  "label": "Reading Level 1 Teacher Guide",
+                  "url": "https://drive.google.com/file/d/1Iixxi7_7x4QNwyQCClEJPmK-2Y2hCLy5/view?usp=drive_link",
+                  "sort": "3"
+                },
+                {
+                  "label": "Scholastic webpage",
+                  "url": "http://teacher.scholastic.com/education/guidedreading/leveling_chart.htm",
+                  "sort": "4"
+                },
+                {
+                  "label": "Errata Page: Reading Level 1 for Lessons released prior to 11/19/25",
+                  "url": "https://drive.google.com/file/d/16PytKzsUdJlc56yDtPyBHuo1ssZnBhGE/view?usp=drive_link",
+                  "sort": "5"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -218,6 +218,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 1",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

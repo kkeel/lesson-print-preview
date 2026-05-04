@@ -125,6 +125,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Canadian History: Grades 5-6",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

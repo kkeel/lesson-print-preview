@@ -246,6 +246,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Botany",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

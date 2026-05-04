@@ -107,6 +107,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Algebra 2/Trigonometry: Part 1",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

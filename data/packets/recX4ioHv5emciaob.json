@@ -95,6 +95,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 11 (Denison)",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -220,6 +220,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Intro",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

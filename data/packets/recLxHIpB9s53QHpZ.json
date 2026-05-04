@@ -165,6 +165,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Plutarch: Grades 6-8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Video: How to Teach Plutarch (see Citizenship: Section 7)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

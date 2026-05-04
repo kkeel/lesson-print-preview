@@ -100,6 +100,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Written Narration: Grade 5",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

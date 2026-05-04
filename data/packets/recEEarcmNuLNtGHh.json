@@ -209,6 +209,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grades 7-8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

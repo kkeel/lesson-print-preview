@@ -282,6 +282,39 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 6",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Outdoor Work",
+                  "url": "#",
+                  "sort": "1"
+                },
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2"
+                },
+                {
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3"
+                },
+                {
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

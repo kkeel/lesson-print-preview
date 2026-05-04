@@ -224,6 +224,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 2",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

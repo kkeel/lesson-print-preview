@@ -140,6 +140,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Lettering: Level 1",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Prepare Your Chalkboard",
+                  "url": "https://vimeo.com/343309300/adbc371ba6?share=copy",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

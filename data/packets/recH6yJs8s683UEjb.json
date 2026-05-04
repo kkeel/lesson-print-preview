@@ -121,6 +121,29 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sol-fa: Musical Games",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Musical Games Playlist",
+                  "url": "https://youtube.com/playlist?list=PLvg0fKfOahKRzogiNUj8sdCn1mNe2jstw&si=C2T7jlSRNZOG5PeG",
+                  "sort": "1"
+                },
+                {
+                  "label": "Appendix: Waltz Steps",
+                  "url": "https://drive.google.com/file/d/1-hh0emXbA5yRIxwaDwb1v21i84msOL55/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

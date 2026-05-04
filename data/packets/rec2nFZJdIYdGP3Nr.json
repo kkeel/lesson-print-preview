@@ -132,6 +132,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grades 4-6",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

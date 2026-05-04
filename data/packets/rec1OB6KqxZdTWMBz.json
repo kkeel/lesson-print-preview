@@ -220,6 +220,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Chemistry",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Chemistry Lab Book",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

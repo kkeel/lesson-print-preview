@@ -182,6 +182,44 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 2",
+              "type": "course",
+              "links": [
+                {
+                  "label": "How can we find the original meaning of the text?",
+                  "url": "https://vimeo.com/1117839003/a24612f6fc",
+                  "sort": ""
+                },
+                {
+                  "label": "How do we help students learn to interpret the Bible?",
+                  "url": "https://vimeo.com/1117839033/5afc54c412",
+                  "sort": ""
+                },
+                {
+                  "label": "How does learning about the Ancient Near East world help us understand the Bible?",
+                  "url": "https://vimeo.com/1117828641/f5874cbcc6",
+                  "sort": ""
+                },
+                {
+                  "label": "Video: How to Use the Bible Story Handbook",
+                  "url": "https://vimeo.com/834606405/203ba34d21?share=copy",
+                  "sort": ""
+                },
+                {
+                  "label": "What is the role of the Holy Spirit when reading the Bible?",
+                  "url": "https://vimeo.com/1117828713/6299ef50f6",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -148,6 +148,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 4",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

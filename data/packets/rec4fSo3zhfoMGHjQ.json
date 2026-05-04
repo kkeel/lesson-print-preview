@@ -172,6 +172,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sewing: Level 2",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

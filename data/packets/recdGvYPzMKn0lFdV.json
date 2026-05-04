@@ -165,6 +165,29 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 9 (U.S.)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "1"
+                },
+                {
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

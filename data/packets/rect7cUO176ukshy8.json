@@ -156,6 +156,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Reading Level 3",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Alveary Reading Lesson Placement",
+                  "url": "https://drive.google.com/file/d/1LacFQJKYjPCSfdMKrhHZfzQYEh0CfYzp/view?usp=drive_link",
+                  "sort": ""
+                },
+                {
+                  "label": "Errata Page: Reading Level 3 for lessons released prior to 11/19/25",
+                  "url": "https://drive.google.com/file/d/1qHjYgMtv5ZvRRCXbEhWHK4sso-pNNKQz/view?usp=drive_link",
+                  "sort": ""
+                },
+                {
+                  "label": "Level 3 Teacher Guide",
+                  "url": "https://drive.google.com/file/d/1jQmx2XUoXKDklwv2DnHs31tYid6e7mIP/view?usp=drive_link",
+                  "sort": ""
+                },
+                {
+                  "label": "Literacy Development from Birth to Age 9",
+                  "url": "https://docs.google.com/document/d/14aiBeoKftBqos9DDvIt8YAczJyAHo6ia5P_6fT5czqs/export?format=pdf",
+                  "sort": ""
+                },
+                {
+                  "label": "Scholastic webpage",
+                  "url": "http://teacher.scholastic.com/education/guidedreading/leveling_chart.htm",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

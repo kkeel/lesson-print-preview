@@ -149,6 +149,44 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Food Science Lessons",
+              "type": "course",
+              "links": [
+                {
+                  "label": "America's Test Kitchen Library",
+                  "url": "https://www.youtube.com/@AmericasTestKitchen/playlists",
+                  "sort": "1"
+                },
+                {
+                  "label": "The Loopy Whisk",
+                  "url": "https://www.youtube.com/@katarina.cermelj",
+                  "sort": "2"
+                },
+                {
+                  "label": "Samin Nosrat Cooking",
+                  "url": "https://www.youtube.com/playlist?list=PLYu2Ez1tbdnsrztLTaDMY3qlw8L3-aSSh",
+                  "sort": "3"
+                },
+                {
+                  "label": "Food & Wine",
+                  "url": "https://www.foodandwine.com/news/science-technology",
+                  "sort": "4"
+                },
+                {
+                  "label": "Science News Explores",
+                  "url": "https://www.snexplores.org/?s=food+science",
+                  "sort": "5"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

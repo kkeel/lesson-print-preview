@@ -144,6 +144,24 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grades 2-3 (Canada)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "History Charts & Timeline Scope & Sample",
+                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

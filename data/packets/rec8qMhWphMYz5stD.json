@@ -103,6 +103,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Calculus: Part 1",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

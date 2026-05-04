@@ -190,6 +190,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grades 11-12 (Canada)",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

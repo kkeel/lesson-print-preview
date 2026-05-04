@@ -121,6 +121,69 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Physics Lessons",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
+                  "sort": "1"
+                },
+                {
+                  "label": "John Muir Laws • Nature Journaling Resources",
+                  "url": "https://johnmuirlaws.com/",
+                  "sort": "2"
+                },
+                {
+                  "label": "Alveary Bookshelf",
+                  "url": "https://www.alveary.org/bookshelf",
+                  "sort": "3"
+                },
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "4"
+                },
+                {
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "5"
+                },
+                {
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "6"
+                },
+                {
+                  "label": "GeoGebra",
+                  "url": "https://www.geogebra.org/",
+                  "sort": "7"
+                },
+                {
+                  "label": "Tracker",
+                  "url": "https://www.compadre.org/osp/",
+                  "sort": "8"
+                },
+                {
+                  "label": "Free42",
+                  "url": "https://thomasokken.com/",
+                  "sort": "9"
+                },
+                {
+                  "label": "Libre Office",
+                  "url": "https://www.libreoffice.org/",
+                  "sort": "10"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

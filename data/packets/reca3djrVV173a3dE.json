@@ -104,6 +104,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Nature Notebook: Grade 5",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

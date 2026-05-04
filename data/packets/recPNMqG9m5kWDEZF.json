@@ -138,6 +138,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Advanced Nature Study",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

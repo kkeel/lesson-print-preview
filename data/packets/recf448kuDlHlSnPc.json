@@ -117,6 +117,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Fairy Tales",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

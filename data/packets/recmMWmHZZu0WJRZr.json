@@ -255,6 +255,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "PE: Grades 4-6",
+              "type": "course",
+              "links": [
+                {
+                  "label": "SoundCloud Song Playlist",
+                  "url": "https://soundcloud.com/alveary/sets/p-e-2026-27?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

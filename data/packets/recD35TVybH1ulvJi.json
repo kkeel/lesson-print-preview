@@ -144,6 +144,39 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 5",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Warm-Ups (Audio)",
+                  "url": "https://soundcloud.com/alveary/warm-up-form-2-and-3/s-cHDwD?in=alveary/sets/sol-fa-level-3",
+                  "sort": "1"
+                },
+                {
+                  "label": "Warm-Ups (Video)",
+                  "url": "https://vimeo.com/337660739/4bbc0a0711",
+                  "sort": "2"
+                },
+                {
+                  "label": "Blank Staff Paper",
+                  "url": "https://drive.google.com/file/d/19NkUTZHvsoe0u1OP-FbTsit54O-1Zjdg/view",
+                  "sort": "3"
+                },
+                {
+                  "label": "Appendix: Additional Answer Key",
+                  "url": "https://drive.google.com/file/d/13BIt5u7DemuiCfbWnNeNBjOdayXxDCWD/view?usp=drive_link",
+                  "sort": "4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -187,6 +187,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Food Science",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

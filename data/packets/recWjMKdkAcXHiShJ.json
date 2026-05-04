@@ -161,6 +161,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Poetry Reading: Grades 9-12",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

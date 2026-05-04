@@ -113,6 +113,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "American Government: Grade 7",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -167,6 +167,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grades 5-6",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -99,6 +99,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Recitation: Grade 9",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Our Work: Grades 9-12",
+                  "url": "https://charlotte-mason-institute.my.canva.site/our-work-grade-9-12-2026-27-web",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

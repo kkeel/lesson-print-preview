@@ -103,6 +103,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Pre-Calculus: Part 2",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

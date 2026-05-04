@@ -109,6 +109,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Keyboarding",
+              "type": "course",
+              "links": [
+                {
+                  "label": "typing.com",
+                  "url": "https://www.typing.com/",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

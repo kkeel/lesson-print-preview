@@ -171,6 +171,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Introduction to Engineering",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

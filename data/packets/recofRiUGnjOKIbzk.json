@@ -82,6 +82,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Advanced Nature Study Afternoon Work",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -197,6 +197,34 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Composer Study",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Extra Resource: Classics for Kids Musical Dictionary",
+                  "url": "https://www.classicsforkids.com/musical-terms/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Composer Study Playlist",
+                  "url": "#",
+                  "sort": "2"
+                },
+                {
+                  "label": "Apppendix: Musical Vocabulary",
+                  "url": "#",
+                  "sort": "3"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

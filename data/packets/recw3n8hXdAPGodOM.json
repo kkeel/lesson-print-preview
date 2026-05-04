@@ -108,6 +108,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Written Narration: Grade 8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

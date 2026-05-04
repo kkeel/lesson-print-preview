@@ -133,6 +133,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Introduction to Engineering Lessons",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Science News Explores",
+                  "url": "https://www.snexplores.org/",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

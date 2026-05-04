@@ -277,6 +277,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Alternate One Year Physical Science Lesson Plans",
+                  "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
+                  "sort": ""
+                },
+                {
+                  "label": "Outdoor Work",
+                  "url": "#",
+                  "sort": ""
+                },
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": ""
+                },
+                {
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": ""
+                },
+                {
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

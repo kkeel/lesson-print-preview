@@ -216,6 +216,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Biology",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Biology Lab Book",
+                  "url": "#",
+                  "sort": "1"
+                },
+                {
+                  "label": "AmScope Original Student Slide Key",
+                  "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

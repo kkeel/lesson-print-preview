@@ -152,6 +152,24 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 2",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -121,6 +121,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Grammar: Grade 5",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Practice Island Teacher Manual",
+                  "url": "https://drive.google.com/file/d/1WFljgKcH4k0K0LdxmfaXlm4SOBiZu4mE/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

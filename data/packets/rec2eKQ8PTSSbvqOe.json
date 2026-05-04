@@ -111,6 +111,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "New Testament: Grade 2",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Video overviews from Bible Project",
+                  "url": "https://bibleproject.com/explore/book-overviews/?type=old",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

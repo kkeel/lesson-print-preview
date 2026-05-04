@@ -168,6 +168,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Picture Study",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Appendix: Applied Art Questions",
+                  "url": "https://drive.google.com/file/d/1yoJhkwCoZzUZ10vCbTxbN6I7LtJN90oX/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

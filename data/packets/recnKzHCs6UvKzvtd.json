@@ -160,6 +160,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Shakespeare: Grades 5-8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Relational Methods, Sec. 9: How to Teach Shakespeare",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "1"
+                },
+                {
+                  "label": "Appendix: Ideas for Students New to Shakespeare",
+                  "url": "https://drive.google.com/file/d/17sgxRqinE_s4K-iiquCS_F0kI1AFV2Xe/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

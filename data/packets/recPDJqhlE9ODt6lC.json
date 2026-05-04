@@ -159,6 +159,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Poetry: Grade 7",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

@@ -109,6 +109,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Recitation: Grade 3",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Our Work: Grade 3",
+                  "url": "https://charlotte-mason-institute.my.canva.site/our-work-grade-3-2026-2027-web",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

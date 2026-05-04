@@ -125,6 +125,44 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Health Elective (Beta)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Wellness Journal (Optional)",
+                  "url": "https://a.co/d/hlgJYJ3",
+                  "sort": "1"
+                },
+                {
+                  "label": "Couch to 5K Plan Option 1",
+                  "url": "https://c25k.com/",
+                  "sort": "2"
+                },
+                {
+                  "label": "Couch to 5K Plan Option 2",
+                  "url": "https://www.nhs.uk/better-health/get-active/get-running-with-couch-to-5k/",
+                  "sort": "3"
+                },
+                {
+                  "label": "Weight Lift Training Guide Option 1",
+                  "url": "https://www.menshealth.com/fitness/a62964206/teen-workout-program/",
+                  "sort": "4"
+                },
+                {
+                  "label": "Weight Lift Training Guide Option 2",
+                  "url": "https://www.amazon.com/gp/product/0345528581/",
+                  "sort": "5"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

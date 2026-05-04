@@ -113,6 +113,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Spiritual Formation: Grades 7-8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Extra Helpings",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

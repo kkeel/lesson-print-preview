@@ -178,6 +178,24 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grades 10-11",
+              "type": "course",
+              "links": [
+                {
+                  "label": "bibleproject.com",
+                  "url": "https://bibleproject.com/explore/book-overviews/?type=old",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

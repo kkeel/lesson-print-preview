@@ -155,6 +155,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Poetry: Grade 8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

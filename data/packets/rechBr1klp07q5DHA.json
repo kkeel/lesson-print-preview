@@ -211,6 +211,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Math Games: Grades 1-8",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

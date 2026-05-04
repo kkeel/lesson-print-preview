@@ -208,6 +208,34 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Art: Level 7",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Appendix: Guiding Questions for Art",
+                  "url": "https://drive.google.com/file/d/1kFr-2zGXd-qvzieLvcbgAjlIYTfN4-Qq/view?usp=drive_link",
+                  "sort": "1"
+                },
+                {
+                  "label": "Art Teacher Training Tutorials",
+                  "url": "http://vimeo.com/user/36827822/folder/2111395",
+                  "sort": "2"
+                },
+                {
+                  "label": "Ethics Guide for Picking Wildflowers",
+                  "url": "https://www.blm.gov/Learn/Can-I-Keep-This",
+                  "sort": "3"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

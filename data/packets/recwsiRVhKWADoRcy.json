@@ -103,6 +103,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Poetry Study: Grade 7",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

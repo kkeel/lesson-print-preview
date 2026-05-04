@@ -140,6 +140,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 3 (U.S.)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Appendix: Geography Models",
+                  "url": "https://drive.google.com/file/d/1rh58GFhfyB_ocpweuaAdKZO5sWyi4FPd/view?usp=drive_link",
+                  "sort": "1"
+                },
+                {
+                  "label": "5th Edition U.S. Map PDF",
+                  "url": "https://drive.google.com/file/d/1ABXlFZN195-d9Yg0Zsx9OgLURrDyyxXQ/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

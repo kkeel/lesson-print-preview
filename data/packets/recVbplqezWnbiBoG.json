@@ -156,6 +156,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 2 (U.S.)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "5th Edition U.S. Atlas PDF",
+                  "url": "https://drive.google.com/file/d/1ABXlFZN195-d9Yg0Zsx9OgLURrDyyxXQ/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -144,6 +144,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Natural History: Grade 4",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

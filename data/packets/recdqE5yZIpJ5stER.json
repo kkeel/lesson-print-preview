@@ -136,6 +136,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sloyd: Intro",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Airplane Pattern (Term 2)",
+                  "url": "https://www.auntannie.com/3DCrafts/FloatingWingGlider/FWGliderTrialModel.pdf",
+                  "sort": "1"
+                },
+                {
+                  "label": "Cube Pattern (Term 3)",
+                  "url": "https://www.firstpalette.com/pdf/cube.pdf",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

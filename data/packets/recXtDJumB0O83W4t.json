@@ -111,6 +111,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Grammar/Comp: Grade 7",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Practice Town Teacher Manual",
+                  "url": "https://drive.google.com/file/d/1V17GjjkYyfgnKIzmIIPcVVoDdeLlGXfp/view?usp=drive_link",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

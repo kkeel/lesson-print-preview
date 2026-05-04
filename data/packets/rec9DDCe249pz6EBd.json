@@ -133,6 +133,64 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Chemistry Lessons",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Alveary Bookshelf",
+                  "url": "https://www.alveary.org/bookshelf",
+                  "sort": ""
+                },
+                {
+                  "label": "Contact Us for Teachers",
+                  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfhaAB0eQWkpMxNYW9t4PWrPIvS3fblKfTw9Ee1jvexzDvUpg/viewform",
+                  "sort": ""
+                },
+                {
+                  "label": "Homework Help for HS Science Students",
+                  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQhHvZhrqoNYQ3eOTovRlmiJg8fKNeVibhw6jxlBuZ_oTww/viewform?usp=sf_link",
+                  "sort": ""
+                },
+                {
+                  "label": "John Muir Laws • Nature Journaling Resources",
+                  "url": "https://johnmuirlaws.com/",
+                  "sort": ""
+                },
+                {
+                  "label": "Khan Academy Video Playlists",
+                  "url": "https://www.youtube.com/@khanacademy/playlists",
+                  "sort": ""
+                },
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
+                  "sort": ""
+                },
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": ""
+                },
+                {
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": ""
+                },
+                {
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     }

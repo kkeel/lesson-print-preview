@@ -114,6 +114,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Jump Rope",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

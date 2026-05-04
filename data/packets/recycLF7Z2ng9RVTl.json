@@ -113,6 +113,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Latin 4",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

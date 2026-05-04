@@ -117,6 +117,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "American Gov./ Economics: Grade 8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Grade 8 Reading PDF: State & Local Gov",
+                  "url": "https://drive.google.com/file/d/17ysCxhkgEz1yQOpHn7RfQ5Va_mBwZijq/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

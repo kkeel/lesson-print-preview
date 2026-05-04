@@ -156,6 +156,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 3",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

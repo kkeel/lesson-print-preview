@@ -172,6 +172,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Sloyd: Level 5",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Sloyd Introduction Video",
+                  "url": "https://vimeo.com/340947199/7d7d2ddd99",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

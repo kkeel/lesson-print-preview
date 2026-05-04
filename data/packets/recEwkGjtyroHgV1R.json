@@ -113,6 +113,18 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Latin 2 (Video Course)",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

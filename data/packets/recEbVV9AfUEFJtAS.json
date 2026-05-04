@@ -156,6 +156,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 11",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

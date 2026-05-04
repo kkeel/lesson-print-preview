@@ -173,6 +173,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 10 (Canada)",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

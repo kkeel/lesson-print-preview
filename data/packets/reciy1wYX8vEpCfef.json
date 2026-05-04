@@ -200,6 +200,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Art: High School Fast Track",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Appendix: Guiding Questions for Art",
+                  "url": "https://drive.google.com/file/d/1kFr-2zGXd-qvzieLvcbgAjlIYTfN4-Qq/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

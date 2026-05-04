@@ -264,6 +264,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 9",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

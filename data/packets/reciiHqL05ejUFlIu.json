@@ -121,6 +121,24 @@
           "linkUrl": "",
           "basicSuppliesUrl": "#",
           "groups": []
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "New Testament: Grade 12",
+              "type": "course",
+              "links": [
+                {
+                  "label": "bibleproject.com",
+                  "url": "http://bibleproject.com/",
+                  "sort": "1"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

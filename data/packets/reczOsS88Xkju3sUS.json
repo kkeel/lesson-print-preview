@@ -147,6 +147,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 1",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

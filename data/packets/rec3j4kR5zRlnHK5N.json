@@ -253,6 +253,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 12",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

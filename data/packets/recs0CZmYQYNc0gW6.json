@@ -110,6 +110,18 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Chemistry Labs",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }

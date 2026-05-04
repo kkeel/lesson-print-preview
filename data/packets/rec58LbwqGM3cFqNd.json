@@ -128,6 +128,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 3 (Canada)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Blank Outline Maps of Canada, Provinces, and Territories",
+                  "url": "https://donnaward.ca/outline-maps-of-canada-and-provinces/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Appendix: Geography Models",
+                  "url": "https://drive.google.com/file/d/1wVkOObzRXuUkjSAZRIbZoPwlQQeuXbHW/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -186,6 +186,18 @@
               "supplies": []
             }
           ]
+        },
+        {
+          "kind": "quick-links",
+          "title": "Quick Links",
+          "linkPageUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 12",
+              "type": "course",
+              "links": []
+            }
+          ]
         }
       ]
     }
