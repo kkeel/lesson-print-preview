@@ -13,7 +13,6 @@ body {
   gap: 28px;
 }
 
-
 .page-flow {
   width: 8.5in;
   background: #ffffff;
@@ -1071,5 +1070,112 @@ a:hover {
   .quick-links-qr-placeholder {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
+  }
+}
+
+/* =========================
+   How To Pages
+   ========================= */
+
+.howto-section {
+  min-height: 11in;
+}
+
+.howto-page-header {
+  margin-bottom: 0;
+}
+
+.howto-page-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 36px;
+  line-height: 1.1;
+  font-weight: 400;
+  color: #596e5e;
+  margin: 0 0 0.18in;
+}
+
+.howto-page-subtitle {
+  background: #adb58f;
+  color: #ffffff;
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 1.1;
+  font-weight: 400;
+  padding: 7px 8px;
+  margin-bottom: 0.1in;
+}
+
+.howto-block-list {
+  border-top: 2px solid #8da08c;
+}
+
+.howto-block {
+  margin-bottom: 0;
+}
+
+.howto-panel {
+  display: grid;
+  grid-template-columns: 1.15in 1fr;
+  border-bottom: 2px solid #8da08c;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.howto-icon-col {
+  background: #eef0f4;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.2in 0.12in;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.howto-icon {
+  width: 0.58in;
+  height: auto;
+  display: block;
+}
+
+.howto-icon-placeholder {
+  width: 0.58in;
+  height: 0.58in;
+}
+
+.howto-content {
+  padding: 0.18in 0.24in 0.2in;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.howto-prompt-title {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #596e5e;
+  margin: 0 0 0.06in;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.howto-content p {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.45;
+  color: #596e5e;
+  margin: 0;
+}
+
+@media print {
+  .howto-page-subtitle,
+  .howto-icon-col {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .howto-block {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 }
