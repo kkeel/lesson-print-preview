@@ -95,7 +95,10 @@
               "title": "Keyboarding",
               "type": "course",
               "books": [
-                "Typing.com"
+                {
+                  "title": "Typing.com",
+                  "resourceId": "recx6i6CURMnQ7tpG"
+                }
               ]
             }
           ]

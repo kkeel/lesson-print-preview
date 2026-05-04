@@ -103,7 +103,10 @@
               "title": "Composition: Grade 10",
               "type": "topic",
               "books": [
-                "Style: The Basics of Clarity & Grace 5th ed."
+                {
+                  "title": "Style: The Basics of Clarity & Grace 5th ed.",
+                  "resourceId": "recTDoFwbVufsDGsC"
+                }
               ]
             }
           ]

@@ -197,7 +197,10 @@
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

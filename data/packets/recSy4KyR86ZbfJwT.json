@@ -99,8 +99,14 @@
               "title": "Sol-fa: Level 2",
               "type": "topic",
               "books": [
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Sol-fa Level 2 Audio/Video Lessons"
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Sol-fa Level 2 Audio/Video Lessons",
+                  "resourceId": "reckCyEXWqUvcQwa5"
+                }
               ]
             }
           ]

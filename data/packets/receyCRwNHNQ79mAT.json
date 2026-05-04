@@ -85,7 +85,10 @@
               "title": "Biology Labs",
               "type": "topic",
               "books": [
-                "Alveary Biology Lab Book"
+                {
+                  "title": "Alveary Biology Lab Book",
+                  "resourceId": "recWGzD58m6EMYioZ"
+                }
               ]
             }
           ]

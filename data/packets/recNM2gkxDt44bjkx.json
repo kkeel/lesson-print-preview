@@ -107,7 +107,10 @@
               "title": "General Science: Grade 7",
               "type": "topic",
               "books": [
-                "The Story of Science: Aristotle Leads the Way"
+                {
+                  "title": "The Story of Science: Aristotle Leads the Way",
+                  "resourceId": "recvcsBBJOzNPiZf1"
+                }
               ]
             }
           ]

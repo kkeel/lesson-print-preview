@@ -152,27 +152,54 @@
               "title": "General Science: Grade 5",
               "type": "topic",
               "books": [
-                "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
-                "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
-                "The Tornado Scientist"
+                {
+                  "title": "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
+                  "resourceId": "recSd7TOpkUMei47Q"
+                },
+                {
+                  "title": "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
+                  "resourceId": "recSPRcpZtX65krC9"
+                },
+                {
+                  "title": "The Tornado Scientist",
+                  "resourceId": "recmBZd5aB0dIxWVV"
+                }
               ]
             },
             {
               "title": "Labs: Grade 5",
               "type": "topic",
               "books": [
-                "Science: Grade 5 Lab Book"
+                {
+                  "title": "Science: Grade 5 Lab Book",
+                  "resourceId": "recAi1K5i0DzuNek3"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 5",
               "type": "topic",
               "books": [
-                "Beetle Busters",
-                "Nature All Around: Plants",
-                "Shanleya's Quest Card Game",
-                "The Bat Scientists",
-                "The Forest in the Tree"
+                {
+                  "title": "Beetle Busters",
+                  "resourceId": "rech9Cvccm5JqQSzD"
+                },
+                {
+                  "title": "Nature All Around: Plants",
+                  "resourceId": "recglEhAhr6tcQ8jc"
+                },
+                {
+                  "title": "Shanleya's Quest Card Game",
+                  "resourceId": "recvdarYW28WDpFh0"
+                },
+                {
+                  "title": "The Bat Scientists",
+                  "resourceId": "rec3R7vU1h8H9PROu"
+                },
+                {
+                  "title": "The Forest in the Tree",
+                  "resourceId": "recLg0GVUyWw0JFRr"
+                }
               ]
             }
           ]

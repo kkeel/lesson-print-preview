@@ -91,10 +91,22 @@
               "title": "Geography: Grade 10-11",
               "type": "course",
               "books": [
-                "Five Months on the Missouri River: Paddling a Dugout Canoe",
-                "Across This Land",
-                "Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs",
-                "All Over the Map: A Cartographic Odyssey"
+                {
+                  "title": "Five Months on the Missouri River: Paddling a Dugout Canoe",
+                  "resourceId": "recxIWRWjRxnwOFwE"
+                },
+                {
+                  "title": "Across This Land",
+                  "resourceId": "recPpoj6L1jUeCKYX"
+                },
+                {
+                  "title": "Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs",
+                  "resourceId": "recYeQBekvdnlRqqi"
+                },
+                {
+                  "title": "All Over the Map: A Cartographic Odyssey",
+                  "resourceId": "rec5eo7CFBxnwEtl7"
+                }
               ]
             }
           ]

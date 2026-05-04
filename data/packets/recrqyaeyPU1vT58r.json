@@ -113,16 +113,28 @@
               "title": "Reading Level 1",
               "type": "topic",
               "books": [
-                "Reading Lessons: Level 1 (Revised 2025)",
-                "Reading-Literature: The Primer"
+                {
+                  "title": "Reading Lessons: Level 1 (Revised 2025)",
+                  "resourceId": "rec25ddXr2YSOI26L"
+                },
+                {
+                  "title": "Reading-Literature: The Primer",
+                  "resourceId": "rec7EN9jEosk5Zy2r"
+                }
               ]
             },
             {
               "title": "Penmanship & Copywork: Grade 1",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book B",
-                "Italics: Beautiful Handwriting for Children"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book B",
+                  "resourceId": "recwEWIgKSxYvcOyx"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                }
               ]
             }
           ]

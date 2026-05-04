@@ -111,8 +111,14 @@
               "title": "General Science: Grade 8",
               "type": "topic",
               "books": [
-                "The Story of Science: Einstein Adds a New Dimension",
-                "The Story of Science: Newton At the Center"
+                {
+                  "title": "The Story of Science: Einstein Adds a New Dimension",
+                  "resourceId": "recv5KqOdEeCxonij"
+                },
+                {
+                  "title": "The Story of Science: Newton At the Center",
+                  "resourceId": "recHffB9SrAain2dT"
+                }
               ]
             }
           ]

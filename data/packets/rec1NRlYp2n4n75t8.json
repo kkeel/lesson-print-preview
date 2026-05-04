@@ -81,13 +81,34 @@
               "title": "History: Grade 1 (Canada)",
               "type": "course",
               "books": [
-                "The Honour Drum",
-                "On the Trapline",
-                "Hiawatha and the Peacemaker",
-                "Thirteen Moons on Turtle's Back: A Native American Year of Moons",
-                "Maple Moon",
-                "The Pencil",
-                "The Gift of the Great Buffalo"
+                {
+                  "title": "The Honour Drum",
+                  "resourceId": "recOBhwtOuGXKi5Vt"
+                },
+                {
+                  "title": "On the Trapline",
+                  "resourceId": "recmV5cdYr1tvwKj0"
+                },
+                {
+                  "title": "Hiawatha and the Peacemaker",
+                  "resourceId": "recpG2foplXNn7jif"
+                },
+                {
+                  "title": "Thirteen Moons on Turtle's Back: A Native American Year of Moons",
+                  "resourceId": "rec2Ch49DbsTAysS1"
+                },
+                {
+                  "title": "Maple Moon",
+                  "resourceId": "recMuoEizint1ew15"
+                },
+                {
+                  "title": "The Pencil",
+                  "resourceId": "reczaILjhQzxPDPGF"
+                },
+                {
+                  "title": "The Gift of the Great Buffalo",
+                  "resourceId": "rec8XnhuFDmTFPFP5"
+                }
               ]
             }
           ]

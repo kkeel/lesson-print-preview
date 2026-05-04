@@ -95,7 +95,10 @@
               "title": "Art: Level 8",
               "type": "course",
               "books": [
-                "Drawing, Design, and Craft-Work"
+                {
+                  "title": "Drawing, Design, and Craft-Work",
+                  "resourceId": "reckOxbera0wklAAL"
+                }
               ]
             }
           ]

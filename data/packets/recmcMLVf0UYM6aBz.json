@@ -91,9 +91,18 @@
               "title": "Geography: Grade 7 (Canada)",
               "type": "course",
               "books": [
-                "Mapping the World with Art",
-                "Canadian Student Atlas",
-                "Exploring the Frozen North"
+                {
+                  "title": "Mapping the World with Art",
+                  "resourceId": "rec79eHxNjF5Uhcgx"
+                },
+                {
+                  "title": "Canadian Student Atlas",
+                  "resourceId": "recBS1xBXwAdbapNL"
+                },
+                {
+                  "title": "Exploring the Frozen North",
+                  "resourceId": "recARwZIQaVjMKy1s"
+                }
               ]
             }
           ]

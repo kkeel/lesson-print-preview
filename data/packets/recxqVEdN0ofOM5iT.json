@@ -131,17 +131,32 @@
               "title": "Econ/Civics: Grade 10 (U.S.)",
               "type": "topic",
               "books": [
-                "Think: The Life of the Mind and the Love of God",
-                "Atomic Habits",
-                "What Would Keynes Do?",
-                "Reading PDF"
+                {
+                  "title": "Think: The Life of the Mind and the Love of God",
+                  "resourceId": "receYiXHRchDVPdO3"
+                },
+                {
+                  "title": "Atomic Habits",
+                  "resourceId": "rec15R98Dglfr11MF"
+                },
+                {
+                  "title": "What Would Keynes Do?",
+                  "resourceId": "rec22O3t21BvJaiDw"
+                },
+                {
+                  "title": "Reading PDF",
+                  "resourceId": "reccvFARcG21ppLkY"
+                }
               ]
             },
             {
               "title": "Ethics: Part 4",
               "type": "topic",
               "books": [
-                "Ourselves Book 2: Self-Direction"
+                {
+                  "title": "Ourselves Book 2: Self-Direction",
+                  "resourceId": "recSGmJ0X1KxD75S1"
+                }
               ]
             }
           ]

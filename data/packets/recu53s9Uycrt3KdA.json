@@ -91,10 +91,22 @@
               "title": "Upper Spanish: Level 1",
               "type": "course",
               "books": [
-                "Spanish: Level 1 SoundCloud Playlist",
-                "Spanish: Level 1 Student Notebook",
-                "The Harvest Birds/Los pájaros de la cosecha",
-                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists"
+                {
+                  "title": "Spanish: Level 1 SoundCloud Playlist",
+                  "resourceId": "recPaDnMglpf5AQiw"
+                },
+                {
+                  "title": "Spanish: Level 1 Student Notebook",
+                  "resourceId": "recLJbFpdXapVzj8X"
+                },
+                {
+                  "title": "The Harvest Birds/Los pájaros de la cosecha",
+                  "resourceId": "recvIZ8k425sk5T1z"
+                },
+                {
+                  "title": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                  "resourceId": "rec2ZcWvxi3oeBNF8"
+                }
               ]
             }
           ]

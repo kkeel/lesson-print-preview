@@ -107,7 +107,10 @@
               "title": "Labs: Grade 5",
               "type": "topic",
               "books": [
-                "Science: Grade 5 Lab Book"
+                {
+                  "title": "Science: Grade 5 Lab Book",
+                  "resourceId": "recAi1K5i0DzuNek3"
+                }
               ]
             }
           ]

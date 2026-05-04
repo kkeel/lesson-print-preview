@@ -99,7 +99,10 @@
               "title": "Math Lessons: Grade 3",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level C 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level C 2nd Ed. Book Bundle",
+                  "resourceId": "recFMS94k7WrvHAe1"
+                }
               ]
             }
           ]

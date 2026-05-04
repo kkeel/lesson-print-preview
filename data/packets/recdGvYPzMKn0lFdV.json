@@ -131,15 +131,24 @@
               "title": "Plutarch/Government: Grade 9 (U.S.)",
               "type": "topic",
               "books": [
-                "The Plutarch Project Volume Three (Revised)",
-                "Reading PDF"
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                },
+                {
+                  "title": "Reading PDF",
+                  "resourceId": "reccvFARcG21ppLkY"
+                }
               ]
             },
             {
               "title": "Ethics: Part 3",
               "type": "topic",
               "books": [
-                "Ourselves: Book 1"
+                {
+                  "title": "Ourselves: Book 1",
+                  "resourceId": "recLHdhKMfjC9IAKG"
+                }
               ]
             }
           ]

@@ -107,9 +107,18 @@
               "title": "New Testament: Grades 3-6",
               "type": "topic",
               "books": [
-                "ESV Large Print Bible",
-                "The Student Bible Atlas, Revised Edition",
-                "The New Manners and Customs of Bible Times"
+                {
+                  "title": "ESV Large Print Bible",
+                  "resourceId": "recsZKTv4JyW3fDXQ"
+                },
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "The New Manners and Customs of Bible Times",
+                  "resourceId": "rec01nkYbeecMfZgR"
+                }
               ]
             }
           ]

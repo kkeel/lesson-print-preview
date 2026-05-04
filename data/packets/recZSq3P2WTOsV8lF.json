@@ -122,17 +122,32 @@
               "title": "Fairy Tales",
               "type": "topic",
               "books": [
-                "Around the World in 80 Tales",
-                "Tales from Grimm"
+                {
+                  "title": "Around the World in 80 Tales",
+                  "resourceId": "recZEkDPmuBucJpr1"
+                },
+                {
+                  "title": "Tales from Grimm",
+                  "resourceId": "recAgpjTHZLXwXPgv"
+                }
               ]
             },
             {
               "title": "Tall Tales/ Fables",
               "type": "topic",
               "books": [
-                "Aesop's Favorite Fables",
-                "American Tall Tales",
-                "The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs"
+                {
+                  "title": "Aesop's Favorite Fables",
+                  "resourceId": "recHLSd4DYDUKCKw4"
+                },
+                {
+                  "title": "American Tall Tales",
+                  "resourceId": "recgE9YlBVowDiYAM"
+                },
+                {
+                  "title": "The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs",
+                  "resourceId": "recAYCiNb4mH6y06V"
+                }
               ]
             }
           ]

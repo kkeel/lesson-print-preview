@@ -91,9 +91,18 @@
               "title": "Story of Geometry: Part 1",
               "type": "course",
               "books": [
-                "String, Straight-Edge, and Shadow",
-                "The Student Bible Atlas, Revised Edition",
-                "Historical Atlas of the World 6th Ed."
+                {
+                  "title": "String, Straight-Edge, and Shadow",
+                  "resourceId": "recCU98bl4JN1YdqG"
+                },
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                }
               ]
             }
           ]

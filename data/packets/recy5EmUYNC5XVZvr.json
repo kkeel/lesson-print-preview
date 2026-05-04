@@ -107,7 +107,10 @@
               "title": "Ethics: Part 5",
               "type": "topic",
               "books": [
-                "Ourselves Book 2: Self-Direction"
+                {
+                  "title": "Ourselves Book 2: Self-Direction",
+                  "resourceId": "recSGmJ0X1KxD75S1"
+                }
               ]
             }
           ]

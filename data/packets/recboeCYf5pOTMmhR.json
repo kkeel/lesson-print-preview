@@ -111,9 +111,18 @@
               "title": "Natural History: Grade 4",
               "type": "topic",
               "books": [
-                "A World in a Drop of Water: Exploring with a Microscope",
-                "Life on Surtsey: Iceland's Upstart Island",
-                "The Octopus Scientists: Exploring the Mind of a Mollusk"
+                {
+                  "title": "A World in a Drop of Water: Exploring with a Microscope",
+                  "resourceId": "recRoaA5IiM7dt1v8"
+                },
+                {
+                  "title": "Life on Surtsey: Iceland's Upstart Island",
+                  "resourceId": "recjHCr0PzaAt8rew"
+                },
+                {
+                  "title": "The Octopus Scientists: Exploring the Mind of a Mollusk",
+                  "resourceId": "reco2a2kGq5C1tfcS"
+                }
               ]
             }
           ]

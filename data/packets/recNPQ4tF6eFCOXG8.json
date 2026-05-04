@@ -113,19 +113,40 @@
               "title": "U.S. History: Grades 4-6",
               "type": "topic",
               "books": [
-                "Heart and Soul: The Story of America and African Americans",
-                "Children of the Wild West",
-                "Lincoln: A Photobiography",
-                "SeaMan: The Dog Who Explored The West With Lewis & Clark"
+                {
+                  "title": "Heart and Soul: The Story of America and African Americans",
+                  "resourceId": "recXbEbDp4E1weSLA"
+                },
+                {
+                  "title": "Children of the Wild West",
+                  "resourceId": "recO8afkVvlFdI6JG"
+                },
+                {
+                  "title": "Lincoln: A Photobiography",
+                  "resourceId": "rec0AHSZzCBWRzIdy"
+                },
+                {
+                  "title": "SeaMan: The Dog Who Explored The West With Lewis & Clark",
+                  "resourceId": "recMq1IlevMdI15nH"
+                }
               ]
             },
             {
               "title": "World History: Grades 4-6",
               "type": "topic",
               "books": [
-                "William Wilberforce: The Freedom Fighter",
-                "Under the Hawthorn Tree",
-                "Commodore Perry in the Land of the Shogun"
+                {
+                  "title": "William Wilberforce: The Freedom Fighter",
+                  "resourceId": "recWeDQTFTylbEyLK"
+                },
+                {
+                  "title": "Under the Hawthorn Tree",
+                  "resourceId": "reciWVjR4g0VyEe7B"
+                },
+                {
+                  "title": "Commodore Perry in the Land of the Shogun",
+                  "resourceId": "recKwo348vS6SuZ9o"
+                }
               ]
             }
           ]

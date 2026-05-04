@@ -99,14 +99,20 @@
               "title": "Math Lessons: Grade 7 (Denison)",
               "type": "topic",
               "books": [
-                "Denison Pre-Algebra"
+                {
+                  "title": "Denison Pre-Algebra",
+                  "resourceId": "rec1T9YxCnEcGHRNK"
+                }
               ]
             },
             {
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

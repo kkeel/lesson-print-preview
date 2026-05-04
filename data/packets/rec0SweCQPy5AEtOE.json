@@ -122,8 +122,14 @@
               "title": "Grammar/Comp: Grade 9",
               "type": "topic",
               "books": [
-                "Essay Voyage",
-                "Essay Voyage Teacher Manual (select pages)"
+                {
+                  "title": "Essay Voyage",
+                  "resourceId": "recJpC8zytMXRToMB"
+                },
+                {
+                  "title": "Essay Voyage Teacher Manual (select pages)",
+                  "resourceId": "rec5AEKHqzrhwpR9x"
+                }
               ]
             }
           ]

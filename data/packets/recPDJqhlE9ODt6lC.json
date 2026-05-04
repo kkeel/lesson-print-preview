@@ -113,18 +113,36 @@
               "title": "Poetry Study: Grade 7",
               "type": "topic",
               "books": [
-                "What Is Poetry?"
+                {
+                  "title": "What Is Poetry?",
+                  "resourceId": "recGMn4HO2tnvhG4g"
+                }
               ]
             },
             {
               "title": "Poetry Reading: Grade 7",
               "type": "topic",
               "books": [
-                "A Kick in the Head: An Everyday Guide to Poetic Forms",
-                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
-                "The Poet: Pauline Johnson",
-                "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
-                "The Crescent Moon"
+                {
+                  "title": "A Kick in the Head: An Everyday Guide to Poetic Forms",
+                  "resourceId": "recqvSnGsWOdGFWk2"
+                },
+                {
+                  "title": "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                  "resourceId": "recYIRwDEThES9D03"
+                },
+                {
+                  "title": "The Poet: Pauline Johnson",
+                  "resourceId": "rec8K62QmSchkrPBK"
+                },
+                {
+                  "title": "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
+                  "resourceId": "recZ3NUcDoZolVrPc"
+                },
+                {
+                  "title": "The Crescent Moon",
+                  "resourceId": "recuzZNUCUmNMMlPv"
+                }
               ]
             }
           ]

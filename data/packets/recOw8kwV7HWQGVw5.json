@@ -111,7 +111,10 @@
               "title": "Natural History: Grade 8",
               "type": "topic",
               "books": [
-                "Invincible Microbe"
+                {
+                  "title": "Invincible Microbe",
+                  "resourceId": "recLDheT0FVaeTgRR"
+                }
               ]
             }
           ]

@@ -99,8 +99,14 @@
               "title": "General Lit.: Grades 5-6",
               "type": "topic",
               "books": [
-                "Hans Brinker or The Silver Skates",
-                "Little Women"
+                {
+                  "title": "Hans Brinker or The Silver Skates",
+                  "resourceId": "recFKmcgde5dxKPMh"
+                },
+                {
+                  "title": "Little Women",
+                  "resourceId": "rec8oemEyLSCeLUEf"
+                }
               ]
             }
           ]

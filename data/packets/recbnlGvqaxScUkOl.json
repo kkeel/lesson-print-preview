@@ -122,22 +122,34 @@
               "title": "Algebra 1: Part 1",
               "type": "topic",
               "books": [
-                "Elementary Algebra Student Book",
-                "Elementary Algebra Teacher Guide (Revised Edition)"
+                {
+                  "title": "Elementary Algebra Student Book",
+                  "resourceId": "recYbTWGEGIOzLcgQ"
+                },
+                {
+                  "title": "Elementary Algebra Teacher Guide (Revised Edition)",
+                  "resourceId": "rec53OxsCZTGCz2fd"
+                }
               ]
             },
             {
               "title": "Geometry: Grade 8",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level G 2nd Ed. Book Bundle",
+                  "resourceId": "recGmBghw8V9pxfyC"
+                }
               ]
             },
             {
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

@@ -95,8 +95,14 @@
               "title": "Plutarch/Government: Grade 9 (U.S.)",
               "type": "topic",
               "books": [
-                "The Plutarch Project Volume Three (Revised)",
-                "Reading PDF"
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                },
+                {
+                  "title": "Reading PDF",
+                  "resourceId": "reccvFARcG21ppLkY"
+                }
               ]
             }
           ]

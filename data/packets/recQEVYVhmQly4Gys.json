@@ -91,10 +91,22 @@
               "title": "Upper French: Level 1",
               "type": "course",
               "books": [
-                "French: Level 1 Student Notebook",
-                "French: Level 1 SoundCloud Playlist",
-                "Les plus belles fables de La Fontaine",
-                "Primary French Course Part I"
+                {
+                  "title": "French: Level 1 Student Notebook",
+                  "resourceId": "reci94baKY9pb8aZM"
+                },
+                {
+                  "title": "French: Level 1 SoundCloud Playlist",
+                  "resourceId": "recFWdDhTT1KrnqSc"
+                },
+                {
+                  "title": "Les plus belles fables de La Fontaine",
+                  "resourceId": "rec14CaZovaklt4J5"
+                },
+                {
+                  "title": "Primary French Course Part I",
+                  "resourceId": "recIUAUGnpcfosU6f"
+                }
               ]
             }
           ]

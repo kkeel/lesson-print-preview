@@ -95,8 +95,14 @@
               "title": "Art History",
               "type": "course",
               "books": [
-                "The Arts: A Visual Encyclopedia",
-                "Children's Book of Art"
+                {
+                  "title": "The Arts: A Visual Encyclopedia",
+                  "resourceId": "rec1aj7GOWk1fBlyu"
+                },
+                {
+                  "title": "Children's Book of Art",
+                  "resourceId": "recmKvi7XXvYnzLTX"
+                }
               ]
             }
           ]

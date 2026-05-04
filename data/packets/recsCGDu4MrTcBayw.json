@@ -91,9 +91,18 @@
               "title": "Geography: Grade 8 (Canada)",
               "type": "course",
               "books": [
-                "Canadian Student Atlas",
-                "Draw the Natural Wonders of Canada and Greenland: Geography Disguised as Fun",
-                "Vanished Beyond the Map"
+                {
+                  "title": "Canadian Student Atlas",
+                  "resourceId": "recBS1xBXwAdbapNL"
+                },
+                {
+                  "title": "Draw the Natural Wonders of Canada and Greenland: Geography Disguised as Fun",
+                  "resourceId": "receUD7SFLN5RNZcX"
+                },
+                {
+                  "title": "Vanished Beyond the Map",
+                  "resourceId": "recfUzI2Tz0Ywd4gq"
+                }
               ]
             }
           ]

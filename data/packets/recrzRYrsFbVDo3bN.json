@@ -111,9 +111,18 @@
               "title": "General Science: Grade 5",
               "type": "topic",
               "books": [
-                "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
-                "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
-                "The Tornado Scientist"
+                {
+                  "title": "Mission to Pluto: The First Visit to an Ice Dwarf and the Kuiper Belt",
+                  "resourceId": "recSd7TOpkUMei47Q"
+                },
+                {
+                  "title": "The Hive Detectives: Chronicle of a Honey Bee Catastrophe",
+                  "resourceId": "recSPRcpZtX65krC9"
+                },
+                {
+                  "title": "The Tornado Scientist",
+                  "resourceId": "recmBZd5aB0dIxWVV"
+                }
               ]
             }
           ]

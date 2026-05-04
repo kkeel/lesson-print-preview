@@ -99,9 +99,18 @@
               "title": "Old Testament: Grade 2",
               "type": "topic",
               "books": [
-                "ESV Large Print Bible",
-                "God's Bible Timeline: The Big Book of Biblical History",
-                "The Bible Story Handbook"
+                {
+                  "title": "ESV Large Print Bible",
+                  "resourceId": "recsZKTv4JyW3fDXQ"
+                },
+                {
+                  "title": "God's Bible Timeline: The Big Book of Biblical History",
+                  "resourceId": "recMR6sOEfasLRFY5"
+                },
+                {
+                  "title": "The Bible Story Handbook",
+                  "resourceId": "recQoz4oedXQGF2Kt"
+                }
               ]
             }
           ]

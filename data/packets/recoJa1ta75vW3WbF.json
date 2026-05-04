@@ -113,14 +113,20 @@
               "title": "Math Lessons: Grade 2",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level B 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level B 2nd Ed. Book Bundle",
+                  "resourceId": "recmSboBNEbsSmdGx"
+                }
               ]
             },
             {
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

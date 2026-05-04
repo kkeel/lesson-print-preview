@@ -91,9 +91,18 @@
               "title": "Latin 4",
               "type": "course",
               "books": [
-                "Cambridge Latin Unit 4 5th Ed.",
-                "Cambridge Latin Unit 4 Online Resources",
-                "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)"
+                {
+                  "title": "Cambridge Latin Unit 4 5th Ed.",
+                  "resourceId": "rechDtEDByv2GufPk"
+                },
+                {
+                  "title": "Cambridge Latin Unit 4 Online Resources",
+                  "resourceId": "recJoSNMkK2CaFUT8"
+                },
+                {
+                  "title": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)",
+                  "resourceId": "recHpEWdHnkOVtfCD"
+                }
               ]
             }
           ]

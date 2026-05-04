@@ -89,7 +89,10 @@
               "title": "Poetry Study: Grade 8",
               "type": "topic",
               "books": [
-                "A World of Poetry: Student Book"
+                {
+                  "title": "A World of Poetry: Student Book",
+                  "resourceId": "recfrEOvkt2AIpZTG"
+                }
               ]
             }
           ]

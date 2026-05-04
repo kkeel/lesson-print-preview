@@ -103,8 +103,14 @@
               "title": "General Lit.: Grade 4",
               "type": "topic",
               "books": [
-                "The Lion, the Witch and the Wardrobe",
-                "Hans Brinker or The Silver Skates"
+                {
+                  "title": "The Lion, the Witch and the Wardrobe",
+                  "resourceId": "recQ27ovq0EVSNWEI"
+                },
+                {
+                  "title": "Hans Brinker or The Silver Skates",
+                  "resourceId": "recFKmcgde5dxKPMh"
+                }
               ]
             }
           ]

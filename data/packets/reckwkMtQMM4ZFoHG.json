@@ -99,8 +99,14 @@
               "title": "General Lit.: Grade 3",
               "type": "topic",
               "books": [
-                "Charlotte's Web",
-                "Heart of a Samurai"
+                {
+                  "title": "Charlotte's Web",
+                  "resourceId": "recZr8l5ssEAbyQPx"
+                },
+                {
+                  "title": "Heart of a Samurai",
+                  "resourceId": "recJiJYYGjlHgqOf7"
+                }
               ]
             }
           ]

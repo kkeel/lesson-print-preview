@@ -107,7 +107,10 @@
               "title": "Ethics: Part 3",
               "type": "topic",
               "books": [
-                "Ourselves: Book 1"
+                {
+                  "title": "Ourselves: Book 1",
+                  "resourceId": "recLHdhKMfjC9IAKG"
+                }
               ]
             }
           ]

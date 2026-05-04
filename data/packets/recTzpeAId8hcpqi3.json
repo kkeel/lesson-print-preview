@@ -81,7 +81,10 @@
               "title": "Economics: Grade 12",
               "type": "course",
               "books": [
-                "Economics in One Lesson"
+                {
+                  "title": "Economics in One Lesson",
+                  "resourceId": "recYWLOabfTEBdZpB"
+                }
               ]
             }
           ]

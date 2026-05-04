@@ -89,8 +89,14 @@
               "title": "Grammar: Grade 10",
               "type": "topic",
               "books": [
-                "Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right",
-                "Caesar's English II"
+                {
+                  "title": "Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right",
+                  "resourceId": "recSpeTo7n6Gfobw5"
+                },
+                {
+                  "title": "Caesar's English II",
+                  "resourceId": "rec3MHBg7NmbinMh5"
+                }
               ]
             }
           ]

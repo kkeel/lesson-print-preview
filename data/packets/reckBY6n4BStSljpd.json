@@ -107,9 +107,18 @@
               "title": "Church History: Grades 7-9",
               "type": "topic",
               "books": [
-                "Spurgeon: A Biography",
-                "Renewal: The Church That Expands Outward",
-                "An Honorable Heritage: The Pandita Ramabai Story in Her Own Words"
+                {
+                  "title": "Spurgeon: A Biography",
+                  "resourceId": "rechMm5zpTXoqbRq3"
+                },
+                {
+                  "title": "Renewal: The Church That Expands Outward",
+                  "resourceId": "recePVUJ5HmAdz2aO"
+                },
+                {
+                  "title": "An Honorable Heritage: The Pandita Ramabai Story in Her Own Words",
+                  "resourceId": "rec0HbHnQV6fLbbOy"
+                }
               ]
             }
           ]

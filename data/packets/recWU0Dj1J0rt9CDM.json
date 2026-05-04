@@ -95,9 +95,18 @@
               "title": "Latin 2 (Independent Study)",
               "type": "course",
               "books": [
-                "Cambridge Latin Unit 2 Online Resources",
-                "North American Cambridge Latin Unit 2 5th Ed. Student Book",
-                "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)"
+                {
+                  "title": "Cambridge Latin Unit 2 Online Resources",
+                  "resourceId": "recxnOcBzgqx5vuKA"
+                },
+                {
+                  "title": "North American Cambridge Latin Unit 2 5th Ed. Student Book",
+                  "resourceId": "recbZP18lAHr7w9XS"
+                },
+                {
+                  "title": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)",
+                  "resourceId": "recHpEWdHnkOVtfCD"
+                }
               ]
             }
           ]

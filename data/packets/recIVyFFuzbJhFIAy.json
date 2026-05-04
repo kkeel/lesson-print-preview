@@ -89,7 +89,10 @@
               "title": "Canadian Government: Grade 7",
               "type": "topic",
               "books": [
-                "Who Runs This Country, Anyway?"
+                {
+                  "title": "Who Runs This Country, Anyway?",
+                  "resourceId": "reczUa2kC554OTquf"
+                }
               ]
             }
           ]

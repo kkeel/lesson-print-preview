@@ -113,19 +113,40 @@
               "title": "U.S. History: Grades 7-8",
               "type": "topic",
               "books": [
-                "A History of US: Liberty for All?: 1820-1860",
-                "Abraham Lincoln and Frederick Douglass: The Story Behind and American Friendship",
-                "A Year in the South: 1865",
-                "Sacajawea",
-                "Gold Mountain"
+                {
+                  "title": "A History of US: Liberty for All?: 1820-1860",
+                  "resourceId": "recJoGaot9hpgFv08"
+                },
+                {
+                  "title": "Abraham Lincoln and Frederick Douglass: The Story Behind and American Friendship",
+                  "resourceId": "rec8OlKTd6o8BNF9t"
+                },
+                {
+                  "title": "A Year in the South: 1865",
+                  "resourceId": "recCzXtbvnkaTtgKe"
+                },
+                {
+                  "title": "Sacajawea",
+                  "resourceId": "recHfeudUbdDsMiXi"
+                },
+                {
+                  "title": "Gold Mountain",
+                  "resourceId": "recA3cY6i4uaffqyM"
+                }
               ]
             },
             {
               "title": "Ancient History: Grades 7-9",
               "type": "topic",
               "books": [
-                "The Witness of Early Christian Women: Mothers of the Church",
-                "A Short History of Ancient Rome"
+                {
+                  "title": "The Witness of Early Christian Women: Mothers of the Church",
+                  "resourceId": "recLMSlmgZH9VBfHb"
+                },
+                {
+                  "title": "A Short History of Ancient Rome",
+                  "resourceId": "recd40KytaKLQWL3Q"
+                }
               ]
             }
           ]

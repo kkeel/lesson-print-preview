@@ -107,7 +107,10 @@
               "title": "Labs: Grade 4",
               "type": "topic",
               "books": [
-                "Science: Grade 4 Lab Book"
+                {
+                  "title": "Science: Grade 4 Lab Book",
+                  "resourceId": "recTwQ75ZKylB7WX9"
+                }
               ]
             }
           ]

@@ -85,7 +85,10 @@
               "title": "Math Lessons: Grade 7 (Denison)",
               "type": "topic",
               "books": [
-                "Denison Pre-Algebra"
+                {
+                  "title": "Denison Pre-Algebra",
+                  "resourceId": "rec1T9YxCnEcGHRNK"
+                }
               ]
             }
           ]

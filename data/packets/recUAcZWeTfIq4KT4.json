@@ -107,9 +107,18 @@
               "title": "General Science: Grade 6",
               "type": "topic",
               "books": [
-                "Plate Tectonics",
-                "The Art of Construction",
-                "Phineas Gage"
+                {
+                  "title": "Plate Tectonics",
+                  "resourceId": "recTmUqHMkE0WgkLh"
+                },
+                {
+                  "title": "The Art of Construction",
+                  "resourceId": "recy6L6dZaoXMcArp"
+                },
+                {
+                  "title": "Phineas Gage",
+                  "resourceId": "recuiC7B5gtKKOBWq"
+                }
               ]
             }
           ]

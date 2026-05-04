@@ -89,7 +89,10 @@
               "title": "Jump Rope",
               "type": "topic",
               "books": [
-                "The Book of Playground Songs & Rhymes"
+                {
+                  "title": "The Book of Playground Songs & Rhymes",
+                  "resourceId": "recZlQfkeOi88FxOK"
+                }
               ]
             }
           ]

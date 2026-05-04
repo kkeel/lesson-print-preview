@@ -131,46 +131,112 @@
               "title": "Plays: Grades 9-12",
               "type": "topic",
               "books": [
-                "The Tempest",
-                "The Tempest (Audio recording)",
-                "Henry IV Part 2",
-                "Henry IV Part 2 (Audio recording)",
-                "The Winter's Tale",
-                "The Winter's Tale (Audio recording)"
+                {
+                  "title": "The Tempest",
+                  "resourceId": "recwzHlYbjDQRZ12P"
+                },
+                {
+                  "title": "The Tempest (Audio recording)",
+                  "resourceId": "rec3tqEcEYbMVNjBk"
+                },
+                {
+                  "title": "Henry IV Part 2",
+                  "resourceId": "rec4R3oCKgwBHtO6B"
+                },
+                {
+                  "title": "Henry IV Part 2 (Audio recording)",
+                  "resourceId": "rec1hRljOcf4tHSCT"
+                },
+                {
+                  "title": "The Winter's Tale",
+                  "resourceId": "rec5nbuFfLoW893jD"
+                },
+                {
+                  "title": "The Winter's Tale (Audio recording)",
+                  "resourceId": "recvGWpSCcuAO1RSY"
+                }
               ]
             },
             {
               "title": "Poetry Reading: Grades 9-12",
               "type": "topic",
               "books": [
-                "Poetry",
-                "The Aeneid",
-                "The Lightning Dreamer: Cuba's Greatest Abolitionist",
-                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
-                "The Crescent Moon"
+                {
+                  "title": "Poetry",
+                  "resourceId": "recKbcZA9XmKjjn8b"
+                },
+                {
+                  "title": "The Aeneid",
+                  "resourceId": "recP93D6B6FlR27PZ"
+                },
+                {
+                  "title": "The Lightning Dreamer: Cuba's Greatest Abolitionist",
+                  "resourceId": "rectQeZOe9TstFr1x"
+                },
+                {
+                  "title": "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                  "resourceId": "recYIRwDEThES9D03"
+                },
+                {
+                  "title": "The Crescent Moon",
+                  "resourceId": "recuzZNUCUmNMMlPv"
+                }
               ]
             },
             {
               "title": "General Lit.: Grades 11-12",
               "type": "topic",
               "books": [
-                "Narrative of the Life of Frederick Douglass",
-                "Up from Slavery",
-                "James",
-                "Jane Eyre",
-                "The Count of Monte Cristo",
-                "Short stories and other writings",
-                "Things Fall Apart",
-                "The Souls of Black Folk"
+                {
+                  "title": "Narrative of the Life of Frederick Douglass",
+                  "resourceId": "recj4Gq2c9BzAopg7"
+                },
+                {
+                  "title": "Up from Slavery",
+                  "resourceId": "reczCr29zRWEiJ53Q"
+                },
+                {
+                  "title": "James",
+                  "resourceId": "recb4WeZZ7n11044O"
+                },
+                {
+                  "title": "Jane Eyre",
+                  "resourceId": "rec8gaqbiZrabbYaY"
+                },
+                {
+                  "title": "The Count of Monte Cristo",
+                  "resourceId": "recXhOEqXsDwMQlvg"
+                },
+                {
+                  "title": "Short stories and other writings",
+                  "resourceId": "recRAjWrl2CLPferr"
+                },
+                {
+                  "title": "Things Fall Apart",
+                  "resourceId": "recS4h5NzibgWj3XK"
+                },
+                {
+                  "title": "The Souls of Black Folk",
+                  "resourceId": "recytZRsUSyyVb2eS"
+                }
               ]
             },
             {
               "title": "History of Lit: Grades 9-12",
               "type": "topic",
               "books": [
-                "American Literature",
-                "English Literature for Boys and Girls",
-                "History of Literature PDF"
+                {
+                  "title": "American Literature",
+                  "resourceId": "rec3R4IiED1XO1HFQ"
+                },
+                {
+                  "title": "English Literature for Boys and Girls",
+                  "resourceId": "rec0oGsLUHcktbS7b"
+                },
+                {
+                  "title": "History of Literature PDF",
+                  "resourceId": "rec0r9HNzoD6ModuC"
+                }
               ]
             }
           ]

@@ -99,10 +99,22 @@
               "title": "Canadian History: Grades 5-6",
               "type": "topic",
               "books": [
-                "The Story of Canada",
-                "Tecumseh",
-                "The Loxleys and Confederation",
-                "Joe and the Wreck of the Tribune"
+                {
+                  "title": "The Story of Canada",
+                  "resourceId": "recWTIXEZPlab84Z0"
+                },
+                {
+                  "title": "Tecumseh",
+                  "resourceId": "recTcsHBEbSWjUavh"
+                },
+                {
+                  "title": "The Loxleys and Confederation",
+                  "resourceId": "recKgb0PuksU4HFUQ"
+                },
+                {
+                  "title": "Joe and the Wreck of the Tribune",
+                  "resourceId": "recmOVOrkNY53BDD1"
+                }
               ]
             }
           ]

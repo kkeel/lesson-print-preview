@@ -81,7 +81,10 @@
               "title": "Mathematics: Grade 10 (Denison)",
               "type": "course",
               "books": [
-                "Denison Algebra 2"
+                {
+                  "title": "Denison Algebra 2",
+                  "resourceId": "recj7gMshdCR8BoH0"
+                }
               ]
             }
           ]

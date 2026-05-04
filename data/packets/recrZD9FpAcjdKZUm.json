@@ -85,7 +85,10 @@
               "title": "Dictation: Grade 6",
               "type": "topic",
               "books": [
-                "Grade 6 Copywork & Dictation Book"
+                {
+                  "title": "Grade 6 Copywork & Dictation Book",
+                  "resourceId": "recAUDZpOAGF0JSEx"
+                }
               ]
             }
           ]

@@ -91,11 +91,26 @@
               "title": "Upper Spanish: Level 4",
               "type": "course",
               "books": [
-                "Spanish: Level 4 SoundCloud Playlist",
-                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
-                "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
-                "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
-                "Spanish: Level 4 Student Notebook"
+                {
+                  "title": "Spanish: Level 4 SoundCloud Playlist",
+                  "resourceId": "recGS01XGrxc9C09E"
+                },
+                {
+                  "title": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                  "resourceId": "rec2ZcWvxi3oeBNF8"
+                },
+                {
+                  "title": "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
+                  "resourceId": "rec161KeC2t6raqTC"
+                },
+                {
+                  "title": "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
+                  "resourceId": "recD9GUSMdAWm2oVl"
+                },
+                {
+                  "title": "Spanish: Level 4 Student Notebook",
+                  "resourceId": "reckczmN7i36RLrpA"
+                }
               ]
             }
           ]

@@ -89,8 +89,14 @@
               "title": "Penmanship & Copywork: Grade 3",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book D",
-                "Italics: Beautiful Handwriting for Children"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book D",
+                  "resourceId": "rec66MFd5sIKfJzQY"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                }
               ]
             }
           ]

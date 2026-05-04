@@ -95,7 +95,10 @@
               "title": "Lettering: Level 3",
               "type": "course",
               "books": [
-                "The Complete Book of Chalk Lettering"
+                {
+                  "title": "The Complete Book of Chalk Lettering",
+                  "resourceId": "rec2DOed4yBUg6vJC"
+                }
               ]
             }
           ]

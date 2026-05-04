@@ -89,8 +89,14 @@
               "title": "Penmanship & Copywork: Grade 1",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book B",
-                "Italics: Beautiful Handwriting for Children"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book B",
+                  "resourceId": "recwEWIgKSxYvcOyx"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                }
               ]
             }
           ]

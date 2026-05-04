@@ -111,7 +111,10 @@
               "title": "Free Play/ Circuits",
               "type": "topic",
               "books": [
-                "303 Tween-Approved Exercises and Active Games"
+                {
+                  "title": "303 Tween-Approved Exercises and Active Games",
+                  "resourceId": "recavFDwkQjBdb9fc"
+                }
               ]
             }
           ]

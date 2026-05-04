@@ -99,8 +99,14 @@
               "title": "Reading Level 3",
               "type": "topic",
               "books": [
-                "Reading Lessons: Level 3",
-                "Reading-Literature: Second Reader"
+                {
+                  "title": "Reading Lessons: Level 3",
+                  "resourceId": "recnPzRUTwiN1pnp6"
+                },
+                {
+                  "title": "Reading-Literature: Second Reader",
+                  "resourceId": "recn1sSUMLrB3cWd5"
+                }
               ]
             }
           ]

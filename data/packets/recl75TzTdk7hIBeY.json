@@ -95,10 +95,22 @@
               "title": "Poetry Reading: Grade 8",
               "type": "topic",
               "books": [
-                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
-                "The Poet: Pauline Johnson",
-                "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
-                "The Crescent Moon"
+                {
+                  "title": "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                  "resourceId": "recYIRwDEThES9D03"
+                },
+                {
+                  "title": "The Poet: Pauline Johnson",
+                  "resourceId": "rec8K62QmSchkrPBK"
+                },
+                {
+                  "title": "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
+                  "resourceId": "recZ3NUcDoZolVrPc"
+                },
+                {
+                  "title": "The Crescent Moon",
+                  "resourceId": "recuzZNUCUmNMMlPv"
+                }
               ]
             }
           ]

@@ -99,7 +99,10 @@
               "title": "Math Lessons: Grade 6",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level F 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level F 2nd Ed. Book Bundle",
+                  "resourceId": "recN2AdZ2o8icR1lu"
+                }
               ]
             }
           ]

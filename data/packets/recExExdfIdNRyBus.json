@@ -95,8 +95,14 @@
               "title": "Spiritual Formation: Grades 7-8",
               "type": "topic",
               "books": [
-                "Transformed by Truth",
-                "This Changes Everything"
+                {
+                  "title": "Transformed by Truth",
+                  "resourceId": "recyc7MgpK0mScqPl"
+                },
+                {
+                  "title": "This Changes Everything",
+                  "resourceId": "reccdmmviI727Mepk"
+                }
               ]
             }
           ]

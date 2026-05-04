@@ -118,30 +118,66 @@
               "title": "Canadian History: Grades 9-10",
               "type": "topic",
               "books": [
-                "The Underground Railroad: Next Stop, Toronto!",
-                "Early Voices",
-                "Vanished Beyond the Map",
-                "Sophie's Rebellion",
-                "Red Wolf",
-                "The Charlottetown Conference and the Birth of Confederation"
+                {
+                  "title": "The Underground Railroad: Next Stop, Toronto!",
+                  "resourceId": "recrsNiVJtNacZvR9"
+                },
+                {
+                  "title": "Early Voices",
+                  "resourceId": "reclTSrJE2vbwfJaf"
+                },
+                {
+                  "title": "Vanished Beyond the Map",
+                  "resourceId": "recfUzI2Tz0Ywd4gq"
+                },
+                {
+                  "title": "Sophie's Rebellion",
+                  "resourceId": "reckrNrYGs7Cee08j"
+                },
+                {
+                  "title": "Red Wolf",
+                  "resourceId": "recerCcBPX6VYGc7c"
+                },
+                {
+                  "title": "The Charlottetown Conference and the Birth of Confederation",
+                  "resourceId": "recyvHTlefUZzpApF"
+                }
               ]
             },
             {
               "title": "World History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Blood and Iron: The Rise and Fall of the German Empire",
-                "When America First Met China",
-                "Erebus: The Story of a Ship"
+                {
+                  "title": "Blood and Iron: The Rise and Fall of the German Empire",
+                  "resourceId": "recfhEICVStPgotwB"
+                },
+                {
+                  "title": "When America First Met China",
+                  "resourceId": "recTJd5zTm3syYIlP"
+                },
+                {
+                  "title": "Erebus: The Story of a Ship",
+                  "resourceId": "rec7z1NO1PuxPcgfP"
+                }
               ]
             },
             {
               "title": "Ancient History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Early Christian Writings: The Apostolic Fathers edited",
-                "Ancient Empires: From Mesopotamia to the Rise of Islam",
-                "Christians Reading Classics"
+                {
+                  "title": "Early Christian Writings: The Apostolic Fathers edited",
+                  "resourceId": "recoFvjqG1jIB2ykI"
+                },
+                {
+                  "title": "Ancient Empires: From Mesopotamia to the Rise of Islam",
+                  "resourceId": "rec8mOKj4a0LVWl1U"
+                },
+                {
+                  "title": "Christians Reading Classics",
+                  "resourceId": "rec5xfKBz756Opt41"
+                }
               ]
             }
           ]

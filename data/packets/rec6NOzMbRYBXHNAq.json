@@ -99,9 +99,18 @@
               "title": "Grammar: Grade 5",
               "type": "topic",
               "books": [
-                "Practice Island",
-                "Practice Island Teacher Manual (select pages)",
-                "Sentence Island"
+                {
+                  "title": "Practice Island",
+                  "resourceId": "recDIMibbBO5QhCKe"
+                },
+                {
+                  "title": "Practice Island Teacher Manual (select pages)",
+                  "resourceId": "reccU99bZdaACFHLh"
+                },
+                {
+                  "title": "Sentence Island",
+                  "resourceId": "recevCCZXrZTBk4Xb"
+                }
               ]
             }
           ]

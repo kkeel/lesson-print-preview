@@ -99,7 +99,10 @@
               "title": "Math Lessons: Grade 4",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level D 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level D 2nd Ed. Book Bundle",
+                  "resourceId": "recHARCbmCZJq5f3T"
+                }
               ]
             }
           ]

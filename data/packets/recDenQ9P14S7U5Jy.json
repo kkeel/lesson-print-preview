@@ -85,7 +85,10 @@
               "title": "Recitation: Grades 4-6",
               "type": "course",
               "books": [
-                "Our Work: Grades 4-6"
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                }
               ]
             }
           ]

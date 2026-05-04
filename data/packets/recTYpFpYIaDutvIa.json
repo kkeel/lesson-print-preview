@@ -101,8 +101,14 @@
               "title": "Ancient History: Grades 5-6",
               "type": "topic",
               "books": [
-                "The Bronze Bow",
-                "Redemption: The Church in Ancient Times"
+                {
+                  "title": "The Bronze Bow",
+                  "resourceId": "recMCU05MT5TWYKrs"
+                },
+                {
+                  "title": "Redemption: The Church in Ancient Times",
+                  "resourceId": "recUV4v0GyiQDjt7S"
+                }
               ]
             }
           ]

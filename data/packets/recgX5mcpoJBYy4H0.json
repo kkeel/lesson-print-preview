@@ -99,9 +99,18 @@
               "title": "Spiritual Formation: Grade 12",
               "type": "topic",
               "books": [
-                "Being God's Image: Why Creation Still Matters",
-                "Delighting in the Trinity",
-                "Becoming by Beholding"
+                {
+                  "title": "Being God's Image: Why Creation Still Matters",
+                  "resourceId": "recycfEUQBNPoHUZi"
+                },
+                {
+                  "title": "Delighting in the Trinity",
+                  "resourceId": "recqkbLLdRsO5Icq7"
+                },
+                {
+                  "title": "Becoming by Beholding",
+                  "resourceId": "rec45LFeRdU2fi2Xl"
+                }
               ]
             }
           ]

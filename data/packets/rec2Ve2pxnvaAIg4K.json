@@ -101,8 +101,14 @@
               "title": "World History: Grades 7-8",
               "type": "course",
               "books": [
-                "Eiffel's Tower for Young People",
-                "In the Shadow of the Alamo"
+                {
+                  "title": "Eiffel's Tower for Young People",
+                  "resourceId": "recGDXfZM9GzPjF6K"
+                },
+                {
+                  "title": "In the Shadow of the Alamo",
+                  "resourceId": "recQp6EwwCJ4kqsg2"
+                }
               ]
             }
           ]

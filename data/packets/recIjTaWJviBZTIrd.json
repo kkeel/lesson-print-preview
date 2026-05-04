@@ -103,8 +103,14 @@
               "title": "Canadian Gov./ Economics: Grade 8",
               "type": "topic",
               "books": [
-                "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
-                "Canada's Constitutional Monarchy"
+                {
+                  "title": "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
+                  "resourceId": "rec7v5wfeY2lC55Vq"
+                },
+                {
+                  "title": "Canada's Constitutional Monarchy",
+                  "resourceId": "rec3jFPfyFSqt2mGU"
+                }
               ]
             }
           ]

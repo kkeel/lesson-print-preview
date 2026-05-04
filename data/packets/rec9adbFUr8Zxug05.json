@@ -95,7 +95,10 @@
               "title": "Recitation: Grade 3",
               "type": "course",
               "books": [
-                "Our Work: Grade 3"
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                }
               ]
             }
           ]

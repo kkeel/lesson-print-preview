@@ -95,7 +95,10 @@
               "title": "Sloyd: Intro",
               "type": "course",
               "books": [
-                "Paper Folding Video Lessons"
+                {
+                  "title": "Paper Folding Video Lessons",
+                  "resourceId": "recr29aKYdyuM8fAF"
+                }
               ]
             }
           ]

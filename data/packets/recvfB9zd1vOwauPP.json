@@ -91,12 +91,30 @@
               "title": "Lower Spanish: Grades 1-6",
               "type": "course",
               "books": [
-                "Spanish: Student Notebook",
-                "Spanish: Grades 1-6 SoundCloud Playlists",
-                "Fábulas de Esopo: Edición Clásica",
-                "Family Pictures/Cuadros de familia",
-                "Diez Deditos and Other Play Rhymes and Action Songs from Latin America",
-                "Diez Deditos (Audio mp3)"
+                {
+                  "title": "Spanish: Student Notebook",
+                  "resourceId": "recsOabaI6mTRal2Y"
+                },
+                {
+                  "title": "Spanish: Grades 1-6 SoundCloud Playlists",
+                  "resourceId": "recmlS0kgz4JEV3Aw"
+                },
+                {
+                  "title": "Fábulas de Esopo: Edición Clásica",
+                  "resourceId": "recAnpVGNnqmhrDDQ"
+                },
+                {
+                  "title": "Family Pictures/Cuadros de familia",
+                  "resourceId": "recDxxVOK09tos72V"
+                },
+                {
+                  "title": "Diez Deditos and Other Play Rhymes and Action Songs from Latin America",
+                  "resourceId": "rec2V72Up20pjQBbn"
+                },
+                {
+                  "title": "Diez Deditos (Audio mp3)",
+                  "resourceId": "recnAKZqzX8B3XJU5"
+                }
               ]
             }
           ]

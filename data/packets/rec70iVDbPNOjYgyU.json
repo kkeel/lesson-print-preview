@@ -99,13 +99,34 @@
               "title": "Microbiology Lessons",
               "type": "topic",
               "books": [
-                "A Field Guide to Bacteria",
-                "A Planet of Viruses",
-                "Growing a Revolution: Bringing Our Soil Back to Life",
-                "I Contain Multitudes",
-                "Micro Life",
-                "Microbe Hunters",
-                "The Immortal Life of Henrietta Lacks"
+                {
+                  "title": "A Field Guide to Bacteria",
+                  "resourceId": "reciDp05sE5jfsUuT"
+                },
+                {
+                  "title": "A Planet of Viruses",
+                  "resourceId": "recuCpXWYV851x08E"
+                },
+                {
+                  "title": "Growing a Revolution: Bringing Our Soil Back to Life",
+                  "resourceId": "recdKS6U6klWpOpdD"
+                },
+                {
+                  "title": "I Contain Multitudes",
+                  "resourceId": "recnJhUfUZ8CyvXsj"
+                },
+                {
+                  "title": "Micro Life",
+                  "resourceId": "recZWVGbiPfkAjhV2"
+                },
+                {
+                  "title": "Microbe Hunters",
+                  "resourceId": "recFNNRqwF5Zatz2j"
+                },
+                {
+                  "title": "The Immortal Life of Henrietta Lacks",
+                  "resourceId": "recZckfv8OSE2czq8"
+                }
               ]
             }
           ]

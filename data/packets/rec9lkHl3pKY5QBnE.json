@@ -95,11 +95,26 @@
               "title": "Geography: Grade 3 (U.S.)",
               "type": "course",
               "books": [
-                "50 Adventures in the 50 States",
-                "Cross Country: Geography for Children",
-                "Grandma Gatewood Hikes the Appalachian Trail",
-                "United States Atlas 7th Ed.",
-                "Student World Atlas 6th Ed."
+                {
+                  "title": "50 Adventures in the 50 States",
+                  "resourceId": "recJwlFU6GWlPXjdU"
+                },
+                {
+                  "title": "Cross Country: Geography for Children",
+                  "resourceId": "recFfhImYyAgKJOfT"
+                },
+                {
+                  "title": "Grandma Gatewood Hikes the Appalachian Trail",
+                  "resourceId": "rec5JKF2vXAPNxenu"
+                },
+                {
+                  "title": "United States Atlas 7th Ed.",
+                  "resourceId": "reczH8uwlnf97SywN"
+                },
+                {
+                  "title": "Student World Atlas 6th Ed.",
+                  "resourceId": "recM2Is6mCqMkBedP"
+                }
               ]
             }
           ]

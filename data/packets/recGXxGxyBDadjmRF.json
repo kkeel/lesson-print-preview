@@ -122,8 +122,14 @@
               "title": "Plutarch: Grades 6-8",
               "type": "topic",
               "books": [
-                "Historical Atlas of the World 6th Ed.",
-                "The Plutarch Project Volume Three (Revised)"
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                },
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                }
               ]
             }
           ]

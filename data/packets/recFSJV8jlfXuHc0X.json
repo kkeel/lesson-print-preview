@@ -103,15 +103,42 @@
               "title": "Picture Study",
               "type": "course",
               "books": [
-                "Our Work: Grades 1-2",
-                "Our Work: Grade 3",
-                "Our Work: Grades 4-6",
-                "Our Work: Grades 7-8",
-                "Our Work: Grades 9-12",
-                "Art Print Set",
-                "Redeeming Vision",
-                "A Passion for the Impossible: The Life of Lilias Trotter",
-                "Van Gogh"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                },
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                },
+                {
+                  "title": "Our Work: Grades 7-8",
+                  "resourceId": "recsfooztY1xN2Ukk"
+                },
+                {
+                  "title": "Our Work: Grades 9-12",
+                  "resourceId": "recsNwud3Tci78Te8"
+                },
+                {
+                  "title": "Art Print Set",
+                  "resourceId": "recRjVoGfG4YhjxQU"
+                },
+                {
+                  "title": "Redeeming Vision",
+                  "resourceId": "recYUjgIWX49iwscL"
+                },
+                {
+                  "title": "A Passion for the Impossible: The Life of Lilias Trotter",
+                  "resourceId": "recxjH0J5P3uywLM2"
+                },
+                {
+                  "title": "Van Gogh",
+                  "resourceId": "reccVJxPHYWNhlxiT"
+                }
               ]
             }
           ]

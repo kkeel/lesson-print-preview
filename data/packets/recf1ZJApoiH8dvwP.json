@@ -111,11 +111,26 @@
               "title": "Natural History: Grade 5",
               "type": "topic",
               "books": [
-                "Beetle Busters",
-                "Nature All Around: Plants",
-                "Shanleya's Quest Card Game",
-                "The Bat Scientists",
-                "The Forest in the Tree"
+                {
+                  "title": "Beetle Busters",
+                  "resourceId": "rech9Cvccm5JqQSzD"
+                },
+                {
+                  "title": "Nature All Around: Plants",
+                  "resourceId": "recglEhAhr6tcQ8jc"
+                },
+                {
+                  "title": "Shanleya's Quest Card Game",
+                  "resourceId": "recvdarYW28WDpFh0"
+                },
+                {
+                  "title": "The Bat Scientists",
+                  "resourceId": "rec3R7vU1h8H9PROu"
+                },
+                {
+                  "title": "The Forest in the Tree",
+                  "resourceId": "recLg0GVUyWw0JFRr"
+                }
               ]
             }
           ]

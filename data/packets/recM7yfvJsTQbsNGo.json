@@ -135,25 +135,46 @@
               "title": "Grammar: Grade 5",
               "type": "topic",
               "books": [
-                "Practice Island",
-                "Practice Island Teacher Manual (select pages)",
-                "Sentence Island"
+                {
+                  "title": "Practice Island",
+                  "resourceId": "recDIMibbBO5QhCKe"
+                },
+                {
+                  "title": "Practice Island Teacher Manual (select pages)",
+                  "resourceId": "reccU99bZdaACFHLh"
+                },
+                {
+                  "title": "Sentence Island",
+                  "resourceId": "recevCCZXrZTBk4Xb"
+                }
               ]
             },
             {
               "title": "Dictation: Grade 5",
               "type": "topic",
               "books": [
-                "Grade 5 Copywork & Dictation Book"
+                {
+                  "title": "Grade 5 Copywork & Dictation Book",
+                  "resourceId": "reccUmh6DlDYAwfS8"
+                }
               ]
             },
             {
               "title": "Penmanship & Copywork: Grade 5",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book F",
-                "Italics: Beautiful Handwriting for Children",
-                "Grade 5 Copywork & Dictation Book"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book F",
+                  "resourceId": "reciq3Uj2uZXjGFnW"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                },
+                {
+                  "title": "Grade 5 Copywork & Dictation Book",
+                  "resourceId": "reccUmh6DlDYAwfS8"
+                }
               ]
             }
           ]

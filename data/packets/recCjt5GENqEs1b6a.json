@@ -99,7 +99,10 @@
               "title": "Bible Stories",
               "type": "topic",
               "books": [
-                "Hurlbut's Story of the Bible"
+                {
+                  "title": "Hurlbut's Story of the Bible",
+                  "resourceId": "recbNOYkip20WsZsY"
+                }
               ]
             }
           ]

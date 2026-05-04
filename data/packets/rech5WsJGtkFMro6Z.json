@@ -95,10 +95,22 @@
               "title": "Econ/Civics: Grade 10 (Canada)",
               "type": "topic",
               "books": [
-                "Think: The Life of the Mind and the Love of God",
-                "What Would Keynes Do?",
-                "The Prime Ministers: Canada's Leaders and the Nation They Shaped",
-                "Atomic Habits"
+                {
+                  "title": "Think: The Life of the Mind and the Love of God",
+                  "resourceId": "receYiXHRchDVPdO3"
+                },
+                {
+                  "title": "What Would Keynes Do?",
+                  "resourceId": "rec22O3t21BvJaiDw"
+                },
+                {
+                  "title": "The Prime Ministers: Canada's Leaders and the Nation They Shaped",
+                  "resourceId": "recg8UrzCcsCAySsI"
+                },
+                {
+                  "title": "Atomic Habits",
+                  "resourceId": "rec15R98Dglfr11MF"
+                }
               ]
             }
           ]

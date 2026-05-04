@@ -95,9 +95,18 @@
               "title": "Econ/Civics: Grade 11 (U.S.)",
               "type": "topic",
               "books": [
-                "What Would Keynes Do?",
-                "The Art of Asking Better Questions",
-                "Reading PDF"
+                {
+                  "title": "What Would Keynes Do?",
+                  "resourceId": "rec22O3t21BvJaiDw"
+                },
+                {
+                  "title": "The Art of Asking Better Questions",
+                  "resourceId": "recBswas53sRmzlW8"
+                },
+                {
+                  "title": "Reading PDF",
+                  "resourceId": "reccvFARcG21ppLkY"
+                }
               ]
             }
           ]

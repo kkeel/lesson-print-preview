@@ -95,7 +95,10 @@
               "title": "Sloyd: Level 5",
               "type": "course",
               "books": [
-                "Sloyd"
+                {
+                  "title": "Sloyd",
+                  "resourceId": "recXomXTY2RhzQP7K"
+                }
               ]
             }
           ]

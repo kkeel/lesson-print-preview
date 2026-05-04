@@ -143,18 +143,36 @@
               "title": "General Science: Grade 2",
               "type": "topic",
               "books": [
-                "A Walk in the...",
-                "Desert Giant",
-                "Mama Built a Little Nest",
-                "Monarch and Milkweed",
-                "The Secret Life of the Skunk"
+                {
+                  "title": "A Walk in the...",
+                  "resourceId": "recL5xtwKROgHx7Ez"
+                },
+                {
+                  "title": "Desert Giant",
+                  "resourceId": "recPyEphm2S3D2mvn"
+                },
+                {
+                  "title": "Mama Built a Little Nest",
+                  "resourceId": "reco4Ns8EazRG0g4Y"
+                },
+                {
+                  "title": "Monarch and Milkweed",
+                  "resourceId": "recJ9Sp17uN6iq8eR"
+                },
+                {
+                  "title": "The Secret Life of the Skunk",
+                  "resourceId": "reckJZNyw3Jyct6Fl"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 2",
               "type": "topic",
               "books": [
-                "Walks with a Naturalist: Living Nature Reader Volume 2"
+                {
+                  "title": "Walks with a Naturalist: Living Nature Reader Volume 2",
+                  "resourceId": "recWHKr0AJK2hF7t2"
+                }
               ]
             }
           ]

@@ -85,13 +85,34 @@
               "title": "History: Grade 1 (U.S.)",
               "type": "course",
               "books": [
-                "Frozen Land",
-                "Hiawatha and the Peacemaker",
-                "Itse Selu: Cherokee Harvest Festival",
-                "Moonstick: The Seasons of the Sioux",
-                "Tales the Totems Tell",
-                "The Book of Indians",
-                "The Very First Americans"
+                {
+                  "title": "Frozen Land",
+                  "resourceId": "rec2nANKfeqRk2j14"
+                },
+                {
+                  "title": "Hiawatha and the Peacemaker",
+                  "resourceId": "recpG2foplXNn7jif"
+                },
+                {
+                  "title": "Itse Selu: Cherokee Harvest Festival",
+                  "resourceId": "recHmrIgBEdHtNWvQ"
+                },
+                {
+                  "title": "Moonstick: The Seasons of the Sioux",
+                  "resourceId": "rechVsl41WqDDYNpl"
+                },
+                {
+                  "title": "Tales the Totems Tell",
+                  "resourceId": "rec1QwigivKnUmHHF"
+                },
+                {
+                  "title": "The Book of Indians",
+                  "resourceId": "rec6UjRxcc0KvHPbR"
+                },
+                {
+                  "title": "The Very First Americans",
+                  "resourceId": "recMmt1nKSaBgsHVJ"
+                }
               ]
             }
           ]

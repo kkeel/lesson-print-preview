@@ -105,9 +105,18 @@
               "title": "World History: Grade 9",
               "type": "topic",
               "books": [
-                "A Little Book for New Historians",
-                "Blood and Iron: The Rise and Fall of the German Empire",
-                "Erebus: The Story of a Ship"
+                {
+                  "title": "A Little Book for New Historians",
+                  "resourceId": "recWtQ9v1m2yjol7i"
+                },
+                {
+                  "title": "Blood and Iron: The Rise and Fall of the German Empire",
+                  "resourceId": "recfhEICVStPgotwB"
+                },
+                {
+                  "title": "Erebus: The Story of a Ship",
+                  "resourceId": "rec7z1NO1PuxPcgfP"
+                }
               ]
             }
           ]

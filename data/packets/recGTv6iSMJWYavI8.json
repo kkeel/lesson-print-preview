@@ -99,11 +99,26 @@
               "title": "Sol-fa: Level 3",
               "type": "topic",
               "books": [
-                "Our Work: Grade 3",
-                "Our Work: Grades 4-6",
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Fifty Steps in Sight-Singing",
-                "Sol-fa Level 3 Audio Lessons"
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                },
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Fifty Steps in Sight-Singing",
+                  "resourceId": "recFsxXQ19Hzb20n3"
+                },
+                {
+                  "title": "Sol-fa Level 3 Audio Lessons",
+                  "resourceId": "recyXKWLwo5uUMGlT"
+                }
               ]
             }
           ]

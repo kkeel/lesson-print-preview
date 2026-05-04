@@ -99,7 +99,10 @@
               "title": "Classic Lit.: Grade 2",
               "type": "topic",
               "books": [
-                "Pilgrim's Progress: Updated, Modern English"
+                {
+                  "title": "Pilgrim's Progress: Updated, Modern English",
+                  "resourceId": "recJGvkeytuYA6Noo"
+                }
               ]
             }
           ]

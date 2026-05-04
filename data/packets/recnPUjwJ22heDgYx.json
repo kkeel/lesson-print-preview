@@ -140,22 +140,34 @@
               "title": "Plutarch: Grades 6-8",
               "type": "topic",
               "books": [
-                "Historical Atlas of the World 6th Ed.",
-                "The Plutarch Project Volume Three (Revised)"
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                },
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                }
               ]
             },
             {
               "title": "American Government: Grade 7",
               "type": "topic",
               "books": [
-                "Your Rugged Constitution"
+                {
+                  "title": "Your Rugged Constitution",
+                  "resourceId": "recM99PeNDdcQd2s6"
+                }
               ]
             },
             {
               "title": "Ethics: Part 1",
               "type": "topic",
               "books": [
-                "Ourselves: Book 1"
+                {
+                  "title": "Ourselves: Book 1",
+                  "resourceId": "recLHdhKMfjC9IAKG"
+                }
               ]
             }
           ]

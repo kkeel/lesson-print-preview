@@ -91,8 +91,14 @@
               "title": "Latin 1 (Video Course)",
               "type": "course",
               "books": [
-                "North American Cambridge Latin Unit 1 5th Ed. Student Book",
-                "Alveary Exclusive Cambridge Latin Unit 1 Online Course"
+                {
+                  "title": "North American Cambridge Latin Unit 1 5th Ed. Student Book",
+                  "resourceId": "rec9bb4GaH8Ii0X9p"
+                },
+                {
+                  "title": "Alveary Exclusive Cambridge Latin Unit 1 Online Course",
+                  "resourceId": "recVj46H5U86mjRzm"
+                }
               ]
             }
           ]

@@ -146,40 +146,70 @@
               "title": "Music: Level 3",
               "type": "course",
               "books": [
-                "Our Work: Grade 3",
-                "Our Work: Grades 4-6",
-                "Hymns, Spirituals, & Folk Songs PDF"
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                },
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                }
               ]
             },
             {
               "title": "Hymns & Spirituals",
               "type": "topic",
               "books": [
-                "Our Hymns, Our Heritage"
+                {
+                  "title": "Our Hymns, Our Heritage",
+                  "resourceId": "recDLRBTspENoopYR"
+                }
               ]
             },
             {
               "title": "Folk Songs",
               "type": "topic",
               "books": [
-                "Like a Bird: The Art of the American Slave Song"
+                {
+                  "title": "Like a Bird: The Art of the American Slave Song",
+                  "resourceId": "recPb5gHeLu8G3EXl"
+                }
               ]
             },
             {
               "title": "Composer Study",
               "type": "topic",
               "books": [
-                "Playlist for the Year",
-                "Mussorgsky's Pictures at an Exhibition",
-                "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins"
+                {
+                  "title": "Playlist for the Year",
+                  "resourceId": "recpKgqZdLHd9C6gr"
+                },
+                {
+                  "title": "Mussorgsky's Pictures at an Exhibition",
+                  "resourceId": "rec4HK1TtsMfh9Dp0"
+                },
+                {
+                  "title": "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins",
+                  "resourceId": "recg3YhtkOzEkOEGt"
+                }
               ]
             },
             {
               "title": "Sol-fa: Level 3",
               "type": "topic",
               "books": [
-                "Fifty Steps in Sight-Singing",
-                "Sol-fa Level 3 Audio Lessons"
+                {
+                  "title": "Fifty Steps in Sight-Singing",
+                  "resourceId": "recFsxXQ19Hzb20n3"
+                },
+                {
+                  "title": "Sol-fa Level 3 Audio Lessons",
+                  "resourceId": "recyXKWLwo5uUMGlT"
+                }
               ]
             }
           ]

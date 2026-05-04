@@ -122,22 +122,34 @@
               "title": "Geometry: Grade 7",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level G 2nd Ed. Book Bundle",
+                  "resourceId": "recGmBghw8V9pxfyC"
+                }
               ]
             },
             {
               "title": "Pre-Algebra",
               "type": "topic",
               "books": [
-                "Hands-On Equations Deluxe Home Set",
-                "The Hands-On Equations Verbal Problems Book"
+                {
+                  "title": "Hands-On Equations Deluxe Home Set",
+                  "resourceId": "recNiSkoMTSZuBmf6"
+                },
+                {
+                  "title": "The Hands-On Equations Verbal Problems Book",
+                  "resourceId": "recrPKcvIhETygx8f"
+                }
               ]
             },
             {
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

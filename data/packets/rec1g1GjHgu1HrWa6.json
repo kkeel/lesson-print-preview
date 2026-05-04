@@ -95,8 +95,14 @@
               "title": "Shakespeare: Beginner Track",
               "type": "course",
               "books": [
-                "A Midsummer Night's Dream",
-                "A Midsummer Night's Dream (Audio recording)"
+                {
+                  "title": "A Midsummer Night's Dream",
+                  "resourceId": "recYINXIQIeHIhvxC"
+                },
+                {
+                  "title": "A Midsummer Night's Dream (Audio recording)",
+                  "resourceId": "recBStS3hyQ2Ed7qR"
+                }
               ]
             }
           ]

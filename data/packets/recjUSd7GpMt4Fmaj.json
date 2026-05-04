@@ -95,8 +95,14 @@
               "title": "Art: Level 6",
               "type": "course",
               "books": [
-                "Brush Drawing as Applied to Natural Forms and Common Objects",
-                "Drawing, Design, and Craft-Work"
+                {
+                  "title": "Brush Drawing as Applied to Natural Forms and Common Objects",
+                  "resourceId": "recwJkZ5CLtc1nVnK"
+                },
+                {
+                  "title": "Drawing, Design, and Craft-Work",
+                  "resourceId": "reckOxbera0wklAAL"
+                }
               ]
             }
           ]

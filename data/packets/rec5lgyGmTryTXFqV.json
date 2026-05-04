@@ -91,9 +91,18 @@
               "title": "Lower French: Grades 1-6",
               "type": "course",
               "books": [
-                "French: Grades 1-6 SoundCloud Playlists",
-                "French: Student Notebook",
-                "Linnea in Monet's Garden"
+                {
+                  "title": "French: Grades 1-6 SoundCloud Playlists",
+                  "resourceId": "recOnBonPH4G0prbH"
+                },
+                {
+                  "title": "French: Student Notebook",
+                  "resourceId": "recXqew0fbBwOatjd"
+                },
+                {
+                  "title": "Linnea in Monet's Garden",
+                  "resourceId": "rec5EgFFy7cprp5gU"
+                }
               ]
             }
           ]

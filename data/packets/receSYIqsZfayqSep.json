@@ -85,7 +85,10 @@
               "title": "Recitation: Grade 10",
               "type": "course",
               "books": [
-                "Our Work: Grades 9-12"
+                {
+                  "title": "Our Work: Grades 9-12",
+                  "resourceId": "recsNwud3Tci78Te8"
+                }
               ]
             }
           ]

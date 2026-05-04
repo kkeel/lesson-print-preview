@@ -95,7 +95,10 @@
               "title": "Poetry Study: Grade 9",
               "type": "topic",
               "books": [
-                "The Making of a Poem"
+                {
+                  "title": "The Making of a Poem",
+                  "resourceId": "recoM0qt2AsZlIczP"
+                }
               ]
             }
           ]

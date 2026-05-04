@@ -95,8 +95,14 @@
               "title": "Spiritual Formation: Grades 10-11",
               "type": "topic",
               "books": [
-                "Reading the Bible for a Change",
-                "God of All Things"
+                {
+                  "title": "Reading the Bible for a Change",
+                  "resourceId": "recoR5dUTNBS6Lg5R"
+                },
+                {
+                  "title": "God of All Things",
+                  "resourceId": "recOkcmoS3kfkSJNV"
+                }
               ]
             }
           ]

@@ -122,26 +122,50 @@
               "title": "Old Testament: Grade 2",
               "type": "topic",
               "books": [
-                "ESV Large Print Bible",
-                "God's Bible Timeline: The Big Book of Biblical History",
-                "The Bible Story Handbook"
+                {
+                  "title": "ESV Large Print Bible",
+                  "resourceId": "recsZKTv4JyW3fDXQ"
+                },
+                {
+                  "title": "God's Bible Timeline: The Big Book of Biblical History",
+                  "resourceId": "recMR6sOEfasLRFY5"
+                },
+                {
+                  "title": "The Bible Story Handbook",
+                  "resourceId": "recQoz4oedXQGF2Kt"
+                }
               ]
             },
             {
               "title": "New Testament: Grade 2",
               "type": "topic",
               "books": [
-                "ESV Large Print Bible",
-                "God's Bible Timeline: The Big Book of Biblical History",
-                "The Bible Story Handbook"
+                {
+                  "title": "ESV Large Print Bible",
+                  "resourceId": "recsZKTv4JyW3fDXQ"
+                },
+                {
+                  "title": "God's Bible Timeline: The Big Book of Biblical History",
+                  "resourceId": "recMR6sOEfasLRFY5"
+                },
+                {
+                  "title": "The Bible Story Handbook",
+                  "resourceId": "recQoz4oedXQGF2Kt"
+                }
               ]
             },
             {
               "title": "Church History: Grades 1-3",
               "type": "topic",
               "books": [
-                "The Bandit of Ashley Downs: George Muller",
-                "Adoniram Judson: Danger on the Streets of Gold"
+                {
+                  "title": "The Bandit of Ashley Downs: George Muller",
+                  "resourceId": "recEwODkwJZNKwdhf"
+                },
+                {
+                  "title": "Adoniram Judson: Danger on the Streets of Gold",
+                  "resourceId": "recF3TyjRbJFC4JyB"
+                }
               ]
             }
           ]

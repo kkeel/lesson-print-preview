@@ -111,12 +111,30 @@
               "title": "General Science: Grade 1",
               "type": "topic",
               "books": [
-                "A Fruit is a Suitcase for Seeds",
-                "A House Spider's Life",
-                "Over and Under the Pond",
-                "Up in the Garden and Down in the Dirt",
-                "Winter Sleep: A Hibernation Story",
-                "Bat Loves the Night"
+                {
+                  "title": "A Fruit is a Suitcase for Seeds",
+                  "resourceId": "recWV4kaHeyd04F8l"
+                },
+                {
+                  "title": "A House Spider's Life",
+                  "resourceId": "recHKBNSWtXiSKQan"
+                },
+                {
+                  "title": "Over and Under the Pond",
+                  "resourceId": "reciabsH6UTpXZ1tB"
+                },
+                {
+                  "title": "Up in the Garden and Down in the Dirt",
+                  "resourceId": "recaFDgd9MwXWqHQp"
+                },
+                {
+                  "title": "Winter Sleep: A Hibernation Story",
+                  "resourceId": "recseBbPlE10b3Zka"
+                },
+                {
+                  "title": "Bat Loves the Night",
+                  "resourceId": "recAAqYEALlKkIece"
+                }
               ]
             }
           ]

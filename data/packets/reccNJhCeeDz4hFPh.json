@@ -107,10 +107,22 @@
               "title": "Biology Lessons",
               "type": "topic",
               "books": [
-                "The Biology Coloring Book",
-                "The Spirit of the Rainforest",
-                "General Biology, 2nd Edition",
-                "The Fool and the Heretic"
+                {
+                  "title": "The Biology Coloring Book",
+                  "resourceId": "recmN7LMD6XOgHxwB"
+                },
+                {
+                  "title": "The Spirit of the Rainforest",
+                  "resourceId": "recqO478sMp9OEGwW"
+                },
+                {
+                  "title": "General Biology, 2nd Edition",
+                  "resourceId": "recwsaVlueernp4Mx"
+                },
+                {
+                  "title": "The Fool and the Heretic",
+                  "resourceId": "rec2F5P6iQGTUOYrX"
+                }
               ]
             }
           ]

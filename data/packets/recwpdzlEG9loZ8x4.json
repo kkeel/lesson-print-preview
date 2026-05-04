@@ -91,9 +91,18 @@
               "title": "Upper French: Level 4",
               "type": "course",
               "books": [
-                "French: Level 4 SoundCloud Playlist",
-                "Primary French Course Part I",
-                "French: Level 4 Student Notebook"
+                {
+                  "title": "French: Level 4 SoundCloud Playlist",
+                  "resourceId": "recW5wjb32qFwPMwQ"
+                },
+                {
+                  "title": "Primary French Course Part I",
+                  "resourceId": "recIUAUGnpcfosU6f"
+                },
+                {
+                  "title": "French: Level 4 Student Notebook",
+                  "resourceId": "recUgRoPt3xmWSj7e"
+                }
               ]
             }
           ]

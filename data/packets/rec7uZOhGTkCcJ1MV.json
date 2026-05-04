@@ -131,10 +131,22 @@
               "title": "Old Testament: Grades 7-12",
               "type": "topic",
               "books": [
-                "The Student Bible Atlas, Revised Edition",
-                "Old Testament Today",
-                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
-                "ESV Concise Study Bible"
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "Old Testament Today",
+                  "resourceId": "rec1dkTRQiOlbkGqi"
+                },
+                {
+                  "title": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                  "resourceId": "rec2dOHvUHjbSY3hp"
+                },
+                {
+                  "title": "ESV Concise Study Bible",
+                  "resourceId": "rec9zGtqQSrl6rFkt"
+                }
               ]
             }
           ]

@@ -107,20 +107,62 @@
               "title": "Botany Lessons",
               "type": "topic",
               "books": [
-                "A Peterson Field Guide To Western Trees",
-                "Botany in a Day",
-                "Growing a Revolution: Bringing Our Soil Back to Life",
-                "Pacific Coast Tree Finder",
-                "Rocky Mountain Tree Finder",
-                "Shanleya's Quest Card Game",
-                "The Milkweed Lands: An Epic Story of One Plant: Its Nature and Ecology",
-                "Oaxaca Journal",
-                "Tree Finder - Eastern US",
-                "What a Plant Knows",
-                "Winter Tree Finder (Eastern US)",
-                "The Hidden Life of Trees: The Illustrated Edition",
-                "The Sibley Guide to Trees",
-                "Elementary Studies in Plant Life"
+                {
+                  "title": "A Peterson Field Guide To Western Trees",
+                  "resourceId": "recSMZ8iP4R1jWhrU"
+                },
+                {
+                  "title": "Botany in a Day",
+                  "resourceId": "recSc3kZ3GKY7zcnw"
+                },
+                {
+                  "title": "Growing a Revolution: Bringing Our Soil Back to Life",
+                  "resourceId": "recdKS6U6klWpOpdD"
+                },
+                {
+                  "title": "Pacific Coast Tree Finder",
+                  "resourceId": "reco9BJheMmQfmXnx"
+                },
+                {
+                  "title": "Rocky Mountain Tree Finder",
+                  "resourceId": "recpHFZlsKMT9pyfE"
+                },
+                {
+                  "title": "Shanleya's Quest Card Game",
+                  "resourceId": "recvdarYW28WDpFh0"
+                },
+                {
+                  "title": "The Milkweed Lands: An Epic Story of One Plant: Its Nature and Ecology",
+                  "resourceId": "recNcNLr0Bo3YZY7K"
+                },
+                {
+                  "title": "Oaxaca Journal",
+                  "resourceId": "recpKRYCHK26ccM40"
+                },
+                {
+                  "title": "Tree Finder - Eastern US",
+                  "resourceId": "rec89CWlfczaVS02r"
+                },
+                {
+                  "title": "What a Plant Knows",
+                  "resourceId": "recFyIAPGV6vStyy8"
+                },
+                {
+                  "title": "Winter Tree Finder (Eastern US)",
+                  "resourceId": "recZ5uK4o6WQPJeg3"
+                },
+                {
+                  "title": "The Hidden Life of Trees: The Illustrated Edition",
+                  "resourceId": "recOIdSs9FaDKaVHx"
+                },
+                {
+                  "title": "The Sibley Guide to Trees",
+                  "resourceId": "rec4OfZDsNgYBKX53"
+                },
+                {
+                  "title": "Elementary Studies in Plant Life",
+                  "resourceId": "recasgdcfznRNlpC4"
+                }
               ]
             }
           ]

@@ -111,9 +111,18 @@
               "title": "General Science: Grade 4",
               "type": "topic",
               "books": [
-                "The Elephant Scientist",
-                "To Fly: The Story of the Wright Brothers",
-                "The Universe in You: A Microscopic Journey"
+                {
+                  "title": "The Elephant Scientist",
+                  "resourceId": "rec8LPeMO6hmBBwSX"
+                },
+                {
+                  "title": "To Fly: The Story of the Wright Brothers",
+                  "resourceId": "recXpaLmyOvWCmyDY"
+                },
+                {
+                  "title": "The Universe in You: A Microscopic Journey",
+                  "resourceId": "reccNpYrY3Ytle0Va"
+                }
               ]
             }
           ]

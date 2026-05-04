@@ -89,7 +89,10 @@
               "title": "Pre-Calculus: Part 2",
               "type": "topic",
               "books": [
-                "Home Study Companion: Precalculus"
+                {
+                  "title": "Home Study Companion: Precalculus",
+                  "resourceId": "recBToi9LtJZphztW"
+                }
               ]
             }
           ]

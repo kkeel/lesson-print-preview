@@ -85,7 +85,10 @@
               "title": "Dictation: Grade 4",
               "type": "topic",
               "books": [
-                "Grade 4 Copywork & Dictation Book"
+                {
+                  "title": "Grade 4 Copywork & Dictation Book",
+                  "resourceId": "reciqKDIhIkVxXOUO"
+                }
               ]
             }
           ]

@@ -99,9 +99,18 @@
               "title": "New Testament: Grade 12",
               "type": "topic",
               "books": [
-                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
-                "Introducing the New Testament: A Historical, Literary, and Theological Survey",
-                "Luke for Everyone"
+                {
+                  "title": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                  "resourceId": "rec2dOHvUHjbSY3hp"
+                },
+                {
+                  "title": "Introducing the New Testament: A Historical, Literary, and Theological Survey",
+                  "resourceId": "recCf5AATqTw3NSO9"
+                },
+                {
+                  "title": "Luke for Everyone",
+                  "resourceId": "rechRJi4On71uBS2o"
+                }
               ]
             }
           ]

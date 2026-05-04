@@ -152,25 +152,46 @@
               "title": "General Science: Grade 4",
               "type": "topic",
               "books": [
-                "The Elephant Scientist",
-                "To Fly: The Story of the Wright Brothers",
-                "The Universe in You: A Microscopic Journey"
+                {
+                  "title": "The Elephant Scientist",
+                  "resourceId": "rec8LPeMO6hmBBwSX"
+                },
+                {
+                  "title": "To Fly: The Story of the Wright Brothers",
+                  "resourceId": "recXpaLmyOvWCmyDY"
+                },
+                {
+                  "title": "The Universe in You: A Microscopic Journey",
+                  "resourceId": "reccNpYrY3Ytle0Va"
+                }
               ]
             },
             {
               "title": "Labs: Grade 4",
               "type": "topic",
               "books": [
-                "Science: Grade 4 Lab Book"
+                {
+                  "title": "Science: Grade 4 Lab Book",
+                  "resourceId": "recTwQ75ZKylB7WX9"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 4",
               "type": "topic",
               "books": [
-                "A World in a Drop of Water: Exploring with a Microscope",
-                "Life on Surtsey: Iceland's Upstart Island",
-                "The Octopus Scientists: Exploring the Mind of a Mollusk"
+                {
+                  "title": "A World in a Drop of Water: Exploring with a Microscope",
+                  "resourceId": "recRoaA5IiM7dt1v8"
+                },
+                {
+                  "title": "Life on Surtsey: Iceland's Upstart Island",
+                  "resourceId": "recjHCr0PzaAt8rew"
+                },
+                {
+                  "title": "The Octopus Scientists: Exploring the Mind of a Mollusk",
+                  "resourceId": "reco2a2kGq5C1tfcS"
+                }
               ]
             }
           ]

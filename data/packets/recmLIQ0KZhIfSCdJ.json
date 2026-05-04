@@ -91,11 +91,26 @@
               "title": "Upper Spanish: Level 5",
               "type": "course",
               "books": [
-                "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
-                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
-                "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
-                "Spanish: Level 5 Student Notebook",
-                "Spanish: Level 5 SoundCloud Playlist"
+                {
+                  "title": "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
+                  "resourceId": "rec161KeC2t6raqTC"
+                },
+                {
+                  "title": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                  "resourceId": "rec2ZcWvxi3oeBNF8"
+                },
+                {
+                  "title": "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
+                  "resourceId": "recD9GUSMdAWm2oVl"
+                },
+                {
+                  "title": "Spanish: Level 5 Student Notebook",
+                  "resourceId": "recTMDZJMuiwGA6Cd"
+                },
+                {
+                  "title": "Spanish: Level 5 SoundCloud Playlist",
+                  "resourceId": "recotvHfKcqxIU6CZ"
+                }
               ]
             }
           ]

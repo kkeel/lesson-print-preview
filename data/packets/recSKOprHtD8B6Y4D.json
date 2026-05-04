@@ -99,9 +99,18 @@
               "title": "Sol-fa: Level 1",
               "type": "topic",
               "books": [
-                "Our Work: Grades 1-2",
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Sol-fa Level 1 Audio Lessons"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Sol-fa Level 1 Audio Lessons",
+                  "resourceId": "recyk15DUV99BZJcY"
+                }
               ]
             }
           ]

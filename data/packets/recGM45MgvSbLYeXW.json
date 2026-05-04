@@ -81,7 +81,10 @@
               "title": "Mathematics: Grade 9 (Denison)",
               "type": "course",
               "books": [
-                "Denison Geometry"
+                {
+                  "title": "Denison Geometry",
+                  "resourceId": "rec0ZVdrknlTmB0G3"
+                }
               ]
             }
           ]

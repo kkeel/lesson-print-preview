@@ -85,7 +85,10 @@
               "title": "Geometry: Part 2",
               "type": "course",
               "books": [
-                "Geometry Curriculum Pack"
+                {
+                  "title": "Geometry Curriculum Pack",
+                  "resourceId": "rec21UKJaDd8DWlDr"
+                }
               ]
             }
           ]

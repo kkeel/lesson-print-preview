@@ -91,11 +91,26 @@
               "title": "Geography: Grade 8 (U.S.)",
               "type": "course",
               "books": [
-                "Student World Atlas 6th Ed.",
-                "United States Atlas 7th Ed.",
-                "This Strange Wilderness: The Life and Art of John James Audubon",
-                "Our States Have Crazy Shapes",
-                "Westward with Fremont: The Story of Solomon Carvalho"
+                {
+                  "title": "Student World Atlas 6th Ed.",
+                  "resourceId": "recM2Is6mCqMkBedP"
+                },
+                {
+                  "title": "United States Atlas 7th Ed.",
+                  "resourceId": "reczH8uwlnf97SywN"
+                },
+                {
+                  "title": "This Strange Wilderness: The Life and Art of John James Audubon",
+                  "resourceId": "rec8bGw3KV5IlTPZk"
+                },
+                {
+                  "title": "Our States Have Crazy Shapes",
+                  "resourceId": "recwzl5VxRwCjiojI"
+                },
+                {
+                  "title": "Westward with Fremont: The Story of Solomon Carvalho",
+                  "resourceId": "recfMUT3wdIeU0jAc"
+                }
               ]
             }
           ]

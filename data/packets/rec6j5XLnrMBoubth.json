@@ -135,9 +135,18 @@
               "title": "History of Lit: Grades 9-12",
               "type": "topic",
               "books": [
-                "American Literature",
-                "English Literature for Boys and Girls",
-                "History of Literature PDF"
+                {
+                  "title": "American Literature",
+                  "resourceId": "rec3R4IiED1XO1HFQ"
+                },
+                {
+                  "title": "English Literature for Boys and Girls",
+                  "resourceId": "rec0oGsLUHcktbS7b"
+                },
+                {
+                  "title": "History of Literature PDF",
+                  "resourceId": "rec0r9HNzoD6ModuC"
+                }
               ]
             }
           ]

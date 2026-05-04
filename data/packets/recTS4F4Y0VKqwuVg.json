@@ -99,12 +99,30 @@
               "title": "Astronomy Lessons",
               "type": "topic",
               "books": [
-                "100 Things to See in the Night Sky",
-                "The Last Stargazers",
-                "Astronomy Textbook",
-                "The Day Without Yesterday",
-                "The Crossroads of Science and Faith: Answers to Exercises",
-                "The Crossroads of Science and Faith: Astronomy Through a Christian Worldview"
+                {
+                  "title": "100 Things to See in the Night Sky",
+                  "resourceId": "rec0Kv3iVP2d80NNZ"
+                },
+                {
+                  "title": "The Last Stargazers",
+                  "resourceId": "recAUyXZpfAwxmXBm"
+                },
+                {
+                  "title": "Astronomy Textbook",
+                  "resourceId": "reckznAquMePx6jEp"
+                },
+                {
+                  "title": "The Day Without Yesterday",
+                  "resourceId": "recobirpr8L7BY3Vu"
+                },
+                {
+                  "title": "The Crossroads of Science and Faith: Answers to Exercises",
+                  "resourceId": "recRSp4uLO4UKUImi"
+                },
+                {
+                  "title": "The Crossroads of Science and Faith: Astronomy Through a Christian Worldview",
+                  "resourceId": "recw4Dmok7wxnXcXe"
+                }
               ]
             }
           ]

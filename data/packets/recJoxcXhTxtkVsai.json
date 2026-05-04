@@ -122,14 +122,20 @@
               "title": "Classic Lit.: Grade 2",
               "type": "topic",
               "books": [
-                "Pilgrim's Progress: Updated, Modern English"
+                {
+                  "title": "Pilgrim's Progress: Updated, Modern English",
+                  "resourceId": "recJGvkeytuYA6Noo"
+                }
               ]
             },
             {
               "title": "Mythology: Grade 2",
               "type": "topic",
               "books": [
-                "A Wonder Book for Girls and Boys"
+                {
+                  "title": "A Wonder Book for Girls and Boys",
+                  "resourceId": "rechRuS8zVr1DHOaD"
+                }
               ]
             }
           ]

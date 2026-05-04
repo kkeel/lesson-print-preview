@@ -89,9 +89,18 @@
               "title": "Grammar/Comp: Grade 7",
               "type": "topic",
               "books": [
-                "Paragraph Town",
-                "Practice Town",
-                "Practice Town Teacher Manual (select pages)"
+                {
+                  "title": "Paragraph Town",
+                  "resourceId": "rec7YiIdnVzoA4k8L"
+                },
+                {
+                  "title": "Practice Town",
+                  "resourceId": "recEx5DD52x56YiGs"
+                },
+                {
+                  "title": "Practice Town Teacher Manual (select pages)",
+                  "resourceId": "recKxPfKgd4LT9wqz"
+                }
               ]
             }
           ]

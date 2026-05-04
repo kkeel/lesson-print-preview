@@ -89,7 +89,10 @@
               "title": "Handicrafts",
               "type": "course",
               "books": [
-                "The Ultimate Sashiko Sourcebook"
+                {
+                  "title": "The Ultimate Sashiko Sourcebook",
+                  "resourceId": "recBZIgHqJbgulcIt"
+                }
               ]
             }
           ]

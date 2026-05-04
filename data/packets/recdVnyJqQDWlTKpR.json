@@ -91,9 +91,18 @@
               "title": "Latin 3",
               "type": "course",
               "books": [
-                "Cambridge Latin Unit 3 Online Resources",
-                "North American Cambridge Latin Unit 3 5th Ed.",
-                "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)"
+                {
+                  "title": "Cambridge Latin Unit 3 Online Resources",
+                  "resourceId": "rechaqMfPgDGQqTt3"
+                },
+                {
+                  "title": "North American Cambridge Latin Unit 3 5th Ed.",
+                  "resourceId": "recaycKF6loJo1JNW"
+                },
+                {
+                  "title": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)",
+                  "resourceId": "recHpEWdHnkOVtfCD"
+                }
               ]
             }
           ]

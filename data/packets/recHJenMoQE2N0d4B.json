@@ -99,7 +99,10 @@
               "title": "Math Lessons: Grade 1",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level A 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level A 2nd Ed. Book Bundle",
+                  "resourceId": "recQvstPzymVJNX0O"
+                }
               ]
             }
           ]

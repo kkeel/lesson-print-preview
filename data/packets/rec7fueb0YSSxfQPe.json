@@ -143,16 +143,28 @@
               "title": "General Science: Grade 3",
               "type": "topic",
               "books": [
-                "Buzztail and Leaper",
-                "Next Time You See a Cloud",
-                "Going Home"
+                {
+                  "title": "Buzztail and Leaper",
+                  "resourceId": "recCW1Ucx7oi7uus5"
+                },
+                {
+                  "title": "Next Time You See a Cloud",
+                  "resourceId": "recM4XypWWS1uZmQY"
+                },
+                {
+                  "title": "Going Home",
+                  "resourceId": "rec6q3iZ8glaNQlty"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 3",
               "type": "topic",
               "books": [
-                "Christian Liberty Nature Reader Book 4"
+                {
+                  "title": "Christian Liberty Nature Reader Book 4",
+                  "resourceId": "recoHbr1BKFlCOFfZ"
+                }
               ]
             }
           ]

@@ -107,10 +107,22 @@
               "title": "Chemistry Lessons",
               "type": "topic",
               "books": [
-                "HS Chem Intro",
-                "Introductory Chemistry: A Foundation",
-                "Michael Faraday's The Chemical History of a Candle",
-                "The Chemical Elements Coloring and Activity Book"
+                {
+                  "title": "HS Chem Intro",
+                  "resourceId": "recfIZtA1mbEFnrmJ"
+                },
+                {
+                  "title": "Introductory Chemistry: A Foundation",
+                  "resourceId": "recDCnlgkFAGqBAI0"
+                },
+                {
+                  "title": "Michael Faraday's The Chemical History of a Candle",
+                  "resourceId": "reccWaFe2ts34p39C"
+                },
+                {
+                  "title": "The Chemical Elements Coloring and Activity Book",
+                  "resourceId": "recgQOYYOZx0SfBAI"
+                }
               ]
             }
           ]

@@ -85,7 +85,10 @@
               "title": "Dictation: Grade 7",
               "type": "topic",
               "books": [
-                "Grade 7 Copywork & Dictation Book"
+                {
+                  "title": "Grade 7 Copywork & Dictation Book",
+                  "resourceId": "reczjR5Ti2xYJF1XT"
+                }
               ]
             }
           ]

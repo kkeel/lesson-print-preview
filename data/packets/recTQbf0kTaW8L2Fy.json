@@ -89,9 +89,18 @@
               "title": "Penmanship & Copywork: Grade 4",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book E",
-                "Italics: Beautiful Handwriting for Children",
-                "Grade 4 Copywork & Dictation Book"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book E",
+                  "resourceId": "reco8HagW7t2d39q3"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                },
+                {
+                  "title": "Grade 4 Copywork & Dictation Book",
+                  "resourceId": "reciqKDIhIkVxXOUO"
+                }
               ]
             }
           ]

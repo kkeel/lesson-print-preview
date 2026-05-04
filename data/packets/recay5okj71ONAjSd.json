@@ -111,7 +111,10 @@
               "title": "Playground Games",
               "type": "topic",
               "books": [
-                "The Ultimate Homeschool Physical Education Game Book"
+                {
+                  "title": "The Ultimate Homeschool Physical Education Game Book",
+                  "resourceId": "recO7o2cHORX18JsY"
+                }
               ]
             }
           ]

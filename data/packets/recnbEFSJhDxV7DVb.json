@@ -107,14 +107,38 @@
               "title": "Food Science Lessons",
               "type": "topic",
               "books": [
-                "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
-                "The Elements of Baking",
-                "Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island",
-                "Mexico in Your Kitchen",
-                "Classic Russian Cooking",
-                "Pomp and Sustenance",
-                "Celtic Folklore Cooking",
-                "Culinary Reactions: The Everyday Chemistry of Cooking"
+                {
+                  "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+                  "resourceId": "rec8XGWgtVYl2kw7Q"
+                },
+                {
+                  "title": "The Elements of Baking",
+                  "resourceId": "recegZ7cOGrgBhgVM"
+                },
+                {
+                  "title": "Gullah Geechee Home Cooking: Recipes from the Matriarch of Edisto Island",
+                  "resourceId": "recFPvGjmMX7dg0XZ"
+                },
+                {
+                  "title": "Mexico in Your Kitchen",
+                  "resourceId": "recto6IC7E6gd219E"
+                },
+                {
+                  "title": "Classic Russian Cooking",
+                  "resourceId": "recSTb7BTScbNvJpy"
+                },
+                {
+                  "title": "Pomp and Sustenance",
+                  "resourceId": "recG9qqgZZKeR0Omd"
+                },
+                {
+                  "title": "Celtic Folklore Cooking",
+                  "resourceId": "recs5cmpYAIy1Dpkn"
+                },
+                {
+                  "title": "Culinary Reactions: The Everyday Chemistry of Cooking",
+                  "resourceId": "rec4UoRoJ7Tldyt0J"
+                }
               ]
             }
           ]

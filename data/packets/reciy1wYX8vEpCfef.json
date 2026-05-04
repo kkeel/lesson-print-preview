@@ -95,10 +95,22 @@
               "title": "Art: High School Fast Track",
               "type": "course",
               "books": [
-                "Drawing, Design, and Craft-Work",
-                "Color: A Course in Mastering the Art of Mixing Colors",
-                "Brush Drawing as Applied to Natural Forms and Common Objects",
-                "Brushwork: Elementary Brush-Forms"
+                {
+                  "title": "Drawing, Design, and Craft-Work",
+                  "resourceId": "reckOxbera0wklAAL"
+                },
+                {
+                  "title": "Color: A Course in Mastering the Art of Mixing Colors",
+                  "resourceId": "recDqaL6IXqwNBlne"
+                },
+                {
+                  "title": "Brush Drawing as Applied to Natural Forms and Common Objects",
+                  "resourceId": "recwJkZ5CLtc1nVnK"
+                },
+                {
+                  "title": "Brushwork: Elementary Brush-Forms",
+                  "resourceId": "reclKLlJyBA0R51tK"
+                }
               ]
             }
           ]

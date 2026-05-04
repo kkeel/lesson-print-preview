@@ -91,10 +91,22 @@
               "title": "Geography: Grade 12",
               "type": "course",
               "books": [
-                "Five Months on the Missouri River: Paddling a Dugout Canoe",
-                "Across This Land",
-                "Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs",
-                "A Brief History of the World in 47 Borders: Surprising Stories Behind the Lines on Our Maps"
+                {
+                  "title": "Five Months on the Missouri River: Paddling a Dugout Canoe",
+                  "resourceId": "recxIWRWjRxnwOFwE"
+                },
+                {
+                  "title": "Across This Land",
+                  "resourceId": "recPpoj6L1jUeCKYX"
+                },
+                {
+                  "title": "Sufferings in Africa: The Astonishing Account of a New England Sea Captain Enslaved by North African Arabs",
+                  "resourceId": "recYeQBekvdnlRqqi"
+                },
+                {
+                  "title": "A Brief History of the World in 47 Borders: Surprising Stories Behind the Lines on Our Maps",
+                  "resourceId": "recyTdfyRcbMebPU6"
+                }
               ]
             }
           ]

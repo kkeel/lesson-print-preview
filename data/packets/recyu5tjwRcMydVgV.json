@@ -91,10 +91,22 @@
               "title": "Geography: Grade 7 (U.S.)",
               "type": "course",
               "books": [
-                "Mapping the World with Art",
-                "United States Atlas 7th Ed.",
-                "Student World Atlas 6th Ed.",
-                "This Strange Wilderness: The Life and Art of John James Audubon"
+                {
+                  "title": "Mapping the World with Art",
+                  "resourceId": "rec79eHxNjF5Uhcgx"
+                },
+                {
+                  "title": "United States Atlas 7th Ed.",
+                  "resourceId": "reczH8uwlnf97SywN"
+                },
+                {
+                  "title": "Student World Atlas 6th Ed.",
+                  "resourceId": "recM2Is6mCqMkBedP"
+                },
+                {
+                  "title": "This Strange Wilderness: The Life and Art of John James Audubon",
+                  "resourceId": "rec8bGw3KV5IlTPZk"
+                }
               ]
             }
           ]

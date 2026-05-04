@@ -146,38 +146,62 @@
               "title": "Music: Level 1",
               "type": "course",
               "books": [
-                "Our Work: Grades 1-2",
-                "Hymns, Spirituals, & Folk Songs PDF"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                }
               ]
             },
             {
               "title": "Hymns & Spirituals",
               "type": "topic",
               "books": [
-                "Our Hymns, Our Heritage"
+                {
+                  "title": "Our Hymns, Our Heritage",
+                  "resourceId": "recDLRBTspENoopYR"
+                }
               ]
             },
             {
               "title": "Folk Songs",
               "type": "topic",
               "books": [
-                "Like a Bird: The Art of the American Slave Song"
+                {
+                  "title": "Like a Bird: The Art of the American Slave Song",
+                  "resourceId": "recPb5gHeLu8G3EXl"
+                }
               ]
             },
             {
               "title": "Composer Study",
               "type": "topic",
               "books": [
-                "Playlist for the Year",
-                "Mussorgsky's Pictures at an Exhibition",
-                "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins"
+                {
+                  "title": "Playlist for the Year",
+                  "resourceId": "recpKgqZdLHd9C6gr"
+                },
+                {
+                  "title": "Mussorgsky's Pictures at an Exhibition",
+                  "resourceId": "rec4HK1TtsMfh9Dp0"
+                },
+                {
+                  "title": "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins",
+                  "resourceId": "recg3YhtkOzEkOEGt"
+                }
               ]
             },
             {
               "title": "Sol-fa: Level 1",
               "type": "topic",
               "books": [
-                "Sol-fa Level 1 Audio Lessons"
+                {
+                  "title": "Sol-fa Level 1 Audio Lessons",
+                  "resourceId": "recyk15DUV99BZJcY"
+                }
               ]
             }
           ]

@@ -91,11 +91,26 @@
               "title": "Upper Spanish: Level 3",
               "type": "course",
               "books": [
-                "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
-                "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
-                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
-                "Spanish: Level 3 Student Notebook",
-                "Spanish: Level 3 SoundCloud Playlist"
+                {
+                  "title": "Cuentos que contaban nuestras abuelas (Tales Our Abuelitas Told)",
+                  "resourceId": "rec161KeC2t6raqTC"
+                },
+                {
+                  "title": "Tales Our Abuelitas Told: A Hispanic Folktale Collection",
+                  "resourceId": "recD9GUSMdAWm2oVl"
+                },
+                {
+                  "title": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                  "resourceId": "rec2ZcWvxi3oeBNF8"
+                },
+                {
+                  "title": "Spanish: Level 3 Student Notebook",
+                  "resourceId": "recdthy0D88wTg20J"
+                },
+                {
+                  "title": "Spanish: Level 3 SoundCloud Playlist",
+                  "resourceId": "recH73GIuTlNETDvS"
+                }
               ]
             }
           ]

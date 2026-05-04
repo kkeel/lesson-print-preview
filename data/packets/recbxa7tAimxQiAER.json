@@ -142,37 +142,58 @@
               "title": "Music: Intro",
               "type": "course",
               "books": [
-                "Our Work: Grades 1-2",
-                "Hymns, Spirituals, & Folk Songs PDF"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                }
               ]
             },
             {
               "title": "Music Appreciation",
               "type": "topic",
               "books": [
-                "A Child's Introduction to the Orchestra",
-                "Playlist for Afternoon Listening and Selected Lessons"
+                {
+                  "title": "A Child's Introduction to the Orchestra",
+                  "resourceId": "recwSXrQ9crAhXWV3"
+                },
+                {
+                  "title": "Playlist for Afternoon Listening and Selected Lessons",
+                  "resourceId": "recZIPkbviVxbx1TC"
+                }
               ]
             },
             {
               "title": "Hymns & Spirituals",
               "type": "topic",
               "books": [
-                "Our Hymns, Our Heritage"
+                {
+                  "title": "Our Hymns, Our Heritage",
+                  "resourceId": "recDLRBTspENoopYR"
+                }
               ]
             },
             {
               "title": "Folk Songs",
               "type": "topic",
               "books": [
-                "Like a Bird: The Art of the American Slave Song"
+                {
+                  "title": "Like a Bird: The Art of the American Slave Song",
+                  "resourceId": "recPb5gHeLu8G3EXl"
+                }
               ]
             },
             {
               "title": "Sol-fa: Musical Games",
               "type": "topic",
               "books": [
-                "Musical Games Playlist"
+                {
+                  "title": "Musical Games Playlist",
+                  "resourceId": "recoemutvxjrSGUVb"
+                }
               ]
             }
           ]

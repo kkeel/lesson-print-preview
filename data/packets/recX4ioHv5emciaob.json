@@ -81,7 +81,10 @@
               "title": "Mathematics: Grade 11 (Denison)",
               "type": "course",
               "books": [
-                "Denison Advanced Algebra & Trigonometry"
+                {
+                  "title": "Denison Advanced Algebra & Trigonometry",
+                  "resourceId": "recxnDz0ki1uwmVJJ"
+                }
               ]
             }
           ]

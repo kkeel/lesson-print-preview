@@ -103,7 +103,10 @@
               "title": "Labs: Grade 7",
               "type": "topic",
               "books": [
-                "Science: Grade 7 Lab Book"
+                {
+                  "title": "Science: Grade 7 Lab Book",
+                  "resourceId": "recqjGUmdZW03rnih"
+                }
               ]
             }
           ]

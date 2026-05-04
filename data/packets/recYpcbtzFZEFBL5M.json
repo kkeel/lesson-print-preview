@@ -99,8 +99,14 @@
               "title": "First Citizen Stories",
               "type": "topic",
               "books": [
-                "Stories From the History of Rome",
-                "Historical Atlas of the World 6th Ed."
+                {
+                  "title": "Stories From the History of Rome",
+                  "resourceId": "recxfzP2djr76WzJM"
+                },
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                }
               ]
             }
           ]

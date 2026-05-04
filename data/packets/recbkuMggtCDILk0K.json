@@ -99,10 +99,22 @@
               "title": "Grammar: Grade 6",
               "type": "topic",
               "books": [
-                "Grammar Town",
-                "Grammar Town Teacher Manual (select pages)",
-                "Practice Town",
-                "Practice Town Teacher Manual (select pages)"
+                {
+                  "title": "Grammar Town",
+                  "resourceId": "recveVK0ir0vpin9Z"
+                },
+                {
+                  "title": "Grammar Town Teacher Manual (select pages)",
+                  "resourceId": "recGIofb7rFuTOhyP"
+                },
+                {
+                  "title": "Practice Town",
+                  "resourceId": "recEx5DD52x56YiGs"
+                },
+                {
+                  "title": "Practice Town Teacher Manual (select pages)",
+                  "resourceId": "recKxPfKgd4LT9wqz"
+                }
               ]
             }
           ]

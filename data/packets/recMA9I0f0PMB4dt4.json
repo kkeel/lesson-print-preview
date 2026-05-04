@@ -99,9 +99,18 @@
               "title": "General Lit: Grades 7-8",
               "type": "topic",
               "books": [
-                "Little Women",
-                "Sir Gibbie",
-                "Narrative of the Life of Frederick Douglass"
+                {
+                  "title": "Little Women",
+                  "resourceId": "rec8oemEyLSCeLUEf"
+                },
+                {
+                  "title": "Sir Gibbie",
+                  "resourceId": "recZ0OYAiZwPqvz9K"
+                },
+                {
+                  "title": "Narrative of the Life of Frederick Douglass",
+                  "resourceId": "recj4Gq2c9BzAopg7"
+                }
               ]
             }
           ]

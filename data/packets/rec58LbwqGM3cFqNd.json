@@ -91,9 +91,18 @@
               "title": "Geography: Grade 3 (Canada)",
               "type": "course",
               "books": [
-                "The Kids Book of Canada",
-                "My Canada: An Illustrated Atlas",
-                "Canada Wild: Animals Found Nowhere Else on Earth"
+                {
+                  "title": "The Kids Book of Canada",
+                  "resourceId": "recgECwMa1pjs2VnL"
+                },
+                {
+                  "title": "My Canada: An Illustrated Atlas",
+                  "resourceId": "recWe8BWvLumLf1DA"
+                },
+                {
+                  "title": "Canada Wild: Animals Found Nowhere Else on Earth",
+                  "resourceId": "recXRFY35nX9sYw2c"
+                }
               ]
             }
           ]

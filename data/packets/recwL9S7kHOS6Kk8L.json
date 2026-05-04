@@ -119,9 +119,18 @@
               "title": "Ancient History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Early Christian Writings: The Apostolic Fathers edited",
-                "Ancient Empires: From Mesopotamia to the Rise of Islam",
-                "Christians Reading Classics"
+                {
+                  "title": "Early Christian Writings: The Apostolic Fathers edited",
+                  "resourceId": "recoFvjqG1jIB2ykI"
+                },
+                {
+                  "title": "Ancient Empires: From Mesopotamia to the Rise of Islam",
+                  "resourceId": "rec8mOKj4a0LVWl1U"
+                },
+                {
+                  "title": "Christians Reading Classics",
+                  "resourceId": "rec5xfKBz756Opt41"
+                }
               ]
             }
           ]

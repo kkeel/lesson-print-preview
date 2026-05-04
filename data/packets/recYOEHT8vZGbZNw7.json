@@ -107,7 +107,10 @@
               "title": "Labs: Grade 6",
               "type": "topic",
               "books": [
-                "Science: Grade 6 Lab Book"
+                {
+                  "title": "Science: Grade 6 Lab Book",
+                  "resourceId": "rec6cSvtXvrxeShOA"
+                }
               ]
             }
           ]

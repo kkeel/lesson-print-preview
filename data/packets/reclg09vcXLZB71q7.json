@@ -111,12 +111,30 @@
               "title": "General Lit.: Grades 9-10",
               "type": "topic",
               "books": [
-                "Frankenstein",
-                "Silas Marner",
-                "Narrative of the Life of Frederick Douglass",
-                "The Souls of Black Folk",
-                "Up from Slavery",
-                "Short stories and other writings"
+                {
+                  "title": "Frankenstein",
+                  "resourceId": "reciRGkxdaxMGvbhs"
+                },
+                {
+                  "title": "Silas Marner",
+                  "resourceId": "rec1NKKmsNNGhM6XQ"
+                },
+                {
+                  "title": "Narrative of the Life of Frederick Douglass",
+                  "resourceId": "recj4Gq2c9BzAopg7"
+                },
+                {
+                  "title": "The Souls of Black Folk",
+                  "resourceId": "recytZRsUSyyVb2eS"
+                },
+                {
+                  "title": "Up from Slavery",
+                  "resourceId": "reczCr29zRWEiJ53Q"
+                },
+                {
+                  "title": "Short stories and other writings",
+                  "resourceId": "recRAjWrl2CLPferr"
+                }
               ]
             }
           ]

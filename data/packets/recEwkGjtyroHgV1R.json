@@ -91,9 +91,18 @@
               "title": "Latin 2 (Video Course)",
               "type": "course",
               "books": [
-                "Alveary Exclusive Cambridge Latin Unit 2 Online Course",
-                "North American Cambridge Latin Unit 2 5th Ed. Student Book",
-                "Lars Romam Odit: A Latin Novella"
+                {
+                  "title": "Alveary Exclusive Cambridge Latin Unit 2 Online Course",
+                  "resourceId": "recaBiM7Fu8VUedfd"
+                },
+                {
+                  "title": "North American Cambridge Latin Unit 2 5th Ed. Student Book",
+                  "resourceId": "recbZP18lAHr7w9XS"
+                },
+                {
+                  "title": "Lars Romam Odit: A Latin Novella",
+                  "resourceId": "recjwj2WvsmAuZZ3r"
+                }
               ]
             }
           ]

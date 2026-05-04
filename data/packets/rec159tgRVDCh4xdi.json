@@ -85,8 +85,14 @@
               "title": "Poetry Study: Grade 11",
               "type": "course",
               "books": [
-                "The Word Made Fresh",
-                "Poetry Anthology"
+                {
+                  "title": "The Word Made Fresh",
+                  "resourceId": "recHnNaWYDRO6RSft"
+                },
+                {
+                  "title": "Poetry Anthology",
+                  "resourceId": "recotFEF8hsyYtMqC"
+                }
               ]
             }
           ]

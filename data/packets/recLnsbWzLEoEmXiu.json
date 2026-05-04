@@ -85,7 +85,10 @@
               "title": "Microbiology Labs",
               "type": "topic",
               "books": [
-                "Illustrated Guide to Home Biology Experiments"
+                {
+                  "title": "Illustrated Guide to Home Biology Experiments",
+                  "resourceId": "rec3l9V2jvKLEyrAJ"
+                }
               ]
             }
           ]

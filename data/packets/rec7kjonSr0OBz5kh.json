@@ -95,9 +95,18 @@
               "title": "Latin 1 (Independent Study)",
               "type": "course",
               "books": [
-                "Cambridge Latin Unit 1 Online Resources",
-                "North American Cambridge Latin Unit 1 5th Ed. Student Book",
-                "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)"
+                {
+                  "title": "Cambridge Latin Unit 1 Online Resources",
+                  "resourceId": "reco1AVxRQoX4LDCP"
+                },
+                {
+                  "title": "North American Cambridge Latin Unit 1 5th Ed. Student Book",
+                  "resourceId": "rec9bb4GaH8Ii0X9p"
+                },
+                {
+                  "title": "Cambridge Latin Units 1-4 Teacher Manual (1 Year Digital Access)",
+                  "resourceId": "recHpEWdHnkOVtfCD"
+                }
               ]
             }
           ]

@@ -109,9 +109,18 @@
               "title": "World History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Blood and Iron: The Rise and Fall of the German Empire",
-                "When America First Met China",
-                "Erebus: The Story of a Ship"
+                {
+                  "title": "Blood and Iron: The Rise and Fall of the German Empire",
+                  "resourceId": "recfhEICVStPgotwB"
+                },
+                {
+                  "title": "When America First Met China",
+                  "resourceId": "recTJd5zTm3syYIlP"
+                },
+                {
+                  "title": "Erebus: The Story of a Ship",
+                  "resourceId": "rec7z1NO1PuxPcgfP"
+                }
               ]
             }
           ]

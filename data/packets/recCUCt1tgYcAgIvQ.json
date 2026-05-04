@@ -126,24 +126,42 @@
               "title": "Grammar/Comp: Grade 8",
               "type": "topic",
               "books": [
-                "Grammar Voyage",
-                "Grammar Voyage Teacher Manual (select pages)",
-                "Practice Voyage",
-                "Practice Voyage Teacher Manual (select pages)"
+                {
+                  "title": "Grammar Voyage",
+                  "resourceId": "recim0ZAxuz3BnWRQ"
+                },
+                {
+                  "title": "Grammar Voyage Teacher Manual (select pages)",
+                  "resourceId": "recj1i1Qyn8S5kv9z"
+                },
+                {
+                  "title": "Practice Voyage",
+                  "resourceId": "recdDqzEBmeByYg2e"
+                },
+                {
+                  "title": "Practice Voyage Teacher Manual (select pages)",
+                  "resourceId": "recWzVT4NVDo1FmpN"
+                }
               ]
             },
             {
               "title": "Dictation: Grade 8",
               "type": "topic",
               "books": [
-                "Grade 8 Copywork & Dictation Book"
+                {
+                  "title": "Grade 8 Copywork & Dictation Book",
+                  "resourceId": "rec6KhfiWqAzNZXzE"
+                }
               ]
             },
             {
               "title": "Copywork: Grade 8",
               "type": "topic",
               "books": [
-                "Grade 8 Copywork & Dictation Book"
+                {
+                  "title": "Grade 8 Copywork & Dictation Book",
+                  "resourceId": "rec6KhfiWqAzNZXzE"
+                }
               ]
             }
           ]

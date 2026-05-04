@@ -135,11 +135,26 @@
               "title": "Introduction to Engineering Lessons",
               "type": "topic",
               "books": [
-                "The Things We Make",
-                "The Boy Who Harnessed the Wind",
-                "The Boy Who Harnessed the Wind, Young Reader's Edition",
-                "The Way Things Work: Newly Revised Edition: The Ultimate Guide to How Things Work",
-                "By Design: Ethics, Theology, and the Practice of Engineering"
+                {
+                  "title": "The Things We Make",
+                  "resourceId": "recPvkYZCgdMgjc5F"
+                },
+                {
+                  "title": "The Boy Who Harnessed the Wind",
+                  "resourceId": "recQ1U2LYx0bJOPrc"
+                },
+                {
+                  "title": "The Boy Who Harnessed the Wind, Young Reader's Edition",
+                  "resourceId": "reclCiCAHqfLzR2iO"
+                },
+                {
+                  "title": "The Way Things Work: Newly Revised Edition: The Ultimate Guide to How Things Work",
+                  "resourceId": "recO65PpJVUhYm4wS"
+                },
+                {
+                  "title": "By Design: Ethics, Theology, and the Practice of Engineering",
+                  "resourceId": "recAvrwNnkmvBUV1x"
+                }
               ]
             }
           ]

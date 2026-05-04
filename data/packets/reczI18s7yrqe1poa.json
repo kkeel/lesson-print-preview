@@ -149,13 +149,34 @@
               "title": "Hymns & Spirituals",
               "type": "topic",
               "books": [
-                "Our Work: Grades 1-2",
-                "Our Work: Grade 3",
-                "Our Work: Grades 4-6",
-                "Our Work: Grades 7-8",
-                "Our Work: Grades 9-12",
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Our Hymns, Our Heritage"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                },
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                },
+                {
+                  "title": "Our Work: Grades 7-8",
+                  "resourceId": "recsfooztY1xN2Ukk"
+                },
+                {
+                  "title": "Our Work: Grades 9-12",
+                  "resourceId": "recsNwud3Tci78Te8"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Our Hymns, Our Heritage",
+                  "resourceId": "recDLRBTspENoopYR"
+                }
               ]
             }
           ]

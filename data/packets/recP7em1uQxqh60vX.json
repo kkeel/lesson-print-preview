@@ -144,23 +144,38 @@
               "title": "Plutarch: Grades 6-8",
               "type": "topic",
               "books": [
-                "Historical Atlas of the World 6th Ed.",
-                "The Plutarch Project Volume Three (Revised)"
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                },
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                }
               ]
             },
             {
               "title": "Canadian Gov./ Economics: Grade 8",
               "type": "topic",
               "books": [
-                "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
-                "Canada's Constitutional Monarchy"
+                {
+                  "title": "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
+                  "resourceId": "rec7v5wfeY2lC55Vq"
+                },
+                {
+                  "title": "Canada's Constitutional Monarchy",
+                  "resourceId": "rec3jFPfyFSqt2mGU"
+                }
               ]
             },
             {
               "title": "Ethics: Part 2",
               "type": "topic",
               "books": [
-                "Ourselves: Book 1"
+                {
+                  "title": "Ourselves: Book 1",
+                  "resourceId": "recLHdhKMfjC9IAKG"
+                }
               ]
             }
           ]

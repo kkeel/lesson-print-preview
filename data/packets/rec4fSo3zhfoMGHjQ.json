@@ -95,7 +95,10 @@
               "title": "Sewing: Level 2",
               "type": "course",
               "books": [
-                "The Amazing Stitching Handbook for Kids: 17 Embroidery Stitches"
+                {
+                  "title": "The Amazing Stitching Handbook for Kids: 17 Embroidery Stitches",
+                  "resourceId": "recvU9fKQ6yED22ln"
+                }
               ]
             }
           ]

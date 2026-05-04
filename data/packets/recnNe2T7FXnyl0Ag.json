@@ -135,26 +135,50 @@
               "title": "Grammar: Grade 6",
               "type": "topic",
               "books": [
-                "Grammar Town",
-                "Grammar Town Teacher Manual (select pages)",
-                "Practice Town",
-                "Practice Town Teacher Manual (select pages)"
+                {
+                  "title": "Grammar Town",
+                  "resourceId": "recveVK0ir0vpin9Z"
+                },
+                {
+                  "title": "Grammar Town Teacher Manual (select pages)",
+                  "resourceId": "recGIofb7rFuTOhyP"
+                },
+                {
+                  "title": "Practice Town",
+                  "resourceId": "recEx5DD52x56YiGs"
+                },
+                {
+                  "title": "Practice Town Teacher Manual (select pages)",
+                  "resourceId": "recKxPfKgd4LT9wqz"
+                }
               ]
             },
             {
               "title": "Dictation: Grade 6",
               "type": "topic",
               "books": [
-                "Grade 6 Copywork & Dictation Book"
+                {
+                  "title": "Grade 6 Copywork & Dictation Book",
+                  "resourceId": "recAUDZpOAGF0JSEx"
+                }
               ]
             },
             {
               "title": "Penmanship & Copywork: Grade 6",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book G",
-                "Italics: Beautiful Handwriting for Children",
-                "Grade 6 Copywork & Dictation Book"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book G",
+                  "resourceId": "recNpgl3kdX6Kb25n"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                },
+                {
+                  "title": "Grade 6 Copywork & Dictation Book",
+                  "resourceId": "recAUDZpOAGF0JSEx"
+                }
               ]
             }
           ]

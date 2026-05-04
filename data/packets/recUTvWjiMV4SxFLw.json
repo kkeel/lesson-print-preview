@@ -99,7 +99,10 @@
               "title": "Plutarch: Beginner Track",
               "type": "topic",
               "books": [
-                "The Plutarch Project Primer: Publicola (Revised)"
+                {
+                  "title": "The Plutarch Project Primer: Publicola (Revised)",
+                  "resourceId": "recgUVxPoomptWyyL"
+                }
               ]
             }
           ]

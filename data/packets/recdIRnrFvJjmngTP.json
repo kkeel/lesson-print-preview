@@ -95,7 +95,10 @@
               "title": "Sloyd: Level 2",
               "type": "course",
               "books": [
-                "Paper Sloyd for Primary Grades"
+                {
+                  "title": "Paper Sloyd for Primary Grades",
+                  "resourceId": "recDOxrwbokPqQmAn"
+                }
               ]
             }
           ]

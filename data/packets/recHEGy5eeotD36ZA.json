@@ -95,8 +95,14 @@
               "title": "Church History: Grades 4-6",
               "type": "topic",
               "books": [
-                "Hudson Taylor: Deep in the Heart of China",
-                "Trial by Poison: Mary Slessor"
+                {
+                  "title": "Hudson Taylor: Deep in the Heart of China",
+                  "resourceId": "rec6thjeweXRTy0W4"
+                },
+                {
+                  "title": "Trial by Poison: Mary Slessor",
+                  "resourceId": "reccf0OS9kMw44dw3"
+                }
               ]
             }
           ]

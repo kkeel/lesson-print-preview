@@ -99,7 +99,10 @@
               "title": "American Government: Grade 7",
               "type": "topic",
               "books": [
-                "Your Rugged Constitution"
+                {
+                  "title": "Your Rugged Constitution",
+                  "resourceId": "recM99PeNDdcQd2s6"
+                }
               ]
             }
           ]

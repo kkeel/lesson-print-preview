@@ -91,9 +91,18 @@
               "title": "Upper Spanish: Level 2",
               "type": "course",
               "books": [
-                "Spanish: Level 2 SoundCloud Playlist",
-                "Spanish: Level 2 Student Notebook",
-                "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists"
+                {
+                  "title": "Spanish: Level 2 SoundCloud Playlist",
+                  "resourceId": "rec4suFaNFzMlYJxm"
+                },
+                {
+                  "title": "Spanish: Level 2 Student Notebook",
+                  "resourceId": "recFMynVXDgIBOrQQ"
+                },
+                {
+                  "title": "The Tree is Older Than You Are: A Bilingual Gathering of Poems & Stories from Mexico with Paintings by Mexican Artists",
+                  "resourceId": "rec2ZcWvxi3oeBNF8"
+                }
               ]
             }
           ]

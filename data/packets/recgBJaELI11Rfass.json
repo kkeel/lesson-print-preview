@@ -95,7 +95,10 @@
               "title": "Recitation: Grades 7-8",
               "type": "course",
               "books": [
-                "Our Work: Grades 7-8"
+                {
+                  "title": "Our Work: Grades 7-8",
+                  "resourceId": "recsfooztY1xN2Ukk"
+                }
               ]
             }
           ]

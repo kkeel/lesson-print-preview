@@ -135,26 +135,50 @@
               "title": "Grammar: Grade 4",
               "type": "topic",
               "books": [
-                "Grammar Island",
-                "Grammar Island Teacher Manual (select pages)",
-                "Practice Island",
-                "Practice Island Teacher Manual (select pages)"
+                {
+                  "title": "Grammar Island",
+                  "resourceId": "recwddF7OH9npEw4T"
+                },
+                {
+                  "title": "Grammar Island Teacher Manual (select pages)",
+                  "resourceId": "rec3W8YQRGh3Y0Ngw"
+                },
+                {
+                  "title": "Practice Island",
+                  "resourceId": "recDIMibbBO5QhCKe"
+                },
+                {
+                  "title": "Practice Island Teacher Manual (select pages)",
+                  "resourceId": "reccU99bZdaACFHLh"
+                }
               ]
             },
             {
               "title": "Dictation: Grade 4",
               "type": "topic",
               "books": [
-                "Grade 4 Copywork & Dictation Book"
+                {
+                  "title": "Grade 4 Copywork & Dictation Book",
+                  "resourceId": "reciqKDIhIkVxXOUO"
+                }
               ]
             },
             {
               "title": "Penmanship & Copywork: Grade 4",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book E",
-                "Italics: Beautiful Handwriting for Children",
-                "Grade 4 Copywork & Dictation Book"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book E",
+                  "resourceId": "reco8HagW7t2d39q3"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                },
+                {
+                  "title": "Grade 4 Copywork & Dictation Book",
+                  "resourceId": "reciqKDIhIkVxXOUO"
+                }
               ]
             }
           ]

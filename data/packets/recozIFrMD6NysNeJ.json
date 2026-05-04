@@ -95,8 +95,14 @@
               "title": "Geography: Grade 9",
               "type": "course",
               "books": [
-                "Prisoners of Geography: Ten Maps That Explain Everything About the World",
-                "Five Months on the Missouri River: Paddling a Dugout Canoe"
+                {
+                  "title": "Prisoners of Geography: Ten Maps That Explain Everything About the World",
+                  "resourceId": "recdpI4ahVVWp6pk9"
+                },
+                {
+                  "title": "Five Months on the Missouri River: Paddling a Dugout Canoe",
+                  "resourceId": "recxIWRWjRxnwOFwE"
+                }
               ]
             }
           ]

@@ -131,11 +131,26 @@
               "title": "Poetry Reading: Grades 9-12",
               "type": "topic",
               "books": [
-                "Poetry",
-                "The Aeneid",
-                "The Lightning Dreamer: Cuba's Greatest Abolitionist",
-                "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
-                "The Crescent Moon"
+                {
+                  "title": "Poetry",
+                  "resourceId": "recKbcZA9XmKjjn8b"
+                },
+                {
+                  "title": "The Aeneid",
+                  "resourceId": "recP93D6B6FlR27PZ"
+                },
+                {
+                  "title": "The Lightning Dreamer: Cuba's Greatest Abolitionist",
+                  "resourceId": "rectQeZOe9TstFr1x"
+                },
+                {
+                  "title": "Jump Back, Paul: The Life and Poems of Paul Laurence Dunbar",
+                  "resourceId": "recYIRwDEThES9D03"
+                },
+                {
+                  "title": "The Crescent Moon",
+                  "resourceId": "recuzZNUCUmNMMlPv"
+                }
               ]
             }
           ]

@@ -81,10 +81,22 @@
               "title": "Poetry: Grades 1-4",
               "type": "course",
               "books": [
-                "Emma's Poem: The Voice of the Statue of Liberty",
-                "Gladiola Garden",
-                "The Crescent Moon",
-                "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry"
+                {
+                  "title": "Emma's Poem: The Voice of the Statue of Liberty",
+                  "resourceId": "reczpmfDghHRsrNZw"
+                },
+                {
+                  "title": "Gladiola Garden",
+                  "resourceId": "recUw67yVS9H4zGXd"
+                },
+                {
+                  "title": "The Crescent Moon",
+                  "resourceId": "recuzZNUCUmNMMlPv"
+                },
+                {
+                  "title": "Over the River and Through the Wood: An Anthology of Nineteenth-Century American Children's Poetry",
+                  "resourceId": "recZ3NUcDoZolVrPc"
+                }
               ]
             }
           ]

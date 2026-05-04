@@ -81,9 +81,18 @@
               "title": "Civics/Ethics: Grade 12",
               "type": "course",
               "books": [
-                "The Life We're Looking For: Reclaiming Relationship in a Technological World",
-                "Conscience: What It Is, How to Train It, and Loving Those Who Differ",
-                "Citizenship Without Illusions: A Christian Guide to Political Engagement"
+                {
+                  "title": "The Life We're Looking For: Reclaiming Relationship in a Technological World",
+                  "resourceId": "recnNyh56iL4uZbJw"
+                },
+                {
+                  "title": "Conscience: What It Is, How to Train It, and Loving Those Who Differ",
+                  "resourceId": "recxWfONMFDZIC2tj"
+                },
+                {
+                  "title": "Citizenship Without Illusions: A Christian Guide to Political Engagement",
+                  "resourceId": "recuVrolXxShuNSdj"
+                }
               ]
             }
           ]

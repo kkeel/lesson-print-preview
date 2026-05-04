@@ -91,11 +91,26 @@
               "title": "Geography: Grade 2 (Canada)",
               "type": "course",
               "books": [
-                "Making Your Own Maps",
-                "The Kids Book of Canada",
-                "My Canada: An Illustrated Atlas",
-                "Canada Wild: Animals Found Nowhere Else on Earth",
-                "Our Canadian Flag"
+                {
+                  "title": "Making Your Own Maps",
+                  "resourceId": "rec4S3UHWafRPSXxM"
+                },
+                {
+                  "title": "The Kids Book of Canada",
+                  "resourceId": "recgECwMa1pjs2VnL"
+                },
+                {
+                  "title": "My Canada: An Illustrated Atlas",
+                  "resourceId": "recWe8BWvLumLf1DA"
+                },
+                {
+                  "title": "Canada Wild: Animals Found Nowhere Else on Earth",
+                  "resourceId": "recXRFY35nX9sYw2c"
+                },
+                {
+                  "title": "Our Canadian Flag",
+                  "resourceId": "recBW8QJCHsV0XMoM"
+                }
               ]
             }
           ]

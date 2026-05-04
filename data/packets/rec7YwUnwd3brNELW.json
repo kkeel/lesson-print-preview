@@ -105,8 +105,14 @@
               "title": "Church History: Grades 10-12",
               "type": "topic",
               "books": [
-                "When the Church Was Young: Voices of the Early Fathers",
-                "Turning Points in American Church History"
+                {
+                  "title": "When the Church Was Young: Voices of the Early Fathers",
+                  "resourceId": "recDkUYOYpWCv6KlP"
+                },
+                {
+                  "title": "Turning Points in American Church History",
+                  "resourceId": "rececmL6Rkxib8hs4"
+                }
               ]
             }
           ]

@@ -111,14 +111,38 @@
               "title": "General Lit.: Grades 11-12",
               "type": "topic",
               "books": [
-                "Narrative of the Life of Frederick Douglass",
-                "Up from Slavery",
-                "James",
-                "Jane Eyre",
-                "The Count of Monte Cristo",
-                "Short stories and other writings",
-                "Things Fall Apart",
-                "The Souls of Black Folk"
+                {
+                  "title": "Narrative of the Life of Frederick Douglass",
+                  "resourceId": "recj4Gq2c9BzAopg7"
+                },
+                {
+                  "title": "Up from Slavery",
+                  "resourceId": "reczCr29zRWEiJ53Q"
+                },
+                {
+                  "title": "James",
+                  "resourceId": "recb4WeZZ7n11044O"
+                },
+                {
+                  "title": "Jane Eyre",
+                  "resourceId": "rec8gaqbiZrabbYaY"
+                },
+                {
+                  "title": "The Count of Monte Cristo",
+                  "resourceId": "recXhOEqXsDwMQlvg"
+                },
+                {
+                  "title": "Short stories and other writings",
+                  "resourceId": "recRAjWrl2CLPferr"
+                },
+                {
+                  "title": "Things Fall Apart",
+                  "resourceId": "recS4h5NzibgWj3XK"
+                },
+                {
+                  "title": "The Souls of Black Folk",
+                  "resourceId": "recytZRsUSyyVb2eS"
+                }
               ]
             }
           ]

@@ -117,9 +117,18 @@
               "title": "Composition: Grade 11",
               "type": "topic",
               "books": [
-                "Advanced Academic Writing II Teacher Manual",
-                "Communicating with Grace and Virtue: Learning to Listen, Speak, Text, and Interact as a Christian",
-                "Steering the Craft: A Twenty-First Century Guide to Sailing the Sea of Story"
+                {
+                  "title": "Advanced Academic Writing II Teacher Manual",
+                  "resourceId": "recunMit5ns4uKkuG"
+                },
+                {
+                  "title": "Communicating with Grace and Virtue: Learning to Listen, Speak, Text, and Interact as a Christian",
+                  "resourceId": "recPuFNKngjRZ44EK"
+                },
+                {
+                  "title": "Steering the Craft: A Twenty-First Century Guide to Sailing the Sea of Story",
+                  "resourceId": "recka4FSscPAcsBxD"
+                }
               ]
             }
           ]

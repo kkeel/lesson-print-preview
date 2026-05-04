@@ -95,11 +95,26 @@
               "title": "Canadian History: Grades 7-8",
               "type": "topic",
               "books": [
-                "The Story of Canada",
-                "Elijah of Buxton",
-                "The Charlottetown Conference and the Birth of Confederation",
-                "Jeremy's War 1812",
-                "Sophie's Rebellion"
+                {
+                  "title": "The Story of Canada",
+                  "resourceId": "recWTIXEZPlab84Z0"
+                },
+                {
+                  "title": "Elijah of Buxton",
+                  "resourceId": "recNY9aIjlncWz6wr"
+                },
+                {
+                  "title": "The Charlottetown Conference and the Birth of Confederation",
+                  "resourceId": "recyvHTlefUZzpApF"
+                },
+                {
+                  "title": "Jeremy's War 1812",
+                  "resourceId": "recgNjdHvf9CKaDa6"
+                },
+                {
+                  "title": "Sophie's Rebellion",
+                  "resourceId": "reckrNrYGs7Cee08j"
+                }
               ]
             }
           ]

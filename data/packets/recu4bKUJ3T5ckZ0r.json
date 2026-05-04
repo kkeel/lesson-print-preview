@@ -85,7 +85,10 @@
               "title": "Copywork: Grade 8",
               "type": "topic",
               "books": [
-                "Grade 8 Copywork & Dictation Book"
+                {
+                  "title": "Grade 8 Copywork & Dictation Book",
+                  "resourceId": "rec6KhfiWqAzNZXzE"
+                }
               ]
             }
           ]

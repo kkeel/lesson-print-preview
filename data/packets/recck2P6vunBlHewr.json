@@ -131,15 +131,24 @@
               "title": "Plutarch/Government: Grade 9 (Canada)",
               "type": "topic",
               "books": [
-                "The Plutarch Project Volume Three (Revised)",
-                "Canada's Constitutional Monarchy"
+                {
+                  "title": "The Plutarch Project Volume Three (Revised)",
+                  "resourceId": "recUCjRu76tQczZuF"
+                },
+                {
+                  "title": "Canada's Constitutional Monarchy",
+                  "resourceId": "rec3jFPfyFSqt2mGU"
+                }
               ]
             },
             {
               "title": "Ethics: Part 3",
               "type": "topic",
               "books": [
-                "Ourselves: Book 1"
+                {
+                  "title": "Ourselves: Book 1",
+                  "resourceId": "recLHdhKMfjC9IAKG"
+                }
               ]
             }
           ]

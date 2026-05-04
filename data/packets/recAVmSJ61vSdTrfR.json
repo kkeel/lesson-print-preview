@@ -103,7 +103,10 @@
               "title": "Labs: Grade 8",
               "type": "topic",
               "books": [
-                "Science: Grade 8 Lab Book"
+                {
+                  "title": "Science: Grade 8 Lab Book",
+                  "resourceId": "recYKUGOvi3S9a3YW"
+                }
               ]
             }
           ]

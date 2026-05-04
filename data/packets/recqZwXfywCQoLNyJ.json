@@ -99,9 +99,18 @@
               "title": "Tall Tales/ Fables",
               "type": "topic",
               "books": [
-                "Aesop's Favorite Fables",
-                "American Tall Tales",
-                "The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs"
+                {
+                  "title": "Aesop's Favorite Fables",
+                  "resourceId": "recHLSd4DYDUKCKw4"
+                },
+                {
+                  "title": "American Tall Tales",
+                  "resourceId": "recgE9YlBVowDiYAM"
+                },
+                {
+                  "title": "The Spirit of Canada: Canada's Story in Legends, Fiction, Poems, and Songs",
+                  "resourceId": "recAYCiNb4mH6y06V"
+                }
               ]
             }
           ]

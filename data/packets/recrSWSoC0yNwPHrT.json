@@ -99,10 +99,22 @@
               "title": "Lit./Mythology: Grades 7-8",
               "type": "topic",
               "books": [
-                "The Lightning Dreamer: Cuba's Greatest Abolitionist",
-                "A Christmas Carol",
-                "The Man Who Invented Christmas directed",
-                "Short stories and other writings"
+                {
+                  "title": "The Lightning Dreamer: Cuba's Greatest Abolitionist",
+                  "resourceId": "rectQeZOe9TstFr1x"
+                },
+                {
+                  "title": "A Christmas Carol",
+                  "resourceId": "recwAAsRvvVMG3mGV"
+                },
+                {
+                  "title": "The Man Who Invented Christmas directed",
+                  "resourceId": "recmdnVHWuwjvjAHQ"
+                },
+                {
+                  "title": "Short stories and other writings",
+                  "resourceId": "recRAjWrl2CLPferr"
+                }
               ]
             }
           ]

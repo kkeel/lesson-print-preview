@@ -131,12 +131,30 @@
               "title": "Geology Lessons",
               "type": "topic",
               "books": [
-                "101 American Geo-Sites You've Gotta See",
-                "Annals of the Former World",
-                "Roadside Geology/Geology Underfoot Series",
-                "The Field Guide to Geology",
-                "The Map That Changed the World",
-                "The Story of the Earth in 25 Rocks"
+                {
+                  "title": "101 American Geo-Sites You've Gotta See",
+                  "resourceId": "recFdyENvxnrzSITa"
+                },
+                {
+                  "title": "Annals of the Former World",
+                  "resourceId": "recafDPWXyKNQfGCA"
+                },
+                {
+                  "title": "Roadside Geology/Geology Underfoot Series",
+                  "resourceId": "rec9Tu9LvX0DVBQFB"
+                },
+                {
+                  "title": "The Field Guide to Geology",
+                  "resourceId": "recEt26KRk57juKYO"
+                },
+                {
+                  "title": "The Map That Changed the World",
+                  "resourceId": "recguVydhnmjAER2b"
+                },
+                {
+                  "title": "The Story of the Earth in 25 Rocks",
+                  "resourceId": "recS2q5xgQoIEcT0e"
+                }
               ]
             }
           ]

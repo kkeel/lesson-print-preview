@@ -113,14 +113,20 @@
               "title": "Math Lessons: Grade 4",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level D 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level D 2nd Ed. Book Bundle",
+                  "resourceId": "recHARCbmCZJq5f3T"
+                }
               ]
             },
             {
               "title": "Math Games: Grades 1-8",
               "type": "topic",
               "books": [
-                "Math Card Games Kit"
+                {
+                  "title": "Math Card Games Kit",
+                  "resourceId": "recvX4HmvwtODCrX3"
+                }
               ]
             }
           ]

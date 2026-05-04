@@ -151,15 +151,42 @@
               "title": "Composer Study",
               "type": "topic",
               "books": [
-                "Our Work: Grades 1-2",
-                "Our Work: Grade 3",
-                "Our Work: Grades 4-6",
-                "Our Work: Grades 7-8",
-                "Our Work: Grades 9-12",
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Playlist for the Year",
-                "Mussorgsky's Pictures at an Exhibition",
-                "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Our Work: Grade 3",
+                  "resourceId": "recYJHQP07uKDyMpq"
+                },
+                {
+                  "title": "Our Work: Grades 4-6",
+                  "resourceId": "recpZeVli0urkjOFH"
+                },
+                {
+                  "title": "Our Work: Grades 7-8",
+                  "resourceId": "recsfooztY1xN2Ukk"
+                },
+                {
+                  "title": "Our Work: Grades 9-12",
+                  "resourceId": "recsNwud3Tci78Te8"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Playlist for the Year",
+                  "resourceId": "recpKgqZdLHd9C6gr"
+                },
+                {
+                  "title": "Mussorgsky's Pictures at an Exhibition",
+                  "resourceId": "rec4HK1TtsMfh9Dp0"
+                },
+                {
+                  "title": "Song in a Rainstorm: The Story of Musical Prodigy Thomas Blind Tom Wiggins",
+                  "resourceId": "recg3YhtkOzEkOEGt"
+                }
               ]
             }
           ]

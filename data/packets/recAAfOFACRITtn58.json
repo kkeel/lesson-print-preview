@@ -99,7 +99,10 @@
               "title": "Sloyd: Level 7",
               "type": "course",
               "books": [
-                "Folding Techniques for Designers"
+                {
+                  "title": "Folding Techniques for Designers",
+                  "resourceId": "recMga8egg3Vcj9Rq"
+                }
               ]
             }
           ]

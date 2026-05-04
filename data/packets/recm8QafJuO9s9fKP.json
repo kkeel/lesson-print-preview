@@ -148,25 +148,46 @@
               "title": "General Science: Grade 6",
               "type": "topic",
               "books": [
-                "Plate Tectonics",
-                "The Art of Construction",
-                "Phineas Gage"
+                {
+                  "title": "Plate Tectonics",
+                  "resourceId": "recTmUqHMkE0WgkLh"
+                },
+                {
+                  "title": "The Art of Construction",
+                  "resourceId": "recy6L6dZaoXMcArp"
+                },
+                {
+                  "title": "Phineas Gage",
+                  "resourceId": "recuiC7B5gtKKOBWq"
+                }
               ]
             },
             {
               "title": "Labs: Grade 6",
               "type": "topic",
               "books": [
-                "Science: Grade 6 Lab Book"
+                {
+                  "title": "Science: Grade 6 Lab Book",
+                  "resourceId": "rec6cSvtXvrxeShOA"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 6",
               "type": "topic",
               "books": [
-                "The Frog Scientist",
-                "The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem",
-                "Tracking Trash"
+                {
+                  "title": "The Frog Scientist",
+                  "resourceId": "recYuxzYJhIPb3Agt"
+                },
+                {
+                  "title": "The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem",
+                  "resourceId": "recL4XOk8qfUrQ5iI"
+                },
+                {
+                  "title": "Tracking Trash",
+                  "resourceId": "reclcRnF299kHLBzD"
+                }
               ]
             }
           ]

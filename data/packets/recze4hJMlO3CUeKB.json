@@ -89,9 +89,18 @@
               "title": "Penmanship & Copywork: Grade 6",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book G",
-                "Italics: Beautiful Handwriting for Children",
-                "Grade 6 Copywork & Dictation Book"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book G",
+                  "resourceId": "recNpgl3kdX6Kb25n"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                },
+                {
+                  "title": "Grade 6 Copywork & Dictation Book",
+                  "resourceId": "recAUDZpOAGF0JSEx"
+                }
               ]
             }
           ]

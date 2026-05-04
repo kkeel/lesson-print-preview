@@ -99,8 +99,14 @@
               "title": "American Gov./ Economics: Grade 8",
               "type": "topic",
               "books": [
-                "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
-                "Reading PDF"
+                {
+                  "title": "Dollars and Sense: A Kid's Guide to Using - Not Losing - Money",
+                  "resourceId": "rec7v5wfeY2lC55Vq"
+                },
+                {
+                  "title": "Reading PDF",
+                  "resourceId": "reccvFARcG21ppLkY"
+                }
               ]
             }
           ]

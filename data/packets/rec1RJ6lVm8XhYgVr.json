@@ -99,7 +99,10 @@
               "title": "Advanced Nature Study Lessons",
               "type": "topic",
               "books": [
-                "Master of Field Arts"
+                {
+                  "title": "Master of Field Arts",
+                  "resourceId": "recYzoHi8SECZm9DH"
+                }
               ]
             }
           ]

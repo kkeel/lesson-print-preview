@@ -99,7 +99,10 @@
               "title": "Mythology: Grade 2",
               "type": "topic",
               "books": [
-                "A Wonder Book for Girls and Boys"
+                {
+                  "title": "A Wonder Book for Girls and Boys",
+                  "resourceId": "rechRuS8zVr1DHOaD"
+                }
               ]
             }
           ]

@@ -91,8 +91,14 @@
               "title": "Upper French: Level 5",
               "type": "course",
               "books": [
-                "French: Level 5 SoundCloud Playlist",
-                "Primary French Course Part 2"
+                {
+                  "title": "French: Level 5 SoundCloud Playlist",
+                  "resourceId": "recXzM8ureEiS6KdO"
+                },
+                {
+                  "title": "Primary French Course Part 2",
+                  "resourceId": "rec3q7fGGsKCEZaVD"
+                }
               ]
             }
           ]

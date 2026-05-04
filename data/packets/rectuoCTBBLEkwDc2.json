@@ -95,9 +95,18 @@
               "title": "Story of Arithmetic: Part 2",
               "type": "course",
               "books": [
-                "Number Stories of Long Ago",
-                "Historical Atlas of the World 6th Ed.",
-                "Student World Atlas 6th Ed."
+                {
+                  "title": "Number Stories of Long Ago",
+                  "resourceId": "rec9NdNoVoaXu8Flc"
+                },
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
+                },
+                {
+                  "title": "Student World Atlas 6th Ed.",
+                  "resourceId": "recM2Is6mCqMkBedP"
+                }
               ]
             }
           ]

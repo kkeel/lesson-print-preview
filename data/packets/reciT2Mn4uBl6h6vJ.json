@@ -118,29 +118,62 @@
               "title": "Canadian History: Grades 11-12",
               "type": "topic",
               "books": [
-                "A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land",
-                "Early Voices",
-                "How Different It Was: Canadians at the Time of Confederation",
-                "The Unweaving",
-                "Making of Canada: An Epic History in Twenty Extraordinary Lives"
+                {
+                  "title": "A History of Canada in Ten Maps: Epic Stories of Charting a Mysterious Land",
+                  "resourceId": "reclGbKTKtNTqzt5p"
+                },
+                {
+                  "title": "Early Voices",
+                  "resourceId": "reclTSrJE2vbwfJaf"
+                },
+                {
+                  "title": "How Different It Was: Canadians at the Time of Confederation",
+                  "resourceId": "recE2MxmC1CNY9RWq"
+                },
+                {
+                  "title": "The Unweaving",
+                  "resourceId": "recs8gan9xCWpFTaK"
+                },
+                {
+                  "title": "Making of Canada: An Epic History in Twenty Extraordinary Lives",
+                  "resourceId": "rec1hAdhkVOxsRvsr"
+                }
               ]
             },
             {
               "title": "World History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Blood and Iron: The Rise and Fall of the German Empire",
-                "When America First Met China",
-                "Erebus: The Story of a Ship"
+                {
+                  "title": "Blood and Iron: The Rise and Fall of the German Empire",
+                  "resourceId": "recfhEICVStPgotwB"
+                },
+                {
+                  "title": "When America First Met China",
+                  "resourceId": "recTJd5zTm3syYIlP"
+                },
+                {
+                  "title": "Erebus: The Story of a Ship",
+                  "resourceId": "rec7z1NO1PuxPcgfP"
+                }
               ]
             },
             {
               "title": "Ancient History: Grades 10-12",
               "type": "topic",
               "books": [
-                "Early Christian Writings: The Apostolic Fathers edited",
-                "Ancient Empires: From Mesopotamia to the Rise of Islam",
-                "Christians Reading Classics"
+                {
+                  "title": "Early Christian Writings: The Apostolic Fathers edited",
+                  "resourceId": "recoFvjqG1jIB2ykI"
+                },
+                {
+                  "title": "Ancient Empires: From Mesopotamia to the Rise of Islam",
+                  "resourceId": "rec8mOKj4a0LVWl1U"
+                },
+                {
+                  "title": "Christians Reading Classics",
+                  "resourceId": "rec5xfKBz756Opt41"
+                }
               ]
             }
           ]

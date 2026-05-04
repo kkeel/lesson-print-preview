@@ -99,9 +99,18 @@
               "title": "Sol-fa: Musical Games",
               "type": "topic",
               "books": [
-                "Our Work: Grades 1-2",
-                "Hymns, Spirituals, & Folk Songs PDF",
-                "Musical Games Playlist"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                },
+                {
+                  "title": "Hymns, Spirituals, & Folk Songs PDF",
+                  "resourceId": "rectZLk9X7Vjlf8dG"
+                },
+                {
+                  "title": "Musical Games Playlist",
+                  "resourceId": "recoemutvxjrSGUVb"
+                }
               ]
             }
           ]

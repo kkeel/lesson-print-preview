@@ -116,23 +116,38 @@
               "title": "Grammar/Comp: Grade 7",
               "type": "topic",
               "books": [
-                "Paragraph Town",
-                "Practice Town",
-                "Practice Town Teacher Manual (select pages)"
+                {
+                  "title": "Paragraph Town",
+                  "resourceId": "rec7YiIdnVzoA4k8L"
+                },
+                {
+                  "title": "Practice Town",
+                  "resourceId": "recEx5DD52x56YiGs"
+                },
+                {
+                  "title": "Practice Town Teacher Manual (select pages)",
+                  "resourceId": "recKxPfKgd4LT9wqz"
+                }
               ]
             },
             {
               "title": "Dictation: Grade 7",
               "type": "topic",
               "books": [
-                "Grade 7 Copywork & Dictation Book"
+                {
+                  "title": "Grade 7 Copywork & Dictation Book",
+                  "resourceId": "reczjR5Ti2xYJF1XT"
+                }
               ]
             },
             {
               "title": "Copywork: Grade 7",
               "type": "topic",
               "books": [
-                "Grade 7 Copywork & Dictation Book"
+                {
+                  "title": "Grade 7 Copywork & Dictation Book",
+                  "resourceId": "reczjR5Ti2xYJF1XT"
+                }
               ]
             }
           ]

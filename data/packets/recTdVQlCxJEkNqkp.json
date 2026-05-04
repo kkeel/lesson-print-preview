@@ -121,21 +121,30 @@
               "title": "Playground Songs & Rhymes",
               "type": "topic",
               "books": [
-                "The Book of Playground Songs & Rhymes"
+                {
+                  "title": "The Book of Playground Songs & Rhymes",
+                  "resourceId": "recZlQfkeOi88FxOK"
+                }
               ]
             },
             {
               "title": "Jump Rope",
               "type": "topic",
               "books": [
-                "The Book of Playground Songs & Rhymes"
+                {
+                  "title": "The Book of Playground Songs & Rhymes",
+                  "resourceId": "recZlQfkeOi88FxOK"
+                }
               ]
             },
             {
               "title": "Folk Dancing",
               "type": "topic",
               "books": [
-                "The Book of Song Dances"
+                {
+                  "title": "The Book of Song Dances",
+                  "resourceId": "reciobkv0sISyFiIz"
+                }
               ]
             }
           ]

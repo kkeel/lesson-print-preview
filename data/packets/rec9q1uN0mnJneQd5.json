@@ -107,9 +107,18 @@
               "title": "Natural History: Grade 6",
               "type": "topic",
               "books": [
-                "The Frog Scientist",
-                "The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem",
-                "Tracking Trash"
+                {
+                  "title": "The Frog Scientist",
+                  "resourceId": "recYuxzYJhIPb3Agt"
+                },
+                {
+                  "title": "The Wolves and Moose of Isle Royale: Restoring an Island Ecosystem",
+                  "resourceId": "recL4XOk8qfUrQ5iI"
+                },
+                {
+                  "title": "Tracking Trash",
+                  "resourceId": "reclcRnF299kHLBzD"
+                }
               ]
             }
           ]

@@ -95,9 +95,18 @@
               "title": "Econ/Civics: Grade 11 (Canada)",
               "type": "topic",
               "books": [
-                "The Art of Asking Better Questions",
-                "What Would Keynes Do?",
-                "The Prime Ministers: Canada's Leaders and the Nation They Shaped"
+                {
+                  "title": "The Art of Asking Better Questions",
+                  "resourceId": "recBswas53sRmzlW8"
+                },
+                {
+                  "title": "What Would Keynes Do?",
+                  "resourceId": "rec22O3t21BvJaiDw"
+                },
+                {
+                  "title": "The Prime Ministers: Canada's Leaders and the Nation They Shaped",
+                  "resourceId": "recg8UrzCcsCAySsI"
+                }
               ]
             }
           ]

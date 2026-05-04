@@ -95,8 +95,14 @@
               "title": "Art: Level 1",
               "type": "course",
               "books": [
-                "Drawing, Design, and Craft-Work",
-                "Brushwork: Elementary Brush-Forms"
+                {
+                  "title": "Drawing, Design, and Craft-Work",
+                  "resourceId": "reckOxbera0wklAAL"
+                },
+                {
+                  "title": "Brushwork: Elementary Brush-Forms",
+                  "resourceId": "reclKLlJyBA0R51tK"
+                }
               ]
             }
           ]

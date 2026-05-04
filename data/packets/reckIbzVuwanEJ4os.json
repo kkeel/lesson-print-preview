@@ -135,9 +135,18 @@
               "title": "World History: Grades 4-6",
               "type": "topic",
               "books": [
-                "William Wilberforce: The Freedom Fighter",
-                "Under the Hawthorn Tree",
-                "Commodore Perry in the Land of the Shogun"
+                {
+                  "title": "William Wilberforce: The Freedom Fighter",
+                  "resourceId": "recWeDQTFTylbEyLK"
+                },
+                {
+                  "title": "Under the Hawthorn Tree",
+                  "resourceId": "reciWVjR4g0VyEe7B"
+                },
+                {
+                  "title": "Commodore Perry in the Land of the Shogun",
+                  "resourceId": "recKwo348vS6SuZ9o"
+                }
               ]
             }
           ]

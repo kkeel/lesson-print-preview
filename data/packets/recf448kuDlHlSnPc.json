@@ -99,8 +99,14 @@
               "title": "Fairy Tales",
               "type": "topic",
               "books": [
-                "Around the World in 80 Tales",
-                "Tales from Grimm"
+                {
+                  "title": "Around the World in 80 Tales",
+                  "resourceId": "recZEkDPmuBucJpr1"
+                },
+                {
+                  "title": "Tales from Grimm",
+                  "resourceId": "recAgpjTHZLXwXPgv"
+                }
               ]
             }
           ]

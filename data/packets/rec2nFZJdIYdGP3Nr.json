@@ -95,9 +95,18 @@
               "title": "Geography: Grades 4-6",
               "type": "course",
               "books": [
-                "Student World Atlas 6th Ed.",
-                "David Livingstone: African Explorer",
-                "Africa Is Not a Country"
+                {
+                  "title": "Student World Atlas 6th Ed.",
+                  "resourceId": "recM2Is6mCqMkBedP"
+                },
+                {
+                  "title": "David Livingstone: African Explorer",
+                  "resourceId": "recIEFlgy3fOVbZLj"
+                },
+                {
+                  "title": "Africa Is Not a Country",
+                  "resourceId": "reckOukApHqwdS7tf"
+                }
               ]
             }
           ]

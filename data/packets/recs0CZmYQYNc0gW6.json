@@ -85,7 +85,10 @@
               "title": "Chemistry Labs",
               "type": "topic",
               "books": [
-                "Alveary Chemistry Lab Book"
+                {
+                  "title": "Alveary Chemistry Lab Book",
+                  "resourceId": "recwCXT5N9KCDloNi"
+                }
               ]
             }
           ]

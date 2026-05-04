@@ -122,16 +122,28 @@
               "title": "General Lit.: Grade 3",
               "type": "topic",
               "books": [
-                "Charlotte's Web",
-                "Heart of a Samurai"
+                {
+                  "title": "Charlotte's Web",
+                  "resourceId": "recZr8l5ssEAbyQPx"
+                },
+                {
+                  "title": "Heart of a Samurai",
+                  "resourceId": "recJiJYYGjlHgqOf7"
+                }
               ]
             },
             {
               "title": "Lit./Mythology: Grade 3",
               "type": "topic",
               "books": [
-                "A Wonder Book for Girls and Boys",
-                "Pilgrim's Progress: Updated, Modern English"
+                {
+                  "title": "A Wonder Book for Girls and Boys",
+                  "resourceId": "rechRuS8zVr1DHOaD"
+                },
+                {
+                  "title": "Pilgrim's Progress: Updated, Modern English",
+                  "resourceId": "recJGvkeytuYA6Noo"
+                }
               ]
             }
           ]

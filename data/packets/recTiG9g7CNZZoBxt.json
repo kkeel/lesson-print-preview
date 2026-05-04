@@ -99,11 +99,26 @@
               "title": "Mythology/Hist. Fiction: Grade 4",
               "type": "topic",
               "books": [
-                "In the Days of Giants",
-                "Russian Fairy Tales",
-                "South American Jungle Tales",
-                "The Tales of Uncle Remus: The Adventures of Brer Rabbit",
-                "Short Stories & Folktales"
+                {
+                  "title": "In the Days of Giants",
+                  "resourceId": "recvWJbcAeFQgv7mZ"
+                },
+                {
+                  "title": "Russian Fairy Tales",
+                  "resourceId": "recTdqYPJPINBj5az"
+                },
+                {
+                  "title": "South American Jungle Tales",
+                  "resourceId": "recxHLZNuZKy17SoT"
+                },
+                {
+                  "title": "The Tales of Uncle Remus: The Adventures of Brer Rabbit",
+                  "resourceId": "rec68Z6vl0NXpSLLY"
+                },
+                {
+                  "title": "Short Stories & Folktales",
+                  "resourceId": "recZN9u8wALnyf9vc"
+                }
               ]
             }
           ]

@@ -99,7 +99,10 @@
               "title": "Geometry: Grade 7",
               "type": "topic",
               "books": [
-                "RightStart Mathematics Level G 2nd Ed. Book Bundle"
+                {
+                  "title": "RightStart Mathematics Level G 2nd Ed. Book Bundle",
+                  "resourceId": "recGmBghw8V9pxfyC"
+                }
               ]
             }
           ]

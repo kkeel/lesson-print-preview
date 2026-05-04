@@ -91,7 +91,10 @@
               "title": "Story of Geometry: Part 2",
               "type": "course",
               "books": [
-                "String, Straight-Edge, and Shadow"
+                {
+                  "title": "String, Straight-Edge, and Shadow",
+                  "resourceId": "recCU98bl4JN1YdqG"
+                }
               ]
             }
           ]

@@ -85,9 +85,18 @@
               "title": "Algebra 2/Trigonometry: Part 1",
               "type": "course",
               "books": [
-                "Algebra 2/Trig Ancillary Materials",
-                "Algebra and Trigonometry: Functions and Applications",
-                "Home Study Companion: Algebra 2/Trigonometry"
+                {
+                  "title": "Algebra 2/Trig Ancillary Materials",
+                  "resourceId": "reciOSt8LIdiSw3P0"
+                },
+                {
+                  "title": "Algebra and Trigonometry: Functions and Applications",
+                  "resourceId": "recCiZ8KkqNCQdjfw"
+                },
+                {
+                  "title": "Home Study Companion: Algebra 2/Trigonometry",
+                  "resourceId": "recPT7RAqxzUkKPHR"
+                }
               ]
             }
           ]

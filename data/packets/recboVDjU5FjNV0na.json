@@ -135,8 +135,14 @@
               "title": "Physics Lessons",
               "type": "topic",
               "books": [
-                "Home Study Companion: Physics",
-                "Schaum's Outlines: College Physics"
+                {
+                  "title": "Home Study Companion: Physics",
+                  "resourceId": "recR6rSvSqo1XENOw"
+                },
+                {
+                  "title": "Schaum's Outlines: College Physics",
+                  "resourceId": "recDMDo9ie5QCal7N"
+                }
               ]
             }
           ]

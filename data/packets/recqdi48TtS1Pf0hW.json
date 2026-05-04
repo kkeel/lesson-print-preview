@@ -91,9 +91,18 @@
               "title": "Upper French: Level 3",
               "type": "course",
               "books": [
-                "French: Level 3 SoundCloud Playlist",
-                "Primary French Course Part I",
-                "French: Level 3 Student Notebook"
+                {
+                  "title": "French: Level 3 SoundCloud Playlist",
+                  "resourceId": "recAmD6yH2w6C3SwN"
+                },
+                {
+                  "title": "Primary French Course Part I",
+                  "resourceId": "recIUAUGnpcfosU6f"
+                },
+                {
+                  "title": "French: Level 3 Student Notebook",
+                  "resourceId": "recs2mn3z7D1h36IO"
+                }
               ]
             }
           ]

@@ -152,21 +152,30 @@
               "title": "General Science: Grade 7",
               "type": "topic",
               "books": [
-                "The Story of Science: Aristotle Leads the Way"
+                {
+                  "title": "The Story of Science: Aristotle Leads the Way",
+                  "resourceId": "recvcsBBJOzNPiZf1"
+                }
               ]
             },
             {
               "title": "Labs: Grade 7",
               "type": "topic",
               "books": [
-                "Science: Grade 7 Lab Book"
+                {
+                  "title": "Science: Grade 7 Lab Book",
+                  "resourceId": "recqjGUmdZW03rnih"
+                }
               ]
             },
             {
               "title": "Natural History: Grade 7",
               "type": "topic",
               "books": [
-                "The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science"
+                {
+                  "title": "The Girl Who Drew Butterflies: How Maria Merian's Art Changed Science",
+                  "resourceId": "rec6TGftg4CSilmo5"
+                }
               ]
             }
           ]

@@ -89,7 +89,10 @@
               "title": "Poetry Study: Grade 7",
               "type": "topic",
               "books": [
-                "What Is Poetry?"
+                {
+                  "title": "What Is Poetry?",
+                  "resourceId": "recGMn4HO2tnvhG4g"
+                }
               ]
             }
           ]

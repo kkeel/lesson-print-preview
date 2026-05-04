@@ -95,12 +95,30 @@
               "title": "Geography: Grade 1",
               "type": "course",
               "books": [
-                "Down Comes the Rain",
-                "Elementary Geography",
-                "Me on the Map",
-                "The Reasons for Seasons",
-                "What Makes Day and Night",
-                "United States Atlas 7th Ed."
+                {
+                  "title": "Down Comes the Rain",
+                  "resourceId": "recenxHB4rtNnHx4p"
+                },
+                {
+                  "title": "Elementary Geography",
+                  "resourceId": "recG6wPkZfXSJqcPA"
+                },
+                {
+                  "title": "Me on the Map",
+                  "resourceId": "reciSkse5xWCUfLKF"
+                },
+                {
+                  "title": "The Reasons for Seasons",
+                  "resourceId": "recvkrUbkJpCJfW9f"
+                },
+                {
+                  "title": "What Makes Day and Night",
+                  "resourceId": "rec3qRa2nl8pKXiYq"
+                },
+                {
+                  "title": "United States Atlas 7th Ed.",
+                  "resourceId": "reczH8uwlnf97SywN"
+                }
               ]
             }
           ]

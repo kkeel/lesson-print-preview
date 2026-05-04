@@ -117,9 +117,18 @@
               "title": "Composition: Grade 12",
               "type": "topic",
               "books": [
-                "Advanced Academic Writing II Teacher Manual",
-                "Caring for Words in a Culture of Lies (2nd ed.)",
-                "The Craft of Research"
+                {
+                  "title": "Advanced Academic Writing II Teacher Manual",
+                  "resourceId": "recunMit5ns4uKkuG"
+                },
+                {
+                  "title": "Caring for Words in a Culture of Lies (2nd ed.)",
+                  "resourceId": "recTSSXcu9lvQsDJw"
+                },
+                {
+                  "title": "The Craft of Research",
+                  "resourceId": "recAwcA9L3GVqc8X5"
+                }
               ]
             }
           ]

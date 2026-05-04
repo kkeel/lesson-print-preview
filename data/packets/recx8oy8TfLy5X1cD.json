@@ -95,9 +95,18 @@
               "title": "New Testament: Grades 7-8",
               "type": "topic",
               "books": [
-                "The Student Bible Atlas, Revised Edition",
-                "ESV Concise Study Bible",
-                "Introducing the New Testament: A Historical, Literary, and Theological Survey"
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "ESV Concise Study Bible",
+                  "resourceId": "rec9zGtqQSrl6rFkt"
+                },
+                {
+                  "title": "Introducing the New Testament: A Historical, Literary, and Theological Survey",
+                  "resourceId": "recCf5AATqTw3NSO9"
+                }
               ]
             }
           ]

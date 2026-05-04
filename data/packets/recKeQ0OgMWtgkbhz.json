@@ -113,16 +113,28 @@
               "title": "Reading Level 2",
               "type": "topic",
               "books": [
-                "Reading Lessons: Level 2 (Revised 2025)",
-                "Reading-Literature: First Reader"
+                {
+                  "title": "Reading Lessons: Level 2 (Revised 2025)",
+                  "resourceId": "recjLDUosVJ9kqLKb"
+                },
+                {
+                  "title": "Reading-Literature: First Reader",
+                  "resourceId": "rec6e7QVfZGzKU3zj"
+                }
               ]
             },
             {
               "title": "Penmanship & Copywork: Grade 2",
               "type": "topic",
               "books": [
-                "Getty-Dubay® Italic Handwriting Book C",
-                "Italics: Beautiful Handwriting for Children"
+                {
+                  "title": "Getty-Dubay® Italic Handwriting Book C",
+                  "resourceId": "reccDekHFnb5e58PJ"
+                },
+                {
+                  "title": "Italics: Beautiful Handwriting for Children",
+                  "resourceId": "rec6WKrYlYzjYnRR4"
+                }
               ]
             }
           ]

@@ -117,19 +117,40 @@
               "title": "General Lit.: Grades 5-6",
               "type": "topic",
               "books": [
-                "Hans Brinker or The Silver Skates",
-                "Little Women"
+                {
+                  "title": "Hans Brinker or The Silver Skates",
+                  "resourceId": "recFKmcgde5dxKPMh"
+                },
+                {
+                  "title": "Little Women",
+                  "resourceId": "rec8oemEyLSCeLUEf"
+                }
               ]
             },
             {
               "title": "Lit./Mythology: Grade 5-6",
               "type": "topic",
               "books": [
-                "The Age of Fable",
-                "South American Jungle Tales",
-                "Russian Fairy Tales",
-                "A Christmas Carol",
-                "Short Stories & Folktales"
+                {
+                  "title": "The Age of Fable",
+                  "resourceId": "recpil5H5fFMDZ67e"
+                },
+                {
+                  "title": "South American Jungle Tales",
+                  "resourceId": "recxHLZNuZKy17SoT"
+                },
+                {
+                  "title": "Russian Fairy Tales",
+                  "resourceId": "recTdqYPJPINBj5az"
+                },
+                {
+                  "title": "A Christmas Carol",
+                  "resourceId": "recwAAsRvvVMG3mGV"
+                },
+                {
+                  "title": "Short Stories & Folktales",
+                  "resourceId": "recZN9u8wALnyf9vc"
+                }
               ]
             }
           ]

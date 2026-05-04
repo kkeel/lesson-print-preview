@@ -99,7 +99,10 @@
               "title": "Bible History: Grade 9",
               "type": "topic",
               "books": [
-                "God’s Big Picture: Tracing the Storyline of the Bible"
+                {
+                  "title": "God’s Big Picture: Tracing the Storyline of the Bible",
+                  "resourceId": "recWObBLwgcbOjg1W"
+                }
               ]
             }
           ]

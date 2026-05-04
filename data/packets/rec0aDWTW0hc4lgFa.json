@@ -91,12 +91,30 @@
               "title": "U.S. History: Grades 9-12",
               "type": "course",
               "books": [
-                "I Am a Man: Chief Standing Bear's Journey for Justice",
-                "American History, Volume 1: 1492-1877",
-                "American History, Volume 2: 1877 - Present",
-                "The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.",
-                "They Fought Like Demons: Women Soldiers in the Civil War",
-                "Reading American Horizons"
+                {
+                  "title": "I Am a Man: Chief Standing Bear's Journey for Justice",
+                  "resourceId": "recsip6zWHy9EAHqd"
+                },
+                {
+                  "title": "American History, Volume 1: 1492-1877",
+                  "resourceId": "recNPim5x3CMd2ifB"
+                },
+                {
+                  "title": "American History, Volume 2: 1877 - Present",
+                  "resourceId": "recrvepzgOXlsyEdB"
+                },
+                {
+                  "title": "The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.",
+                  "resourceId": "rec6eikbd193FRt9J"
+                },
+                {
+                  "title": "They Fought Like Demons: Women Soldiers in the Civil War",
+                  "resourceId": "recoUIxcidEegMG1X"
+                },
+                {
+                  "title": "Reading American Horizons",
+                  "resourceId": "rec0LGczNqRlOvRen"
+                }
               ]
             }
           ]

@@ -85,7 +85,10 @@
               "title": "Recitation: Grades 1-2",
               "type": "course",
               "books": [
-                "Our Work: Grades 1-2"
+                {
+                  "title": "Our Work: Grades 1-2",
+                  "resourceId": "recw7BBdhDZlQO2RS"
+                }
               ]
             }
           ]

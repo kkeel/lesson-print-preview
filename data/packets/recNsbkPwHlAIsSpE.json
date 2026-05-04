@@ -131,21 +131,30 @@
               "title": "Playground Games",
               "type": "topic",
               "books": [
-                "The Ultimate Homeschool Physical Education Game Book"
+                {
+                  "title": "The Ultimate Homeschool Physical Education Game Book",
+                  "resourceId": "recO7o2cHORX18JsY"
+                }
               ]
             },
             {
               "title": "Sports",
               "type": "topic",
               "books": [
-                "The Ultimate Homeschool Physical Education Game Book"
+                {
+                  "title": "The Ultimate Homeschool Physical Education Game Book",
+                  "resourceId": "recO7o2cHORX18JsY"
+                }
               ]
             },
             {
               "title": "Free Play/ Circuits",
               "type": "topic",
               "books": [
-                "303 Tween-Approved Exercises and Active Games"
+                {
+                  "title": "303 Tween-Approved Exercises and Active Games",
+                  "resourceId": "recavFDwkQjBdb9fc"
+                }
               ]
             }
           ]

@@ -122,25 +122,46 @@
               "title": "New Testament: Grades 10-11",
               "type": "topic",
               "books": [
-                "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
-                "Introducing the New Testament: A Historical, Literary, and Theological Survey",
-                "Luke for Everyone"
+                {
+                  "title": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                  "resourceId": "rec2dOHvUHjbSY3hp"
+                },
+                {
+                  "title": "Introducing the New Testament: A Historical, Literary, and Theological Survey",
+                  "resourceId": "recCf5AATqTw3NSO9"
+                },
+                {
+                  "title": "Luke for Everyone",
+                  "resourceId": "rechRJi4On71uBS2o"
+                }
               ]
             },
             {
               "title": "Church History: Grades 10-12",
               "type": "topic",
               "books": [
-                "When the Church Was Young: Voices of the Early Fathers",
-                "Turning Points in American Church History"
+                {
+                  "title": "When the Church Was Young: Voices of the Early Fathers",
+                  "resourceId": "recDkUYOYpWCv6KlP"
+                },
+                {
+                  "title": "Turning Points in American Church History",
+                  "resourceId": "rececmL6Rkxib8hs4"
+                }
               ]
             },
             {
               "title": "Spiritual Formation: Grades 10-11",
               "type": "topic",
               "books": [
-                "Reading the Bible for a Change",
-                "God of All Things"
+                {
+                  "title": "Reading the Bible for a Change",
+                  "resourceId": "recoR5dUTNBS6Lg5R"
+                },
+                {
+                  "title": "God of All Things",
+                  "resourceId": "recOkcmoS3kfkSJNV"
+                }
               ]
             }
           ]

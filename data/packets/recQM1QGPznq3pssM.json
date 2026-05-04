@@ -95,7 +95,10 @@
               "title": "Sewing: Level 1",
               "type": "course",
               "books": [
-                "Sewing School"
+                {
+                  "title": "Sewing School",
+                  "resourceId": "rec96q2INy5TFyRuT"
+                }
               ]
             }
           ]
