@@ -32,8 +32,8 @@ jobs:
       - name: Build cover thumbnails from Airtable attachments
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
-          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
-          ROTATION: "3"
+          AIRTABLE_CURRICULUM_BASE_ID: ${{ secrets.AIRTABLE_CURRICULUM_BASE_ID }}
+          ROTATION: 3
         run: |
           node scripts/build-resource-thumbs-from-airtable.mjs
 
