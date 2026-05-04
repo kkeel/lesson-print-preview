@@ -28,6 +28,9 @@ const LESSON_FIELDS = [
   "Books",
   "Resource IDs",
   "Book List Link",
+  "Supplies",
+  "Supply ID's",
+  "Supply List Link",
   "SS Row Lables",
   "Day 1",
   "Day 2",
@@ -627,6 +630,113 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
   };
 }
 
+function splitSupplies(value) {
+  return splitBooks(value);
+}
+
+function splitSupplyIds(value) {
+  return splitResourceIds(value);
+}
+
+function pairSuppliesWithIds(supplyTitles, supplyIds) {
+  return supplyTitles.map((title, index) => ({
+    title,
+    supplyId: supplyIds[index] || ""
+  }));
+}
+
+function uniqueSupplyObjects(supplies) {
+  const seen = new Set();
+  const result = [];
+
+  for (const supply of supplies) {
+    const key = String(supply?.title || "").trim().toLowerCase();
+    if (!key || seen.has(key)) continue;
+
+    seen.add(key);
+    result.push(supply);
+  }
+
+  return result;
+}
+
+function getSupplyObjectsFromRecord(record) {
+  const fields = record?.fields || {};
+  const titles = splitSupplies(fields["Supplies"]);
+  const ids = splitSupplyIds(fields["Supply IDs"]);
+
+  return pairSuppliesWithIds(titles, ids);
+}
+
+function buildSuppliesResources(packetRecord, allLessonRecordsById) {
+  const fields = packetRecord.fields || {};
+
+  const linkUrl = normalizeText(fields["Supply List Link"]);
+  const lessonSetName = normalizeText(fields["Lesson Set Name"]);
+  const courseSupplies = getSupplyObjectsFromRecord(packetRecord);
+
+  const courseIds = normalizeArray(fields["Course Connection"]);
+  const topicIds = normalizeArray(fields["Topic Connection"]);
+  const isTopic = courseIds.length > 0;
+
+  const groups = [];
+
+  if (isTopic) {
+    const combinedSupplies = uniqueSupplyObjects(courseSupplies);
+
+    if (combinedSupplies.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "topic",
+        supplies: combinedSupplies
+      });
+    }
+  }
+
+  else if (!topicIds.length) {
+    if (courseSupplies.length) {
+      groups.push({
+        title: lessonSetName,
+        type: "course",
+        supplies: uniqueSupplyObjects(courseSupplies)
+      });
+    }
+  }
+
+  else {
+    groups.push({
+      title: lessonSetName,
+      type: "course",
+      supplies: uniqueSupplyObjects(courseSupplies)
+    });
+
+    for (const topicId of topicIds) {
+      const topicRecord = allLessonRecordsById.get(topicId);
+      if (!topicRecord) continue;
+
+      const topicFields = topicRecord.fields || {};
+      const topicTitle = normalizeText(topicFields["Lesson Set Name"]);
+      const topicSupplies = uniqueSupplyObjects(getSupplyObjectsFromRecord(topicRecord));
+
+      if (!topicSupplies.length) continue;
+
+      groups.push({
+        title: topicTitle,
+        type: "topic",
+        supplies: topicSupplies
+      });
+    }
+  }
+
+  return {
+    kind: "supplies-resources",
+    title: "Supplies",
+    linkUrl,
+    basicSuppliesUrl: "#",
+    groups
+  };
+}
+
 function buildWeeklyView(record) {
   const fields = record.fields || {};
 
@@ -727,7 +837,8 @@ function buildPacket(record, headerLookup) {
         
           ...headerItems.filter(item => item.kind === "planning-prep-group"),
         
-          buildBooksResources(record, headerLookup.lessonRecordsById || new Map())
+          buildBooksResources(record, headerLookup.lessonRecordsById || new Map()),
+          buildSuppliesResources(record, headerLookup.lessonRecordsById || new Map())
         ].filter(Boolean)
       }
     ]
