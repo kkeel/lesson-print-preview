@@ -126,13 +126,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "Econ/Civics: Grade 10 (U.S.)",
-              "type": "course",
-              "links": []
-            }
-          ]
+          "groups": []
         }
       ]
     }

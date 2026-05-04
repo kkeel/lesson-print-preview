@@ -114,13 +114,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "Architecture: Grades 9-12",
-              "type": "course",
-              "links": []
-            }
-          ]
+          "groups": []
         }
       ]
     }

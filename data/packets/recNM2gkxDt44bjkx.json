@@ -137,13 +137,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "General Science: Grade 7",
-              "type": "course",
-              "links": []
-            }
-          ]
+          "groups": []
         }
       ]
     }

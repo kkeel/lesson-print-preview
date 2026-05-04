@@ -144,7 +144,7 @@
           "groups": [
             {
               "title": "Music Appreciation",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Child's Introduction to the Orchestra",

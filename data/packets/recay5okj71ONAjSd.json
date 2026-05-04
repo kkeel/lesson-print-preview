@@ -153,13 +153,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "Playground Games",
-              "type": "course",
-              "links": []
-            }
-          ]
+          "groups": []
         }
       ]
     }

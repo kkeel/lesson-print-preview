@@ -148,13 +148,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "Ancient History: Grades 7-9",
-              "type": "course",
-              "links": []
-            }
-          ]
+          "groups": []
         }
       ]
     }

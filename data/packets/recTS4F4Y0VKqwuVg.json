@@ -141,7 +141,7 @@
           "groups": [
             {
               "title": "Astronomy Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "SkyView Lite for iOS",

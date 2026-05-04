@@ -243,9 +243,46 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Music: Level 3",
-              "type": "course",
-              "links": []
+              "title": "Composer Study",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Extra Resource: Classics for Kids Musical Dictionary",
+                  "url": "https://www.classicsforkids.com/musical-terms/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Composer Study Playlist",
+                  "url": "#",
+                  "sort": "2"
+                },
+                {
+                  "label": "Apppendix: Musical Vocabulary",
+                  "url": "#",
+                  "sort": "3"
+                }
+              ]
+            },
+            {
+              "title": "Sol-fa: Level 3",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Warm-Ups (Audio)",
+                  "url": "https://soundcloud.com/alveary/warm-up-form-2-and-3/s-cHDwD?in=alveary/sets/sol-fa-level-3",
+                  "sort": "1"
+                },
+                {
+                  "label": "Warm-Ups (Video)",
+                  "url": "https://vimeo.com/337660739/4bbc0a0711",
+                  "sort": "2"
+                },
+                {
+                  "label": "Blank Staff Paper",
+                  "url": "https://drive.google.com/file/d/19NkUTZHvsoe0u1OP-FbTsit54O-1Zjdg/view",
+                  "sort": "3"
+                }
+              ]
             }
           ]
         }

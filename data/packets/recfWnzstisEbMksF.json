@@ -225,9 +225,41 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Music: Level 1",
-              "type": "course",
-              "links": []
+              "title": "Composer Study",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Extra Resource: Classics for Kids Musical Dictionary",
+                  "url": "https://www.classicsforkids.com/musical-terms/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Composer Study Playlist",
+                  "url": "#",
+                  "sort": "2"
+                },
+                {
+                  "label": "Apppendix: Musical Vocabulary",
+                  "url": "#",
+                  "sort": "3"
+                }
+              ]
+            },
+            {
+              "title": "Sol-fa: Level 1",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Sol-fa SoundCloud Playlist",
+                  "url": "https://soundcloud.com/alveary/sets/solfege-level-1-beginner",
+                  "sort": "1"
+                },
+                {
+                  "label": "Warm-Ups",
+                  "url": "https://soundcloud.com/alveary/warm-up?in=alveary/sets/solfege-level-1-beginner",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }

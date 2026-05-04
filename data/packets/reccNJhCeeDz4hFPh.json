@@ -141,7 +141,7 @@
           "groups": [
             {
               "title": "Biology Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "All Keys and Sample Answers (1st edition, see reminder in header)",

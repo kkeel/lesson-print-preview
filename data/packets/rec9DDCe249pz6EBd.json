@@ -141,7 +141,7 @@
           "groups": [
             {
               "title": "Chemistry Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Alveary Bookshelf",

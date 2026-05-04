@@ -141,7 +141,7 @@
           "groups": [
             {
               "title": "Introduction to Engineering Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Science News Explores",

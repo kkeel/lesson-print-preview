@@ -340,6 +340,22 @@
                   "sort": "4"
                 }
               ]
+            },
+            {
+              "title": "Labs: Grade 5",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Grade 5 Lab Book",
+                  "url": "#",
+                  "sort": "1"
+                },
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }

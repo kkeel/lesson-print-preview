@@ -271,6 +271,17 @@
                   "sort": "1"
                 }
               ]
+            },
+            {
+              "title": "Folk Dancing",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Video Folder of Folk Dances",
+                  "url": "https://vimeo.com/user/36827822/folder/28792575?fl=tl&fe=cc",
+                  "sort": "1"
+                }
+              ]
             }
           ]
         }

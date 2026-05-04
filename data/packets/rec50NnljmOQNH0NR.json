@@ -271,9 +271,15 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Literature: Grade 9",
-              "type": "course",
-              "links": []
+              "title": "Plays: Grades 9-12",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Appendix: Ideas for Students New to Shakespeare",
+                  "url": "https://drive.google.com/file/d/17sgxRqinE_s4K-iiquCS_F0kI1AFV2Xe/view?usp=drive_link",
+                  "sort": "1"
+                }
+              ]
             }
           ]
         }

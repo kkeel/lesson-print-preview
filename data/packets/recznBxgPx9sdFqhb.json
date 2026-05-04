@@ -218,6 +218,17 @@
                   "sort": ""
                 }
               ]
+            },
+            {
+              "title": "New Testament: Grade 2",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Video overviews from Bible Project",
+                  "url": "https://bibleproject.com/explore/book-overviews/?type=old",
+                  "sort": ""
+                }
+              ]
             }
           ]
         }

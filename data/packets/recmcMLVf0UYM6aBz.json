@@ -118,19 +118,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "#",
-          "groups": [
-            {
-              "title": "Geography: Grade 7 (Canada)",
-              "type": "course",
-              "links": [
-                {
-                  "label": "Student Lessons (No Answers)",
-                  "url": "#",
-                  "sort": "1"
-                }
-              ]
-            }
-          ]
+          "groups": []
         }
       ]
     }

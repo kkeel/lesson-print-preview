@@ -145,9 +145,30 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Science: Advanced Nature Study",
-              "type": "course",
-              "links": []
+              "title": "Advanced Nature Study Lessons",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "1"
+                },
+                {
+                  "label": "SHOP — Exploring Overland",
+                  "url": "https://www.exploringoverland.com/shop",
+                  "sort": "2"
+                },
+                {
+                  "label": "How to Teach Nature Journaling",
+                  "url": "https://johnmuirlaws.com/product/how-to-teach-nature-journaling/",
+                  "sort": "3"
+                },
+                {
+                  "label": "A Community for Naturalists · iNaturalist",
+                  "url": "https://www.inaturalist.org/",
+                  "sort": "4"
+                }
+              ]
             }
           ]
         }

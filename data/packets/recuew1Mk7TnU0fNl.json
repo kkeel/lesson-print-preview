@@ -168,7 +168,7 @@
           "groups": [
             {
               "title": "Reading Level 1",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Alveary Reading Lesson Placement",

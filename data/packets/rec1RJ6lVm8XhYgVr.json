@@ -121,7 +121,7 @@
           "groups": [
             {
               "title": "Advanced Nature Study Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Seek app from iNaturalist",

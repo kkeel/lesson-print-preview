@@ -162,6 +162,22 @@
                   "sort": ""
                 }
               ]
+            },
+            {
+              "title": "Grammar/Comp: Grade 9",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Essay Voyage Answer Key",
+                  "url": "https://www.dropbox.com/s/mfre8hij39o7id5/Essay%20Voyage%20Answer%20Key%202023-24.pdf?dl=0",
+                  "sort": "1"
+                },
+                {
+                  "label": "Narration Ideas Document",
+                  "url": "http://www.charlottemasoninstitute.org/Member-PDFs/Alveary/Curriculum-Supplements/Alveary-2018Forms4-6/NarrationIdeasForms4-6.pdf",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }

@@ -227,9 +227,46 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Music: Intro",
-              "type": "course",
-              "links": []
+              "title": "Music Appreciation",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Child's Introduction to the Orchestra",
+                  "url": "https://archive.org/details/AChildsIntroductionToTheOrchestra/01.+Antoinette+the+Clarinet.mp3",
+                  "sort": "1"
+                },
+                {
+                  "label": "Child's Introduction to the Orchestra (Youtube)",
+                  "url": "https://www.youtube.com/watch?v=C_ipa4JzNNc",
+                  "sort": "2"
+                },
+                {
+                  "label": "How to Pronounce Prokofiev",
+                  "url": "https://www.youtube.com/watch?v=iHh-aaPPHTE",
+                  "sort": "3"
+                },
+                {
+                  "label": "How to Pronounce Camille Saint-Saens",
+                  "url": "https://www.youtube.com/watch?v=6nP9OD_9IDs",
+                  "sort": "4"
+                }
+              ]
+            },
+            {
+              "title": "Sol-fa: Musical Games",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Musical Games Playlist",
+                  "url": "https://youtube.com/playlist?list=PLvg0fKfOahKRzogiNUj8sdCn1mNe2jstw&si=C2T7jlSRNZOG5PeG",
+                  "sort": "1"
+                },
+                {
+                  "label": "Appendix: Waltz Steps",
+                  "url": "https://drive.google.com/file/d/1-hh0emXbA5yRIxwaDwb1v21i84msOL55/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }

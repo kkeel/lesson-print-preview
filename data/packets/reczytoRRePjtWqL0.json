@@ -129,7 +129,7 @@
           "groups": [
             {
               "title": "Physics Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Lab Notebook Examples",

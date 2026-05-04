@@ -216,9 +216,42 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Bible: Grades 7-8",
-              "type": "course",
-              "links": []
+              "title": "New Testament: Grades 7-8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Video overviews of Bible books from Bible Project",
+                  "url": "https://bibleproject.com/videos/all/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Teaching the Bible with Dr. John Walton",
+                  "url": "https://vimeo.com/812792281/9dfa3d1ced",
+                  "sort": "2"
+                }
+              ]
+            },
+            {
+              "title": "Church History: Grades 7-9",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "History Charts & Timeline Scope & Sample",
+                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "sort": ""
+                }
+              ]
+            },
+            {
+              "title": "Spiritual Formation: Grades 7-8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Extra Helpings",
+                  "url": "#",
+                  "sort": ""
+                }
+              ]
             }
           ]
         }

@@ -205,6 +205,58 @@
                   "sort": "2"
                 }
               ]
+            },
+            {
+              "title": "Plutarch: Grades 6-8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Video: How to Teach Plutarch (see Citizenship: Section 7)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            },
+            {
+              "title": "Current Events: Grades 5-8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "The Pour Over | Subscribe",
+                  "url": "https://www.thepourover.org/",
+                  "sort": "1"
+                },
+                {
+                  "label": "The World and Everything In It",
+                  "url": "https://wng.org/podcasts",
+                  "sort": "2"
+                },
+                {
+                  "label": "World Watch (Paid Subscription Required)",
+                  "url": "https://worldwatch.news/",
+                  "sort": "3"
+                },
+                {
+                  "label": "The Sift",
+                  "url": "https://wng.org/sift",
+                  "sort": "4"
+                },
+                {
+                  "label": "BBC",
+                  "url": "http://www.bbc.com/",
+                  "sort": "5"
+                },
+                {
+                  "label": "Teaching Kids News (CA)",
+                  "url": "https://teachingkidsnews.com/",
+                  "sort": "6"
+                },
+                {
+                  "label": "1Jour1Actu (in French)",
+                  "url": "https://www.1jour1actu.com/",
+                  "sort": "7"
+                }
+              ]
             }
           ]
         }

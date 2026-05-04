@@ -178,9 +178,35 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Science: Geology",
-              "type": "course",
-              "links": []
+              "title": "Geology Lessons",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Nature Journal Connection",
+                  "url": "https://johnmuirlaws.com/the-nature-journal-connection/",
+                  "sort": "1"
+                },
+                {
+                  "label": "Alveary Bookshelf",
+                  "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
+                  "sort": "2"
+                },
+                {
+                  "label": "Roadside Geology",
+                  "url": "https://www.amazon.com/s?k=roadside+geology&redirectFromSmile=1&ref=nb_sb_noss_1",
+                  "sort": "3"
+                },
+                {
+                  "label": "State by State Rockhound",
+                  "url": "http://www.gatorgirlrocks.com/state-by-state/",
+                  "sort": "4"
+                },
+                {
+                  "label": "How to Find Rocks",
+                  "url": "https://howtofindrocks.com/",
+                  "sort": "5"
+                }
+              ]
             }
           ]
         }

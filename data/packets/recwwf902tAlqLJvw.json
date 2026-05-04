@@ -237,6 +237,57 @@
                   "sort": "2"
                 }
               ]
+            },
+            {
+              "title": "Biology Lessons",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "All Keys and Sample Answers (1st edition, see reminder in header)",
+                  "url": "https://www.dropbox.com/scl/fi/7h2a4ol2u3hknsr3ju854/GB-All-Keys-and-Sample-Answers.pdf?rlkey=dfl0n8s0bnm952osgeju6904z&e=1&dl=0",
+                  "sort": "1"
+                },
+                {
+                  "label": "Homework Help for HS Science Students",
+                  "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQhHvZhrqoNYQ3eOTovRlmiJg8fKNeVibhw6jxlBuZ_oTww/viewform?usp=sf_link",
+                  "sort": "2"
+                },
+                {
+                  "label": "Contact Us for Teachers",
+                  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfhaAB0eQWkpMxNYW9t4PWrPIvS3fblKfTw9Ee1jvexzDvUpg/viewform",
+                  "sort": "3"
+                },
+                {
+                  "label": "Alveary Bookshelf",
+                  "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
+                  "sort": "4"
+                },
+                {
+                  "label": "John Muir Laws • Nature Journaling Resources",
+                  "url": "https://johnmuirlaws.com/",
+                  "sort": "5"
+                },
+                {
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "6"
+                },
+                {
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "7"
+                },
+                {
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "8"
+                },
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
+                  "sort": "9"
+                }
+              ]
             }
           ]
         }

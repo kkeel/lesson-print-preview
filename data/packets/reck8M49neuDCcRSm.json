@@ -178,9 +178,15 @@
           "linkPageUrl": "#",
           "groups": [
             {
-              "title": "Science: Introduction to Engineering",
-              "type": "course",
-              "links": []
+              "title": "Introduction to Engineering Lessons",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Science News Explores",
+                  "url": "https://www.snexplores.org/",
+                  "sort": ""
+                }
+              ]
             }
           ]
         }

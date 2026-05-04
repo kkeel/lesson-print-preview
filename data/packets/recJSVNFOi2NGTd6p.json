@@ -181,7 +181,7 @@
           "groups": [
             {
               "title": "Botany Lessons",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "label": "Seek app from iNaturalist",

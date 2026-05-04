@@ -194,6 +194,17 @@
                   "sort": ""
                 }
               ]
+            },
+            {
+              "title": "Spiritual Formation: Grades 10-11",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Bible Project",
+                  "url": "bibleproject.com",
+                  "sort": "1"
+                }
+              ]
             }
           ]
         }

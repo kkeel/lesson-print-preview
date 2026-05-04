@@ -313,6 +313,33 @@
                   "sort": ""
                 }
               ]
+            },
+            {
+              "title": "General Science: Grade 8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "AmScope key for slide IDs",
+                  "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view?usp=sharing",
+                  "sort": ""
+                }
+              ]
+            },
+            {
+              "title": "Labs: Grade 8",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Grade 8 Lab Book",
+                  "url": "#",
+                  "sort": "1"
+                },
+                {
+                  "label": "Lab Notebook Examples",
+                  "url": "https://drive.google.com/file/d/1tr0pp0CIeTQdqBf4MtSlNB8uRv8RarEV/view?usp=sharing",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }
