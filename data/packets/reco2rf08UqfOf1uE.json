@@ -178,6 +178,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Astronomy",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Astronomy Lessons",
               "type": "topic",
               "links": [

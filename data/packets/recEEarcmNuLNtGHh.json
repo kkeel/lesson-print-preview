@@ -216,6 +216,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Bible: Grades 7-8",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "New Testament: Grades 7-8",
               "type": "topic",
               "links": [

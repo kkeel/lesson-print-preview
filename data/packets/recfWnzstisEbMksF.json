@@ -225,6 +225,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Music: Level 1",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Composer Study",
               "type": "topic",
               "links": [

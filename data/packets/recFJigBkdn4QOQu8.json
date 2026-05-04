@@ -162,6 +162,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Poetry: Grade 8",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Poetry Study: Grade 8",
               "type": "topic",
               "links": [

@@ -194,6 +194,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Food Science",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Food Science Lessons",
               "type": "topic",
               "links": [

@@ -193,6 +193,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Bible: Grade 12",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "New Testament: Grade 12",
               "type": "topic",
               "links": [

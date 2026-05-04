@@ -253,6 +253,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Botany",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Botany Lessons",
               "type": "topic",
               "links": [

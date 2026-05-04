@@ -243,6 +243,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Music: Level 3",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Composer Study",
               "type": "topic",
               "links": [

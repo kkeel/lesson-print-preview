@@ -260,6 +260,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Literature: Grade 12",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Plays: Grades 9-12",
               "type": "topic",
               "links": [

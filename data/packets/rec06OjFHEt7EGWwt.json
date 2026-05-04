@@ -178,6 +178,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Geology",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Geology Lessons",
               "type": "topic",
               "links": [

@@ -197,6 +197,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Microbiology",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Microbiology Lessons",
               "type": "topic",
               "links": [

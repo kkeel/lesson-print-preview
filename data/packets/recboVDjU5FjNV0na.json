@@ -179,6 +179,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Science: Physics",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Physics Lessons",
               "type": "topic",
               "links": [

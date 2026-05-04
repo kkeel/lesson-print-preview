@@ -180,6 +180,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Citizenship: Grade 10 (Canada)",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Current Events: Grades 9-12",
               "type": "topic",
               "links": [

@@ -227,6 +227,11 @@
           "linkPageUrl": "#",
           "groups": [
             {
+              "title": "Music: Intro",
+              "type": "course",
+              "links": []
+            },
+            {
               "title": "Music Appreciation",
               "type": "topic",
               "links": [
