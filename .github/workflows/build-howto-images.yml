@@ -1,0 +1,36 @@
+name: Build How To Images
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/build-howto-images.mjs"
+      - ".github/workflows/build-howto-images.yml"
+
+jobs:
+  build-howto-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build How To images
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_CURRICULUM_BASE_ID: ${{ secrets.AIRTABLE_CURRICULUM_BASE_ID }}
+        run: node scripts/build-howto-images.mjs
+
+      - name: Commit updated How To images
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update How To images"
+          file_pattern: "images/howto_images/*.webp images/howto_images/.howto-image-manifest.json"
