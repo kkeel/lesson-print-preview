@@ -13,6 +13,12 @@ const HEADER_VIEW_NAME = "Header Print";
 const QUICK_LINKS_TABLE_NAME = "Quick Links";
 const QUICK_LINKS_VIEW_NAME = "Grid view";
 
+const HOW_TO_TABLE_NAME = "How To Pages";
+const HOW_TO_VIEW_NAME = "Grid view";
+
+const HOW_TO_IMAGE_TABLE_NAME = "How To Image Bank";
+const HOW_TO_IMAGE_VIEW_NAME = "Grid view";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -40,7 +46,8 @@ const LESSON_FIELDS = [
   "Day 2",
   "Day 3",
   "Day 4",
-  "Day 5"
+  "Day 5",
+  "How To Pages"
 ];
 
 const HEADER_FIELDS = [
@@ -61,6 +68,13 @@ const QUICK_LINK_FIELDS = [
   "Link Label",
   "Link URL",
   "Quick Link Sort"
+];
+
+const HOW_TO_FIELDS = [
+  "Teach/Approach",
+  ...Array.from({ length: 15 }, (_, i) => `Prompt ${i + 1}`),
+  ...Array.from({ length: 15 }, (_, i) => `Text ${i + 1}`),
+  ...Array.from({ length: 15 }, (_, i) => `Image ID ${i + 1}`)
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -911,6 +925,58 @@ function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
   };
 }
 
+function buildHowToSection(packetRecord, headerLookup) {
+  const fields = packetRecord.fields || {};
+  const howToIds = normalizeArray(fields["How To Pages"]);
+  const howToById = headerLookup.howToById || new Map();
+
+  if (!howToIds.length) return null;
+
+  const pages = [];
+
+  for (const howToId of howToIds) {
+    const record = howToById.get(howToId);
+    if (!record) continue;
+
+    const rf = record.fields || {};
+    const teachApproach = normalizeText(rf["Teach/Approach"]);
+
+    const blocks = [];
+
+    for (let i = 1; i <= 15; i++) {
+      const prompt = normalizeText(rf[`Prompt ${i}`]);
+      const text = normalizeRichText(rf[`Text ${i}`]);
+      const imageId = normalizeText(rf[`Image ID ${i}`]);
+
+      if (!prompt && !text && !imageId) continue;
+
+      blocks.push({
+        prompt,
+        text,
+        imageId,
+        image: imageId
+          ? `../images/howto_images/${imageId}.webp`
+          : ""
+      });
+    }
+
+    if (!blocks.length) continue;
+
+    pages.push({
+      title: normalizeText(fields["Lesson Set Name"]),
+      subtitle: teachApproach,
+      blocks
+    });
+  }
+
+  if (!pages.length) return null;
+
+  return {
+    type: "howto",
+    pages
+  };
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -976,8 +1042,9 @@ function buildPacket(record, headerLookup) {
           buildSuppliesResources(record, headerLookup.lessonRecordsById || new Map()),
           buildQuickLinksResources(record, matchedHeaderRecords, headerLookup)
         ].filter(Boolean)
-      }
-    ]
+      },
+      buildHowToSection(record, headerLookup)
+    ].filter(Boolean)
   };
 }
 
@@ -1037,7 +1104,25 @@ async function main() {
     QUICK_LINK_FIELDS
   );
 
+  const howToRecords = await fetchAllRecords(
+    HOW_TO_TABLE_NAME,
+    HOW_TO_VIEW_NAME,
+    HOW_TO_FIELDS
+  );
+  
+  const howToImageRecords = await fetchAllRecords(
+    HOW_TO_IMAGE_TABLE_NAME,
+    HOW_TO_IMAGE_VIEW_NAME,
+    ["Image"]
+  );
+  
+  const howToById = new Map(howToRecords.map(r => [r.id, r]));
+  const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
+
   const headerLookup = buildHeaderLookup(headerRecords);
+
+  headerLookup.howToById = howToById;
+  headerLookup.howToImagesById = howToImagesById;
 
   headerLookup.quickLinksById = new Map(
     quickLinkRecords.map(record => [record.id, record])
