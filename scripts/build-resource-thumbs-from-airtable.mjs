@@ -18,8 +18,8 @@ if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
 }
 
 const API = `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}`;
-const TABLE = "MA_Resources";
-const VIEW  = `R${ROTATION} – Resources JSON`;
+const TABLE = "tblcFxPaxl8N4o94F";
+const VIEW = "viwBfynnrHSXlbkUv";
 
 const OUT_DIR = path.join(__dirname, "..", "images", "resource_covers");
 const TMP_DIR = path.join(__dirname, "..", ".tmp-resource-images");
