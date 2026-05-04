@@ -864,16 +864,14 @@ function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
     }
   }
 
-  else {
+    else {
     const courseLinks = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
 
-    if (courseLinks.length) {
-      groups.push({
-        title: lessonSetName,
-        type: "course",
-        links: courseLinks
-      });
-    }
+    groups.push({
+      title: lessonSetName,
+      type: "course",
+      links: courseLinks
+    });
 
     for (const topicId of topicIds) {
       const topicRecord = headerLookup.lessonRecordsById?.get(topicId);
