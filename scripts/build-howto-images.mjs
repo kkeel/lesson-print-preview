@@ -17,7 +17,7 @@ if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
 }
 
 const API = `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}`;
-const TABLE = "How To Image Bank";
+const TABLE = "tbl7hyOC0M1tSabzr";
 
 const OUT_DIR = path.join(__dirname, "..", "images", "howto_images");
 const TMP_DIR = path.join(__dirname, "..", ".tmp-howto-images");
