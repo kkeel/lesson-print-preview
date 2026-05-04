@@ -450,18 +450,20 @@ function renderHeaderItem(item) {
                     <div class="quick-links-list">
                       ${groups.map(group => {
                         const links = group.links || [];
-                        if (!links.length) return "";
+                        const isCourseGroup = group.type === "course";
+                        
+                        if (!links.length && !isCourseGroup) return "";
   
                         return `
                           <div class="quick-links-group ${group.type === "course" ? "quick-links-course" : "quick-links-topic"}">
                             <h4>${escapeHtml(group.title || "")}</h4>
   
-                            ${links.map(link => `
+                            ${links.length ? links.map(link => `
                               <div class="quick-link-row">
                                 <span class="quick-link-symbol">∞</span>
                                 <a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a>
                               </div>
-                            `).join("")}
+                            `).join("") : ""}
                           </div>
                         `;
                       }).join("")}
