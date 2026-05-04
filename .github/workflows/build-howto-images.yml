@@ -26,7 +26,7 @@ jobs:
       - name: Build How To images
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
-          AIRTABLE_CURRICULUM_BASE_ID: ${{ secrets.AIRTABLE_CURRICULUM_BASE_ID }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
         run: node scripts/build-howto-images.mjs
 
       - name: Commit updated How To images
