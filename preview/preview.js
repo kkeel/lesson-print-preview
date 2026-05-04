@@ -428,19 +428,64 @@ function renderHeaderItem(item) {
     `;
   }
 
-  if (item.kind === "quick-links") {
-    return `
-      <section class="flow-block header-block">
-        <h2>${escapeHtml(item.title || "")}</h2>
-        <p>${nl2br(item.content || "")}</p>
-        <ul>
-          ${(item.links || []).map(link => `
-            <li><a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a></li>
-          `).join("")}
-        </ul>
-      </section>
-    `;
-  }
+    if (item.kind === "quick-links") {
+      const iconSrc = "../images/header_icons/Quick Links.png";
+      const linkPageUrl = item.linkPageUrl || "#";
+      const groups = item.groups || [];
+      const hasLinks = groups.some(group => (group.links || []).length);
+  
+      return `
+        <section class="flow-block header-block header-group-block">
+          <div class="header-panel">
+            <div class="header-panel-icon-col">
+              <img src="${iconSrc}" alt="Quick Links" class="header-panel-icon" />
+            </div>
+  
+            <div class="header-panel-content quick-links-content">
+              <div class="quick-links-layout">
+                <div class="quick-links-main">
+                  <h3 class="header-entry-title">Quick Links</h3>
+  
+                  ${hasLinks ? `
+                    <div class="quick-links-list">
+                      ${groups.map(group => {
+                        const links = group.links || [];
+                        if (!links.length) return "";
+  
+                        return `
+                          <div class="quick-links-group ${group.type === "course" ? "quick-links-course" : "quick-links-topic"}">
+                            <h4>${escapeHtml(group.title || "")}</h4>
+  
+                            ${links.map(link => `
+                              <div class="quick-link-row">
+                                <span class="quick-link-symbol">∞</span>
+                                <a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a>
+                              </div>
+                            `).join("")}
+                          </div>
+                        `;
+                      }).join("")}
+                    </div>
+                  ` : `
+                    <p class="quick-links-empty">(No Quick Links Assigned)</p>
+                  `}
+                </div>
+  
+                <div class="quick-links-side">
+                  <a href="${escapeHtml(linkPageUrl)}" target="_blank" class="quick-links-page-link">
+                    Click THIS text<br>
+                    or scan the QR<br>
+                    code for links.
+                  </a>
+  
+                  <div class="quick-links-qr-placeholder">QR</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      `;
+    }
 
   return "";
 }
