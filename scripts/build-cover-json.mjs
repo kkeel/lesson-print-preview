@@ -10,6 +10,9 @@ const LESSON_VIEW_NAME = "Cover Page";
 const HEADER_TABLE_NAME = "Header Pages";
 const HEADER_VIEW_NAME = "Header Print";
 
+const QUICK_LINKS_TABLE_NAME = "Quick Links";
+const QUICK_LINKS_VIEW_NAME = "Grid view";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -31,6 +34,7 @@ const LESSON_FIELDS = [
   "Supplies",
   "Supply IDs",
   "Supply List Link",
+  "Link Page",
   "SS Row Lables",
   "Day 1",
   "Day 2",
@@ -49,7 +53,14 @@ const HEADER_FIELDS = [
   "General_Export",
   "Special_Export",
   "Term_Export",
-  "Reminders_Export"
+  "Reminders_Export",
+  "Quick Links Connections"
+];
+
+const QUICK_LINK_FIELDS = [
+  "Link Label",
+  "Link URL",
+  "Quick Link Sort"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -776,6 +787,66 @@ function buildWeeklyView(record) {
   return rows.length ? { rows } : null;
 }
 
+function sortQuickLinks(links) {
+  return [...links].sort((a, b) => {
+    const aSort = Number(a.sort || 999999);
+    const bSort = Number(b.sort || 999999);
+
+    if (aSort !== bSort) return aSort - bSort;
+
+    return String(a.label || "").localeCompare(String(b.label || ""));
+  });
+}
+
+function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
+  const fields = packetRecord.fields || {};
+
+  const linkPageUrl = normalizeText(fields["Link Page"]) || "#";
+  const quickLinksById = headerLookup.quickLinksById || new Map();
+
+  const links = [];
+
+  for (const headerRecord of headerRecords || []) {
+    const headerFields = headerRecord.fields || {};
+    const quickLinkIds = normalizeArray(headerFields["Quick Links Connections"]);
+
+    for (const quickLinkId of quickLinkIds) {
+      const quickLinkRecord = quickLinksById.get(quickLinkId);
+      if (!quickLinkRecord) continue;
+
+      const qf = quickLinkRecord.fields || {};
+      const label = normalizeText(qf["Link Label"]);
+      const url = normalizeText(qf["Link URL"]);
+      const sort = normalizeText(qf["Quick Link Sort"]);
+
+      if (!label && !url) continue;
+
+      links.push({
+        label,
+        url: url || "#",
+        sort
+      });
+    }
+  }
+
+  const sortedLinks = sortQuickLinks(links);
+
+  if (!sortedLinks.length && !linkPageUrl) return null;
+
+  return {
+    kind: "quick-links",
+    title: "Quick Links",
+    linkPageUrl,
+    groups: [
+      {
+        title: normalizeText(fields["Lesson Set Name"]),
+        type: "course",
+        links: sortedLinks
+      }
+    ]
+  };
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -838,7 +909,8 @@ function buildPacket(record, headerLookup) {
           ...headerItems.filter(item => item.kind === "planning-prep-group"),
         
           buildBooksResources(record, headerLookup.lessonRecordsById || new Map()),
-          buildSuppliesResources(record, headerLookup.lessonRecordsById || new Map())
+          buildSuppliesResources(record, headerLookup.lessonRecordsById || new Map()),
+          buildQuickLinksResources(record, matchedHeaderRecords, headerLookup)
         ].filter(Boolean)
       }
     ]
@@ -895,7 +967,17 @@ async function main() {
     HEADER_FIELDS
   );
 
+  const quickLinkRecords = await fetchAllRecords(
+    QUICK_LINKS_TABLE_NAME,
+    QUICK_LINKS_VIEW_NAME,
+    QUICK_LINK_FIELDS
+  );
+
   const headerLookup = buildHeaderLookup(headerRecords);
+
+  headerLookup.quickLinksById = new Map(
+    quickLinkRecords.map(record => [record.id, record])
+  );
   headerLookup.lessonRecordsById = lessonRecordsById;
 
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
