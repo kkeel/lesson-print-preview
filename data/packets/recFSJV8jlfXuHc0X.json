@@ -142,6 +142,32 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Picture Study",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Mungyo Soft Pastels",
+                  "supplyId": "recRTkE7KQSTCZTUM"
+                },
+                {
+                  "title": "Aerosol Hair Spray",
+                  "supplyId": "recc26PokT8PPSqos"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

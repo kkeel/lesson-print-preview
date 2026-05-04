@@ -171,6 +171,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 7 (U.S.)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

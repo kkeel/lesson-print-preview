@@ -102,6 +102,68 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sloyd: Level 4",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Glue Sticks",
+                  "supplyId": "recfszE31Mt0aMDtb"
+                },
+                {
+                  "title": "Easel",
+                  "supplyId": "rec0boK7Ckv4XRUVr"
+                },
+                {
+                  "title": "Hole Punch",
+                  "supplyId": "recuyRM57pEFbfLHo"
+                },
+                {
+                  "title": "Awl",
+                  "supplyId": "recLCp0uNWUQmNsch"
+                },
+                {
+                  "title": "18\" Ruler",
+                  "supplyId": "rec1J4EbfAmqhSB9X"
+                },
+                {
+                  "title": "Fold-and-Score Tool/Bone",
+                  "supplyId": "rec6A5reVW1Ueb9Ws"
+                },
+                {
+                  "title": "T-Square",
+                  "supplyId": "recys0kRC6nBaIiUs"
+                },
+                {
+                  "title": "Cutting Mat",
+                  "supplyId": "recDOzK3fa1jIcwSq"
+                },
+                {
+                  "title": "Household Items - Sloyd: Level 4",
+                  "supplyId": "recnGJaYLCp5Y1FGZ"
+                },
+                {
+                  "title": "Tagboard",
+                  "supplyId": "rec0TWvfvT0klkJtb"
+                },
+                {
+                  "title": "Twine or String",
+                  "supplyId": "recG5uvMadIuvQ7da"
+                },
+                {
+                  "title": "X-Acto Knife",
+                  "supplyId": "recJct2bYJCJFrtXi"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

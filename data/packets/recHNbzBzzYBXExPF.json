@@ -106,6 +106,120 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Art: Level 2",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Construction Paper: Black",
+                  "supplyId": "recgpjWvRjLcGRLbA"
+                },
+                {
+                  "title": "Construction Paper: Primary and Secondary Colors",
+                  "supplyId": "receRte1KTl7iD9na"
+                },
+                {
+                  "title": "Construction Paper: White",
+                  "supplyId": "recsmAhrXepuz4QXS"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Hansa Yellow",
+                  "supplyId": "reca2icS0yjDChBol"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Prussian Blue",
+                  "supplyId": "recu0eOnrTX2JcO0K"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Quinacridone Pink",
+                  "supplyId": "rec0OpjP2iBBZqkyV"
+                },
+                {
+                  "title": "Drawing Board",
+                  "supplyId": "recpKEukPhVWpMcdX"
+                },
+                {
+                  "title": "Grid Paper Notebook",
+                  "supplyId": "recNb79kigRhO54Vd"
+                },
+                {
+                  "title": "Hand soap or dish soap",
+                  "supplyId": "recU1xd4mCEUcHD82"
+                },
+                {
+                  "title": "Hula Hoops",
+                  "supplyId": "recCniuZFQO6ooS7N"
+                },
+                {
+                  "title": "Modeling Clay: Primary and Secondary Colors",
+                  "supplyId": "rectXFT5c8GWp75CV"
+                },
+                {
+                  "title": "MYARTOOL Empty Watercolor Palette",
+                  "supplyId": "recHLPs9Gx5oO5axq"
+                },
+                {
+                  "title": "Watercolor Paper",
+                  "supplyId": "rec4cHDxIg3C7LvGd"
+                },
+                {
+                  "title": "Elmer's Glue",
+                  "supplyId": "rechtruCaoUVXZLJq"
+                },
+                {
+                  "title": "Mungyo Soft Pastels",
+                  "supplyId": "recRTkE7KQSTCZTUM"
+                },
+                {
+                  "title": "Aerosol Hair Spray",
+                  "supplyId": "recc26PokT8PPSqos"
+                },
+                {
+                  "title": "Misting Water Spray Bottle",
+                  "supplyId": "recu4Ze74RHvjv4th"
+                },
+                {
+                  "title": "Pink Pearl Erasers",
+                  "supplyId": "recozYC6SDrUOJcPg"
+                },
+                {
+                  "title": "Beste Golden Taklon Round Brush Set",
+                  "supplyId": "recu4sm0wOm7jpq1y"
+                },
+                {
+                  "title": "Blending Stumps",
+                  "supplyId": "reccU6NCtKd3xWZyY"
+                },
+                {
+                  "title": "Black Acrylic Paint",
+                  "supplyId": "rec9k81hpXG0eKWvV"
+                },
+                {
+                  "title": "Lantern",
+                  "supplyId": "recmgP7tU1pAOwrAq"
+                },
+                {
+                  "title": "Foam Core",
+                  "supplyId": "recHOcRU9OgD7YKXc"
+                },
+                {
+                  "title": "Household Items - Art: Level 2",
+                  "supplyId": "recg9Ezt4VpFP8Np7"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

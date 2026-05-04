@@ -122,6 +122,40 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 2 (U.S.)",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Globe",
+                  "supplyId": "rectHGMdrwIfCjXSc"
+                },
+                {
+                  "title": "Wall World Map",
+                  "supplyId": "rec3QOyeADcvhalHq"
+                },
+                {
+                  "title": "Magnetic Compass",
+                  "supplyId": "recUVep5B7sHdCkzV"
+                },
+                {
+                  "title": "Kinetic Sand",
+                  "supplyId": "recn9rcn4rUD93MEG"
+                },
+                {
+                  "title": "Household Items - Geography: Grade 2",
+                  "supplyId": "recQeGq5HunD5g1Nr"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

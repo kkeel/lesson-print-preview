@@ -255,6 +255,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 10",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -173,6 +173,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grades 5-6 (Canada)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

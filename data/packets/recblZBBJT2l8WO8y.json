@@ -154,6 +154,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 4",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -132,6 +132,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Language Study: Grade 11",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

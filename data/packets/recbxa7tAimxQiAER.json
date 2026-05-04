@@ -197,6 +197,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Intro",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Music Appreciation",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - Music Appreciation",
+                  "supplyId": "recGFrktY6oS3Howd"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

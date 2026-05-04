@@ -181,6 +181,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grade 10 (Canada)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

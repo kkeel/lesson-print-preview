@@ -96,6 +96,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Jump Rope",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Long Jump Rope and Short Jump Rope",
+                  "supplyId": "recxTaF92UhTSjiRi"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

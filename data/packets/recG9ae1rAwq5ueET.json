@@ -110,6 +110,52 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Reading Level 2",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Letter Tiles",
+                  "supplyId": "recNWPlypnfKQHVYF"
+                },
+                {
+                  "title": "Tile Organizer",
+                  "supplyId": "recAVeAvBMAJPYThi"
+                },
+                {
+                  "title": "Business Card Paper",
+                  "supplyId": "receC4p0krcwlQ0ww"
+                },
+                {
+                  "title": "Whisper Phone",
+                  "supplyId": "recO1mntwxq5hiBm1"
+                },
+                {
+                  "title": "Printable Big Tab Divider Inserts",
+                  "supplyId": "recUVUvajTvOk9grx"
+                },
+                {
+                  "title": "Card Organizer",
+                  "supplyId": "reck8Gy5y07OQjh3k"
+                },
+                {
+                  "title": "Plastic Organizer",
+                  "supplyId": "rec3zWBha6lOO728g"
+                },
+                {
+                  "title": "Letter Tile Organizer",
+                  "supplyId": "recp9HxFcNHRjSIdV"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

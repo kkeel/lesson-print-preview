@@ -118,6 +118,32 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Natural History: Grade 7",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - Natural History: Grade 7",
+                  "supplyId": "recqAZ5r9vMPtAk3S"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recqIdE0JbROLUWr4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -114,6 +114,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Labs: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                },
+                {
+                  "title": "Scale/Balance",
+                  "supplyId": "recwwKYpKqdBLILL4"
+                },
+                {
+                  "title": "Robot-Building Kit",
+                  "supplyId": "rec7YqBgPtclWTo2J"
+                },
+                {
+                  "title": "RC Car",
+                  "supplyId": "recWwfUKGIhG2AwpA"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

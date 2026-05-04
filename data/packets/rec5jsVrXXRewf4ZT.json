@@ -130,6 +130,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 12",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Supplies for Home Study Companion: Calculus",
+                  "supplyId": "recriPr0uUehlEjcp"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

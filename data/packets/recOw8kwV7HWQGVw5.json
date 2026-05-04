@@ -118,6 +118,32 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Natural History: Grade 8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recABKqZfR6qc8SKq"
+                },
+                {
+                  "title": "Household Items - Natural History: Grade 8",
+                  "supplyId": "recuu12wOEi7yR5jF"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

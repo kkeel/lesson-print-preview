@@ -102,6 +102,76 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sewing: Level 2",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Chenille Size 22 Sharp Point Needles",
+                  "supplyId": "rec0YWCYgoPWR7YGW"
+                },
+                {
+                  "title": "Pearl Cotton Thread",
+                  "supplyId": "recz1umkaimQHMQoe"
+                },
+                {
+                  "title": "Craft Thread/Embroidery Floss",
+                  "supplyId": "rec9Pmb73Rp9IYw9a"
+                },
+                {
+                  "title": "Fabric, ribbon, felt, etc., for individual projects (see materials lists in book)",
+                  "supplyId": "recqajnnzqIMMr6b1"
+                },
+                {
+                  "title": "Large Safety Pins",
+                  "supplyId": "recVtKaRyGkKgKVus"
+                },
+                {
+                  "title": "Measuring Tape",
+                  "supplyId": "recHPdXOOd5mYTe22"
+                },
+                {
+                  "title": "Needle Threader",
+                  "supplyId": "recpwRKoT4hd5z9jO"
+                },
+                {
+                  "title": "Pinking Shears",
+                  "supplyId": "recTsBBdyMDI5p2D1"
+                },
+                {
+                  "title": "Poly-fil",
+                  "supplyId": "rec7CFdNZZHSx4lJA"
+                },
+                {
+                  "title": "Straight Pins",
+                  "supplyId": "recJ3VpTKEAcpKVuW"
+                },
+                {
+                  "title": "Water Soluble Marking Pen",
+                  "supplyId": "recgNVORFRuNO5yfz"
+                },
+                {
+                  "title": "Wool Yarn (variety of colors)",
+                  "supplyId": "recO3XI72El1Cb7W3"
+                },
+                {
+                  "title": "Project Materials",
+                  "supplyId": "rec3lZGyMDQZuUcEM"
+                },
+                {
+                  "title": "Embroidery Hoop",
+                  "supplyId": "recBDSeRGPucBb2ag"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

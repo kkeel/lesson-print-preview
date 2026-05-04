@@ -179,6 +179,86 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 7",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Alveary Grade 7 Science Kit",
+                  "supplyId": "recjxHGySk5gSgCb9"
+                }
+              ]
+            },
+            {
+              "title": "Nature Walks & Scouting: Grades 1-8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                },
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Small Basin",
+                  "supplyId": "recd4lAszG35EOKo9"
+                },
+                {
+                  "title": "Dip Net",
+                  "supplyId": "recg76nFFWiP9lXw9"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                }
+              ]
+            },
+            {
+              "title": "General Science: Grade 7",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 7",
+                  "supplyId": "rec3maV9UvC8adQGc"
+                }
+              ]
+            },
+            {
+              "title": "Natural History: Grade 7",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - Natural History: Grade 7",
+                  "supplyId": "recqAZ5r9vMPtAk3S"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recqIdE0JbROLUWr4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

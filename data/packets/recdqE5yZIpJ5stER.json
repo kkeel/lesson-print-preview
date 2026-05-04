@@ -102,6 +102,40 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sloyd: Intro",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Fold-and-Score Tool/Bone",
+                  "supplyId": "rec6A5reVW1Ueb9Ws"
+                },
+                {
+                  "title": "Origami Paper Double Sided Color",
+                  "supplyId": "recvgCzOQ2imeaCah"
+                },
+                {
+                  "title": "Paper Brads",
+                  "supplyId": "recwBFJ6HXUoSgBXH"
+                },
+                {
+                  "title": "Awl",
+                  "supplyId": "recLCp0uNWUQmNsch"
+                },
+                {
+                  "title": "18\" Ruler",
+                  "supplyId": "rec1J4EbfAmqhSB9X"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

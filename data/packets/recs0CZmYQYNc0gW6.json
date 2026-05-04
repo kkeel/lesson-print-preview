@@ -92,6 +92,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Chemistry Labs",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

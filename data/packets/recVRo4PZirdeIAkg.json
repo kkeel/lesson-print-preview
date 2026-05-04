@@ -150,6 +150,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grades 7-8",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

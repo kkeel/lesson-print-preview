@@ -102,6 +102,60 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sewing: Level 1",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Buttons",
+                  "supplyId": "recNpZkTqaZGIpoJY"
+                },
+                {
+                  "title": "Chenille Size 22 Sharp Point Needles",
+                  "supplyId": "rec0YWCYgoPWR7YGW"
+                },
+                {
+                  "title": "Craft Thread/Embroidery Floss",
+                  "supplyId": "rec9Pmb73Rp9IYw9a"
+                },
+                {
+                  "title": "Fabric Markers",
+                  "supplyId": "rechU7SCqRVN8ajG6"
+                },
+                {
+                  "title": "Large Safety Pins",
+                  "supplyId": "recVtKaRyGkKgKVus"
+                },
+                {
+                  "title": "Needle Threader",
+                  "supplyId": "recpwRKoT4hd5z9jO"
+                },
+                {
+                  "title": "Pinking Shears",
+                  "supplyId": "recTsBBdyMDI5p2D1"
+                },
+                {
+                  "title": "Poly-fil",
+                  "supplyId": "rec7CFdNZZHSx4lJA"
+                },
+                {
+                  "title": "Project Materials",
+                  "supplyId": "rec3lZGyMDQZuUcEM"
+                },
+                {
+                  "title": "Straight Pins",
+                  "supplyId": "recJ3VpTKEAcpKVuW"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

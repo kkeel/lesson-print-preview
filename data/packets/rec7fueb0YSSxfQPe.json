@@ -168,6 +168,75 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 3",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Nature Walks & Scouting: Grades 1-8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                },
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Small Basin",
+                  "supplyId": "recd4lAszG35EOKo9"
+                },
+                {
+                  "title": "Dip Net",
+                  "supplyId": "recg76nFFWiP9lXw9"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                }
+              ]
+            },
+            {
+              "title": "General Science: Grade 3",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 3",
+                  "supplyId": "recGyXoLrWMHHIXjw"
+                },
+                {
+                  "title": "Ladybug Land with Voucher to Obtain Larva",
+                  "supplyId": "recSivxh580z6JOO9"
+                },
+                {
+                  "title": "Large Owl Pellet Kit",
+                  "supplyId": "recaMOJtCFW4fUDwg"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

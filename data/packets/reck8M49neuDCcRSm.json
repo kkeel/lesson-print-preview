@@ -158,6 +158,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Introduction to Engineering",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

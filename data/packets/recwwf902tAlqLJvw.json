@@ -168,6 +168,54 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Biology",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Alveary High School Biology Kit",
+                  "supplyId": "recn1KkyVK2YtJNPz"
+                },
+                {
+                  "title": "Elodea",
+                  "supplyId": "recthF7DCZenPAarB"
+                },
+                {
+                  "title": "Household Items - Science: Biology",
+                  "supplyId": "reci8hHLIzpfRI68Q"
+                },
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recABKqZfR6qc8SKq"
+                },
+                {
+                  "title": "Frog Dissection Specimen",
+                  "supplyId": "recbjhx9HIAcFTmwM"
+                }
+              ]
+            },
+            {
+              "title": "Biology Labs",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

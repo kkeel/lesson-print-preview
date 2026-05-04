@@ -165,6 +165,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 3",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -181,6 +181,48 @@
               "content": "Science: Grade 1\nObject lesson prompts are woven into the lessons as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term:\n\nScience: Grade 2\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term:\n\nScience: Grade 3\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term:\n\nScience: Grade 4\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:\n\nScience: Grade 5\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:\n\nScience: Grade 6\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:"
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Nature Walks & Scouting: Grades 1-8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                },
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Small Basin",
+                  "supplyId": "recd4lAszG35EOKo9"
+                },
+                {
+                  "title": "Dip Net",
+                  "supplyId": "recg76nFFWiP9lXw9"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

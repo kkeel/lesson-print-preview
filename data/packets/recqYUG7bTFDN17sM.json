@@ -154,6 +154,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grade 4 (Canada)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

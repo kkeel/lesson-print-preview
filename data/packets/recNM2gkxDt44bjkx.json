@@ -114,6 +114,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 7",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 7",
+                  "supplyId": "rec3maV9UvC8adQGc"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

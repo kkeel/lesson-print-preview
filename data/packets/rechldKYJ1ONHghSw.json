@@ -96,6 +96,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Playground Songs & Rhymes",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Rhythm Sticks",
+                  "supplyId": "reczuWgjXN9knDMOw"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

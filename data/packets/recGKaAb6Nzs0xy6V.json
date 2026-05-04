@@ -183,6 +183,100 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 8",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Alveary Grade 8 Science Kit",
+                  "supplyId": "rec2OkxNYXNp31Bkm"
+                }
+              ]
+            },
+            {
+              "title": "Nature Walks & Scouting: Grades 1-8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                },
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Small Basin",
+                  "supplyId": "recd4lAszG35EOKo9"
+                },
+                {
+                  "title": "Dip Net",
+                  "supplyId": "recg76nFFWiP9lXw9"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                }
+              ]
+            },
+            {
+              "title": "General Science: Grade 8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 8",
+                  "supplyId": "recUwE7ZL0hxsYw17"
+                }
+              ]
+            },
+            {
+              "title": "Labs: Grade 8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Scale/Balance",
+                  "supplyId": "recwwKYpKqdBLILL4"
+                }
+              ]
+            },
+            {
+              "title": "Natural History: Grade 8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recABKqZfR6qc8SKq"
+                },
+                {
+                  "title": "Household Items - Natural History: Grade 8",
+                  "supplyId": "recuu12wOEi7yR5jF"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

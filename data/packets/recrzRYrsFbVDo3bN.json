@@ -126,6 +126,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 5",
+                  "supplyId": "rec9bmdHS3jAqjR7m"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

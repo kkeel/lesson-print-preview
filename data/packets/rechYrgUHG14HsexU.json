@@ -134,6 +134,32 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 2",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Butterfly Garden with Voucher to Obtain Larva",
+                  "supplyId": "recyDEhQnNuEbWnGx"
+                },
+                {
+                  "title": "Household Items - General Science: Grade 2",
+                  "supplyId": "recbmKjCTtWO0iyd0"
+                },
+                {
+                  "title": "Various Seashells",
+                  "supplyId": "recB3k0uFRkNnoRSS"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

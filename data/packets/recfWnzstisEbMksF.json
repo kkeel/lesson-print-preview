@@ -205,6 +205,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 1",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

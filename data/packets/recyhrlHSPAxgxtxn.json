@@ -150,6 +150,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "History: Grades 7-8 (Canada)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -133,6 +133,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 6",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -134,6 +134,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Natural History: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - Natural History: Grade 5",
+                  "supplyId": "recRoAfPfZnAUshVD"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

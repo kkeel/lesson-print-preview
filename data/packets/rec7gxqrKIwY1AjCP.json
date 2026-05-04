@@ -172,6 +172,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Microbiology",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "The Illustrated Guide to Home Biology Experiments",
+                  "supplyId": "recC5RqR54ie00CUr"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

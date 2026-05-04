@@ -201,6 +201,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 2",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Sol-fa: Level 2",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Glockenspiel",
+                  "supplyId": "recX2z4y84KxXfFRM"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

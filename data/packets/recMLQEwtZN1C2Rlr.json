@@ -165,6 +165,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grades 10-11",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -158,6 +158,93 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "PE: Grades 7-12",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Playground Games",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Hula Hoops",
+                  "supplyId": "recCniuZFQO6ooS7N"
+                },
+                {
+                  "title": "Long Jump Rope and Short Jump Rope",
+                  "supplyId": "recxTaF92UhTSjiRi"
+                },
+                {
+                  "title": "Cones, Bean Bags, and Rings Set",
+                  "supplyId": "recOWngmsUv0GtLyl"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            },
+            {
+              "title": "Sports",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Soccer ball",
+                  "supplyId": "reculfpwAIArL6kSS"
+                },
+                {
+                  "title": "Cones, Bean Bags, and Rings Set",
+                  "supplyId": "recOWngmsUv0GtLyl"
+                },
+                {
+                  "title": "Basketball",
+                  "supplyId": "recJqJ7pzlm6IUcPY"
+                },
+                {
+                  "title": "Hula Hoops",
+                  "supplyId": "recCniuZFQO6ooS7N"
+                },
+                {
+                  "title": "Playground Ball",
+                  "supplyId": "rec9gkLaN0A6RJbGe"
+                },
+                {
+                  "title": "Frisbee",
+                  "supplyId": "rec6W5pWYHNPjvfxz"
+                },
+                {
+                  "title": "Croquet set",
+                  "supplyId": "recE8ZBMQBonah3Bu"
+                }
+              ]
+            },
+            {
+              "title": "Free Play/ Circuits",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Dumbbell Hand Weight Sets of 2 (1-3 pounds)",
+                  "supplyId": "recFbdXVbopUgojp8"
+                },
+                {
+                  "title": "Exercise Ball",
+                  "supplyId": "recYKdxPxQu7hgLVh"
+                },
+                {
+                  "title": "Exercise Mat",
+                  "supplyId": "recBoOE6nSOA2z2Oa"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

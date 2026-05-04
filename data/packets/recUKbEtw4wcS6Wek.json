@@ -79,6 +79,13 @@
               "content": "Physics Labs\n☐ Preview science labs and purchase materials as indicated on the supply list. Print or shortcut any links, as desired."
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": []
         }
       ]
     }

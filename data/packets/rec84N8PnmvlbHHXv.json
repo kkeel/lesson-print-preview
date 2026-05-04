@@ -240,6 +240,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 11",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -114,6 +114,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Labs: Grade 6",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Scale/Balance",
+                  "supplyId": "recwwKYpKqdBLILL4"
+                },
+                {
+                  "title": "Classroom Collection of Rocks and Minerals",
+                  "supplyId": "recwndiZ35Fp6vBNu"
+                },
+                {
+                  "title": "General Fossil Collection",
+                  "supplyId": "recF9I0ufQgEgtFti"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -106,6 +106,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sloyd: Level 7",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Glue Sticks",
+                  "supplyId": "recfszE31Mt0aMDtb"
+                },
+                {
+                  "title": "Awl",
+                  "supplyId": "recLCp0uNWUQmNsch"
+                },
+                {
+                  "title": "Fold-and-Score Tool/Bone",
+                  "supplyId": "rec6A5reVW1Ueb9Ws"
+                },
+                {
+                  "title": "A4 Paper",
+                  "supplyId": "recEUF5uaiViNY7Rn"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

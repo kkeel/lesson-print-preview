@@ -138,6 +138,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 11",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Supplies for Home Study Companion: Precalculus",
+                  "supplyId": "recqmtXmxyAjXOHYF"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

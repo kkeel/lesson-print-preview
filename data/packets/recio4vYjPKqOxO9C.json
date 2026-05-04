@@ -122,6 +122,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 1",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Crayola Model Magic Dough",
+                  "supplyId": "recKv2xwM8MGRJY9L"
+                },
+                {
+                  "title": "Kinetic Sand",
+                  "supplyId": "recn9rcn4rUD93MEG"
+                },
+                {
+                  "title": "Magnetic Compass",
+                  "supplyId": "recUVep5B7sHdCkzV"
+                },
+                {
+                  "title": "Globe",
+                  "supplyId": "rectHGMdrwIfCjXSc"
+                },
+                {
+                  "title": "Wall World Map",
+                  "supplyId": "rec3QOyeADcvhalHq"
+                },
+                {
+                  "title": "Household Items - Geography: Grade 1",
+                  "supplyId": "recauvk92zdQSwcCH"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

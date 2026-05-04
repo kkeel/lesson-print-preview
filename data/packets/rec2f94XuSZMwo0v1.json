@@ -114,6 +114,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Labs: Grade 4",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

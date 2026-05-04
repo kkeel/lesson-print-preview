@@ -168,6 +168,58 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Chemistry",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Alveary High School Chemistry Kit",
+                  "supplyId": "recl19JWbQ6M5Y9hs"
+                },
+                {
+                  "title": "Food-Grade Calcium Chloride",
+                  "supplyId": "recpYNyHtMh5w6Byt"
+                },
+                {
+                  "title": "Food-Grade Sodium Alginate",
+                  "supplyId": "recSjc7ZUixYPRZ21"
+                },
+                {
+                  "title": "Food-Grade Sodium Hydroxide",
+                  "supplyId": "recwttzNqMHQhFY0R"
+                },
+                {
+                  "title": "Household Items - Science: Chemistry",
+                  "supplyId": "rec74Bircd6s2sS7I"
+                },
+                {
+                  "title": "Organic Chemistry Model Kit",
+                  "supplyId": "recYP1gY7wOvvqA8M"
+                },
+                {
+                  "title": "Scale/Balance",
+                  "supplyId": "recwwKYpKqdBLILL4"
+                }
+              ]
+            },
+            {
+              "title": "Chemistry Labs",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

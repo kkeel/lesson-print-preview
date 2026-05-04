@@ -196,6 +196,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 9",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

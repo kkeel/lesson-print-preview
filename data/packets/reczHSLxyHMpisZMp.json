@@ -203,6 +203,112 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Grade 5",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Alveary Grade 5 Science Kit",
+                  "supplyId": "recwnizjUT4SKhtHg"
+                },
+                {
+                  "title": "48 Prepared Microscope Slides for Beginner",
+                  "supplyId": "recFhuq5g7H3tsECB"
+                }
+              ]
+            },
+            {
+              "title": "Nature Walks & Scouting: Grades 1-8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                },
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Small Basin",
+                  "supplyId": "recd4lAszG35EOKo9"
+                },
+                {
+                  "title": "Dip Net",
+                  "supplyId": "recg76nFFWiP9lXw9"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                }
+              ]
+            },
+            {
+              "title": "General Science: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 5",
+                  "supplyId": "rec9bmdHS3jAqjR7m"
+                }
+              ]
+            },
+            {
+              "title": "Labs: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                },
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                },
+                {
+                  "title": "Safety Goggles",
+                  "supplyId": "rec5BbM9swcIQ4qf8"
+                },
+                {
+                  "title": "Scale/Balance",
+                  "supplyId": "recwwKYpKqdBLILL4"
+                },
+                {
+                  "title": "Robot-Building Kit",
+                  "supplyId": "rec7YqBgPtclWTo2J"
+                },
+                {
+                  "title": "RC Car",
+                  "supplyId": "recWwfUKGIhG2AwpA"
+                }
+              ]
+            },
+            {
+              "title": "Natural History: Grade 5",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - Natural History: Grade 5",
+                  "supplyId": "recRoAfPfZnAUshVD"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -156,6 +156,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 11 (Canada)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

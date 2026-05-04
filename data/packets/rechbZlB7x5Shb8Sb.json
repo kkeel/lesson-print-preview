@@ -173,6 +173,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grade 12",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -110,6 +110,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 2",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Glockenspiel",
+                  "supplyId": "recX2z4y84KxXfFRM"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

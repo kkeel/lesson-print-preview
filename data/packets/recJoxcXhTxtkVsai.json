@@ -139,6 +139,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 2",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -153,6 +153,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 7",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "RS2 Geometry Set",
+                  "supplyId": "recBCOHOUEyc3zByo"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

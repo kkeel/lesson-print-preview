@@ -122,6 +122,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sol-fa: Level 3",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Piano or Keyboard",
+                  "supplyId": "recJ1pIrO1TLDYmIK"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

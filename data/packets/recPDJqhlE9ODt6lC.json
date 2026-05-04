@@ -146,6 +146,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Poetry: Grade 7",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

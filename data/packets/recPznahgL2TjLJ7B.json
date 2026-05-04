@@ -198,6 +198,54 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Botany",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Calcium Hydroxide",
+                  "supplyId": "recLOxo6b4p7OuBvG"
+                },
+                {
+                  "title": "Cobalt Chloride",
+                  "supplyId": "recFE8UOYmb9slutF"
+                },
+                {
+                  "title": "Glass Rod",
+                  "supplyId": "recceIcKi16ETNqkw"
+                },
+                {
+                  "title": "Household Items - Science: Botany",
+                  "supplyId": "recjvMW8f556UiFK6"
+                },
+                {
+                  "title": "Calcium Carbonate",
+                  "supplyId": "rec6descWNq8wrrec"
+                },
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recABKqZfR6qc8SKq"
+                }
+              ]
+            },
+            {
+              "title": "Botany Labs",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

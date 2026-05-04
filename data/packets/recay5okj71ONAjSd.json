@@ -118,6 +118,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Playground Games",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Hula Hoops",
+                  "supplyId": "recCniuZFQO6ooS7N"
+                },
+                {
+                  "title": "Long Jump Rope and Short Jump Rope",
+                  "supplyId": "recxTaF92UhTSjiRi"
+                },
+                {
+                  "title": "Cones, Bean Bags, and Rings Set",
+                  "supplyId": "recOWngmsUv0GtLyl"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

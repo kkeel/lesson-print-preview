@@ -100,6 +100,19 @@
               "books": []
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 12",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

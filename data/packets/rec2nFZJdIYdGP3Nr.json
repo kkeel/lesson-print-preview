@@ -110,6 +110,28 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grades 4-6",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Crayola Model Magic Dough",
+                  "supplyId": "recKv2xwM8MGRJY9L"
+                },
+                {
+                  "title": "Household Items - Geography: Grades 4-6",
+                  "supplyId": "recilGywsdDfghW8M"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -130,6 +130,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 1",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "RS2 Math Set",
+                  "supplyId": "recR0IWa58ca6ouLk"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

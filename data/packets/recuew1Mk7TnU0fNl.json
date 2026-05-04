@@ -110,6 +110,56 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Reading Level 1",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Letter Tiles",
+                  "supplyId": "recNWPlypnfKQHVYF"
+                },
+                {
+                  "title": "Tile Organizer",
+                  "supplyId": "recAVeAvBMAJPYThi"
+                },
+                {
+                  "title": "Whisper Phone",
+                  "supplyId": "recO1mntwxq5hiBm1"
+                },
+                {
+                  "title": "Business Card Paper",
+                  "supplyId": "receC4p0krcwlQ0ww"
+                },
+                {
+                  "title": "Printable Big Tab Divider Inserts",
+                  "supplyId": "recUVUvajTvOk9grx"
+                },
+                {
+                  "title": "Card Organizer",
+                  "supplyId": "reck8Gy5y07OQjh3k"
+                },
+                {
+                  "title": "Plastic Organizer",
+                  "supplyId": "rec3zWBha6lOO728g"
+                },
+                {
+                  "title": "Craft Sticks",
+                  "supplyId": "rec45K5SEqMHDvHB7"
+                },
+                {
+                  "title": "Letter Tile Organizer",
+                  "supplyId": "recp9HxFcNHRjSIdV"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

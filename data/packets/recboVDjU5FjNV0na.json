@@ -146,6 +146,32 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Physics",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Cell Phone Tripod",
+                  "supplyId": "recKIca6Tr8sOgEH8"
+                },
+                {
+                  "title": "Household Items - Science: Physics",
+                  "supplyId": "reccksZCq2OEccNIH"
+                },
+                {
+                  "title": "Pocket Lab",
+                  "supplyId": "recrySuYFbDd97EKy"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -175,6 +175,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Citizenship: Grade 8 (U.S.)",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

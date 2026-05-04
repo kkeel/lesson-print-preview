@@ -106,6 +106,28 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Shakespeare: Beginner Track",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "A Midsummer Night’s Dream Black & White Puppets",
+                  "supplyId": "rec1pCjf3q0BTJSCC"
+                },
+                {
+                  "title": "A Midsummer Night’s Dream Painted Puppets",
+                  "supplyId": "rec85ITHQGSf2j7ge"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -102,6 +102,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Lettering: Level 1",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Cap Pencil Eraser",
+                  "supplyId": "recxSRl82pPCHwuUM"
+                },
+                {
+                  "title": "Fine Grit Sandpaper",
+                  "supplyId": "recjfpSbsfGNrxPwk"
+                },
+                {
+                  "title": "Handheld Sharpener",
+                  "supplyId": "recLEl6u3eu21WxFr"
+                },
+                {
+                  "title": "Old Hand Towel",
+                  "supplyId": "recGbvUMDnaCtD2ei"
+                },
+                {
+                  "title": "Q-Tips",
+                  "supplyId": "recvFMuyKHN6V8Zxg"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

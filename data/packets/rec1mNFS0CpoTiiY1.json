@@ -147,6 +147,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Language Study: Grade 10",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

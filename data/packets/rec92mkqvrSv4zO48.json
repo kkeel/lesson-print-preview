@@ -106,6 +106,88 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Art: Level 4",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Compressed Charcoal",
+                  "supplyId": "recr1lHH8BoEFTqtV"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Hansa Yellow",
+                  "supplyId": "reca2icS0yjDChBol"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Prussian Blue",
+                  "supplyId": "recu0eOnrTX2JcO0K"
+                },
+                {
+                  "title": "Daniel Smith Extra Fine Watercolor Pigment: Quinacridone Pink",
+                  "supplyId": "rec0OpjP2iBBZqkyV"
+                },
+                {
+                  "title": "Drawing Board",
+                  "supplyId": "recpKEukPhVWpMcdX"
+                },
+                {
+                  "title": "Kneaded Erasers",
+                  "supplyId": "recyr7tIPyJoTPurU"
+                },
+                {
+                  "title": "MYARTOOL Empty Watercolor Palette",
+                  "supplyId": "recHLPs9Gx5oO5axq"
+                },
+                {
+                  "title": "Mungyo Soft Pastels",
+                  "supplyId": "recRTkE7KQSTCZTUM"
+                },
+                {
+                  "title": "Aerosol Hair Spray",
+                  "supplyId": "recc26PokT8PPSqos"
+                },
+                {
+                  "title": "Misting Water Spray Bottle",
+                  "supplyId": "recu4Ze74RHvjv4th"
+                },
+                {
+                  "title": "Pink Pearl Erasers",
+                  "supplyId": "recozYC6SDrUOJcPg"
+                },
+                {
+                  "title": "Beste Golden Taklon Round Brush Set",
+                  "supplyId": "recu4sm0wOm7jpq1y"
+                },
+                {
+                  "title": "Dry Erase Marker",
+                  "supplyId": "recF8Fhzz8SteFhw3"
+                },
+                {
+                  "title": "Blending Stumps",
+                  "supplyId": "reccU6NCtKd3xWZyY"
+                },
+                {
+                  "title": "Easel",
+                  "supplyId": "rec0boK7Ckv4XRUVr"
+                },
+                {
+                  "title": "Household Items - Art: Level 4",
+                  "supplyId": "recwg4k0AflNjQGdR"
+                },
+                {
+                  "title": "White and Colored Chalk",
+                  "supplyId": "recJ9uLxsxnIebHTI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

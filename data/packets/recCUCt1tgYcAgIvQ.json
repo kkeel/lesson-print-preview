@@ -165,6 +165,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Language Study: Grade 8",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

@@ -126,6 +126,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Natural History: Grade 4",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Slides and Coverslips",
+                  "supplyId": "recnwh9Aj3O3yUxB2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

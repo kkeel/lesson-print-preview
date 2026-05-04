@@ -102,6 +102,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Lettering: Level 3",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Daniel Smith Watercolor (assorted colors)",
+                  "supplyId": "reczZyjR4YXfdn5uN"
+                },
+                {
+                  "title": "Fudenosuke Brush Pen Set of 2 (Hard & Soft Tip)",
+                  "supplyId": "recCoMjkbdhaNi9pQ"
+                },
+                {
+                  "title": "Higgins Drawing Ink",
+                  "supplyId": "recqQcgvC5HrvAPpR"
+                },
+                {
+                  "title": "Beste Golden Taklon Round Brush Set",
+                  "supplyId": "recu4sm0wOm7jpq1y"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

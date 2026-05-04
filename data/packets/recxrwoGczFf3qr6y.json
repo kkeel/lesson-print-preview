@@ -126,6 +126,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 3",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 3",
+                  "supplyId": "recGyXoLrWMHHIXjw"
+                },
+                {
+                  "title": "Ladybug Land with Voucher to Obtain Larva",
+                  "supplyId": "recSivxh580z6JOO9"
+                },
+                {
+                  "title": "Large Owl Pellet Kit",
+                  "supplyId": "recaMOJtCFW4fUDwg"
+                },
+                {
+                  "title": "Small Collection Containers",
+                  "supplyId": "recM4niC0uKGwJEKZ"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

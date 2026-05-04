@@ -147,6 +147,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Literature: Grade 3",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

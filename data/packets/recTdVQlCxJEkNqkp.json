@@ -148,6 +148,39 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "PE: Grades 1-3",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Playground Songs & Rhymes",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Rhythm Sticks",
+                  "supplyId": "reczuWgjXN9knDMOw"
+                }
+              ]
+            },
+            {
+              "title": "Jump Rope",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Long Jump Rope and Short Jump Rope",
+                  "supplyId": "recxTaF92UhTSjiRi"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

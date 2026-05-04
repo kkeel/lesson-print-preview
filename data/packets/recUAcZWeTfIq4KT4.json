@@ -122,6 +122,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 6",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Alveary Grade 6 Science Kit",
+                  "supplyId": "recOMNRbhnzBQSA6m"
+                },
+                {
+                  "title": "Household Items - General Science: Grade 6",
+                  "supplyId": "recjOdbzFlv9EJ831"
+                },
+                {
+                  "title": "Student Microscope",
+                  "supplyId": "recNpoMU4TNvkPkoM"
+                },
+                {
+                  "title": "Prepared Microscope Slides",
+                  "supplyId": "recqIdE0JbROLUWr4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

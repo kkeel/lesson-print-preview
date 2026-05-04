@@ -209,6 +209,29 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Music: Level 4",
+              "type": "course",
+              "supplies": []
+            },
+            {
+              "title": "Sol-fa: Level 4",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Piano or Keyboard",
+                  "supplyId": "recJ1pIrO1TLDYmIK"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

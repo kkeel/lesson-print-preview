@@ -118,6 +118,48 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Sports",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Soccer ball",
+                  "supplyId": "reculfpwAIArL6kSS"
+                },
+                {
+                  "title": "Cones, Bean Bags, and Rings Set",
+                  "supplyId": "recOWngmsUv0GtLyl"
+                },
+                {
+                  "title": "Basketball",
+                  "supplyId": "recJqJ7pzlm6IUcPY"
+                },
+                {
+                  "title": "Hula Hoops",
+                  "supplyId": "recCniuZFQO6ooS7N"
+                },
+                {
+                  "title": "Playground Ball",
+                  "supplyId": "rec9gkLaN0A6RJbGe"
+                },
+                {
+                  "title": "Frisbee",
+                  "supplyId": "rec6W5pWYHNPjvfxz"
+                },
+                {
+                  "title": "Croquet set",
+                  "supplyId": "recE8ZBMQBonah3Bu"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

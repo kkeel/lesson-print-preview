@@ -118,6 +118,28 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Geography: Grade 3 (U.S.)",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Globe",
+                  "supplyId": "rectHGMdrwIfCjXSc"
+                },
+                {
+                  "title": "Household Items - Geography: Grade 3",
+                  "supplyId": "recEw0tj50OTsGEjK"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

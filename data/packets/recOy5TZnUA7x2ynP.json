@@ -138,6 +138,36 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 1",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Crayola Model Magic Dough",
+                  "supplyId": "recKv2xwM8MGRJY9L"
+                },
+                {
+                  "title": "Household Items - General Science: Grade 1",
+                  "supplyId": "rec4DP4oO1w8ref0b"
+                },
+                {
+                  "title": "Wild Bird Seed",
+                  "supplyId": "recOU6KJJgMc4IIaV"
+                },
+                {
+                  "title": "Bird Feeder",
+                  "supplyId": "recRbhOzHDz0BHxFX"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

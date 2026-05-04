@@ -106,6 +106,96 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Art History",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Mungyo Soft Pastels",
+                  "supplyId": "recRTkE7KQSTCZTUM"
+                },
+                {
+                  "title": "Compressed Charcoal",
+                  "supplyId": "recr1lHH8BoEFTqtV"
+                },
+                {
+                  "title": "Glue Sticks",
+                  "supplyId": "recfszE31Mt0aMDtb"
+                },
+                {
+                  "title": "Tacky Glue",
+                  "supplyId": "recABrHiQ95NTJGg7"
+                },
+                {
+                  "title": "Air Dry Modeling Clay",
+                  "supplyId": "recAAoFPpnJY2MSHO"
+                },
+                {
+                  "title": "Multi Piece Pottery Tool Kit",
+                  "supplyId": "recByMu7MOylVeggr"
+                },
+                {
+                  "title": "Gold Leaf Sheets",
+                  "supplyId": "recoszaxTHMt3qhee"
+                },
+                {
+                  "title": "Colored Masking Tape",
+                  "supplyId": "recYEM7iNB5ffPUkW"
+                },
+                {
+                  "title": "Duct Tape",
+                  "supplyId": "rec6Ywjf7mMETLiY2"
+                },
+                {
+                  "title": "Sumi Ink",
+                  "supplyId": "rec9R4oSsD9XnLQFD"
+                },
+                {
+                  "title": "Brayer",
+                  "supplyId": "recIPh7Dv1mXEVcyq"
+                },
+                {
+                  "title": "Gallery Glass Black Leading and Paint",
+                  "supplyId": "rec07ORMl55ohPJNV"
+                },
+                {
+                  "title": "Block Ink",
+                  "supplyId": "rec7BjoW1EnCwNm9Q"
+                },
+                {
+                  "title": "Bamboo Brush",
+                  "supplyId": "recTLOC85Pkfei8NY"
+                },
+                {
+                  "title": "X-Acto Knife",
+                  "supplyId": "rec6FeK1UymL1CP2g"
+                },
+                {
+                  "title": "Linoleum Block",
+                  "supplyId": "recm89AzGN8vEWf8w"
+                },
+                {
+                  "title": "Lino Cutting Tools",
+                  "supplyId": "rect8FiSTETpgKEPf"
+                },
+                {
+                  "title": "Waterproof Metallic Pens",
+                  "supplyId": "recwMbhSIyz5etTJd"
+                },
+                {
+                  "title": "Household Items - Art History",
+                  "supplyId": "recpQR4LmaJfAHjnI"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

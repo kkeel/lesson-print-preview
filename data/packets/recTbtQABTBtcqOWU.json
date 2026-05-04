@@ -87,6 +87,24 @@
               "books": []
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Mathematics: Grade 10",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "9-piece Geometry School Set",
+                  "supplyId": "recOoyD2oyxMtGwsU"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -122,6 +122,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 8",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Household Items - General Science: Grade 8",
+                  "supplyId": "recUwE7ZL0hxsYw17"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

@@ -96,6 +96,128 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Handicrafts",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Air Dry Modeling Clay",
+                  "supplyId": "recAAoFPpnJY2MSHO"
+                },
+                {
+                  "title": "Multi Piece Pottery Tool Kit",
+                  "supplyId": "recByMu7MOylVeggr"
+                },
+                {
+                  "title": "Chambray Fabric",
+                  "supplyId": "recwZn3lHmUW9I7Ne"
+                },
+                {
+                  "title": "Sashiko Thread",
+                  "supplyId": "reciaFOLapppj0JdL"
+                },
+                {
+                  "title": "Sashiko Needles",
+                  "supplyId": "recCMLW4nwFHQdg7A"
+                },
+                {
+                  "title": "Sashiko Pattern Template",
+                  "supplyId": "rec3M3HmaB5oBIJZq"
+                },
+                {
+                  "title": "Heat Erasable Pens",
+                  "supplyId": "rechqmM226wUcNyS0"
+                },
+                {
+                  "title": "Embroidery Fabric Squares",
+                  "supplyId": "recdqR6ziNKK1rHOn"
+                },
+                {
+                  "title": "Red Cotton Embroidery Thread",
+                  "supplyId": "recrNF8yf26T4Lib8"
+                },
+                {
+                  "title": "Sponge",
+                  "supplyId": "recEZXf5l1XgAWo4a"
+                },
+                {
+                  "title": "B-7000 Glue",
+                  "supplyId": "recbqu4QpnBzdxNWO"
+                },
+                {
+                  "title": "Precision Tweezers",
+                  "supplyId": "recsZG3M6oX68dS79"
+                },
+                {
+                  "title": "Pipettes",
+                  "supplyId": "recXXm2TrgPXSaoE0"
+                },
+                {
+                  "title": "Household Items - Handicrafts",
+                  "supplyId": "recX7cvlDjiO9gyUM"
+                },
+                {
+                  "title": "Mini Plastic Cups",
+                  "supplyId": "recHLmpDSBZHeHWdI"
+                },
+                {
+                  "title": "Colorful Sand",
+                  "supplyId": "recgLEuNAJJEUhWXe"
+                },
+                {
+                  "title": "Pigment Fixing Glue",
+                  "supplyId": "rec0ca9LyW0DLmhUS"
+                },
+                {
+                  "title": "1mm Flat Wire",
+                  "supplyId": "recz3SPuHkQyz2u2E"
+                },
+                {
+                  "title": "Small Spray Bottle",
+                  "supplyId": "recj2Kdy3vb2reR4g"
+                },
+                {
+                  "title": "Bamboo Blank Base Trays",
+                  "supplyId": "rec3ORuC4PbJOGKkc"
+                },
+                {
+                  "title": "Unfinished Wood Pieces",
+                  "supplyId": "rec8Srw5fDKof24us"
+                },
+                {
+                  "title": "Wire Cutters",
+                  "supplyId": "rec6S28JdRxsO08HT"
+                },
+                {
+                  "title": "Palette Knife",
+                  "supplyId": "recHbCd9YpmBvRKsJ"
+                },
+                {
+                  "title": "Pendant Trays",
+                  "supplyId": "recZXCFEg46bKfxEl"
+                },
+                {
+                  "title": "Embroidery Hoop",
+                  "supplyId": "recBDSeRGPucBb2ag"
+                },
+                {
+                  "title": "Silicone Pottery Clay Sculpt Tools",
+                  "supplyId": "recpoMi90Ar29lLuw"
+                },
+                {
+                  "title": "Clear Glaze Aerosol Spray",
+                  "supplyId": "recgFVbR0zsfRZYYJ"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

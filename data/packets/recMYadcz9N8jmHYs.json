@@ -126,6 +126,28 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "General Science: Grade 4",
+              "type": "topic",
+              "supplies": [
+                {
+                  "title": "Hand Lens",
+                  "supplyId": "recEd9a2mPqWv78wN"
+                },
+                {
+                  "title": "Household Items - General Science: Grade 4",
+                  "supplyId": "reclsVZxFB61OKksz"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

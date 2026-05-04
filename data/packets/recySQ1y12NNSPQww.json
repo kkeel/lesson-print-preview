@@ -165,6 +165,19 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Bible: Grades 4-6",
+              "type": "course",
+              "supplies": []
+            }
+          ]
         }
       ]
     }

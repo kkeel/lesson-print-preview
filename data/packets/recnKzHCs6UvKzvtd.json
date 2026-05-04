@@ -122,6 +122,44 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Shakespeare: Grades 5-8",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "The Tempest Painted Puppets",
+                  "supplyId": "rec0C7hlautIa9TIC"
+                },
+                {
+                  "title": "The Tempest Black & White Puppets",
+                  "supplyId": "recGbJBSVRIbMhvCl"
+                },
+                {
+                  "title": "Henry IV Part 2 Painted Puppets",
+                  "supplyId": "recYrqosXjdC5tvWE"
+                },
+                {
+                  "title": "Henry IV Part 2 Black & White Puppets",
+                  "supplyId": "recE7CEDU8sRJo1v0"
+                },
+                {
+                  "title": "The Winter's Tale Painted Puppets",
+                  "supplyId": "rec6KqWUjgEnjhOKx"
+                },
+                {
+                  "title": "The Winter's Tale Black & White Puppets",
+                  "supplyId": "recmXXgfBA9xFfaov"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

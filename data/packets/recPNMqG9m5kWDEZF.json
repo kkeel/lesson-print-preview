@@ -120,6 +120,24 @@
               ]
             }
           ]
+        },
+        {
+          "kind": "supplies-resources",
+          "title": "Supplies",
+          "linkUrl": "",
+          "basicSuppliesUrl": "#",
+          "groups": [
+            {
+              "title": "Science: Advanced Nature Study",
+              "type": "course",
+              "supplies": [
+                {
+                  "title": "Clear Perspex Palette with Magnet Strip and Dry-Erase Marker",
+                  "supplyId": "recZWVhJDGghxbZv6"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
