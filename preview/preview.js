@@ -260,9 +260,18 @@ function renderHeaderItem(item) {
                 <div class="books-resource-group ${group.type === "course" ? "books-resource-course" : "books-resource-topic"}">
                   <h4>${escapeHtml(group.title || "")}</h4>
   
-                  ${(group.books || []).map(book => `
-                    <div class="books-resource-book">${escapeHtml(book)}</div>
-                  `).join("")}
+                  ${(group.books || []).map(book => {
+                    const title = typeof book === "string" ? book : book.title;
+                    const resourceId = typeof book === "string" ? "" : book.resourceId;
+                    const imgSrc = resourceId ? `../images/resource_covers/${escapeHtml(resourceId)}.webp` : "";
+                  
+                    return `
+                      <div class="books-resource-book">
+                        ${imgSrc ? `<img src="${imgSrc}" alt="" class="books-resource-cover" />` : `<div class="books-resource-cover-placeholder"></div>`}
+                        <div class="books-resource-title">${escapeHtml(title || "")}</div>
+                      </div>
+                    `;
+                  }).join("")}
                 </div>
               `).join("")}
             </div>
