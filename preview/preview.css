@@ -829,9 +829,28 @@ a:hover {
 }
 
 .books-resource-book {
+  display: grid;
+  grid-template-columns: 0.34in 1fr;
+  gap: 0.12in;
+  align-items: center;
+  margin: 0 0 0.08in 0.18in;
+}
+
+.books-resource-cover {
+  width: 0.28in;
+  max-height: 0.42in;
+  object-fit: contain;
+  display: block;
+}
+
+.books-resource-cover-placeholder {
+  width: 0.28in;
+  height: 0.42in;
+}
+
+.books-resource-title {
   font-size: 12px;
   line-height: 1.35;
-  margin: 0 0 0.08in 0.28in;
 }
 
 @media print {
