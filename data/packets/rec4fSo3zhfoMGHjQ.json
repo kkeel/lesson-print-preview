@@ -180,6 +180,35 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Sewing: Level 2",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Preview lesson. Lay out all materials.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Read instructions with students one step at a time. Demonstrate any new skills.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Work on a new skill, or complete the next part of the project. Self assess for mastery and/or precision before moving on.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

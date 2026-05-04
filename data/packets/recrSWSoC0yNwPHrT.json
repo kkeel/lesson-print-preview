@@ -133,6 +133,53 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Lit./Mythology: Grades 7-8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "• Read through the lesson and gather any materials or find any necessary links. \n\n• If you have not already read the book, you may want to read the selected pages in advance, especially for Shakespeare lessons. It is helpful to read the play or a preview of it beforehand.\n\n• Choose which books to have students read independently. See Planning and Prep notes for recommendations.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "• Connect back to the previous lesson. Ask students to give a summary of what they remember and/or predict what might come next. (Full narration is not necessary.)\n\n• If students have difficulty recalling, try showing an illustration, sharing something that you remember, or prompting them with the first sentence of the last reading. This will often refresh their memory enough to allow them to recall.\n\n• If students still cannot recall anything from the last reading, then consider continuing anyway (with a shorter reading and/or using a combination of visual and audio support this time) or repeating the last lesson, depending on the reading and the nature of the book.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "• Use a picture, map, or engaging question to pique the student's interest in the day's lesson. \n\n• If necessary, you may talk about one or two unfamiliar words that will be crucial to understanding.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read the day's passage aloud or have students read independently. For Shakespeare, it is highly recommended that each student have their own copy of the play and that you read it aloud together or read along and underline/make notes while listening to the audio recording.\n\n• Use supportive strategies and educational tools to reduce frustration and better engage the mind, as appropriate. These could include, but are not limited to, the use of eBooks, pictures, audio, read-aloud, buddy reading, colored reading strips, etc. \n\n• Some students may benefit from having a notebook or piece of scrap paper available to externalize ideas by drawing, recording names, or making symbolic 'squiggle' notes.\n\n• Students who have a difficult time sitting still or listening may benefit from: a fidget of their choice, such as a piece of putty or clay or an afghan; flexible positioning, such as a wobble seat or inverted sitting; or sensory modulation, such as a weighted vest or blanket or adjustment of light, temperature, or sound.\n\n• Keep an eye out for things to add to your Book of Centuries, Citizenship Notebook, and Copywork book.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Have students retell the passage orally or in writing. If writing, encourage students to use the full remaining lesson time and include as much detail as they can remember. For Shakespeare or challenging books, it may be helpful to narrate more frequently and/or use props.\n\n• Alternatively, learners may use words, pictures, legos, dolls, etc. to process and convey ideas in the manner most natural to them.  \n\n• Students who used paper or a notebook to externalize may refer to these for support. Other students who need external support may benefit from looking at a map or picture from the book while narrating.\n\n• Students who tend to use the same type of narration all the time, can be encouraged to try another form of narration by first doing it together through play or discussion.\n\n• Teachers may take turns to model.\n\n• Narration is a complex skill that requires the coordination of several parts of the brain. If a student struggles to narrate in general, with a specific subject or book, or on one day but not others, then this is an opportunity to learn. Observe when they struggle with this or any other activity today; notice facial expressions and body language; listen to what they tell about why it is hard or how they feel about it. Take note of these observations for later, tell them that you see how hard they are working, and then offer whatever support they need to end on a positive note or take a break for the day, if necessary.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Give the student an opportunity to share thoughts on the lesson and any connections made.  \n\n• To stimulate discussion, you can ask an open-ended question or use an included discussion question.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

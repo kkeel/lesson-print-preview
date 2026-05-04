@@ -121,6 +121,53 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Story of Geometry: Part 1",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "Connect back to previous lesson.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Optional: Use a picture, map, or engaging question to prepare the student to receive the idea from the day’s lesson. Talk about one or two unknown words that will be crucial to understanding.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the new passage out loud or have the student read it orally or silently.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Have the student narrate orally or in writing.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Give students an opportunity to share their thoughts on the lesson and any connections made.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Optional: Attempt to recreate some of the problems from the stories.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

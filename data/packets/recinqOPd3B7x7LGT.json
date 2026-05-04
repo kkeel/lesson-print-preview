@@ -119,6 +119,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Recitation: Grade 9",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Select passages to recite (suggestions are included in the lesson plans and Our Work). Select passages of similar length and variety to the ones in the lesson plans. The selections in the lesson plans are a great place to start, but you will enjoy these lessons most if you use them as time to focus on poems, scripture, speeches, etc. that are meaningful to you!",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Read, Narrate, and Discuss",
+              "text": "If you have not already read and narrated recitation selections, do this first. Look up unfamiliar words.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Recite",
+              "text": "Read the piece aloud several times. Work to read the piece beautifully, paying attention to the words and meaning, and as it becomes familiar, work to recite passages from memory. Experiment to figure out what helps you best learn the pieces well (reading silently, aloud, highlighting the text with colors, copying the passage, etc.). There are several recitation lessons scheduled each week, but you may want to practice additional times in the afternoon or in the car or at other times to really know the pieces well by the end of the term.",
+              "imageId": "recp4SsUM84O69GG0",
+              "image": "../images/howto_images/recp4SsUM84O69GG0.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "Recitation is an oral interpretation of a passage that has either been memorized or practiced as a beautiful reading. The ratio of how much should be memorized versus how much should be read aloud will depend on the student’s natural proclivity towards memorization. Those for whom memorization comes easily may be able to recite all of their selections from memory, while those who really struggle can focus on memorizing just one piece and reading the rest. Most students will fall somewhere in between, but practicing with an eye towards memorization is recommended. (Students will be asked to write or recite a selection or two at the end of the term.) Just like Mason’s assertion that Picture Study will furnish the mind with a gallery of beauty that can be enjoyed forever, the same is true of the storing of beautiful and meaningful passages.\n\n➜ Choral practice (or having several students practice in unison) is discouraged because it leads to a monotonous tone and rhythm. \n\n➜ Overacting and hand gestures are sometimes helpful when first learning a passage, but are often distracting. The goal is for the student to give life to the author's ideas rather than make him/herself the center of a \"performance.\"",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

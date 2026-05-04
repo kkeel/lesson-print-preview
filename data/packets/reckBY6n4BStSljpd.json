@@ -149,6 +149,59 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Church History: Grades 7-9",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Read the commentary to prepare.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "Connect back to the previous lesson. Ask students to give a summary of what they remember. (Full narration is not necessary.)",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Use a picture, a map, or an engaging question to prepare students to receive the story. You may talk about one or two unfamiliar words that will be crucial to understanding.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read aloud from the Bible.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Have the students narrate.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Share",
+              "text": "Optional: Share something interesting from your preparation that will help shed light on the story.",
+              "imageId": "recc9FHBrMEuqEttY",
+              "image": "../images/howto_images/recc9FHBrMEuqEttY.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Give students an opportunity to share their thoughts on the story and any connections made.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

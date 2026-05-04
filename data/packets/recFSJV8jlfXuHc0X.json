@@ -188,6 +188,47 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Picture Study",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "• Read about the artist ahead of time with the bio provided and share some information about the artist's life with the students. \n\n• Make sure each student has their own copy of the work.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Observe",
+              "text": "• Give students time to look closely at the work of art until they are comfortable. They should be able to see the picture in their mind's eye. \n\n• Next, have students discuss observations starting with what is most prominent while looking at the work. Studies show that children benefit from viewing the picture as they discuss it. Students will work on their ability to recall the details by memory in subsequent weeks.\n\n• Lastly, at the end of each picture study lesson if time allows, turn the picture over and have the student describe all that they can recall. This will help to strengthen the memory muscles and to move the memory to long term storage as opposed to short term only.",
+              "imageId": "recMOkXGwxQKm1nBL",
+              "image": "../images/howto_images/recMOkXGwxQKm1nBL.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Continue with a Picture Talk, or natural discussion, using the provided questions in the lesson plans. \n\n• The level of this discussion will be based on the age of the students. \n\n• Optional: There are additional \"Applied Art\" questions in the Appendix that address concepts such as color, design, and shapes.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Memory Activity",
+              "text": "• The second week that you look at a work of art, students will do some kind of memory discussion or drawing as indicated in the lesson plans. It might be a drawing with chalk, modeling with clay, or finding colors with pastels. \n\n• Optional Tip: If students are apprehensive to do a memory drawing, offer a piece of tracing paper and pastel or charcoal for the student to trace over the main lines of the work. Students may feel more empowered at the next memory drawing after tracing once. However, it is okay if students do not feel able to create these memory drawings. Continue to persevere in this way. You are offering students the scaffolding they require in order to grow stronger in their observational skills and in relationship with the artist and their body of work.",
+              "imageId": "recAXrW6VhLvdlCMO",
+              "image": "../images/howto_images/recAXrW6VhLvdlCMO.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Hang the print in view. Students can record important dates on the Wall Timeline or Book of Centuries. Look for more ideas on the Extra Helpings page.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

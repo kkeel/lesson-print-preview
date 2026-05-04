@@ -196,6 +196,59 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Current Events: Grades 5-8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Plutarch: Teachers will find it helpful to preread the entire Life first, and then preread the day’s passage before each lesson. Mark any passages that should be omitted due to content. (In Anne White’s Plutarch Project books, the recommended source for this course, objectionable content has already been omitted.)\n\nCurrent Events: Preview the news source for suitability.\n\nMost other citizenship topics don't require additional prep.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "Connect back to the previous lesson. (Optional for Current Events).",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "For news sources, show students how to scan the headlines to get an overview first and then choose a story to read. \n\nFor Plutarch or other books: Use a picture, a map, or an engaging question to prepare students to receive the story as relevant. You may talk about one or two unfamiliar words that will be crucial to understanding. It is not necessary to cover all unfamiliar words.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the selection assigned or the news story chosen. For rich, dense, or more challenging books such as Ourselves and Plutarch, it is a good idea to read them aloud. Have students keep an eye out for things to add to their Citizenship Notebook, Book of Centuries, and/or Commonplace book.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Have the students narrate orally or in writing.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Give students an opportunity to share their thoughts on the story and any connections made. For current events, look up where events occurred on a map and ask questions to help students discern the quality of the piece. (e.g., Are there sources cited? Is there an obvious bias? If so, what do other authors have to say on this subject? Are arguments supported by evidence? Is that evidence credible?) Consider reading an alternative perspective.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Citizenship Notebook",
+              "text": "Have students record important ideas in their Citizenship Notebooks.",
+              "imageId": "recxHTB15V7kHGc7A",
+              "image": "../images/howto_images/recxHTB15V7kHGc7A.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

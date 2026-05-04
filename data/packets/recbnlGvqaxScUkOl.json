@@ -179,6 +179,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Mathematics: Grade 8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Read",
+              "text": "The RightStart Math Level G materials are written to the student and may be done independently. However, you may still find it very helpful to work through the lessons to familiarize yourself with the concepts.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Prepare",
+              "text": "For Pre-Algebra, it is highly recommended that students be guided by a teacher during these lessons. Teachers may watch the video lessons to learn the concepts and how to teach them to students. If you choose to have your student work independently using the video lessons, you may still find it very helpful to work through the lessons yourself to familiarize yourself with the concepts. Teachers must stay apprised of how students are progressing and be ready to step in and help, since problems can compound quickly. If you are working through the lessons ahead of your student, note the places where you have to stop and think, because those are probably going to be places where students are going to be challenged, as well.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Growth Mindset",
+              "text": "Resist the temptation to fall back on just teaching a memorizable procedure when the student struggles with a concept. Growth happens in the struggle. Work on resilience by modeling a growth mindset.",
+              "imageId": "recc9FHBrMEuqEttY",
+              "image": "../images/howto_images/recc9FHBrMEuqEttY.webp"
+            },
+            {
+              "prompt": "Leave & Return",
+              "text": "When your student hits a wall during a lesson, stop and move on to the next subject in your day or take a break. Explain that even when you stop working on a problem, your brain continues to work on it while you do other things, and you don’t even know it. Many times, when you come back to the problem the next day, it comes more easily.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Look for ways to bring math into everyday life and conversation \"by the way\" - through cooking, gardening, house projects, health, games, etc. Students should discover how math is useful and beautiful, and how it helps us explain and navigate the world.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

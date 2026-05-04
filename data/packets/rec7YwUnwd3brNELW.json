@@ -131,6 +131,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Church History: Grades 10-12",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "Take a moment to recall what you read previously in the same book or topic.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the passage assigned or read for the number of minutes allocated. If a book is challenging for you, try stopping to narrate to yourself silently now and then to make sure you are tracking. Or you could listen to an audiobook version of the text and read along. You may also want to read aloud to yourself. If a book is an easy read, enjoy the ride! Keep an eye out for quotes to put in your Commonplace Book or events or characters to put down in your Book of Centuries.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Process and integrate your reading by narrating either orally or in writing. Some lesson plans will give you a suggestion of how best to narrate. You might want to set a timer to keep yourself on track, so you stop reading with enough time to narrate.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Read notes in your Study Bible or commentary. Look up places mentioned in the text in your Bible atlas. Add something to your Book of Centuries or Commonplace Book. Jot down additional reflections and thoughts in your Bible notebook or share with others.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "Read over the lesson plans to familiarize yourself with the content for accountability and interest. If doing the lessons together, use a picture, a map, or an engaging question to rouse students' interest before reading. You may also highlight one or two unfamiliar terms if needed. If in a classroom context, you may choose to leave larger doctrinal conversations for students to have with their parents at home.",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -176,6 +176,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "General Science: Grade 1",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Begin each lesson with learners' existing knowledge. If the book or activity is new or unfamiliar, then look at the title, a picture, or guidance in the lesson plan to help discuss what students think, drawing on previous experience. If continuing or revisiting a topic or activity, then recap. The lesson plans often help with this.\n\n• Some learners may benefit from using pictures or looking back briefly.  \n\n• Allow them time to share any concerns and come alongside, as needed.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Complete",
+              "text": "• Read, or do, as instructed in the lessons, noting any Teacher Tips provided. Learners should always have their nature journal or some other notebook/paper available in case they need to draw or diagram during the lesson.\n\n• When reading to pre-readers, point to the words as you read, even if it seems like they aren't paying attention.\n\n• If learners do not understand a word or concept, do not worry. Try to show them with a picture or connect the idea to something they have seen in real life. They are learning much by the way and will likely build understanding over the term, the year, or beyond.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by retelling the events in sequence, describing a scene or setting, explaining a concept, etc.   \n\n• Learners may use words, pictures, Legos, dolls, etc., to process and convey ideas in the manner most natural to them.  \n\n• Teachers may take turns to model.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider together any thoughts, confusion, or concerns about the passage.  \n\n• Questions/topics for further discussion are often provided in the lesson plans to help. There are no right or wrong answers to these. If teachers want to keep ideas active in the mind, these can also be used at other times to keep the ideas in the working memory.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links, examine any sidebars in the text, look at pictures, etc., depending on learner interest.\n\n• These can also be viewed as alternative ways to engage.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

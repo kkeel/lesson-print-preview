@@ -160,6 +160,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Grammar: Grade 4",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Connect",
+              "text": "Link back to the previous lesson.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the assigned pages and discuss new ideas. It is important for students to be able to talk about the concepts in their own words. The pictures and diagrams in the book can serve as a springboard for discussions about the grammar concepts.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Complete practice examples in the text and/or the practice book that accompany the lesson.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Observe",
+              "text": "Observe examples of concepts in books being read and in daily life.",
+              "imageId": "recMOkXGwxQKm1nBL",
+              "image": "../images/howto_images/recMOkXGwxQKm1nBL.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

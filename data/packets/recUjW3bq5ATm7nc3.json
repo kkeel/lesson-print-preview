@@ -107,6 +107,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Dictation: Grade 4",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Select a passage that has already been read and narrated. (We provide passages in the Dictation packets.) Have students read over it and select 4-5 words that they don't know. They can also mark punctuation that may be difficult to remember. They only need to select a section that contains 4-5 new words. If this is only a couple of sentences, that is fine.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Ask students which words they think will be most difficult to spell and why. If there is a common spelling pattern, you can point that out. You can also point out other words that have a similar pattern.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Have students visualize the words by \"seeing\" them with their eyes closed. They should also practice on a whiteboard.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Complete",
+              "text": "As part of the same lesson, when students feel ready, slowly call out a sentence from what they studied. You will want to read it phrase by phrase and not repeat it.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "View",
+              "text": "When finished, have students look over their own work to check and see that everything looks right. If you see any misspelled words, erase those and have the students practice those again.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -232,6 +232,71 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Science: Food Science",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• If starting a new book or a new topic in the book, then look at the title or a picture and take a moment to consider previous ideas and experiences.  \n\n• If continuing a previous reading, recap what was read previously. Often, the title of the book's section can help to draw out the main idea.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read or do, as instructed in the lessons, making note of or flagging unfamiliar terms, interesting ideas, important dates, inspiring quotes, etc.  \n\n• Use supportive strategies and educational tools to reduce frustration and better engage the mind, as appropriate. These could include, but are not limited to, the use of eBooks, pictures, audio, read-aloud, buddy reading, colored reading strips, etc.\n\n• As they read, learners record ideas in a notebook or binder using outlines, diagrams, graphic organizers, or other methods (or a combination of methods) that suit them. These recordings can be a helpful mechanism for remembering or a mini-narration to support understanding.\n\n• If learners do not understand a word or concept, do not worry. Try reading over the passage again, studying a picture or diagram, connecting the idea to something from real life, or practicing chapter exercises. The lab/field work further supports major concepts from the text.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by retelling, defining a concept, explaining the links in a chain of thought, etc. Do this orally or silently to yourself.  \n\n• Use words, pictures, outlines, etc.  \n\n• If a particular idea cannot be narrated, then read or examine the text again.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider with the teacher any thoughts, confusion, or concerns about the passage.  \n\n• If understanding is still uncertain, try rereading the passage or do some personal research on the topic.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links, examine any sidebars in the text, or pursue additional reading, depending on student interest.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        },
+        {
+          "title": "Science: Food Science",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Regardless of how many days are required to complete a particular activity, every Science Lab has the same flow, which follows the scientific method.  \n\n• Relevant concept(s) are introduced in the text.  \n\n• Your notebook entry begins with the introductory/prelab narration, including relevant information that you have read or previously experienced, what you plan to do in the lab, and any hypothesis or anticipated result.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Perform the procedure according to the instruction, recording in your notebook what you do as it happens. This can be a challenge, but is an extremely important skill.  \n\n• Record all data and observations in the lab notebook.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• After all data is collected, analyze the results by considering how the data reflects the introduced concepts and whether the hypothesis is supported by the data.  \n\n• If the data and observations do not support the hypothesis, reflect on why and what further testing would be interesting or helpful.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

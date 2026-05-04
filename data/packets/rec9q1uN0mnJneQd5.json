@@ -137,6 +137,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Natural History: Grade 6",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Begin each lesson with learners' existing knowledge. If the book or activity is new or unfamiliar, then look at the title, a picture, or guidance in the lesson plan to help discuss what students think, drawing on previous experience. If continuing or revisiting a topic or activity, then recap.  \n\n• Often, the introduction in the lesson plans or the title of the book's section can help learners to draw out the main idea. Use this to support learners, as appropriate.\n\n• Some learners may benefit from using pictures or looking back briefly.  \n\n• Allow them time to share any concerns and come alongside, as needed.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read or do, as instructed in the lessons, noting any Teacher Tips provided. Learners should always have their journal, notebook, or other paper available in case they need to draw or diagram during the lesson.\n\n• Use supportive strategies and educational tools to reduce frustration and better engage the mind, as appropriate. These could include, but are not limited to, the use of eBooks, pictures, audio, read-aloud, buddy reading, colored reading strips, etc.\n\n• If learners do not understand a word or concept, do not worry. Try to show them with a picture or connect the idea to something they have seen in real life. They are learning much by the way and will likely build understanding over the term, the year, and beyond.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by retelling events, describing, explaining a concept, etc. Tips about helping learners deal with various types of passages are provided, but teachers can learn more in Charlotte Mason's School Education Chapter 16, especially p.180.  \n\n• Learners may use words, pictures, Legos, PowerPoint, etc, to process and convey ideas in their own way.\n\n• Teachers may take turns to model.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider together any thoughts, confusion, or concerns about the passage, keeping in mind that oftentimes new concepts are not going to be 'mastered' on the first or even second introduction. Mastery is not necessarily the goal, but curiosity and thinking.\n\n• Questions/topics for further discussion are often provided in the lesson plans (or even lab books) to help. There are no right or wrong answers to these. Alternatively, many of these can be used for composition, depending on the needs of the learner and the instructional goals of the teacher. If teachers want to keep ideas active in the mind, these can also be used at other times to keep the ideas in the working memory. \n\n• Note that learners may need to spend more than the allotted time engaging with or even repeating a lesson before moving on or as reinforcement at a later time. Adjust the pace as needed to feed the learner.\n\n• Notice if there were any dates that they want to keep for their Book of Centuries.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links, examine any sidebars in the text, look at pictures, etc., depending on learner needs and interest.\n\n• These can be viewed as alternative ways to engage.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

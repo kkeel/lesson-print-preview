@@ -156,6 +156,53 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Mathematics: Grade 3",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "The Alveary team strongly recommends RightStart Math because we know that it is comprehensive, uses methods of inquiry and discovery, has built-in mental math practice, and emphasizes ideas (through manipulatives) before algorithms. They also support teachers with helpful webinars and great customer service. However, resist the temptation to hop from one curriculum to another. Find a program that works for your students and stick with it. Lessons do not always follow the exact same arc, but below are a few tips to keep in mind.",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Prepare",
+              "text": "Your lessons will go more smoothly if you work through them as a student before trying to teach them. Try to stay several lessons ahead of your student so that you can see where the program is going. Note the places where you have to stop and think, because those are probably going to be places where students are going to be challenged as well.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Growth Mindset",
+              "text": "Resist the temptation to fall back on just teaching a memorizable procedure when the student struggles with a concept. Growth happens in the struggle. Work on resilience by modeling a growth mindset.",
+              "imageId": "recc9FHBrMEuqEttY",
+              "image": "../images/howto_images/recc9FHBrMEuqEttY.webp"
+            },
+            {
+              "prompt": "Leave & Return",
+              "text": "When your student hits a wall during a lesson, stop and move on to the next subject in your day or take a break. Explain that even when you stop working on a problem, your brain continues to work on it while you do other things, and you don’t even know it. Many times, when you come back to the problem the next day, it comes more easily.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Complete Lessons Consistently",
+              "text": "It is critically important to keep up the recommended pace for math study, even in the early grades, because the cumulative effects of slower pacing can have real consequences in terms of high school graduation and college entrance. Math is one subject in which you really cannot afford to get behind, even if that means you need to continue mathematics study between terms. We are referring here to the consistent daily completion of lessons and not the pace of your student’s understanding. The pace of understanding will vary based on many factors. You will need to move at your students’ pace to make sure they are mastering the material. Not all students are expected to complete calculus in high school.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Look for ways to bring math into everyday life and conversation \"by the way\" - through cooking, gardening, house projects, health, games, etc. Students should discover how math is useful and beautiful, and how it helps us explain and navigate the world.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

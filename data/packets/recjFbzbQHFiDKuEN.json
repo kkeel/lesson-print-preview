@@ -133,6 +133,59 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Canadian History: Grades 7-8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "• Read through the lesson and gather any necessary links. \n\n• If you have not read the book, you may want to read the selected pages in advance. \n\n• Decide which lessons/books to read together and which to have students read independently.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "• Connect back to the previous lesson. Have students give a summary of what they remember. (Full narration is not necessary.)\n\n• If the previous passage is difficult to remember, teachers may ask a leading question: \"What can you tell me about...\" Or students may try looking back at any chapter/section headings or illustrations or reading the first paragraph to jog the memory.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "• Use a picture, map, or engaging question to pique the student's interest in the day's lesson (often included in lesson plans). \n\n• If necessary, talk about a few unfamiliar words that will be crucial to understanding.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read the day's passage out loud or have the student read independently. Sometimes reading for the specified time is a better guide.\n\n• If a book is challenging, try stopping to narrate every now and then rather than waiting until the end. It can also help to read aloud. Or you might want to use an audiobook version of the text and have students read along with it.\n\n• Have students keep an eye out for events or characters to add to their Citizenship Notebook, Book of Centuries, or Copywork Book.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Have students retell the passage orally or write a narration. \n\n• Alternatively, students might analyze a character, trace cause to consequence, outline a passage, or use one of the other methods indicated by Charlotte Mason in School Education Chapter 16, especially p.180.\n\n• Students who enjoy writing can experiment with different types of written narrations, but this is not required.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Give the student an opportunity to share thoughts on the lesson and any connections made (orally or in writing). \n\n• You could ask them what they thought about the passage or ask an open-ended question to stimulate discussion. Discussion questions are often included in the lesson plans.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Optional: Add something to the Book of Centuries, Century Chart, Citizenship Notebook, or Commonplace book. If students would like to include pictures, these may be drawn or printed.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

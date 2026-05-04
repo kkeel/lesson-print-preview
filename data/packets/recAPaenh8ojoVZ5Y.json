@@ -148,6 +148,41 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Lettering: Level 2",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Warm Up",
+              "text": "Have the students spend a few minutes warming up by practicing large arm movements on the chalkboard and drawing a few strokes they have already learned.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Observe",
+              "text": "Look at the new stroke or letter together. Allow the students to articulate what they notice. How will they achieve the desired look?",
+              "imageId": "recMOkXGwxQKm1nBL",
+              "image": "../images/howto_images/recMOkXGwxQKm1nBL.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Students should practice with a small piece of chalk (on its side) on the chalkboard first so that erasing is easy. Then have students practice the new stroke, letter, or letter combination with pen and paper. They should practice until they have six perfect examples before moving on to the next stroke.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Evaluate",
+              "text": "Have the students self-evaluate. They may circle their best examples or reflect on which parts were done well and which ones need more practice.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

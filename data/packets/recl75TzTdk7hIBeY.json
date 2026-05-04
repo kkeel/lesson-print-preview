@@ -129,6 +129,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Poetry Reading: Grade 8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "Tell something about the poet or the kind of poem or fable to prepare students. Remember that poems are like paintings—they not only convey ideas, they create an experience with the sound of words, the way the words are arranged, and the emotions, thoughts, and images they evoke.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the poem aloud in order to hear the sounds and meter. Have students read it aloud as well as it is helpful to hear poetry read by different voices. Try to read paying attention to the punctuation as well as the line breaks to get the sense of the poem.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Allow students to share any thoughts or connections. What are your impressions of the poem? Talk about anything that stood out to you: the images, ideas, words, phrases, sounds, or even physical look of the poem. What kinds of things is the poem about?",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Reread",
+              "text": "Read (or have the student read) the poem again.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Students may choose to add poems to their Commonplace Book or mark them to copy later.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

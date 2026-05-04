@@ -168,6 +168,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Geography: Grade 1",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "The steps below are generally true for most geography lessons. Sometimes several lessons might build together or focus on a particular area (like Map Work).",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Through questions, observations, an activity, or recalling the last lesson, introduce the topic for the day.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read and narrate from the assigned book.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "This can include things like demonstrations and map-making.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Map Work",
+              "text": "This includes things like answering questions on the map or making your own maps.",
+              "imageId": "recOhz0yF0cWoc5sJ",
+              "image": "../images/howto_images/recOhz0yF0cWoc5sJ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

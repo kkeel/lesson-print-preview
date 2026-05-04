@@ -155,6 +155,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Bible: Grade 1",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "• Connect to previous lessons by asking students to recall where they left off. \n\n• If students have difficulty recalling, teachers might try showing them a picture from the reading, sharing something the teacher remembers, or prompting them with the first sentence of the last reading. This will often refresh their memory enough to allow them to recall.\n\n• If students still cannot recall anything from the last reading, teachers might consider continuing anyway (with a shorter reading this time) or repeating the previous lesson, depending on the reading and the nature of the book.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read the chapter or selection aloud. When reading to pre-readers, point to the words as you read, even if it seems they aren't paying attention.\n\n• Move at the students' pace during the lesson, rather than feeling that a particular number of pages must be completed. It is vitally important that teachers not overload students with more material than they can absorb in one sitting.\n\n• Students who have difficulty sitting still or listening may benefit from a fidget of their choice, such as a piece of putty or clay or an afghan; flexible positioning, such as a wobble seat or inverted sitting; or sensory modulation, such as a weighted vest or blanket or adjustment of light, temperature, or sound.\n\n• Students with regular difficulty engaging often benefit from having a picture to associate with the story WHILE listening. Feel free to view the artwork during the reading rather than after the narration.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Have students retell the passage orally.\n\n• Alternatively, learners may use words, pictures, Legos, dolls, etc., to process and convey ideas in the manner most natural to them.  \n\n• Teachers may take turns to model.\n\n• Narration is a complex skill requiring the coordination of several parts of the brain. If a student struggles to narrate in general, with a specific subject or book, or on one day but not others, then this is an opportunity to learn. Observe when they struggle with this or any other activity today. Notice facial expressions and body language; listen to what they say about why it is hard or how they feel about it. Take note of these observations for later, tell them that you see how hard they are working, and then offer whatever support they need to end on a positive note. If necessary, take a break for the day.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "View",
+              "text": "• Optional: Share a piece of fine art that illustrates the story.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Give students an opportunity to share their thoughts on the lesson and any connections made.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

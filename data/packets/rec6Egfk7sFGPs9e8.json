@@ -238,6 +238,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Handicrafts",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Look through the term's lessons and tutorials and decide which projects you will try with your students. Projects will last 1-3 weeks. It is always beneficial to teach yourself first before teaching your students. Not only will you be confident in your directions, but you will also have an example the students can see, touch, and refer to often.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Show your students examples of completed projects.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Work through projects with your students, assisting younger children as needed.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Let students share any thoughts or connections they have about the lesson.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

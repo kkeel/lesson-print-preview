@@ -170,6 +170,47 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Sol-fa: Level 3",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "• Specific recap questions are often suggested in the day's plans; ask students what they remember from the last lesson. If nothing comes to mind at first, tell them to give themselves another minute or two and to keep thinking. Our brains are amazing and can usually recall the previous lesson with a minute of effort. Refrain from doing the work of remembering yourself if you are leading the lessons. \n\n• For composer study, a recap might look like a brief discussion about the name or sound of the piece you listened to previously. \n\n• For hymns and folk songs, this might be an effort to hum the melody or recite the words of the song you're currently learning. \n\n• For sol-fa, it might be a quick explanation of the sol-fa syllable you learned or a tricky rhythm or interval you were working to master. \n\n• If students have difficulty recalling, teachers might try showing them a picture or sharing something that the teacher remembers. This will often refresh their memory enough to allow them to recall.\n\n• If students still cannot recall anything from the last reading, then teachers may consider continuing anyway or repeating the last lesson.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "• Prepare to listen to the day's musical selection by inviting students to consider an interesting musical or historical idea in the lesson. Perhaps it's a unique word, rhythm, instrument, or piece of historical background. You might introduce it by the way, or read a selection of a composer's bio or a brief article to students.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Listen & Sing",
+              "text": "• Listen to the day's musical selection. \n\n• Composer study lessons will usually have you listen to a piece of music for 3-8 minutes. If students have a difficult time listening for the duration of the lesson, stop the music at their limit.\n\n• Some students might draw, color, or engage in a handicraft while listening to help extend their listening time. Students who have a difficult time sitting still or listening may benefit from: a fidget of their choice, such as a piece of putty or clay or an afghan; flexible positioning, such as a wobble seat or inverted sitting; or sensory modulation, such as a weighted vest or blanket or adjustment of light, temperature, or sound.\n\n• Hymn, folk song, or sol-fa lessons will sometimes have you listen to a part of the song and then practice echoing back the melody and/or words.",
+              "imageId": "recfqXPVCrTrbZD21",
+              "image": "../images/howto_images/recfqXPVCrTrbZD21.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Composer Study: Talk about the musical selection you heard. What stood out to you? What did you notice? What did it make you wonder? Did it remind you of anything? Discuss the tempo, the sound of the music, the instruments used, the volume, and the mood. Why do you think the composer wrote it the way he did? \n\n• Hymns, Spirituals, & Folk Songs: What lines strike you particularly? Is there a rhyme scheme to the lyrics? Is there a progression to each stanza? If you were to add a verse to the song, what would you add? If you took a verse out, how do you think it would change the song? Do the melody and words go together? Why or why not?\n\n• Sol-fa: Take a minute to reflect on what you learned in the lesson. Write down any notes you want to remember and practice any particular exercises that were tricky.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• At the end of the lesson, think about how the day's musical selection connects to other books, subjects, characters in history, etc. \n\n• You might copy down a stanza of a hymn in your Commonplace or Copywork book, read a bit more about the history behind a piece of music, jot down a noteworthy date in your Book of Centuries, or discuss a broader question raised in the lesson.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

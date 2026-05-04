@@ -133,6 +133,95 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Lower Spanish: Grades 1-6",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduction to Picture Study",
+              "text": "Students will complete 1 picture study lesson per week. Students will spend two weeks with the same lesson and vocabulary. Each lesson has an accompanying video to follow along with in the first week and audio recordings for review the second week. In these lessons, students will be focused on beginning the skill of narration in another language within the context of discussing a picture from the assigned picture study book. They will use vocabulary and narration series sentences to help them describe what they see. Narration in another language has a progression and understanding that progression will help you to better gauge where your student is in their understanding of the language and how to help them progress to the next stage.\n\n- Recall - This is the first stage of understanding. When given the Spanish word, students should be able to identify the given word or phrase by pointing to part of a picture, selecting a vocabulary card/image, or performing an action or gesture that demonstrates the given word or phrase. In this stage, students should be able to “build” the narration series with their vocabulary cards or perform associated gestures as they hear the narration series read to them.\n- Recite - The next stage of understanding occurs when students can be provided a prompt and respond in Spanish. At this stage, students can be asked to say the narration series as they point to the appropriate portion of the picture being studied, or to say the Spanish word for a given vocabulary card/image, or gesture.\n- Compose - In this stage of understanding, students are able to use the vocabulary in creative ways. They will be able to compose sentences with vocabulary cards and then say the corresponding Spanish, or notice something in the picture or the world around them, and be able to describe it using Spanish. Often, the first steps in this direction will be broken Spanish and improper grammar. That is ok. Much in the same way that children learn how to use proper tense and grammatical structure in speaking their first language, they will develop that here too, but it should be by the wayside, and not the primary focus.\n\nNOTE: Vocabulary cards and review activities are provided to help students build a working knowledge of the language; however, they should be used with the end goal in mind. We want students to be able to use the language to describe the pictures in the book and the world around them.",
+              "imageId": "recFrC1wuWzklOqJR",
+              "image": "../images/howto_images/recFrC1wuWzklOqJR.webp"
+            },
+            {
+              "prompt": "Extension Days (4+)",
+              "text": "In grades 4-6, students are given the option of an additional extension day for picture study lessons. These extension lessons gently introduce the concept of verb conjugation by asking students questions using additional vocabulary that they can apply to themselves personally. Students will spend two weeks with the same lesson and vocabulary for these days as well. Each lesson has an accompanying video to follow along with in the first week and audio recordings for review the second week.",
+              "imageId": "recYvjmwAoHfJWn5g",
+              "image": "../images/howto_images/recYvjmwAoHfJWn5g.webp"
+            },
+            {
+              "prompt": "Flow of a Lesson",
+              "text": "Below is what you can expect for the general flow of a lesson:\n- Read/watch any preparatory material and look over any student notebook pages to familiarize yourself.\n- Choose a few sentences, words, or vocabulary cards to review at the beginning of each lesson.\n- Press play on the video/audio link provided in the QR link page.\n- Introduce new vocabulary (pause as needed).\n- Practice TPR vocabulary.\n- Build narration sentences together.\n- Work on picture study application of vocabulary and narration sentences.\n- Work on question exercises.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Student Notebook",
+              "text": "For picture study lessons, students will have a page with reference images of the vocabulary cards. These images are smaller than the vocabulary cards to aid in saving space for multiple students and also provide a visual without the distraction of moving pieces during the students’ first exposure. Visual aids for activities and games during review weeks can also be found here. There may be review weeks or activities that do not require a notebook page. Instructions for those activities can be found in the lesson plans.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            }
+          ]
+        },
+        {
+          "title": "Lower Spanish: Grades 1-6",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduction to Literature",
+              "text": "Students will complete 1 literature lesson per week. In these lessons, your student will focus on building listening comprehension. When you first learn a new language, it can be hard to hear it and understand it at the same time. Here, students are encouraged to infer the meaning of a phrase or sentence without the pressure of needing to memorize each individual word and its various use cases. As you work with the vocabulary in these sections, remember that the goal is comprehension in context. The literature lessons have more difficult words and sentence structures in order to build students' ability to comprehend the whole. Students will benefit greatly from working with vocabulary cards in more of a sentence structure for these lessons. They can build the story lines with the vocabulary cards as you read and review, but don’t worry if they aren’t catching EVERY word. Many of the commonly used words may be hard to “see” in vocabulary card form, but with repetition, students will begin to recognize them. That is why we have also included storyline cards. Students can start to “see” parts of the storyline vocabulary as it is repeated in different contexts.",
+              "imageId": "recFrC1wuWzklOqJR",
+              "image": "../images/howto_images/recFrC1wuWzklOqJR.webp"
+            },
+            {
+              "prompt": "Extension Days (4+)",
+              "text": "In grades 4-6, students are given the option of an additional extension day for literature lessons. These extension days give additional time to practice not just comprehending the story, but also saying it aloud and writing it through copywork in the target language to build familiarity with what the language looks like in written form. Each lesson has accompanying video or audio to follow along with.",
+              "imageId": "recYvjmwAoHfJWn5g",
+              "image": "../images/howto_images/recYvjmwAoHfJWn5g.webp"
+            },
+            {
+              "prompt": "Flow of a Lesson",
+              "text": "Below is what you can expect for the general flow of a lesson:\n- Read/watch any preparatory material and look over any student notebook pages to familiarize yourself.\n- Choose a few sentences, words, or vocabulary cards to review at the beginning of each lesson.\n- Press play on the video/audio link provided in the QR link page.\n- Introduce new vocabulary (pause as needed).\n- Practice TPR vocabulary.\n- Read the story.\n- Practice storyline recognition and building.\n- Work on storyboards or copywork.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Student Notebook",
+              "text": "On the literature pages of the student notebook, you will find images for any new vocabulary for the week and a storyboard box for students to draw their narrations. Copywork lines have also been provided for students to write the story lines on extension days. Copywork extension days are only scheduled for Grades 4-6.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            }
+          ]
+        },
+        {
+          "title": "Lower Spanish: Grades 1-6",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduction to Songs, Rhymes, & Conversations",
+              "text": "Students will complete 1 Songs, Rhymes, & Conversations lesson per week. In these lessons, students are exposed to cultural songs and rhymes and also given the opportunity to practice singing or saying the language out loud in a fun and engaging way. Students can often feel self-conscious or silly when trying to speak a new language, and by using songs & rhymes, we can help them overcome that hurdle. This lesson does not have a video. Instead, it gives teachers step-by-step instructions on how to lead the lesson and includes suggested accompanying audio to follow as you learn the song or rhyme. Students will also begin to learn a few conversational phrases they can use in the target language during these lessons. There are accompanying audio and conversation cards to aid in this part of the lesson.",
+              "imageId": "recFrC1wuWzklOqJR",
+              "image": "../images/howto_images/recFrC1wuWzklOqJR.webp"
+            },
+            {
+              "prompt": "Flow of a Lesson",
+              "text": "Below is what you can expect for the general flow of a lesson:\n- Read/watch any preparatory material and look over any student notebook pages to familiarize yourself.\n- Choose a few sentences, words, or vocabulary cards to review at the beginning of each lesson.\n- Open to the current song/rhyme.\n- Press play on the video/audio link provided in the QR link page.\n- Practice reciting/singing the passage.\n- Listen to the audio introduction of new conversation phrases (pause as needed).\n- Practice conversation recognition and building.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Student Notebook",
+              "text": "All of the songs have been provided at the front of the student notebook in order to aid in your students' ability to find them easily. For the conversational part of the lessons, it is suggested that students work in pairs. If that is not a possibility, then we recommend students use stuffed animals or puppets to practice this piece. There are no images for the conversation cards in the student notebooks. The conversation cards are for the teacher's benefit and for fun with building conversations as students progress in their speaking abilities.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

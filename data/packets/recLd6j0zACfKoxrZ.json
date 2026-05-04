@@ -115,6 +115,41 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Poetry: Grades 1-4",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "Poetry reading should be brief and pleasurable. There are also many lovely picture books of poems to include as free reads at this age (see Extra Helpings). Remember that poems are like paintings--they not only convey ideas, they create an experience with the sound of words, the way the words are arranged, and the emotions, thoughts, and images they evoke.",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the poem aloud a time or two. As students gain reading fluency, let them read the poem as well. It is helpful to hear poetry read by different voices. Try to read paying attention to the punctuation as well as the line breaks to get the sense of the poem.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Allow students to share any thoughts or connections. What are your impressions of the poem? Talk about anything that stood out to you: the images, ideas, words, phrases, sounds, or even physical look of the poem. What kinds of things is the poem about?",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Reread",
+              "text": "Read the poem aloud again. Poetry is meant to be savored like a chocolate that you roll around in your mouth until the last bit melts.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

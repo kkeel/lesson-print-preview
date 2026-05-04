@@ -149,6 +149,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Ancient History: Grades 10-12",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "• Take a second to recall what you read previously in the same book or topic.\n\n• If the previous passage is difficult to remember, try looking back at any chapter/section headings or illustrations or reading the first paragraph to jog the memory.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read the selection assigned OR read for the number of minutes allocated, leaving time for narration and mapwork. Use whichever guide (i.e., pages or minutes) works best for you. You want to read enough to be interesting, but not so much that you feel overwhelmed.\n\n• If a book is challenging for you as a student, try stopping to narrate to yourself silently for a minute every now and then to make sure you are tracking. You might also want to read aloud to yourself. Or you might want to listen to an audiobook version of the text and read along with it. \n\n• If a book is an easy read, enjoy the ride! \n\n• Keep an eye out for quotes to put in your commonplace book or events or characters to put down in your Book of Centuries.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process and integrate your reading by narrating either orally or in writing. Some lesson plans will give you a suggestion of how best to narrate. \n\n• To keep yourself on track, you might want to set a timer, so you stop reading with enough time to narrate.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• After your narration, think about how what you read connects to other subjects, other books, and other things you've read, watched, or seen in the past or present. \n\n• Share any ideas that are particularly interesting to you with your fellow classmates, teachers, parents, friends, or others. You might even want to do a bit more reading or research on something on your own time in the afternoon or evenings.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "These lessons are written directly to the student, but to assist them throughout the year, please read through this section and the lesson plans so you are familiar with the instructions and flow of the lessons. Accountability components are added to facilitate teacher/student discussion and growing independence. \n\nThose educating at home might pick one or two history lessons to read aloud with their students to keep up the habit of oral narration and foster conversation and relationship, and then simply give students these lesson plans and the rest of the books and check in with them throughout the term for conversation, support, and accountability. \n\nIt is valuable for those in a classroom setting to also have a mix of lessons that students complete themselves silently and others read aloud and narrated together. Classroom settings lend themselves well to additional discussion and sharing at the end of lessons, after everyone has narrated either together or independently in writing.",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

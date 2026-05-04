@@ -168,6 +168,35 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Sports",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "Mason emphasized that being physically fit is just as important as being mentally and spiritually fit. She used a combination of Swedish Drill (calisthenic exercises done to music or military-style commands), playground games, sports, dance, free play, and afternoon walks to make sure students had time for vigorous exercise every single day.",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Teach students the new song, dance, or sport. Tutorials are often provided.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Play your new game, practice your new dance, sing your new rhyme, etc.!",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

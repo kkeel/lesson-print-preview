@@ -161,6 +161,47 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Sloyd: Intro",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Connect",
+              "text": "Connect back to previous lesson and skills learned.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Give students their materials. Show them how to orient their paper.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the instructions one step at a time.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Complete",
+              "text": "Model each step, and make sure students complete it with precision before moving to the next step.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "When a project is complete, students may repeat it as many times as they wish to give as gifts or create original patterns similar to the project.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

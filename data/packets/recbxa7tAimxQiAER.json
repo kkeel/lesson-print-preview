@@ -276,6 +276,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Music: Intro",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "• Connect each lesson to the previous one for that topic. \n\n• For music appreciation study, a recap might look like a brief discussion about the name or sound of the piece or instrument you listened to previously. \n\n• For hymns and folk songs, this might be an effort to hum the melody or recite the words of the song you're currently learning.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Prepare to listen to the day's musical selection or activity by inviting students to consider an interesting musical or historical idea in the lesson, perhaps a unique word, rhythm, instrument, or piece of historical background (usually included in lesson plans).",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Listen & Practice",
+              "text": "• Listen to the day's musical selection or practice the activity. \n\n• Music Appreciation lessons will usually have you listen to a piece of music for 3-8 minutes. If students have a difficult time listening for the duration of the lesson, stop the music at their limit.\n\n• Movement is always a great way to encourage students to engage with the music. Sometimes the lessons will provide a suggestion, but students may make up their own using their whole bodies or creating finger plays. They may also draw, color, or act out a dance with stuffed animals, dolls, or other figures.\n\n• Hymn, folk song, or musical games will sometimes have you listen to a part of the song and then practice echoing back the melody and/or words.",
+              "imageId": "recfqXPVCrTrbZD21",
+              "image": "../images/howto_images/recfqXPVCrTrbZD21.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Let students share any thoughts or connections they have about the lesson.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

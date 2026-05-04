@@ -192,6 +192,47 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Sloyd: Level 5",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "Lessons will go much more smoothly if you prepare thoroughly. As students gain experience, develop fine motor skills, and practice habits of precision they will need less support.",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Prepare",
+              "text": "Watch video tutorials or make the model yourself. Gather supplies and materials needed.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "Connect back to previous lesson and skills learned.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the instructions one step at a time. Model each step and make sure students complete it with precision before moving to the next step.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "When a project is complete, students may repeat it as many times as they wish to give as gifts or create original patterns similar to the project.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

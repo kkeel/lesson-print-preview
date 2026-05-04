@@ -119,6 +119,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Recitation: Grades 4-6",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Select passages to recite. (Suggestions are included in Our Work, but students should increasingly take ownership of their recitation passages over the years.)",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Read, Narrate, and Discuss",
+              "text": "If a student has not already read and narrated the passages selected for recitation, do this first. Look up unfamiliar words. It is fine for a student to learn something they don't fully understand if they like the sound of the words or phrases, but if the piece is too hard and causes frustration, another piece should be selected that is more comprehensible.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Recite",
+              "text": "Read the piece aloud several times. Work to read the piece beautifully, paying attention to the words and meaning, and as it becomes familiar, work to recite passages from memory. Help students experiment to figure out what helps them best learn the pieces well (reading aloud, highlighting the text with colors, copying the passage, etc.).",
+              "imageId": "recp4SsUM84O69GG0",
+              "image": "../images/howto_images/recp4SsUM84O69GG0.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "Recitation is an oral interpretation of a passage that has either been memorized or practiced as a beautiful reading. The ratio of how much should be memorized versus how much should be read aloud will depend on the student’s natural proclivity towards memorization. Those for whom memorization comes easily may be able to recite all of their selections from memory, while those who really struggle can focus on memorizing just one piece and reading the rest. Most students will fall somewhere in between, but practicing with an eye towards memorization is recommended. (Students will be asked to write a few lines of poetry from memory on their exam in the Penmanship and Copywork course.) Just like Mason’s assertion that Picture Study will furnish the mind with a gallery of beauty that can be enjoyed forever, the same is true of the storing of beautiful and meaningful passages.\n\n➜ Since we are after the student’s personal interpretation, do not provide a model for him/her to mimic. The more the student practices and the more familiar the passage becomes, the more style will naturally emerge.\n\n➜ Choral practice (or having several students practice in unison) is discouraged because it leads to a monotonous tone and rhythm. \n\n➜ Overacting and hand gestures are sometimes helpful when first learning a passage, but are often distracting. The goal is for the student to give life to the author's ideas rather than make him/herself the center of a \"performance.\"",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

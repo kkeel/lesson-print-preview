@@ -107,6 +107,35 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Microbiology Labs",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Regardless of how many days are required to complete a particular activity, every Science Lab has the same flow, which follows the scientific method.  \n\n• Relevant concept(s) are introduced in the text.  \n\n• Your notebook entry begins with the introductory/prelab narration, including relevant information that you have read or previously experienced, what you plan to do in the lab, and any hypothesis or anticipated result.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Perform the procedure according to the instruction, recording in your notebook what you do as it happens. This can be a challenge, but is an extremely important skill.  \n\n• Record all data and observations in the lab notebook.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• After all data is collected, analyze the results by considering how the data reflects the introduced concepts and whether the hypothesis is supported by the data.  \n\n• If the data and observations do not support the hypothesis, reflect on why and what further testing would be interesting or helpful.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

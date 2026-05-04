@@ -117,6 +117,59 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Architecture: Grades 9-12",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "Connect back to the previous lesson. Take a minute (without looking ideally) to recall the ideas you read about last week.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the assigned selection.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "View",
+              "text": "Look at pictures from links or in the text of design features and/or famous buildings.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Various ways to narrate are assigned in the lessons. Because architecture is an especially visual subject, try to incorporate sketches frequently into your narrations and thoughts.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Discuss what you have learned and found interesting with a parent, teacher, or another student.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "Plan time at the end of lesson or later in the afternoon to make additional drawings of buildings or features in a sketchbook and/or Book of Centuries.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "These lessons are written directly to the student, but to assist them throughout the year, please read through this section and the lesson plans so you are familiar with the instructions and flow of the lessons. Accountability components are added to facilitate teacher/student discussion and growing independence. \n\nIt is valuable for those in a classroom setting to also have a mix of lessons that students complete silently themselves and others read aloud and narrated together. Because of the visual elements of the course, it is especially suited to completing as a group. Classroom settings lend themselves well to additional discussion and sharing at the end of lessons after everyone has narrated either together or independently with their notebooks.",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

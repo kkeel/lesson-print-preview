@@ -242,6 +242,71 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Science: Physics",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Learners begin each lesson with their existing knowledge. If continuing or revisiting a topic, then recap.  \n\n• Take note of the chapter or video title, and consider how the day's topic connects back to prior topic(s).  \n\n• Look back at the book or lecture notes as needed. The outline of the book and even of the chapter is helpful in drawing out and connecting ideas. Learners practice making these connections as they proceed through the course.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "View",
+              "text": "• View or do, as instructed in the lessons. This course is mostly a living lecture series, but there are many opportunities to practice.  \n\n• The supplemental text is mainly there to do practice problems.  It is not necessary to do all of the practice problems - try a variety, learn from them, and move on when the learner is confident. \n\n• The supplemental text can supply a concise review of the material when learners need it, but don't want to rewatch the videos again, or if they do not understand a word or concept. It is not a replacement for the videos, however.\n\n• As they view the lectures, learners record ideas in a notebook or binder using outlines, diagrams, graphic organizers, or other methods (or combination of methods) that suit them. These recordings can be a helpful mechanism for remembering or a mini-narration to support understanding.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by explaining a concept, describing an object, retelling events, etc. Consider what the point of the lesson is before deciding what to do with it.  \n\n• Learners may use words, pictures, models, graphics, etc, to process and convey ideas in their own way.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider together any thoughts, confusion, or concerns about the lesson.  \n\n• Note that learners may need to spend more than the allotted time engaging with or even repeating a lesson before moving on or as reinforcement at a later time. Adjust the pace as needed to feed the learner.\n\n• Notice if there are any dates to keep for the Book of Centuries or quotes for the Commonplace Book.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links or pursue the Science and Society topics further, depending on learner needs and interest.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        },
+        {
+          "title": "Science: Physics",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• This course uses more open-ended 'projects' for lab, but every activity still has the same flow, which follows the scientific method.  \n\n• Learners begin with an introduction. How does the project relate to what they have learned so far, as well as any previous experience? What will they learn from the lab? This is how hypotheses are formed.\n\n• Learners are not given a Procedure and must decide for themselves how to approach the lab. If they are unsure what to do, it can help to dialogue with someone as they work through the ideas.  \n\n• Once they have had a chance to think, learners compose a prelab narration to put these introductory ideas, hypotheses, and plans into their lab notebooks. These prelab narrations may seem short and even incomplete if learners are new to keeping a lab notebook, but that is okay.  \n\n• If learners have difficulty or are easily frustrated, then consider allowing a digital notebook for typing, a scribe, or the use of assistive technology, as appropriate.  \n\n• After they complete their prelab narration, learners should collect any materials, being sure to let teachers know if something is missing or to remind the teacher if something needs to be purchased at the store.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Learners complete the activity.  \n\n• They should use their lab notebooks to record what they do and capture any data, which can be printed from the computer and taped into the notebook.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• The last step in the lab is to analyze the data and observations and draw conclusions from them. Similar to the prelab narration, the concluding or postlab narration is a chance to think about and put into words. This time, learners are considering what they learned from the lab and what they could learn more about if they were to continue.  \n\n• Teachers should engage learners with this reflection by reviewing their lab notebooks with them, discussing the science used in the lab, and demonstrating curiosity about the lab themselves. \n\n• Depending on the interest of the learner and the priorities of the teacher, the learner might be encouraged to spend more time on those ideas of what more they could learn or it might be time to move on. Either way, it is an important part of the scientific method to reflect on what we could or would do next - our practice should help to clarify our thinking and teach that there is always more to be learned.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

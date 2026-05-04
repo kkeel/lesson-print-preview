@@ -291,6 +291,71 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Science: Chemistry",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Learners begin each lesson with their existing knowledge. If the book or activity is new or unfamiliar, then look at the title, a picture, or guidance in the lesson plan to consider what learners think about it, drawing on previous experience. If continuing or revisiting a topic or activity, then recap.  \n\n• Take note of the chapter or section heading, and consider how the day's topic connects back to prior topic(s).  \n\n• Look back as needed. The outline of the book and even of the chapter is helpful in drawing out and connecting ideas. Learners practice making these connections as they proceed through the book.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read or do as instructed in the lessons. Teachers should note any Teacher Tips provided.  \n\n• Use supportive strategies and educational tools to reduce frustration and better engage the mind, as appropriate. These could include, but are not limited to, the use of eBooks, pictures, audio, read-aloud, buddy reading, colored reading strips, etc.\n\n• As they read, learners record ideas in a notebook or binder using outlines, diagrams, graphic organizers, or other methods (or a combination of methods) that suit them. These recordings can be a helpful mechanism for remembering or a mini-narration to support understanding.\n\n• If learners do not understand a word or concept, do not worry. Try reading over the passage again, studying a picture or diagram, connecting the idea to something from real life, or practicing chapter exercises. The lab book further supports major concepts from the text.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by explaining a concept, describing an object, retelling events, etc. Consider what the point of the lesson is before deciding what to do with it.  \n\n• Learners may use words, pictures, models, graphics, etc, to process and convey ideas in their own way.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider together any thoughts, confusion, or concerns about the passage.  \n\n• Questions/topics for further discussion are often provided in the lesson plans (or even lab books) to help. There are no right or wrong answers to these. Alternatively, many of these can be used for composition, depending on the needs of the learner and the instructional goals of the teacher.  \n\n• Note that learners may need to spend more than the allotted time engaging with or even repeating a lesson before moving on or as reinforcement at a later time. Adjust the pace as needed to feed the learner.\n\n• Notice if there are any dates to keep for the Book of Centuries or quotes for the Commonplace Book.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links, examine any sidebars in the text, look at pictures, etc, depending on learner needs and interest.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        },
+        {
+          "title": "Science: Chemistry",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Before beginning, be sure that the basic rules of lab safety (as listed in the lab manual) are understood and obeyed.\n\n• Every science lab has the same flow, which follows the scientific method and is guided by the lab book.  \n\n• Learners begin with an introduction in their lab book. How does this lab activity relate to what they have learned so far, as well as any previous experience? What will they learn from the lab? This is how hypotheses are formed.\n\n• If learners are unsure what to do with the Introduction, it can help to dialogue with someone as they work through the ideas. Check the Chemistry Companion in the Quick Links if a video tutorial might be helpful. This year is a pilot for this video series, so videos will be added to the Quick Link throughout the year.\n\n• Once they have had a chance to think, learners compose a prelab narration to put these introductory ideas and hypotheses into their lab notebooks. These prelab narrations may seem short and even incomplete if learners are new to keeping a lab notebook, but that is okay.  \n\n• If learners have difficulty or are easily frustrated, then consider allowing a digital notebook for typing, a scribe, or use of assistive technology, as appropriate.  \n\n• After they complete their prelab narration, learners should collect the listed materials, being sure to let teachers know if something is missing or to remind the teacher if something needs to be purchased at the store.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Learners complete the procedure as instructed in the lab book.  \n\n• The lab gives instructions for using the lab notebook to create tables and diagrams.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• The last step in the lab is to analyze the data and observations and draw conclusions from them. This postlab narration is prompted in the lab manual. Similar to the prelab narration, the concluding or postlab narration is a chance to think about and put into words. This time, learners are considering what they learned from the lab and what they could learn more about, if they were to continue.  \n\n• Teachers should engage learners with this reflection by reviewing their lab notebooks with them, discussing the science used in the lab, and demonstrating curiosity about the lab themselves. \n\n• Depending on the interest of the learner and the priorities of the teacher, the learner might be encouraged to spend more time on those ideas of what more they could learn or it might be time to move on. Either way, it is an important part of the scientific method to reflect on what we could or would do next - our practice should help to clarify our thinking and teach that there is always more to be learned.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

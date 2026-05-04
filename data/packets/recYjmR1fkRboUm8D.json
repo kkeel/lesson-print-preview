@@ -204,6 +204,47 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Art History",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Make sure your art supplies are organized and easily accessible. Look ahead to the upcoming lessons and gather supplies needed.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "Connect back to the activities and ideas from last lesson. History is a story with a beginning and a trajectory toward an endpoint. Remember what you have learned before beginning a new art history period in order to recognize how one movement influenced and sparked another movement. Sometimes you may recognize that one movement swallowed up another movement transforming it into a new idea.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Read about the new movement in your lesson plans or in your related text. Use the book or video resource in the lesson. Look at examples.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "You will have opportunity to practice many of the art styles as you study and use many different media. Classtime is also set aside to linger over images. Slow down, look at the images referenced, read about the ideas presented and look at the images again. Find the details in the artwork. Try to apply knowledge you have gained through Picture Study. Use the observational skills you have honed over the years. Work to connect the dots of the history of humanity.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "If you have opportunity, share what you are learning with a teacher, friend or family member. The ideas we ingest become more concrete in our minds when we teach someone else what we have learned.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

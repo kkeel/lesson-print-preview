@@ -193,6 +193,47 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Biology Lessons",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• Learners begin each lesson with their existing knowledge. If the book or activity is new or unfamiliar, then look at the title, a picture, or guidance in the lesson plan to consider what learners think about it, drawing on previous experience. If continuing or revisiting a topic or activity, then recap.  \n\n• Take note of the chapter or section heading, and consider how the day's topic connects back to prior topic(s).  \n\n• Look back as needed. The outline of the book and even of the chapter is helpful in drawing out and connecting ideas. Learners practice making these connections as they proceed through the book.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read or do as instructed in the lessons. Teachers should note any Teacher Tips provided.  \n\n• Use supportive strategies and educational tools to reduce frustration and better engage the mind, as appropriate. These could include, but are not limited to, the use of eBooks, pictures, audio, read-aloud, buddy reading, colored reading strips, etc.\n\n• As they read, learners record ideas in a notebook or binder using outlines, diagrams, graphic organizers, or other methods (or a combination of methods) that suit them. These recordings can be a helpful mechanism for remembering or a mini-narration to support understanding.\n\n• If learners do not understand a word or concept, do not worry. Try reading over the passage again, studying a picture or diagram, connecting the idea to something from real life, or practicing chapter exercises. The lab book further supports major concepts from the text.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Process the ideas of the lesson by explaining a concept, describing an object, retelling events, etc. Consider what the point of the lesson is before deciding what to do with it.  \n\n• Learners may use words, pictures, models, graphics, etc, to process and convey ideas in their own way.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Consider together any thoughts, confusion, or concerns about the passage.  \n\n• Questions/topics for further discussion are often provided in the lesson plans (or even lab books) to help. There are no right or wrong answers to these. Alternatively, many of these can be used for composition, depending on the needs of the learner and the instructional goals of the teacher.  \n\n• Note that learners may need to spend more than the allotted time engaging with or even repeating a lesson before moving on or as reinforcement at a later time. Adjust the pace as needed to feed the learner.\n\n• Notice if there are any dates to keep for the Book of Centuries or quotes for the Commonplace Book.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "• Follow any extra links, examine any sidebars in the text, look at pictures, etc, depending on learner needs and interest.",
+              "imageId": "recFTWLdIhFxVUKmZ",
+              "image": "../images/howto_images/recFTWLdIhFxVUKmZ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

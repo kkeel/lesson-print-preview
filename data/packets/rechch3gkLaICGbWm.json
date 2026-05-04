@@ -168,6 +168,53 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Geography: Grade 2 (Canada)",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Overview",
+              "text": "The steps below are generally true for most geography lessons. Sometimes several lessons might build together or focus on a particular area (like Map Work).",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Through questions, observations, an activity, or recalling the last lesson, introduce the topic for the day.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Map Questions",
+              "text": "Answer questions on the map or on making your own maps.",
+              "imageId": "recmjh7hejlNbg2uM",
+              "image": "../images/howto_images/recmjh7hejlNbg2uM.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the day's passage out loud or have the student read independently.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Have students retell the passage either orally or in writing. They may want to use maps or pictures to tell back.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Map Work",
+              "text": "The lesson may contain more map work as students make their own maps or add to ongoing maps.",
+              "imageId": "recOhz0yF0cWoc5sJ",
+              "image": "../images/howto_images/recOhz0yF0cWoc5sJ.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

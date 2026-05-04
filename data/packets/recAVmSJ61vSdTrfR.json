@@ -157,6 +157,35 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Labs: Grade 8",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "Regardless of how many days are required to complete a particular activity, every science lab has the same flow, which follows the scientific method and is guided by the lab book.  \n\n• On day 1, learners read an introduction in their lab book. How does this lab activity relate to what they have learned so far, as well as any previous experience? What will they learn from the lab? This is analogous to the conversation we might have when we begin something new in any subject, but they may need to dialogue as they learn to extend these skills to the laboratory.  \n\n• Once they have had a chance to think, they will compose a prelab narration to put these introductory ideas into their notebooks. The prompt in the lab is generalized and consistent, so they learn the habit. Eventually, they will learn to formulate this as a hypothesis. For example, a learner preparing for a lab about the use of insect repellent might write: \n\n“I have read about some diseases that are spread by insects, like Lyme disease. I also know that my sister is allergic to some insect bites. Insect repellent contains pesticides to keep insects away. Some scientists worry about how pesticides affect wildlife. I am going to compare some different insect repellants in this lab to see if they really work.”  \n\n• Written narration and composition are skills that they will build over time. These prelab narrations may seem short and even incomplete at first, but that is okay. If learners have difficulty or are easily frustrated, then provide them with support. Teachers may act as scribes or allow students to keep a digital notebook to type or use assistive technology, as appropriate.  \n\n• After they complete their prelab narration, the listed materials are collected. This gives the learner some responsibility to let the teacher know if something is missing or to remind the teacher if something needs to be purchased at the store.  \n\n• If these activities on day 1 do not fill the scheduled time, that is fine. They might use the additional time to familiarize themselves with the procedure, draw a picture from their book, or catch up on any other work. Some labs may instruct the student to begin on the same day.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Then, students begin and follow the procedure (whenever prompted by the lab book). Note that the lesson plans guide teachers as to which sections are completed each week, and the lab book instructs learners when to take a break.\n\n• The lab gives instructions for using their notebooks to create tables and figures, as needed. Do not allow this to become an obstacle. Do it with them, first having them watch and then having them copy or help when ready.  \n\n• If teachers choose to have learners record directly in the lab book or on a photocopy, then cut out and tape these into their lab books, so that they can see how the record is built.\n\n• Learners may feel unsatisfied with their results. This is often part of the process. Come alongside, help them learn to be okay with uncertainty and questions, and teach them what to do with it in the next step.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• The last step in the lab is to analyze the data and observations and draw conclusions from them. For some simpler labs, learners will complete their analysis and concluding (or postlab) narration on the last day of the lab procedure. For labs that are more involved, a separate day has been built in to allow adequate time for this.  \n\n• Similar to the prelab narration, the concluding narration is a chance to think about and put into words (or questions). This time, they are considering what they learned from the lab, what they could learn more about if they were to continue, and possibly how they would pursue that learning. Again, they might need support in the form of dialogue, a scribe, etc. For example, the above learner might write: \n\n“It was clear that the Off and black pepper essential oil worked against ants because they would not even touch the line of repellent, but I wasn’t sure about the Skin So Soft because it ran all over the place. I could test this one again with different insects or on a different surface.”  \n\n• Depending on the interest of the learner and the priorities of the teacher, the student might be encouraged to spend more time on those ideas of what more they could learn, or it might be time to move on. Either way, it is an important part of the scientific method to reflect on what we could or would do next - our practice should help to clarify our thinking and teach that there is always more to be learned.  \n\n• Teachers should engage learners with this reflection by reviewing their lab notebooks with them, discussing the science used in the lab, and demonstrating curiosity about the lab themselves.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -121,6 +121,53 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Latin 3",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Recap",
+              "text": "Connect back to previous lessons by briefly recalling where you are at in the story.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "Introduce new vocabulary or review previous vocabulary. Note: depending on the focus of any given lesson, one or more of these steps might be given the whole lesson time.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the passage in Latin.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Narrate and/or translate into English.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Practice using new grammatical structures in passage or in exercise.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Write",
+              "text": "Practice writing in Latin.",
+              "imageId": "recxHTB15V7kHGc7A",
+              "image": "../images/howto_images/recxHTB15V7kHGc7A.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

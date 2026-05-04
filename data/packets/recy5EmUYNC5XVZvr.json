@@ -129,6 +129,65 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Ethics: Part 5",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "If you, the student, are learning at home, work to schedule a time with your teacher when you can complete the lessons from Ourselves or your Ethics reading together, as these lessons are much richer when shared and discussed.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "Connect back to the previous lesson. (Optional for Current Events).",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "For news sources: Scan the headlines first to get an overview, and then choose a story to read.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "Read the selection assigned or the news story chosen for the time assigned. For rich, dense, or more challenging books such as Ourselves, it is a good idea to read them aloud. Keep an eye out for quotes to put in your commonplace book or events or characters to put down in your Book of Centuries.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "Process and integrate your reading by narrating either orally or in writing. Some lesson plans will give you a suggestion of how best to narrate. To keep yourself on track, you might want to set a timer so you stop reading with enough time to narrate.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Connect",
+              "text": "After your narration, think about how what you read connects to other subjects, other books, other things you've read or watched, or seen in the past or present. For current events, look up where events occurred on a map and ask questions together to discern the quality of the piece. (e.g., Are there sources cited? Is there an obvious bias? If so, what do other authors have to say on this subject? Are arguments supported by evidence? Is that evidence credible?) Consider reading an alternative perspective.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Citizenship Notebook",
+              "text": "Record important ideas in your Citizenship Notebooks. Make a calendar of current events.",
+              "imageId": "recxHTB15V7kHGc7A",
+              "image": "../images/howto_images/recxHTB15V7kHGc7A.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "These lessons are written directly to students, but to assist them throughout the year, please read through this section and the lesson plans so you are familiar with the instructions and flow of the lessons. You may also want to preview and choose which news sites to offer students.\n\nThose educating at home might pick one lesson to read aloud (such as the Ethics readings on Cultural Engagement, Conscience, etc.) with their students to keep up the habit of oral narration and foster conversation and relationship and then simply give students these lesson plans and the rest of the books and check in with them throughout the term for conversation, support, and accountability. \n\nIt is valuable for those in a classroom setting to also have a mix of lessons, which students complete themselves silently, and others read aloud and narrated together. Classroom settings lend themselves well to additional discussion and sharing at the end of lessons, after everyone has narrated either together or independently in writing.",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

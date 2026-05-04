@@ -137,6 +137,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Composition: Grade 10",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Read",
+              "text": "You will read books across the curriculum, including the text of Caesar's English II. Look for interesting quotes to copy into your commonplace book!",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Caesar's English is best discussed with a teacher to share in the joy of learning new words and understanding the history of our language.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "You will practice many forms of composition over the year. Your books will often serve as the foundation for your assignments.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "• As you review your students' composition assignments, be sure to read the instructions in the lesson and give feedback and support accordingly.     \n• Some students naturally integrate and incorporate ideas from grammar and composition lessons into their narrations and composition assignments, but most assignments ask students to focus on one skill or idea. \n• For editing or revision lessons, hold the student accountable to work through the process and instructions given for editing, but refrain from suggesting too many ideas about how they could expand the essay or add another idea. \n• For assignments that ask a student to focus on a particular concept, ignore spelling or grammar edits, and support your student by noticing what they've done well and drawing out ideas on how to dig deeper.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

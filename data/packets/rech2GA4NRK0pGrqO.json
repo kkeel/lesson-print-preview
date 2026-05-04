@@ -134,6 +134,53 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Technology",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Preview the lesson. Make sure you have the required materials (paper and writing utensil) ready and links (Learning Journal, HTML Word Journal) open before beginning so they are easily accessible during the lesson.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Skim",
+              "text": "Begin each day by briefly skimming the whole lesson. Consider the THINK prompt at the start of the lesson to activate curiosity and access prior knowledge. Consider how today's skills build on what you've previously explored.",
+              "imageId": "recqu0GEEvp4lLA3E",
+              "image": "../images/howto_images/recqu0GEEvp4lLA3E.webp"
+            },
+            {
+              "prompt": "Watch/Read",
+              "text": "Watch the assigned videos or read the provided articles, pausing often to take note of interesting or important ideas. Good notes capture both facts and your connections or questions.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "After exposure to new content, follow along, experiment, and play with the lesson concept, topic, or idea. This will include adding to and editing your HTML Word Journal, learning journals, and Technology Timeline. This could also include designing a logo or trying coding exercises. Try thoughtful things. Allow yourself to make mistakes. Observe what happens and what, in happening, causes something else to happen. Record your findings.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Reflect",
+              "text": "Reflect in writing on what you learned, noticed, or found challenging during the lesson. Update projects (e.g., inserting images, improving layouts) to solidify new skills.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Share",
+              "text": "When possible, share what you create during the lesson with a teacher or facilitator, friends, and family members. This can help highlight the real-world relevance of skills like web design, historical inquiry, and creative problem-solving.",
+              "imageId": "recc9FHBrMEuqEttY",
+              "image": "../images/howto_images/recc9FHBrMEuqEttY.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -207,6 +207,53 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "History: Grades 5-6 (U.S.)",
+          "subtitle": "How To Teach",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "• Read through the lesson and gather any materials or find any necessary links. \n\n• If you have not already read the book, you may want to read the selected pages in advance.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Recap",
+              "text": "• Connect to previous lessons by asking students to recall where they left off. \n\n• If students have difficulty recalling, teachers might try showing them a picture from the reading, sharing something the teacher remembers, or prompting them with the first sentence of the last reading. This will often refresh their memory enough to allow them to recall.\n\n• If students still cannot recall anything from the last reading, teachers might consider continuing anyway (with a shorter reading this time) or repeating the previous lesson, depending on the reading and the nature of the book.",
+              "imageId": "recLDUhM0HxOUkXQh",
+              "image": "../images/howto_images/recLDUhM0HxOUkXQh.webp"
+            },
+            {
+              "prompt": "Introduce",
+              "text": "• Use a picture, map, or engaging question to pique the student's interest in the day's lesson. \n\n• If necessary, you may talk about one or two unfamiliar words that will be crucial to understanding.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Read",
+              "text": "• Read the day's passage out loud. When reading to pre-readers, point to the words as you read, even if it seems like they aren't paying attention.\n\n• Move at the student’s pace for the lesson time rather than a particular number of pages. It is vitally important that teachers not try to ‘force feed’ a student more than they can consume in one sitting.\n\n• Students who have a difficult time sitting still or listening may benefit from a fidget of their choice, such as a piece of putty or clay or an afghan; flexible positioning, such as a wobble seat or inverted sitting; or sensory modulation, such as a weighted vest or blanket or adjustment of light, temperature, or sound.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "• Have students retell the passage orally.\n\n• Alternatively, learners may use words, pictures, Legos, dolls, etc., to process and convey ideas in the manner most natural to them.  \n\n• Teachers may take turns to model.\n\n• Narration is a complex skill requiring the coordination of several parts of the brain. If a student struggles to narrate in general, with a specific subject or book, or on one day but not others, then this is an opportunity to learn. Observe when they struggle with this or any other activity today. Notice facial expressions and body language; listen to what they say about why it is hard or how they feel about it. Take note of these observations for later, tell them that you see how hard they are working, and then offer whatever support they need to end on a positive note. If necessary, take a break for the day.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "• Give the student an opportunity to share thoughts on the lesson and any connections made.  \n\n• To stimulate discussion, you could ask them what they thought about the passage or ask an open-ended question.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

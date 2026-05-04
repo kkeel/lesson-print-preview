@@ -94,6 +94,35 @@
           "groups": []
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Physics Labs",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Introduce",
+              "text": "• This course uses more open-ended 'projects' for lab, but every activity still has the same flow, which follows the scientific method.  \n\n• Learners begin with an introduction. How does the project relate to what they have learned so far, as well as any previous experience? What will they learn from the lab? This is how hypotheses are formed.\n\n• Learners are not given a Procedure and must decide for themselves how to approach the lab. If they are unsure what to do, it can help to dialogue with someone as they work through the ideas.  \n\n• Once they have had a chance to think, learners compose a prelab narration to put these introductory ideas, hypotheses, and plans into their lab notebooks. These prelab narrations may seem short and even incomplete if learners are new to keeping a lab notebook, but that is okay.  \n\n• If learners have difficulty or are easily frustrated, then consider allowing a digital notebook for typing, a scribe, or the use of assistive technology, as appropriate.  \n\n• After they complete their prelab narration, learners should collect any materials, being sure to let teachers know if something is missing or to remind the teacher if something needs to be purchased at the store.",
+              "imageId": "recA2NEUDRjP5aLqn",
+              "image": "../images/howto_images/recA2NEUDRjP5aLqn.webp"
+            },
+            {
+              "prompt": "Lab Procedure",
+              "text": "• Learners complete the activity.  \n\n• They should use their lab notebooks to record what they do and capture any data, which can be printed from the computer and taped into the notebook.",
+              "imageId": "recuNs47kYPlM4pkJ",
+              "image": "../images/howto_images/recuNs47kYPlM4pkJ.webp"
+            },
+            {
+              "prompt": "Analysis & Conclusions",
+              "text": "• The last step in the lab is to analyze the data and observations and draw conclusions from them. Similar to the prelab narration, the concluding or postlab narration is a chance to think about and put into words. This time, learners are considering what they learned from the lab and what they could learn more about if they were to continue.  \n\n• Teachers should engage learners with this reflection by reviewing their lab notebooks with them, discussing the science used in the lab, and demonstrating curiosity about the lab themselves. \n\n• Depending on the interest of the learner and the priorities of the teacher, the learner might be encouraged to spend more time on those ideas of what more they could learn or it might be time to move on. Either way, it is an important part of the scientific method to reflect on what we could or would do next - our practice should help to clarify our thinking and teach that there is always more to be learned.",
+              "imageId": "recowIpieLwPkg3Fv",
+              "image": "../images/howto_images/recowIpieLwPkg3Fv.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

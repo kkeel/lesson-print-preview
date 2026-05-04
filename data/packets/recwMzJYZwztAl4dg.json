@@ -165,6 +165,41 @@
           ]
         }
       ]
+    },
+    {
+      "type": "howto",
+      "pages": [
+        {
+          "title": "Health Elective (Beta)",
+          "subtitle": "How To Approach",
+          "blocks": [
+            {
+              "prompt": "Read",
+              "text": "The lesson plans will guide you through what to read or watch over the terms. Take a moment before reading/watching to remember where you left off last time.",
+              "imageId": "rec8qCc9QiAta9SiI",
+              "image": "../images/howto_images/rec8qCc9QiAta9SiI.webp"
+            },
+            {
+              "prompt": "Narrate",
+              "text": "The lesson plans will give you specific instructions or tell you to choose a way to narrate that helps you interact with the ideas.",
+              "imageId": "recIUhyVu1Y1l6aP9",
+              "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "The lesson plans will guide you with questions or instructions to share your ideas or what you are reading with others.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Teacher Note",
+              "text": "These lessons are written directly to students, but to assist them throughout the year, please read through this section and the lesson plans so you are familiar with the instructions and flow of the lessons. Accountability components are occasionally added to facilitate teacher/student discussion and growing independence. \n\nIt is also valuable for those in a classroom setting to have a mix of lessons that students complete themselves silently and others read aloud and narrate together. These lessons lend themselves well to a larger discussion time at the end of the lesson where students can share their ideas.",
+              "imageId": "rec2qfBj7HWXiHxKO",
+              "image": "../images/howto_images/rec2qfBj7HWXiHxKO.webp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
