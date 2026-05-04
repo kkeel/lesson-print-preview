@@ -151,6 +151,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Jump Rope",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Jump Rope - Lesson 1",
+              "body": "⍞ Materials: The Book of Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"Icka Backa Soda Cracker\" p.48\n\n➜ LISTEN & PRACTICE\n1\\. Read the rhyme aloud, practice reciting.\n2\\. Clap a steady beat to find the rhythm.\n3\\. Jump to rhythm, landing on stressed beats.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Jump Rope - Lesson 2",
+              "body": "Icka Backa Soda Cracker\n⍞ Materials: Long Jump Rope, Two Twirlers\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with long rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Jump Rope - Lesson 3",
+              "body": "Icka Backa Soda Cracker\n⍞ Materials: Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with a short rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Jump Rope - Lesson 4",
+              "body": "Icka Backa Soda Cracker\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Listen to rhyme while jumping.\n2\\. Recite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Jump Rope - Lesson 5",
+              "body": "Icka Backa Soda Cracker\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\nRecite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Jump Rope - Lesson 6",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Jump Rope - Lesson 7",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Jump Rope - Lesson 8",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Jump Rope - Lesson 9",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Jump Rope - Lesson 10",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Jump Rope - Lesson 11",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Jump Rope - Lesson 12",
+              "body": "➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Jump Rope - Lesson 13",
+              "body": "⍞ Materials: The Book of Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"Motor Boat, Motor Boat\" p.46\n\n➜ LISTEN & PRACTICE\n1\\. Read the rhyme aloud, practice reciting.\n2\\. Clap a steady beat to find the rhythm.\n3\\. Jump to rhythm, landing on stressed beats.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Jump Rope - Lesson 14",
+              "body": "Motor Boat, Motor Boat\n⍞ Materials: Long Jump Rope, Two Twirlers\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with long rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Jump Rope - Lesson 15",
+              "body": "Motor Boat, Motor Boat\n⍞ Materials: Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with a short rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Jump Rope - Lesson 16",
+              "body": "Motor Boat, Motor Boat\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Listen to rhyme while jumping.\n2\\. Recite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Jump Rope - Lesson 17",
+              "body": "Motor Boat, Motor Boat\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\nRecite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Jump Rope - Lesson 18",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Jump Rope - Lesson 19",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Jump Rope - Lesson 20",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Jump Rope - Lesson 21",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Jump Rope - Lesson 22",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Jump Rope - Lesson 23",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Jump Rope - Lesson 24",
+              "body": "➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Jump Rope - Lesson 25",
+              "body": "⍞ Materials: The Book of Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"Postman, Postman\" p.46\n\n➜ LISTEN & PRACTICE\n1\\. Read the rhyme aloud, practice reciting.\n2\\. Clap a steady beat to find the rhythm.\n3\\. Jump to rhythm, landing on stressed beats.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Jump Rope - Lesson 26",
+              "body": "Postman, Postman\n⍞ Materials: Long Jump Rope, Two Twirlers\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with long rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Jump Rope - Lesson 27",
+              "body": "Postman, Postman\n⍞ Materials: Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme\n\n➜ PRACTICE\n1\\. Recite the rhyme without jumping.\n2\\. Listen to rhyme and jump with a short rope.\n3\\. Recite the rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Jump Rope - Lesson 28",
+              "body": "Postman, Postman\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\n1\\. Listen to rhyme while jumping.\n2\\. Recite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Jump Rope - Lesson 29",
+              "body": "Postman, Postman\n⍞ Materials: Long or Short Jump Rope\n\n➜ NOTE\nContinue with the same rhyme.\n\n➜ PRACTICE\nRecite rhyme while jumping.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Jump Rope - Lesson 30",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Jump Rope - Lesson 31",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Jump Rope - Lesson 32",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Jump Rope - Lesson 33",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Jump Rope - Lesson 34",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Jump Rope - Lesson 35",
+              "body": "Variations\n⍞ Materials: Long or Short Jump Rope\n\n➜ PRACTICE\n• Jump to a variety of rhymes.\n• Recite other jump rope rhymes.\n• Sing songs or other catchy rhymes.\n• Recite Modern Language rhymes.\n• Recite poetry or math facts.\n\n➜ PRACTICE\n• Vary the skill level, add tricks.\n• Increase or decrease speed.\n• Run in and out.\n• Turn around.\n• Touch ground.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Jump Rope - Lesson 36",
+              "body": "➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

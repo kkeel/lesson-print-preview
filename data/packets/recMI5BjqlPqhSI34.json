@@ -164,6 +164,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Folk Dancing",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Folk Dancing - Lesson 1",
+              "body": "Great Big House\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Great Big House on p.30. Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Great Big House. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Link: Great Big House\n∞ Audio Link: Great Big House (piano only)\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Great Big House",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Folk Dancing - Lesson 2",
+              "body": "Great Big House\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Great Big House\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Great Big House",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Folk Dancing - Lesson 3",
+              "body": "Great Big House\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Great Big House\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Great Big House",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Folk Dancing - Lesson 4",
+              "body": "Great Big House\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Great Big House\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Great Big House",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Folk Dancing - Lesson 5",
+              "body": "Great Big House\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Great Big House\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Great Big House",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Folk Dancing - Lesson 6",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Brother Come and Dance on p.51. Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Brother Come and Dance. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Links: Brother Come and Dance\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Folk Dancing - Lesson 7",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brother Come and Dance\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Folk Dancing - Lesson 8",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brother Come and Dance\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Folk Dancing - Lesson 9",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brother Come and Dance\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Folk Dancing - Lesson 10",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brother Come and Dance\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Folk Dancing - Lesson 11",
+              "body": "Brother Come and Dance\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brother Come and Dance\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brother Come and Dance",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Folk Dancing - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nThe Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Folk Dancing - Lesson 13",
+              "body": "Old Joe Clark\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Old Joe Clark p.36-37. Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Old Joe Clark. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Links: Old Joe Clark\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Old Joe Clark",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Folk Dancing - Lesson 14",
+              "body": "Old Joe Clark\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Old Joe Clark\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Old Joe Clark",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Folk Dancing - Lesson 15",
+              "body": "Old Joe Clark\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Old Joe Clark\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Old Joe Clark",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Folk Dancing - Lesson 16",
+              "body": "Old Joe Clark\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Old Joe Clark\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Old Joe Clark",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Folk Dancing - Lesson 17",
+              "body": "Old Joe Clark\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Old Joe Clark\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Old Joe Clark",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Folk Dancing - Lesson 18",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Brown Eyed Mary on p.52-53. Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Brown Eyed Mary. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Links: Brown Eyed Mary\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Folk Dancing - Lesson 19",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brown Eyed Mary\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Folk Dancing - Lesson 20",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brown Eyed Mary\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Folk Dancing - Lesson 21",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brown Eyed Mary\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Folk Dancing - Lesson 22",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brown Eyed Mary\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Folk Dancing - Lesson 23",
+              "body": "Brown Eyed Mary\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Brown Eyed Mary\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Brown Eyed Mary",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Folk Dancing - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nThe Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Folk Dancing - Lesson 25",
+              "body": "Billy, Billy\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Billy, Billy p.72 (original), p.68 (revised edition). Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Billy, Billy. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Links: Billy, Billy\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Billy, Billy",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Folk Dancing - Lesson 26",
+              "body": "Billy, Billy\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Billy, Billy\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Billy, Billy",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Folk Dancing - Lesson 27",
+              "body": "Billy, Billy\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Billy, Billy\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Billy, Billy",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Folk Dancing - Lesson 28",
+              "body": "Billy, Billy\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Billy, Billy\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Billy, Billy",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Folk Dancing - Lesson 29",
+              "body": "Billy, Billy\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Billy, Billy\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Billy, Billy",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Folk Dancing - Lesson 30",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\nPREP: Teaching the song dance is much easier if you split up the skills. Teach the song first, then teach the dance slowly while counting the beat. Once those are mastered separately, you can try putting them together. Review Paw Paw Patch on p.92-93 (original), p.86 (revised edition). Listen to the song, watch the demo, and learn the dance. Group instructions and partner variation are available.\n\n➜ INTRO\nSay: Today, we are going to learn a new song and dance called Paw Paw Patch. We will listen to the song one time, then play it again and sing along.\n\n➜ LISTEN\n∞ Audio Links: Paw Paw Patch\n\n➜ VIEW\nWatch the demo and learn dance movements. Group Instructions and Partner Variation are available.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Folk Dancing - Lesson 31",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Paw Paw Patch\n\n➜ VIEW\nLearn the steps to the dance, one part at a time.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Folk Dancing - Lesson 32",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Paw Paw Patch\n\n➜ LISTEN & PRACTICE\nPractice the dance while listening to the song.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Folk Dancing - Lesson 33",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Paw Paw Patch\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Folk Dancing - Lesson 34",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Paw Paw Patch\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Folk Dancing - Lesson 35",
+              "body": "Paw Paw Patch\n⍞ Materials: The Book of Song Dances\n\n➜ RECAP\nListen to the song once and sing along. Then sing the song without the music.\n∞ Audio Links: Paw Paw Patch\n\n➜ DANCE\nPractice the dance while singing the song.\n∞ Video Link: Paw Paw Patch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Folk Dancing - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nThe Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

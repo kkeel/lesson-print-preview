@@ -206,6 +206,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Music Appreciation",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "10m Music Appreciation - Lesson 1",
+              "body": "Woodwinds: Flute, Clarinet\n\n➜ INTRO\nInstruments come in all shapes and sizes and make different sounds. The songs we listen to will describe instruments.\n\n➜ LISTEN, VIEW & NARRATE\n∞ Audio Link: Antoinette the Clarinet\n∞ Audio Link: Knute the Flute\n∞ Image Link: Clarinet\n∞ Image Link: Flute",
+              "teacherNotes": "• MUSIC JOURNAL\n Draw a clarinet or flute.\n\n• AFTERNOON LISTENING\n∞ Audio Link: Young Person’s Guide to the Orchestra \"Introduction\" \nTime Marker 0:00-3:49"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "10m Music Appreciation - Lesson 2",
+              "body": "Woodwinds: Oboe, Bassoon\n\n➜ RECAP\nNarrate about the woodwind family, naming and describing instruments.\n\n➜ LISTEN, VIEW & NARRATE\nPretend you're a flute, clarinet, oboe, or bassoon. Move and sound like them.\n∞ Audio Link: Bobo the Oboe\n∞ Audio Link: Muldoon the Bassoon \n∞ Image Link: Oboe\n∞ Image Link: Bassoon",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: YP's Guide to the Orchestra \"Woodwinds\" \nTime Marker 3:49-7:03"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "10m Music Appreciation - Lesson 3",
+              "body": "Brass: Trumpets and Tubas\n\n➜ RECAP\nTell about your favorite woodwind.\n\n➜ LISTEN, VIEW & NARRATE\nHow does a trumpet or tuba sound different from other instruments we've heard?\n∞ Audio Link: Crumpet the Trumpet\n∞ Audio Link: Poohbah the Tuba \n∞ Image Link: Trumpet\n∞ Image Link: Tuba",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: YP's Guide to the Orchestra \"Strings\" \nTime Marker 7:03-11:45"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "10m Music Appreciation - Lesson 4",
+              "body": "Brass: French Horn and Trombone\n\n➜ INTRO\nWhile you listen to the music, march around, making your body match the sound and volume of the music.\n\n➜ LISTEN, VIEW & NARRATE\n∞ Audio Link: Monsieur Forlorn the French Horn\n∞ Audio Link: Mike Malone the Slide Trombone\n∞ Image Link: French Horn\n∞ Image Link: Slide Trombone",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: YP's Guide to the Orchestra \"Brass\" \nTime Marker 11:45-14:19"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "10m Music Appreciation - Lesson 5",
+              "body": "Strings\n\n➜ RECAP\nImitate the kind of sound a French horn or trombone makes.\n\n➜ LISTEN, VIEW & NARRATE\n∞ Audio Link: Lucy Lynn the Violin\n∞ Audio Link: Mello Fello the Cello\n∞ Image Link: Violin\n∞ Image Link: Cello",
+              "teacherNotes": "• MUSIC JOURNAL\nDraw a picture of yourself playing an instrument.\n\n• AFTERNOON LISTENING\nListen to audios from the lesson."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "10m Music Appreciation - Lesson 6",
+              "body": "Strings (cont.)\n\n➜ RECAP\nName as many of the instruments as you can.\n\n➜ LISTEN, VIEW & NARRATE\nHow does the viola sound different from the violin? The bass from the cello?\n∞ Audio Link: Nola the Viola\n∞ Audio Link: Lovelace the Bass\n∞ Image Link: Viola\n∞ Image Link: Bass\n∞ Image Link: Violin, Viola, Cello, and Bass",
+              "teacherNotes": "• AFTERNOON LISTENING\nListen to audios from the lesson."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "10m Music Appreciation - Lesson 7",
+              "body": "Percussion and Saxophone\n\n➜ INTRO\nPercussion instruments are normally played by striking (some kind of beater [e.g., a mallet] or pedal-operated stick) or shaking. Can you think of any instruments that fit this description?\n\n➜ LISTEN, VIEW & NARRATE\n∞ Audio Link: Peter Percussion\n∞ Audio Link: Max the Saxophone\n∞ Video Link: George Meets the Orchestra (6:01)\n∞ Image Link: Saxophone",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: YP's Guide to the Orchestra \"Percussion\" \nTime Marker 14:19-16:09"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "10m Music Appreciation - Lesson 8",
+              "body": "Harp and Piano\n\n➜ RECAP\nTell what George learned in the last lesson.\n\n➜ LISTEN, VIEW & NARRATE\nWhile listening, move your body along with the music or pretend to be the conductor.\n∞ Audio Link: Mort the Pianoforte\n∞ Audio Link: Lady Harp \n∞ Image Link: Pianoforte\n∞ Image Link: Harp",
+              "teacherNotes": "• MUSIC JOURNAL\nDraw a picture of Lady Harp.\n\n• AFTERNOON LISTENING\nListen to audios from the lesson."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "10m Music Appreciation - Lesson 9",
+              "body": "Voices\n\n➜ INTRO\nHow are people’s voices also like the instruments we've studied?\n\n➜ LISTEN & DISCUSS\nListen to the two songs. Did you hear which instrument was played with the singers in the second song? (piano)\n∞ Audio Link: Cuckoo by Benjamin Britten\n∞ Audio Link: Ee-Oh by Benjamin Britten",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: Friday Afternoons by Britten"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "10m Music Appreciation - Lesson 10",
+              "body": "Orchestra Together\n\n➜ INTRO\nPretend to be different instruments warming up to play in the orchestra. I'll guess which one you are imitating! How do you know when to start? (Conductor)\n\n➜ LISTEN, VIEW & NARRATE\nHow does the sound of an orchestra differ from that of a single instrument? How does the first piece differ from the second one?\n∞ Audio Link: The Orchestra: I. Allegro\n∞ Audio Link: The Orchestra: II. Largo",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: YP's Guide to the Orchestra\n\"Orchestra Reassembled\" \nTime Marker 16:09-20:05"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "10m Music Appreciation - Lesson 11",
+              "body": "Orchestra Together (cont.)\n\n➜ INTRO\nWhat do you think it would be like to play in an orchestra? What instruments do you think you might enjoy playing?\n\n➜ LISTEN & DISCUSS\nAs you listen to the orchestra, pretend you are playing different instruments. Afterwards, tell all you know about the orchestra and the instruments in it.\n∞ Audio Link: The Orchestra: III. Scherzo\n∞ Audio Link: The Orchestra: IV. Andante",
+              "teacherNotes": "• AFTERNOON LISTENING\nListen to audios from the lesson.\n\n• TERMINOLOGY\nClick on \"Instruments of the Orchestra,\" then select \"No Names\" in the top left corner. Click on each instrument family for the student to name.\n∞ Link: Instruments of the Orchestra Game"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "10m Music Appreciation - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "10m Music Appreciation - Lesson 13",
+              "body": "Peter and the Wolf\n\n➜ INTRO\nToday we are going to begin studying a new piece called Peter and the Wolf by Sergei Prokofiev. Prokofiev composed this piece to introduce children to the instruments in the orchestra. Itzhak Perlman, a world-famous violinist, narrates.\n\n➜ VIEW\n∞ Video Link: Peter and the Wolf: I. Perlman \nTime Marker: 0:00-9:00\n\n➜ DRAW\nDraw or tell about the characters and instruments that you met today.",
+              "teacherNotes": "• AFTERNOON LISTENING\nA flute plays the bird in Peter and the Wolf. Watch how fast this flutist plays.\n∞ Video Link: Flight of the Bumblebee by Rimsky-Korsakov"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "10m Music Appreciation - Lesson 14",
+              "body": "Peter and the Wolf (cont.)\n\n➜ RECAP\nTell what you remember from last week.\n\n➜ VIEW\n∞ Video Link: Peter and the Wolf: I. Perlman \nTime Marker: 9:00-18:00\n\n➜ NARRATE\nUse stuffed animals or puppets to act out the story.",
+              "teacherNotes": "• AFTERNOON LISTENING\nAn oboe represents the duck in Peter and the Wolf. Watch the man in the black suit play the oboe in this piece.\n∞ Video Link: Mozart's Oboe Concerto"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "10m Music Appreciation - Lesson 15",
+              "body": "Peter and the Wolf (cont.)\n\n➜ RECAP\nTell about the instruments that are in the story.\n\n➜ VIEW\n∞ Video Link: Peter and the Wolf: I. Perlman \nTime Marker: 18:00-End",
+              "teacherNotes": "• MUSIC JOURNAL\nDraw a picture of one of the characters in the story and the instrument that represents the character. Alternatively, students might paint what the music feels like or imitate the character and their instrument.\n\n• AFTERNOON LISTENING\nBig drums, called timpani, represent The Hunters. Watch at least a few minutes of this video to see how timpani are played.\n∞ Video Link: Fantasia for Timpani"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "10m Music Appreciation - Lesson 16",
+              "body": "Peter and the Wolf Version Two\n\n➜ INTRO\nToday, we will listen to a different recording of Peter and the Wolf narrated by Leonard Bernstein, a famous conductor.\n\n➜ VIEW\n∞ Video Link: Peter and the Wolf: L. Bernstein \nTime Marker: 0:00-8:00\n\n➜ NARRATE\nHow is this recording different from the previous one?",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Audio Link: About Sergei Prokofiev"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "10m Music Appreciation - Lesson 17",
+              "body": "Peter and the Wolf V2 (cont.)\n\n➜ VIEW\n∞ Video Link: Peter and the Wolf: L. Bernstein \nTime Marker: 8:00 - 18:00\n\n➜ NARRATE \nDid you notice any ways this recording is different from the last one?",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: Peter and the Wolf: L. Bernstein"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "10m Music Appreciation - Lesson 18",
+              "body": "Carnival of the Animals\n\n➜ INTRO\nToday, we will listen to a new composition called Carnival of the Animals by Camille Saint-Saens.\n\n➜ LISTEN\nStop at the end of each animal & name the next animal for students: Royal March of Lion, Hens & Roosters, Wild Donkeys, Tortoises, & Elephant.\n∞ Audio Link: Carnival of the Animals Version 1 \nTime Marker: 0:00-7:45",
+              "teacherNotes": "• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "10m Music Appreciation - Lesson 19",
+              "body": "Carnival of the Animals: Kangaroos through Cuckoo\n\n➜ RECAP\nWhat were some of the animals we heard last week?\n\n➜ LISTEN\nThis week, we are going to hear movements called Kangaroos, Aquarium, Characters with Long Ears, and The Cuckoo in the Depths of the Woods. What do you think the animals with long ears are? What kinds of fish do you imagine?\n∞ Audio Link: Carnival of the Animals Version 1 \nTime Marker: 7:46-14:21",
+              "teacherNotes": "• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "10m Music Appreciation - Lesson 20",
+              "body": "Carnival of the Animals: Aviary through Finale\n\n➜ LISTEN\nThis week, we are going to hear movements entitled Aviary, Pianists, Fossils, The Swan, and The Finale. March, walk, creep, or dance with the music. \n∞ Audio Link: Carnival of the Animals Version 1 \nTime Marker: 14:22 to End\n\n➜ NARRATE\nWhat instruments did you hear? How did each movement sound to you? (happy, sad, etc.)",
+              "teacherNotes": "• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "10m Music Appreciation - Lesson 21",
+              "body": "Carnival of the Animals: Lion through Tortoises\n\n➜ RECAP\nTell about the Swan movement. Do you think it would be better for a dance or a march?\n\n➜ LISTEN\nToday we're going to listen to a new version of Carnival of the Animals.\n∞ Video Link: Carnival of the Animals Version 2 \nTime Marker: 0:00-6:29\n\n➜ DISCUSS\nDid you notice anything different about this version from the other one we listened to?",
+              "teacherNotes": "• MUSIC JOURNAL\nHum the tune of one of your favorite animals/movements and draw the animal in your Music Journal. Alternatively, students might act out their animal.\n\n• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "10m Music Appreciation - Lesson 22",
+              "body": "Carnival of the Animals: Elephant through Cuckoo\n\n➜ LISTEN & PRACTICE\nAct out the music with your stuffed animals or by yourself.\n∞ Video Link: Carnival of the Animals Version 2 \nTime Marker: 6:29-15:13",
+              "teacherNotes": "• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "10m Music Appreciation - Lesson 23",
+              "body": "Carnival of the Animals: Aviary through Finale\n\n➜ RECAP\nCan you hum the tune of your favorite animal?\n\n➜ LISTEN, VIEW & NARRATE\nListen to your favorite section of Carnival of the Animals or Peter and the Wolf.\n∞ Video Link: Carnival of the Animals Version 2\n∞ Video Link: Peter and the Wolf: L. Bernstein",
+              "teacherNotes": "• AFTERNOON LISTENING\nCarnival of the Animals or other music (see Extra Helpings for suggestions)."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "10m Music Appreciation - Lesson 24",
+              "body": "⬚ 10m Music Appreciation - Lesson 24 \nExam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "10m Music Appreciation - Lesson 25",
+              "body": "The Flight of the Bumblebee\n\n➜ INTRO\nWe'll be listening to a variety of works this term. Look at the artwork, then read the questions related to each piece. Listen to each piece several times. Some students may not need to have the artwork and questions available during listening, but others might. Allow them to engage in whatever way is best for them. Can you hear the different features in the music?\n\n➜ LISTEN, VIEW & NARRATE\n∞ Audio Link: Flight of the Bumblebee\n∞ Art Print Link: Chrysanthemums Hiroshige\n\n• Can you hear the bees buzzing above the flowers? \n• What instruments do you hear? Which ones describe the bee?",
+              "teacherNotes": "★ TEACHER TIP\nThese lessons are inspired by the Metropolitan Museum of Art's book \"Can You Hear It?\" which is linked in Extra Helpings but is currently out of print. If you are able to obtain the book, you can use it with these lessons as it puts the art and music selections in one place and provides information about instruments.\n\n• AFTERNOON LISTENING\nChoose music from the lesson or see Extra Helpings for more suggestions."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "10m Music Appreciation - Lesson 26",
+              "body": "The Four Seasons: Winter\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions below. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Vivaldi's Winter Allegro\n∞ Art Print Link: Winterscape Brueghel\n\n• Can you hear \"A solo violin plays the skater, using quick notes to show the gliding motion\" (Can You Hear It?).\n• Can you hear the string instruments playing scales going up and down quickly? What do you think they might be showing? Maybe it's the wind or someone falling down on skates!",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: Vivaldi's Winter (Complete)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "10m Music Appreciation - Lesson 27",
+              "body": "An American in Paris\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions below. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: American in Paris \nTime Marker: 0:15-1:20\n∞ Art Print Link: Avenue du Bois Dongen\n\n• What city sounds do you hear in this piece?\n• Can you hear the horses' hooves clopping? The woodblock makes that sound!",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: American in Paris by Gershwin (Complete)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "10m Music Appreciation - Lesson 28",
+              "body": "The Aquarium\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions below. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Carnival of the Animals: Aquarium\n∞ Art Print Link: Ocean Life Schussele\n\n• Can you hear the fish in the water? What instruments do you think play them? (mostly flutes and violins)",
+              "teacherNotes": "• AFTERNOON LISTENING\nChoose music from the lesson or see Extra Helpings for more suggestions."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "10m Music Appreciation - Lesson 29",
+              "body": "Dance of the Knights\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Romeo and Juliet: Dance of the Knights \nTime Marker: 0:00-1:40\n∞ Art Print Link: Tournament Book Unknown\n\n• Try marching to this piece.\n• Can you hear the armies fighting? What instruments are making all the noise? (lots of brass instruments and drums)",
+              "teacherNotes": "• AFTERNOON LISTENING\nChoose music from the lesson or see Extra Helpings for more suggestions."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "10m Music Appreciation - Lesson 30",
+              "body": "Dance of the Sugar Plum\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Dance of the Sugar Plum Fairy\n∞ Art Print Link: The Christmas Tree Varin\n\n• Can you hear the violins playing little fairy steps with little plucking sounds? \n• What kind of dancing do you think they're doing?",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: The Nutcracker (Complete) or try this narrated version for those who need help following the story:\n∞ Audio Link: Nutcracker with Jim Weiss"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "10m Music Appreciation - Lesson 31",
+              "body": "The Four Seasons: Spring\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions below. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Vivaldi's Spring\nTime Marker: 0:00-2:08\n∞ Art Print Link: Mountain Torrent Ruisdael\n\n• What season do you think this piece describes musically? (Don't tell the name of the piece until the end!)\n• Can you hear the birds? (violin) What about a mountain stream? (the whole violin section) Thunder? (lots of string instruments on one note)",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: Vivaldi's Spring (afternoon)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "10m Music Appreciation - Lesson 32",
+              "body": "Fossils\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Carnival of the Animals: Fossils\n∞ Art Print Link: Fossils\n\n• Can you hear the old fossil bones rattling around?\n• Can you hear \"Twinkle, Twinkle, Little Star\" on the piano? The book Can You Hear It says, \"This is one of the composer's jokes - 'Twinkle, Twinkle' is an old tune that will never die, and so it, too, is something of a skeleton!\"",
+              "teacherNotes": "• AFTERNOON LISTENING\nListen to Carnival of the Animals from last term or see Extra Helpings for more suggestions.\n∞ Video Link: Carnival of the Animals"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "10m Music Appreciation - Lesson 33",
+              "body": "Comic Duet for Two Cats\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Comic Duet for Two Cats\n∞ Art Print Link: Little White Kitties: Into Mischief Currier and Ives\n\n• What animal do you think you'll hear in this piece based on the art?\n• Can you hear them hiss and purr?",
+              "teacherNotes": "• AFTERNOON LISTENING\nChoose music from the lesson or see Extra Helpings for more suggestions."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "10m Music Appreciation - Lesson 34",
+              "body": "Billy the Kid: Gun Battle\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Billy the Kid Gun Battle\n∞ Art Print Link: On the Southern Plains Remington\n\n• Listen for the kettledrums, which are the guns!\n• Can you hear the outlaw running away? The trumpet plays his part.",
+              "teacherNotes": "• AFTERNOON LISTENING\nChoose music from the lesson or see Extra Helpings for more suggestions."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "10m Music Appreciation - Lesson 35",
+              "body": "The Four Seasons: Summer\n\n➜ LISTEN, VIEW & NARRATE\nLook at the artwork and read the questions. Then listen to the piece several times with them in mind and discuss.\n∞ Audio Link: Vivaldi's Summer\n∞ Art Print Link: View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm—The Oxbow Cole\n\n• What kind of weather is happening in this piece?\n• Can you hear the violins describing the trees falling down?\n• Do you hear any other animals in the storm?",
+              "teacherNotes": "• AFTERNOON LISTENING\n∞ Video Link: Vivaldi's Summer (afternoon)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "10m Music Appreciation - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": "• AFTERNOON LISTENING\nEnjoy the one season by Vivaldi you haven't heard yet: Fall.\n∞ Video Link: Vivaldi's Fall"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

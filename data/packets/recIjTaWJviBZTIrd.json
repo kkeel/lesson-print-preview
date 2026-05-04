@@ -182,6 +182,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Canadian Gov./ Economics: Grade 8",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 1",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 2",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 3",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 4",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 5",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 6",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 7",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 8",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 9",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 10",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 11",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 12",
+              "body": "",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 13",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 14",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 15",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 16",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 17",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 18",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 19",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 20",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 21",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 22",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 23",
+              "body": "",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 24",
+              "body": "",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 25",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ INTRO\nAre you familiar with the Bible verse, \"The love of money is a root of all kinds of evil\" (I Timothy 6:10)?  What do you think that means, and how have you seen that truth play out? This term, we will be studying economics which has to do with money and the way a country uses and produces goods and services.\n\n➜ READ, NARRATE, & DISCUSS\nIntroduction ix-xiii \"Bread, Dough.\" - \"dollars and cents.\"\nAlso, go to Ch.1 and read the section at the bottom of p.8 \"You've Got It and I Want It: The Law of Supply and Demand\"\n\n• How does money help the economy, and how does greed hurt the economy?\n\n• Explain the economic principle \"The Law of Supply and Demand.\"\n∞ Video Link: What is Supply and Demand?",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a list of the goods and services your family uses that contribute toward a healthy economy. Goods are tangible things you buy, such as clothes and food. Services are intangible and usually involve paying for a business to do something for you. Examples: haircuts, car insurance, phone service.\n\nCan you think of examples that fit this economic principle? Also, make a list of items that may be in high demand or low demand depending on the time of year."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 26",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat do you remember about last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\nCh.1 Skulls, Sheep, and Shells,  p.1-9 \"Have you ever\" - \"the ancient world.\"\n\n• Why did the bartering system need to be replaced with something better?\n\n• Talk about the different items used before money and why they didn't work out.\n\n∞ Image Link: Cowrie shells used as money in ancient China\n∞ Image Link: Deerskin used as folding money (China)\n∞ Image Link: Chinese paper money\n∞ Image Link: Fort Knox",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a timeline and draw pictures with labels to show the different mediums of exchange from ancient times to the present day. Look at p.4-5 to help you fill out the timeline. There are links to see some of the different mediums that were used."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 27",
+              "body": "⍞ Materials: Dollars & Sense, Historical Atlas of the World\n\n➜ RECAP\nWhat do you remember about last week's reading?\n\n➜ LOCATE\nUsing the Historical Atlas of the World p.8, find Mesopotamia and Babylon. What present-day countries are located there?\nGo to p.30-31, find Jerusalem, Edessa, Antioch and Tripoli. Now, find Florence, Italy. These are places that we will read about today that have to do with an early form of banking. \n\n➜ READ, NARRATE, & DISCUSS\nCh.2 Worry, Worry, Worry! p.11-19 (Also read sections on p.12 \"An Eye for an Eye\" and p.14 \"You Can't Take it With You.\"\n\"Where do you keep\" - \"Hard work.\"\n\n• What banking practices from history are still used today?\n\n• How did the Knights of Templar help the Pilgrims while traveling to Jerusalem?\n∞ Image Link: The Knights Templar",
+              "teacherNotes": "• IMPORTANT DATES\nFounding of the order the Knights Templar (1119 AD)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 28",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat do you remember about last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\nCh.3 New Money for a New Nation p.21- 29 \n\"In early America\" - \"finally in place.\" (Also, go back and read the section about Alexander Hamilton on p.22.)\n\n• What were some reasons some people were opposed to a national bank?\n\n➜ VIEW & DISCUSS\nLook at the map on p.27 which shows the location of Federal Reserve Banks. What bank is your city part of? You can check out this link to see the 12 districts.\n∞ Image Link: The Twelve Federal Reserve Districts",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a chart showing the information on p.28. You can look at these websites to find additional information such as the names of the people in charge of the different areas. \n∞ Link: Federal Reserve Board\n∞ Link: Comptroller of the Currency\n\n• EXTRA HELPING\nWatch this 3-minute video on this website that explains the purpose of the Federal Reserve System.\n∞ Video Link: Federal Reserve System\n\n• IMPORTANT DATES\nEstablishment of the first national bank of the United States (1791)\n\nThe Federal Reserve Banks were established (1913)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 29",
+              "body": "⍞ Materials: Dollars & Sense\n\nPREP: Print out the check template and check register. \n∞ Link: Check template\n∞ Link: Check register\n\n➜ RECAP\nWhat do you remember about last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\nCh.4 Money Comes In and Money Goes Out p.31-41 \"Money and power\" - \"always that way.\"\n\n• What happens when you write a check for more than you have in your bank account?\n\n➜ VIEW & DISCUSS\nExplain the graph on p.39. It is based on the idea that you have $1000 in a savings account.",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nFill out the check template and check register (bank book) and put it in your notebook.\n\nMake a list of the types of bank accounts and briefly describe each one. See p.40 for more information."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 30",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in economics?\n\n➜ INTRO\nAre you familiar with the stock market? What do you know about it?\nFirst, read the section on p.45 \"Companies for Sale\" to prepare for the reading.\n\n➜ READ, NARRATE, & DISCUSS\nCh.5 Money Goes Away p.44-49 \"Inflation. Recession.\" - \"had to be done.\" \n\n• Describe some of the events that led to the Great Depression",
+              "teacherNotes": "• IMPORTANT DATES\nThe Stock Market Crash (1929)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 31",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in economics?\n\n➜ INTRO\nWhat do you think it would be like to become the President in the middle of the Great Depression? \n\n➜ READ, NARRATE, & DISCUSS\nCh.5 Money Goes Away p.49-53 \"Franklin Delano Roosevelt\" - \"the Great Recession.\" \n\n➜ NOTE\nYou don't need to read the excerpt \"Thinking about Money\" on p.52. It will be read in the next lesson. \n\n• What are some things that President Roosevelt did to help the economy? Why did some people not agree with those actions?",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a list of some of the economic programs that were part of the New Deal. You can find the information on p.53 and at the following website.\n ∞ Link: New Deal Programs\n\n• EXTRA HELPING\nYou can look to see what public works were created in your state as a result of the New Deal which employed thousands of people. \n∞ Link: New Deal projects by state\n\n• IMPORTANT DATES\nNew Deal programs are established by FDR (1933)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 32",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in economics?\n\n➜ INTRO\nDo you know what a mortgage is? How does it help people buy houses?\n\n➜ READ, NARRATE, & DISCUSS\nCh.6 Money Shrinks p.55-61 \"Most people \" - \"in the future.\" \n\n• Explain what we mean by a housing bubble and how that was one of the factors that led to the Great Recession.\n\n• On p.61 the author writes, \"Once again, Keynesian economics came into play as the US government stepped in to institute large and controversial programs.\"\n\n• Go back to p.52 and read the excerpt about the famous economist John Maynard Keynes. Discuss his theories and how they came into play during the Great Recession.",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a list of the ways the government stepped in to stimulate the economy during the Great Recession. You can find information in the excerpts on p.60-61.\n\n• IMPORTANT DATES\nGreat Recession (December, 2007-June, 2009)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 33",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in economics?\n\n➜ INTRO\nWhat would life be like if everyone only bought things they could afford in cash? How could that be a good thing? How could that be a negative thing? What items might be hard to purchase?\n\n➜ READ, NARRATE, & DISCUSS\nCh.7 Can I Borrow Some Money? p.63-71 \"In the first - \" in the future.\" \n\n• What are the pros and cons of using credit cards?\n• What factors affect one's credit score?",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a list of the different kinds of real estate loans and include a brief description of each."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 34",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in Economics?\n\n➜ INTRO\nWhy do you think having a budget is a wise financial practice?\n\n➜ READ, NARRATE, & DISCUSS\nCh.8 Where Did My Money Go? p.73-76 \"Money is - \"paying the bills.\" \n\n• What is the difference between needs and wants and how does that affect a budget?\n\n• Many people suggest three categories for budgeting—spending, saving, and giving. What do you think about those 3 categories and how can you go about implementing that?",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nPractice putting together a budget. Use the example on p.74 and create a chart in your notebook. If you don't have your own money or expenses, you can try to put one together to show the expenses of an average household and see what kind of income you would need to cover those expenses."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 35",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ RECAP\nWhat did you read last time in Economics?\n\n➜ INTRO\nDo you know how much debt the U.S. has? Take a guess. You can find the answer on this website:\n∞ Link: National Debt\n\n➜ READ, NARRATE, & DISCUSS\nCh.8 Where Did My Money Go? p.77-86, Also read excerpts on p.78, 82.\nConclusion, p.85-86 \"It's not just\" - \"no matter what.\" \n\n• Why do you think it is so hard to balance the national budget?",
+              "teacherNotes": "• CITIZENSHIP NOTEBOOK\nMake a list of some of the items that the federal government spends money on. Make a list of ways the government receives money (revenue). Try to brainstorm by yourself and then you can use these websites to find more information.\n∞ Link: Government Spending\n∞ Link: Sources of Federal Revenue"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "25m Canadian Gov./ Economics: Grade 8 - Lesson 36",
+              "body": "⍞ Materials: Dollars & Sense\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nDollars & Sense",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

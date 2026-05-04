@@ -200,6 +200,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "History: Grade 1 (U.S.)",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 1",
+              "body": "The First Americans\n⍞ Materials: The Very First Americans, Globe\n\n➜ INTRO\nPoint to Iraq (Tigris and Euphrates Rivers) on a globe. This is where the Garden of Eden is believed to have been. From there, where could people spread out and walk as the population grew? Point to North America. Could they walk here? How do you think they might have gotten here?\n\n➜ READ, NARRATE, & DISCUSS\np.1 \"Long, long ago\" - \"The name stuck.\"\n\n➜ LOCATE\nFind the Bering Strait on the globe.",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 2",
+              "body": "People of the Tundra\n⍞ Materials: Frozen Land, Globe\n\n➜ RECAP\nWhat do you remember from what we read last time?\n\n➜ INTRO\nWhen the first people came to America, some stayed in the frozen north (see picture). Humans need food, water, shelter, and clothing to survive. How might you get these things if you lived here? Find the Hudson Bay on a globe. This is where our story takes place. Is it near where you live?\n∞ Image Link: Frozen Tundra\n\n➜ READ, NARRATE, & DISCUSS\np.1-8 \"As the sun\" - \"be a fish.\"",
+              "teacherNotes": "★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 3",
+              "body": "Caribou and Other Animals\n⍞ Materials: Frozen Land\n\n➜ INTRO\nWhat kinds of animals do you think live near Kenalogak? What do you think they might eat?\n\n➜ READ, NARRATE, & DISCUSS\np.9-16 \"Kenalogak loves\" - \"the wolf skin.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n• NATURE NOTEBOOK - Prompt in Outdoor Work Quick Link: Go to a natural area near your home. Imagine you are a Native American living in that place. Notice what is around you. How would you find or make food, water, shelter, and clothing so you could survive?"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 4",
+              "body": "Making an Igloo\n⍞ Materials: Frozen Land\n\n➜ RECAP\nWhat do you remember about the Inuit?\n\n➜ INTRO\nWhat do you like to do when you spend time with your grandparents? Are there any special stories or songs they like to share? Today, Kenalogak's grandparents are coming for a visit.\n\n➜ READ, NARRATE, & DISCUSS\np.17-27 \"Playing outside\" - \"snow and ice.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 5",
+              "body": "The Owl and the Lemming\n\n➜ INTRO\nThis is a \"trickster tale\" from the Eskimo/Inuit people. Lots of cultures have these kinds of stories. In the video, you will hear Inuit language and music. See if you can figure out why this kind of story is called a \"trickster tale.\"\n\n➜ VIEW & NARRATE\n∞ Video Link: The Owl and the Lemming",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 6",
+              "body": "People of the Pacific Northwest\n⍞ Materials: The Very First Americans\n\n➜ INTRO\nNot all of the first Americans stayed in the frozen north. Look at this picture. How is the land different from where Kenalogak lives? What do you think people who settled here may have used for food, water, shelter, and clothing?\n∞ Image Link: Pacific Northwest\n\n➜ READ, NARRATE, & DISCUSS\np.3-8 \"Tribes like the Chinook,\" - \"rich he was.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 7",
+              "body": "Comparing Two Ways of Life\n⍞ Materials: The Very First Americans\n\n➜ VIEW & DISCUSS\nStudy the picture. Talk about some of the differences you notice between how these people live and how Kenalogak's family lives. If Kenalogak came for a visit to this village, what might she find strange? If one of these children were to visit Kenalogak, what would she need to do differently to survive? \np.5-6",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 8",
+              "body": "Totem Poles\n⍞ Materials: Globe\n\n➜ INTRO\nFind British Columbia on a globe. Is it very close to Hudson Bay? Is it close to where you live? The people we will learn about today live here.\n\n➜ VIEW & DISCUSS\nIn this video, we learn about totem poles and other parts of the culture of the Pacific Northwest Tribes.\n∞ Video Link: Pacific Northwest People",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons. Try illustrating a totem pole."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 9",
+              "body": "Totem Poles\n⍞ Materials: Tales the Totems Tell (PDF)  \n∞ PDF Link: Tales the Totems Tell\n\n➜ READ, NARRATE, & DISCUSS\n\"The First Totem Pole\" p.1-9\n\"When Ramlaryaelk\" - \"the totem pole.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 10",
+              "body": "Totem Poles (cont.)\n⍞ Materials: Tales the Totems Tell (PDF)  \n∞ PDF Link: Tales the Totems Tell\n\n➜ READ, NARRATE, & DISCUSS\n\"The Raven and the Indians\" p.10-17\n\"Of all the\" - \"touched the moon.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 11",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course. If a book was not finished during the term, adjust the exam questions to reflect what was read or allow students to tell about or draw from stories or excerpts that they remember. If a student has difficulty getting started or gets \"stuck,\" they may look back at illustrations to help them refocus on ideas.\n\nQuestions will come from:\nThe Very First Americans, Frozen Land, Tales the Totems Tell",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 13",
+              "body": "People of the Southwest\n⍞ Materials: The Very First Americans \n\n➜ INTRO\nHow is the place in this picture different from the Pacific Northwest? If your Tribe lived here, how could you get food, water, shelter, and clothing? The tall rock formation that is flat on top is called a \"mesa,\" which means \"table\" in Spanish.\n∞ Image Link: Desert Mesa\n\n➜ READ, NARRATE, & DISCUSS\np.9-12 \"The hot, dry\" - \"with the rain.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons. Try illustrating a mesa."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 14",
+              "body": "Comparing Two Ways of Life\n⍞ Materials: The Very First Americans \n\n➜ VIEW & DISCUSS\nStudy the picture and tell what you notice. How are these people similar to the ones in the Pacific Northwest? How are they different? Count how many clay pots you see. Why do you think these people made pots of clay instead of boxes of wood for holding things? Find something that has been decorated with a design. How are the designs different from the designs used in the Pacific Northwest?\np.9-10, 5-8",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 15",
+              "body": "People of the Mesas\n⍞ Materials: The Book of Indians (PDF)\n∞ PDF Link: The Book of Indians \n\n➜ INTRO\nThis is a story about a little boy who lives in the Southwest. One thing we have not read about yet is what these people ate. Listen for types of food.\n\n➜ READ, NARRATE, & DISCUSS\n\"Little-Turtle of the Cliff Dwellers\" Ch.IX p.81-83\n\"Little-Turtle\" - \"time will tell.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 16",
+              "body": "People of the Mesas (cont.)\n⍞ Materials: The Book of Indians (PDF)\n∞ PDF Link: The Book of Indians \n\n➜ INTRO\nWhat foods do you remember Little-Turtle's people eating? Where do you think the people of the mesa got their water? Listen today for several sources.\n\n➜ READ, NARRATE, & DISCUSS\n\"Little-Turtle of the Cliff Dwellers\" Ch.IX p.83-85\n\"When Uncle Antelope\" - \"out of the canyon.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 17",
+              "body": "People of the Mesas (cont.) \n⍞ Materials: The Book of Indians (PDF)\n∞ PDF Link: The Book of Indians \n\n➜ INTRO\nDo you remember what was happening when we left off?\n\n➜ READ, NARRATE, & DISCUSS\n\"Little-Turtle of the Cliff Dwellers\" Ch.IX p.85-88\n\"How odd,\" - \"saved his people.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 18",
+              "body": "People of the Plains & Prairies\n⍞ Materials: The Very First Americans, Globe\n\n➜ INTRO\nThe Great Plains is a huge region that cuts right through the middle of the United States. Find it on a map or globe. Do you live here? Look at the picture and think about the Native Americans who lived there. What might they use for food, water, shelter, and clothing?\n∞ Image Link: The Great Plains\n\n➜ READ, NARRATE, & DISCUSS\np.13-18 \"Long ago,\" - \"rolled-up hair.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 19",
+              "body": "Comparing Ways of Life\n⍞ Materials: The Very First Americans\n\n➜ VIEW & DISCUSS \nLook at the pictures. Tell all you notice. Why did tipis work well for these people? Would they have worked as well on the mesa, in the Northwest, or in the tundra? What designs and decorations do you notice? Look at the women cooking. One woman is heating a stone in the fire. When it is hot, she will drop it in the \"pot\" to cook the food. What do you suppose the pot is made of?\np.13-18",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 20",
+              "body": "Keeping Time: Moons\n⍞ Materials: Moonstick: The Seasons of the Sioux\n\n➜ INTRO\nHow many months are in a year? Can you say them all? Native Americans had their own way of marking time using what they observed in nature. One \"moon\" was the time from one full moon to the next. How many moons do you think there are in a year? Read the last page to find out.\n\n➜ READ, NARRATE, & DISCUSS\np.1-8 \"Moon of the Birth of Calves\" - \"Moon of the Ripe Juneberries\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 21",
+              "body": "Keeping Time: Moons (cont.)\n⍞ Materials: Moonstick: The Seasons of the Sioux\n\n➜ INTRO\nDo you remember how Native Americans named each moon? If you were going to name the moon you are in now, according to what is happening in nature, what name might you choose?\n\n➜ READ, NARRATE, & DISCUSS\np.9-16 \"Cherry-Ripening Moon\" - \"Moon of the Falling Leaves\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 22",
+              "body": "Keeping Time: Moons (cont.)\n⍞ Materials: Moonstick: The Seasons of the Sioux\n\n➜ INTRO\nLook back at the pictures so far. Which seasons have you seen?\n\n➜ READ, NARRATE, & DISCUSS\np.17-24 \"Moon of the Hairless Calves\" - \"Sore-Eyes Moon\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 23",
+              "body": "Keeping Time: Moons (cont.)\n⍞ Materials: Moonstick: The Seasons of the Sioux\n\n➜ INTRO\nNative Americans still live in the USA. What are some ways you think their lives may have changed?\n\n➜ READ, NARRATE, & DISCUSS\np.25-30 \"Moon When the Grass Comes Up\" - \"it is so arranged.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course. If a book was not finished during the term, adjust the exam questions to reflect what was read or allow students to tell about or draw from stories or excerpts that they remember. If a student has difficulty getting started or gets \"stuck,\" they may look back at illustrations to help them refocus on ideas.\n\nQuestions will come from:\nThe Very First Americans, The Book of Indians (Ch.IX), Moonstick",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 25",
+              "body": "People of the Woodlands\n⍞ Materials: The Very First Americans\n\n➜ INTRO\nEast of the Great Plains, the USA was once covered in forest. How do you think life in the forest might have been different from life in the desert or on the plains?\n\n➜ READ, NARRATE, & DISCUSS\np.19-22 \"The Delaware,\" - \"on their prey.\"\n\n➜ VIEW & DISCUSS\nLook at the picture. How do these people appear similar to and different from others you have read about?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 26",
+              "body": "The Iroquois Confederacy\n⍞ Materials: Hiawatha and the Peacemaker\n\nPREP: Read \"Historical Note\" on p.43.\n\n➜ INTRO\nPoint to the Great Lakes on a map or globe. This story takes place on the eastern shores, where there were five Tribes who were constantly at war with one another.\n\n➜ READ, NARRATE, & DISCUSS \np.1-10 \"A fierce scream\" - \"great Peacemaker.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 27",
+              "body": "The Iroquois Confederacy (cont.)\n⍞ Materials: Hiawatha and the Peacemaker\n\n➜ INTRO\nCan you remember what was happening when we left off?\n\n➜ READ, NARRATE, & DISCUSS\np.11-18 \"I stared at\" - \"as two nations.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 28",
+              "body": "The Iroquois Confederacy (cont.) \n⍞ Materials: Hiawatha and the Peacemaker\n\n➜ INTRO: What is \"forgiveness?\" Have you ever forgiven or been forgiven by someone? How did it make you feel?\n\n➜ READ, NARRATE, & DISCUSS\np.19-28 \"Guided by the moon\" - \"as four nations.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 29",
+              "body": "The Iroquois Confederacy (cont.) \n⍞ Materials: Hiawatha and the Peacemaker\n\n➜ INTRO\nWhat do you think is going to happen when they meet Tadodaho?\n\n➜ READ, NARRATE, & DISCUSS\np.29-36 \"The wicked\" - \"where they belonged.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 30",
+              "body": "The Iroquois Confederacy (cont.)\n⍞ Materials: Hiawatha and the Peacemaker\n\n➜ READ, NARRATE, & DISCUSS\np.37-42 \"Everyone followed\" - \"tree of peace.\"\n\n➜ DISCUSS\nShare a little from the Historical Note on p.43, particularly that the United States' Founding Fathers were influenced by the Iroquois Confederacy when they were setting up our government.",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 31",
+              "body": "The Cherokee\n⍞ Materials: Itse Selu\n\nPREP: Read the Preface.\n\n➜ INTRO\nFar south of the Great Lakes, where it is not so cold, the Cherokee lived. Find the Blue Ridge Mountains on a map or globe. This was their home before people came from Europe. Do you live near here?\n\n➜ READ, NARRATE, & DISCUSS\np.1-8 \"Little Wolf blinked\" - \"her work done.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 32",
+              "body": "The Cherokee (cont.)\n⍞ Materials: Itse Selu\n\n➜ INTRO\nLook at the pictures on p.2 of Itse Selu and p.18 of The Very First Americans. How are the cooking methods similar? How are they different?\n\n➜ READ, NARRATE, & DISCUSS\np.9-18 \"Little Wolf gobbled\" - \"stop rolling.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 33",
+              "body": "The Cherokee (cont.)\n⍞ Materials: Itse Selu\n\n➜ INTRO\nDoes your family have a special tradition to celebrate the New Year? Today's reading is about a very special Cherokee New Year's tradition, including a trickster tale. Do you remember what that means?\n\n➜ READ, NARRATE, & DISCUSS\np.19-28 \"The late afternoon\" - \"Happy New Year.\"",
+              "teacherNotes": "• ILLUSTRATE - Draw the story of the clever rabbit and the foolish wildcat (p.23) using watercolor or another medium such as chalk, pastels, or crayons.\n\n★ TEACHER TIP\nStudents should also be encouraged to narrate using Legos, puppets, or by acting out the scene."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 34",
+              "body": "Comparing Cultures\n\n➜ DISCUSS\nBoth the Iroquois and the Cherokee Tribes lived in the forest. How were their appearances similar and different? What about their houses and clothing? Look back through the pictures of your books and talk about how each group of people used the materials that were available to them for food, water, shelter, and clothing. Which group lived nearest you?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 35",
+              "body": "The Coming of the Europeans\n⍞ Materials: The Very First Americans\n\n➜ INTRO\nThe native people lived as the stories/books we've read described for many years. Then something happened that would change their way of life forever. What do you think it was?\n\n➜ READ, NARRATE, & DISCUSS\np.23-29 \"Most woodlands\" - \"very first Americans.\"",
+              "teacherNotes": "★ TEACHER TIP\nRemember to recap the previous lesson before starting the new lesson."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "10m History: Grade 1 (U.S.) - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course. If a book was not finished during the term, adjust the exam questions to reflect what was read or allow students to tell about or draw from stories or excerpts that they remember. If a student has difficulty getting started or gets \"stuck,\" they may look back at illustrations to help them refocus on ideas.\n\nQuestions will come from:\nThe Very First Americans, Hiawatha and the Peacemaker, Itse Selu",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

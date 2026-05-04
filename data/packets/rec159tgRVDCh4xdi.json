@@ -146,6 +146,823 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Poetry Study: Grade 11",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "15m Poetry Study: Grade 11 - Lesson 1",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.87-89 \"in the introduction\" - \"dynamic surprise.\"\n\n• What do you think about the idea of poetry as friendship?\n• Throughout this course, keep a personal anthology of poems that you've read and liked in your journal. Van Engen starts his book by encouraging us to browse an anthology until we come across a poem that we resonate with in some way, and then to start noticing what poems we like, expanding our circle of friends.",
+              "teacherNotes": "★ TEACHER NOTE\nIf you are jumping into this course, feel free to read the previous chapters on your own time. However, several sections in the upcoming chapter review some of the previous concepts, so it is perfectly fine to start here!"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "15m Poetry Study: Grade 11 - Lesson 2",
+              "body": "⍞ Materials: Journal\n\n➜ REFLECT\nJournal about this quote and reflection questions from p.263, \"Ch.4, Think of Poetry Like Friendship, #1\": \n\"If we think of approaching a poem like we might approach a friend, it changes the way we read it. We will pass over many people, many poems, until we find something we share. And very often that shared ground will nourish some form of pleasure or delight. But a good friend, in the end, always brings more than we bargained for. The more we spend time together and the more we converse, the more layers our conversations reveals (88).\"\n\n•Have you experienced a good friendship? Are you open to being surprised, nourished, challenged, and confronted? When has that happened? What does that look like? Have you experienced any sort of book or poem as a good friend before?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "15m Poetry Study: Grade 11 - Lesson 3",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.89-91 \"With that in mind\" - \"at once.\"\n\n• Can you think of a time when you learned something unexpectedly from a friend?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "15m Poetry Study: Grade 11 - Lesson 4",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ READ & REFLECT\nUse your anthology of choice and read some poetry today. Look for a poem that might become a new friend! Start your personal anthology of poems you like in your journal.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "15m Poetry Study: Grade 11 - Lesson 5",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.91-93 \"To illustrate\" - \"it yields.\"\n\n• Van Engen writes, \"Poetry dwells, quite often, in pictures and particulars.\" Give examples of where you have seen this to be true in poems you have read.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "15m Poetry Study: Grade 11 - Lesson 6",
+              "body": "⍞ Materials: Anthology\n\n➜ READ & REFLECT\nRead more poems today. Read a poem that catches your attention at least twice and at least once out loud. What \"particulars\" does it contain?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "15m Poetry Study: Grade 11 - Lesson 7",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.93-95 \"The second image\" - \"by the dark.\"\n\n• Have you ever reread a children's book or a poem that you hadn't read for years? Did you have the experience the author describes of meeting an old friend in a fresh way?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "15m Poetry Study: Grade 11 - Lesson 8",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ REFLECT\nRead more poems and add to your personal anthology. What questions can you think of to ask your new friends?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "15m Poetry Study: Grade 11 - Lesson 9",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.95-98 \"How do poems\" - \"misfortunes of life.\"\n\n• Have you ever seen something out of the side of your eye that disappears when you look directly at it? Sometimes you can see faint stars with your peripheral vision that disappear when you look right at them. This is another way to think about poetry. Poems often tell us things through associations.",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Tell the truth but tell it slant by Emily Dickinson"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "15m Poetry Study: Grade 11 - Lesson 10",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ REFLECT\nRead some more poems today. When you find one that makes you want to ask more, journal about all the associations it brings to mind.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "15m Poetry Study: Grade 11 - Lesson 11",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.98-99 \"Let me illustrate\" - \"with them.\"\n\n• Reread \"Those Winter Sundays\", and start considering it with the questions Van Engen brings up from the last chapter.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "15m Poetry Study: Grade 11 - Lesson 12",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\nReread \"Those Winter Sundays\"_ _on p. 98-99, then answer the four main questions on p.99 (orally or in writing).",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "15m Poetry Study: Grade 11 - Lesson 13",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.99-101 \"But for the purposes\" - \"its sounds.\"\n\n• Have you ever thought about sound in poetry beyond whether it rhymes at the end of a line?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "15m Poetry Study: Grade 11 - Lesson 14",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\n• Pick a poem you like and think about questions #5-7 on p.100. Not all poems use sound in the same way, but do you notice anything about your poem's sounds?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "15m Poetry Study: Grade 11 - Lesson 15",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.101-102 \"That story\" - \"reader as well.\"\n\n• Discuss the sentence: \"Poets write themselves into recognition.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "15m Poetry Study: Grade 11 - Lesson 16",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ CREATE\n• Make a bookmark or infographic with Questions #1-7 on it to keep with you as you read more poetry.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "15m Poetry Study: Grade 11 - Lesson 17",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.103-105 \"More largely\" - \"friendship expands.\"\n\n• What experiences does \"Those Winter Sundays\" make \\*you\\* think of? Our imaginations are funny things. Have you ever thought about the fact that if someone says, \"imagine a chair,\" to a group of people, everyone will imagine a chair? But if you ask them to describe what they are imagining, they will all describe different chairs. One person's chair is a rocking chair, another's is a bar stool, and another's is a lounge chair in a living room. Poems evoke certain connotations but bring up different resonances within each of us, depending on our experiences. And even similar experiences are still not identical for each of us.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "15m Poetry Study: Grade 11 - Lesson 18",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ REFLECT\n• Discuss the last sentences of Ch.3. Have you seen poetry illuminate your own experience or the experience of others? In the last chapter, the author talked about how poems are meant to be shared and discussed. Read some more poems and share a poem with someone this week!",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "15m Poetry Study: Grade 11 - Lesson 19",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ READ & REFLECT\nRead another poem and journal your thoughts on it using the 4 questions.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "15m Poetry Study: Grade 11 - Lesson 20",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ READ, NARRATE, & DISCUSS\nReread the poem from the last lesson and reflect on questions 5-7 on p.100.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "15m Poetry Study: Grade 11 - Lesson 21",
+              "body": "⍞ Materials: The Word Made Fresh, anthology, and/or journal\n\n➜ CATCH-UP DAY\nUse this lesson to catch up on lessons in this or another course. Or just spend some time reading poetry and noting down any more poems you like in your anthology.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "15m Poetry Study: Grade 11 - Lesson 22",
+              "body": "⍞ Materials: The Word Made Fresh, anthology, and/or journal\n\n➜ CATCH-UP DAY\nUse this lesson to catch up on lessons in this or another course. Or just spend some time reading poetry and noting down any more poems you like in your anthology.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "15m Poetry Study: Grade 11 - Lesson 23",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "15m Poetry Study: Grade 11 - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "15m Poetry Study: Grade 11 - Lesson 25",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ INTRO\nHow many poetic forms do you know? \n\n➜ READ, NARRATE, & DISCUSS\np.106-109 \"In chapter 3\" - \"make a poem.\"\n\n• What poetic forms can you think of that exist just in the Bible?",
+              "teacherNotes": "• EXTRA HELPINGS\nRead Ch.3"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "15m Poetry Study: Grade 11 - Lesson 26",
+              "body": "⍞ Materials: Anthology\n\n➜ REFLECT\nRead some poems this week and notice all you can about their form.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "15m Poetry Study: Grade 11 - Lesson 27",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.109-110 \"Two things happen\" - \"which to sing.\"\n\n• Do you think there are still poetic forms yet to be invented?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "15m Poetry Study: Grade 11 - Lesson 28",
+              "body": "⍞ Materials: Bible & Journal\n\n➜ READ & REFLECT\nCan you think of poets who have broken with tradition to invent a new form? Jot any down. Then spend some time reading more psalms today.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "15m Poetry Study: Grade 11 - Lesson 29",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.110-113 \"Questions\" - \"in control\"\n\n• Can you think of any poems that turn a common phrase or verse slightly on its head?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "15m Poetry Study: Grade 11 - Lesson 30",
+              "body": "⍞ Materials: Journal & Audio\n\n➜ LISTEN & REFLECT\nBegin listening to Van Engen and two others talk about Countee Cullen's poem that you read on p.111\n∞ Audio Link: Countee Cullen (listen to about half the podcast)",
+              "teacherNotes": "★ TEACHER/STUDENT NOTE\nThis podcast talks about Countee Cullen's life and struggles to understand God. There is also a mention of the fact that he was likely gay."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "15m Poetry Study: Grade 11 - Lesson 31",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.113-114 \"What reasons\" - \" at his command.\"\n\n• Note how the discussion today about form ties back to the last chapter on poetry as friendship. As you make more friends with poems, old and new, it will be easier to recognize when a poet is using an older form or making an allusion to an older poem.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "15m Poetry Study: Grade 11 - Lesson 32",
+              "body": "⍞ Materials: Journal & Audio\n\n➜ LISTEN & REFLECT\nFinish listening to Van Engen and two others talk about Countee Cullen's poem that you read on p.111.\n∞ Audio Link: Countee Cullen (listen to about half the podcast)",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "15m Poetry Study: Grade 11 - Lesson 33",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.114-116 \"Knowing that\" - \"with form.\" \n\n• Can you think of people who have done the same thing that Countee Cullen did with poetry in another field, such as art, music, food, or handicrafts?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "15m Poetry Study: Grade 11 - Lesson 34",
+              "body": "⍞ Materials: Anthology\n\n➜ READ & REFLECT\nLook up more of Countee Cullen's poems today if you enjoyed the one we've learned about. Or go looking for more poem-friends in your anthology. Notice the formal features of a poem you read and like.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "15m Poetry Study: Grade 11 - Lesson 35",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ INTRO\nHave you read anything by Langston Hughes before?\n\n➜ READ, NARRATE, & DISCUSS\np.116-119 \"Today, most people\" - \"sing new songs.\" \n\n• Discuss the last sentences of the section we read today.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "15m Poetry Study: Grade 11 - Lesson 36",
+              "body": "⍞ Materials: Journal & Audio\n\n➜ LISTEN & REFLECT\nExplore more about Langston Hughes and the poem from this section of the chapter. Begin listening to the podcast and finish on your own time if interested.\n\n∞ Audio Link: Langston Hughes\n• Compare Hughes' poem with the one by Countee Cullen on pg.111.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 37,
+              "lessonLabel": "Lesson 37",
+              "title": "15m Poetry Study: Grade 11 - Lesson 37",
+              "body": "⍞ Materials: The Word Made Fresh & anthology\n\n➜ READ, NARRATE, & DISCUSS\np.119-122 \"One might think\" - \"always there.\"\n\n• Look up and read some golden shovel poems.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 38,
+              "lessonLabel": "Lesson 38",
+              "title": "15m Poetry Study: Grade 11 - Lesson 38",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ & REFLECT\nReread Gwendolyn Brooks' poem from the chapter and then read and reflect on Harjo's \"American Sunrise\". What do you notice about how these poems are related?  \n∞ Poem Link: \"American Sunrise\"_ _",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Audio Link: American Sunrise Podcast"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 39,
+              "lessonLabel": "Lesson 39",
+              "title": "15m Poetry Study: Grade 11 - Lesson 39",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.122 -124 \"In the rest\" - \"successive lines.\"\n\n➜ READ\n_\"_Christmas Tree\" poem by James Merrill\n∞ Poem Link: \"Christmas Tree\" poem",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 40,
+              "lessonLabel": "Lesson 40",
+              "title": "15m Poetry Study: Grade 11 - Lesson 40",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ REFLECT\nLook up and enjoy more poems by George Herbert. Reflect on them using the model that Van Engen has given you.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 41,
+              "lessonLabel": "Lesson 41",
+              "title": "15m Poetry Study: Grade 11 - Lesson 41",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.124-127 \"If some poems\" - \"that results.\"\n\n• Discuss the idea that \"knowledge increases pleasure.\" Where have you seen this to be true in your life?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 42,
+              "lessonLabel": "Lesson 42",
+              "title": "15m Poetry Study: Grade 11 - Lesson 42",
+              "body": "⍞ Materials: Anthology, The Word Made Fresh, Journal\n\n➜ REFLECT\nRead more poems and/or look back at poems you like and reflect on the ways form is at work in them.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 43,
+              "lessonLabel": "Lesson 43",
+              "title": "15m Poetry Study: Grade 11 - Lesson 43",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.127-132 \"Other forms\" -\"invent his own.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 44,
+              "lessonLabel": "Lesson 44",
+              "title": "15m Poetry Study: Grade 11 - Lesson 44",
+              "body": "⍞ Materials: Anthology, Journal\n\n➜ READ & REFLECT\nRead more poetry and reflect on the ways form is at work. You may want to look up more information on the poet and the poem's form since so many discussions on form rely on understanding its context.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 45,
+              "lessonLabel": "Lesson 45",
+              "title": "15m Poetry Study: Grade 11 - Lesson 45",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.132-135 \"When considering\" - \"as depths.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 46,
+              "lessonLabel": "Lesson 46",
+              "title": "15m Poetry Study: Grade 11 - Lesson 46",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ & REFLECT\nVan Engen writes, \"Look for the sentences, find the periods. Contrast the grammar a poet uses with the stanza breaks and formal choices.\" \n\n• Pick a poem to review or a new one you find in your anthology and follow Van Engen's instructions above.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 47,
+              "lessonLabel": "Lesson 47",
+              "title": "15m Poetry Study: Grade 11 - Lesson 47",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 48,
+              "lessonLabel": "Lesson 48",
+              "title": "15m Poetry Study: Grade 11 - Lesson 48",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 49,
+              "lessonLabel": "Lesson 49",
+              "title": "15m Poetry Study: Grade 11 - Lesson 49",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.136-137 \"If you want\" - \"links them?\"\n\n• Spend some time thinking about the author's questions yourself.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 50,
+              "lessonLabel": "Lesson 50",
+              "title": "15m Poetry Study: Grade 11 - Lesson 50",
+              "body": "⍞ Materials: The Word Made Fresh & Journal\n\n➜ REFLECT\nWrite your thoughts on Bradstreet's poem. Why are the two stanzas put together? What links them?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 51,
+              "lessonLabel": "Lesson 51",
+              "title": "15m Poetry Study: Grade 11 - Lesson 51",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.137-139 \"Whenever two\" - \"you notice?\" \n\n• STOP before reading the author's thoughts and answer his question--What do you notice about the nouns now that most of the poem has been erased?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 52,
+              "lessonLabel": "Lesson 52",
+              "title": "15m Poetry Study: Grade 11 - Lesson 52",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ READ & REFLECT\nLook back at a poem that has caught your attention or find a new poem in your anthology and practice erasure. You may want to look up the poem online and copy it into a document where you can manipulate the text more easily.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 53,
+              "lessonLabel": "Lesson 53",
+              "title": "15m Poetry Study: Grade 11 - Lesson 53",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.139-140 \"Many of them\" - \"words are they?\"\n\n• Now give your thoughts on the verbs!",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 54,
+              "lessonLabel": "Lesson 54",
+              "title": "15m Poetry Study: Grade 11 - Lesson 54",
+              "body": "⍞ Materials: Anthology & Journal\n\n➜ READ & REFLECT\nUsing the same poem you started working on two lessons ago OR a new poem, practice focusing on just the verbs.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 55,
+              "lessonLabel": "Lesson 55",
+              "title": "15m Poetry Study: Grade 11 - Lesson 55",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.140-141 \"Notice the suffering\" - \"adjectives and adverbs.\"\n\n• Look at the poem's isolated adjectives and adverbs on p.141-142. How does this add meaning and focus?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 56,
+              "lessonLabel": "Lesson 56",
+              "title": "15m Poetry Study: Grade 11 - Lesson 56",
+              "body": "⍞ Materials: The Word Made Fresh, Journal, Anthology\n\n➜ READ & REFLECT\nPick a poem (the same one from the last two weeks or a new one) and concentrate on the adjectives and adverbs.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 57,
+              "lessonLabel": "Lesson 57",
+              "title": "15m Poetry Study: Grade 11 - Lesson 57",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.142-143 \"The adjectives and adverbs\" - \"nature\\_fate.\"\n\n• What do you notice about the repetitions now?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Audio Link: Anne Bradstreet Podcast"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 58,
+              "lessonLabel": "Lesson 58",
+              "title": "15m Poetry Study: Grade 11 - Lesson 58",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology, & Journal\n\n➜ READ & REFLECT\nPick a new poem and choose a few things to focus on to see what you can notice: nouns, verbs, adjectives, adverbs, repetition, etc.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 59,
+              "lessonLabel": "Lesson 59",
+              "title": "15m Poetry Study: Grade 11 - Lesson 59",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.143-146  \"Elegies like this\" - \"a time.\"\n\n• Look back at the sonnet (p.144-145) and find where the sentences start and stop. Look at the first one and discuss everything you notice.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 60,
+              "lessonLabel": "Lesson 60",
+              "title": "15m Poetry Study: Grade 11 - Lesson 60",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology, Journal\n\n➜ READ & REFLECT\nChoose a poem you already like or find a new one and notice the punctuation and sentences.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 61,
+              "lessonLabel": "Lesson 61",
+              "title": "15m Poetry Study: Grade 11 - Lesson 61",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.147- 150 \"Batter my heart\" - \"ravish.\"\n\n• What did you think of all the different images in the poem? Discuss what you see by isolating the verbs.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 62,
+              "lessonLabel": "Lesson 62",
+              "title": "15m Poetry Study: Grade 11 - Lesson 62",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology, Journal\n\n➜ READ & REFLECT\nPick a new poem to reflect on and focus on the imagery in the poem. Erase anything else you think might be interesting to notice further.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 63,
+              "lessonLabel": "Lesson 63",
+              "title": "15m Poetry Study: Grade 11 - Lesson 63",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.150-153 \"As you glance\" - \"admit him.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 64,
+              "lessonLabel": "Lesson 64",
+              "title": "15m Poetry Study: Grade 11 - Lesson 64",
+              "body": "⍞ Materials: Anthology\n\n➜ READ & REFLECT\nRead some new poems in your anthology today and find a new one that connects with you.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 65,
+              "lessonLabel": "Lesson 65",
+              "title": "15m Poetry Study: Grade 11 - Lesson 65",
+              "body": "⍞ Materials: The Word Made Fresh\n\n➜ READ, NARRATE, & DISCUSS\np.153-154 \"Erasure, as we\" - \"Christian care?\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 66,
+              "lessonLabel": "Lesson 66",
+              "title": "15m Poetry Study: Grade 11 - Lesson 66",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology & Journal\n\n➜ READ & REFLECT\n\"Look to the verbs. Isolate the nouns. Examine the adjectives. Erase for sentences. Pull out all repetitions or requests. Scrub away the poem according to the actions of each person or object.\" (p.153)\n\n• Use erasure to consider another poem of your choice. You'll continue your reflections over the next two lessons.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 67,
+              "lessonLabel": "Lesson 67",
+              "title": "15m Poetry Study: Grade 11 - Lesson 67",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology & Journal\n\n➜ READ & REFLECT\nContinue your work with the poem from the last lesson.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 68,
+              "lessonLabel": "Lesson 68",
+              "title": "15m Poetry Study: Grade 11 - Lesson 68",
+              "body": "⍞ Materials: The Word Made Fresh, Anthology & Journal\n\n➜ READ & REFLECT\nContinue your work with the poem from Lessons 66-67. How many different things have you discovered? Some poems will yield more insight from erasure than others, so you haven't done anything wrong if you don't come up with astonishing insights from these exercises. But all of them will help you understand the poem more deeply and train your attention.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 69,
+              "lessonLabel": "Lesson 69",
+              "title": "15m Poetry Study: Grade 11 - Lesson 69",
+              "body": "⍞ Materials: The Word Made Fresh and/or anthology\n\n➜ CATCH-UP DAY \nCatch up on lessons, read more poetry, or peek at the rest of the book!",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 70,
+              "lessonLabel": "Lesson 70",
+              "title": "15m Poetry Study: Grade 11 - Lesson 70",
+              "body": "⍞ Materials: The Word Made Fresh and/or anthology\n\n➜ CATCH-UP DAY \nCatch up on lessons, read more poetry, or peek at the rest of the book!",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 71,
+              "lessonLabel": "Lesson 71",
+              "title": "15m Poetry Study: Grade 11 - Lesson 71",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 72,
+              "lessonLabel": "Lesson 72",
+              "title": "15m Poetry Study: Grade 11 - Lesson 72",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nThe Word Made Fresh",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

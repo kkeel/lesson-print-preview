@@ -195,6 +195,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Lettering: Level 1",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Lettering: Level 1 - Lesson 1",
+              "body": "Chalk Lettering \n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial and become familiar with your tools.\n∞ Video Link: Lettering: Intro and Tools\n\n➜ READ, NARRATE, & DISCUSS\n\"The ABCs of Chalk Lettering\" Ch.1 p.3-7\n\n➜ PRACTICE\nPrepare your chalkboard. Draw letters using shoulder muscles like in Art Instruction lessons.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Lettering: Level 1 - Lesson 2",
+              "body": "Anatomy of Letters\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Anatomy of Letters\n\n➜ READ, NARRATE, & DISCUSS\n\"Lowdown on Letters\" Ch.1 p.8-9\n\n➜ PRACTICE\nDraw your name. Use shoulder muscles and incorporate lettering aspects.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Lettering: Level 1 - Lesson 3",
+              "body": "Sans Serif Style\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Sans Serif Style\n\n➜ READ, NARRATE, & DISCUSS\n\"Sans Serif Characteristics; How to Draw a Sans Serif Style\" Ch.1 p.10, 12\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Lettering: Level 1 - Lesson 4",
+              "body": "Sans Serif Style (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nTalk about the characteristics of the sans serif lettering style.\n\n➜ PRACTICE\nDraw letters in sans serif style. Vary line width and value.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Lettering: Level 1 - Lesson 5",
+              "body": "Serif Style\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Serif Style\n\n➜ READ, NARRATE, & DISCUSS\n\"Serif Characteristics; How to Draw a Serif Style\" Ch.1 p.11, 13\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Lettering: Level 1 - Lesson 6",
+              "body": "Serif Style (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nTalk about the characteristics of the serif lettering style.\n\n➜ PRACTICE\nDraw letters in serif style. Vary line width and value.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Lettering: Level 1 - Lesson 7",
+              "body": "Script Style\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Script Style\n\n➜ READ, NARRATE, & DISCUSS\n\"Script Characteristics; How to Draw a Script Style\" Ch.1 p.11, 14\n\n➜ PRACTICE \nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Lettering: Level 1 - Lesson 8",
+              "body": "Script Style (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nTalk about the characteristics of the script lettering style.\n\n➜ PRACTICE\nDraw letters in script style. Vary line width and value.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Lettering: Level 1 - Lesson 9",
+              "body": "Chalkboard Project 1\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nPut together all of the pieces learned this term, and plan a chalkboard project that includes all three lettering styles, varying line width and value. Complete it over three weeks.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Lettering: Level 1 - Lesson 10",
+              "body": "Chalkboard Project 1 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Lettering: Level 1 - Lesson 11",
+              "body": "Chalkboard Project 1 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Lettering: Level 1 - Lesson 12",
+              "body": "Exam Week  \n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: \nComplete Book of Chalk Lettering",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Lettering: Level 1 - Lesson 13",
+              "body": "Choosing Lettering Styles\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nExplain the difference between \"The Big Three\" lettering styles.\n\n➜ READ, NARRATE, & DISCUSS\n\"Choosing Lettering Styles; What Are Your Words Really Saying?\" Ch.2 p.18-19\n\n➜ PRACTICE\nDraw words using different lettering styles.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Lettering: Level 1 - Lesson 14",
+              "body": "Choosing Lettering Styles (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nExplain what different aspects affect the mood of a design.\n\n➜ PRACTICE\nDraw words using different styles to convey different moods. Vary line width and value.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Lettering: Level 1 - Lesson 15",
+              "body": "Finding Inspiration\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ READ, NARRATE, & DISCUSS\n\"Finding Inspiration, Sketching Designs\" Ch.2 p.20\n\n➜ PRACTICE\nSet aside an \"inspiration space\" in your Commonplace Book to collect inspirational quotes that you would like to use in your chalk designs this term. Spend time today searching for inspiration and adding to that list.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Lettering: Level 1 - Lesson 16",
+              "body": "Finding Inspiration (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nTell about how to make pencil and paper sketches and their importance.\n\n➜ PRACTICE\nDo a few pencil and paper sketches of designs using quotes from your inspiration list.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Lettering: Level 1 - Lesson 17",
+              "body": "Composition: Guidelines\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Composition: Guidelines\n\n➜ READ, NARRATE, & DISCUSS\n\"Placing Chalk Guides\" Ch.2 p.21\n\n➜ PRACTICE\nSet up composition guidelines on the chalkboard for one of your pencil and paper sketches. Remember you are only practicing guidelines at this time. You are not completing projects with lettering.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Lettering: Level 1 - Lesson 18",
+              "body": "Composition: Guidelines (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nSet up composition guidelines on the chalkboard for more of your pencil and paper sketches. Remember you are only practicing guidelines at this time. You are not completing projects with lettering.",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Lettering: Level 1 - Lesson 19",
+              "body": "Composition: Principles of Design\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ READ, NARRATE, & DISCUSS\n\"Principles of Design; Design Dissected; How to Design a Chalk Layout\" \nCh.2 p.22-26\n\n➜ VIEW\nWatch the tutorial\n∞ Video Link: Lettering: Composition: Principles of Design",
+              "teacherNotes": "• COMMONPLACE BOOK\nWrite beautiful quotes or mottoes with creative lettering."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Lettering: Level 1 - Lesson 20",
+              "body": "Principles of Design (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ RECAP\nChoose one of the three designs and dissect it using the five main principles of design.\n∞ Image Link: Dissecting Designs\n\n➜ PRACTICE\nChoose one of your pencil and paper sketches and rework the composition, incorporating the principles of design.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Lettering: Level 1 - Lesson 21",
+              "body": "Chalkboard Project 2\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE \nPut together all of the pieces learned this term and plan a chalkboard project. Set up a composition using guidelines to incorporate principles of design. Vary the letter styles, line width, and value. Complete over three weeks.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Lettering: Level 1 - Lesson 22",
+              "body": "Chalkboard Project 2 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Lettering: Level 1 - Lesson 23",
+              "body": "Chalkboard Project 2 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Lettering: Level 1 - Lesson 24",
+              "body": "Exam Week  \n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: \nComplete Book of Chalk Lettering",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Lettering: Level 1 - Lesson 25",
+              "body": "Shadow Lines\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Shadow Lines\n\n➜ READ, NARRATE, & DISCUSS\n\"Adding Shadow Lines\" Ch.3 p.30\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.\n\n➜ NOTE\nKeep the design for next week.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Lettering: Level 1 - Lesson 26",
+              "body": "Take Shadow Lines Further\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Take Shadow Lines Further\n\n➜ READ, NARRATE, & DISCUSS\n\"Kicking Shadow Lines...\" Ch.3 p.31\n\n➜ PRACTICE\nUsing the design from last week, follow the steps in the book, incorporating tips from tutorial.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Lettering: Level 1 - Lesson 27",
+              "body": "Soft Shadow Lines \n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Soft Shadow Lines\n\n➜ READ, NARRATE, & DISCUSS\n\"Creating Soft Shadow Lines\" Ch.3 p.32\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Lettering: Level 1 - Lesson 28",
+              "body": "Drawing Dimension\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Drawing Dimension\n\n➜ READ, NARRATE, & DISCUSS\n\"Drawing Dimension\" Ch.3 p.33\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Lettering: Level 1 - Lesson 29",
+              "body": "Overlapping Letters\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Overlapping Letters\n\n➜ READ, NARRATE, & DISCUSS\n\"Overlapping Letters\" Ch.3 p.34\n\n➜ PRACTICE \nFollow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Lettering: Level 1 - Lesson 30",
+              "body": "Shading with Ombre\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Shading with Ombre\n\n➜ READ, NARRATE, & DISCUSS\n\"Yay, Ombre!\" Ch.3 p.35\n\n➜ PRACTICE\nFollow the steps in the book, incorporating tips from the tutorial.\n\n➜ NOTE\nKeep the design for next week.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Lettering: Level 1 - Lesson 31",
+              "body": "Outlines\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Outlines\n\n➜ READ, NARRATE, & DISCUSS\n\"Outlining Outlines\" Ch.3 p.36\n\n➜ PRACTICE\nUsing the design from last week, follow the steps in the book, incorporating tips from the tutorial.\n\n➜ NOTE\nKeep the design for next week.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Lettering: Level 1 - Lesson 32",
+              "body": "Controlling Dust\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ VIEW\nWatch the tutorial.\n∞ Video Link: Lettering: Controlling Dust\n\n➜ READ, NARRATE, & DISCUSS\n\"Dust is Your Friend\" Ch.3 p.37\n\n➜ PRACTICE\nUsing the design from last week, follow the steps in the book, incorporating tips from the tutorial.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Lettering: Level 1 - Lesson 33",
+              "body": "Chalkboard Project 3\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nPut together all of the pieces learned this term and plan a chalkboard project. Set up a composition using guidelines to incorporate principles of design. Vary the letter styles, line width, and value. Focus on controlling dust, outlining and drawing dimensional letters. Complete over three weeks.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Lettering: Level 1 - Lesson 34",
+              "body": "Chalkboard Project 3 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Lettering: Level 1 - Lesson 35",
+              "body": "Chalkboard Project 3 (cont.)\n⍞ Materials: The Complete Book of Chalk Lettering\n\n➜ PRACTICE\nWork on term project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Lettering: Level 1 - Lesson 36",
+              "body": "Exam Week  \n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: \nComplete Book of Chalk Lettering",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

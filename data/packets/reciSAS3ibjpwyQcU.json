@@ -119,6 +119,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Astronomy Labs",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "60m Astronomy Labs - Lesson 1",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nSimply notice on this first night of observing. What are your first impressions? Or are you able to relocate any objects previously found? Do you notice anything new based on your use of the star finder or Quick Links? Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "60m Astronomy Labs - Lesson 2",
+              "body": "⍞ Materials: journal, star finder \n\n➜ OBSERVE\nNotice any objects that are or are becoming familiar. In what directions do they currently lie? Using your hands, measure their locations in the sky. Do these locations change during the evening? Keep a record of what you observe.",
+              "teacherNotes": "★ STUDENT & TEACHER TIP \nNote that next week's fieldwork should be done in one or more daytime sessions!"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "60m Astronomy Labs - Lesson 3",
+              "body": "⍞ Materials: journal, binoculars, paper, tripod/stand for binoculars\n\n➜ OBSERVE\nUse your hands to measure locations and your binocular set-up to observe the sun's projection. DO NOT LOOK DIRECTLY AT THE SUN! Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "60m Astronomy Labs - Lesson 4",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope to view the moon up close. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "60m Astronomy Labs - Lesson 5",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon, planets, and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope, as desired, to magnify. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "60m Astronomy Labs - Lesson 6",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon, planets, and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope, as desired, to magnify. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "60m Astronomy Labs - Lesson 7",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon, planets, and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope, as desired, to magnify. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "60m Astronomy Labs - Lesson 8",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon, planets, and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope, as desired, to magnify. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "60m Astronomy Labs - Lesson 9",
+              "body": "⍞ Materials: journal, star finder, binoculars/telescope \n\n➜ OBSERVE\nUse your hands to measure locations of the moon, planets, and other objects noted with your star finder and/or Quick Links. Use your binoculars/telescope, as desired, to magnify. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "60m Astronomy Labs - Lesson 10",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of Ursa Major, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "60m Astronomy Labs - Lesson 11",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of Ursa Major and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "60m Astronomy Labs - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "60m Astronomy Labs - Lesson 13",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of Ursa Major, Ursa Minor, and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Has the location of Ursa Major changed from your last viewing? Do the locations change during your session? Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "60m Astronomy Labs - Lesson 14",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "60m Astronomy Labs - Lesson 15",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "60m Astronomy Labs - Lesson 16",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "60m Astronomy Labs - Lesson 17",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "60m Astronomy Labs - Lesson 18",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "60m Astronomy Labs - Lesson 19",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "60m Astronomy Labs - Lesson 20",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "60m Astronomy Labs - Lesson 21",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "60m Astronomy Labs - Lesson 22",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "60m Astronomy Labs - Lesson 23",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "60m Astronomy Labs - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "60m Astronomy Labs - Lesson 25",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "60m Astronomy Labs - Lesson 26",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "60m Astronomy Labs - Lesson 27",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "60m Astronomy Labs - Lesson 28",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "60m Astronomy Labs - Lesson 29",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "60m Astronomy Labs - Lesson 30",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "60m Astronomy Labs - Lesson 31",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "60m Astronomy Labs - Lesson 32",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "60m Astronomy Labs - Lesson 33",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "60m Astronomy Labs - Lesson 34",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "60m Astronomy Labs - Lesson 35",
+              "body": "⍞ Materials: journal, star finder\n\n➜ OBSERVE\nUse your hands to measure locations of constellations and associated stars, as well as the moon, planets, and other objects noted with your star finder and/or Quick Links. Keep a record of what you observe.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "60m Astronomy Labs - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

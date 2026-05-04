@@ -151,6 +151,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Playground Songs & Rhymes",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Playground Songs & Rhymes - Lesson 1",
+              "body": "Hand Clapping: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n “Hot Cross Buns\" p.15\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: Hot Cross Buns",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Playground Songs & Rhymes - Lesson 2",
+              "body": "Hand Clapping: Motions\nHot Cross Buns\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: Hot Cross Buns",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Playground Songs & Rhymes - Lesson 3",
+              "body": "Hand Clapping: Motions & Singing\nHot Cross Buns\n\n➜ LISTEN & PRACTICE\n1\\. Listen to audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: Hot Cross Buns",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Playground Songs & Rhymes - Lesson 4",
+              "body": "Hand Clapping: Practice & Variations\nHot Cross Buns\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: Hot Cross Buns",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Playground Songs & Rhymes - Lesson 5",
+              "body": "Passing Game: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"Where, Oh, Where\" p.85\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Playground Songs & Rhymes - Lesson 6",
+              "body": "Passing Game: Motions\nWhere, Oh, Where\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Playground Songs & Rhymes - Lesson 7",
+              "body": "Passing Game: Motions & Singing\nWhere, Oh, Where\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Playground Songs & Rhymes - Lesson 8",
+              "body": "Passing Game: Practice & Variations\nWhere, Oh, Where\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Playground Songs & Rhymes - Lesson 9",
+              "body": "Practice: Both Songs\nHot Cross Buns; Where, Oh, Where\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Hot Cross Buns\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Playground Songs & Rhymes - Lesson 10",
+              "body": "Practice: Both Songs\nHot Cross Buns; Where, Oh, Where\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Hot Cross Buns\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Playground Songs & Rhymes - Lesson 11",
+              "body": "Practice: Both Songs\nHot Cross Buns; Where, Oh, Where\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Hot Cross Buns\n∞ Audio Link: Where, Oh, Where",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Playground Songs & Rhymes - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes & Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Playground Songs & Rhymes - Lesson 13",
+              "body": "Hand Clapping: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\nSay, Say, My Playmate p.24\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: Say, Say, My Playmate",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Playground Songs & Rhymes - Lesson 14",
+              "body": "Hand Clapping: Motions\nSay, Say, My Playmate\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: Say, Say, My Playmate",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Playground Songs & Rhymes - Lesson 15",
+              "body": "Hand Clapping: Motions & Singing\nSay, Say, My Playmate\n\n➜ LISTEN & PRACTICE\n1\\. Listen to audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: Say, Say, My Playmate",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Playground Songs & Rhymes - Lesson 16",
+              "body": "Hand Clapping: Practice & Variations\nSay, Say, My Playmate\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: Say, Say, My Playmate",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Playground Songs & Rhymes - Lesson 17",
+              "body": "Passing Game: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"Obwisana\" p.81\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Playground Songs & Rhymes - Lesson 18",
+              "body": "Passing Game: Motions\nObwisana\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Playground Songs & Rhymes - Lesson 19",
+              "body": "Passing Game: Motions & Singing\nObwisana\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Playground Songs & Rhymes - Lesson 20",
+              "body": "Passing Game: Practice & Variations\nObwisana\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Playground Songs & Rhymes - Lesson 21",
+              "body": "Practice: Both Songs\nSay, Say, My Playmate; Obwisana\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Say, Say, My Playmate\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Playground Songs & Rhymes - Lesson 22",
+              "body": "Practice: Both Songs\nSay, Say, My Playmate; Obwisana\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Say, Say, My Playmate\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Playground Songs & Rhymes - Lesson 23",
+              "body": "Practice: Both Songs\nSay, Say, My Playmate; Obwisana\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: Say, Say, My Playmate\n∞ Audio Link: Obwisana",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Playground Songs & Rhymes - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes & Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Playground Songs & Rhymes - Lesson 25",
+              "body": "Hand Clapping: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"My Momma Gave Me a Nickel\" p.22\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: My Momma Gave Me a Nickel",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Playground Songs & Rhymes - Lesson 26",
+              "body": "Hand Clapping: Motions\nMy Momma Gave Me a Nickel\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: My Momma Gave Me a Nickel",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Playground Songs & Rhymes - Lesson 27",
+              "body": "Hand Clapping: Motions & Singing\nMy Momma Gave Me a Nickel\n\n➜ LISTEN & PRACTICE\n1\\. Listen to audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: My Momma Gave Me a Nickel",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Playground Songs & Rhymes - Lesson 28",
+              "body": "Hand Clapping: Practice & Variations\nMy Momma Gave Me a Nickel\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: My Momma Gave Me a Nickel",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Playground Songs & Rhymes - Lesson 29",
+              "body": "Passing Game: Song & Rhythm\n⍞ Materials: Playground Songs & Rhymes\n\nPREP: Learn song and motions.\n\"I Pass the Shoe\" p.79\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the song several times.\n2\\. Listen and repeat one line at a time.\n3\\. Clap to the rhythm while you sing.\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Playground Songs & Rhymes - Lesson 30",
+              "body": "Passing Game: Motions\nI Pass the Shoe\n\n➜ RECAP\nSing the song with the audio.\n\n➜ PRACTICE\n1\\. Learn motions, saying them while moving.\n2\\. Sing the name of motions to the rhythm.\n3\\. Listen to audio while doing motions.\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Playground Songs & Rhymes - Lesson 31",
+              "body": "Passing Game: Motions & Singing\nI Pass the Shoe\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\n1\\. Listen to the audio while doing motions.\n2\\. Sing the song while doing motions.\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Playground Songs & Rhymes - Lesson 32",
+              "body": "Passing Game: Practice & Variations\nI Pass the Shoe\n⍞ Materials: Rhythm Stick (or other object to pass)\n\n➜ LISTEN & PRACTICE\nPractice motions while singing the song. Experiment with various speeds if ready.\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Playground Songs & Rhymes - Lesson 33",
+              "body": "Practice: Both Songs\nMy Momma Gave Me a Nickel, I Pass the Shoe\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: My Momma Gave Me a Nickel\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Playground Songs & Rhymes - Lesson 34",
+              "body": "Practice: Both Songs\nMy Momma Gave Me a Nickel, I Pass the Shoe\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: My Momma Gave Me a Nickel\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Playground Songs & Rhymes - Lesson 35",
+              "body": "Practice: Both Songs\nMy Momma Gave Me a Nickel, I Pass the Shoe\n⍞ Materials: Rhythm Stick (or other object to pass) \n\n➜ LISTEN & PRACTICE\nSing with the audio once and then without, combining with motions.\n∞ Audio Link: My Momma Gave Me a Nickel\n∞ Audio Link: I Pass the Shoe",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Playground Songs & Rhymes - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nPlayground Songs & Rhymes & Book of Song Dances",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

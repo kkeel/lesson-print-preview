@@ -188,6 +188,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Ethics: Part 5",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Ethics: Part 5 - Lesson 1",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nDivide readings into 11 sections evenly over the term; try to include whole stories or episodes if applicable so that you are not stopping in the middle of a section (around 3 pages a week). Watch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.104-136, divided across the term",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Ethics: Part 5 - Lesson 2",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nWatch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nDon't forget to divide the readings to stretch through the remaining weeks of the term. Read the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nIf you haven't planned for a Community Read Aloud yet, consider adding it to your gathering, meal time, or as a way to lighten the burden of chores!  You can find suggestions in Quick Links."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Ethics: Part 5 - Lesson 3",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Ethics: Part 5 - Lesson 4",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Ethics: Part 5 - Lesson 5",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nYou can find suggestions for Community Read Alouds in Quick Links."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Ethics: Part 5 - Lesson 6",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Ethics: Part 5 - Lesson 7",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Ethics: Part 5 - Lesson 8",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Ethics: Part 5 - Lesson 9",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Ethics: Part 5 - Lesson 10",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Ethics: Part 5 - Lesson 11",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.104-136, divided across the term\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Ethics: Part 5 - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nOurselves: Book II",
+              "teacherNotes": "★ TEACHER TIP\nIf you haven't tried a Community Read Aloud yet, consider how you might plan for this habit next term!"
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Ethics: Part 5 - Lesson 13",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nDivide readings into 11 sections evenly over the term; try to include whole stories or episodes if applicable so that you are not stopping in the middle of a section (around 3 pages a week). Watch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.137-169",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Ethics: Part 5 - Lesson 14",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nWatch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nDon't forget to divide the readings to stretch through the remaining weeks of the term. Read the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nIf you haven't planned for a Community Read Aloud yet, consider adding it to your gathering, meal time, or as a way to lighten the burden of chores!  You can find suggestions in Quick Links."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Ethics: Part 5 - Lesson 15",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Ethics: Part 5 - Lesson 16",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Ethics: Part 5 - Lesson 17",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Ethics: Part 5 - Lesson 18",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Ethics: Part 5 - Lesson 19",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nFind suggestions for Community Read Alouds in Quick Links."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Ethics: Part 5 - Lesson 20",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Ethics: Part 5 - Lesson 21",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Ethics: Part 5 - Lesson 22",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Ethics: Part 5 - Lesson 23",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.137-169\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nIf you haven't tried a Community Read Aloud yet, consider how you might plan for this habit next term!"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Ethics: Part 5 - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS Answer question(s) related to the course.\n\nQuestions will come from:\nOurselves: Book II",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Ethics: Part 5 - Lesson 25",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nDivide readings into 11 sections evenly over the term; try to include whole stories or episodes if applicable so that you are not stopping in the middle of a section (around 3 pages a week). Watch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.170-202",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Ethics: Part 5 - Lesson 26",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ INTRO\nWatch for examples from your readings that reflect the moral virtues or vices that embody the sections read.\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nDon't forget to divide the readings to stretch through the remaining weeks of the term. Read the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Ethics: Part 5 - Lesson 27",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Ethics: Part 5 - Lesson 28",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Ethics: Part 5 - Lesson 29",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": "★ TEACHER TIP\nIt's never too late to add a Community Read Aloud!  You can find suggestions in Quick Links."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Ethics: Part 5 - Lesson 30",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Ethics: Part 5 - Lesson 31",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Ethics: Part 5 - Lesson 32",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Ethics: Part 5 - Lesson 33",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Ethics: Part 5 - Lesson 34",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Ethics: Part 5 - Lesson 35",
+              "body": "⍞ Materials: Ourselves: Book II\n\n➜ READ & NARRATE\np.170-202\n\n➜ NOTE\nRead the next section, continuing from where you left off.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Ethics: Part 5 - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nOurselves: Book II",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

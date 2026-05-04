@@ -181,6 +181,823 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Technology",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "30m Technology - Lesson 1",
+              "body": "Introduction to this Course\n⍞ Materials: Google Docs Learning Journal (you will create this today)\n\n➜ INTRO\nYou will create a basic website or blog using Google Docs to access your prior knowledge and reflect on, record, and share what you are learning throughout this course.  \n\n➜ VIEW\n∞ Link: Course Overview\n\n➜ OPEN\n ∞ Link: My Learning Journal Template\n• Click the blue \"Use Template\" button.\n• Send the URL (link or website address) to your educator so they can see the updates you make as you go through the lessons.\n\nYou will use this as a learning journal throughout this first term, and you will respond within the journal you just created. Many lessons will begin and end with an opportunity to reflect on what you will learn or what was covered. This is your journal, and we encourage you to make it beautiful as you learn more about design throughout this course.  Do not share any personal information.   This will be referred to in future lessons as your \"Google Docs Learning Journal.\"  \n\n➜ REFLECT\n• Use the landing page (opening page) of your Google Docs Learning Journal to respond to the prompts under \"What Stands Out to You About the Course Overview.\" \n• Read the section \"Goals for Term 1.\"  Begin thinking about your philosophy of education by comparing the two statements that are provided and answer #3.",
+              "teacherNotes": "★ TEACHER TIP: \n Watch these videos if you are unfamiliar with Google Docs.\n∞ Video Link: Using Google Docs to Create Web Pages \n∞ Video Link: Dive deep into Using Google Docs\n\n★ TEACHER NOTE\nWhen you see instructions using this symbol \">\", you are being given steps in order to navigate within the webpage or program/app."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "30m Technology - Lesson 2",
+              "body": "Introduction to HTML #1\n⍞ Materials: your Google Docs Learning Journal\n\n➜ INTRO\nYou will learn about the invention of HTML and its creator, Sir Tim Berners-Lee.\n\n➜ OPEN\nYour Google Docs Learning Journal and scroll down to the first lesson section called \"Intro to HTML: Sir Tim Berners-Lee.\" \n\n➜ THINK\nSpend 5 minutes answering any of the following questions within your journal: (Anytime you do not know how to answer a question, write that! Starting by recognizing and recording what you do not know increases the possibility that you will feel good about learning and that the idea will stick in your mind.)\n• What is the World Wide Web, and who invented it? \n• What is the difference between the World Wide Web and the Internet? \n\n➜ READ or WATCH\n∞ Article Link: Sir Tim Berners-Lee (read) \n∞ Video Link: Sir Tim Berners-Lee (video) (15 mins)  \nYou will be expected to write a narration of this video, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT\nComplete your first entry in your Google Docs Learning Journal by spending 10 minutes writing a brief narration summarizing Berners-Lee’s journey from building devices for model trains to inventing HTML.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "30m Technology - Lesson 3",
+              "body": "Introduction to HTML #2: Create a Technology Word Journal using HTML\n⍞ Materials: your Google Docs Learning Journal, notepad on Windows or TextEdit on Mac, and Technology Word Journal \n\n➜ OPEN\nOpen your Google Docs Learning Journal and scroll down to the second lesson section called \"Intro to HTML.\" \n\n➜ THINK\nSpend 5 minutes answering the following question:\n• How do websites know how to show words, pictures, and videos in the right places? \n\n➜ WATCH (14 min)\n∞ Video Link: Video #00\n∞ Video Link: Video #01 \n\n➜ OPEN\nIn this section, you will either open NOTEPAD or TEXTEDIT, depending on which kind of computer you are using.  \n ∞ Link: Alveary Technology 10 Course Word Journal     \n• Go to File> download> Plain Text (.txt) > open it in Notepad (PC) or TextEdit (Mac)\n\n➜ FOLLOW DIRECTIONS\n• Follow these directions for using NOTEPAD on a PC:\n\t\t\t• Go to File> Save As > and save a working copy of the .txt file as backupwordjournal.txt > Save it another time with the extension .HTML instead of .txt. \n• Follow these directions if you are using TEXTEDIT on a MAC:\n\t\t\t• Hold down the Option key while choosing File, then Save As > type the name of the copy as backupwordjournal.txt and choose where to save it > save > Save it another time, holding down the Option key while choosing File, then Save As> type the name of the copy as backupwordjournal.HTML and choose where to save it > save >use .HTML.\n\n➜ FOLLOW DIRECTIONS FOR PC AND MAC \n• Now, close the copy you created and reopen it.  It will open in your browser, and you will see that it has been rendered with the HTML formatting.  \n• Open the .txt document and examine how the HTML tags impacted the resulting webpage. Don't fret if you mess it up! Remember, you saved a backup.\n\n➜ REFLECT \nYou will notice that entries for the terms \"Technology\" and \"Computer\" have been completed. Using these as an example, add an entry for one of the following terms to the new HTML Word Journal you just created in the Notebook or TextEdit program.\n• HTML, HTML Tag, HTML element, or Markup Language",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "30m Technology - Lesson 4",
+              "body": "Introduction to HTML #3\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal.\n\n➜ INTRO        \nYou will consider some given reasons for learning HTML and interact with HTML tags while receiving instant feedback.\n\n➜ OPEN\nOpen your Google Docs Learning Journal and navigate to the next available lesson section. \n\n➜ THINK \nSpend 5 minutes answering any of the following questions:\n• Have you ever right-clicked on a webpage and selected “View Page Source” or “Inspect”? Try it! What do you see?\n• Why do you think all websites follow some basic structure rules to display content?\n• Write about a website that surprised you by how \"new\" and \"different\" it looked.\n\n➜ VIEW and PRACTICE            \n∞ Article Link: HTML Introduction by Geeks for Geeks\n• Read the introduction. \n• Scroll until you find the embedded \"Basic HTML Code Example\" and click on the triangle play button.\n• Observe the output.\n•Just for fun, insert \"<marquee>\" and \"</marquee>\" tags inside the opening header tag \"<h1>\" and  the closing header tag \"</h1>\" as in the following example: \n  <h1><marquee>Welcome to My Webpage</marquee></h1>\n• Click on the triangle play button and observe the output.\n\n➜ REFLECT\nWhile referring to the provided Geeks for Geeks HTML Introduction, spend 5-10 minutes completing your Google Docs Learning Journal answering the following questions:\n• Of the five provided, which is the best reason for learning HTML? \n• What does the \"marquee\" tag do? \n\n➜ OPEN\nYour working copy of the Word Journal.txt \n• Create entries for 2 more of the following terms: HTML, HTML Element, HTML Tag, or Markup Language.\n• If you are happy with the changes you have made to your HTML Word Journal so far, this might be a good time to consider updating the backup.",
+              "teacherNotes": "• TERMINOLOGY\n∞ Article Link: A Simple Guide to HTML\n\n★ TEACHER TIP\nDon’t fret if you mess it up! Remember, you saved a backup."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "30m Technology - Lesson 5",
+              "body": "What are Computers?\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal\n\n➜ OPEN\nOpen your Google Docs Learning Journal and navigate to the next lesson section.\n\n➜ THINK\nSpend 5 minutes answering the following questions about these terms: hardware, operating system, servers, monitor, video processor, LCD displays, LED displays, processing, ports, USB, mother board, CPU, heat sync, RAM, hard drive, SSD, expansion card, applications, surge protector, ergonomics, desktop, task bar, menu bar, doc, modem, router, ethernet, Wi-Fi, the cloud, malware, virus, spyware, trojan horses, ransomware, and keyloggers.\n• Which of the following terms do you know well? \n• Which ones do you want to know more about?\n\n➜ VIEW and NARRATE         \n∞ Video Link: Computers Playlist\nYou will be expected to write about what you watch in these videos, so pause the video and jot down notes when you notice something noteworthy.\n• Spend 10 minutes watching the videos that touch on the terms you wanted to know more about. \n\n➜ OPEN\nYour working copy of your HTML Word Journal.txt \n• Create at least 2 entries in your HTML Word Journal from the terms you explored today.\n\n➜ REFLECT \nReflect on what the computer terms you already knew before starting this lesson had in common. In your Google Docs Learning Journal, compare those terms to the terms you looked up.  What area or areas of computing are you less familiar with?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "30m Technology - Lesson 6",
+              "body": "What is Computer Science?\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal\n\n➜ OPEN \nOpen your Google Docs Learning Journal and navigate to the next available lesson section. \n\n➜ THINK\nBriefly answer the following questions about the following terms:  software, binary code, algorithm, sequences, selections, loops, programming languages, JavaScript, Python, Java, C++, HTML, and CSS. \n• Which of the following terms do you know well? \n• Which ones do you want to know more about?\n\n➜ WATCH \n∞ Video Link: Computer Science Basics Playlist (15 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n• Create at least 3 entries in your HTML Word Journal from the terms you explored today.\n\n➜ REFLECT\nComplete your Google Docs Learning Journal entry for this lesson by reflecting on what the computer science terms you already knew well enough before starting this lesson had in common. Compare those terms to the terms you looked up; what area or areas of computing are you less familiar with?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "30m Technology - Lesson 7",
+              "body": "A History of Computers\n⍞ Materials: your Google Docs Learning Journal and Alveary Technology Timeline Template\n\n➜ OPEN \nOpen your Google Docs Learning Journal and navigate to your next available lesson section. \n\n➜ THINK \nAnswer the following questions: \n• What do you think are the most important events in computer history?\n• Approximately when did they happen?\n\n➜ WATCH:\n∞ Video Link: History of computers - A Timeline (4 mins) \n∞ Video Link: History of Computers (part 2) - A Timeline (3 mins)\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ VISIT AND EXPLORE \n∞ Link: The Computer History Museum Virtual Tour\n• You will need to zoom in to see the different spaces in the museum. In the lower left-hand corner, you will see a picture of an abacus. In that same space, press the triangular play button.  \n\n➜ OPEN \n ∞ Link: Alveary Technology Timeline Template (Google Slides)\n• Click the blue \"Use Template\" button.\n• Navigate to the section corresponding to the relevant date. \n• Create an entry about an event, person, or artifact that stood out to you.\n\n➜ REFLECT\nComplete your Google Docs Learning Journal entry for this lesson by reflecting on the impact the event, person, or artifact you studied had on society.",
+              "teacherNotes": "★ TEACHER TIP \nFor more information about Google Slides: \n∞ Video Link: Google Slides-Getting Started"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "30m Technology - Lesson 8",
+              "body": "HTML Elements and Tags #1\n⍞ Materials: your Google Docs Learning Journal and your HTML Word Journal\n\n➜ INTRO \nYou will add line breaks, spaces, and lists to websites.\n\n➜ OPEN \nOpen your Google Docs Learning Journal and navigate to the next available lesson section. \n\n➜ THINK\nIn your Google Docs Learning Journal, answer any of the following questions:\n• How do websites know how to show words, pictures, and videos in the right places? (If you do not know, write that! Starting by recording what you do not know increases the possibility that you will feel good about learning.)\n• If you could design your own website, what would it look like? How would you tell the computer to arrange everything?\n• Why do you think all websites follow some basic rules or structure to display content?\n• After responding to the question, replace the default image with a relevant one.\n\n➜ WATCH (11 min) \n∞ Video Link: HTML Tutorial Playlist #02\n∞ Video Link: HTML Tutorial Playlist #03  \n• You will be expected to write about what you watch in these videos on adding line breaks, spaces, and lists. Pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT\n• Open your working copy of the HTML Word Journal.txt and experiment with adding a line break somewhere.\n• Add unordered lists of examples to your entry on markup languages.\n∞ Article Link: List of markup languages - Wikipedia \n• Use your Google Docs Learning Journal to reflect on what you learned and to record any questions you have on the topic of HTML lists.",
+              "teacherNotes": "• TERMINOLOGY\nAdd any new terms you come across to your Word Journal. \n\n★ TEACHER TIP\n- Don’t fret if you mess it up! Remember you saved a backup."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "30m Technology - Lesson 9",
+              "body": "HTML Elements and Tags #2\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal\n\n➜ INTRO        \nYou will edit HTML tables and add web links.\n\n➜ OPEN \nOpen your Google Docs Learning Journal and navigate to the next available lesson section. \n\n➜ THINK \nUse your Google Docs Learning Journal and answer any of the following questions:\n• Think about other courses you have taken. Where else have you encountered information in tables? \n• How does sorting information into rows and columns help to clarify it for ourselves and others? \n• You may notice that some websites appear blocky.  What other limitations might result from using tables? \n• Google famously became the most used search engine because it gave more precedence to sites that linked to other sites.  How else have web links affected the internet? \n• How do you know when a text or image is clickable and when it is not? \n• Have you ever been surprised to find that you could interact with something that gave you no indication that it was possible to interact with it?\n\n➜ WATCH (8 min)\nTables and Links\n∞ Video Link: HTML Tutorial Playlist #04\n∞ Video Link: HTML Tutorial Playlist #05 \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT\n• Open your working copy of the HTML Word Journal and notice how tables and web links have been used. \n• Add some web links to your entries. \n• Add a new row of cells below the table where you can put future entries.\n• Use your Google Docs Learning Journal to reflect on what you are learning.",
+              "teacherNotes": "• EXTRA HELPING\nWatch any or all of the other videos from the HTML Tutorial playlist\nTry out what you are learning using your HTML Word Journal.\n\n★ TEACHER TIP\nDon’t fret if you mess it up! Remember, you saved a backup."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "30m Technology - Lesson 10",
+              "body": "Pioneers in the History of Technology: Charles Babbage and Ada Lovelace\n⍞ Materials: your Google Docs Learning Journal and Google Slides Technology Timeline\n\n➜ OPEN \nOpen your Google Docs Learning Journal and navigate to the next available lesson section. \n\n➜ THINK\nSpend 5 minutes and answer one of the following questions in your Google Docs Learning Journal:\n• What is technology? How do you know when something is not technology? \n• What do you think people in the early 19th century thought about when they thought about technology?\n\n➜ READ and VIEW\n∞ Article Link: Charles Babbage biography\n∞ Video Link: Charles Babbage and His Difference Engine #2\n∞ Article Link: Ada Lovelace biography\n∞ Video Link: The First Computer Programmer: Ada Lovelace\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN \nGoogle Slides Technology Timeline\n• Navigate to the section corresponding to the relevant date and create an entry about the people you studied.\n\n➜ REFLECT:\nUse the last 5 minutes completing your Google Docs Learning Journal entry for today, answering at least two of the following questions and justifying your answers: \n• Is a pencil technology? \n• Is the alphabet or written script a technology? \n• Is a language, like English, a technology? \n• Is music technology? \n• Is faith technology?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "30m Technology - Lesson 11",
+              "body": "HTML Elements and Tags #3\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal\n\n➜ INTRO\nYou will use HTML to add, size, and place an image on a webpage\n\n➜ THINK\nSpend the first 5 minutes using the next lesson section of your Google Docs Learning Journal to answer the following question:\n• In the early days of the internet, there was only text; how do you think the ability to post, upload, share, and edit images changed the internet?\n\n➜ WATCH (5 min)\nHTML Image Tags\n∞ Video Link: HTML Tutorial Playlist #07\n∞ Video Link: HTML Tutorial Playlist #08 \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN \nOpen your working copy of the HTML Word Journal and add relevant images to your previous entries.\n\n➜ THINK \nUse the next lesson section of your Google Docs Learning Journal to answer one of the following questions:\n• Can you imagine a tool that makes writing HTML easier? \n• What are some things that the tool might do?\n\n➜ REFLECT \nUse the last 5 minutes completing your Google Docs Learning Journal entry for today, answering the following question: \n• Why do you think HTML caught on, and why is it still used?",
+              "teacherNotes": "• EXTRA HELPING\nLearn more about HTML Editors: VS CODE\n\n➜ DOWNLOAD:\n∞ Link: VS Code \n\n➜ WATCH \n ∞ Video Link: VS Code Tutorial"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "30m Technology - Lesson 12",
+              "body": "Pioneers in the History of Technology: Alan Turing\n⍞ Materials: your Google Docs Learning Journal and Google Slides Technology Timeline\n\n➜ INTRO        \nAlan Turing (1912–1954) was an English mathematician, logician, and computer scientist often considered the father of modern computing. During World War II, Turing played a crucial role and significantly aided the Allied war effort. His work laid the foundation for artificial intelligence and modern computer science. Post-war, his contributions continued to influence the emerging field of computer science. \n\n➜ THINK\nUse the next lesson section of your Google Docs Learning Journal to answer the following question:\nWhat impact do you think computers have had on how wars are conducted and won?\n\n➜ READ \n∞ Article Link: Alan Turing: The codebreaker who saved 'millions of lives'\n\n➜ OPEN \nOpen your Google Slides Technology Timeline.\n• Navigate to the section corresponding to the relevant date and create an entry about Alan Turing.\n\n➜ REFLECT\nContinue your Google Docs Learning Journal entry, answering at least two of the following questions and justifying your answers: \n• Why do you think Alan Turing’s work was so significant during WWII? \n• How do you see his contributions reflected in the technology we use today? \n• What ethical considerations should we keep in mind as technology continues to advance?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "30m Technology - Lesson 13",
+              "body": "HTML Elements and Tags #4\n⍞ Materials: your Google Docs Learning Journal and your HTML Word Journal\n\n➜ INTRO        \nYou will finish your introduction to HTML by learning how to format text in HTML documents.\n\n➜ THINK \nUse the next lesson section of your Google Docs Learning Journal to answer the following question:\n• Bold, Italic, and Underline are very common ways of formatting text in documents and on websites; where have you seen this used and why was it used in that instance?\n\n➜ WATCH (3 min)\n∞ Video Link: Bold and Italic Elements\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ PRACTICE        \n∞ Link: Text Formatting and Inline Text Semantics \nThis is a section of the Geeks for Geeks HTML Cheat Sheet.\n• Open your working copy of the HTML Word Journal and experiment with formatting some text. \n\n➜ REFLECT\nUse your Google Docs Learning Journal to reflect on what you learned and to record any questions you have on the topic of formatting text in HTML. Select the placeholder image and click on \"Replace image\" in the horizontal toolbar at the top. Search the web for an image that you think best represents bold and italicized text.",
+              "teacherNotes": "• EXTRA HELPING\nAtom is a text editor that can be used for writing code.  Try it out! \n ∞ Link: Atom (will need to download first)\n\nWatch the video\n ∞ Video Link: Atom IDE Editor and Install\n• Add terms you learn to your HTML Word Journal\n\n★ TEACHER NOTE\nDon’t fret if you mess it up! Remember you saved a backup."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "30m Technology - Lesson 14",
+              "body": "Introduction to Graphic Design\n⍞ Materials: your Google Docs Learning Journal and your HTML Word Journal\n\n ➜ INTRO        \nYou will begin to explore the art and science of graphic design.\n\n➜ THINK \nUse your Google Docs Learning Journal to consider the following questions:\n• Can you picture the Apple Logo, Nike Swoosh, Coca-Cola Logo, McDonald's Golden Arches, Google Logo, or WWF Panda Logo in your mind? These are examples of designs that have become iconic; why? \n• What makes these designs appealing?\n\n➜ WATCH\n∞ Video Link: The Universal Arts of Graphic Design (7 min)\n∞ Video Link: Beginning Graphic Design: Fundamentals (7 min)\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ WRITE        \nEnter 3 of the following terms or group of terms  into your HTML Word Journal: “elements of design,” “Lines, Shape, and Form,” “Balance,” “Color,\" “The rule of thirds,” or “Texture.” \n\n➜ REFLECT\nUse your Google Docs Learning Journal to reflect on what you are learning and to record any questions you have on the topic of the elements of design.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "30m Technology - Lesson 15",
+              "body": "Graphic Design Project: Logo Design\n⍞ Materials: your Google Docs Learning Journal, HTML Word Journal, and paper/pencil\n\n➜ THINK \nConsider the Apple Logo, Nike Swoosh, Coca-Cola Logo, McDonald's Golden Arches, Google Logo, or WWF Panda Logo again. \n\n➜ WATCH \n∞ Video Link: Beginning Graphic Design: Branding and Identity (7 mins) \n\n➜ DRAW        \nImagine you are starting a business of your own. On a blank piece of paper, sketch ideas for a logo for your business.\n\n➜ WATCH \n∞ Video Link: How to Make Your Own LOGO with Canva (Watch only the first 5 minutes)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \nEnter the term \"kerning\" into your HTML Word Journal\n\n➜ DRAW        \n∞ Link: Canva Logo Maker\nUse Canva's logo maker and design a logo for your business.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "30m Technology - Lesson 16",
+              "body": "Graphic Designers: Paul Rand\n⍞ Materials: your Google Docs Learning Journal and Google Slides Technology Timeline \n\n➜ INTRO\nNow that you know a little about graphic design and have had an introduction to creating designs in Canva, I want to introduce you to an influential American graphic designer, best known for creating iconic logos for brands such as IBM, ABC, and UPS: Paul Rand. He pioneered modern corporate design by combining simplicity with creative vision, emphasizing the power of images to communicate a brand’s essence. His work greatly influenced visual communication, advocating for design that was both functional and aesthetically pleasing. Rand believed in the importance of clear, simple designs to communicate complex ideas effectively. \n\n➜ THINK\n∞ Image Link: IBM, ABC, and UPS logos\nUse the next lesson section of your Google Docs Learning Journal to answer the following question.\n• Observe the IBM, ABC, and UPS logos. What do you notice?\n\n➜ WATCH\n∞ Video Link: Celebrating The Life Of The Greatest Graphic Designer-Paul Rand (16 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \nOpen your Google Slides Technology Timeline; navigate to the section corresponding to the relevant date, and create an entry about the person you studied.\n\n➜ REFLECT\nUse your Google Docs Learning Journal to reflect on what you are learning and to record any questions you have on the topic of graphic design.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "30m Technology - Lesson 17",
+              "body": "Graphic Design Project: Book Cover\n⍞ Materials: paper/pencil\n\n➜ INTRO        \nToday, you will create a design for the cover of your favorite book.  \n\n➜ THINK \nWhat is your favorite book?  On a blank piece of paper, brainstorm on the important words and images or icons that will appear in your design; then work out how you will lay it out.\n\n➜ WATCH\n∞ Video Link: Professional Book Cover Design (10 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ DRAW        \n∞ Link: Canva Book Cover\nDesign the cover of your favorite book.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "30m Technology - Lesson 18",
+              "body": "Graphic Designers: Saul Bass\n⍞ Materials: your Google Docs Learning Journal and Google Slides Technology Timeline\n\n➜ INTRO\nNow that you have learned about Paul Rand and had an introduction to creating logos and book covers in Canva, I want to introduce you to Saul Bass, who was a groundbreaking graphic designer and filmmaker, renowned for his work in movie posters and title sequences. His minimalist style transformed film graphics, making them integral to storytelling. Famous works include the logos for AT&T and the Academy Awards, as well as iconic opening sequences for movies like Psycho and Anatomy of a Murder. Bass’s innovative approach combined art and design, creating visual masterpieces that conveyed deep meaning with simplicity. \n\n➜ THINK\nUse the next lesson section of your Google Docs Learning Journal to answer the following question: In your opinion, how might designing a movie poster be similar to designing a book cover, and how might it be different?\n\n➜ WATCH\n∞ Video Link: Saul Bass's Movie Posters (8 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \nOpen your Google Slides Technology Timeline; navigate to the section corresponding to the relevant date, and create an entry about the person you studied.\n\n➜ REFLECT\nUse your Google Docs Learning Journal to reflect on what you are learning and to record any questions you have on the topic of graphic design. If you have any time left over, consider updating your book cover from last week to reflect what you have learned from Saul Bass's designs.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "30m Technology - Lesson 19",
+              "body": "Graphic Design Project: Movie Poster\n⍞ Materials: paper/pencil\n\n➜ INTRO        \nSimilar to a previous lesson, you will design a poster of your favorite movie.  \n\n➜ THINK\nWhat is your favorite movie? On a blank piece of paper, brainstorm on the important words and images or icons that will appear in your design; then work out how you will lay it out.\n\n➜ WATCH\n ∞ Video Link: Create Professional Hollywood Movie Posters (9 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ DRAW        \n∞ Link: Canva Movie Poster\nDesign your poster for your favorite movie.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "30m Technology - Lesson 20",
+              "body": "Graphic Design: Typography and Color\n⍞ Materials: your Google Docs Learning Journal and your HTML Word Journal\n\n➜ THINK\nUse your Google Docs Learning Journal to quickly consider the following question: Some logos are just icons, and some are just text; what are the advantages of each?\n\n➜ WATCH:\n∞ Video Link: Beginning Graphic Design: Typography (6 mins)\n∞ Video Link: Beginning Graphic Design: Color (7 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \nEnter 3 of the following terms or group of terms into your HTML Word Journal:\n• serif\n• hierarchy, leading, tracking, and kerning \n• hue, saturation, and value\n• monochromatic, analogous, complementary, and triadic color schemes\n\n➜ REFLECT: \nUse your Google Docs Learning Journal to reflect on how you can use and combine various fonts to make your media stand out.",
+              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: The Art of Typography"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "30m Technology - Lesson 21",
+              "body": "Graphic Design Project: Infographic on the Seven Fundamental Elements of Design\n⍞ Materials: your Google Docs Learning Journal,  paper/pencil, and infographics 1, 2, and 3\n\n➜ INTRO        \nIn Lesson 14, you were introduced to the seven fundamental elements of design. You will continue thinking and learning about how these elements can work together to create infographics.  \n\n➜ THINK\nUse your Google Docs Learning Journal to consider how the seven fundamental elements of design are used in the following infographics: \n∞ Image Link: Infographic #1\n∞ Image Link: Infographic #2\n∞ Image Link: Infographic #3\n\n➜ WATCH\n∞ Video Link: How to Create an Infographic  (10 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ BRAINSTORM        \nUse a blank piece of paper/pencil to brainstorm how you can create an infographic that communicates the seven fundamental elements of design for future students. Use the headings LINE, SHAPE, COLOR, TEXTURE, SPACE, FORM, and VALUE in your infographic. Consider how the viewer's eye will travel from one element to the next. How will you incorporate a \"new angle\"? \n\n➜ DRAW        \n∞ Link: Canva Infographic Maker\nCreate your infographic communicating the seven fundamental elements of design.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "30m Technology - Lesson 22",
+              "body": "Graphic Design: Layout, Composition, and Images\n⍞ Materials: your Google Docs Learning Journal and your HTML Word Journal\n\n➜ THINK\nUse your Google Docs Learning Journal to quickly consider the following question: \n• When designers talk about \"negative space,\" what do you think they mean?\n\n➜ WATCH\n∞ Video Link: Beginning Graphic Design: Layout and Composition (5 mins) \n∞ Video Link: Beginning Graphic Design: Images (6 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \nEnter 3 of the following terms or group of terms into your HTML Word Journal: \"Proximity,\" \"White space,\" \"Alignment,\" \"Contrast,\" and \"Repetition,\" \"raster graphics,\" \"vector graphics,\" \"cropping and resizing,\" and  \"brightness, saturation, contrast, and color.\" \n\n➜ REFLECT\nUse your Google Docs Learning Journal to reflect on what you believe to be the most important aspect, concept, or element to consider when designing media.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "30m Technology - Lesson 23",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course. You will use this link during the exam: \n∞ Link: Canva Infographic",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "30m Technology - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course. You will use this link during the exam: \n∞ Link: Canva Infographic",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "30m Technology - Lesson 25",
+              "body": "Self-Assessment\n⍞ Materials: your Google Docs Learning Journal and HTML Word Journal\n\n➜ INTRO        \nYou will create your final entry in your Google Docs Learning Journal and reflect on your experience using this tool before exploring Adobe Express and using it to create a Webpage to use as a learning journal throughout this second term.\n\n➜ THINK\nCreate your final entry in your Google Docs Learning Journal and answer the following question: \n• What are 3 pros and 2 cons of using Google Docs for creating a learning journal or a weblog (aka blog)? \n\n➜ WATCH:\n∞ Video Link: Create an Adobe Express Webpage (12 mins)\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN\n ∞ Link: Adobe Express Online Journal Maker \n• Create an Adobe Express Webpage to use as a learning journal throughout this term. Just like last term, each lesson will start with a “THINK” prompt; you will respond using this new Adobe Express journal instead of your Google Docs Learning Journal. Many lessons will end with an opportunity to reflect on what was covered. This is your journal; we encourage you to make it beautiful as you learn more about design throughout this course. Do not share any personal information. Send the URL (link or website address) to your educator so that they can see the updates you make as you go through the lessons.\n\n➜ REFLECT\n• Use your new Adobe Express Journal to review what you have learned and completed over the first term of this course, or just write about what you found most interesting or beautiful, and then write about which concepts you would like to learn more about during Term 2.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "30m Technology - Lesson 26",
+              "body": "Introduction to Coding\n⍞ Materials: your Adobe Express Learning Journal and your HTML Word Journal\n\n➜ THINK \nUsing your Adobe Express Learning Journal, spend 5 minutes making predictions about what sort of projects you will be working on as you learn the basics of computer coding.\n\n➜ WATCH \n∞ Video Link: What is Coding? (11 mins) \n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ WRITE        \nSpend 9 minutes entering the following terms into your HTML Word Journal: \"coding (aka computer programming)\" and \"compiler.\"\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes answering one of the following questions:\n• What can coding allow you to do? \n• Why are there so many different coding languages?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "30m Technology - Lesson 27",
+              "body": "Introduction to Coding: Algorithms\n⍞ Materials: your Adobe Express Learning Journal and your HTML Word Journal\n\n➜ THINK \nUsing your Adobe Express Learning Journal, spend 5 minutes answering the following question: \n• What do you think of when you think of the word algorithm?\n\n➜ WATCH \n∞ Video Link: Introduction to coding: what is an algorithm? (11 mins)\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n• Spend 9 minutes entering the following 3 terms into your HTML Word Journal: \"algorithm,\" \"pseudocode,\" and \"program.\"\n\n➜ REFLECT\nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes answering one of the following questions:\n• What is an algorithm? \n• What is the relationship between a program and an algorithm?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "30m Technology - Lesson 28",
+              "body": "Coding: Introduction to Scratch\n⍞ Materials: Scratch\n\n➜ INTRO        \nYou will be introduced to a visual programming language and community designed to help children and young people learn coding while exploring how block coding works.\n\n➜ WATCH\n∞ Video Link: Getting Started with Scratch (2 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN \n∞ Link: Scratch \n• Sign in using your Gmail account.\n• Browse projects; click on the green flag to run the program; click on see inside to explore how the blocks work.\n\n➜ WATCH and FOLLOW ALONG\n∞ Video Link: How to Make an \"About Me\" Project in Scratch | Tutorial (9 mins)",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "30m Technology - Lesson 29",
+              "body": "Coding: Loops\n⍞ Materials: your Adobe Express Learning Journal, HTML Word Journal, and Scratch\n\n➜ INTRO        \nYou will explore how the loop blocks work in Scratch.\n\n➜ THINK \nUsing the next lesson section of your Adobe Express Learning Journal, spend 5 minutes answering the following question:\n• How might having a basic understanding of coding impact your future?\n\n➜ WATCH \n∞ Video Link: Intro to Programming: Loops (2 mins) and\n∞ Video Link: Think like a Coder, Episode 1 (7 mins) \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ WRITE\n• Add the term \"loops\" to your HTML Word Journal.\n\n➜ OPEN\n∞ Link: Scratch \n\n➜ WATCH and FOLLOW ALONG \n∞ Video Link:  How to Make a Jumping Game in Scratch | Tutorial (5 mins)\nYou will learn how Scratch does loops.\n\n➜ REFLECT\nComplete your Adobe Express Journal entry for today by spending 5 minutes answering the following question:\n• How is block coding similar to building using physical blocks, and how is it different?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "30m Technology - Lesson 30",
+              "body": "Coding: Conditionals\n⍞ Materials: your HTML Word Journal and Scratch\n\n➜ INTRO        \nIn English grammar, a conditional is a sentence that includes a dependent clause, which usually starts with “if” or \"when.\" In this lesson, you will explore how conditional blocks work in Scratch.\n\n➜ WATCH\n∞ Video Link: Think Like A Coder, Episode 2 (6 mins)\n\n➜ OPEN\n∞ Link: Scratch\n\n➜ WATCH and FOLLOW ALONG \n∞ Video Link:  How to Make a Clicker Game in Scratch | Tutorial (11 mins)\nYou will practice using conditionals.\n\n➜ REFLECT\n• Add the term \"conditionals\" to your HTML Word Journal.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "30m Technology - Lesson 31",
+              "body": "Coding: Variables\n⍞ Materials: your HTML Word Journal and Scratch\n\n➜ INTRO        \nYou are probably familiar with variables from algebra classes. It is helpful to think of them as placeholders. In this lesson, you will practice using variable Blocks in Scratch.\n\n➜ WATCH\n∞ Video Link: Think Like A Coder, Episode 3 (6 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN\n∞ Link: Scratch\n\n➜ WATCH and FOLLOW ALONG \n∞ Video Link: What Are Variables and Lists in Scratch? (Part 1)| Tutorial - YouTube (4 mins) \n∞ Video Link: Using Variables and Lists in Scratch (Part 2)| Tutorial - YouTube (7 mins)\n• Add the term \"variable\" to your HTML Word Journal.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "30m Technology - Lesson 32",
+              "body": "Coding: Scratch Project\n⍞ Materials: your Adobe Express Learning Journal and Scratch\n\n➜ THINK\nUsing the next lesson section of your Adobe Express Learning Journal, spend 10 minutes answering one of the following question sets:\n• What stories have you read in the past year? How could you narrate one of those stories using Scratch?\n• What is one interesting idea you have encountered in the past year? How could you introduce others to that idea in an engaging way using Scratch?\n\n➜ OPEN \n∞ Link: Scratch\n• Create the Scratch program you described\n\n➜ REFLECT \n• Complete the Adobe Express Learning Journal entry you started today by spending 5 minutes describing your experience telling the story or sharing the idea using Scratch",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "30m Technology - Lesson 33",
+              "body": "Coding: Introduction to MIT's App Inventor\n⍞ Materials: your Adobe Express Learning Journal and MIT's App Inventor\n\n➜ INTRO        \nIn this lesson, you will be introduced to a new tool for creating apps.\n\n➜ THINK\nUsing the next lesson section of your Adobe Express Learning Journal, spend 5 minutes answering the following question:\n• Scratch is beautifully designed, and you can use it to create some powerful programs; in what ways do you think it could be better?\n\n➜ WATCH \n∞ Video Link: Getting Started with App Inventor (9 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN\n∞ Link: MIT App Inventor \n• Sign up and spend 11 minutes exploring this powerful tool\n\n➜ REFLECT\nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes answering the following questions:\n• What apps do you use most? Why? \n• What do you use them for?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "30m Technology - Lesson 34",
+              "body": "Coding: Building an app using MIT's App Inventor\n⍞ Materials: MIT's App Inventor and a mobile device\n\n➜ INTRO\nYou will design an App using MIT's App Inventor by choosing one of the two tutorials below.  Ask yourself, would you rather make a bee buzz or a cat purr?\n\n➜ OPEN \n∞ Link: MIT App Inventor\n\n➜ CHOOSE ONE\n∞ Link: Hello Codi - the buzzing bee. Make the bee buzz.\n∞ Link: HelloPurr. Make the cat purr!",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "30m Technology - Lesson 35",
+              "body": "Coding: Make Your Device Talk \n⍞ Materials: your Adobe Express Learning Journal, MIT's App Inventor, and a mobile device\n\n➜ INTRO\nYou will make your device talk using MIT's App Inventor.\n\n➜ THINK\nHave you ever heard the word \"Accelerometer\"? Accelerometers can be used to measure vibration on cars, machines, buildings, process control systems, and safety installations. They can also be used to measure seismic activity, inclination, machine vibration, dynamic distance, and speed with or without the influence of gravity. Can you think of how your device could use this tool?\n\n➜ OPEN\n∞ Link: MIT App Inventor\n\n➜ WATCH or READ \n∞ Video Link: Talk To Me (part 1), MIT App Inventor Tutorial #1 (7 mins) \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n--OR--\n∞ Link: TalkToMe: A beginner App Inventor app\nYou will be expected to write about what you view in this course, so jot down notes when you notice something noteworthy.\n\n➜ WATCH or READ \n∞ Video Link: Talk To Me (part 2), MIT App Inventor Tutorial #2 (5 mins) \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n--OR--\n ∞ Link: TalkToMe Part 2: Shaking and User Input\nYou will be expected to write about what you view in this course, so jot down notes when you notice something noteworthy.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "30m Technology - Lesson 36",
+              "body": "Coding: Turn Your Device Into a Toy Using MIT's App Inventor: Ball\n⍞ Materials: your Adobe Express Learning Journal, MIT's App Inventor, and a mobile device\n\n➜ THINK\nUsing the next lesson section of your Adobe Express Learning Journal, spend 5 minutes answering the following question:\n• What benefits do you think MIT's App Inventor has over Scratch?\n\n➜ OPEN\n∞ Link: MIT App Inventor\n\n➜ WATCH \n∞ Video Link: Ball Bounce, MIT App Inventor Tutorial #3 (5 mins)\nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ FOLLOW ALONG \n∞ Link: BallBounce: A simple game app\n\n➜ REFLECT\nComplete today's lesson section in your Adobe Express Learning Journal by spending 5 minutes answering the following questions:\n• At the end of the video, the teacher suggests ways of building on this lesson to make more engaging and fun apps; which of her suggestions inspires you most? Why?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 37,
+              "lessonLabel": "Lesson 37",
+              "title": "30m Technology - Lesson 37",
+              "body": "Coding: Turn Your Device Into a Toy Using MIT's App Inventor: Doodle\n⍞ Materials: your Adobe Express Learning Journal and your HTML Word Journal, MIT's App Inventor, and a mobile device\n\n➜ THINK\nUsing the next lesson section of your Adobe Express Learning Journal, spend 5 minutes answering the following question:\n• What other toy or fun things could you think of creating with the App Inventor?\n\n➜ OPEN\n∞ Link: MIT App Inventor\n\n➜ WATCH \n∞ Video Link: Digital Doodle, MIT App Inventor Tutorial #4 (5 mins)\n\n➜ FOLLOW ALONG\n∞ Link: DigitalDoodle: Drawing App\n\n➜ REFLECT\n• Add the term \"accelerometer\" to your HTML Word Journal.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 38,
+              "lessonLabel": "Lesson 38",
+              "title": "30m Technology - Lesson 38",
+              "body": "Coding: Enhancing a Project\n⍞ Materials: your Adobe Express Learning Journal, MIT's App Inventor, and a mobile device\n\n➜ INTRO        \n Today, you will finish this introduction to using MIT's App Inventor by choosing one of the projects you worked on and enhancing it. \n\n➜ THINK\nUsing the next lesson section of your Adobe Express Learning Journal, spend 5 minutes answering the following question:\n• Which of your App Inventions would you be most interested in exploring further? How would you like to enhance it?\n\n➜ OPEN\n∞ Link: MIT App Inventor\n\n➜ CHOOSE ONE\n∞ Link: Magic 8 Ball; or\n∞ Link: Mini Golf: Fling, TouchUp, TouchDown Gestures; or\n∞ Link: PaintPot (Part 1)",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 39,
+              "lessonLabel": "Lesson 39",
+              "title": "30m Technology - Lesson 39",
+              "body": "Digital Photography: Introduction\n⍞ Materials: Adobe Express Learning Journal, HTML Word Journal, a mobile device with a camera, or a DSLR (optional)\n\n➜ THINK \nUsing your Adobe Express Learning Journal, spend 5 minutes considering the following questions: \n• Have mobile devices made DSLR cameras obsolete?\n\n➜ WATCH \nYou will watch the first 5 videos in the playlist (12 min). \n∞ Video Link: The best free photography course playlist\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK        \n• Enter the following terms into your HTML Word Journal: “exposure,” “aperture,” “shutter,” and “ISO.”",
+              "teacherNotes": "• EXTRA HELPING\nDive deeper into the exposure triangle with the following video.\n∞ Video Link:  Exposure :: Photography Basics"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 40,
+              "lessonLabel": "Lesson 40",
+              "title": "30m Technology - Lesson 40",
+              "body": "Digital Photography: Aperture and Its Effects\n⍞ Materials: Adobe Express Learning Journal, HTML Word Journal, a mobile device with a camera, or a DSLR (optional)\n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering the following questions: \n• Now that you know what the aperture is, what effect do you think it has on your pictures?\n\n➜ WATCH \nYou will watch videos 6-9 in the playlist (15 mins).\n∞ Video Link: The best free photography course playlist \n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes considering the following questions: \n• How could you replicate this on a mobile device?\n\n➜ NOTEBOOK \n Enter the following terms into your HTML Word Journal: “depth of field” and \"f-stop.\"",
+              "teacherNotes": "• EXTRA HELPING\nDive deeper into aperture with the following video.\n∞ Video Link: Aperture :: Photography Basics"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 41,
+              "lessonLabel": "Lesson 41",
+              "title": "30m Technology - Lesson 41",
+              "body": "Digital Photography: Shutter Speed and Its Effects\n⍞ Materials: Adobe Express Learning Journal and a mobile device with a camera, or a DSLR (optional)\n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering the following questions: \n• What tools can you use to compensate for the decreased amount of light that a small aperture lets in? \n• How can you use these tools to compensate?\n• What impact do you think using them in this way will have on the resulting photograph?\n\n➜ WATCH \nYou will watch Videos 10-13 in the playlist (17 mins).\n∞ Video Link: The best free photography course playlist\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes considering the following questions: \n• What impact would a slow shutter speed have on a photograph? \n• In what situation would it be better to use a fast shutter speed?",
+              "teacherNotes": "• EXTRA HELPING\nDive deeper into shutter speed with the following video.\n ∞ Video Link: Shutter Speed :: Photography Basics"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 42,
+              "lessonLabel": "Lesson 42",
+              "title": "30m Technology - Lesson 42",
+              "body": "Digital Photography: Introduction to ISO and Manual Mode\n⍞ Materials: Adobe Express Learning Journal, a mobile device with a camera, or a DSLR (optional)\n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering the following question: \n• When creating an image, is it always better to have as much control as possible over every parameter, or do you think that limitations can sometimes help creatives?\n\n➜ WATCH \nYou will watch Videos 15 and 20 on ISO and Manual Mode (18 mins).\n∞ Video Link: The best free photography course playlist\n∞ Video Link: ISO\n∞ Video Link: Manual Mode \nYou will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes considering the following question: \n• If you fall in love with photography, will you use manual mode?",
+              "teacherNotes": "• EXTRA HELPING\nDive deeper into ISO with the following video: \n∞ Video Link: What is ISO?"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 43,
+              "lessonLabel": "Lesson 43",
+              "title": "30m Technology - Lesson 43",
+              "body": "Graphic Design Review: Introduction to the Principles of Design\n⍞ Materials: your Adobe Express Learning Journal and HTML Word Journal\n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering how the following terms relate to what we learned about design in the first term and how you might use them in making photographs: Balance, Contrast, Emphasis, Pattern, Rhythm, Movement, Proportion, Harmony, and Variety.\n\n➜ WATCH \n∞ Video Link: The Principles of Design (22 mins)\n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ NOTEBOOK\t\nEnter 3 of the following terms into your HTML Word Journal: “principles of design,” “Balance,” “Contrast,” “Emphasis,” “Pattern,” “Rhythm,” “Proportion,” and “Harmony.”\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today's lesson by spending 5 minutes considering which of the following terms you think has the most meaningful impact on a photograph: Balance, Contrast, Emphasis, Pattern, Rhythm, Movement, Proportion, Harmony, or Variety?",
+              "teacherNotes": "• EXTRA HELPING\nFor more information on this topic watch this video:\n∞ Video Link: Beginning Graphic Design fundamentals"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 44,
+              "lessonLabel": "Lesson 44",
+              "title": "30m Technology - Lesson 44",
+              "body": "Graphic Design Review: Incorporating the Principles of Design\n⍞ Materials: your Adobe Express Learning Journal and HTML Word Journal \n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering the following questions: \n• Which of the graphic design projects you created during the first term are you most pleased with?\n• How might you improve your initial designs by editing them in a manner that aligns with the principles of design you just learned about?\n\n➜ OPEN\nChoose to open a project in Canva or open your Adobe Express Learning Journal. Update them or recreate them to demonstrate an understanding of the principles you've learned with graphic design.  \n\n➜ NOTEBOOK        \nEnter more of the following terms into your HTML Word Journal: “principles of design,” “Balance,” “Contrast,” “Emphasis,” “Pattern,” “Rhythm,” “Proportion,” and “Harmony.”",
+              "teacherNotes": "• EXTRA HELPING\nDive deeper into the principles of design as they relate to photography:\n∞ Video Link: Composition in Photography - YouTube"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 45,
+              "lessonLabel": "Lesson 45",
+              "title": "30m Technology - Lesson 45",
+              "body": "Digital Photography: Composition\n⍞ Materials: Adobe Express Learning Journal and a mobile device with a camera, or a DSLR (optional)\n\n➜ INTRO\t\nThe video that introduced you to the elements of design in term one mentioned the rule of thirds; many teachers suggest practising using the rule of thirds until it becomes a habit, then you can learn when it is meaningful to break the rule. Two other common pieces of advice are as follows: (1) get low and (2) get in close. \n\n➜ THINK \nUsing your Adobe Express Learning Journal spend 5 minutes considering the following pieces of photo composition advice: \n• Which of the suggestions do you resonate with most? Why? Why do you think these rules are so popular?\n\n➜ WATCH \nYou will view a video on a composition strategy.  \n∞ Video Link: Sub-Framing In Visual Composition (9 mins) \n• You will be expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ MAKE        \n• Try to make some photographs using the rule of thirds and sub-frames.  When using sub-frames, make some from the floor and from very close up to the subject. Then, make some photographs by very intentionally going against one of these pieces of advice.\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes considering the following questions: \n• Which of your photographs ended up looking the best or most interesting? Why? \n• What piece of advice were you being intentional about using or eschewing when you took that photograph?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 46,
+              "lessonLabel": "Lesson 46",
+              "title": "30m Technology - Lesson 46",
+              "body": "Digital Photography: Composition Project\n⍞ Materials: Adobe Express Learning Journal and a mobile device with a camera, or a DSLR (optional)\n\n➜ INTRO        \nYou may have noticed that we were saying \"make photographs\" in the previous lesson instead of the more common expression \"take photographs.\" That language is intentional.\n\n➜ THINK \n Using your Adobe Express Learning Journal, spend 5 minutes considering why photographers might choose to say they make photographs rather than take photographs, and answer the following questions: \n• How can art be judged as good art or otherwise?\n• Does context and the artist's intention matter?\n\n➜ PRACTICE        \nAfter reflecting on what you learned from your last photography session, pick a subject for today's project and spend around 20 minutes photographing it in a variety of ways. Make some photographs using the rule of thirds and sub-frames. You can use sub-frames from the floor and from very close up to the subject. If you break a rule, do it intentionally.\n\n➜ REFLECT \nComplete your Adobe Express Learning Journal entry for today by spending 5 minutes considering the following questions: \n• Which of your photographs you took today ended up looking the best or most interesting? Why? \n• What piece of advice were you being intentional about using or eschewing when you took that photograph?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 47,
+              "lessonLabel": "Lesson 47",
+              "title": "30m Technology - Lesson 47",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 48,
+              "lessonLabel": "Lesson 48",
+              "title": "30m Technology - Lesson 48",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 49,
+              "lessonLabel": "Lesson 49",
+              "title": "30m Technology - Lesson 49",
+              "body": "Self-Assessment\n⍞ Materials: your Adobe Express Learning Journal and Carrd Journal\n\n➜ THINK \nMake your final entry in your Adobe Express Learning Journal by answering the following question:\n• What are the pros and cons of using Adobe Express for creating a weblog compared to Google Docs?\n\n➜ WATCH \n∞ Video Link: Carrd Website Builder Complete Tutorial for Beginners (Step-by-Step)\n• You are expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ OPEN\n∞ Link: Carrd.co \nYou will use this as a learning journal throughout the course. Each lesson will start with a “THINK” prompt; you will respond using the journal you have created. Each lesson will end with an opportunity to reflect on what was covered.  Do not share any personal information.  You are encouraged to send the URL (the link or website address) to your educator so that they can see the updates you make as you go through the lessons.\n\n➜ REVISIT \n∞ Link: Course Overview. \n\n➜ REFLECT\nUse your Carrd Journal to reflect on what you have learned and completed over the first two terms of this course and think about what aspect you would like to dive more deeply into during Term 3.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 50,
+              "lessonLabel": "Lesson 50",
+              "title": "30m Technology - Lesson 50",
+              "body": "CSS: Introduction - Selectors, Properties, and Values\n⍞ Materials: your Carrd Learning Journal and your HTML Word Journal\n\n➜ THINK \nYou might remember coming across the term \"CSS\" in lesson 6 of Term 1. Using your Carrd Learning Journal, spend 5 minutes answering the following questions:\n• Imagine you’re designing a website about something you love. What would you want it to look like? Would it be bright and colorful or simple and clean? How would you want people to feel when they see it? What kinds of choices would you need to make to create that feeling—colors, text styles, shapes, or how things are arranged? \n\n➜ READ \n∞ Link: CSS Introduction\n\n➜ WATCH\n∞ Video Link: CSS Tutorial (2 mins)\nMake note of what CSS is, how it works, and why it is used.\n\n➜ WATCH\n∞ Video Link: CSS Syntax (2 mins)\nMake note of CSS Selectors as well as CSS Properties and Values.\n\n➜ BROWSE & EXPLORE \n∞ Link: W3's CSS Editor\n• Change the background color and font properties.\n• Enter the term \"CSS\" into your HTML Word Journal.\n• Experiment with stylizing your HTML Word Journal.\n\n➜ REFLECT\nUsing your Carrd Learning Journal, spend 5 minutes considering the following questions: \n• What is CSS? \n• How and why is it used?\n• What are the selectors, the properties, and the values?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 51,
+              "lessonLabel": "Lesson 51",
+              "title": "30m Technology - Lesson 51",
+              "body": "CSS: Introduction - Simple Selectors, Adding CSS to HTML, and Commenting\n⍞ Materials: your Carrd Learning Journal and Google Slides Technology Timeline\n\n➜ INTRO        \nHTML wasn't meant to format a web page just to describe the content: egs <h1>heading</h1>, <p>paragraph</p>. When font and color tags were later added, it caused a lot of problems. That's why the World Wide Web Consortium (W3C) created CSS. CSS took the style formatting away from the HTML page! The style can be saved in an external .css file, so the look of an entire website can be changed all at once. \n\n➜ THINK\nUsing your Carrd Learning Journal, spend 5 minutes answering the following questions:\n• What do you know about the World Wide Web Consortium (W3C)? \n• Who do you think they are? \n\n➜ WATCH \nThere are three videos that you will watch from the CSS Tutorial by w3schools.com.\n\n∞ Video Link: Simple Selectors (>2 mins)\n• Make note of Element Selector, ID Selector, and Class Selector.\n\n∞ Video Link: How to add CSS to HTML (>2 mins)\n• Make note of External CSS, Internal CSS, and Inline CSS.\n\n∞ Video Link:  Comments (2 mins)\n• You are expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n\n➜ BROWSE & EXPLORE \n∞ Link: Group Selectors\n\n➜ REFLECT\nUsing your Carrd Learning Journal, spend 5 minutes considering the following question:\n If CSS comments don't show up or change anything on a webpage, why is it important to know about them?",
+              "teacherNotes": "• EXTRA HELPING\nIf you want to learn more about the W3C: \n∞ Video Link: W3C: The World Wide Web Consortium \n\nBe sure to add an entry for W3C to your Google Slides Technology Timeline."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 52,
+              "lessonLabel": "Lesson 52",
+              "title": "30m Technology - Lesson 52",
+              "body": "Broadcasting: Introduction to Audacity\n⍞ Materials: your Carrd Learning Journal, your HTML Word Journal, and a phone or a USB microphone with a pop filter (optional)\n\n➜ INTRO        \nHave you ever had an idea, a story, or a message you wished more people could hear? Throughout history, broadcasting—sharing information with a wide audience—has been a powerful way to shape ideas, entertain, and connect people across great distances. From early radio to modern streaming services, broadcasting has changed the way we communicate. Podcasting is a modern form of broadcasting. Unlike traditional radio, where programs are scheduled at set times, podcasts let people record and share audio content that can be listened to anytime, anywhere. Whether it’s storytelling, interviews, news, or discussions on a favorite topic, podcasting gives anyone the ability to broadcast their voice to the world. \n\n➜ THINK\nUsing your Carrd Learning Journal, spend 5 minutes answering the following question: \n• If you had a microphone and anyone in the whole world could listen whenever they wanted to, what would you say?\n\n➜ WATCH \n∞ Video: Master Audio Editing Basics (9 mins)\nStop and consider as you watch. Add at least 1 new term you come across to your HTML Word Journal. \n\n➜ DOWNLOAD \n∞ Link: Audacity\n\n➜ MAKE\t\nUsing Audacity, record yourself reciting a poem, a Psalm, or something else of your choosing. If you don't have a microphone, you can record it using a phone's memo app, email it to yourself, download it on your computer, and import it. Additionally, you can also download and import some sound effects and music from Pixabay.\n∞ Link: Pixabay Sounds\n∞ Link: Pixabay Music\n\n➜ REFLECT\nUse your Carrd Journal to reflect for 5 minutes on what you are learning and record any questions you have on the topic of Audacity and audio engineering.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 53,
+              "lessonLabel": "Lesson 53",
+              "title": "30m Technology - Lesson 53",
+              "body": "Broadcasting: The History of Radio Podcast Pre-production Phase\n⍞ Materials: Audacity, your Carrd Learning Journal, and pencil/paper or word processing app.\n\n➜ THINK \nUsing your Carrd Learning Journal, spend a minute answering the following question: \nDo you listen to podcasts? Why or why not?\n\n➜ READ        \nYou will be creating a podcast on the history of radio. Today you will write the script, and next time you will record it. First, make a list of points you might use as you browse the following sources for the content: \n∞ Link: Who Invented Radio? \n∞ Link: Guglielmo Marconi \n∞ Link: A Short History of Radio \n∞ Link: 1890s – 1930s: Radio\n\n➜ PRE-PRODUCTION PHASE\nPlan and write your script following a clear broadcasting structure to engage your audience: Hook, Introduction, Main Content, and Conclusion.\n• Hook (First 2–3 Sentences) Start with a question, a surprising fact, or a bold statement to grab your listener’s attention. Example: \"Imagine turning on the radio and hearing, ‘This is not a drill! Martians have landed in New Jersey!’ In 1938, Orson Welles’ War of the Worlds did just that—and today, I'm talking about the power of radio to captivate an audience.”\n\n• Introduction: Introduce yourself and your topic. Example: \"Welcome to my podcast! I’m [your name], and today, I'm exploring how radio revolutionized communication. From war updates to sports broadcasts, radio shaped history—and we can learn a lot from its past.\"\n\n• Main Content: Share your key points in a clear and engaging way. Use a storytelling approach to keep listeners engaged. Example: \"Before TV and the internet, families gathered around the radio for news, drama, and entertainment. When radio first broadcast the Hindenburg disaster in 1937, listeners felt like they were right there as the reporter cried out, ‘Oh, the humanity!’ It proved how powerful broadcasting could be.\"\n\n• Conclusion and Call to Action: Wrap up your main idea with a strong closing statement. Example: \"From news to entertainment, radio shaped the world. But today, podcasting gives everyone the power to broadcast their voice. What story will you tell? Thanks for listening!\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 54,
+              "lessonLabel": "Lesson 54",
+              "title": "30m Technology - Lesson 54",
+              "body": "Broadcasting: The History of Radio Podcast Production Phase\n⍞ Materials: Audacity, and your history of radio script\n\n➜ PRODUCTION PHASE\nRead the first section or sentence. Press record and say what you just read into the mic or phone without reading it. Speak in an animated voice with enthusiasm, but slowly and clearly. Repeat this till every section or sentence is recorded. Make sure the meter isn't clipping or peaking. If it is, your audio will sound distorted. You will need to turn down your mic a little.\n• If time allows, rerecord any sections that could be more beautiful, but accept that it will not be perfect.\n• If time allows, download and import some relevant sound effects and music from Pixabay.\n∞ Link: Pixabay Sound\n∞ Link: Pixabay Music",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 55,
+              "lessonLabel": "Lesson 55",
+              "title": "30m Technology - Lesson 55",
+              "body": "Broadcasting: The History of Radio Podcast Post-Production Phase\n⍞ Materials: Audacity, headphones or speakers, and your script on the history of radio\n\n➜ POSTPRODUCTION PHASE\nArrange your regions or tracks and add effects. If you haven't already, download and import some relevant sound effects and music from Pixabay.\n∞ Link: Pixabay Sound\n∞ Link: Pixabay Music\n\n➜ WATCH\nFor a little more on editing, you can watch this video.\n∞ Video Link: How to Make Any Mic Sound Professional\n\n➜ LISTEN & DISCUSS        \nExport your podcast on the history of radio and share it with your teacher.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 56,
+              "lessonLabel": "Lesson 56",
+              "title": "30m Technology - Lesson 56",
+              "body": "Broadcasting: Topic of Personal Interest Project Pre-Production Phase\n⍞ Materials: your Carrd Learning Journal and a pencil/paper or word processing app.\n\n➜ THINK \nUsing your Carrd Learning Journal, spend 5 minutes listing the ideas you have encountered so far in this course or other recent courses. \n• Which ones came easiest to mind? \n• Which ideas interest you most? Why?\n\n➜ PREPRODUCTION\nChoose a topic we've explored that has sparked your curiosity, challenged your thinking, or excited you. This could be a concept, a project, a breakthrough moment, or something that connected to your life in a meaningful way. Spend about 25 minutes planning and writing your script. Focus on clarity, energy, and engaging your audience.  \n\nUse the following structure to write a script for your next broadcasting project:\n• Hook (First 2–3 Sentences): Start with a question, a surprising fact, or a bold statement to grab your listener’s attention.\nExample: “Did you know that the internet runs on a hidden system of underwater cables? Today, we're diving into how they work and why they matter.”\n\n• Introduction (About 30 Seconds): Introduce yourself and your topic. Explain why this topic is interesting or important.\nExample: “Welcome to my podcast! I’m [your name], and today I want to talk about the most surprising thing I've learned in this course: how artificial intelligence is shaping the future of creativity.”\n\n• Main Content (1–2 Minutes): Share your key points in a clear and engaging way. Use a mix of facts, examples, or personal insights to make your message compelling.\nIf relevant, use a storytelling approach to keep listeners engaged.\nExample: “At first, I thought coding was just about numbers and logic, but then I discovered how it can be used to create art, music, and even games.”\n\n• Conclusion and Call to Action (Last 30 Seconds): Wrap up your main idea with a strong closing statement. Consider leaving your audience with a thought-provoking question or challenge.\nExample: “So, what do you think? Will AI replace human creativity, or will it help us become more creative than ever? Think about it, and thanks for listening!”",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 57,
+              "lessonLabel": "Lesson 57",
+              "title": "30m Technology - Lesson 57",
+              "body": "Broadcasting: Topic of Personal Interest Project Production Phase\n⍞ Materials: Audacity, your script from last class\n\n➜ PRODUCTION\nRead the first section or sentence. Press record and say what you just read into the mic or phone without reading it. Speak in an animated voice with enthusiasm, but slowly and clearly. Repeat this till every section or sentence is recorded. Make sure the meter isn't clipping or peaking. If it is, your audio will sound distorted. You will need to turn down your mic a little.\n• If time allows, rerecord any sections that could be more beautiful, but accept that it will not be perfect.\n• If time allows, download and import some relevant sound effects and music from Pixabay.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 58,
+              "lessonLabel": "Lesson 58",
+              "title": "30m Technology - Lesson 58",
+              "body": "Broadcasting: Topic of Personal Interest Podcast Post-Production Phase\n⍞ Materials: Audacity, headphones or speakers, and your script on a Topic of Personal Interest\n\n➜ POSTPRODUCTION\nArrange your regions or tracks and add effects.\n• If you haven't already, download and import some relevant sound effects and music from Pixabay.\n\n➜ WATCH\nFor a little more on editing, you can watch this video.\n∞ Video Link: 10 Powerful Tips\n\n➜ LISTEN & DISCUSS        \nExport your podcast on the history of radio and share it with your teacher.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 59,
+              "lessonLabel": "Lesson 59",
+              "title": "30m Technology - Lesson 59",
+              "body": "Animation: Introduction to 2D Animation\n⍞ Materials: your Carrd Learning Journal, HTML Word Journal, and pencil/paper.\n\n➜ THINK \nUse your Carrd Journal to answer any of the following questions: What is your favorite animation, animator, or animation studio? Why?\n\n➜ WATCH \n∞ Video Link: Animation Basics\n• You are expected to write about what you watch in this course, so pause the video and jot down notes when you notice something noteworthy.\n• Add any new terms you come across to your HTML Word Journal. \n\n➜ REFLECT\nUse your Carrd Learning Journal to reflect on what you are learning and to record any questions you have on the topic of animation",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 60,
+              "lessonLabel": "Lesson 60",
+              "title": "30m Technology - Lesson 60",
+              "body": "Animation: Animate a Bouncing Ball Using Scratch\n⍞ Materials: Scratch\n\n➜ OPEN\n∞ Link: Scratch \n\n➜ WATCH\nFollow along with this Scratch Lesson.\n∞ Video Link: How to Make a Realistic Bouncing Ball (9 mins)\n If time allows, try to add some of the principles you learned about animation in the last lesson.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 61,
+              "lessonLabel": "Lesson 61",
+              "title": "30m Technology - Lesson 61",
+              "body": "Cumulative Review Project #1: Introduction to Muybridge\n⍞ Materials: your Carrd Learning Journal, your Google Slides Technology Timeline, and your HTML Word Journal\n\n➜ THINK \nUse your Caard Learning Journal to answer any of the following questions: \n• What is your favorite movie? \n• What was the first movie you ever watched? \n• What do you think those movies had in common with the first movie ever made? \n• How do you think the movies you referenced are different from the first movie ever made?\n\n➜ WATCH \n∞ Video Link: Movies are Magic (10 mins)\nAdd any new terms you come across to your HTML Word Journal. \n\n➜ WATCH\n∞ Video Link: Muybridge (5 minutes)\nAdd an entry for Muybridge to your Google Slides Technology Timeline.\n\n➜ REFLECT \nUse your Adobe Express Journal to answer any of the following questions: \nDid Prehistoric people, Muybridge, Edison, or someone else produce the first movie?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 62,
+              "lessonLabel": "Lesson 62",
+              "title": "30m Technology - Lesson 62",
+              "body": "Cumulative Review Project #1: Pre-Production\n⍞ Materials: your Carrd Learning Journal, pencil/paper, or word processing app.\n\n➜ THINK \nUsing your Carrd Learning Journal, spend 5 minutes considering how you might tell Muybridge's story. \n• What media will you use? \n• Will you create a blog? If so, which web-builder will you use? \n• Will you create an infographic? If so, which app will you use? \n• Will you create an interactive app? If so, which app-builder will you use? \n• Will you create a podcast or an animation?\n\n➜ PREPRODUCTION\nPlan the project on Muybridge and how you will tell his story using the medium of your choice. Consider using the storytelling structure we have used, regardless of the format you choose. Spend about 25 minutes planning your project. Focus on clarity and engaging your audience. \n\n• Hook: Start with a question, a surprising fact, or a bold statement to grab your listener’s attention.\n\n• Introduction: Introduce yourself and your topic. \n\n• Main Content: Share your key points in a clear and engaging way. Use a mix of facts, examples, or personal insights to make your message compelling.\n\n• Conclusion and Call to Action: Wrap up your main idea with a strong closing. Consider leaving your audience with a thought-provoking question or challenge.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 63,
+              "lessonLabel": "Lesson 63",
+              "title": "30m Technology - Lesson 63",
+              "body": "Cumulative Review Project #1: Production\n⍞ Materials: your Carrd Learning Journal\n\n➜ PRODUCTION\nComplete the project on Muybridge. \n• As time allows, add an entry to your Carrd Learning Journal on why you chose to tell this story using the medium you chose.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 64,
+              "lessonLabel": "Lesson 64",
+              "title": "30m Technology - Lesson 64",
+              "body": "Cumulative Review Project #1: Post-Production\n⍞ Materials: your Carrd Learning Journal\n\n➜ POSTPRODUCTION\nThe medium you chose will impact the amount of time needed for post-production. \n• Edit, publish, and share your product with your teacher.\n\n➜ THINK\nIf time allows, spend 5 minutes reflecting on the value of breaking the tasks down into the three phases of pre-production , production, and post-production.\n\n➜ REFLECT\nIf time allows, use your Carrd Learning Journal to answer any of the following questions: \n• Do you see yourself using any of the apps, techniques, or skills you have learned in this course in the future? If so, which ones and why? If not, why not?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 65,
+              "lessonLabel": "Lesson 65",
+              "title": "30m Technology - Lesson 65",
+              "body": "Cumulative Review Project #2: Pre-Production\n⍞ Materials: your Carrd Learning Journal and pencil/paper or word processing app.\n\n➜ THINK \nUsing your Carrd Learning Journal, spend 5 minutes listing the ideas you have encountered so far in this course or other recent courses. \n• Which ones came easiest to mind?\n• Which ideas interest you most? Why?\n\n➜ PRE-PRODUCTION\nPlan an animation, blog, slideshow, photo-story, infographic, or interactive app on the topic you chose. Consider using the storytelling structure we have used, regardless of the format you choose. Spend about 25 minutes planning your project. Focus on clarity and engaging your audience. \n\n• Hook: Start with a question, a surprising fact, or a bold statement to grab your listener’s attention.\n\n• Introduction: Introduce yourself and your topic. \n\n• Main Content: Share your key points in a clear and engaging way. Use a mix of facts, examples, or personal insights to make your message compelling.\n\n• Conclusion and Call to Action: Wrap up your main idea with a strong closing. Consider leaving your audience with a thought-provoking question or challenge.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 66,
+              "lessonLabel": "Lesson 66",
+              "title": "30m Technology - Lesson 66",
+              "body": "Cumulative Review Project #2: Production\n⍞ Materials: your Carrd Learning Journal\n\n➜ PRODUCTION\nComplete the project on the topic of your choice.\n• If time allows, add an entry to your Carrd Learning Journal on why you chose the topic and why you chose the medium.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 67,
+              "lessonLabel": "Lesson 67",
+              "title": "30m Technology - Lesson 67",
+              "body": "Cumulative Review Project #2: Post-Production\n⍞ Materials: your Carrd Learning Journal and your HTML Word Journal\n\n➜ POST-PRODUCTION\nThe medium you chose will impact the amount of time needed for post-production. Edit, publish, and share your product with your teacher.\n\n➜ THINK\nIf time allows, spend 5 minutes reflecting on the value of the storytelling structure in non-narrative formats: how does thinking in terms of Hook, Introduction, Main Content, and Conclusion or Call to Action help you make better blogs and infographics?\n\n➜ REFLECT \nIf time allows, use your Carrd Learning Journal to answer any of the following questions: \n• Have you effectively shared everything you created with your teacher? \n• Can you think of an easier way to share your digital creations?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 68,
+              "lessonLabel": "Lesson 68",
+              "title": "30m Technology - Lesson 68",
+              "body": "Introduction to E-Portfolios\n⍞ Materials: your Carrd Learning Journal and your HTML Word Journal\n\n➜ THINK \nImagine it’s 2 years from now, and you’re applying for an opportunity that really excites you—a job, scholarship, or a special program. The person reviewing your application asks, ‘Can you show me what you've created, learned, and accomplished?’ Spend 5 minutes using your Carrd Journal to consider what you would want them to see. How would you present your best work in a way that tells your story?\n\n➜ WATCH \n∞ Video Link: Creating Your E-Portfolio (4 mins)\n\n➜ READ \n∞ Link: Tips to Create an E-Portfolio\n• Add the term e-portfolio to your HTML Word Journal.\n\n➜ REFLECT\nSpend 5 minutes using your Carrd Learning Journal to reflect on what you are learning and record any questions you have on the topic of e-portfolios.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 69,
+              "lessonLabel": "Lesson 69",
+              "title": "30m Technology - Lesson 69",
+              "body": "Introduction: Google Sites \n⍞ Materials: your Carrd Learning Journal and your HTML Word Journal, Google Docs Learning Journal, Adobe Express Learning Journal, Google Slides Technology Timeline, Scratch, MIT App Inventor\n\n➜ THINK \nSpend 5 minutes answering the following questions using your Carrd Journal: What might your e-portfolio look like? What would it include?\n\n➜ READ \n∞ Link: Google Sites (ePortfolio)\n\n➜ WATCH\nFollow along with Mr. Stewart Lee as he creates an e-portfolio using Google Sites. Add your work to your Google Sites e-portfolio. \n∞ Video Link: New Google Sites e-Portfolio (15 minutes)\n∞ Link: Google Sites\n\nConsider including any or all of the following:\n\n• Links to, or embedded versions of, your best, most beautiful, interesting, or insightful Google Docs Learning Journal entries\n\n• Links to, or embedded versions of, your best, most beautiful, interesting, or insightful Adobe Express Learning Journal entries\n\n• Links to, or embedded versions of, your best, most beautiful, interesting, or insightful Carrd Learning Journal entries\n\n• Screenshots of your best, most beautiful, interesting, or insightful HTML Word Journal entries\n\n• Links to, screenshots of, or embedded versions of your best, most beautiful, interesting, or insightful Google Slides Technology Timeline entries\n\n• Links to, screenshots of, or embedded versions of your best, most beautiful, or interesting graphic designs\n\n• Links to, screenshots of, or embedded versions of your best, most beautiful, interesting, or fun Scratch and MIT’s App Inventor products\n\n• Links to, or embedded versions of, your best, most beautiful, or interesting photographs\n\n• Links to, or embedded versions of, your best, most beautiful, or interesting broadcasts\n\n• Links to, or embedded versions of, your best, most beautiful, or interesting animations\n\n➜ REFLECT\nUse your Carrd Journal to reflect on what you are learning and to record any questions you have on using Google Sites.",
+              "teacherNotes": "• EXTRA HELPING\n\n∞ Link: Simple Portfolio Website Design using HTML - GeeksforGeeks"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 70,
+              "lessonLabel": "Lesson 70",
+              "title": "30m Technology - Lesson 70",
+              "body": "Create an E-Portfolio Using Your Preferred Tool\n⍞ Materials: Carrd Learning Journal\n\n➜ THINK \nSpend 5 minutes using your Carrd Learning Journal to consider which of the following tools you have used in this course were your favorites and why: Google Docs, Google Slides, Google Sites, Adobe Express, Carrd.\n\n➜ CHOOSE\nYou will choose your favorite website creation tool and start compiling the products from your various projects in this course.  Another option we haven't discussed is Google's Blogger. Use it if you are interested in trying something new. \n• Share what you create with your teacher\n∞ Link: Blogger.com",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 71,
+              "lessonLabel": "Lesson 71",
+              "title": "30m Technology - Lesson 71",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.  You will use this link during the exam: \n∞ Link: 1986: Children Imagine Life in 2020",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 72,
+              "lessonLabel": "Lesson 72",
+              "title": "30m Technology - Lesson 72",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.  You will use this link during the exam: \n∞ Link: 1986: Children Imagine Life in 2020",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -202,6 +202,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Sloyd: Intro",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "15m Sloyd: Intro - Lesson 1",
+              "body": "Square Fold\n⍞ Materials: 6\" x 6\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link:  Square Fold\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "15m Sloyd: Intro - Lesson 2",
+              "body": "Square Fold\n⍞ Materials: 6\" x 6\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "15m Sloyd: Intro - Lesson 3",
+              "body": "Simple Cube\n⍞ Materials: 2\" x 8\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Simple Cube\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "15m Sloyd: Intro - Lesson 4",
+              "body": "Simple Cube\n⍞ Materials: 2\" x 8\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "15m Sloyd: Intro - Lesson 5",
+              "body": "Simple Rectangular Prism\n⍞ Materials: 4\" x 8\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Simple Rectangular Prism\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "15m Sloyd: Intro - Lesson 6",
+              "body": "Simple Rectangular Prism\n⍞ Materials: 4\" x 8\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "15m Sloyd: Intro - Lesson 7",
+              "body": "Corner Bookmark\n⍞ Materials: 6\" x 6\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Corner Bookmark\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "15m Sloyd: Intro - Lesson 8",
+              "body": "Corner Bookmark\n⍞ Materials: 6\" x 6\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "15m Sloyd: Intro - Lesson 9",
+              "body": "Square Envelope\n⍞ Materials: 6\" x 6\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Square Envelope\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "15m Sloyd: Intro - Lesson 10",
+              "body": "Square Envelope\n⍞ Materials: 6\" x 6\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "15m Sloyd: Intro - Lesson 11",
+              "body": "Simple Airplane\n⍞ Materials: 8.5\" x 11\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Simple Airplane\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "15m Sloyd: Intro - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS \nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "15m Sloyd: Intro - Lesson 13",
+              "body": "Score & Fold Square\n⍞ Materials: 6\" x 6\" paper, awl, ruler\n\n➜ VIEW\nTutorial video\n∞ Video Link: Score & Fold Square\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "15m Sloyd: Intro - Lesson 14",
+              "body": "Score & Fold Square\n⍞ Materials: 6\" x 6\" paper, awl, ruler\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "15m Sloyd: Intro - Lesson 15",
+              "body": "Score & Fold Cube\n⍞ Materials: 2\" x 8\" paper, awl, ruler\n\n➜ VIEW\nTutorial video\n∞ Video Link: Score & Fold Cube\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "15m Sloyd: Intro - Lesson 16",
+              "body": "Score & Fold Cube\n⍞ Materials: 2\" x 8\" paper, awl, ruler\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "15m Sloyd: Intro - Lesson 17",
+              "body": "Score & Fold Rectangular Prism\n⍞ Materials: 4\" x 8\" paper, awl, ruler\n\n➜ VIEW\nTutorial video\n∞ Video Link: Score & Fold Rectangular Prism\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "15m Sloyd: Intro - Lesson 18",
+              "body": "Score & Fold Rectangular Prism\n⍞ Materials: 4\" x 8\" paper, awl, ruler\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "15m Sloyd: Intro - Lesson 19",
+              "body": "Score & Fold Airplane\n⍞ Materials: printed pattern, awl, ruler\n\n➜ VIEW\nTutorial video\n∞ Video Link: Score & Fold Airplane\n∞ Image Link: Airplane Pattern\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "15m Sloyd: Intro - Lesson 20",
+              "body": "Score & Fold Airplane\n⍞ Materials: printed pattern, awl, ruler\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "15m Sloyd: Intro - Lesson 21",
+              "body": "Loop & Curl Pinwheel\n⍞ Materials: 6\" x 6\" paper, scissors, awl, ruler, pencil, dowel rod, brad\n\n➜ VIEW\nTutorial video\n∞ Video Link: Loop & Curl Pinwheel\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "15m Sloyd: Intro - Lesson 22",
+              "body": "Loop & Curl Pinwheel\n⍞ Materials: 6\" x 6\" paper, scissors, awl, ruler, pencil, dowel rod, brad\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "15m Sloyd: Intro - Lesson 23",
+              "body": "Catch-Up Day\n\n➜ CATCH UP \nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "15m Sloyd: Intro - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS \nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "15m Sloyd: Intro - Lesson 25",
+              "body": "Fold & Cut Stars\n⍞ Materials: 6\" x 6\" paper, scissors\n\n➜ VIEW\nTutorial video\n∞ Video Link: Fold & Cut Stars\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "15m Sloyd: Intro - Lesson 26",
+              "body": "Fold & Cut Stars\n⍞ Materials: 6\" x 6\" paper, scissors\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "15m Sloyd: Intro - Lesson 27",
+              "body": "Fold & Cut Snowflakes\n⍞ Materials: 8.5\" x 11\" paper, scissors\n\n➜ VIEW\nTutorial video\n∞ Video Link: Fold & Cut Snowflakes\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "15m Sloyd: Intro - Lesson 28",
+              "body": "Fold & Cut Snowflakes\n⍞ Materials: 8.5\" x 11\" paper, scissors\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "15m Sloyd: Intro - Lesson 29",
+              "body": "Pleated Fan\n⍞ Materials: 6\" x 6\" paper\n\n➜ VIEW\nTutorial video\n∞ Video Link: Pleated Fan\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "15m Sloyd: Intro - Lesson 30",
+              "body": "Pleated Fan\n⍞ Materials: 6\" x 6\" paper\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "15m Sloyd: Intro - Lesson 31",
+              "body": "Pleated Accordion\n⍞ Materials: six strips 1\" x 11\" paper, glue stick\n\n➜ VIEW\nTutorial video\n∞ Video Link: Pleated Accordion\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "15m Sloyd: Intro - Lesson 32",
+              "body": "Pleated Accordion\n⍞ Materials: six strips 1\" x 11\" paper, glue stick\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "15m Sloyd: Intro - Lesson 33",
+              "body": "Using Tabs: Cube\n⍞ Materials: printed pattern, glue, scissors, ruler, awl (or pencil)\n\n➜ VIEW\nTutorial video\n∞ Video Link: Using Tabs: Cube\n∞ Image Link: Cube Pattern\n\n➜ PRACTICE\nWork on the model together. Demonstrate instructions one step at a time.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "15m Sloyd: Intro - Lesson 34",
+              "body": "Using Tabs: Cube\n⍞ Materials: printed pattern, glue, scissors, ruler, awl (or pencil)\n\n➜ DISCUSS\nWhat could you do with this project to make a gift? \n\n➜ PRACTICE\nRepeat the project; make gifts.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "15m Sloyd: Intro - Lesson 35",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "15m Sloyd: Intro - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -185,6 +185,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Playground Games",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "20m Playground Games - Lesson 1",
+              "body": "Movement Skills\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n  \n➜ READ \nMovement skills and make sure student knows how to gallop, skip, etc.\nThe Ultimate Homeschool P.E. Game Book  \n\"Games for Enhancing Movement Skills\" p.144  \n\n➜ PLAY \nLittle Brown Bear or Martian p.144-145",
+              "teacherNotes": "• Afternoon Extension (Optional)\nMay play games during free play time during the term."
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "20m Playground Games - Lesson 2",
+              "body": "Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ READ long rope jumping and gather supplies for the term.\nThe Ultimate Homeschool P.E. Game Book  \n\"Long Rope Jumping\"  p.127  \n\n➜ PLAY\nJump the Stick p.177",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "20m Playground Games - Lesson 3",
+              "body": "Movement Skills\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nOctopus or Sunday p.145",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "20m Playground Games - Lesson 4",
+              "body": "Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nHigh Water p.177",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "20m Playground Games - Lesson 5",
+              "body": "Movement Skills\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nTrees p.146",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "20m Playground Games - Lesson 6",
+              "body": "Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nPendulum Jump p.177",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "20m Playground Games - Lesson 7",
+              "body": "Throwing and Catching\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Beanbag (1), Cones (2)  \n\n➜ PLAY\nStep Away p.147",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "20m Playground Games - Lesson 8",
+              "body": "Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nRun Through p.177",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "20m Playground Games - Lesson 9",
+              "body": "Throwing and Catching\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Beanbag (1), Cones (2)  \n\n➜ PLAY\nStep Away p.147",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "20m Playground Games - Lesson 10",
+              "body": "Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nRegular Jumping or Hot Pepper p.178",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "20m Playground Games - Lesson 11",
+              "body": "Chasing and Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Jump Ropes (2)  \n\n➜ PLAY\nDuck Duck Goose (One-on-One) p.148",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "20m Playground Games - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "20m Playground Games - Lesson 13",
+              "body": "Chasing, Fleeing, and Math Skills\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Dice (2)  \n\n➜ PLAY\nRoll & Run p.149",
+              "teacherNotes": "• Afternoon Extension\nMay play games during free play time during the term."
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "20m Playground Games - Lesson 14",
+              "body": "Regular Long Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nRegular Jumping and Jump Stunts p.178",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "20m Playground Games - Lesson 15",
+              "body": "Chasing and Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Beanbag (1) \n\n➜ PLAY\nSteal the Beanbag p.150",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "20m Playground Games - Lesson 16",
+              "body": "Jumping Higher\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Long Jump Rope  \n\n➜ PLAY\nThe Rising Bridge p.178",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "20m Playground Games - Lesson 17",
+              "body": "Familiar Game with Chasing/Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Jump Ropes (2)  \n\n➜ PLAY\nRock Paper Scissors p.151",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "20m Playground Games - Lesson 18",
+              "body": "First Step in Rope Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope for each student\n\nPREP: Read Individual Rope Jumping and gather rope for each student.\nThe Ultimate Homeschool P.E. Game Book  \n\"Individual Rope Jumping\"  p.179-180  \n\n➜ PLAY\nTwo Foot Jump p.180",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "20m Playground Games - Lesson 19",
+              "body": "Running, Movement Skills\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Jump Ropes (2)  \n\n➜ PLAY\nRed Light p.152",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "20m Playground Games - Lesson 20",
+              "body": "Run in Place Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope \n\n➜ PLAY\nAlternate Foot Step p.180",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "20m Playground Games - Lesson 21",
+              "body": "Motor Skills/Cardiovascular Fitness\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Beanbags (8), Hula hoops (1 per player plus 1)  \n\n➜ PLAY\nScurrying Squirrels p.153",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "20m Playground Games - Lesson 22",
+              "body": "Challenging Jumping Pattern\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope   \n\n➜ PLAY\nDouble Side Swing Jump p.180",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "20m Playground Games - Lesson 23",
+              "body": "Game Choice\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nYour choice of any game from the term.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "20m Playground Games - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "20m Playground Games - Lesson 25",
+              "body": "Chasing and Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Something to Identify Tagger (optional)  \n\n➜ READ \nTag games.\nThe Ultimate Homeschool P.E. Game Book  \n\"Tag Games\"  p.154  \n\n➜ PLAY\nBridge Tag p.154",
+              "teacherNotes": "• Afternoon Extension (Optional)\nMay play games during free play time during the term."
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "20m Playground Games - Lesson 26",
+              "body": "Straddle Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope  \n\n➜ PLAY\nStraddle Jump p.181",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "20m Playground Games - Lesson 27",
+              "body": "Chasing and Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Bean Bag (1 per player)  \n\n➜ PLAY\nFirst Aid Tag p.155  \n\n➜ NOTE: Taggers use beanbags to tag other players. When other players get 3 \"injuries\" they need to get a beanbag to identify them as an additional tagger.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "20m Playground Games - Lesson 28",
+              "body": "Two Foot Sideways Jumping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope  \n\n➜ PLAY\nMountain Skier p.181",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "20m Playground Games - Lesson 29",
+              "body": "Chasing and Fleeing\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nFunny Face Tag p.155",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "20m Playground Games - Lesson 30",
+              "body": "Jumping While Sidestepping\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope  \n\n➜ PLAY\nShuffle Step p.181",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "20m Playground Games - Lesson 31",
+              "body": "Chasing/Fleeing Leapfrog Style\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nLeapfrog Tag p.156",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "20m Playground Games - Lesson 32",
+              "body": "Challenging Jump Rope Step\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope  \n\n➜ PLAY\nBleking Step p.182",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "20m Playground Games - Lesson 33",
+              "body": "Chasing and Fleeing, with Crawling\n⍞ Materials: The Ultimate Homeschool P.E. Game Book\n\n➜ PLAY\nStuck in the Mud p.157",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "20m Playground Games - Lesson 34",
+              "body": "Game Choice/Difficult Jump\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Short Jump Rope \n\n➜ PLAY\nYour choice of jump rope step from the term or the challenging jump step called Double Unders. p.182",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "20m Playground Games - Lesson 35",
+              "body": "Game Choice\n⍞ Materials: The Ultimate Homeschool P.E. Game Book, Supplies for Chosen Game\n\n➜ PLAY\nYour choice of tag game.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "20m Playground Games - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nThere are no exams for this course.",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

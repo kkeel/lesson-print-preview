@@ -136,6 +136,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Microbiology Labs",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "60m Microbiology Labs - Lesson 1",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY\nContinue reading p.3-51. Then, skim through the rest of the book and plot out a rough plan of which experiments you'd like to explore. Order the needed supplies. Home Scientist has a kit that contains the basic supplies needed. You can add on bacterial cultures and prepared slides, if desired. If you order supplies elsewhere, you can still order the DVD with answers to the review questions in the book and high-resolution images as a separate item. As the introductory material in the book says, if you decide to do labs that require bacterial cultures or prepared slides of certain items that you cannot procure locally, you will need to order those items from Home Scientist ahead of time. They suggest that you could use the high-resolution images that come with their DVD kit instead of purchasing slides.\n\n➜ VIEW        \n∞ Link: Home Scientist",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "60m Microbiology Labs - Lesson 2",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY\nToday, you will complete LAB I-1: Using a Microscope. Gather all of the needed materials. Prepare your Lab Notebook for the experiment. Read the lab carefully before beginning and adhere to all safety requirements. Record what you do and what you observe in your Lab Notebook. Then clean up and dispose of any materials as instructed.  \n\nComplete the lab write-up in your notebook, including the review questions. After you have finished your work, use the answers in the PDF that came with your supplies and see if there was anything significant that you did not understand. Use your Biology textbook from Grade 10 and the internet to learn more or aid in understanding terms and concepts.  \n\nYou will complete your lab report following the book's guidelines. Choose 6 throughout the year to complete as full lab reports. Use what you have learned about writing lab reports. Use the guidelines for the rest of your reports.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "60m Microbiology Labs - Lesson 3",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "60m Microbiology Labs - Lesson 4",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "60m Microbiology Labs - Lesson 5",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "60m Microbiology Labs - Lesson 6",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "60m Microbiology Labs - Lesson 7",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "60m Microbiology Labs - Lesson 8",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "60m Microbiology Labs - Lesson 9",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "60m Microbiology Labs - Lesson 10",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "60m Microbiology Labs - Lesson 11",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "60m Microbiology Labs - Lesson 12",
+              "body": "Exam Week \n\n➜ EXAMS\nAnswer question(s) related to course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "60m Microbiology Labs - Lesson 13",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY\nContinue lab work, and write up your report after completing each lab.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "60m Microbiology Labs - Lesson 14",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "60m Microbiology Labs - Lesson 15",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "60m Microbiology Labs - Lesson 16",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "60m Microbiology Labs - Lesson 17",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments \n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "60m Microbiology Labs - Lesson 18",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "60m Microbiology Labs - Lesson 19",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "60m Microbiology Labs - Lesson 20",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "60m Microbiology Labs - Lesson 21",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "60m Microbiology Labs - Lesson 22",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments \n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "60m Microbiology Labs - Lesson 23",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "60m Microbiology Labs - Lesson 24",
+              "body": "Exam Week \n\n➜ EXAMS\nAnswer question(s) related to course.",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "60m Microbiology Labs - Lesson 25",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY \nContinue lab work, writing up your report after completing each lab.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "60m Microbiology Labs - Lesson 26",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "60m Microbiology Labs - Lesson 27",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments \n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "60m Microbiology Labs - Lesson 28",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "60m Microbiology Labs - Lesson 29",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "60m Microbiology Labs - Lesson 30",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "60m Microbiology Labs - Lesson 31",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "60m Microbiology Labs - Lesson 32",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "60m Microbiology Labs - Lesson 33",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "60m Microbiology Labs - Lesson 34",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "60m Microbiology Labs - Lesson 35",
+              "body": "⍞ Materials: Illustrated Guide to Home Biology Experiments\n\n➜ LAB DAY",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "60m Microbiology Labs - Lesson 36",
+              "body": "Exam Week \n\n➜ EXAMS\nAnswer question(s) related to course.",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

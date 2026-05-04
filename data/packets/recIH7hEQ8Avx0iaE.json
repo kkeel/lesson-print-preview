@@ -160,6 +160,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Story of Geometry: Part 2",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "15m Story of Geometry: Part 2 - Lesson 1",
+              "body": "The Rules of the Game \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ READ, NARRATE, & DISCUSS\nCh.10 p.79-81 (UK 72-75) \"With this\" - \"agreements and definitions.\"\n\n• How was Thales's use of geometry similar to and different from the Egyptians'?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "15m Story of Geometry: Part 2 - Lesson 2",
+              "body": "Circles: Terms, Definitions, & Rules \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.10 p.82-84 (UK 75-78) \"We can hardly\" - \"than two angles.\"\n\n➜ PRACTICE \nUsing your geometry tools, draw a line that is 2 inches long. Use this as the radius for a circle. What is the diameter? Using the bottom picture as a model, divide the circle into 6 equal parts.\n⍞ Image Resource: Materials: String, Straight-Edge, and Shadow p.83",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "15m Story of Geometry: Part 2 - Lesson 3",
+              "body": "Triangles: Terms, Definitions, & Rules\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.10 p.85-87 (UK 78-80) \"Speaking of\" - \"180 degrees.\"\n\n➜ PRACTICE\nUsing your geometry tools, construct a right triangle with a base that is 2 inches long. Construct a similar triangle with a base that is 4 inches long.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "15m Story of Geometry: Part 2 - Lesson 4",
+              "body": "Lines: Terms, Definitions, & Rules\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.10 p.88-91 (UK 81-84) \"Since two\" - \"Greek theoretical geometry!\"\n\n➜ PRACTICE\nLook at the picture. What must be the measure of angle 1? [Use what you know about equilateral triangles.] What about angle 2? [Use what you know about right triangles.] How do you know? Can you figure out the measures of the unlabeled angles?\n⍞ Image Resource: Materials: String, Straight-Edge, and Shadow p.90\n\n• Draw or paint a picture that shows how Pythagoras determined that the earth was round.",
+              "teacherNotes": "• IMPORTANT DATES\nPythagoras (c.570 B.C.-c.495 B.C.)"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "15m Story of Geometry: Part 2 - Lesson 5",
+              "body": "Pythagoras Studies with Thales\n⍞ Materials: String, Straight-Edge, and Shadow, World Wall Map\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.11 p.93-95 (UK 86-88) \"The early story\" - \"also spherical.\"\n\n➜ LOCATE \n⍞ Map Resource: World Wall Map\n∞ Map Link: Croton\nLook at the map and find Croton. Then find it on your wall map.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "15m Story of Geometry: Part 2 - Lesson 6",
+              "body": "Pythagoras and His Followers\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.11 p.96-97 (UK 88-90) \"And the radiant\" - \"meant mathematics.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "15m Story of Geometry: Part 2 - Lesson 7",
+              "body": "A Famous Theorem\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12 p.98-99 (UK 91-92) \"The most famous\" - \"Secret Brotherhood.\"\n\n• Copy the tile illustration on p.101. Pretend you are Pythagoras explaining this truth to your new initiates.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "15m Story of Geometry: Part 2 - Lesson 8",
+              "body": "Great Mathematical Discoveries\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12 p.100-101 (UK 92-94) \"The very term\" - \"hypotenuse.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "15m Story of Geometry: Part 2 - Lesson 9",
+              "body": "A Rigorous Proof\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12 p.102-103 (UK 94-95) \"Again he waited\" - \"showed plainly.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "15m Story of Geometry: Part 2 - Lesson 10",
+              "body": "Pythagoras' Theorem Defined\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12 p.104-105 (UK 96-97) \"Look again!\" - \"sacrifice renowned!\"\n\n➜ VIEW\nVideo on Pythagorean Theorem\n∞ Video Link: Pythagorean Theorem\n\n➜ PRACTICE\nConstruct your own 3-4-5 right triangle. Use cubes, tiles, or graph paper to prove the Pythagorean Theorem.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "15m Story of Geometry: Part 2 - Lesson 11",
+              "body": "Catch-Up Day \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "15m Story of Geometry: Part 2 - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nString, Straight-Edge, and Shadow",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "15m Story of Geometry: Part 2 - Lesson 13",
+              "body": "Dice of the Gods\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.13 p.106-107 (UK 98-99) \"As time went on\" - \"geometric figure.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "15m Story of Geometry: Part 2 - Lesson 14",
+              "body": "Regular Solids\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.13 p.108-109 (UK 99-101) \"Probably the next\" - \"of the universe.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "15m Story of Geometry: Part 2 - Lesson 15",
+              "body": "Building Shapes\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.13 p.110-111 (UK 101-103) \"The cube\" - \"triangular faces.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "15m Story of Geometry: Part 2 - Lesson 16",
+              "body": "The Dodecahedron \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.13 p.112-114 (UK 104-106) \"The Dodecahedron\" - \"of the gods.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "15m Story of Geometry: Part 2 - Lesson 17",
+              "body": "The Unspeakable Tragedy\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14 p.115-117 (UK 107-109) \"Before the Secret\" - \"on surest ground.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "15m Story of Geometry: Part 2 - Lesson 18",
+              "body": "Whole Numbers & Geometric Shapes\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14 p.118-119 (UK 109-112) \"Numbers, they\" - \"disastrous experiment.\"\n\n➜ PRACTICE\nLook at the pictures. What would be the next square number? What would be the next triangular number? Draw pictures.\n⍞ Image Resource: Materials: String, Straight-Edge, and Shadow p.118-119",
+              "teacherNotes": "• IMPORTANT DATES\nHippasus of Metapontum (c.500 B.C.)"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "15m Story of Geometry: Part 2 - Lesson 19",
+              "body": "Triangles & Irrational Number\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14 p.119-122 (UK 112-113) \"Presiding was\" - \"discovery of irrationals.\"",
+              "teacherNotes": "• IMPORTANT DATES\nPlato (c.428 B.C.-c.348 B.C.)\nPlato's Academy (est. c.387 B.C.)"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "15m Story of Geometry: Part 2 - Lesson 20",
+              "body": "The Golden Age & the Golden Mean\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.124-125 (UK 116-117) \"The second half of\" - \"partly a Pythagorean.\"",
+              "teacherNotes": "• IMPORTANT DATES\nEudoxus of Cnidus (c.390 B.C.-c.337 B.C.)"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "15m Story of Geometry: Part 2 - Lesson 21",
+              "body": "Plato's Academy\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.125-127 (UK 117-119) \"When his teacher\" - \"then in vogue.\"\n\n• Explain how Greek architects used a semicircle to construct a rectangle.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "15m Story of Geometry: Part 2 - Lesson 22",
+              "body": "Architecture: String & Straight-Edge\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.127-128 (UK 119-120) \"Like many Greek\" - \"former master Plato.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "15m Story of Geometry: Part 2 - Lesson 23",
+              "body": "Proportion & Geometric Quantities\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.129-130 (UK 120-121) \"This time, Exodus\" - \"this simplest Form.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "15m Story of Geometry: Part 2 - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nString, Straight-Edge, and Shadow",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "15m Story of Geometry: Part 2 - Lesson 25",
+              "body": "Right Triangles \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.131-133 (UK 121-123) \"Consider only\" - \"solved the problem!\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "15m Story of Geometry: Part 2 - Lesson 26",
+              "body": "The Root Five\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.133-134 (UK 123-125) \"But sir, protested\" - \"use of it.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "15m Story of Geometry: Part 2 - Lesson 27",
+              "body": "Proportions of the Human Body\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.135-136 (UK 125-126) \"The facade of\" - \"Divine Section.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "15m Story of Geometry: Part 2 - Lesson 28",
+              "body": "Geometric Construction of the Pentagon \n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 p.137-138 (UK 126-128) \"Yet the immediate\" - \"to come.\"\n\n• Explain how the lifting of the \"antimechanical taboo\" led to advancement in many areas.",
+              "teacherNotes": "• IMPORTANT DATES\nAristotle (385 B.C.-323 B.C.)\nThe Lyceum (est. 335 B.C.)\nAlexander the Great (356 B.C.-323 B.C.)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "15m Story of Geometry: Part 2 - Lesson 29",
+              "body": "A Royal Road After All\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.16 p.139-141 (UK 129-131) \"During the 4th\" - \"tackles and gear.\"",
+              "teacherNotes": "• IMPORTANT DATES\nArchimedes of Syracuse (287 B.C.-212 B.C.)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "15m Story of Geometry: Part 2 - Lesson 30",
+              "body": "Archimedes of Syracuse\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.16 p.141-143 (UK 131-133) \"The most illustrious\" - \"definitely proved.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "15m Story of Geometry: Part 2 - Lesson 31",
+              "body": "Three Famous Puzzles\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.16 p.144-148 (UK 133-138) \"So from the\" - \"pinnacle of its own.\"",
+              "teacherNotes": "• IMPORTANT DATES\nEratosthenes Measures Circumference of Earth (c.250 B.C.)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "15m Story of Geometry: Part 2 - Lesson 32",
+              "body": "The Whole, Round Earth\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.17 p.149-151 (UK 139-142) \"Our story of ancient\" - \"of the earth.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "15m Story of Geometry: Part 2 - Lesson 33",
+              "body": "The Circumference of the Earth\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.17 p.152-153 (UK 143) \"But the sight\" - \"desperately needed.\"",
+              "teacherNotes": "• IMPORTANT DATES\nEuclid Publishes \"Elements\" (c.300 B.C.)"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "15m Story of Geometry: Part 2 - Lesson 34",
+              "body": "Euclid's Elements\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ RECAP \nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.17 p.154-155 (UK 143-145) \"Earlier Greeks had\" - \"and the shadow.\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "15m Story of Geometry: Part 2 - Lesson 35",
+              "body": "Catch-Up Day\n⍞ Materials: String, Straight-Edge, and Shadow\n\n➜ CATCH UP \nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "15m Story of Geometry: Part 2 - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nString, Straight-Edge, and Shadow",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -119,6 +119,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Introduction to Engineering Labs",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "60m Introduction to Engineering Labs - Lesson 1",
+              "body": "⍞ Materials: internet access\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nIf you'd like to sample different areas of engineering, begin with the structural engineering project linked, The Leaning Tower of Pasta. Or you might find your own idea by exploring the Science Buddies website. The filters on the left side of the page allow you to narrow your results. Once you have chosen a project, let your teacher know if you need any materials. Your project might take the whole year or you might finish it in just a few weeks. Whenever you finish your project, select another one! Record your work and your observations in your lab notebook.\n∞ Website Link: The Leaning Tower of Pasta\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "60m Introduction to Engineering Labs - Lesson 2",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "60m Introduction to Engineering Labs - Lesson 3",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "60m Introduction to Engineering Labs - Lesson 4",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "60m Introduction to Engineering Labs - Lesson 5",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "60m Introduction to Engineering Labs - Lesson 6",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nIf you'd like to sample different areas of engineering, try the materials engineering project linked, Pounding Papyrus. Or you might find your own idea by exploring the Science Buddies website. The filters on the left side of the page allow you to narrow your results. Once you have chosen a project, let your teacher know if you need any materials. Your project might take the whole year or you might finish it in just a few weeks. Whenever you finish your project, select another one! Record your work and your observations in your lab notebook.\n∞ Website Link: Pounding Papyrus\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "60m Introduction to Engineering Labs - Lesson 7",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "60m Introduction to Engineering Labs - Lesson 8",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "60m Introduction to Engineering Labs - Lesson 9",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "60m Introduction to Engineering Labs - Lesson 10",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "60m Introduction to Engineering Labs - Lesson 11",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "60m Introduction to Engineering Labs - Lesson 12",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer exam questions from:\nProject Work",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "60m Introduction to Engineering Labs - Lesson 13",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nIf you'd like to sample different areas of engineering, try the mechanical engineering project linked, Choosing the Best Gear Ratio for Maximum Bike Speed. Or you might find your own idea by exploring the Science Buddies website. The filters on the left side of the page allow you to narrow your results. Once you have chosen a project, let your teacher know if you need any materials. Your project might take the whole year or you might finish it in just a few weeks. Whenever you finish your project, select another one! Record your work and your observations in your lab notebook.\n∞ Website Link: Choosing the Best Gear Ratio for Maximum Bike Speed\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "60m Introduction to Engineering Labs - Lesson 14",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "60m Introduction to Engineering Labs - Lesson 15",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "60m Introduction to Engineering Labs - Lesson 16",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "60m Introduction to Engineering Labs - Lesson 17",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "60m Introduction to Engineering Labs - Lesson 18",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "60m Introduction to Engineering Labs - Lesson 19",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nIf you'd like to sample different areas of engineering, try the electronics engineering project linked, Make Your Own Low-Power AM Radio Transmitter. Or you might find your own idea by exploring the Science Buddies website. The filters on the left side of the page allow you to narrow your results. Once you have chosen a project, let your teacher know if you need any materials. Your project might take the whole year or you might finish it in just a few weeks. Whenever you finish your project, select another one! Record your work and your observations in your lab notebook.\n∞ Website Link: Make Your Own Low-Power AM Radio Transmitter\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "60m Introduction to Engineering Labs - Lesson 20",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "60m Introduction to Engineering Labs - Lesson 21",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "60m Introduction to Engineering Labs - Lesson 22",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "60m Introduction to Engineering Labs - Lesson 23",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "60m Introduction to Engineering Labs - Lesson 24",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer exam questions from:\nProject Work",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "60m Introduction to Engineering Labs - Lesson 25",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nOr you might choose between the linked materials (Living Loom), electronic engineering projects(Obstacle-Detecting Cane with Arduino), or another project from the Science Buddies website. Once you have chosen a project, let your teacher know if you need any materials.\n∞ Website Link: Living Loom\n∞ Website Link: Obstacle-Detecting Cane with Arduino\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "60m Introduction to Engineering Labs - Lesson 26",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "60m Introduction to Engineering Labs - Lesson 27",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "60m Introduction to Engineering Labs - Lesson 28",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "60m Introduction to Engineering Labs - Lesson 29",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "60m Introduction to Engineering Labs - Lesson 30",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nIf there is a design problem in your home or community that you would like to tackle, use this time to research, design, and execute your solution.\n\nOr you might choose between the linked chemical formulation (Design Your Own Sports Drink), electronics engineering (Build a Magnetic Pet Door with Arduino) projects, or another project from the Science Buddies website. Note that the chemistry project only becomes an engineering project by extending it into the design phase! Once you have chosen a project, let your teacher know if you need any materials.\n∞ Website Link: Design Your Own Sports Drink\n∞ Website Link: Build a Magnetic Pet Door with Arduino\n∞ Website Link: Science Buddies",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "60m Introduction to Engineering Labs - Lesson 31",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "60m Introduction to Engineering Labs - Lesson 32",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "60m Introduction to Engineering Labs - Lesson 33",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "60m Introduction to Engineering Labs - Lesson 34",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "60m Introduction to Engineering Labs - Lesson 35",
+              "body": "⍞ Materials: by student choice & notebook\n\n➜ PROJECT\nContinue working on your project.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "60m Introduction to Engineering Labs - Lesson 36",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer exam questions from:\nProject Work",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

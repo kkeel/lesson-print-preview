@@ -162,6 +162,427 @@
           ]
         }
       ]
+    },
+    {
+      "type": "lessons",
+      "title": "Economics: Grade 12",
+      "linkPageUrl": "#",
+      "terms": [
+        {
+          "termNumber": 1,
+          "term": "Term 1",
+          "lessons": [
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 1,
+              "lessonLabel": "Lesson 1",
+              "title": "40m Economics: Grade 12 - Lesson 1",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 1\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ INTRO\nEconomics In One Lesson was first written in 1946 and has stayed in print since with only a few revised or updated editions. The subtitle states that it is the shortest and surest way to understand basic economics. That is our goal in this course. We want to walk into the room labeled Economics and begin to look around and see what is inside. This book will give us a good starting place to ponder some of the basic ideas. Other resources will be recommended for further study as we go along. Enjoy!\n\nDecide how you want to narrate. The book lends itself well to discussion especially after you get a few chapters in and start noticing statements and policy decisions in current news and events that relate to what you are reading. You may want to outline the chapter or write out the flow of his arguments. Narrate the chapter in sections as you read if narrating at the end is a challenge.\n\n➜ READ, NARRATE, & DISCUSS \nCh.1\n• What is \"the lesson?\" Write it out in your notebook.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 2,
+              "weekLabel": "Week 2",
+              "sequence": 2,
+              "lessonLabel": "Lesson 2",
+              "title": "40m Economics: Grade 12 - Lesson 2",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 2\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.2\n• Can you come up with some examples of the broken window fallacy?",
+              "teacherNotes": "If economics is a topic that you have a high interest in, consider using any extra time in your lessons to read Robert Murry's book. Here is a link to a free pdf.\n\n∞ PDF Link: Lessons for the Young Economist"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 3,
+              "weekLabel": "Week 3",
+              "sequence": 3,
+              "lessonLabel": "Lesson 3",
+              "title": "40m Economics: Grade 12 - Lesson 3",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 3\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.3\n• Who benefits from the broken window? Who suffers loss from it? Is the community better off as a result? Why is economics especially beset by fallacies?",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 4,
+              "lessonLabel": "Lesson 4",
+              "title": "40m Economics: Grade 12 - Lesson 4",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 4\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.4, p.31 - 33 \"that much power.\"\n• Generate some questions of your own for discussion.",
+              "teacherNotes": "Here are short videos that look at multiple sides of various economic issues. Use extra time in lessons to explore some of these topics.\n\n∞ Video Link: Both Sides of the Issue"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "lessonLabel": "Lesson 5",
+              "title": "40m Economics: Grade 12 - Lesson 5",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 5\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.4, p.33 \"Here again the\" - 36\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 6,
+              "weekLabel": "Week 6",
+              "sequence": 6,
+              "lessonLabel": "Lesson 6",
+              "title": "40m Economics: Grade 12 - Lesson 6",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 6\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.5\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 7,
+              "weekLabel": "Week 7",
+              "sequence": 7,
+              "lessonLabel": "Lesson 7",
+              "title": "40m Economics: Grade 12 - Lesson 7",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 7\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.6, p.40 - 43 \"less liquid form.\"\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "lessonLabel": "Lesson 8",
+              "title": "40m Economics: Grade 12 - Lesson 8",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 8\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.6, p.43 \"Sometimes he\" - 48\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "lessonLabel": "Lesson 9",
+              "title": "40m Economics: Grade 12 - Lesson 9",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 9\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.7, p.49 - 54 \"all on their backs?\"\n• Generate some questions of your own for discussion.",
+              "teacherNotes": "If interested, listen to Dr. Thomas Sowell, author of Basic Economics, discuss some of the economic issues of the day from 2010.\n\n∞ Video Link: Dr. Thomas Sowell"
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "lessonLabel": "Lesson 10",
+              "title": "40m Economics: Grade 12 - Lesson 10",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 10\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.7, p.54 \"Theories as false\" - 60\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 11,
+              "lessonLabel": "Lesson 11",
+              "title": "40m Economics: Grade 12 - Lesson 11",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 11\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.8\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 12,
+              "weekLabel": "Week 12",
+              "sequence": 12,
+              "lessonLabel": "Lesson 12",
+              "title": "40m Economics: Grade 12 - Lesson 12",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 12\nExam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nEconomics in One Lesson",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 2,
+          "term": "Term 2",
+          "lessons": [
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "lessonLabel": "Lesson 13",
+              "title": "40m Economics: Grade 12 - Lesson 13",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 13\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.9\n• Generate some questions of your own for discussion.",
+              "teacherNotes": "Something to ponder.\n\n∞ Video Link: I, Pencil: The Movie"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "lessonLabel": "Lesson 14",
+              "title": "40m Economics: Grade 12 - Lesson 14",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 14\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.9\n• Generate some questions of your own for discussion.",
+              "teacherNotes": "Something to ponder.\n\n∞ Video Link: How to Make a $1500 Sandwich in Only 6 Months"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 15,
+              "lessonLabel": "Lesson 15",
+              "title": "40m Economics: Grade 12 - Lesson 15",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 15\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.10\n• Generate some questions of your own for discussion.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "lessonLabel": "Lesson 16",
+              "title": "40m Economics: Grade 12 - Lesson 16",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 16\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.11, p.74 - 79 \"cost us nothing.\"\n\n➜VIEW\n∞ Video Link: Why is There Corn in Your Coke?",
+              "teacherNotes": "Something to ponder.\n\n∞ Video Link: Why is There Corn in Your Coke?"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "lessonLabel": "Lesson 17",
+              "title": "40m Economics: Grade 12 - Lesson 17",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 17\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.11, p.79 \"It is important\" - p. 84.\n\n➜VIEW\n∞ Video Link: Will Tariffs Hurt Americans?",
+              "teacherNotes": "Something to ponder.\n\n∞ Video Link: Will Tariffs Hurt Americans?"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "lessonLabel": "Lesson 18",
+              "title": "40m Economics: Grade 12 - Lesson 18",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 18\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.12, p.85 - 87 \"to be repaid.\"",
+              "teacherNotes": "Something to ponder.\n \n∞ Video Link: The Hockey Stick of Human Prosperity"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "lessonLabel": "Lesson 19",
+              "title": "40m Economics: Grade 12 - Lesson 19",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 19\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.12, p.87 \"Americans citizens\" - p.89",
+              "teacherNotes": "Something to ponder.\n\n∞ Video Link: Rosling's 200 Countries"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "lessonLabel": "Lesson 20",
+              "title": "40m Economics: Grade 12 - Lesson 20",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 20\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.13",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "lessonLabel": "Lesson 21",
+              "title": "40m Economics: Grade 12 - Lesson 21",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 21\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.14",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "lessonLabel": "Lesson 22",
+              "title": "40m Economics: Grade 12 - Lesson 22",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 22\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.15",
+              "teacherNotes": "As you have seen, the Stossel videos are short and give his perspective on an issue, you might enjoy exploring his wide range of economic topics.\n\n∞ Video Link: Stossel Classroom"
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "lessonLabel": "Lesson 23",
+              "title": "40m Economics: Grade 12 - Lesson 23",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 23\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.16",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 24,
+              "weekLabel": "Week 12",
+              "sequence": 24,
+              "lessonLabel": "Lesson 24",
+              "title": "40m Economics: Grade 12 - Lesson 24",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 24\nExam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nEconomics in One Lesson",
+              "teacherNotes": ""
+            }
+          ]
+        },
+        {
+          "termNumber": 3,
+          "term": "Term 3",
+          "lessons": [
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "lessonLabel": "Lesson 25",
+              "title": "40m Economics: Grade 12 - Lesson 25",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 25\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.17",
+              "teacherNotes": "Another source to learn more about economics:\n∞ Video Link: Marginal Revolution University"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "lessonLabel": "Lesson 26",
+              "title": "40m Economics: Grade 12 - Lesson 26",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 26\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.18\n\n➜ VIEW\n∞ Video Link: How Rent Control Hurts Renters",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 27,
+              "lessonLabel": "Lesson 27",
+              "title": "40m Economics: Grade 12 - Lesson 27",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 27\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh. 19\n\n➜ VIEW\n∞ Video Link: Minimum Wage Hurts Beginners",
+              "teacherNotes": "An important economic idea:\n∞ Video Link: What is Subjective Value?"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "lessonLabel": "Lesson 28",
+              "title": "40m Economics: Grade 12 - Lesson 28",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 28\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.20",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 29,
+              "lessonLabel": "Lesson 29",
+              "title": "40m Economics: Grade 12 - Lesson 29",
+              "body": "⬚ 40m Econ/Civics: Grade 12- Lesson 29\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.21",
+              "teacherNotes": "An important economic idea:\n∞ Video Link: What is Subjective Value?"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "lessonLabel": "Lesson 30",
+              "title": "40m Economics: Grade 12 - Lesson 30",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 30\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.22\n\n➜VIEW\n∞ Video Link: Bad Government Brings Bad Inflation",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 31,
+              "lessonLabel": "Lesson 31",
+              "title": "40m Economics: Grade 12 - Lesson 31",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 31\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.23",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "lessonLabel": "Lesson 32",
+              "title": "40m Economics: Grade 12 - Lesson 32",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 32\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.24 p.177-184 \"have been achieved\"",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "lessonLabel": "Lesson 33",
+              "title": "40m Economics: Grade 12 - Lesson 33",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 33\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.24, p.184 \"The enemies of saving\" - 190.",
+              "teacherNotes": ""
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 34,
+              "weekLabel": "Week 10",
+              "sequence": 34,
+              "lessonLabel": "Lesson 34",
+              "title": "40m Economics: Grade 12 - Lesson 34",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 34\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.25\n• What does Hazlitt mean by the “insane doctrine of wealth through scarcity?”\n\n➜ VIEW\n∞ Video Link: Hazlitt's Lesson Restated\nAre there more consequences that you can think of that aren't mentioned?",
+              "teacherNotes": "If you are using the free PDF linked in the program, you don't have the revised edition's last two chapters. Here is a PDF of Ch.25-26.\n∞ PDF Link: Chapters 25-26"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 35,
+              "lessonLabel": "Lesson 35",
+              "title": "40m Economics: Grade 12 - Lesson 35",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 35\n⍞ Materials: Economics in One Lesson, notebook\n\n➜ READ, NARRATE, & DISCUSS \nCh.26",
+              "teacherNotes": "Take this fun quiz!\n∞ PDF Link: Economics in One Lesson Quiz"
+            },
+            {
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 36,
+              "weekLabel": "Week 12",
+              "sequence": 36,
+              "lessonLabel": "Lesson 36",
+              "title": "40m Economics: Grade 12 - Lesson 36",
+              "body": "⬚ 40m Econ/Civics: Grade 12 - Lesson 36\nExam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nEconomics in One Lesson",
+              "teacherNotes": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
