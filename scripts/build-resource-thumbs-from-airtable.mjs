@@ -9,7 +9,9 @@ const execFileAsync = promisify(execFile);
 const __dirname = path.dirname(url.fileURLToPath(import.meta.url));
 
 const AIRTABLE_PAT     = process.env.AIRTABLE_PAT || process.env.AIRTABLE_TOKEN;
-const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
+const AIRTABLE_BASE_ID =
+  process.env.AIRTABLE_CURRICULUM_BASE_ID ||
+  process.env.AIRTABLE_BASE_ID;
 const ROTATION         = process.env.ROTATION || "3";
 
 if (!AIRTABLE_PAT || !AIRTABLE_BASE_ID) {
