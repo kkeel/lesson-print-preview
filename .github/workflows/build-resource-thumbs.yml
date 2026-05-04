@@ -35,13 +35,13 @@ jobs:
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           ROTATION: "3"
         run: |
-          node tools/build-resource-thumbs-from-airtable.mjs
+          node scripts/build-resource-thumbs-from-airtable.mjs
 
       - name: Commit and push images (if changed)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add img/resources
+          git add images/resource_covers
           if git diff --cached --quiet; then
             echo "No image changes to commit"
           else
