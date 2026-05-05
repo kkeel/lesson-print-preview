@@ -1381,7 +1381,38 @@ a:hover {
 
 .edit-button {
   font-size: 8px;
-  padding: 4px 6px;
-  background: #fff7d6;
-  border-color: #d8c36a;
+  padding: 4px 7px;
+  background: #596e5e;
+  color: #ffffff;
+  border-color: #596e5e;
+  text-decoration: none;
+}
+
+.edit-button:hover {
+  background: #485a4d;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.lesson-page-linkbox {
+  grid-template-columns: max-content 0.52in;
+  gap: 0.05in;
+  justify-content: end;
+}
+
+.lesson-page-linkbox a {
+  text-align: right;
+}
+
+.header-block,
+.howto-block {
+  position: relative;
+}
+
+.header-margin-edit,
+.howto-margin-edit {
+  position: absolute;
+  left: -0.48in;
+  top: 0.08in;
+  z-index: 5;
 }
