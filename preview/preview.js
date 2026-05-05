@@ -144,11 +144,12 @@ function renderCoverSection(section, packetData) {
 
 function renderHeaderSection(section, packetData) {
   let html = `<div class="page-flow header-section">`;
+  const headerEditUrl = section.editUrl || "";
 
   html += renderHeaderIntro(packetData);
 
   (section.items || []).forEach(item => {
-    html += renderHeaderItem(item);
+    html += renderHeaderItem(item, headerEditUrl);
   });
 
   html += `</div>`;
@@ -180,7 +181,7 @@ function renderHeaderIntro(packetData) {
   `;
 }
 
-function renderHeaderItem(item) {
+function renderHeaderItem(item, headerEditUrl = "") {
   if (item.kind === "about-group" || item.kind === "tips-group") {
     const iconSrc =
       item.kind === "about-group"
@@ -189,6 +190,9 @@ function renderHeaderItem(item) {
   
     return `
       <section class="flow-block header-block header-group-block">
+        ${headerEditUrl ? `
+          <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+        ` : ""}
         <div class="header-panel">
           <div class="header-panel-icon-col">
             <img src="${iconSrc}" alt="${escapeHtml(item.entries?.[0]?.title || item.title || "")}" class="header-panel-icon" />
@@ -212,6 +216,9 @@ function renderHeaderItem(item) {
   
     return `
       <section class="flow-block header-block header-group-block">
+        ${headerEditUrl ? `
+          <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+        ` : ""}
         <div class="header-panel">
           <div class="header-panel-icon-col">
             <img src="${iconSrc}" alt="Planning & Prep" class="header-panel-icon" />
@@ -238,6 +245,9 @@ function renderHeaderItem(item) {
   
     return `
       <section class="flow-block header-block header-group-block">
+        ${headerEditUrl ? `
+          <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+        ` : ""}
         <div class="header-panel">
           <div class="header-panel-icon-col">
             <img src="${iconSrc}" alt="Books & Resources" class="header-panel-icon" />
@@ -289,6 +299,9 @@ function renderHeaderItem(item) {
   
       return `
         <section class="flow-block header-block header-group-block">
+          ${headerEditUrl ? `
+            <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+          ` : ""}
           <div class="header-panel">
             <div class="header-panel-icon-col">
               <img src="${iconSrc}" alt="Supplies" class="header-panel-icon" />
@@ -351,6 +364,9 @@ function renderHeaderItem(item) {
   
     return `
       <section class="flow-block header-block header-group-block">
+        ${headerEditUrl ? `
+          <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+        ` : ""}
         <div class="header-panel">
           <div class="header-panel-icon-col">
             <img src="${iconSrc}" alt="Scheduling" class="header-panel-icon" />
@@ -436,6 +452,9 @@ function renderHeaderItem(item) {
   
       return `
         <section class="flow-block header-block header-group-block">
+          ${headerEditUrl ? `
+            <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+          ` : ""}
           <div class="header-panel">
             <div class="header-panel-icon-col">
               <img src="${iconSrc}" alt="Quick Links" class="header-panel-icon" />
@@ -503,6 +522,9 @@ function renderHowToSection(section) {
       <div class="howto-block-list">
         ${(page.blocks || []).map(block => `
           <section class="flow-block howto-block">
+            ${page.editUrl ? `
+              <a href="${escapeHtml(page.editUrl)}" target="_blank" class="preview-only edit-button howto-margin-edit">Edit</a>
+            ` : ""}
             <div class="howto-panel">
               <div class="howto-icon-col">
                 ${block.image ? `
