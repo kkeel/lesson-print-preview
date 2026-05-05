@@ -530,7 +530,9 @@ function renderLessonsSection(section) {
   (section.terms || []).forEach((termGroup, index) => {
     html += `
       <div class="page-flow lessons-section ${index === 0 ? "section-break" : "term-start"}">
-        <div class="term-banner">${escapeHtml(termGroup.term || "")}</div>
+        <div class="term-banner">
+          ${escapeHtml(termGroup.term || "")}
+        </div>
         ${(termGroup.lessons || []).map(lesson => renderLesson(lesson, termGroup.term)).join("")}
       </div>
     `;
