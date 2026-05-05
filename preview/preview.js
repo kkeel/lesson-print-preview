@@ -540,30 +540,44 @@ function renderLessonsSection(section) {
 }
 
 function renderLesson(lesson, term) {
+  const title = lesson.title || "";
+  const body = lesson.body || "";
+
+  // Split sections like ➜ INTRO, ➜ PRACTICE, etc.
+  const sections = body.split(/➜\s*/).filter(Boolean);
+
   return `
     <section class="flow-block lesson-block">
+      
       <div class="lesson-topbar">
-        <div class="lesson-course">${escapeHtml(lesson.courseTitle || "")}</div>
+        <div class="lesson-course">${escapeHtml(title)}</div>
+
         <div class="lesson-linkbox">
-          <a href="${escapeHtml(lesson.linkReference?.url || "#")}" target="_blank">${escapeHtml(lesson.linkReference?.label || "")}</a>
+          <div class="lesson-link-text">View Links</div>
           <div class="qr-placeholder small">QR</div>
         </div>
       </div>
 
-      <div class="lesson-meta">${escapeHtml(term || "")}</div>
-      <h2>WEEK ${escapeHtml(lesson.week || "")} ⬚ ${escapeHtml(lesson.duration || "")} ${escapeHtml(lesson.courseTitle || "")} - Lesson ${escapeHtml(lesson.lessonNumber || "")}</h2>
-      <h3>${escapeHtml(lesson.title || "")}</h3>
+      <div class="lesson-meta">
+        ${escapeHtml(term || "")} • ${escapeHtml(lesson.weekLabel || "")}
+      </div>
 
-      ${(lesson.materials || []).length ? `
-        <p><strong>Materials:</strong> ${(lesson.materials || []).map(escapeHtml).join("; ")}</p>
-      ` : ""}
+      <h2 class="lesson-title">
+        ${escapeHtml(title)}
+      </h2>
 
-      ${(lesson.blocks || []).map(block => `
-        <div class="lesson-block-item">
-          <p><strong>${escapeHtml(block.label || "")}</strong></p>
-          <p>${nl2br(block.content || "")}</p>
-        </div>
-      `).join("")}
+      ${sections.map(section => {
+        const lines = section.split("\n");
+        const label = lines.shift();
+
+        return `
+          <div class="lesson-block-item">
+            <p class="lesson-block-label">${escapeHtml(label)}</p>
+            <p>${nl2br(lines.join("\n"))}</p>
+          </div>
+        `;
+      }).join("")}
+
     </section>
   `;
 }
