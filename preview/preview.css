@@ -1333,3 +1333,55 @@ a:hover {
     print-color-adjust: exact;
   }
 }
+
+.lesson-block {
+  position: relative;
+}
+
+.lesson-margin-edit {
+  position: absolute;
+  left: -0.48in;
+  top: 0.06in;
+  z-index: 5;
+}
+
+.lessons-section {
+  padding-top: 0.45in;
+}
+
+.lesson-page-header {
+  margin-bottom: 0.08in;
+  align-items: center;
+}
+
+.lesson-page-title {
+  font-size: 30px;
+}
+
+.lesson-page-linkbox {
+  grid-template-columns: 1fr 0.55in;
+  gap: 0.08in;
+}
+
+.lesson-page-linkbox a {
+  font-size: 9px;
+  line-height: 1.12;
+}
+
+.lesson-page-qr-placeholder {
+  width: 0.52in;
+  height: 0.52in;
+  font-size: 8px;
+}
+
+.term-banner {
+  font-size: 18px;
+  padding: 5px 8px;
+}
+
+.edit-button {
+  font-size: 8px;
+  padding: 4px 6px;
+  background: #fff7d6;
+  border-color: #d8c36a;
+}
