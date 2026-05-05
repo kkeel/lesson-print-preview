@@ -1416,3 +1416,44 @@ a:hover {
   top: 0.08in;
   z-index: 5;
 }
+
+/* =========================
+   Lesson polish
+   ========================= */
+
+.lesson-body {
+  line-height: 1.28;
+}
+
+.lesson-week-col {
+  letter-spacing: 0.02em;
+}
+
+.lesson-title-line {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.lesson-notes-col {
+  font-size: 9.3px;
+}
+
+.lesson-block {
+  border-top-width: 1px;
+}
+
+.edit-button {
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+/* Friendlier grayscale printing */
+@media print {
+  .lesson-notes-col {
+    background: #f2f2f2 !important;
+  }
+
+  .term-banner {
+    background: #444 !important;
+  }
+}
