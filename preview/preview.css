@@ -1181,35 +1181,155 @@ a:hover {
 }
 
 /* =========================
-   Lessons – New Layout
+   Lessons – PDF Layout
    ========================= */
 
-.lesson-block {
-  border-top: 2px solid #8da08c;
-  padding-top: 0.18in;
+.lessons-section {
+  min-height: 11in;
+  padding-top: 0.72in;
 }
 
-.lesson-title {
+.lesson-page-header {
+  display: grid;
+  grid-template-columns: 1fr 2.2in;
+  gap: 0.2in;
+  align-items: start;
+  margin-bottom: 0.22in;
+}
+
+.lesson-page-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 34px;
+  line-height: 1.1;
+  font-weight: 400;
+  color: #596e5e;
+  margin: 0;
+}
+
+.lesson-page-linkbox {
+  display: grid;
+  grid-template-columns: 1fr 0.75in;
+  gap: 0.12in;
+  align-items: start;
+  justify-content: end;
+}
+
+.lesson-page-linkbox a {
+  color: #2458d6;
+  text-decoration: underline;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 10px;
+  line-height: 1.18;
+}
+
+.lesson-page-qr-placeholder {
+  width: 0.7in;
+  height: 0.7in;
+  border: 1px dashed #999;
+  background: #f7f7f7;
+  color: #666;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.term-banner {
+  background: #596e5e;
+  color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 20px;
-  line-height: 1.2;
-  margin-bottom: 10px;
-  color: #596e5e;
+  line-height: 1.1;
+  font-weight: 400;
+  padding: 7px 8px;
+  margin: 0;
+  border-bottom: none;
 }
 
-.lesson-block-label {
+.lesson-list {
+  border-bottom: 1.5px solid #8da08c;
+}
+
+.lesson-block {
+  display: grid;
+  grid-template-columns: 0.65in 1fr 1.85in;
+  gap: 0;
+  margin: 0;
+  border-top: 1.5px solid #8da08c;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.lesson-block:first-child {
+  border-top: none;
+}
+
+.lesson-week-col {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 9px;
+  line-height: 1.1;
   font-weight: 700;
-  color: #596e5e;
-  margin-bottom: 4px;
+  color: #adb58f;
+  text-transform: uppercase;
+  padding: 0.06in 0.05in 0 0.04in;
 }
 
-.lesson-meta {
-  font-size: 11px;
-  color: #888;
-  margin-bottom: 8px;
+.lesson-main-col {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 9.5px;
+  line-height: 1.22;
+  color: #111111;
+  padding: 0.06in 0.12in 0.08in 0;
 }
 
-.lesson-link-text {
-  font-size: 11px;
-  margin-bottom: 4px;
+.lesson-title-line {
+  font-size: 9.5px;
+  line-height: 1.18;
+  margin-bottom: 0.035in;
+}
+
+.lesson-body {
+  font-size: 9.5px;
+  line-height: 1.22;
+  white-space: normal;
+}
+
+.lesson-notes-col {
+  background: #eef0f4;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 9.5px;
+  line-height: 1.22;
+  color: #111111;
+  padding: 0.06in 0.09in 0.08in;
+  min-height: 0.9in;
+}
+
+.lesson-edit-row {
+  margin-bottom: 0.05in;
+}
+
+.edit-button {
+  display: inline-block;
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 10px;
+  line-height: 1;
+  padding: 5px 7px;
+  border-radius: 999px;
+  background: #eef0f4;
+  color: #2458d6;
+  border: 1px solid #c6ccd6;
+  text-decoration: none;
+}
+
+@media print {
+  .preview-only {
+    display: none !important;
+  }
+
+  .term-banner,
+  .lesson-notes-col,
+  .lesson-page-qr-placeholder {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
 }
