@@ -563,16 +563,15 @@ function renderLesson(lesson) {
 
   return `
     <section class="flow-block lesson-block">
+      ${editUrl ? `
+        <a href="${escapeHtml(editUrl)}" target="_blank" class="preview-only edit-button lesson-margin-edit">Edit</a>
+      ` : ""}
+      
       <div class="lesson-week-col">
         ${escapeHtml(lesson.weekLabel || "")}
       </div>
 
       <div class="lesson-main-col">
-        ${editUrl ? `
-          <div class="preview-only lesson-edit-row">
-            <a href="${escapeHtml(editUrl)}" target="_blank" class="edit-button">Edit Lesson</a>
-          </div>
-        ` : ""}
 
         <div class="lesson-title-line">
           ⬚ ${escapeHtml(title)}
