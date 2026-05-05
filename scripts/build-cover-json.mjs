@@ -38,6 +38,7 @@ const LESSON_FIELDS = [
   "Course Connection Lookup",
   "Topic Connection Lookup",
   "Connect Header Pages",
+  "Header Edit URL",
   "Grade",
   "Schedule Info.",
   "Books",
@@ -79,6 +80,7 @@ const QUICK_LINK_FIELDS = [
 
 const HOW_TO_FIELDS = [
   "Teach/Approach",
+  "How To Edit URL",
   ...Array.from({ length: 15 }, (_, i) => `Prompt ${i + 1}`),
   ...Array.from({ length: 15 }, (_, i) => `Text ${i + 1}`),
   ...Array.from({ length: 15 }, (_, i) => `Image ID ${i + 1}`)
@@ -998,6 +1000,7 @@ function buildHowToSection(packetRecord, headerLookup) {
     pages.push({
       title: normalizeText(fields["Lesson Set Name"]),
       subtitle: teachApproach,
+      editUrl: normalizeText(rf["How To Edit URL"]),
       blocks
     });
   }
@@ -1174,6 +1177,7 @@ function buildPacket(record, headerLookup) {
       },
       {
         type: "header",
+        editUrl: normalizeText(fields["Header Edit URL"]),
         items: [
           ...headerItems.filter(item => item.kind !== "planning-prep-group"),
         
