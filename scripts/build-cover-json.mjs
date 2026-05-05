@@ -103,6 +103,7 @@ const COURSE_LESSON_FIELDS = [
   "Week Label",
   "Slot Order",
   "Lesson Sequence",
+  "Sort",
   "Lesson Title",
   "Lesson Body",
   "Teacher Notes",
@@ -1038,6 +1039,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
           weekNumber: Number(normalizeText(lf["Week"]) || 0),
           weekLabel: normalizeText(lf["Week Label"]),
           sequence: Number(normalizeText(lf["Lesson Sequence"]) || 0),
+          sort: Number(normalizeText(lf["Sort"]) || 0),
           lessonLabel: "",
           title: normalizeText(lf["Lesson Title"]),
           body: normalizeRichText(lf["Lesson Body"]),
@@ -1082,6 +1084,12 @@ function buildLessonsSection(packetRecord, headerLookup) {
   // ---------------------------------------
   const sortedLessons = lessons.sort((a, b) => {
     if (a.termNumber !== b.termNumber) return a.termNumber - b.termNumber;
+  
+    const aSort = Number(a.sort || 0);
+    const bSort = Number(b.sort || 0);
+  
+    if (aSort || bSort) return aSort - bSort;
+  
     if (a.weekNumber !== b.weekNumber) return a.weekNumber - b.weekNumber;
     return a.sequence - b.sequence;
   });
