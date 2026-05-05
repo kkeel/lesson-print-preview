@@ -22,6 +22,9 @@ const HOW_TO_IMAGE_VIEW_NAME = "Grid view";
 const LESSONS_TABLE_NAME = "Lessons";
 const LESSONS_VIEW_NAME = "Grid view";
 
+const COURSE_LESSONS_TABLE_NAME = "Course Lessons";
+const COURSE_LESSONS_VIEW_NAME = "Grid view";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -89,7 +92,21 @@ const LESSON_DETAIL_FIELDS = [
   "Lesson Label",
   "Lesson Title",
   "Lesson Body",
-  "Teacher Notes"
+  "Teacher Notes",
+  "Lesson_WritingURL"
+];
+
+const COURSE_LESSON_FIELDS = [
+  "Course",
+  "Term",
+  "Week",
+  "Week Label",
+  "Slot Order",
+  "Lesson Sequence",
+  "Lesson Title",
+  "Lesson Body",
+  "Teacher Notes",
+  "Lesson_WritingURL"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -994,42 +1011,84 @@ function buildHowToSection(packetRecord, headerLookup) {
 
 function buildLessonsSection(packetRecord, headerLookup) {
   const fields = packetRecord.fields || {};
-  const lessonIds = normalizeArray(fields["Lessons"]);
+  const setId = normalizeText(fields.setID) || packetRecord.id;
+
   const lessonDetailsById = headerLookup.lessonDetailsById || new Map();
+  const courseLessonsMap = headerLookup.courseLessonsByCourseId || new Map();
 
-  if (!lessonIds.length) return null;
+  const isCourseWithTopics =
+    normalizeArray(fields["Topic Connection"]).length > 0 &&
+    normalizeArray(fields["Course Connection"]).length === 0;
 
-  const lessons = [];
+  let lessons = [];
 
-  for (const lessonId of lessonIds) {
-    const lessonRecord = lessonDetailsById.get(lessonId);
-    if (!lessonRecord) continue;
+  // ---------------------------------------
+  // 1. COURSE WITH TOPICS → use Course Lessons if available
+  // ---------------------------------------
+  if (isCourseWithTopics) {
+    const courseLessonRecords = courseLessonsMap.get(setId) || [];
 
-    const lf = lessonRecord.fields || {};
+    if (courseLessonRecords.length) {
+      lessons = courseLessonRecords.map(record => {
+        const lf = record.fields || {};
 
-    const termNumber = Number(normalizeText(lf["Term"]) || 0);
-    const weekNumber = Number(normalizeText(lf["Week"]) || 0);
-    const sequence = Number(normalizeText(lf["Lesson Sequence"]) || 0);
-
-    lessons.push({
-      termNumber,
-      termLabel: termNumber ? `Term ${termNumber}` : "",
-      weekNumber,
-      weekLabel: normalizeText(lf["Week:"]),
-      sequence,
-      lessonLabel: normalizeText(lf["Lesson Label"]),
-      title: normalizeText(lf["Lesson Title"]),
-      body: normalizeRichText(lf["Lesson Body"]),
-      teacherNotes: normalizeRichText(lf["Teacher Notes"])
-    });
+        return {
+          termNumber: Number(normalizeText(lf["Term"]) || 0),
+          termLabel: lf["Term"] ? `Term ${lf["Term"]}` : "",
+          weekNumber: Number(normalizeText(lf["Week"]) || 0),
+          weekLabel: normalizeText(lf["Week Label"]),
+          sequence: Number(normalizeText(lf["Lesson Sequence"]) || 0),
+          lessonLabel: "",
+          title: normalizeText(lf["Lesson Title"]),
+          body: normalizeRichText(lf["Lesson Body"]),
+          teacherNotes: normalizeRichText(lf["Teacher Notes"]),
+          editUrl: normalizeText(lf["Lesson_WritingURL"])
+        };
+      });
+    }
   }
 
+  // ---------------------------------------
+  // 2. FALLBACK → Topic packets & standalone courses
+  // ---------------------------------------
+  if (!lessons.length) {
+    const lessonIds = normalizeArray(fields["Lessons"]);
+
+    for (const lessonId of lessonIds) {
+      const lessonRecord = lessonDetailsById.get(lessonId);
+      if (!lessonRecord) continue;
+
+      const lf = lessonRecord.fields || {};
+
+      lessons.push({
+        termNumber: Number(normalizeText(lf["Term"]) || 0),
+        termLabel: lf["Term"] ? `Term ${lf["Term"]}` : "",
+        weekNumber: Number(normalizeText(lf["Week"]) || 0),
+        weekLabel: normalizeText(lf["Week:"]),
+        sequence: Number(normalizeText(lf["Lesson Sequence"]) || 0),
+        lessonLabel: normalizeText(lf["Lesson Label"]),
+        title: normalizeText(lf["Lesson Title"]),
+        body: normalizeRichText(lf["Lesson Body"]),
+        teacherNotes: normalizeRichText(lf["Teacher Notes"]),
+        editUrl: normalizeText(lf["Lesson_WritingURL"])
+      });
+    }
+  }
+
+  if (!lessons.length) return null;
+
+  // ---------------------------------------
+  // SORT
+  // ---------------------------------------
   const sortedLessons = lessons.sort((a, b) => {
     if (a.termNumber !== b.termNumber) return a.termNumber - b.termNumber;
     if (a.weekNumber !== b.weekNumber) return a.weekNumber - b.weekNumber;
     return a.sequence - b.sequence;
   });
 
+  // ---------------------------------------
+  // GROUP INTO TERMS
+  // ---------------------------------------
   const termsByNumber = new Map();
 
   for (const lesson of sortedLessons) {
@@ -1203,12 +1262,32 @@ async function main() {
     LESSONS_VIEW_NAME,
     LESSON_DETAIL_FIELDS
   );
+
+  const courseLessonRecords = await fetchAllRecords(
+    COURSE_LESSONS_TABLE_NAME,
+    COURSE_LESSONS_VIEW_NAME,
+    COURSE_LESSON_FIELDS
+  );
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
-  const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
+const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
 
-  const headerLookup = buildHeaderLookup(headerRecords);
+const headerLookup = buildHeaderLookup(headerRecords);
 
+headerLookup.courseLessonsByCourseId = new Map();
+
+  for (const record of courseLessonRecords) {
+    const fields = record.fields || {};
+    const courseIds = normalizeArray(fields["Course"]);
+  
+    for (const courseId of courseIds) {
+      if (!headerLookup.courseLessonsByCourseId.has(courseId)) {
+        headerLookup.courseLessonsByCourseId.set(courseId, []);
+      }
+      headerLookup.courseLessonsByCourseId.get(courseId).push(record);
+    }
+  }
+  
   headerLookup.howToById = howToById;
   headerLookup.howToImagesById = howToImagesById;
 
