@@ -1179,3 +1179,37 @@ a:hover {
     page-break-inside: avoid;
   }
 }
+
+/* =========================
+   Lessons – New Layout
+   ========================= */
+
+.lesson-block {
+  border-top: 2px solid #8da08c;
+  padding-top: 0.18in;
+}
+
+.lesson-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  color: #596e5e;
+}
+
+.lesson-block-label {
+  font-weight: 700;
+  color: #596e5e;
+  margin-bottom: 4px;
+}
+
+.lesson-meta {
+  font-size: 11px;
+  color: #888;
+  margin-bottom: 8px;
+}
+
+.lesson-link-text {
+  font-size: 11px;
+  margin-bottom: 4px;
+}
