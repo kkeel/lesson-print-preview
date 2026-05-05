@@ -530,10 +530,24 @@ function renderLessonsSection(section) {
   (section.terms || []).forEach((termGroup, index) => {
     html += `
       <div class="page-flow lessons-section ${index === 0 ? "section-break" : "term-start"}">
-        <div class="term-banner">
-          ${escapeHtml(termGroup.term || "")}
+        <div class="lesson-page-header">
+          <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
+
+          <div class="lesson-page-linkbox">
+            <a href="${escapeHtml(section.linkPageUrl || "#")}" target="_blank">
+              Click THIS text or<br>
+              scan the QR code<br>
+              for links.
+            </a>
+            <div class="lesson-page-qr-placeholder">QR</div>
+          </div>
         </div>
-        ${(termGroup.lessons || []).map(lesson => renderLesson(lesson, termGroup.term)).join("")}
+
+        <div class="term-banner">${escapeHtml(termGroup.term || "")}</div>
+
+        <div class="lesson-list">
+          ${(termGroup.lessons || []).map(lesson => renderLesson(lesson)).join("")}
+        </div>
       </div>
     `;
   });
@@ -541,45 +555,37 @@ function renderLessonsSection(section) {
   return html;
 }
 
-function renderLesson(lesson, term) {
+function renderLesson(lesson) {
   const title = lesson.title || "";
   const body = lesson.body || "";
-
-  // Split sections like ➜ INTRO, ➜ PRACTICE, etc.
-  const sections = body.split(/➜\s*/).filter(Boolean);
+  const teacherNotes = lesson.teacherNotes || "";
+  const editUrl = lesson.editUrl || "";
 
   return `
     <section class="flow-block lesson-block">
-      
-      <div class="lesson-topbar">
-        <div class="lesson-course">${escapeHtml(title)}</div>
+      <div class="lesson-week-col">
+        ${escapeHtml(lesson.weekLabel || "")}
+      </div>
 
-        <div class="lesson-linkbox">
-          <div class="lesson-link-text">View Links</div>
-          <div class="qr-placeholder small">QR</div>
+      <div class="lesson-main-col">
+        ${editUrl ? `
+          <div class="preview-only lesson-edit-row">
+            <a href="${escapeHtml(editUrl)}" target="_blank" class="edit-button">Edit Lesson</a>
+          </div>
+        ` : ""}
+
+        <div class="lesson-title-line">
+          ⬚ ${escapeHtml(title)}
+        </div>
+
+        <div class="lesson-body">
+          ${nl2br(body)}
         </div>
       </div>
 
-      <div class="lesson-meta">
-        ${escapeHtml(term || "")} • ${escapeHtml(lesson.weekLabel || "")}
-      </div>
-
-      <h2 class="lesson-title">
-        ${escapeHtml(title)}
-      </h2>
-
-      ${sections.map(section => {
-        const lines = section.split("\n");
-        const label = lines.shift();
-
-        return `
-          <div class="lesson-block-item">
-            <p class="lesson-block-label">${escapeHtml(label)}</p>
-            <p>${nl2br(lines.join("\n"))}</p>
-          </div>
-        `;
-      }).join("")}
-
+      <aside class="lesson-notes-col">
+        ${teacherNotes ? nl2br(teacherNotes) : ""}
+      </aside>
     </section>
   `;
 }
