@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recwiJeEEQzJ0vPgZ?XRKkD=rec9DDCe249pz6EBd&6J82c=recHr77JiJlqCYfL2&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -200,6 +201,7 @@
         {
           "title": "Chemistry Lessons",
           "subtitle": "How To Approach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recRGGA5HWCs0pjrX?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

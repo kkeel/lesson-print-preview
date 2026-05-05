@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recTz74sYSlzOaKW8?XRKkD=reconp5xoi7sj5Kov&6J82c=rec2Lonu2OOC0yE81&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -108,6 +109,7 @@
         {
           "title": "Botany Labs",
           "subtitle": "How To Approach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recJHAdQ7FcjcHsDO?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

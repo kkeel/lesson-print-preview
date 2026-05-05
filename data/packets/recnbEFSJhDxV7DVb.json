@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recP3AOf80atO7Z1E?XRKkD=recnbEFSJhDxV7DVb&6J82c=recWoOrJ2bdPbqgUy&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -196,6 +197,7 @@
         {
           "title": "Food Science Lessons",
           "subtitle": "How To Approach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recs0USWcZKwSUWgv?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

@@ -30,6 +30,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recz4fUaxEPesLTIr?XRKkD=recohZObHIJOUNBS4&6J82c=recY0lbIvTnvrTjdM&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -175,6 +176,7 @@
         {
           "title": "Sports",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recrnPAqIkfJnn8fO?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Overview",

@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recLWWy1lajN7feyn?XRKkD=recSy4KyR86ZbfJwT&6J82c=reclmY51byLxCWtWB&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -170,6 +171,7 @@
         {
           "title": "Sol-fa: Level 2",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recWFPA36BU0BYkIn?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Recap",

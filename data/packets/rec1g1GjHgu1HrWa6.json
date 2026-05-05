@@ -24,6 +24,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recM4rviWOIRBaXsk?XRKkD=rec1g1GjHgu1HrWa6&6J82c=recORkSHKIs8j0P0y&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -170,6 +171,7 @@
         {
           "title": "Shakespeare: Beginner Track",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/rect9uv6odMeEUB8I?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Prepare",

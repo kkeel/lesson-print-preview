@@ -34,6 +34,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/rec35LzE9uCeQJi4S?XRKkD=rec4PSJe5DvdQBNkI&6J82c=&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -283,6 +284,7 @@
         {
           "title": "Science: Grade 2",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recNgn5OnoGWdIMp4?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

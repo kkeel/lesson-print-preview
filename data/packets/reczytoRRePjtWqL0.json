@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recPN5xSq4uxEocnR?XRKkD=reczytoRRePjtWqL0&6J82c=recB434n0EpLDG2Zu&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -193,6 +194,7 @@
         {
           "title": "Physics Lessons",
           "subtitle": "How To Approach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recaNPyalPagMIuoJ?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

@@ -24,6 +24,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recj4H699t4AW2Uf6?XRKkD=recFSJV8jlfXuHc0X&6J82c=recRU54a13WX33jyT&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -195,6 +196,7 @@
         {
           "title": "Picture Study",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recmp8x8JcZRxfPto?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Prepare",

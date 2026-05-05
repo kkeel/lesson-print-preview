@@ -28,6 +28,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/reclXCLgkP3mVvnEP?XRKkD=rec2f94XuSZMwo0v1&6J82c=rec7VkM2l0YYR0JQN&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -176,6 +177,7 @@
         {
           "title": "Labs: Grade 4",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recpkWIx3FvjWlCmq?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Introduce",

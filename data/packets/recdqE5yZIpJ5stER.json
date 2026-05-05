@@ -24,6 +24,7 @@
     },
     {
       "type": "header",
+      "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/reclq2iA7JU2jR51H?XRKkD=recdqE5yZIpJ5stER&6J82c=recRTRgEnUtVBvmu8&home=pago27hsdn3q8TtGK",
       "items": [
         {
           "kind": "about-group",
@@ -168,6 +169,7 @@
         {
           "title": "Sloyd: Intro",
           "subtitle": "How To Teach",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recOEJ786kZir8kdq?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
               "prompt": "Connect",
