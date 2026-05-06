@@ -40,8 +40,8 @@ function nl2br(value) {
 
 function formatLessonBody(value) {
   return escapeHtml(value)
-    .replace(/(^|<br>)(➜\s*[^<\n]+)/g, '$1<span class="lesson-section-heading">$2</span>')
-    .replace(/\n/g, "<br>");
+    .replace(/\n/g, "<br>")
+    .replace(/(<br>|^)\s*(➜\s*[^<]+)/g, '$1<span class="lesson-section-heading">$2</span>');
 }
 
 function booksToLines(value) {
