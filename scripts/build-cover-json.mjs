@@ -55,7 +55,10 @@ const LESSON_FIELDS = [
   "Day 4",
   "Day 5",
   "How To Pages",
-  "Lessons"
+  "Lessons",
+  "Term 1 Exams",
+  "Term 2 Exams",
+  "Term 3 Exams"
 ];
 
 const HEADER_FIELDS = [
@@ -1128,6 +1131,34 @@ function buildLessonsSection(packetRecord, headerLookup) {
   };
 }
 
+function buildExamsSection(record) {
+  const fields = record.fields || {};
+
+  const terms = [
+    {
+      term: "Term 1",
+      content: normalizeRichText(fields["Term 1 Exams"])
+    },
+    {
+      term: "Term 2",
+      content: normalizeRichText(fields["Term 2 Exams"])
+    },
+    {
+      term: "Term 3",
+      content: normalizeRichText(fields["Term 3 Exams"])
+    }
+  ].filter(term => term.content && term.content.trim());
+
+  if (!terms.length) return null;
+
+  return {
+    type: "exams",
+    title: normalizeText(fields["Lesson Set Name"]),
+    hasExams: true,
+    terms
+  };
+}
+
 function buildPacket(record, headerLookup) {
   const fields = record.fields || {};
 
@@ -1196,7 +1227,8 @@ function buildPacket(record, headerLookup) {
         ].filter(Boolean)
       },
       buildHowToSection(record, headerLookup),
-      buildLessonsSection(record, headerLookup)
+      buildLessonsSection(record, headerLookup),
+      buildExamsSection(record)
     ].filter(Boolean)
   };
 }
