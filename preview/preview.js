@@ -41,12 +41,27 @@ function formatInlineRichText(value) {
 }
 
 function formatTeacherNotes(value) {
-  return formatInlineRichText(value)
-    .replace(
-      /(^|<br>)([A-Z][^:<br]{1,45}:)/g,
-      '$1<strong>$2</strong>'
-    )
-    .replace(/\n/g, "<br>");
+  return String(value ?? "")
+    .split("\n")
+    .map(line => {
+      const trimmed = line.trim();
+
+      if (!trimmed) return "";
+
+      // Bold all-caps note headers like: • VOCABULARY
+      if (/^[•·-]?\s*[A-Z][A-Z\s&/-]{2,}$/.test(trimmed)) {
+        return `<strong>${formatInlineRichText(trimmed)}</strong>`;
+      }
+
+      // Bold vocabulary-style terms at the beginning of a line:
+      // Color Palette: ...
+      // Linear Perspective: ...
+      return formatInlineRichText(line).replace(
+        /^(\s*(?:[•·-]\s*)?)([^:<]{2,45}:)/,
+        '$1<strong>$2</strong>'
+      );
+    })
+    .join("<br>");
 }
 
 function isLessonCalloutLine(line) {
