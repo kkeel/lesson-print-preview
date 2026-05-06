@@ -34,6 +34,29 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
+function formatInlineRichText(value) {
+  return escapeHtml(value)
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/_([^_]+)_/g, "<em>$1</em>");
+}
+
+function formatTeacherNotes(value) {
+  return formatInlineRichText(value)
+    .replace(
+      /(^|<br>)([A-Z][^:<br]{1,45}:)/g,
+      '$1<strong>$2</strong>'
+    )
+    .replace(/\n/g, "<br>");
+}
+
+function isLessonCalloutLine(line) {
+  return (
+    line.startsWith("⍞ Materials:") ||
+    line.startsWith("⍞ Art Print Resource:") ||
+    line.startsWith("Vocabulary:")
+  );
+}
+
 function nl2br(value) {
   return escapeHtml(value).replace(/\n/g, "<br>");
 }
@@ -92,7 +115,7 @@ function formatExamContent(value) {
 }
 
 function formatLessonBody(value) {
-  return escapeHtml(value)
+  return formatInlineRichText(value)
     .replace(/\\\./g, ".")
     .replace(/\n/g, "<br>")
     .replace(/(<br>|^)\s*(➜\s*[^<]+)/g, '$1<span class="lesson-section-heading">$2</span>');
@@ -648,12 +671,19 @@ function renderLesson(lesson) {
   const editUrl = lesson.editUrl || "";
   
   const bodyLines = body.split("\n");
-  const subtitle = bodyLines[0] && !bodyLines[0].startsWith("⍞ Materials:")
+  const subtitle = bodyLines[0] && !isLessonCalloutLine(bodyLines[0])
     ? bodyLines.shift()
     : "";
   
-  const materialsIndex = bodyLines.findIndex(line => line.startsWith("⍞ Materials:"));
-  const materials = materialsIndex >= 0 ? bodyLines.splice(materialsIndex, 1)[0] : "";
+  const calloutLines = [];
+  
+  for (let i = bodyLines.length - 1; i >= 0; i--) {
+    if (isLessonCalloutLine(bodyLines[i])) {
+      calloutLines.unshift(bodyLines.splice(i, 1)[0]);
+    }
+  }
+  
+  const callout = calloutLines.join("\n");
   const remainingBody = bodyLines.join("\n");
 
   return `
@@ -673,11 +703,11 @@ function renderLesson(lesson) {
         </div>
         
         ${subtitle ? `
-          <div class="lesson-subtitle-line">${escapeHtml(subtitle)}</div>
+          <div class="lesson-subtitle-line">${formatInlineRichText(subtitle)}</div>
         ` : ""}
         
-        ${materials ? `
-          <div class="lesson-materials-box">${escapeHtml(materials)}</div>
+        ${callout ? `
+          <div class="lesson-materials-box">${formatInlineRichText(callout).replace(/\n/g, "<br>")}</div>
         ` : ""}
         
         <div class="lesson-body">
@@ -686,7 +716,7 @@ function renderLesson(lesson) {
       </div>
 
       <aside class="lesson-notes-col">
-        ${teacherNotes ? nl2br(teacherNotes) : ""}
+        ${teacherNotes ? formatTeacherNotes(teacherNotes) : ""}
       </aside>
     </section>
   `;
