@@ -36,6 +36,7 @@ function escapeHtml(value) {
 
 function formatInlineRichText(value) {
   return escapeHtml(value)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
     .replace(/_([^_]+)_/g, "<em>$1</em>");
 }
