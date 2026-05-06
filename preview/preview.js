@@ -41,24 +41,54 @@ function nl2br(value) {
 function formatExamContent(value) {
   const lines = String(value ?? "").split("\n");
 
-  return lines.map(line => {
-    const text = line.trim();
-
-    if (!text) return "";
-
-    const isQuestionLine =
+  function isQuestionLine(text) {
+    return (
       text.startsWith("·") ||
       text.startsWith("•") ||
       text.startsWith("-") ||
       /^[a-z]\)/i.test(text) ||
-      /^OR$/i.test(text);
+      /^OR$/i.test(text)
+    );
+  }
 
-    if (!isQuestionLine) {
+  function nextNonBlankLine(index) {
+    for (let i = index + 1; i < lines.length; i++) {
+      const text = lines[i].trim();
+      if (text) return text;
+    }
+    return "";
+  }
+
+  return lines.map((line, index) => {
+    const text = line.trim();
+
+    if (!text) {
+      return `<div class="exam-line-spacer"></div>`;
+    }
+
+    const separatedBefore = index === 0 || !lines[index - 1].trim();
+    const nextText = nextNonBlankLine(index);
+    const looksLikeShortHeader =
+      text.length <= 60 &&
+      !/[.!?]$/.test(text) &&
+      !/^Tell\b/i.test(text) &&
+      !/^Discuss\b/i.test(text) &&
+      !/^Explain\b/i.test(text) &&
+      !/^Describe\b/i.test(text) &&
+      !/^Create\b/i.test(text) &&
+      !/^Choose\b/i.test(text);
+
+    const isTopicHeading =
+      separatedBefore &&
+      looksLikeShortHeader &&
+      isQuestionLine(nextText);
+
+    if (isTopicHeading) {
       return `<div class="exam-topic-heading">${escapeHtml(text)}</div>`;
     }
 
-    return escapeHtml(text);
-  }).join("<br>");
+    return `<div class="exam-question-line">${escapeHtml(text)}</div>`;
+  }).join("");
 }
 
 function formatLessonBody(value) {
