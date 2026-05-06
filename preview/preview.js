@@ -40,8 +40,13 @@ function nl2br(value) {
 
 function formatLessonBody(value) {
   return escapeHtml(value)
+    .replace(/\\\./g, ".")
     .replace(/\n/g, "<br>")
     .replace(/(<br>|^)\s*(➜\s*[^<]+)/g, '$1<span class="lesson-section-heading">$2</span>');
+}
+
+function cleanLessonText(value) {
+  return String(value ?? "").replace(/\\\./g, ".");
 }
 
 function booksToLines(value) {
@@ -585,7 +590,7 @@ function renderLessonsSection(section) {
 
 function renderLesson(lesson) {
   const title = lesson.title || "";
-  const body = lesson.body || "";
+  const body = cleanLessonText(lesson.body || "");
   const teacherNotes = lesson.teacherNotes || "";
   const editUrl = lesson.editUrl || "";
   
