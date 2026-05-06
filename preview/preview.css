@@ -1458,6 +1458,13 @@ a:hover {
   }
 }
 
+.lesson-body a,
+.lesson-materials-box a,
+.lesson-subtitle-line a {
+  color: #2458d6;
+  text-decoration: underline;
+}
+
 /* =========================
    Lesson title/subtitle/materials
    ========================= */
