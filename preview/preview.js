@@ -582,6 +582,15 @@ function renderLesson(lesson) {
   const body = lesson.body || "";
   const teacherNotes = lesson.teacherNotes || "";
   const editUrl = lesson.editUrl || "";
+  
+  const bodyLines = body.split("\n");
+  const subtitle = bodyLines[0] && !bodyLines[0].startsWith("⍞ Materials:")
+    ? bodyLines.shift()
+    : "";
+  
+  const materialsIndex = bodyLines.findIndex(line => line.startsWith("⍞ Materials:"));
+  const materials = materialsIndex >= 0 ? bodyLines.splice(materialsIndex, 1)[0] : "";
+  const remainingBody = bodyLines.join("\n");
 
   return `
     <section class="flow-block lesson-block">
@@ -598,9 +607,17 @@ function renderLesson(lesson) {
         <div class="lesson-title-line">
           ⬚ ${escapeHtml(title)}
         </div>
-
+        
+        ${subtitle ? `
+          <div class="lesson-subtitle-line">${escapeHtml(subtitle)}</div>
+        ` : ""}
+        
+        ${materials ? `
+          <div class="lesson-materials-box">${escapeHtml(materials)}</div>
+        ` : ""}
+        
         <div class="lesson-body">
-          ${nl2br(body)}
+          ${nl2br(remainingBody)}
         </div>
       </div>
 
