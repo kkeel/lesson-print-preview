@@ -1606,12 +1606,20 @@ a:hover {
 .exam-topic-heading {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.25;
+  line-height: 1.2;
   font-weight: 700;
   color: #adb58f;
-  margin: 0.04in 0 0.035in;
+  margin: 0.02in 0 0.015in;
 }
 
 .exam-topic-heading:first-child {
   margin-top: 0;
+}
+
+.exam-question-line {
+  margin: 0;
+}
+
+.exam-line-spacer {
+  height: 0.085in;
 }
