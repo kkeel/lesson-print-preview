@@ -1,10 +1,16 @@
+/* Hide editor controls in PDF mode, even on screen */
 body.pdf-mode .preview-only {
   display: none !important;
 }
 
-@page {
-  size: 8.5in 11in;
-  margin: 0.5in;
+/* Let PDF mode keep color */
+body.pdf-mode,
+body.pdf-mode * {
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
+}
+
+/* Page setup */
 @page {
   size: 8.5in 11in;
   margin: 0.5in;
@@ -32,23 +38,79 @@ body.pdf-mode .preview-only {
 }
 
 @media print {
+  html,
   body.pdf-mode {
-    background: #ffffff;
-    padding: 0;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
   }
 
   body.pdf-mode #preview {
-    gap: 0;
+    display: block;
+    gap: 0 !important;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
   body.pdf-mode .page-flow {
-    width: 100%;
-    margin: 0;
-    box-shadow: none;
-    border: none;
+    width: 100% !important;
+    min-height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    box-sizing: border-box;
   }
 
-  body.pdf-mode .preview-only {
+  /* Cover should fit one page now that footer copyright exists */
+  body.pdf-mode .cover-section {
+    min-height: 10in !important;
+    height: 10in !important;
+    break-after: page;
+    page-break-after: always;
+  }
+
+  body.pdf-mode .cover-inner {
+    min-height: 10in !important;
+    height: 10in !important;
+  }
+
+  /* Remove duplicate copyright from cover content */
+  body.pdf-mode .cover-footer-line {
     display: none !important;
+  }
+
+  /* Prevent the cover logo/footer from spilling onto page 2 */
+  body.pdf-mode .cover-footer {
+    padding-top: 0 !important;
+    margin-top: auto !important;
+  }
+
+  /* Header section should start at the real top margin */
+  body.pdf-mode .header-section {
+    min-height: auto !important;
+    padding-top: 0 !important;
+  }
+
+  body.pdf-mode .header-page-intro {
+    margin-top: 0 !important;
+  }
+
+  /* Undo grayscale-for-print rules from preview.css */
+  body.pdf-mode .lesson-notes-col {
+    background: #eef0f4 !important;
+  }
+
+  body.pdf-mode .term-banner {
+    background: #596e5e !important;
+    color: #ffffff !important;
+  }
+
+  body.pdf-mode .lesson-materials-box {
+    background: #f7f8f4 !important;
+    border-color: #8da08c !important;
+    border-left-color: #8da08c !important;
   }
 }
