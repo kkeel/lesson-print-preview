@@ -38,6 +38,29 @@ function nl2br(value) {
   return escapeHtml(value).replace(/\n/g, "<br>");
 }
 
+function formatExamContent(value) {
+  const lines = String(value ?? "").split("\n");
+
+  return lines.map(line => {
+    const text = line.trim();
+
+    if (!text) return "";
+
+    const isQuestionLine =
+      text.startsWith("·") ||
+      text.startsWith("•") ||
+      text.startsWith("-") ||
+      /^[a-z]\)/i.test(text) ||
+      /^OR$/i.test(text);
+
+    if (!isQuestionLine) {
+      return `<div class="exam-topic-heading">${escapeHtml(text)}</div>`;
+    }
+
+    return escapeHtml(text);
+  }).join("<br>");
+}
+
 function formatLessonBody(value) {
   return escapeHtml(value)
     .replace(/\\\./g, ".")
@@ -656,7 +679,7 @@ function renderExamsSection(section) {
         <div class="exam-term-label">${escapeHtml(term.term || "")}</div>
 
         <div class="exam-content">
-          ${nl2br(term.content || "")}
+          ${formatExamContent(term.content || "")}
         </div>
       </section>
     `;
