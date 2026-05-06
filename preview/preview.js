@@ -642,27 +642,30 @@ function renderLesson(lesson) {
 function renderExamsSection(section) {
   let html = `
     <div class="page-flow exams-section section-break">
-      <div class="lesson-page-header">
-        <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
+      <section class="flow-block exam-page-header">
+        <h1 class="exam-page-title">${escapeHtml(section.title || "")}</h1>
+        <div class="exam-page-subtitle">Examination</div>
+      </section>
 
-        <div class="lesson-page-linkbox">
-          <span>Examination</span>
-        </div>
-      </div>
+      <div class="exam-term-list">
   `;
 
   (section.terms || []).forEach(term => {
     html += `
-      <div class="exam-term-block">
-        <div class="exam-term-label">${escapeHtml(term.term)}</div>
+      <section class="exam-term-block">
+        <div class="exam-term-label">${escapeHtml(term.term || "")}</div>
 
         <div class="exam-content">
-          ${nl2br(term.content)}
+          ${nl2br(term.content || "")}
         </div>
-      </div>
+      </section>
     `;
   });
 
-  html += `</div>`;
+  html += `
+      </div>
+    </div>
+  `;
+
   return html;
 }
