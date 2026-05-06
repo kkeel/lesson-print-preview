@@ -1509,6 +1509,16 @@ a:hover {
   box-sizing: border-box;
 }
 
+.lesson-materials-box em {
+  font-style: italic;
+}
+
+.lesson-materials-box strong,
+.lesson-body strong,
+.lesson-notes-col strong {
+  font-weight: 700;
+}
+
 .lesson-section-heading {
   display: inline-block;
   font-weight: 700;
