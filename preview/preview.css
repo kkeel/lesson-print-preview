@@ -1494,3 +1494,35 @@ a:hover {
     print-color-adjust: exact;
   }
 }
+
+/* =========================
+   Lesson hierarchy polish
+   ========================= */
+
+.lesson-subtitle-line {
+  margin-left: 0;
+  color: #555;
+  font-size: 9.3px;
+}
+
+.lesson-materials-box {
+  width: calc(100% - 0.18in);
+  background: #f7f8f4;
+  border-left: 3px solid #8da08c;
+  padding: 3px 6px;
+  margin: 0.035in 0 0.045in 0;
+  font-size: 9px;
+  line-height: 1.2;
+  box-sizing: border-box;
+}
+
+.lesson-section-heading {
+  display: inline-block;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-top: 0.045in;
+}
+
+.lesson-section-heading:first-child {
+  margin-top: 0;
+}
