@@ -1457,3 +1457,40 @@ a:hover {
     background: #444 !important;
   }
 }
+
+/* =========================
+   Lesson title/subtitle/materials
+   ========================= */
+
+.lesson-title-line {
+  font-size: 10.4px;
+  line-height: 1.18;
+  font-weight: 700;
+  margin-bottom: 0.025in;
+}
+
+.lesson-subtitle-line {
+  font-size: 9.4px;
+  line-height: 1.18;
+  color: #555;
+  font-style: italic;
+  margin: 0 0 0.035in 0.16in;
+}
+
+.lesson-materials-box {
+  background: #e9ebef;
+  border-left: 3px solid #8da08c;
+  padding: 3px 6px;
+  margin: 0.035in 0 0.07in 0;
+  font-size: 9.1px;
+  line-height: 1.2;
+}
+
+@media print {
+  .lesson-materials-box {
+    background: #f2f2f2 !important;
+    border-left-color: #777 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
