@@ -1531,3 +1531,51 @@ a:hover {
 .lesson-section-heading:first-child {
   margin-top: 0;
 }
+
+/* =========================
+   Exams Section
+   ========================= */
+
+.exams-section {
+  min-height: 11in;
+}
+
+.exam-term-block {
+  display: grid;
+  grid-template-columns: 0.8in 1fr;
+  gap: 0.12in;
+  margin-bottom: 0.35in;
+}
+
+.exam-term-label {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  color: #adb58f;
+  text-transform: uppercase;
+  padding-top: 2px;
+}
+
+.exam-content {
+  font-family: "DM Sans", system-ui, sans-serif;
+  font-size: 11px;
+  line-height: 1.4;
+  color: #111;
+}
+
+.exam-content strong,
+.exam-content b {
+  font-weight: 700;
+}
+
+.exam-content br + br {
+  margin-bottom: 6px;
+}
+
+/* keep exams clean in print */
+@media print {
+  .exam-content {
+    font-size: 10.5px;
+    line-height: 1.35;
+  }
+}
