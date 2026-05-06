@@ -202,3 +202,28 @@ body.pdf-mode * {
     margin: 0 !important;
   }
 }
+
+@media print {
+  /* Header + How To divider lines should appear on both sides of page breaks */
+  body.pdf-mode .header-panel,
+  body.pdf-mode .howto-row,
+  body.pdf-mode .howto-block {
+    border-top: 1.5px solid #8da08c !important;
+    border-bottom: 1.5px solid #8da08c !important;
+  }
+
+  /* Avoid double-thick borders when sections stay together normally */
+  body.pdf-mode .header-panel + .header-panel,
+  body.pdf-mode .howto-row + .howto-row,
+  body.pdf-mode .howto-block + .howto-block {
+    margin-top: -1.5px;
+  }
+
+  /* Keep visual rule color consistent when printing */
+  body.pdf-mode .header-panel,
+  body.pdf-mode .howto-row,
+  body.pdf-mode .howto-block {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
