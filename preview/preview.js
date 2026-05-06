@@ -38,6 +38,12 @@ function nl2br(value) {
   return escapeHtml(value).replace(/\n/g, "<br>");
 }
 
+function formatLessonBody(value) {
+  return escapeHtml(value)
+    .replace(/(^|<br>)(➜\s*[^<\n]+)/g, '$1<span class="lesson-section-heading">$2</span>')
+    .replace(/\n/g, "<br>");
+}
+
 function booksToLines(value) {
   const text = String(value ?? "").trim();
   if (!text) return "";
@@ -617,7 +623,7 @@ function renderLesson(lesson) {
         ` : ""}
         
         <div class="lesson-body">
-          ${nl2br(remainingBody)}
+          ${formatLessonBody(remainingBody)}
         </div>
       </div>
 
