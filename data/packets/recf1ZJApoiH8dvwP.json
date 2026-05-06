@@ -660,6 +660,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Forest in the Tree & Nature All Around: Plants: Tell about or draw what you know about how plants work. OR Compare in word or picture three different plant types that you found this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Bat Scientists: Explain in words or pictures what bats need to thrive in an ecosystem. OR Tell about or draw three unique characteristics of the bat."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Beetle Busters: Explain in words or pictures why an invasive species is bad for an ecosystem. OR Tell about or diagram one way that scientists learn about the health of a forest."
+        }
+      ]
     }
   ]
 }

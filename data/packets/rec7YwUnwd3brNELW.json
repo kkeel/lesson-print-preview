@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Church History: Grades 10-12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· When the Church Was Young: Select an Early Church Father from the reading that you enjoyed learning about and identify several things you learned from him. Explain how you are incorporating those things into your daily living."
+        },
+        {
+          "term": "Term 2",
+          "content": "· When the Church Was Young: Write about the impact persecution had on the early church. How did the Early Church Fathers respond to the persecution they faced? Include examples."
+        },
+        {
+          "term": "Term 3",
+          "content": "· When the Church Was Young: Write about three important takeaways from the reading that have impacted your daily life and explain why."
+        }
+      ]
     }
   ]
 }

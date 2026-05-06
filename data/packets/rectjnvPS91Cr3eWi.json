@@ -1072,6 +1072,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Free Play/ Circuits",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        }
+      ]
     }
   ]
 }

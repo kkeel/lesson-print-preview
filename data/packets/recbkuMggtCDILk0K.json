@@ -1081,6 +1081,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar: Grade 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Grammar Town: Is the word in brackets a n., pron., adj., v., adv., conj., prep., or interj.?\n\n________ 1. The [train] pulled slowly into the station. \n________ 2. The baker [was] awake early this morning. \n________ 3. [The] sidewalk curved around the edge of the park. \n________ 4. A nice man sold papers [from] a little kiosk. \n________ 5. The wind blew [quietly] through the bell tower. \n________ 6. [Yes], the schools will be closed on Thursday. \n________ 7. The park opens at 7:00 [because] the holiday begins. \n________ 8. The shopkeeper gave [her] a cup of hot chocolate.\n\n· Grammar Town: Name three coordinating conjunctions and three subordinating conjunctions. When do we use them?\n\n· Grammar Town: Write two sentences that have a linking verb."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Grammar Town: Is the word in brackets a subj., AVP, LVP, D.O., I.O., or S.C.? \n\n________ 9. The row of buildings [was] shady and lined with trees. \n________ 10. [We] could see the cinema from Front Street. \n________ 11. The teacher welcomed the new [students] to the class. \n________ 12. It is [good] to know different kinds of people. \n________ 13. The grocer gave [Susan] a sample of the cheese.\n\n· Is the phrase in brackets prepositional, appositive, gerund, participial, or infinitive? \n\n________ 14. We loved [to run the motor]. \n________ 15. Mrs. Robertson, [the new principal], arrived at the school. \n________ 16. She ran [down the sidewalk], and we followed. \n________ 17. We enjoyed [catching fireflies]. \n________ 18. [Catching fireflies], Susie laughed and ran across the lawn.\n\n\n· Grammar Town: Is the part in brackets a phrase, an independent clause, or a dependent clause? \n\n________ 19. Roberto chased the pigeons, and [Susie ran the other way]. \n________ 20. [Chasing the pigeons] was fun for the little kids. \n________ 21. Susie ran away [when Roberto chased the pigeons.] \n\n\n· Is the sentence declarative, imperative, interrogative, or exclamatory?\n \n________ 22. When will the bus arrive at the new depot? \n________ 23. They are building an airport near Gramville Acres! \n________ 24. Take the cab over to the train station and wait for us. \n________ 25. The canal flows east beyond Grammar Town."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Practice Town: Is the word in brackets a n., pron., adj., v., adv., conj., prep., or interj.?\n \n________ 1. The [people] formed a line in front of the cinema. \n________ 2. The grocer [arranged] the fruit on the display. \n________ 3. [The] bus pulled slowly to a stop. \n________ 4. A chimney rose high above the top [of] the roof. \n________ 5. The children ran [quickly] up the sidewalk. \n________ 6. [Wow], it snowed two feet last night! \n________ 7. They did not arrive, [but] we kept waiting at the terminal. \n________ 8. [She] made the new mailman a chocolate cake. \n\n· Is the word in brackets a subj., AVP, LVP, D.O., I.O., or S.C.?\n________ 9. The people in this neighborhood [are] very friendly. \n________ 10. [John] could see the new store from his attic window.\n________ 11. The ice cream man gave Susan a [popsicle]. \n________ 12. It was [he] who rang the bell yesterday. \n________ 13. The baker gave [Roberto] a sack of hot rolls.\n\n· Practice Town: Is the phrase in brackets prepositional, appositive, gerund, participial, or infinitive?\n\n________ 14.[To think quickly and clearly] is a gift. \n________ 15. Robert Trotman, [the former mayor], was invited. \n________ 16. The ball sailed [over the roof] of the house. \n________ 17. [Giving good presents] is a real art. \n________ 18. [Fallen down completely], the old building looked sad. \n\n· Is the part in brackets a phrase, an independent clause, or a dependent clause? \n________ 19. Rochelle brought the dessert, and [we brought the soup]. \n________ 20. [Running for office] was an easy thing for Maria. \n________ 21. [As the pigeons flew over the square], we watched intently. \n\n· Is the sentence declarative, imperative, interrogative, or exclamatory? \n________ 22. Which store has the sweaters you told me about? \n________ 23. The bus almost hit the light pole at the corner! \n________ 24. Go to the market and buy some fresh vegetables and fish. \n________ 25. The Gram River flows down from the mountains."
+        }
+      ]
     }
   ]
 }

@@ -708,6 +708,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Current Events: Grades 5-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell the story of one of the news events of this term."
+        }
+      ]
     }
   ]
 }

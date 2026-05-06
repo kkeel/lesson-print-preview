@@ -676,6 +676,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Science: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Over and Under the Pond: Tell about or draw a pond habitat with five things that live there."
+        },
+        {
+          "term": "Term 2",
+          "content": "· A Fruit is a Suitcase for Seeds: Tell about or draw three seeds that you looked at this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Up in the Garden and Down in the Dirt: Tell about or draw a garden habitat, including at least five creatures that live in it."
+        }
+      ]
     }
   ]
 }

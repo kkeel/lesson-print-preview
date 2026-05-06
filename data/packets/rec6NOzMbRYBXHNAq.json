@@ -1067,6 +1067,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar: Grade 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Island: Sentence 63\n\n· Sentence Island: Write two sentences. One should have an action verb, and the other should have a linking verb. Underline the subject."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Island: Sentence 83\n\n· Fix the sentences:\n\n-A family of rabbits scurry about.\n-Would you like to go to the store with him and I?\n-The soulful sounds of the music makes me happy.\n-She and him are best friends."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Island: Sentence 100\n\n· Sentence Island: What are the four types of sentences? Write one of each, using the correct end punctuation."
+        }
+      ]
     }
   ]
 }

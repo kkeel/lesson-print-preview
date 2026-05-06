@@ -1523,6 +1523,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Health Elective (Beta)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· What are the ways sleep affects our health?\n\n· How does the reconstruction of the teenage brain affect teen behavior?\n\n· Explain the connection between the gut and mental health.\n\n· Tell what you know about how to cultivate a simply healthy life."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Choose a special topic we covered this term: time spent in nature, drugs and alcohol, or stress, and tell how that topic relates to health.\n\n· Describe what tools and takeaways you can use to apply to your own health journey.\n\n· Tell how exercise can help us find happiness, hope, courage, and connection."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell how you can manage your diet to optimally support your mood, growth, and the changes you’re experiencing as a teen. What foods should you include? What foods and drinks should you exclude?\n\n· Describe the gut-brain axis and tell how you can support mental health by supporting your microbiome. What kinds of foods support a healthy microbiome?"
+        }
+      ]
     }
   ]
 }

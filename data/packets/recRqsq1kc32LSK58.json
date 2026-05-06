@@ -623,6 +623,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Poetry Study: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· A World of Poetry: Explain the different things you can do with sound to make patterns in a poem. Explain some of the terminology you learned this term and give examples."
+        },
+        {
+          "term": "Term 2",
+          "content": "· A World of Poetry: \nLook at the poem \"Tyger, Tyger\" by William Blake. Label the rhyme scheme and any of the following patterns you notice: end rhyme, internal rhyme, end-stopped, enjambed, alliteration, assonance, consonance, and reversal.\n\nTyger Tyger, burning bright,\nIn the forests of the night;\nWhat immortal hand or eye,\nCould frame thy fearful symmetry?\n\nIn what distant deeps or skies.\nBurnt the fire of thine eyes?\nOn what wings dare he aspire?\nWhat the hand, dare seize the fire?\n\nAnd what shoulder, & what art,\nCould twist the sinews of thy heart?\nAnd when thy heart began to beat.\nWhat dread hand? & what dread feet?\n\nWhat the hammer? what the chain,\nIn what furnace was thy brain?\nWhat the anvil? what dread grasp.\nDare its deadly terrors clasp?\n\nWhen the stars threw down their spears\nAnd water'd heaven with their tears:\nDid he smile his work to see?\nDid he who made the Lamb make thee?\n\nTyger Tyger burning bright,\nIn the forests of the night:\nWhat immortal hand or eye,\nDare frame thy fearful symmetry?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· A World of Poetry: Share a poem you wrote this term and explain the pattern and figures of speech you used in it."
+        }
+      ]
     }
   ]
 }

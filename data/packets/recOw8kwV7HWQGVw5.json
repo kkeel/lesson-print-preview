@@ -652,6 +652,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Invincible Microbe: Tell what you know about bacteria using any combination of words, drawings, or diagrams."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Invincible Microbe: Explain some of the challenges in combating TB in the early days of the epidemic."
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Invincible Microbe: Describe how drug resistance occurs. OR Tell what scientists learned from the TB epidemic."
+        }
+      ]
     }
   ]
 }

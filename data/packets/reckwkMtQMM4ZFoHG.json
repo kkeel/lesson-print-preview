@@ -631,6 +631,21 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Lit.: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Charlotte's Web: Tell about or illustrate one of the animals on the farm."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Charlotte's Web: Tell about or illustrate one of your favorite parts of the book."
+        }
+      ]
     }
   ]
 }

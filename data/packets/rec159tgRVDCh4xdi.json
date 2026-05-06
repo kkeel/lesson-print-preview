@@ -1037,6 +1037,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Poetry Study: Grade 11",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Word Made Fresh: How are poetry and friendship related? Tell about a poem that has become a friend this term or a poem that has been a friend for a long time."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Word Made Fresh: Tell about a poem you've read this term and the importance of form."
+        },
+        {
+          "term": "Term 3",
+          "content": "· The Word Made Fresh: Talk about erasure - how to go about it and what it can reveal about a poem. Give an example from the term."
+        }
+      ]
     }
   ]
 }

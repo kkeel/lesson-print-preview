@@ -610,6 +610,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Playground Songs & Rhymes",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Perform \"Hot Cross Buns\" OR \"Where, Oh, Where\" for the teacher to observe."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Perform \"Say, Say, My Playmate\" OR \"Obwisana\" for the teacher to observe."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Perform \"My Momma Gave Me a Nickel\" OR \"I Pass the Shoe\" for the teacher to observe."
+        }
+      ]
     }
   ]
 }

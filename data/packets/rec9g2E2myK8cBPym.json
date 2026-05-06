@@ -1063,6 +1063,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 3",
+          "content": "· • A Brief History of the World in 47 Borders: Describe two of the border stories that you read about this term with as much detail as you can. Include sketches."
+        }
+      ]
     }
   ]
 }

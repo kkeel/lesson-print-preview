@@ -310,6 +310,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Physics",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Physics Lessons\n· Schaum's Outlines: College Physics: Day 1: Choose 3 of the following from Schaum's:\n• #1.18, 1.26, 2.30, or 2.37\n\n· Schaum's Outlines: College Physics: Day 2: Choose 3 of the following from Schaum's (substitute previous day's questions as appropriate based on material covered):\n• #3.50, 4.15, 5.16, or 6.33\n\n· Schaum's Outlines: College Physics: Day 3: Choose 3 of the following from Schaum's (substitute previous days' questions as appropriate based on material covered):\n• #6.52, 8.34, 9.25, or 9.35\n\n· Day 4: Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5: Explain an example of physics in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 2",
+          "content": "Physics Lessons\n· Schaum's Outlines: College Physics: Day 1: Choose 3 of the following from Schaum's (substitute previous term's questions as appropriate based on material covered):\n• #10.40, 10.39, 11.21, or 11.29\n\n· Schaum's Outlines: College Physics: Day 2: Choose 3 of the following from Schaum's (substitute previous questions as appropriate based on material covered):\n• #22.21, 22.27, 36.20, or 36.28\n\n· Schaum's Outlines: College Physics: Day 3: Choose 3 of the following from Schaum's (substitute previous questions as appropriate based on material covered):\n• #37.15, 37.22, 38.26, or 39.25\n\n· Day 4: Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5: Explain an example of physics in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 3",
+          "content": "Physics Lessons\n· Schaum's Outlines: College Physics: Day 1: Choose 3 of the following from Schaum's (substitute previous questions as appropriate based on material covered):\n• #24.20, 24.24, 25.40, or 25.49\n\n· Schaum's Outlines: College Physics: Day 2: Choose 3 of the following from Schaum's (substitute previous questions as appropriate based on material covered):\n• #26.30, 26.36, 27.11, or 27.17\n\n· Schaum's Outlines: College Physics: Day 3: Choose 3 of the following from Schaum's (substitute previous questions as appropriate based on material covered):\n• #30.15, 31.14, 40.27, or 40.31\n\n· Day 4: Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5: Explain an example of physics in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        }
+      ]
     }
   ]
 }

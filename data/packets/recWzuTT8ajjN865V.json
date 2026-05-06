@@ -573,6 +573,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Penmanship & Copywork: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Copy the following words using your best penmanship:\nkill. mix, wink, rub, by\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Copy the following using your best penmanship:\nRed hen found a wheat seed.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Copy the following using your best penmanship:\nGrasshopper green has a quaint little house.\n\n· Share your Copywork Journal with an adult."
+        }
+      ]
     }
   ]
 }

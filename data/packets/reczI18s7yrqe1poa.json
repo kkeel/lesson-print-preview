@@ -695,6 +695,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Hymns & Spirituals",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing \"Be Still My Soul\" OR \"Hark! The Herald Angels Sing.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing \"Just a Closer Walk with Thee.\""
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing \"What Wondrous Love is This\" or \"O for a Thousand Tongues to Sing.\""
+        }
+      ]
     }
   ]
 }

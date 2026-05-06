@@ -692,6 +692,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sloyd: Level 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Show and tell an adult about one of your projects from this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Show and tell an adult about one of your projects from this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Show and tell an adult about one of your projects from this term."
+        }
+      ]
     }
   ]
 }

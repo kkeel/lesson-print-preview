@@ -627,6 +627,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mythology: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Wonder Book for Boys and Girls: Tell or illustrate how Perseus tricked the Three Gray Women into helping OR Tell or illustrate how Perseus met Quicksilver and his sister."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Wonder Book for Boys and Girls: Tell or illustrate how King Midas has changed so far in the story."
+        },
+        {
+          "term": "Term 3",
+          "content": "· The Wonder Book for Boys and Girls: Tell or illustrate the story about the box received by Epimetheus and Pandora."
+        }
+      ]
     }
   ]
 }

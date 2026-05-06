@@ -2563,6 +2563,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Bible Stories\n· Hurlbut's Story of the Bible: Tell about the Garden of Eden OR Tell about Noah.\n\n· Hurlbut's Story of the Bible: Tell about the birth of Jesus OR Tell about the baptism of Jesus.\n\nChurch History: Grades 1-3\n· Tell what has happened so far in the story of Curly the \"The Bandit of Ashley Downs.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "Bible Stories\n· Hurlbut's Story of the Bible: Tell about Jericho OR Tell about Rahab.\n\n· Hurlbut's Story of the Bible: Tell about one time Jesus healed someone OR Tell one of Jesus' parables.\n\n\nChurch History: Grades 1-3\n· Tell what you recall about what has happened so far on Adoniram and Ann Judson's journey to Burma to be missionaries."
+        },
+        {
+          "term": "Term 3",
+          "content": "Bible Stories\n· Hurlbut's Story of the Bible: Tell about David and Goliath OR Tell about Solomon.\n\n· Hurlbut's Story of the Bible: Tell about the resurrection of Jesus OR Tell about the coming of the Holy Spirit.\n\nChurch History: Grades 1-3\n· What are two ways Judson used to share the good news about Jesus to the people of Burma?"
+        }
+      ]
     }
   ]
 }

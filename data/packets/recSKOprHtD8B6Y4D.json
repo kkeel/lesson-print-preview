@@ -646,6 +646,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Level 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The teacher should clap and have the student imitate the following rhythms: (The quick claps should be about twice as fast as the slow claps.)\n1) slow, slow, quick, quick, slow\n2) quick, quick, slow, slow, quick, quick"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing a few notes that are piano, then sing a few notes forte. OR Sing a few notes that are legato and a few notes that are staccato. (Note to teacher: Piano means “soft,” forte means “loud,” legato means “fluid/smooth/connected,” and staccato means “sharp/separated.”)"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing the following Sol-fa patterns with your hand signs: \n1) do-re-mi-fa-so\n2) do-mi-so-mi-do"
+        }
+      ]
     }
   ]
 }

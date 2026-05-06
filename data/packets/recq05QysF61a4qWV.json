@@ -1170,6 +1170,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain contrasting colors. List six pairs of contrasting colors. (You can be general with hue names, i.e., yellow as opposed to Hansa yellow.)\n\n· Describe fully what stippling is. How can you use it to apply value? How can you use it to mix colors?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Explain cross-hatching. How do you change the value by cross-hatching?\n\n· Explain how to hold your pencil properly when drawing and shading and why it's important to do so."
+        },
+        {
+          "term": "Term 3",
+          "content": "· What is pointillism? Tell all that you remember about George Seurat and Sunday Afternoon on the Isle of La Grande Jatte.\n\n· Show one of your favorite illustrated mottoes or proverbs to your teacher and explain why it is your favorite. OR Tell all you know of split-complements and analogous colors."
+        }
+      ]
     }
   ]
 }

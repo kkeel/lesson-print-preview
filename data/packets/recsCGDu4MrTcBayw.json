@@ -1059,6 +1059,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 8 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell everything you know about Adam Shoalts's solo journey across the Arctic. OR Explain why Lake Manicouagan is so special.\n\n· Fill in a blank map of Canada with the following provinces and their capital cities: Ontario, Quebec, New Brunswick, Prince Edward Island, Newfoundland & Labrador, and Nunavut."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Explain why explorers like Darrell, Hanbury, and Amundsen could successfully survive in the Arctic climate while others before them (like the Franklin Expedition) failed. OR Imagine you are Hubert Darrell packing for a journey and can only take what you can pull on a sled. What do you pack?Reg\n\n· Fill in a blank map of Canada with the following bodies of water: Atlantic Ocean, Pacific Ocean, Beaufort Sea, St. Lawrence River, Lake Superior, Lake Michigan, Lake Huron, Lake Erie, Lake Ontario, Hudson Bay, Baffin Bay, Labrador Sea."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Describe the climate, vegetation, animal life, terrain, and any other physical features of northern Northwest Territories (between the Anderson River and the Husky Lakes) as it was described by Shoalts on his travels. OR Reflect on why, even with modern satellite technology, these regions of the Arctic are still so difficult to map.\n\n· Label a blank map of the Northwest Territories with the following places: Beaufort Sea, Great Slave Lake, Great Bear Lake, Husky Lakes, Mackenzie River, Mackenzie River Basin. Bonus: draw in the approximate location of the Anderson River."
+        }
+      ]
     }
   ]
 }

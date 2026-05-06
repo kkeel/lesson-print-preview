@@ -319,6 +319,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 2\n· Tell about or draw 3 different habitats in your biome in which a butterfly lives.\n\nNatural History: Grade 2\n· Walks with a Naturalist 2:  Tell about or draw a caterpillar.  OR Tell about or draw a leaf or tree nut."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 2\n· Tell about or draw a tree in your biome with at least 3 ways that others depend upon it.\n\n\nNatural History: Grade 2\n· Walks with a Naturalist 2:  Tell about or draw the ways that insects overwinter.  OR Tell about or draw a creature that lives in an unfamiliar habitat, such as the seaside or swamp."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 2\n· Tell about or draw a creature from your biome and compare it to a creature from another biome.\n\n\nNatural History: Grade 2\n· Walks with a Naturalist 2:  Tell about or draw signs that animals leave behind.  OR Compare using words or pictures the life cycle of a moth with that of the damselfly."
+        }
+      ]
     }
   ]
 }

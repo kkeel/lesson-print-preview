@@ -643,6 +643,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mythology/Hist. Fiction: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· In the Days of Giants: Give a short account of one of Odin's or Loki's adventures using words or pictures."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Arrow over the Door: Describe your favorite character in the book. \nOR \nSeesaw Girl: Tell about Jade's adventure outside the house."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tales of Uncle Remus: Tell the story of Brer Rabbit and Brer Turtle OR A story about Brer Rabbit and Brer Fox."
+        }
+      ]
     }
   ]
 }

@@ -241,6 +241,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Literature: Grades 5-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Lit./Mythology: Grade 5-6\n· In writing or picture, describe a scene from the adventures of Aeneas OR the story of Isis and Osiris.\n\n\n· Describe Ragnarok in words or pictures."
+        }
+      ]
     }
   ]
 }

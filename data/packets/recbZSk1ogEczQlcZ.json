@@ -629,6 +629,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Christian Liberty Nature Reader 4: Draw or diagram one of the birds you saw or read about this term, showing how its body serves it in the ecosystem."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Christian Liberty Nature Reader 4: Draw or diagram one of the birds you saw or read about this term, showing how its body serves it in the ecosystem."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Christian Liberty Nature Reader 4: Draw or diagram one of the reptiles you saw or read about this term, showing how its body serves it in the ecosystem."
+        }
+      ]
     }
   ]
 }

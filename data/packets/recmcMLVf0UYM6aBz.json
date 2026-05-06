@@ -1059,6 +1059,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 7 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Mapping the World with Art: Tell about Marco Polo and why he was important to the history of maps. OR Tell about Henry the Navigator and his contributions to map-making.\n\n· Mapping the World with Art: Draw a map of one of the countries you learned about this term and label anything you can remember. Suggestions include the following: Italy, Greece, the Iberian Peninsula, Britain, Israel, India, Africa, and South America."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Mapping the World with Art: Tell about the unsuccessful attempts by the Europeans to find a Northeast Passage to the Orient. OR Tell about the man from the Dutch East India Company and his experience in Japan.\n\n· Mapping the World with Art: Draw a map of one of the countries you learned about this term and label anything you can remember. Suggestions include the following: Scandinavia, the Philippines, the Low Countries of Europe, and Japan."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Exploring the Frozen North: Describe some of the choices Captain Robert McClure made to ensure that he was credited with being the first to find the Northwest Passage. OR Draw and describe a Circumpolar Map and explain what different geographical information this perspective gives the viewer. \n\n· Mapping the World with Art: Draw a map of one of the countries you learned about this term and label anything you can remember. Suggestions include the following: Australia, New Zealand, Alaska, North America, and Antarctica."
+        }
+      ]
     }
   ]
 }

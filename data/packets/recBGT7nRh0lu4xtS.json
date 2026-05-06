@@ -684,6 +684,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sloyd: Level 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Share one of your projects from this term with an adult and tell them how you made it."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Share one of your projects from this term with an adult and tell them how you made it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Share one of your projects from this term with an adult and tell them how you made it."
+        }
+      ]
     }
   ]
 }

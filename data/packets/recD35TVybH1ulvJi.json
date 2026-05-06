@@ -679,6 +679,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Level 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing and record the last exercise completed.\n\n· Write the scale of F with the correct key signature on the staff."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing and record the last exercise completed.\n\n· Compose a short melody in the key of G in 2/4 time and then sing it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing and record the last exercise completed.\n\n· What should you do if you see a natural sign while singing?"
+        }
+      ]
     }
   ]
 }

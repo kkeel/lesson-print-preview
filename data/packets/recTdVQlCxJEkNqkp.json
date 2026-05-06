@@ -243,6 +243,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "PE: Grades 1-3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Playground Songs & Rhymes\n·  Perform \"Hot Cross Buns\" OR \"Where, Oh, Where\" for the teacher to observe.\n\nFolk Dancing\n· Perform the song and dance for Great Big House OR Brother Come and Dance."
+        },
+        {
+          "term": "Term 2",
+          "content": "Playground Songs & Rhymes\n· Perform \"Say, Say, My Playmate\" OR \"Obwisana\" for the teacher to observe.\n\nFolk Dancing\n· Perform the song and dance for Old Joe Clark OR Brown Eyed Mary."
+        },
+        {
+          "term": "Term 3",
+          "content": "Playground Songs & Rhymes\n· Perform \"My Momma Gave Me a Nickel\" OR \"I Pass the Shoe\" for the teacher to observe.\n\nFolk Dancing\n· Perform the song and dance for Billy, Billy OR Paw Paw Patch."
+        }
+      ]
     }
   ]
 }

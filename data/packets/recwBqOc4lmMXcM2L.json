@@ -629,6 +629,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Walks with a Naturalist 1:  Tell about or draw the ant or the bee.  OR Tell about or draw the garden or jumping spider."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Walks with a Naturalist 1:  Tell about or draw a plant seed and explain how it moves to find a new home.  OR Tell about or draw a bird that you have learned about."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell how to roll a log and what you might find underneath it.  OR Tell about or draw how spiders are different from insects."
+        }
+      ]
     }
   ]
 }

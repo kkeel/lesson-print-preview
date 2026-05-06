@@ -666,6 +666,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Level 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing and record the last exercise completed.\n\n· What is the difference between 3/4 and 4/4 time?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing and record the last exercise completed.\n\n· Write a G scale on the staff. Label each note with its letter name and sol-fa syllable in the key of G."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing and record the last exercise completed.\n\n· How does the key of F scale differ from the key of C scale?"
+        }
+      ]
     }
   ]
 }

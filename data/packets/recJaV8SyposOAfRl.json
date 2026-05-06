@@ -641,6 +641,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Ethics: Part 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Ourselves: Book I: Tell about the functions of love and justice OR Tell of the importance of candour."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Ourselves: Book I: Tell of some causes of lying OR Tell of the necessity of integrity in the use of time."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Ourselves: Book I: Tell of justice to yourself, self-ordering OR Tell how you can prepare yourself for your calling, even if you do not know what your calling is."
+        }
+      ]
     }
   ]
 }

@@ -1720,6 +1720,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 11 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEthics: Part 5\n· Ourselves: Book II: What is the function of Conscience? OR Contrast Willfulness and Will, giving examples from your reading.\n\nEcon/Civics: Grade 11 (Canada)\n· Explain how curiosity aids in developing the skill of asking great questions.\n\n· If a friend asked you, \"Why is it important to develop the skill of asking better questions?\" how would you reply?"
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEthics: Part 5\n· Ourselves: Book II: What do you have to say about \"the way of the will\"? Distinguish between the obedience of habit and that of choice, giving examples."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEthics: Part 5\n· Ourselves: Book II: Write on the capacities and disabilities of the soul OR Show how fit and necessary the knowledge of God is to man. Is it inevitable?"
+        }
+      ]
     }
   ]
 }

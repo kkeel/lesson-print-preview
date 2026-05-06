@@ -654,6 +654,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Reading Level 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Reading-Literature: Second Reader: Have the student read aloud for one minute using either the next (previously unread) section in Treadwell or a previously unread section from another book the student has been using for reading practice. Count the number of words read correctly during that minute. For Fall of 3rd grade, the typical fluency rate is between 50-110 words per minute (Rasinski & Padak, 2009).\n\n· Reading-Literature: Second Reader: Have the student narrate what was read. Make notes on comprehension and reading expression."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Reading-Literature: Second Reader: Have the student read aloud for one minute using either the next (previously unread) section in Treadwell or a previously unread section from another book the student has been using for reading practice. Count the number of words read correctly during that minute. For Winter of 3rd grade, the typical fluency rate is between 70-120 words per minute. (Rasinski & Padak, 2009).\n\n· Reading-Literature: Second Reader: Have the student narrate what was read. Make notes on comprehension and reading expression."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Reading-Literature: Second Reader: Have the student read aloud from the next (previously unread) section in Treadwell for one minute. Count the number of words read correctly during that minute. For the Spring of 3rd grade, the typical fluency rate is between 80-140 words per minute (Rasinski & Padak, 2009).\n\n· Reading-Literature: Second Reader: Have the student narrate what was read. Make notes on comprehension and reading expression."
+        }
+      ]
     }
   ]
 }

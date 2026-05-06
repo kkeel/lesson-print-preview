@@ -264,6 +264,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Introduction to Engineering",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Introduction to Engineering Lessons\n· Tell about an engineering story from The Things We Make.\n\n· The Boy Who Harnessed the Wind: Describe the setting of William's story, including the circumstances that influenced him.\n\n· The Boy Who Harnessed the Wind: Describe William's character, giving examples from the story to support your observations.\n\n· Tell about a nature observation or current event to stood out to you this term.\n\n· Give an informal presentation to your teacher on something you have learned about this term, such as how a particular object is made or constructed, or something else you have researched."
+        },
+        {
+          "term": "Term 2",
+          "content": "Introduction to Engineering Lessons\n· Tell about an object you studied in The Way Things Work.\n\n· The Boy Who Harnessed the Wind: Explain how William learned to be a scientist. OR Describe how science and religion both influenced William's life.\n\n· What do we mean by 'Nature as Measure' (i.e. how can nature influence design)? Give at least one example.\n\n· Tell about an object you tinkered with this term. How does it work? What was challenging about the experience? Is there something more you would like to learn about this object?\n\n· Share your solution to the water management design challenge, explaining as needed."
+        },
+        {
+          "term": "Term 3",
+          "content": "Introduction to Engineering Lessons\n· Tell about an object you studied in The Way Things Work.\n\n· By Design: How does engineering change the engineer? OR Is engineering a Christian vocation? Why or why not?\n\n· Tell about a nature observation or current event that stood out to you this term.\n\n· Tell about an object you tinkered with this term. How does it work? What was challenging about the experience? Is there something more you would like to learn about this object?\n\n· Give an informal presentation to your teacher on something you have learned about this term, such as how a particular object is made or constructed, or something else you have researched."
+        }
+      ]
     }
   ]
 }

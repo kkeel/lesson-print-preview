@@ -1938,6 +1938,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar/Comp: Grade 9",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Essay Voyage: Write an essay about what you have learned this term about writing an essay. \n\n· Describe something you see outside from a 1st person point of view. Then describe the same thing from a 3rd person POV."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Essay Voyage: Write several paragraphs talking about some of the important lessons of writing an essay you have learned this term.\n\n· What is the difference between \"showing\" and \"telling\"? Give 5 examples."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Essay Voyage: What ideas about writing have stood out to you the most as you have learned about the process of writing a formal essay?\n\n· What is voice or tone in writing? Give a few examples of different tones in your readings. OR Describe the same experience in two different tones."
+        }
+      ]
     }
   ]
 }

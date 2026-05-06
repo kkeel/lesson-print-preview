@@ -1103,6 +1103,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 3 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Cross-Country: Based on your reading and model, tell what you know about the terrain and elevation of Kansas compared to Colorado. How does this affect what grows and lives in these different states?\n\n· Tell what you know about your local waterway, including where it originates and empties into, OR about the Mississippi River."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Cross-Country: Regarding a river, tell what you know about how water moves. Use what you observed in your model this term to help explain the process.\n\n· Grandma Gatewood: Describe some things you would like to see if you traveled the Appalachian Trail."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Cross-Country: Tell what you know about bays, gulfs, and harbors. OR Tell what you learned about the economy of North Carolina.\n\n· Tell about your sound map from the beginning of the term. How did you make the map, and what do you remember from it?"
+        }
+      ]
     }
   ]
 }

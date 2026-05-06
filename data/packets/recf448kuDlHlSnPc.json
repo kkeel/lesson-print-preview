@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Fairy Tales",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term."
+        }
+      ]
     }
   ]
 }

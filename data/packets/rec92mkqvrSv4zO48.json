@@ -1150,6 +1150,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Draw a cube and a rectangular prism.\n\n· Tell all you know about \"horizon line.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "· Create a graduated wash and discuss how you could apply it in art.\n\n· Tell what an underpainting is or tell what a watercolor wash is."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell what the six tertiary colors are.\n\n· Name all six pairs of complementary colors in your color wheel."
+        }
+      ]
     }
   ]
 }

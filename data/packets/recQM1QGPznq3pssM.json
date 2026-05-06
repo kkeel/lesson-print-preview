@@ -652,6 +652,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sewing: Level 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Choose a project from this term to share with an adult. Tell how you made it."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Choose a project from this term to share with an adult. Tell how you made it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Choose a project from this term to share with an adult. Tell how you made it."
+        }
+      ]
     }
   ]
 }

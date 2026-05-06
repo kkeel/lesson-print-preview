@@ -1159,6 +1159,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Fast Track",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain what monochromatic means.\n\n· Tell all you know about the color wheel."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Draw three cylinders, each a different size and in a different position.\n\n· Using pastels, draw a teacup and saucer below eye level from memory."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Demonstrate vertical and horizontal brush forms as perfectly as you are able.\n\n· Demonstrate oblique brush forms as perfectly as you are able."
+        }
+      ]
     }
   ]
 }

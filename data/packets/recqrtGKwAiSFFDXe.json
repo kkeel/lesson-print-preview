@@ -2621,6 +2621,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Church History: Grades 1-3\n· Tell what has happened so far in the story of Curly the \"The Bandit of Ashley Downs.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "Church History: Grades 1-3\n· Tell what you recall about what has happened so far on Adoniram and Ann Judson's journey to Burma to be missionaries."
+        },
+        {
+          "term": "Term 3",
+          "content": "Church History: Grades 1-3\n· What are two ways Judson used to share the good news about Jesus to the people of Burma?"
+        }
+      ]
     }
   ]
 }

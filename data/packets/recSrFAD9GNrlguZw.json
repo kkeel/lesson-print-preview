@@ -212,6 +212,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "First Citizen Stories\n· Stories from the History of Rome: Tell the story of Caius Marcius and his mother."
+        },
+        {
+          "term": "Term 2",
+          "content": "First Citizen Stories\n· Stories from the History of Rome: \". . .Romans love justice more than victory.\" What did this mean in relation to winning the city of Falerii (Ch.9)?"
+        },
+        {
+          "term": "Term 3",
+          "content": "First Citizen Stories\n· Stories from the History of Rome: Tell about the fight between the warrior of Gaul and the warrior of Rome."
+        }
+      ]
     }
   ]
 }

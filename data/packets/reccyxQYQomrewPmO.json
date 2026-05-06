@@ -328,6 +328,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Music: Level 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Hymns & Spirituals\n· Sing \"Be Still My Soul\" OR \"Hark! The Herald Angels Sing.\"\n\nFolk Songs\n· Sing \"Yankee Doodle\" (add in your own verses if you came up with some!) OR \"Sakura, Sakura\" and tell a little about the song.\n\nSol-fa: Level 2\n· Sing and give the hand signs for the sol-fa ladder."
+        },
+        {
+          "term": "Term 2",
+          "content": "Hymns & Spirituals\n· Sing \"Just a Closer Walk with Thee.\"\n\nFolk Songs\n· Sing \"Amazing Grace\" and the refrain (or more if you want) of \"En roulant ma boule.\"\n\nSol-fa: Level 2\n· First, clap the rhythm and then sing the line of music provided. (You may label the notes using sol-fa and/or the note names. Use the sol-fa hand signs when you sing.) \nLink: Line of Music"
+        },
+        {
+          "term": "Term 3",
+          "content": "Hymns & Spirituals\n· Sing \"What Wondrous Love is This\" or \"O for a Thousand Tongues to Sing.\"\n\nFolk Songs\n· Sing \"Shenandoah\" and tell what you remember about Chief John Skenandoah.\n\nSol-fa: Level 2\n· First, clap the rhythm and then sing the line of music provided. (You may label the notes using sol-fa and/or the note names. Use the sol-fa hand signs when you sing.)\nLink: Line of Music"
+        }
+      ]
     }
   ]
 }

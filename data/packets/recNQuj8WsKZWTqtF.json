@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Lit./Mythology: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Pilgrim's Progress Book 2: Tell about or illustrate Christiana and Mercy’s experience at the wicket gate, OR tell about or illustrate the Interpreter’s teaching through the various rooms.\n\n· A Wonder Book for Boys and Girls: Tell about or illustrate Hercules and the Old Man of the Sea, OR Tell about or illustrate Hercules meeting Atlas."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Pilgrim's Progress Book 2: Choose one to tell about or illustrate:\n- The pilgrims' time spent in the Porter’s Lodge and its events\n- Mr. Skill and Matthew’s illness.\n- Traveling through the Valley of Humiliation and the stories told \n- Mr. Fearing and Mr. Gaius.\n\n· A Wonder Book for Boys and Girls: Tell about or illustrate Baucis and Philemon serving a meal to the travelers, OR Tell all you can about or illustrate Quicksilver and his staff."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Pilgrim's Progress Book 2: Tell about or illustrate traveling through the Valley of Humiliation and the stories told, OR tell about or illustrate Mr. Fearing and Mr. Gaius.\n\n· A Wonder Book for Boys and Girls: Tell about or illustrate Bellerophon’s search and discovery of Pegasus, OR Tell about or illustrate the battle against Chimaera."
+        }
+      ]
     }
   ]
 }

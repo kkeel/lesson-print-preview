@@ -659,6 +659,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "History: Grade 1 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Frozen Land: Tell about the people of the Frozen Tundra. \nOR \nThe Very First Americans: Tell about the people of the Pacific Northwest.\n\n· Tell about or draw the story of the Owl and the Lemming.\nOR \nTales the Totem Tells: Tell about or draw the story of the Raven and the Indians."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Book of Indians: Tell about the people of the Mesas. \nOR \nThe Very First Americans: Tell about the people of the Plains.\n\n· Moonstick: The Seasons of the Sioux: Tell about or draw how Native Americans kept track of time. \nOR \nThe Very First Americans: Tell about or draw how Native Americans used what was available to them for food, water, shelter, and clothing."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Hiawatha and the Peacemaker: Tell about or illustrate the story of Hiawatha and the Peacemaker.\n\n· The Very First Americans: Tell about Woodland Tribes.\nOR \nItse Selu: Cherokee Harvest Festival: Tell about the Cherokee Festival of Itse Selu."
+        }
+      ]
     }
   ]
 }

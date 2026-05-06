@@ -641,6 +641,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "New Testament: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· • NT: What was Mark's emphasis in his gospel? What new thoughts did this reading provide about who Jesus is? What other insights did you gain?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· • NT: What is the overall structure and message of Romans? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: Tell the connection between unity and diversity of gifts, OR Tell the evidence of spiritual growth Paul mentions in Ephesians. What new thoughts did this reading provide? What other insights did you gain?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· • NT: Discuss Jesus, High Priest of a Better Covenant, in Hebrews 8 and relate it to your OT readings. OR Tell what you know of the authorship and aim of the letter to the Hebrews. At what points does the author show the supremacy of Christ? (You can use your Bible to give quotations.) What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: What is the structure of Revelation, and what is the main message? What new thoughts did this reading provide? What other insights did you gain?"
+        }
+      ]
     }
   ]
 }

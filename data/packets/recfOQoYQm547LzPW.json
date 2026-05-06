@@ -607,6 +607,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Dictation: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Dictate an unstudied passage with words similar in difficulty to what was dictated during the term."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Dictate an unstudied passage with words similar in difficulty to what was dictated during the term."
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Dictate an unstudied passage with words similar in difficulty to what was dictated during the term."
+        }
+      ]
     }
   ]
 }

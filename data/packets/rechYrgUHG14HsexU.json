@@ -668,6 +668,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Science: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about or draw 3 different habitats in your biome in which a butterfly lives."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about or draw a tree in your biome with at least 3 ways that others depend upon it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about or draw a creature from your biome and compare it to a creature from another biome."
+        }
+      ]
     }
   ]
 }

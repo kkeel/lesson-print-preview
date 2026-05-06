@@ -1078,6 +1078,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grades 4-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Describe one difference in Livingstone’s childhood home in Scotland compared to his current home in Africa. \n\n· Print a blank map of the world and fill in as much as you remember from this term. OR Print a blank map of Africa and fill in as much as you remember of Northern Africa."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell all you can about a lake or river that Livingstone has encountered during his voyages.  \n\n· Print a blank map of Africa and fill in as much as you remember of Central and Western Africa."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Describe an African terrain/region/area as Livingstone experienced it. \n\n· Print a blank map of Africa and fill in as much as you remember of Eastern and Southern Africa."
+        }
+      ]
     }
   ]
 }

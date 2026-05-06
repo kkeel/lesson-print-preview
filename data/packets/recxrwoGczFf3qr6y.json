@@ -664,6 +664,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Science: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about or diagram the ways that water affects the living things in the ecosystem."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about or diagram to explain a life cycle or food chain."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about or draw reasons that animals migrate."
+        }
+      ]
     }
   ]
 }

@@ -1917,6 +1917,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible Stories",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Hurlbut's Story of the Bible: Tell about the Garden of Eden OR Tell about Noah.\n\n· Hurlbut's Story of the Bible: Tell about the birth of Jesus OR Tell about the baptism of Jesus."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Hurlbut's Story of the Bible: Tell about Jericho OR Tell about Rahab.\n\n· Hurlbut's Story of the Bible: Tell about one time Jesus healed someone OR Tell one of Jesus' parables."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Hurlbut's Story of the Bible: Tell about David and Goliath OR Tell about Solomon.\n\n· Hurlbut's Story of the Bible: Tell about the resurrection of Jesus OR Tell about the coming of the Holy Spirit."
+        }
+      ]
     }
   ]
 }

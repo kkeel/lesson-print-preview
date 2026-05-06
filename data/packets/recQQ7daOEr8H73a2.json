@@ -222,6 +222,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mathematics: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Pre-Algebra\n·  Hands-On Equations Verbal Problems Book: p.137 (#16-22)\n\nGeometry: Grade 7\n· RightStart Math Level G: Work on Review and Games 3 (Lesson 27)."
+        },
+        {
+          "term": "Term 2",
+          "content": "Pre-Algebra\n· Hands-On Equations Verbal Problems Book: p.176-177 (#1-10)\n\nGeometry: Grade 7\n· RightStart Math Level G: Work on Review and Games 5 (Lesson 53)."
+        },
+        {
+          "term": "Term 3",
+          "content": "Pre-Algebra\n· Hands-On Equations Verbal Problems Book: p.143 (#63-69)\n\nGeometry: Grade 7\n· RightStart Math Level G: Work on Assessment 2 (Lesson 76)."
+        }
+      ]
     }
   ]
 }

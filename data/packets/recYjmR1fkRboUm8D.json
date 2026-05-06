@@ -1136,6 +1136,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art History",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Describe the physical position of the body of a person in the Ancient Egyptian tradition and explain why.\n\n· Write about the ancient art period that was most interesting to you and why you were impacted by it. What did you learn by completing the art project?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell all that you remember about stained glass and why it was important when it was first created.\n\n· What new mathematical drawing technique was created during the Renaissance, and what was its purpose in paintings?\n\n· What new type of paint was made during the Gothic period, and how was it made?"
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Put these Art Movements in order from earliest (1700s) to latest (20th century):\nDadaism, Realism, Cubism, Impressionism, Surrealism, Pre-Raphaelism, Neoclassicism, Futurism, Fauvism, Romanticism, Expressionism, Dutch Golden Age, Contemporary, Baroque, Pointillism, Rococo, Mannerism.\n\n· Tell all that you can remember about the art movement of your choice and why it was important in history. What movements influenced it, and what did it influence? Who were some major artists in that movement?"
+        }
+      ]
     }
   ]
 }

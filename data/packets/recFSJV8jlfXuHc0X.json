@@ -688,6 +688,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Picture Study",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· (GRADE 1-12) Describe your favorite art piece from Edward Mitchell Bannister. Give as much detail as you can.  OR Do a memory drawing of your favorite piece of art from Edward Mitchell Bannister.\n\n· (GRADE 9-12) What stood out to you in Redeeming Vision and why? If you did not read Redeeming Vision, then what stood out to you about Edward Mitchell Bannister in his biography and picture information that has been provided throughout the lessons this term, and why?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· (GRADE 1-12) Describe your favorite art piece from Lilias Trotter. Give as much detail as you can.  OR  Do a memory drawing of your favorite piece of art from Lilias Trotter.\n\n· (GRADE 9-12) What stood out to you in A Passion For the Impossible and why? If you did not read A Passion for the Impossible, then what stood out to you in Lilias Trotter's biography and picture information that has been provided throughout the lessons this term, and why?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· (GRADE 1-12) Describe your favorite art piece from Vincent van Gogh. Give as much detail as you can.  OR  Do a memory drawing of your favorite piece of art from Vincent van Gogh.\n\n· (GRADE 9-12) What stood out to you in Van Gogh's biography and why? If you did not read the optional biography, then what stood out to you in Van Gogh's biography and picture information that has been provided throughout the lessons this term, and why?"
+        }
+      ]
     }
   ]
 }

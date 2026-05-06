@@ -1493,6 +1493,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Old Testament: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about the Fall of Adam and Eve OR tell about God saving Noah from the Flood.\n\n· Tell about Joseph saving his family during the famine OR Abraham's servant finding a wife for Isaac."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about Moses going against Pharaoh OR tell about one of the Judges (Ehud, Deborah, Gideon, Samson).\n\n· Tell about Moses and the Ten Commandments OR tell about the making of the tabernacle."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about Saul anointed king OR tell about David and Goliath.\n\n· Tell a story about Elijah or Elisha OR tell about the building of the temple."
+        }
+      ]
     }
   ]
 }

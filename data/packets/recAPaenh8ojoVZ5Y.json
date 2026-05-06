@@ -642,6 +642,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Lettering: Level 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Show your project #1 to an adult.\n\n· Demonstrate one lettering style from this term and explain it to an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Show your project #2 to an adult.\n\n· Demonstrate one lettering style from this term and explain it to an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Show your project #3 to an adult.\n\n· Demonstrate one lettering style from this term and explain it to an adult."
+        }
+      ]
     }
   ]
 }

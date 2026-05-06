@@ -1239,6 +1239,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        }
+      ]
     }
   ]
 }

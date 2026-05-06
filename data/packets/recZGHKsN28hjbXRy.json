@@ -721,6 +721,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Current Events: Grades 9-12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Write a journal entry reflecting on any world event from your news reading this term."
+        }
+      ]
     }
   ]
 }

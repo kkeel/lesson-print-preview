@@ -641,6 +641,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Canadian Gov./ Economics: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 3",
+          "content": "· Dollars & Sense: Tell what you know about the formation of the national banking system OR Tell what you know about the services banks offer."
+        }
+      ]
     }
   ]
 }

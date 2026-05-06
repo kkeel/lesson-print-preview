@@ -2641,6 +2641,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Church History: Grades 1-3\n· Tell what has happened so far in the story of Curly the \"The Bandit of Ashley Downs.\" \n\nOld Testament: Grade 2\n· Tell about the Fall of Adam and Eve OR tell about God saving Noah from the Flood.\n\n· Tell about Joseph saving his family during the famine OR Abraham's servant finding a wife for Isaac.\n\nNew Testament: Grade 2\n· Tell about the Magi visiting Jesus OR the baptism of Jesus."
+        },
+        {
+          "term": "Term 2",
+          "content": "Church History: Grades 1-3\n· Tell what you recall about what has happened so far on Adoniram and Ann Judson's journey to Burma to be missionaries. \n\nOld Testament: Grade 2\n· Tell about Moses going against Pharaoh OR tell about one of the Judges (Ehud, Deborah, Gideon, Samson).\n\n· Tell about Moses and the Ten Commandments OR tell about the making of the tabernacle.\n\nNew Testament: Grade 2\n· Tell about Jesus feeding the five thousand OR tell about someone he healed."
+        },
+        {
+          "term": "Term 3",
+          "content": "Church History: Grades 1-3\n· What are two ways Judson used to share the good news about Jesus to the people of Burma?\n\nOld Testament: Grade 2\n· Tell about Saul anointed king OR tell about David and Goliath.\n\n· Tell a story about Elijah or Elisha OR tell about the building of the temple.\n\nNew Testament: Grade 2\n· Tell about Jesus raising Lazarus from the dead OR tell about the resurrection of Jesus."
+        }
+      ]
     }
   ]
 }

@@ -1079,6 +1079,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 8 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Westward with Fremont: Describe one of Solomon Carvalho's expedition encounters with a geographical landmark, such as a river or mountain range. Be sure to name the landmark and its regional area.\n\n· Fill in the blank map of the Northeastern States with their capital cities:\nLink: Northeastern US Map"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Westward with Fremont: Tell about the importance of expeditions, such as Fremont and Carvalho's journey to California, for the study of geography.\n\n· Fill in the blank map of the Midwest States with their capital cities:\nLink: Midwest Region Map"
+        },
+        {
+          "term": "Term 3",
+          "content": "· This Strange Wilderness: Describe how Audubon's passion for birds was influential in exploring the American Wilderness. Be sure to use a specific example of a location he experienced.\n\n· Fill in the blank map of the United States:\nLink: United States Map"
+        }
+      ]
     }
   ]
 }

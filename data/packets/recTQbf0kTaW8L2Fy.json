@@ -577,6 +577,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Penmanship & Copywork: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Write two lines of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Write two lines of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Write two lines of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        }
+      ]
     }
   ]
 }

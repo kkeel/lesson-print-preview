@@ -4095,6 +4095,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Literature: Grade 9",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Poetry Study: Grade 9\n· Scan or turn in one of your \"at-a-glance\" pages in your reference guide.\n\n· The Making of a Poem: Write a few lines about a poem you read this term. Include the name and form of the poem in your description."
+        },
+        {
+          "term": "Term 2",
+          "content": "Poetry Study: Grade 9\n· Scan or turn in one of your \"at-a-glance\" pages in your reference guide.\n\n· The Making of a Poem: Briefly explain the history of one of the poetic forms you studied this term (Sonnet, Ballad, etc.)"
+        },
+        {
+          "term": "Term 3",
+          "content": "Poetry Study: Grade 9\n· The Making of a Poem: Scan or turn in your list of descriptions and words from lesson 68. \n\n· The Making of a Poem: Write a few lines about a poem you read this term. Include the name and form of the poem in your description."
+        }
+      ]
     }
   ]
 }

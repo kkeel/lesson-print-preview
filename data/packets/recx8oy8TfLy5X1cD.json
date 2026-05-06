@@ -654,6 +654,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "New Testament: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell the story of the early church and how it grew.\n\n· Tell about Peter and a few of the experiences that happened to him as he helped start the early church."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about Paul's first missionary journey.\n\n· Name three people who helped support Paul in his ministry in your reading this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "· What do you remember about Paul's third missionary journey?\n\n· What are some hardships Paul faced on his journeys?  How did Paul respond to these trials?"
+        }
+      ]
     }
   ]
 }

@@ -233,6 +233,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Literature: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Fairy Tales\n· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term.\n\n\nTall Tales/ Fables\n· American Tall Tales & Aesop's Fables: US Students: Tell about or illustrate Davy Crockett OR Tell about or illustrate Stormalong.\nOR\nSpirit of Canada: Canadian Students: Tell a story about Ti-Jean."
+        },
+        {
+          "term": "Term 2",
+          "content": "Fairy Tales\n· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term.\n\nTall Tales/ Fables\n· American Tall Tales: Tell about or illustrate your favorite tall tale character from this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Fairy Tales\n· Tales from Grimm or Around the World in 80 Tales: Tell about or illustrate one of the tales you enjoyed this term.\n\nTall Tales/ Fables\n· Aesop's Fables: Tell about one of Aesop's Fables you read this year. \nOR \nAmerican Tall Tales: Tell about or illustrate Paul Bunyan."
+        }
+      ]
     }
   ]
 }

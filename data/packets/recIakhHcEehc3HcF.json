@@ -1155,6 +1155,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about the correct way to draw. What muscles do you use?\n\n· Complete a mass drawing of a trillium and turn it into something recognizable."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Demonstrate vertical and horizontal brush forms as perfectly as you are able.\n\n· Demonstrate oblique brush forms as perfectly as you are able."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about each of the secondary colors and what colors you mix to create them.\n\n· Tell how to make different greens, purples, and oranges."
+        }
+      ]
     }
   ]
 }

@@ -1724,6 +1724,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 10 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEcon/Civics: Grade 10 (U.S.)\n· Think: The Life of the Mind and the Love of God: Choose one question to answer:\nWrite about four things you learned from the book.\nor\nExplain why anti-intellectualism is not compatible with Christianity.\n\n· Atomic Habits: Define the Four Laws of Behavior Change presented in the book.\n\nEthics: Part 4\n· Ourselves: Book II: Why is it necessary that conscience should be instructed? Show, by example, how this instruction comes OR write a few paragraphs on “Ordered Friendship.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEthics: Part 4\n· Ourselves: Book II: Discuss the ruling of conscience as regards to Fortitude or Prudence; illustrate this from your readings this term OR write a short essay on “Casual Opinions” and the “Uninstructed Conscience” as the sin of ignorance."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEcon/Civics: Grade 10 (U.S.)\n· What Would Keynes Do?: Choose one question or quote and explain in light of the economic principles you have learned, giving examples from everyday life around you: \n- Explain rational choice theory and its impact on decision-making in a person's life. \n- In What Would Keynes Do?, the author quotes Steven Levitt, \"Economists love incentives. The typical economist believes the world has not yet invented a problem that he cannot fix if given a free hand to design the proper incentives schemes.\" \n- How do we best manage common resources? \n- \"We give to charity in order to better provide public goods not supplied by the market.\"\n\nEthics: Part 4\n· Ourselves: Book II: What is meant by the “art of living?\" How do moral judgements impact this? AND Name some instructors of conscience, giving examples."
+        }
+      ]
     }
   ]
 }

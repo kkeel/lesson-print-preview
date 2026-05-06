@@ -1917,6 +1917,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Composition: Grade 11",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Steering the Craft: What can you say about “the sound of your writing,” “punctuation and grammar,” or “sentence length and complex syntax”?\n\n\n· Steering the Craft: Explain the use of repetition, rhythm, and echoes (structural repetition) in writing.\n\n\n· Name three logical fallacies you learned this term and give examples of each."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Steering the Craft: Tell why “the person and the tense of the verb matter.”\n\n· Steering the Craft: Explain the differences and use of point of view and voice in writing; give examples from this term's readings.\n\n\n· Why do citation systems exist? Explain plagiarism and how to avoid it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Steering the Craft: Explain what Le Guin means by “the world is full of stories” and tell about “invisible exposition.”\n\n\n· Steering the Craft: Explain “Crowding and Leaping”.\n\n· Describe your favorite writing assignment from the term or year. Did you find that writing helped you think more deeply about your topic?"
+        }
+      ]
     }
   ]
 }

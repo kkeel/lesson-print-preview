@@ -647,6 +647,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Ethics: Part 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Ourselves: Book II: What is the function of Conscience? OR Contrast Willfulness and Will, giving examples from your reading."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Ourselves: Book II: What do you have to say about \"the way of the will\"? Distinguish between the obedience of habit and that of choice, giving examples."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Ourselves: Book II: Write on the capacities and disabilities of the soul OR Show how fit and necessary the knowledge of God is to man. Is it inevitable?"
+        }
+      ]
     }
   ]
 }

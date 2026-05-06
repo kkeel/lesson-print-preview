@@ -2355,6 +2355,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Math Lessons: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level D: Round the following to the nearest 10, 100, and 1000:\n2642\n927\n1563\n\n· RightStart Math Level D: Compare using >, <, or =.\n475 + 32 ____ 32 + 475\n65 + 72 ____ 66 + 73\n4 x 8 ____ 7 x 5\n\n· RightStart Math Level D: Solve:\n(7 + 3) x b = 400\n4 x 3 + 5 x n = 32\n6715 - 2848 ="
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level D: Solve:\n2487 x 4 =\n63 ÷ 9 =\n8374 - 2555 =\n\n\n· RightStart Math Level D: Continue the patterns with one more term:\n15, 20, 25, ____\n15, 13, 11, ____\n15, 25, 35, ____\n\n· RightStart Math Level D: Solve:\nNancy bought four paint tubes for $16 each. Sales tax was $3. What was the total cost?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level D: Work on Final Assessment (Lesson 139)."
+        }
+      ]
     }
   ]
 }

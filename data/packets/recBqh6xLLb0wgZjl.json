@@ -1524,6 +1524,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Science: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Newton at the Center: Explain how the study of motion helped scientists, like Brahe, Galileo, and Kepler, learn new things about planetary movement.\n\n· Newton at the Center: Explain both perspectives of the conflict between Galileo and the Church. \n\n· Newton at the Center: Explain Newton's 3 Laws of motion using words, drawings, and/or diagrams.\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Newton at the Center: Newton, Boyle, Cavendish, Lavoisier, and many others made important discoveries about matter. Explain how their work helped transition alchemy into a true science, called chemistry.\n\n· Newton at the Center: Explain 3 ways that moving particles can affect other matter.\n\n· Newton at the Center: Discuss the relationship between electricity and magnetism.\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Einstein Adds a New Dimension: Tell what you know about the nature of light.\n\n· Einstein Adds a New Dimension: Explain what is meant by E = mc^2 and give examples as to how this is relevant in the world.\n\n· Einstein Adds a New Dimension: Describe the process of science, using examples from the text, as needed.\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        }
+      ]
     }
   ]
 }

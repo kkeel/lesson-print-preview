@@ -2355,6 +2355,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Math Lessons: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level A: Draw a part-part-whole circle set. Find all the ways to partition 6.\n\n· RightStart Math Level A: Use the abacus to show 3-ten 4 and 5-ten 1.\n\n· RightStart Math Level A: Use the buttons and the math balance to show that 7 = 3 + 4."
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level A: Luke wants to give out 100 popsicles to children at the fair. He has 70 popsicles already. How many more popsicles does he need?\n\n· RightStart Math Level A: Make $1.00 using dimes. Count the money aloud.\n\n· RightStart Math Level A: Show 16 using pennies, the abacus, and a drawing."
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level A: Use place value cards to make the number 42.\n\n· RightStart Math Level A: How many tens does 42 have? How many ones?\n\n· RightStart Math Level A: What number has 8 tens and 5 ones? Show the number on place value cards and on the abacus."
+        }
+      ]
     }
   ]
 }

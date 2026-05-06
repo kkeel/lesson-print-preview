@@ -2446,6 +2446,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Botany Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Day 1:\n• What a Plant Knows: Pick one aspect of things that a \"plant knows\" and write about it.\n\n· Day 2:\n• Elementary Studies: Explain what you know about photosynthesis. Use sketches or diagrams.\n• Elementary Studies: What are the different parts of a flower, and what are they used for? Use sketches or diagrams.\n\n· Day 3:\n• Botany in a Day: Outline with words and sketches the 8 common plant families we studied and how to recognize them.\n\n· Day 4:\n• The Milkweed Lands: Write a summary OR draw/diagram a 4-panel illustration of the ecological role that milkweed plays over the seasons.\n\n· Day 5:\n• Practical work or links: Describe with words and sketches your observations of 2 local plants OR discuss the importance of soil quality."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Day 1:\n• The Hidden Life of Trees: Pick one aspect of The Hidden Life of Trees and write about it.\n\n· Day 2:\n• Elementary Studies and/or practical work: Use words or pictures to contrast the form and function of at least two types of seeds OR describe the process of keying out a flower, twig, or tree.\n\n· Day 3:\n• Practical work: Use words and sketches to describe your observations of 2 local trees.\n\n· Day 4:\n• Current events: Discuss one current event in botany that you read about this term.\n\n· Day 5:\n• Practical work: Present your citizen science project to your teacher."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Day 1:\n• Oaxaca Journal: Describe some of the ferns the author saw in Oaxaca and some of his observations.\n\n· Day 2:\n• Elementary Studies: Describe the process of germination. How are a corn seed and a bean seed different?\n\n· Day 3:\n• Botany in a Day and practical work: What new plants have you seen locally since spring has arrived? How many of the 8 first families that we learned have you found?\n\n· Day 4:\n• Botany in a Day and practical work: Describe how you prepared soil samples for microscopic examination and explain any observations you made between different locations or times of year.\n\n· Day 5:\n• Practical work: Show your teacher your Botany Notebook. Select a favorite page to tell about and scan."
+        }
+      ]
     }
   ]
 }

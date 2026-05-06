@@ -1152,6 +1152,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: High School Fast Track",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Explain contrasting colors. List six pairs of contrasting colors. (You can be general with hue names; i.e., yellow as opposed to Hansa yellow.)\n\n· Describe fully what stippling is. How can you use it to mix colors?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Demonstrate and explain three watercolor techniques you have learned.\n\n· Explain why it is important to do repetitive assignments in art."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Explain what tonal value is and how to appropriately use your erasers in a tonal drawing.\n\n· Tell all you know about setting up a composition for art."
+        }
+      ]
     }
   ]
 }

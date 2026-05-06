@@ -421,6 +421,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 4\n· The Universe in You: Tell about or draw what microscopes do. OR Tell about or draw something that you or another scientist has seen with microscopes.\n\n· Share what you learned about using the microscope. Tell about a challenge in using this tool and how you worked to overcome this challenge.\n\nNatural History: Grade 4\n· A World in a Drop of Water: Describe or draw 3 different examples of microscopic pond life."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 4\n· To Fly: Tell about or draw how the Wright Brothers made their plane fly when no one else could. OR Tell how the Wright Brothers helped each other when they got frustrated.\n\n· Explain how you did an investigation in the science lab this term and what you learned from it.\n\nNatural History: Grade 4\n· The Octopus Scientists: Tell about or draw 3 unique features of the octopus. OR Tell about why this kind of field work is challenging."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 4\n· The Elephant Scientist: What are sound waves? OR Describe what you know about elephant communication.\n\n· Explain how you did an investigation in the science lab this term and what you learned from it.\n\nNatural History: Grade 4\n· Life on Surtsey: How are the physical conditions, plant life, and animal life interrelated? OR Explain why it is so important for scientists to study Surtsey."
+        }
+      ]
     }
   ]
 }

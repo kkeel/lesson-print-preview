@@ -609,6 +609,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar: Grade 10",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Caesar's English II: Write a sesquipedalian story using seven of the following words: placate, vivacious, surfeit, benevolent, profuse, sublunar, alacrity, declaim, and revitalize. (You may change their part of speech if needed. For example: revitalize to revitalization.)"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Caesar's English II: Write a sesquipedalian story using 10 of the following words: verdure, tumult, equivocal, germane, nonplussed, infusion, ignominy, impending, gratuitous, migratory, tacit, sanguine, mortify, elucidate, importune, pensive, magnanimous. (You may change their part of speech if needed. For example: revitalize to revitalization.)"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Caesar's English II: Write a sesquipedalian story using 10 of the following words: acrimony, urbane, incongruous, felicity, irrevocable, sanctimonious, transient, latent, livid, rectify, punctilious, abject, solicitude, eccentric, capitulate, adjacent, vociferate. (You may change their part of speech if needed. For example: revitalize to revitalization.)"
+        }
+      ]
     }
   ]
 }

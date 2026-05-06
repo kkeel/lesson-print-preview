@@ -213,6 +213,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "History: Grades 2-3 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Canadian History: Grades 2-4\n· (Famous Canadian Stories and Laura Secord's Brave Walk) Tell the story of Laura Secord. OR (The Spirit of Canada) Describe how the characters in Catharine Parr Traill's Canadian Crusoes were able to survive in the forest."
+        },
+        {
+          "term": "Term 2",
+          "content": "Canadian History: Grades 2-4\n· (Born! and The Kids Book of Canadian History) What were some of the reasons why the provinces wanted to come together to form the Dominion of Canada in 1867? OR (The Spirit of Canada and The Kids Book of Canadian History) Tell all you remember about what life was like around the middle of the nineteenth century. What sorts of work did people do?"
+        },
+        {
+          "term": "Term 3",
+          "content": "Canadian History: Grades 2-4\n· (Belle of Batoche and The Kids Book of Canadian History) Tell all you know about Métis culture in nineteenth-century Canada—this can include historical events and/or the Métis way of life. OR (I am not a Ghost and The Kids Book of Canadian History) Why and how did the Canadian Pacific Railway get built? Why was its completion such an important event in Canadian history?"
+        }
+      ]
     }
   ]
 }

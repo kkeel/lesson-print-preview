@@ -1921,6 +1921,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar/Comp: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Town: Sentence 63\n\n· Paragraph Town: Tell what you know so far about writing paragraphs."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Town: Sentence 83\n\n\n· Paragraph Town: Write two paragraphs on the subject of \"Chalk & Pastels.\" The first paragraph should tell how they are similar, and the second paragraph should tell how they are different. (If you have no experience with either of these, choose two other art media.) Connect the two paragraphs using appropriate words in the topic sentence of the second paragraph."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Label parts of speech, parts of the sentence, phrases, and clauses. Write a comment.\nPractice Town: Sentence 100\n\n\n· Paragraph Town: Write at least two paragraphs discussing the most important ideas and/or events of the time period we studied this year. Start with an outline and include all of the elements of good writing you have learned. Be sure to edit."
+        }
+      ]
     }
   ]
 }

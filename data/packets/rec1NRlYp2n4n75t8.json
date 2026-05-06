@@ -633,6 +633,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "History: Grade 1 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· (The Pencil) Describe what life was like for Susan Avingaq growing up in the Arctic. OR Tell about or draw the story of The Owl and the Lemming."
+        },
+        {
+          "term": "Term 2",
+          "content": "· (Maple Moon) Tell about or draw the story of how Rides the Wind discovered sweet water from a maple tree. OR (The Gift of the Great Buffalo) Tell all you know about Métis culture and their community buffalo hunts."
+        },
+        {
+          "term": "Term 3",
+          "content": "· (On the Trapline) Tell about or illustrate the boy's journey with Moshom, his grandfather. OR (Hiawatha and the Peacemaker) Tell about or illustrate the story of Hiawatha and the Peacemaker."
+        }
+      ]
     }
   ]
 }

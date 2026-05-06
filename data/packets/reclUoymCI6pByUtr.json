@@ -654,6 +654,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Lettering: Level 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Show your completed Chalkboard Project 1 to an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Show your completed Chalkboard Project 2 to an adult.\n\n· The Complete Book of Chalk Lettering: Explain your understanding of the five main principles of design."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Show your completed Chalkboard Project 3 to an adult.\n\n· The Complete Book of Chalk Lettering: Discuss why \"chalk dust can be your friend.\""
+        }
+      ]
     }
   ]
 }

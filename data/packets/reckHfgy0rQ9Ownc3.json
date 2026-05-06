@@ -2341,6 +2341,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Recitation: Grades 1-2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Recite \"How Firm a Foundation\" OR Psalm 95:1-7.\n\n·  Recite Genesis 1:1-8 OR Mark 4:35-41."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Recite \"O Worship the King\" OR Psalm 93:1-5.\n\n· Recite Numbers 6:22-26 OR Mark 10:13-16."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Recite \"When Morning Gilds the Skies\" OR Psalm 100:1-5.\n\n· Recite Exodus 40:34-38 OR Acts 4:32-34."
+        }
+      ]
     }
   ]
 }

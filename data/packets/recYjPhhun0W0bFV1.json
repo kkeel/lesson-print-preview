@@ -1051,6 +1051,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Poetry Study: Grade 10",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· What new ideas have you had about poetry this term?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Share a poem with someone that you have enjoyed, or tell about one poem you have enjoyed and why."
+        },
+        {
+          "term": "Term 3",
+          "content": "· What 4 Questions can we ask about?"
+        }
+      ]
     }
   ]
 }

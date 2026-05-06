@@ -1664,6 +1664,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        }
+      ]
     }
   ]
 }

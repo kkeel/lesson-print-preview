@@ -2341,6 +2341,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Recitation: Grades 4-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Recite \"How Firm a Foundation\" OR Psalm 67:1-7; Psalm 18:30-35.\n\n· Recite Joshua 5:13-6:9 OR John 3:9-21.\n\n· Have the student read aloud for one minute from the next (previously unread) section in Stories From the History of Rome (Grade 4) or another book the student has been using for reading practice. Count the number of words read correctly during that minute. \nGRADE 4: For the Fall of 4th grade, the typical fluency rate is somewhere between 70-120 words per minute. \nGRADE 5: For the Fall of 5th grade, the typical fluency rate is somewhere between 80-130 words per minute. \nGRADE 6: For Fall of 6th grade, the typical fluency rate is between 90-140 words per minute. (Rasinski & Padak, 2009)\n\n· Have the student narrate what was read. Make notes on comprehension and reading expression."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Recite \"O Worship the King\" OR Psalm 111:1-10.\n\n· Recite Joshua 24:14-25 OR John 13:33-14:6.\n\n· Have the student read aloud for one minute from the next (previously unread) section in Stories From the History of Rome (GRADE 4) or another book the student has been using for reading practice. Count the number of words read correctly during that minute. \nGRADE 4: For the Winter of 4th grade, the typical fluency rate is somewhere between 80-130 words per minute.\nGRADE 5: For the Winter of 5th grade, the typical fluency rate is somewhere between 90-140 words per minute.\nGRADE 6: For the Winter of 6th grade, the typical fluency rate is between 100-150 words per minute. (Rasinski & Padak, 2009).\n\n· Have the student narrate what was read. Make notes on comprehension and reading expression."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Recite \"When Morning Gilds the Skies\" OR Psalm 118:19-29.\n\n· Recite Ruth 1:12-2:1 OR John 15:5-17.\n\n· Have the student read aloud for one minute from the next (previously unread) section in a book the student has been using for reading practice. Count the number of words read correctly during that minute. \nGRADE 4: For the Spring of 4th grade, the typical fluency rate is somewhere between 90-140 words per minute.\nGRADE 5: For the Spring of 5th grade, the typical fluency rate is somewhere between 100-150 words per minute.\nGRADE 6: For the Spring of 6th grade, the typical fluency rate is between 110-160 words per minute (Rasinski & Padak, 2009).\n\n· Have the student narrate what was read. Make notes on comprehension and reading expression."
+        }
+      ]
     }
   ]
 }

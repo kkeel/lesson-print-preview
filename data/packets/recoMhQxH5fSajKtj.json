@@ -625,6 +625,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "New Testament: Grade 9",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 2",
+          "content": "·  Galatians: Choose one:\na) Tell how Paul addresses the believers in Galatia regarding faith and law. What are some ways the Gospel was being undermined? \nb) What is meant by “It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery” (Gal. 5:1). \nc) Discuss, “Since we live by the Spirit, let us keep in step with the Spirit” (Gal. 5:25)."
+        }
+      ]
     }
   ]
 }

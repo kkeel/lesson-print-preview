@@ -2355,6 +2355,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Math Lessons: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level B: Use a Part-Part-Whole Circle Set to solve:\nErica has 6 dogs and 5 cats as her only pets. How many pets does she have altogether?\n\n· RightStart Math Level B: Write the answers:\n38 + 10 =\n7 + 1=\n4 + 4=\n6 + 4=\n\n· RightStart Math Level B: Write the even numbers through 10."
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level B: Use >, <, or = to make each true:\n40 ___ 20 + 20\n7 + 8 ____ 8 + 8\n\n· RightStart Math Level B: Solve using mental math strategies. Tell what strategy you used. \n58 + 4 =\n29 + 6 =\n\n· RightStart Math Level B: Add:\n3261 + 1654 = \n2256 + 3754 ="
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level B: Solve:\n45 - 40 =\n42 - 32 =\n2945 + 99 =\n\n· RightStart Math Level B: Use a Part-Part-Whole Circle Set to solve:\nEthan's book has 64 pages. He has read 32 pages. How many more pages will he need to read in order to finish the book?\n\n· RightStart Math Level B: Draw a circle and divide it into quarters."
+        }
+      ]
     }
   ]
 }

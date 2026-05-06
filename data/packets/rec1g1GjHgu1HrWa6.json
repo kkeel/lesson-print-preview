@@ -519,6 +519,21 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Shakespeare: Beginner Track",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· GRADES 4-8 - A Midsummer Night's Dream: Describe a scene with your favorite character."
+        },
+        {
+          "term": "Term 2",
+          "content": "· GRADES 4-8 - A Midsummer Night's Dream: Describe a scene that takes place in the woods.\n\n· GRADES 7-8 - A Midsummer Night's Dream: Tell how Puck changed throughout the play."
+        }
+      ]
     }
   ]
 }

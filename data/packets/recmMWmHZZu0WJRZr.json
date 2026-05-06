@@ -317,6 +317,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "PE: Grades 4-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Folk Dancing\n· Perform the song and dance for Great Big House OR Brother Come and Dance.\n\nSports\n· Explain the rules of one of the soccer games from this term OR demonstrate how to kick a soccer ball.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Folk Dancing\n· Perform the song and dance for Old Joe Clark OR Brown Eyed Mary.\n\nSports\n· Explain the rules to one of the basketball games from this term OR demonstrate how to dribble a basketball and how to properly throw it into the basket.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Folk Dancing\n· Perform the song and dance for Billy, Billy OR Paw Paw Patch.\n\nSports\n· Explain the rules to one of the rec games from this term.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term."
+        }
+      ]
     }
   ]
 }

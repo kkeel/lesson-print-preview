@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Story of Arithmetic: Part 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Number Stories of Long Ago: Tell what you know about how methods of multiplication have changed over time."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Number Stories of Long Ago: Tell what you know about how fractions have changed over time OR Tell about one of the number puzzles you found interesting."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Number Stories of Long Ago: Tell about a story problem or puzzle you found interesting this term."
+        }
+      ]
     }
   ]
 }

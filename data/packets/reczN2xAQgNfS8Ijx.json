@@ -647,6 +647,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Ethics: Part 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Ourselves: Book II: Why is it necessary that conscience should be instructed? Show, by example, how this instruction comes OR write a few paragraphs on “Ordered Friendship.\""
+        },
+        {
+          "term": "Term 2",
+          "content": "· Ourselves: Book II: Discuss the ruling of conscience as regards to Fortitude or Prudence; illustrate this from your readings this term OR write a short essay on “Casual Opinions” and the “Uninstructed Conscience” as the sin of ignorance."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Ourselves: Book II: What is meant by the “art of living?\" How do moral judgements impact this? AND Name some instructors of conscience, giving examples."
+        }
+      ]
     }
   ]
 }

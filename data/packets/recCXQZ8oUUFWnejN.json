@@ -629,6 +629,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Walks with a Naturalist 2:  Tell about or draw a caterpillar.  OR Tell about or draw a leaf or tree nut."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Walks with a Naturalist 2:  Tell about or draw the ways that insects overwinter.  OR Tell about or draw a creature that lives in an unfamiliar habitat, such as the seaside or swamp."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Walks with a Naturalist 2:  Tell about or draw signs that animals leave behind.  OR Compare using words or pictures the life cycle of a moth with that of the damselfly."
+        }
+      ]
     }
   ]
 }

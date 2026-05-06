@@ -1100,6 +1100,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Elementary Geography: Tell what happens when you try to flatten out something that is round, like the Earth or an orange. (How does the Earth’s roundness make it hard to draw a flat map?)\n\n· Me on the Map: Build a model of a room in your home."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Elementary Geography: Explain how to find directions outside and how to add a compass rose to a map.\n\n· The Reason for Seasons: Explain or act out what makes the seasons."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Elementary Geography: Tell about the oceans and their different parts. You may use drawings to describe different parts. (Parent note: oceans, bays, gulfs, etc.)\n\n· Down Comes the Rain: Tell what you can about the water cycle. How does water change form and travel around our world?"
+        }
+      ]
     }
   ]
 }

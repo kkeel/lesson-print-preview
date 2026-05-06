@@ -2853,6 +2853,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Chemistry Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Day 1: Choose 2 of the following from Introductory Chemistry:\n• #8, #12, #24, #26 from Ch.4-5 Cumulative Rev\n\n· Day 2: Choose 2 of the following from Introductory Chemistry (substitute previous day's questions as appropriate based on material covered):\n• #12, #16, #10, #18 from Ch.6-7 Cumulative Rev\n\n· Day 3: Choose 2 of the following from Introductory Chemistry (substitute previous days' questions as appropriate based on material covered):\n• #2, #14, #18, #20 from Ch.8-9 Cumulative Rev\n\n· Day 4:  Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5: Explain an example of chemistry in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Day 1: Choose 2 of the following from Introductory Chemistry (substitute previous term's questions as appropriate based on material covered):\n• #2, #14, #20, #24 from Ch.10-12 Cumulative Rev\n\n· Day 2: Choose 2 of the following from Introductory Chemistry (substitute previous questions as appropriate based on material covered):\n• #28, #34, #48 from Ch.10-12 Cumulative Rev, #4 from Ch.13-15 Cumulative Rev\n\n· Day 3: Choose 2 of the following from Introductory Chemistry (substitute previous questions as appropriate based on material covered):\n• #14, #22, #32, #36 from Ch.13-15 Cumulative Rev\n\n· Day 4: Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5: Explain an example of chemistry in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Day 1: Choose 2 of the following from Introductory Chemistry (substitute previous term's questions as appropriate based on material covered):\n• #2, #10, #14, #22 from Ch.16-17 Cumulative Rev\n\n· Day 2: Choose 2 of the following from Introductory Chemistry (substitute previous questions as appropriate based on material covered):\n• #84, #94 from Ch.18, #92, #96 from Ch.19\n\n· Day 3: Choose 2 of the following from Introductory Chemistry (substitute previous questions as appropriate based on material covered):\n• #118, #134 from Ch.20, #14, #42 from Ch.21\n\n· Day 4: Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Day 5:  Submit your citizen science poster or graphic, supplemented with any stories or explanations that are helpful. Convey any questions this project made you think of."
+        }
+      ]
     }
   ]
 }

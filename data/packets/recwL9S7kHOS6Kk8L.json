@@ -1081,6 +1081,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Ancient History: Grades 10-12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· In what ways does the Roman Republic remind you of your own country? In what ways is it different?\n\n·  The Aeneid: Describe the character of Aeneas. What do you think are his defining traits? Give a few concrete examples of where you see them in the Aeneid. \n\n· Draw two pieces of art that you remember seeing this term. Briefly say what they are and describe them. What do you think they say about the cultures that they were a part of?\n\n· Ancient Empires: What does the IEMP model use for an approach to studying Ancient History?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Based on your readings in Ancient Empires this term, how do you think that the Roman Empire was able to hold together such a large group of people? How was the empire different from other empires you have studied, or from the Roman Republic that preceded it?\n\n·  Choose one:\n- In book six of the Aeneid, Vergil describes Aeneas’ journey into the underworld. How does he describe the underworld? What does it tell you about the Roman view of the afterlife and how is that description similar or different from your beliefs about life after death?\n- Draw two pieces of art that you remember seeing this term. Briefly say what they are and describe them. What do you think they say about the cultures that they were a part of? \n- Early Christian Writings & \"Martyrdom of Ignatius\" online resource: Compare the martyrdom stories that you read of Polycarp and Ignatius of Antioch. What do they have in common? How are they different? What character traits do both men share?"
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Choose one: \n- The most common adjective that Vergil uses to describe Aeneas is “pious.” Is this the adjective you would have used to describe his character? From the books of the Aeneid you have read, tell what ways this piety is exemplified and why you think this was important to Vergil.\n- Early Christian Writings: Based on the writings of the early church fathers that you have read this term, what were some of the primary concerns of the early church? What are the most common themes? Are the concerns of the early church the same as or different than the concerns of the Christian church today?\n- Describe some of the accusations that the Romans made against the early Christians and how they are clarified or refuted by the apologist Justin Martyr.\n- Ancient Empires: How did Diocletian and Constantine help to resolve the crises of the 3rd century? What role did Christianity play in both creating and resolving some of the problems in the late Roman Empire?"
+        }
+      ]
     }
   ]
 }

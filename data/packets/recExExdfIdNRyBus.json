@@ -645,6 +645,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Spiritual Formation: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Transformed by Truth: Explain how the Bible is a \"Big Story.\" What elements of story do we see in the Bible? Give examples of those elements from the Bible story. \n\n· Transformed by Truth: Give two of the reasons the Bible should be studied, along with explanations of those reasons."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Transformed by Truth: What are the three steps of inductive Bible study? Explain what each step involves. \n\n· Transformed by Truth: How would you go about studying a chapter of the Bible?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· This Changes Everything: How has the author supported her point that \"why who we are influences what we do\"? Name two areas the gospel affects in our lives, and how what we do changes in those areas because of who we are in Christ. \n\n· This Changes Everything: In what ways does the gospel affect how we relate to the church? What are some ways the author states a believer is called to support the church?"
+        }
+      ]
     }
   ]
 }

@@ -2853,6 +2853,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Biology Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· General Biology--choose 2 exercises from the following:\n• Ch.1 Exercises-#3, #16, Ch.2 Exercises-#5, #16\n\n· General Biology--Choose 2 exercises from the following: \n(You may substitute the previous day's questions as appropriate based on the material covered)\n• Ch.2 Exercise-#28, Ch.3 Exercises-#7, #22, or #30\n\n· General Biology--Choose 2 exercises from the following: \n(You may substitute previous days' questions as appropriate based on the material covered)\n• Ch.4 Exercises-#8, #36, Ch.5 Exercises-#22, #39\n\n· Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Explain an example of biology in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 2",
+          "content": "· General Biology--Choose 2 exercises from the following: \n(You may substitute the previous term's questions as appropriate based on the material covered.)\n• Ch.6 Exercises-#4, #28, #33, or #35\n\n· General Biology--Choose 2 exercises from the following: \n(You may substitute questions from the previous day or terms as appropriate, based on material covered)\n• Ch.7 Exercises-#4, #12, #30, or #34\n\n· General Biology--Choose 2 exercises from the following: \n(You may substitute questions from the previous days or terms as appropriate, based on material covered)\n• Ch.8 Exercises-#17, #29, Ch.9 Exercises-#8, #57\n\n· Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Explain an example of biology in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        },
+        {
+          "term": "Term 3",
+          "content": "· General Biology--Choose 2 exercises from the following:\n(You may substitute questions from the previous terms as appropriate, based on material covered.)\n• Ch.10 Exercises-#5, #19, #23, or #35\n\n· General Biology--Choose 2 exercises from the following:\n(You may substitute questions from the previous day or terms as appropriate, based on material covered)\n• Ch.11 Exercises-#4, #10, #32, or #47\n\n· General Biology--Choose 2 exercises from the following: \n(You may substitute questions from the previous days or terms as appropriate, based on material covered)\n• Ch.12 Exercises-#6, Ch.13 #5, #6, or #12\n\n· Explain one of your laboratory exercises from this term and what you learned from it. Describe any questions this made you think of.\n\n· Explain an example of biology in the world around you that you noticed this term. This might be from your project work, current events, nature walks, or your free read. Describe any questions this made you think of."
+        }
+      ]
     }
   ]
 }

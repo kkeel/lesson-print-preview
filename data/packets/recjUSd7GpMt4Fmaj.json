@@ -1166,6 +1166,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Paint a scene with simple watercolor figures engaged in an activity.\n\n· Paint a spray of leaves in outline, including curvature and foreshortening.\n\n· Illustrate a poem from the term and explain the watercolor and brush drawing techniques you included."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Explain these terms from color theory: monochromatic, color swatch.\n\n· Complete a circular value scale using your favorite color.\n\n· Explain what neutral does when added to other pigments."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Paint a sphere with pastels, perfectly demonstrating shading, shadows and highlights.\n\n· Draw and label the proper proportions of an adult human.\n\n· Explain what foreshortening is and how to apply it in your artwork."
+        }
+      ]
     }
   ]
 }

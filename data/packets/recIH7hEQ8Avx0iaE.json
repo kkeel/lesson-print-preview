@@ -619,6 +619,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Story of Geometry: Part 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· String, Straight-Edge, and Shadow: Tell what you know of the Pythagorean Theorem."
+        },
+        {
+          "term": "Term 2",
+          "content": "· String, Straight-Edge, and Shadow: Tell what you know of the Golden Mean."
+        },
+        {
+          "term": "Term 3",
+          "content": "· String, Straight-Edge, and Shadow: Tell about some of the geometrical feats that the Greeks discovered."
+        }
+      ]
     }
   ]
 }

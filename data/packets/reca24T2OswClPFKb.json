@@ -1150,6 +1150,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· What effect does neutral have when added to a color?\n\n· Describe what happens when adding neutral slowly to a pigment.\n\n· Explain what a color swatch is."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Draw 6 stick figures doing different actions.\n\n· Sketch out proper proportions of the human head.\n\n· Draw children playing a game that you know well. Include all of the positions that you can remember. Tell your teacher about your drawing and the game."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Create a brush drawing of a monochromatic leaf.\n\n· Brush draw a scene from history or literature using all of the watercolor techniques you have learned.\n\n· Recall how you created birds on spring branches."
+        }
+      ]
     }
   ]
 }

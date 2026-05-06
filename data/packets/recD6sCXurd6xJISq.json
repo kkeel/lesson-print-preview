@@ -1170,6 +1170,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain how changing your primary colors affects your palette.\n\n· Explain what tonal value is and how to appropriately use your erasers in a tonal drawing.\n\n· What happens to a hue (aka Color) when you add gray to it?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Create your monogram using all your initials.\n\n· Demonstrate and explain three watercolor techniques you have learned.\n\n· Explain why it is important to do repetitive assignments in art."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell all you know about setting up a composition for art.\n\n· Explain what tonal value is and how to appropriately use your erasers in a tonal drawing.\n\n· Create four different textures in your art book with either pencil or charcoal and share with your teacher."
+        }
+      ]
     }
   ]
 }

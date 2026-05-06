@@ -2213,6 +2213,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 7 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Government: Grade 7\n· Our Rugged Constitution: Tell all you know about the powers of Congress.\n\nEthics: Part 1\n· Ourselves: Book I: Describe the work of two \"Esquires of the Body\" (appetites), and show that these Esquires must be servants, not masters, in Mansoul. OR Tell about some of the perils of Mansoul."
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Government: Grade 7\n· Our Rugged Constitution: Tell all you know about one of the branches of the government and the qualifications, roles, and limits for that position.\n\nEthics: Part 1\n· Ourselves: Book I: Show that the sense of touch is a useful servant but a bad master. How may we get a \"hearing ear?\" Mention some sounds that you have enjoyed this term. OR How do the Beauty Sense and Imagination help assist Intellect in his travels?"
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Government: Grade 7\n· Our Rugged Constitution: Pick one of the rights that citizens have according to the First Amendment (freedom of religion, speech, press, and assembly) and explain what that means, and provide examples of what is allowed according to that right.\n\n\nEthics: Part 1\n· Ourselves: Book I: Tell that the Desires of (a) approbation, (b) wealth, and (c) power have their uses and their dangers. Give examples from books you have read, if possible. OR Describe the benefits of Reason, as well as the dangers of depending upon it."
+        }
+      ]
     }
   ]
 }

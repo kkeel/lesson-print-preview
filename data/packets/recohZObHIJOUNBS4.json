@@ -656,6 +656,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sports",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain the rules of one of the soccer games from this term OR demonstrate how to kick a soccer ball."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Explain the rules to one of the basketball games from this term OR demonstrate how to dribble a basketball and how to properly throw it into the basket."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Explain the rules to one of the rec games from this term."
+        }
+      ]
     }
   ]
 }

@@ -1086,6 +1086,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Grammar Island: Five Kinds of Words: Can you tell the part of speech of every word in these sentences? Put n. below each noun, pron. below each pronoun, adj. below each adjective, v. below each verb, and adv. below each adverb.\n\nShe is nice.\n\n\nPolly wants a cracker badly.\n\n\nThe eagle chick was fuzzy.\n\n\nA high cloud suddenly dropped blue rain."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Grammar Island: Sentences for Analysis: Parts of Speech, Parts of Sentence, Phrases, Clauses\n\n1. Maria ate the shrimp, and Marley ate the fish.\n____________________________________________________\n____________________________________________________\n____________________________________________________\n____________________________________________________\n2. Across the water, we saw schools of fish in the waves.\n____________________________________________________\n____________________________________________________\n____________________________________________________\n____________________________________________________\n3. Carlito built a rowboat with his own hands.\n____________________________________________________\n____________________________________________________\n____________________________________________________\n____________________________________________________\n4. In the palm trees, the owl hooted softly.\n____________________________________________________\n____________________________________________________\n____________________________________________________\n____________________________________________________\n5. The night was calm, but Kim heard the sound.\n____________________________________________________\n____________________________________________________\n____________________________________________________\n____________________________________________________"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Practice Island: Is the word in brackets a noun, pronoun, adjective, verb, adverb, preposition, conjunction, or interjection? \n_______ 1. Many fish circled in the blue water [under] the dock. \n_______ 2. A [flock]of birds passed high over the island, flying south. \n_______ 3. [The] sunset spread red and purple light over the sky. \n_______ 4. [Yes], the heavy seas pounded the rocks on the north shore. \n_______ 5. A frog sang [happily] in the grass at the edge of the sand. \nIs the word in brackets a subject, predicate, direct object, or subject complement? \n_______ 6. Grammar Island is a small [place], rocky and covered with pines. \n_______ 7. A [school] of shiny silver fish jumped from the aqua waves. \n_______ 8. The squirrel [chattered] noisily from the high branch. \n_______ 9. An owl hooted in the moonlight, and we saw his [shadow]. \n_______ 10. It was a peaceful [night], and the water lapped gently at the shore. \nIs the part in brackets a phrase or a clause? \n_______ 11. The big waves rolled [over the rocks], exploding into foam. \n_______ 12. [Grammar Island is a good home for many small animals]. \n_______ 13. [The ducks flew south this morning], and we watched them take off. \n_______ 14. [Birds chirped]. \n_______ 15. The sandy beach was a good place to run [in the morning sun]."
+        }
+      ]
     }
   ]
 }

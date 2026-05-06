@@ -1072,6 +1072,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Technology",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Do you remember learning about the invention of HTML and its creator, Sir Tim Berners-Lee, at the start of this term? Open your Google Slides Technology Timeline; navigate to the section corresponding to the relevant date, and create an entry about him.\n\n· Using the Canva infographic maker, create an infographic about HTML for print and another one for sharing online. \n1. Using your pencil and paper, brainstorm everything you know about HTML.  \n2. Things to consider when planning your infographic: HTML facts and basic tags, describing what basic tags do, how you will use the seven fundamental elements of design, what fonts, colors, and images you will use, and how it will be laid out.\n3. ∞ Quick Link: Canva Infographic Maker   \n\n· Share the media you created this term that best demonstrates the concepts we covered. \n1. Demonstrate how you intentionally considered the concepts of line, shape, color, texture, space, value, and form\n2. Explain your reason for your choice of fonts\n3. Describe what color scheme is employed and how it is balanced.\n4. Explain your intention with the layout."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Create a program in Scratch or an app using MIT AppInventor that teaches users the terms \"aperture,\" \"shutter speed,\" and \"ISO.\" Make it as elaborate as time allows. \n\n· Collect your best, most beautiful, or most interesting photographs. Present them to your teacher, explaining your intention behind each, and the advice you followed or intentionally eschewed."
+        },
+        {
+          "term": "Term 3",
+          "content": "· You will interview two people, someone older than you and someone younger than you. Ask them about their technological concerns right now and their predictions about future technology. Before you do that, watch the video and jot down a few answers to the \"Think\" questions.\n1. Video Quick Link: 1986: Children Imagine Life in 2020 (3 mins)\n2. Think: Using your Carrd Journal, consider the following questions: What are people's biggest technological concerns? How are those concerns similar or different from the concerns of the people from 50 or 60 years ago?  How are those concerns similar or different from the concerns people will have in 50 or 60 years from now? \n3. Interview: Choose the media or method for presenting their predictions and plan or script your project. Rather than think about your favorite approach, consider which media format will best serve the content. Would the ideas be best communicated through an animation, blog, slideshow, an infographic, or an interactive app? Consider using the storytelling structure we have used, regardless of the format you choose to use.\n\n· Spend 5 minutes using your Carrd Journal to answer the following questions:\n1. Who did you interview? \n2. Which media or method for presenting their predictions did you choose? \n3. Did you use the storytelling structure to plan or script your project? Why or why not?\n\n· Produce your final media production for the course and share it with your teacher."
+        }
+      ]
     }
   ]
 }

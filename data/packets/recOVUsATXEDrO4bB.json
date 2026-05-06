@@ -635,6 +635,21 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Lit.: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Lion, the Witch and the Wardrobe: Who is your favorite character in the book? Why?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Lion, the Witch and the Wardrobe: What did you think of the end of the book?"
+        }
+      ]
     }
   ]
 }

@@ -428,6 +428,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 5\n· The Hive Detectives: How would a chemist answer the question “What is honey?” OR Give possible reasons that honey bee populations are at risk, and explain what you can do to help.\n\n· Explain how you did one investigation in science lab this term and what you learned from it.\n\nNatural History: Grade 5\n· The Forest in the Tree & Nature All Around: Plants: Tell about or draw what you know about how plants work. OR Compare in word or picture three different plant types that you found this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 5\n· The Tornado Scientist: Tell about or draw how meteorologists use instruments to conduct field work, like studying tornadoes. OR Explain what impact scientists hope to have by studying severe weather events, like tornadoes.\n\n· Explain how you did one investigation in science lab this term and what you learned from it.\n\nNatural History: Grade 5\n· The Bat Scientists: Explain in words or pictures what bats need to thrive in an ecosystem. OR Tell about or draw three unique characteristics of the bat."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 5\n· Mission to Pluto: Tell about or draw one way that scientists learn about our universe. OR Explain why scientists study far away Things, like Pluto.\n\n· Explain how you did one investigation in science lab this term and what you learned from it.\n\nNatural History: Grade 5\n· Beetle Busters: Explain in words or pictures why an invasive species is bad for an ecosystem. OR Tell about or diagram one way that scientists learn about the health of a forest."
+        }
+      ]
     }
   ]
 }

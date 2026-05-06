@@ -205,6 +205,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mathematics: Grade 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Math Lessons: Grade 5\n· RightStart Math Level E: Solve: \n53,729 + 12,937 = \n58 + ____ = 1000 \n4837 x 4 =\n\n· RightStart Math Level E: Compare using >, <, or =.\n1/2 ____ 4/8 \n3/4 ____ 3/6 \n1/6 _____ 5/6\n\n· RightStart Math Level E: Draw a triangle. Crosshatch 2/3 of it."
+        },
+        {
+          "term": "Term 2",
+          "content": "Math Lessons: Grade 5\n· RightStart Math Level E: Solve: \n8326 - 5812 = \n4905 + 42 + 347 = \n34 + 34 + 34 + 34 = \n4375 ÷ 7 =\n\n· RightStart Math Level E: Debbie bought 10 gallons of gas for $1.87 per gallon and paid with a $100 bill. How much change should she receive?\n\n· RightStart Math Level E: Compare using >, <, or =.\n1 yd. ____ 4 ft. \n1 1/2 ft. ____ 20 in. \n100 cm ____ 1000 mm"
+        },
+        {
+          "term": "Term 3",
+          "content": "Math Lessons: Grade 5\n· RightStart Math Level E: Work on Final Assessment (Lesson 140)."
+        }
+      ]
     }
   ]
 }

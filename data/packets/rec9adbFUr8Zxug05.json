@@ -2351,6 +2351,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Recitation: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Recite \"How Firm a Foundation\" OR Psalm 67:1-7.\n\n· Recite Joshua 6:1-7 OR John 3:14-19."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Recite \"O Worship the King\" OR Psalm 111:1-6.\n\n· Recite Joshua 24:19-25 OR John 14:1-6."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Recite \"When Morning Gilds the Skies\" OR Psalm 118:19-24.\n\n· Recite Ruth 1:12-18 OR John 15:12-17."
+        }
+      ]
     }
   ]
 }

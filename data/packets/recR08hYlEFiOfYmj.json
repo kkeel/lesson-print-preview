@@ -643,6 +643,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Econ/Civics: Grade 11 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain how curiosity aids in developing the skill of asking great questions.\n\n· If a friend asked you, \"Why is it important to develop the skill of asking better questions?\" how would you reply?"
+        }
+      ]
     }
   ]
 }

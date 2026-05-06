@@ -1720,6 +1720,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 11 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEcon/Civics: Grade 11 (U.S.)\n· The Art of Asking Better Questions: Explain how curiosity aids in developing the skill of asking great questions.\n\n· The Art of Asking Better Questions: If a friend asked you, \"Why is it important to develop the skill of asking better questions?\" how would you reply?\n\nEthics: Part 5\n· Ourselves: Book II: What is the function of Conscience? OR Contrast Willfulness and Will, giving examples from your reading."
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEthics: Part 5\n· Ourselves: Book II: What do you have to say about \"the way of the will\"? Distinguish between the obedience of habit and that of choice, giving examples."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEcon/Civics: Grade 11 (U.S.)\n· What Would Keynes Do?: Should the government help failing companies? Give support for and against.\nOR\nDiscuss the income-leisure trade-off (income effect and substitution effect of higher pay). When might you choose to take a promotion? Why might you decline?\nOR\nDiscuss the Lazear quote \"Incentives are the essence of economics\" in light of Maslow's progressive hierarchy of needs pyramid.\n\nEthics: Part 5\n· Ourselves: Book II: Write on the capacities and disabilities of the soul OR Show how fit and necessary the knowledge of God is to man. Is it inevitable?"
+        }
+      ]
     }
   ]
 }

@@ -2619,6 +2619,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Church History: Grades 10-12\n· When the Church Was Young: Select an Early Church Father from the reading that you enjoyed learning about and identify several things you learned from him. Explain how you are incorporating those things into your daily living.\n\nNew Testament: Grade 12\n· • NT: What was Mark's emphasis in his gospel? What new thoughts did this reading provide about who Jesus is? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· After reading the Conclusion of the book, write what has changed in how you see? What do you want to keep beholding? What exercise formed you most this term?"
+        },
+        {
+          "term": "Term 2",
+          "content": "Church History: Grades 10-12\n· When the Church Was Young: Write about the impact persecution had on the early church. How did the Early Church Fathers respond to the persecution they faced? Include examples.\n\nNew Testament: Grade 12\n· • NT: What is the overall structure and message of Romans? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: Tell the connection between unity and diversity of gifts, OR Tell the evidence of spiritual growth Paul mentions in Ephesians. What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Being God's Image: Why Creation Still Matters: What does it mean to be God's Image and why does creation still matter? What effect does this have on your identity and purpose?"
+        },
+        {
+          "term": "Term 3",
+          "content": "Church History: Grades 10-12\n· When the Church Was Young: Write about three important takeaways from the reading that have impacted your daily life and explain why.\n\nNew Testament: Grade 12\n· • NT: Discuss Jesus, High Priest of a Better Covenant, in Hebrews 8 and relate it to your OT readings. OR Tell what you know of the authorship and aim of the letter to the Hebrews. At what points does the author show the supremacy of Christ? (You can use your Bible to give quotations.) What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: What is the structure of Revelation, and what is the main message? What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Delighting in the Trinity: Why is delighting in the Trinity so important? Why does it matter? What changes has it brought about in you?"
+        }
+      ]
     }
   ]
 }

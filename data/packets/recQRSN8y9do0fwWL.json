@@ -652,6 +652,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Girl Who Drew Butterflies: Draw a diagram illustrating how plant anatomy is dependent on animal life and environmental conditions."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Girl Who Drew Butterflies: Explain how close observation revealed new ideas to Maria that others did not see."
+        },
+        {
+          "term": "Term 3",
+          "content": "· The Girl Who Drew Butterflies: Explain how animals are ecologically dependent on plants. OR Give reasons why Maria Merian is sometimes called the first ecologist."
+        }
+      ]
     }
   ]
 }

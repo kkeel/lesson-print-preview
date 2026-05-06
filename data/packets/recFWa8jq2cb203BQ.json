@@ -573,6 +573,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Penmanship & Copywork: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Using your best penmanship, write a line of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Using your best penmanship, write a line of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Using your best penmanship, write a line of poetry from memory.\n\n· Share your Copywork Journal with an adult."
+        }
+      ]
     }
   ]
 }

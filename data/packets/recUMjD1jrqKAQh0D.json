@@ -629,6 +629,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Civics/Ethics: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Citizenship Without Illusions: Reflecting on the reading from this course, describe what it means to be a healthy citizen locally, nationally, and globally. Include biblical references for each category."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Choose one of the following to answer:\nWhat are four things you learned from The Life We're Looking For that are causing you to interact with technology differently?\nOr\nWhat did you learn from The Life We're Looking For regarding the importance of human relationships?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Conscience: What it is, How to Train it, and Loving Those who Differ: What is the conscience, how do you train it, and how do we love others despite differences? How should you \"calibrate your conscience\"?"
+        }
+      ]
     }
   ]
 }

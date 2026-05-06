@@ -2355,6 +2355,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Math Lessons: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level C: Make a 3 x 5 array with centimeter cubes. How much is it? What is the perimeter? What is the area?\n\n· RightStart Math Level C: Write 4178 in words. Show it on AL Abacus. Build it with place value cards.\n\n· RightStart Math Level C: Solve: \n2453 + 5197 = \n49 + 27 + 1 =\nUse >, <, or = to make this true:\n3 x 2 ____ 3 + 2"
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level C: Solve. First, show your work using a Part-Part-Whole Circle Set. Then write the equation. \nWhile traveling on vacation, the Smith family drove 2,546 km. The Jones family drove 1,942 km. How much farther did the Smith family drive?\n\n· RightStart Math Level C: Use >, <, or = to make each true: \n3694 ____ 3964 \n399 + 2 ____ 401 \n7832 + 495 ____ 7832 - 495 \nSolve:\n6427 - 3675 =\n\n· RightStart Math Level C: Show the following on your clock: \n6:09 \n10:45 \n12:36"
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level C: Draw (on graph paper) or build (with centimeter cubes) three different rectangles, each with an area of 12 square cm. Give the perimeter for each.\n\n· RightStart Math Level C: Build the following arrays using tiles. Then write the equations. \n5 by 5 \n6 by 4 \nWhich is bigger? How do you know?\n\n· RightStart Math Level C: Solve: \n4837 + 3722 = \n6045 - 3099 = \n9482 + 1626 = \nUse >, <, or = to make this true:\n367 + 10 ____ 100 + 275 + 1"
+        }
+      ]
     }
   ]
 }

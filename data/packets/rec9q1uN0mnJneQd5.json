@@ -637,6 +637,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tracking Trash: Draw or diagram 3 different factors that help create ocean currents; OR explain how ocean currents affect climate and wildlife."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Wolves and Moose of Isle Royale: Using words or pictures, explain how wolves affect the ecosystem; OR describe 3 ways that scientists study animals in the field."
+        },
+        {
+          "term": "Term 3",
+          "content": "· The Frog Scientist: Diagram the life cycle of a frog; OR give 2 examples of chemical, biological, or environmental conditions that may impact amphibians in the wild."
+        }
+      ]
     }
   ]
 }

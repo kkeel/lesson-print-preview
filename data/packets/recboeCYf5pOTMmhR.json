@@ -652,6 +652,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Natural History: Grade 4",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· A World in a Drop of Water: Describe or draw 3 different examples of microscopic pond life."
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Octopus Scientists: Tell about or draw 3 unique features of the octopus. OR Tell about why this kind of field work is challenging."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Life on Surtsey: How are the physical conditions, plant life, and animal life interrelated? OR Explain why it is so important for scientists to study Surtsey."
+        }
+      ]
     }
   ]
 }

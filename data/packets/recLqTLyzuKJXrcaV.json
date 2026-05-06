@@ -205,6 +205,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mathematics: Grade 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Math Lessons: Grade 6\n· RightStart Math Level F: Work on Assessment 1 (Lesson 45)."
+        },
+        {
+          "term": "Term 2",
+          "content": "Math Lessons: Grade 6\n· RightStart Math Level F: Work on Assessment 2 (Lesson 80)."
+        },
+        {
+          "term": "Term 3",
+          "content": "Math Lessons: Grade 6\n· RightStart Math Level F: Work on Final Assessment (Lesson 150)."
+        }
+      ]
     }
   ]
 }

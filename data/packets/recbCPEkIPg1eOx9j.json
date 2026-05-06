@@ -1073,6 +1073,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 5",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Plutarch: Beginner Track\n· The Plutarch Primer: Publicola: How did Publicola live up to his name \"loved by the people\"?\n\nCurrent Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Plutarch: Beginner Track\n· The Plutarch Primer: Publicola: Pick one of the events to show how Publicola was a wise leader:\n1. The situation with Porsena, Tarquin, and the Roman girls sent as hostages. \n2. The situation with the Sabine man, Clausus, who was disliked by his fellow citizens for opposing war.\n\nCurrent Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term."
+        }
+      ]
     }
   ]
 }

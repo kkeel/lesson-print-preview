@@ -221,6 +221,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Literature: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Mythology: Grade 2\n· The Wonder Book for Boys and Girls: Tell or illustrate how Perseus tricked the Three Gray Women into helping OR Tell or illustrate how Perseus met Quicksilver and his sister.\n\nClassic Lit.: Grade 2\n· Pilgrim's Progress Book 1: Tell about or illustrate Christian's discussion with Mr. Worldly Wiseman OR Tell about or illustrate Christian’s burden and how it fell off."
+        },
+        {
+          "term": "Term 2",
+          "content": "Mythology: Grade 2\n· The Wonder Book for Boys and Girls: Tell or illustrate how King Midas has changed so far in the story.\n\nClassic Lit.: Grade 2\n· Pilgrim's Progress Book 1: Tell about or illustrate Talkative OR Tell about or illustrate what happened at Vanity Fair."
+        },
+        {
+          "term": "Term 3",
+          "content": "Mythology: Grade 2\n· The Wonder Book for Boys and Girls: Tell or illustrate the story about the box received by Epimetheus and Pandora.\n\n\nClassic Lit.: Grade 2\n· Pilgrim's Progress Book 1: Tell or illustrate the story about Christian and Hopeful falling into a net and how they got out."
+        }
+      ]
     }
   ]
 }

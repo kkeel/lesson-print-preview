@@ -1053,6 +1053,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geometry: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level G: Work on Review and Games 10 (Lesson 103)."
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level G: Work on Review and Games 12 (Lesson 116)."
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level G: Work on Assessment 3 (Lesson 127) if not finished. If finished, work on questions from another subject or play a math game."
+        }
+      ]
     }
   ]
 }

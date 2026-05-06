@@ -1080,6 +1080,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Latin 1 (Independent Study)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Cambridge Unit 1: Tell whether each of the following words is in the nominative or accusative case: pecūniam, ancilla, amīcus, canem.\n\nAnswers: accusative, nominative, nominative, accusative\n\n· Cambridge Unit 1: Translate the first paragraph of \"Cerberus\" on p.6 into English. (Cover the vocabulary words at the top and bottom of the page.) Then close your book and translate your English paragraph back into Latin."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Cambridge Unit 1: Translate into Latin: \na. I am angry.\nb. You walk.\nc. The slave sits.\n\nAnswers:\na. Ego sum iratus.\nb. Tū ambulās.\nc. Servus sedet. \n\n· Cambridge Unit 1: Translate the first paragraph of Hermogenēs on p.43 into English. (Cover the vocabulary words at the bottom of the page.) Then close your book and translate your English paragraph back into Latin."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Cambridge Unit 1: Translate into Latin:\na. The slaves are working. \nb. The slaves were working. \nc. The slaves worked.\n\nAnswers:\na. servī labōrant.\nb. servī labōrābant.\nc. servī labōrāverunt.\n\n· Cambridge Unit 1: Translate the first paragraph of “Fēlīx” on p.72 into English. (Cover the vocabulary words.) Then close your book and translate your English paragraph back into Latin."
+        }
+      ]
     }
   ]
 }

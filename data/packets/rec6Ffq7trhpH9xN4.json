@@ -588,6 +588,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Historic Dancing",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Dance Sir Roger de Coverley."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Dance Capoeira."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Dance The Lancers Quadrille."
+        }
+      ]
     }
   ]
 }

@@ -633,6 +633,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "American Government: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Our Rugged Constitution: Tell all you know about the powers of Congress."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Our Rugged Constitution: Tell all you know about one of the branches of the government and the qualifications, roles, and limits for that position."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Our Rugged Constitution: Pick one of the rights that citizens have according to the First Amendment (freedom of religion, speech, press, and assembly) and explain what that means, and provide examples of what is allowed according to that right."
+        }
+      ]
     }
   ]
 }

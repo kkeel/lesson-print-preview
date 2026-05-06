@@ -1187,6 +1187,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Name the warm and cool colors.\n\n· Tell how to create browns."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Paint a flower from observation, matching the colors you see.\n\n· Create a bouquet of Dahlias."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell all that you remember about Fret Patterns.\n\n· Tell what it means when something is sitting at \"eye level.\""
+        }
+      ]
     }
   ]
 }

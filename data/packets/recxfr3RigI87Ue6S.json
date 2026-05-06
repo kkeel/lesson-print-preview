@@ -1489,6 +1489,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Algebra 1: Part 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Jacobs Elementary Algebra: Complete Ch.3 Summary and Review Set 2 (p.121-122, every other question)."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Jacobs Elementary Algebra: Complete Ch.6 Summary and Review Set 2 (p.234-235, questions not answered during term)."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Jacobs Elementary Algebra: Complete Midterm Review Set 3 (p.327-328, odd questions only)."
+        }
+      ]
     }
   ]
 }

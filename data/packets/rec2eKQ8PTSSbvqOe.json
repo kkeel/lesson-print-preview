@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "New Testament: Grade 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about the Magi visiting Jesus OR the baptism of Jesus."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about Jesus feeding the five thousand OR tell about someone he healed."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about Jesus raising Lazarus from the dead OR tell about the resurrection of Jesus."
+        }
+      ]
     }
   ]
 }

@@ -1495,6 +1495,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Composition: Grade 10",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Style: The Basics of Clarity & Grace: What is the purpose of editing and revision? Give examples of ways to improve sentences.\n\n· Choose one:\n- Write a scene or a conversation about something you've read or experienced. Pay particular attention to your dialogue and make it sound as natural as possible.\n- Choose 3 books you've read this term. If the book is the answer to a question, what is the question behind each of these three books?\n- Write a description or narration in the style of someone else (a friend or another author like Shakespeare). Include the name of the person you're imitating at the end of your work."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Style: The Basics of Clarity & Grace: What are cohesion and coherence in writing? What can you do to build it into your writing?\n\n· Write a poem about something you've observed in nature and use descriptive and detailed language that immerses your readers in the scene. Try to include details for all five senses!"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Style: The Basics of Clarity & Grace: Name as many as you can of the six rules of concision.\n\n· Design a poster (by hand or in Canva) describing the editing process and what to work on at each stage."
+        }
+      ]
     }
   ]
 }

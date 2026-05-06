@@ -1059,6 +1059,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 9",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Prisoners of Geography: Sketch a map with as many details as you can of Russia, China, the US, Canada, or Europe. Explain how the geography of the area shown on your map helps us understand some of the historical, political, economic, or other issues of the area.\n\n\n· All Over the Map: Write about one of your favorite maps in All Over the Map, and write about a map that you created."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Prisoners of Geography: Sketch a map with as many details as you can of Africa, the Middle East, or India and Pakistan. Explain how the geography of the area shown on your map helps us understand some of the historical, political, economic, or other issues of the area.\n\n\n· Longitude: What was the greatest scientific problem that Harrison set out to solve in Longitude, and how did he do it?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Prisoners of Geography: Sketch a map with as many details as you can of Korea and Japan, Latin America, or the Arctic. Explain how the geography of the area shown on your map helps us understand some of the historical, political, economic, or other issues of the area.\n\n· What Linnaeus Saw: Summarize the contributions of Linnaeus to science, AND give a detailed account of a favorite part of the book."
+        }
+      ]
     }
   ]
 }

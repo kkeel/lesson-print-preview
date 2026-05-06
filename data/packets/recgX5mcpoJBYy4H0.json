@@ -629,6 +629,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Spiritual Formation: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· After reading the Conclusion of the book, write what has changed in how you see? What do you want to keep beholding? What exercise formed you most this term?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Being God's Image: Why Creation Still Matters: What does it mean to be God's Image and why does creation still matter? What effect does this have on your identity and purpose?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Delighting in the Trinity: Why is delighting in the Trinity so important? Why does it matter? What changes has it brought about in you?"
+        }
+      ]
     }
   ]
 }

@@ -2351,6 +2351,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Recitation: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Recite \"How Firm a Foundation.\"\n\n· Recite 1 Chronicles 29:1-25 OR Acts 4:1-20.\n\n· Recite Psalm 139:1-24."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Recite \"O Worship the King.\"\n\n· Recite Proverbs 3:1-22 OR Acts 14:1-20.\n\n· Recite Psalm 84:1-12 and Psalm 47:1-9."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Recite \"When Morning Gilds the Skies.\"\n\n· Recite Ecclesiastes 3:1-22 OR Acts 19:1-20.\n\n· Recite Psalm 25:1-22."
+        }
+      ]
     }
   ]
 }

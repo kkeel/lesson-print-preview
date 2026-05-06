@@ -663,6 +663,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Level 2",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing and give the hand signs for the sol-fa ladder."
+        },
+        {
+          "term": "Term 2",
+          "content": "· First, clap the rhythm and then sing the line of music provided. (You may label the notes using sol-fa and/or the note names. Use the sol-fa hand signs when you sing.) \nLink: Line of Music"
+        },
+        {
+          "term": "Term 3",
+          "content": "· First, clap the rhythm and then sing the line of music provided. (You may label the notes using sol-fa and/or the note names. Use the sol-fa hand signs when you sing.)\nLink: Line of Music"
+        }
+      ]
     }
   ]
 }

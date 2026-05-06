@@ -1114,6 +1114,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 2 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Cross-Country: Tell about the Pages’ visit to Catalina Island. Describe what an island is.\n\n· Redwoods: Tell what you remember about the biome of a Redwood Forest. What do you remember about redwoods and the things that live in or near them?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Cross-Country: Tell what you have learned about the effects of water (when it rains) OR tell what you know about the desert.\n\n·  Locate on a U.S. map: Los Angeles, CA; Mojave Desert; Lake Mead"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Cross-Country: Tell about the episode in the canyon. Describe what a canyon is OR tell what you know about mountain water in the Rocky Mountain National Park.\n\n· Locate on a US map: Los Angeles, CA; Rocky Mountain National Park"
+        }
+      ]
     }
   ]
 }

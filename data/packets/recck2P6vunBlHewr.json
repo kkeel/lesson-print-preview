@@ -1710,6 +1710,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 9 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Ethics: Part 3\n· Ourselves: Book I: Tell about the functions of love and justice OR Tell of the importance of candour.\n\nCurrent Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Ethics: Part 3\n· Ourselves: Book I: Tell of some causes of lying OR Tell of the necessity of integrity in the use of time.\n\n\nCurrent Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Ethics: Part 3\n· Ourselves: Book I: Tell of justice to yourself, self-ordering OR Tell how you can prepare yourself for your calling, even if you do not know what your calling is.\n\nCurrent Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+        }
+      ]
     }
   ]
 }

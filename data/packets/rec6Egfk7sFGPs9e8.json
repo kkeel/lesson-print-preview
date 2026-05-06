@@ -732,6 +732,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Handicrafts",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· (GRADE 1-5) Show one of your finished projects to an adult and explain how you crafted it. \n\n· (GRADE 6-8) Show two of your finished projects to an adult and choose one to explain how you crafted it. \n\n· (GRADE 9-12) Show all of your finished projects to an adult and explain what new techniques and skills you gained in crafting them."
+        },
+        {
+          "term": "Term 2",
+          "content": "· (GRADE 9-12) Show all of your finished projects to an adult and explain what new techniques and skills you gained in crafting them.\n\n· (GRADE 1-5) Show one of your finished projects to an adult and explain how you crafted it. \n\n· (GRADE 6-8) Show two of your finished projects to an adult and choose one to explain how you crafted it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· (GRADE 9-12) Show all of your finished projects to an adult and explain what new techniques and skills you gained in crafting them.\n\n· (GRADE 1-5) Show one of your finished projects to an adult and explain how you crafted it. \n\n· (GRADE 6-8) Show two of your finished projects to an adult and choose one to explain how you crafted it."
+        }
+      ]
     }
   ]
 }

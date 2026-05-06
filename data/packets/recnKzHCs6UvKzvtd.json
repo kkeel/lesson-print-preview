@@ -691,6 +691,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Shakespeare: Grades 5-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· (GRADE 5-6) The Tempest: Describe your favorite scene or character from the story. Why did you like this particular scene/character? Provide details from the story in your response.\n\n· (GRADE 5-6) The Tempest: (Optional) What lesson does Prospero learn by the end of the play, and how does it change his actions?\n\n· (GRADE 7-8) The Tempest: Choose one and give as much detail as possible:\n- What lesson does Prospero learn by the end of the play, and how does it change his actions?\n- Is Caliban justified in his anger toward Prospero? What might motivate Caliban to plot against Prospero?  \n- How does Prospero use magic to control the events on the island? Do you think he is fair in his use of magic? Why or why not?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· (GRADE 5-6) Henry IV, Part 2: Describe your favorite scene or character from the story. Why did you like this particular scene/character? Provide details from the story in your response.\n\n· (GRADE 5-6) Henry IV, Part 2: (Optional) What struggles does King Henry IV face in this play, and how do they affect his rule?\n\n· (GRADE 7-8) Henry IV, Part 2: Choose one and give as much detail as possible:\n- What struggles does King Henry IV face in this play, and how do they affect his rule?\n- Do you think Prince Hal was ready to be King? Why or why not? \n- How does Prince Hal’s relationship with Falstaff change by the end of the play? Why does he make this decision?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· (GRADE 5-6) The Winter's Tale: Describe your favorite scene or character from the story. Why did you like this particular scene/character? Provide details from the story in your response.\n\n· (GRADE 5-6) The Winter's Tale: What was a conflict or misunderstanding that was resolved in the play?\n\n· (GRADE 7-8) The Winter's Tale: Choose one and give as much detail as possible:\n- Why does King Leontes wrongly accuse his wife, Hermione, and what are the consequences of his actions?\n- Is King Leontes a good man? Why or why not? \n- How does the story shift from tragedy to comedy? What events make this possible?"
+        }
+      ]
     }
   ]
 }

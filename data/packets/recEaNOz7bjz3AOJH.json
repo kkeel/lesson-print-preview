@@ -196,6 +196,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Language Study: Grade 12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Composition: Grade 12\n· Caring for Words: Write on one of McEntyre’s Stewardship Strategies in Caring for Words.\n\n· Describe a few ways you've seen the relevance of storytelling in unexpected places (websites, for instance). Give specific examples."
+        },
+        {
+          "term": "Term 2",
+          "content": "Composition: Grade 12\n· Caring for Words: McEntyre discusses the idea of asking ourselves questions when we read. Tell of some types of questions & ways they may be helpful. What do stories require of us?\n\n· The Craft of Research: How do you identify good secondary sources? Share anything else that's stuck out to you in Craft of Research."
+        },
+        {
+          "term": "Term 3",
+          "content": "Composition: Grade 12\n· Caring for Words: McEntyre discusses ‘Stewardship Strategy’. What is the importance of ‘Attending to Translation’? Give any other word stewardship ideas that struck you.\n\n· Caring for Words: Write a reflection on how “long sentences take us on journeys worth making,” OR What is meant by “trained imaginations are what we need most at a time like this”?"
+        }
+      ]
     }
   ]
 }

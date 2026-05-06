@@ -1187,6 +1187,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Art: Level 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Make a drawing or brush-drawing for a tale you read.\n\n· Tell all you know about Lilias Trotter."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Explain what monochromatic means.\n\n· Create a value scale with watercolors. Use any one color of your choice."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Draw three cylinders, each a different size and in a different position.\n\n· Discuss the changes in a circle at, above, and below eye level."
+        }
+      ]
     }
   ]
 }

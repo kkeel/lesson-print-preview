@@ -315,6 +315,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 3\n· Tell about or diagram the ways that water affects the living things in the ecosystem.\n\n\nNatural History: Grade 3\n· Christian Liberty Nature Reader 4: Draw or diagram one of the birds you saw or read about this term, showing how its body serves it in the ecosystem."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 3\n· Tell about or diagram to explain a life cycle or food chain.\n\n\nNatural History: Grade 3\n· Christian Liberty Nature Reader 4: Draw or diagram one of the birds you saw or read about this term, showing how its body serves it in the ecosystem."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 3\n· Tell about or draw reasons that animals migrate.\n\n\nNatural History: Grade 3\n· Christian Liberty Nature Reader 4: Draw or diagram one of the reptiles you saw or read about this term, showing how its body serves it in the ecosystem."
+        }
+      ]
     }
   ]
 }

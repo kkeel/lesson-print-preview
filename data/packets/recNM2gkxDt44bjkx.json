@@ -1072,6 +1072,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Science: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Aristotle Leads the Way: Explain at least two examples of how careful record-keeping and/or measurement advanced science in the ancient world.\n\n· Aristotle Leads the Way: What were some obstacles that made science difficult for early scientists, and what urged them forward?\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Aristotle Leads the Way: We are told that “Plutarch said that Archimedes believed engineering was ‘sordid and ignoble, [as is] every sort of art that lends itself to mere use and profit.’” Why then did he design so many useful devices? Describe 2 of them.\n\n· Aristotle Leads the Way: Explain why Alexandria was different from other cities of its time. How did it help to create a new age of technological and intellectual advancement?\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Aristotle Leads the Way: Explain how developments in mathematics changed the way scientists learned about their world.\n\n· Aristotle Leads the Way: Were the Dark Ages really intellectually dark? Give reasons to support your conclusion.\n\n· Explain how you did one laboratory investigation this term and what you learned from it."
+        }
+      ]
     }
   ]
 }

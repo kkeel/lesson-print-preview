@@ -1091,6 +1091,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 3 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Kids Book of Canada and My Canada: Imagine you are taking a trip to Prince Edward Island from another part of Canada. How would you get there? What kinds of things would you expect to see? What are some things that make islands special?\n\n· Canada Wild: Tell what you remember about one of Canada's endemic animals that you learned about this term: Sable Island sweat bee or Newfoundland pine marten. What does it look like? Where does it live? What does it eat?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· The Kids Book of Canada and My Canada: Imagine you are taking a trip to Nunavut from another part of Canada. How would you get there? What kinds of things would you expect to see? What are some things that make the Arctic region of Canada special?\n\n· Canada Wild: Tell what you remember about one of Canada's endemic animals that you learned about this term: collared lemming, wood bison, or Peary caribou. What does it look like? Where does it live? What does it eat?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell what you know about bays, gulfs, and harbors. OR Tell what you learned about Ottawa and Canada's Parliament.\n\n· Tell about your sound map from the beginning of the term. How did you make the map, and what do you remember from it?"
+        }
+      ]
     }
   ]
 }

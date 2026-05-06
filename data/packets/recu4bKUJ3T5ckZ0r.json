@@ -565,6 +565,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Copywork: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Write 4 lines of poetry or a passage from memory in your best penmanship.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Write 4 lines of poetry or a passage from memory in your best penmanship.\n\n· Share your Copywork Journal with an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Write 4 lines of poetry or a passage from memory in your best penmanship.\n\n· Share your Copywork Journal with an adult."
+        }
+      ]
     }
   ]
 }

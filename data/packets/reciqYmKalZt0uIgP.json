@@ -327,6 +327,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 1\n· Over and Under the Pond: Tell about or draw a pond habitat with five things that live there.\n\nNatural History: Grade 1\n· Walks with a Naturalist 1:  Tell about or draw the ant or the bee.  OR Tell about or draw the garden or jumping spider."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 1\n· A Fruit is a Suitcase for Seeds: Tell about or draw three seeds that you looked at this term.\n\n\nNatural History: Grade 1\n· Walks with a Naturalist 1:  Tell about or draw a plant seed and explain how it moves to find a new home.  OR Tell about or draw a bird that you have learned about."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 1\n· Up in the Garden and Down in the Dirt: Tell about or draw a garden habitat, including at least five creatures that live in it.\n\n\nNatural History: Grade 1\n· Tell how to roll a log and what you might find underneath it.  OR Tell about or draw how spiders are different from insects."
+        }
+      ]
     }
   ]
 }

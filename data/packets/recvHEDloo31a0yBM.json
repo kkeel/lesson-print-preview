@@ -633,6 +633,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Plutarch/Government: Grade 9 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· You have followed Caesar from his early campaigns through every battle, every crisis, every triumph, and into Rome at the end. You have watched him grab sailors, swim through fire, feed horses seaweed, pardon enemies, refuse bodyguards, and finally cover his face and stop when he saw Brutus. Looking at the whole of what you witnessed: what did this man actually want, and did he ever get it?\n\n· You are a Roman citizen who lived through all of it. Caesar was on the wrong side as a young man, nearly drowned escaping, nearly starved at Pharsalus, made himself dictator for life, died in the Senate chamber, and was declared a god three days later. The city burned. The men who killed him were hunted to their deaths. Now it is quiet. Was Rome better or worse for having had him? Why?\n\n· You are someone who admired Caesar deeply and also someone who could see clearly what he was becoming. Those two things were both true at the same time for most of the people closest to him. Think about a person in your own life, or a figure in history, or a character from a story, in whom you can see greatness and destructive behavior running alongside each other. What do you do with admiration that you cannot separate from concern?"
+        }
+      ]
     }
   ]
 }

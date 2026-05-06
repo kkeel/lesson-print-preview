@@ -1080,6 +1080,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Latin 2 (Independent Study)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Cambridge Unit 2: Translate the following into English. Identify the parts of speech for the words in brackets. Then, without looking at these Latin sentences, translate your English sentences back into Latin.\n1. servī epistulās [longās] scribēbant.\n2. Philus pecūniam [numerāre] potest.\n3. Vārica [servōs] ancillāsque īnspexit.\n4. dominus servō fessō praemium [dedit].\n\nAnswers:\n1. servī epistulās longās scribēbant. The slaves were writing long letters. (adjective)\n2. Philus pecūniam numerāre potest. Philus is able to count money. (infinitive verb)\n3. Vārica servōs ancillāsque īnspexit. Varica inspects the slaves and the girl slaves. (plural noun)\n4. dominus servō fessō praemium dedit. The master gave the tired slave a reward. (verb) OR The master gave a reward to the tired slave.\n\n· Cambridge Unit 2: Translate the following sentences into English. Then translate them back into Latin. \n1. rēx, quī scēptrum tenēbat, in ātriō sedēbat.\n2. cēna, quam Volūbilis parābat, erat splendida.\n3. servī sōlem vidēre nōn poterant.\n4. nōs redīre nōlēbāmus.\n5. Dumnorix nāvem amīcis ostendit.\n\nAnswers:\n1. Rēx, quī scēptrum tenēbat, in ātriō sedēbat. The king, who was holding a scepter, was sitting in the hall.\n2. cēna, quam Volūbilis parābat, erat splendida. The dinner, which Volubilis was preparing, was splendid.\n3. servī sōlem vidēre nōn poterant. The slaves were not able to see the sun.\n4. nōs redīre nōlēbāmus. We were not wanting to return.\n5. Dumnorix nāvem amīcis ostendit. Dumnorix showed the ship to the friends."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Cambridge Unit 2: Complete each sentence with the correct form in the parentheses.\n A. In viīs......erant multī mercātōres. (urbis, urbium)\nB. Faber per fenestram......spectābat. (casārum, casae)\nC. Barbille! Nōnne dē monumentīs audīre......? (vīs, vult)\nD. Multī virī fēminaeque ad templum contendunt, quod sacrificium vidēre......(vult, volunt) \nE. Paucī sumus. Aegyptiōs superāre nōn ........ (possum, possumus)\nF. ........tabernāriī Eutychō pecūniam dedērunt. (multī, multae)\nG. Quīntus templum ......... vīsitāvit. (magnificam, magnificum)\nH. In templō, ....... prope tabernam Clēmentis erat, habitābat fēlēs sacra. (qui, quae, quod)\n\nAnswers:\nA. urbis   B. casae   C. vīs   D. volunt   E. possumus   F. multī   G. magnificum   H. quod\n\n· Cambridge Unit 2: Translate lines 1-6 of “taberna” on p.95 into English.\n\nTranslation:\nAfter we arrived at the city, I searched a long time for a store for Clemens. At last Barbillus, who owned many buildings, offered me a very good store. This store was near the Temple of the goddess Isis. In this part of the city is a street, in which all the storekeepers sell glass. The store, which Barbillus was offering me, had an excellent location. Barbillus, however, was doubtful. \n\n· Cambridge Unit 2: Identify the case (NOM/GEN/DAT/ACC/ABL) of the following words in \"taberna\" on p.95:\na. Barbillus (line 2)\nb. multa aedificia (line 2) \nc. deae (line 4)\nd. urbis (line 4)\ne. vitrum (line 5)\n\nAnswers:\na. NOM   b. ACC   c. GEN   d. GEN   e. ACC"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Cambridge Unit 2: Complete each sentence with the correct form in the parentheses.\na. Mercātor fīliam ....... laudāvit. (bonus, bona, bonum, bonam)\nb. Pater uxōrī ........ pecūniam dedit. (bonus, bona, bonō, bonae)\nc. Rēx mīlitēs ........ salūtāvit. (fortis, fortēs, fortibus)\nd. Aristō iuvenēs versum ...... audīvit. (recitāns, recitantem, recitantēs)\ne. Barbillus, dē vītā ........ , Quīntum arcessīvit. (dēspērāns, dēspērantēs)\nf. Hippopotamum ....... nōn cōnspexī. (adveniēns, advenientem)\ng. Barbillus: “Quīnte! mēcum ad vēnātiōnem ..........!” (venī, venīte)\nh. Quīntus: “Servī ......... hippopotamum vexāre!” (nōlī, nōlīte)\n\nAnswers:\na. bonam   b. bonae   c. fortēs   d. recitantēs   e. dēspērāns   f. advenientem   g. venī   h. nōlīte\n\n· Cambridge Unit 2: Translate “astrologus victor II” lines 4-7 (“in somniō”....”nārrāvit”) on p.141.\n\nTranslation:\nIn the dream, I was walking through the streets of the city of Alexandria. Suddenly I saw a boy standing in the road. The boy was your slave, whom the Egyptians killed in a riot. He told me about some very special ointment.\n\n· Cambridge Unit 2: Identify the case (NOM/GEN/DAT/ACC/ABL) of the following nouns or adjectives in \"astrologus victor II\" on p.141: \na. urbis (line 4)\nb. puerum (line 5) \nc. tuus (line 5)\nd. Aegyptiī (line 6)\ne. mihi (line 6)\n\nAnswers:\na. GEN   b. ACC   c. NOM   d. NOM   e. DAT"
+        }
+      ]
     }
   ]
 }

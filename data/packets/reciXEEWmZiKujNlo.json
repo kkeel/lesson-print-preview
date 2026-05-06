@@ -1945,6 +1945,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Grammar/Comp: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Grammar Voyage: What are the eight parts of speech? [noun, pronoun, adjective, verb, adverb, conjunction, preposition, interjection]\n\n\n· Grammar Voyage: Label parts of speech (Level One Analysis) on the top line under the sentence. Write a comment about something in the sentence that you find interesting. Practice Voyage \"Sentences 1-4\" p. 12-15. [Practice Voyage Answer Key]"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Grammar Voyage/Practice Voyage: In each of the following sentences, tell the part of speech for the word in brackets (noun, pronoun, adjective, verb, adverb, preposition, conjunction, or interjection).\n1. The [ships] formed a row in front of the marina.\n2. The captain [nailed] the doubloon on the mast.\n3. [The] freighter pulled slowly to a stop.\n4. A smokestack rose [high] above the top of the bridge.\n5. The sailors ran quickly [up] the gangplank.\n6. [Wow], the storm lasted all night.\n7. They did not arrive, but we kept waiting [at] the dock.\n8. [She] made the new captain a better chart.\n\nAnswers\n1. noun\n2. verb\n3. adjective\n4. adverb\n5. preposition\n6. interjection\n7. preposition\n8. pronoun\n\n\n· Grammar Voyage/Practice Voyage: In the following sentences, is the bracketed word a subject, predicate, direct object, indirect object, or subject complement?\n9. The people in this harbor are very [friendly].\n10. John could see the new [marina] from his cabin porthole.\n11. The captain gave [Susan] a pair of binoculars.\n12. It was [he] who rang the ship's bell yesterday.\n13. The cook gave [Roberto] a sack of hot rolls from the galley.\n\nAnswers:\n9. subject complement\n10. direct object\n11. indirect object\n12. subject complement\n13. indirect object"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Grammar Voyage/Practice Voyage: Is the bracketed phrase prepositional, appositive, gerund, participial, or infinitive?\n1. [To navigate accurately] is an important skill.\n2. Robert Trotman, [the former captain,] was invited on board.\n3. The seagull sailed [over the top] of the ship.\n4. [Giving good advice] is a captain's prerogative.\n5. [Fallen down completely,] the rusty freighter brought back memories.\n\nAnswers\n1. infinitive\n2. appositive\n3. prepositional\n4. gerund\n5. participle\n\n· Grammar Voyage/Practice Voyage: Is the bracketed part a phrase, an independent clause, or a dependent clause?\n6. Rochelle brought the maps, and [we brought the compass.]\n7. [Sailing away] was an easy thing for Maria.\n8. [As the terns flew over the ship,] we watched intently.\nIs the sentence declarative, imperative, interrogative, or exclamatory?\n9. Which ship has the cargo you told me about?\n10. The tugboat almost hit the pier at the corner of the dock!\n11. Go to the marina and buy some fresh vegetables and bread.\n12. The cold currents flow past the island to the north.\n\nAnswers\n6. independent clause\n7. phrase\n8. dependent clause\n9. interrogative\n10. exclamatory\n11. imperative\n12. declarative"
+        }
+      ]
     }
   ]
 }

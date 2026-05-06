@@ -691,6 +691,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Folk Songs",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing \"Yankee Doodle\" (add in your own verses if you came up with some!) OR \"Sakura, Sakura\" and tell a little about the song."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing \"Amazing Grace\" and the refrain (or more if you want) of \"En roulant ma boule.\""
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing \"Shenandoah\" and tell what you remember about Chief John Skenandoah."
+        }
+      ]
     }
   ]
 }

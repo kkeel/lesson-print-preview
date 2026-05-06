@@ -658,6 +658,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Reading Level 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Reading-Literature: The Primer: Have the student read aloud for one minute using the next (previously unread) section in Treadwell. Count the number of words read correctly during that minute. For the Fall of 1st grade, the typical fluency rate is somewhere between 0-10 words per minute (Rasinski & Padak, 2009)."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Reading-Literature: The Primer: Have the student read aloud from the next (previously unread) section in Treadwell for one minute. Count the number of words read correctly during that minute. For the Winter of 1st grade, the typical fluency rate is somewhere between 10-50 words per minute (Rasinski & Padak, 2009)."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Reading-Literature: The Primer: Have the student read aloud from the next (previously unread) section in Treadwell for one minute. Count the number of words read correctly during that minute. For the Spring of 1st grade, the typical fluency rate is somewhere between 30-90 words per minute (Rasinski & Padak, 2009)."
+        }
+      ]
     }
   ]
 }

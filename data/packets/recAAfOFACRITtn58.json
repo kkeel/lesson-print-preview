@@ -656,6 +656,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sloyd: Level 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Share one of the pieces you made this term with an adult and explain how you made it.\n\n· Create a model from memory using the correct supplies to do so."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Share one of the pieces you made this term with an adult and explain how you made it.\n\n· Create a model from memory using the correct supplies."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Share one of the pieces you made this term with an adult and explain how you made it.\n\n· Create a model from memory using the correct supplies."
+        }
+      ]
     }
   ]
 }

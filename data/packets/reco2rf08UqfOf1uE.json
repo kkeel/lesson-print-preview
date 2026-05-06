@@ -334,6 +334,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Astronomy",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Astronomy Lessons\n· 100 Things to See: Tell something you learned about observing the sun, moon, or planets.  OR  Tell about stargazing this term. For either question, share your notebook. What did you observe? What questions did you think about?\n\n· Astronomy: Explain how we can know that something exists if we cannot see it (such as wind and black holes)?\n\n· Astronomy: Why is light important to astronomy? What is light? What is the Doppler effect?\n\n· The Last Stargazers: Tell about something that surprised you about the life and work of an astronomer from what you have read so far. OR, Many people see science and art as very different pursuits, but the author tells about scientists who love music, poetry, drawing, etc. Explain how you think science and art work together as a person explores the Things around them.\n\n· Tell about a current event or citizen science project from this term."
+        },
+        {
+          "term": "Term 2",
+          "content": "Astronomy Lessons\n· 100 Things to See: Explain how to find some of the major constellations, such as Ursa Major/minor, Cassiopeia, Draco, etc. OR Tell about stargazing this term. For either question, share your notebook. What did you observe? What questions did you think about?\n\n· Astronomy: Tell about 3 unique or interesting features found among objects in the solar system.\n\n· The Last Stargazers: Tell about a scientific aspect of astronomy (the discoveries, the mysteries, the science of telescopes, etc) that you found interesting.\n\n· The Day Without Yesterday: The scientific community persistently resisted the idea of an expanding universe. Give reasons for this from what you read.\n\n· Tell about a current event or citizen science project from this term."
+        },
+        {
+          "term": "Term 3",
+          "content": "Astronomy Lessons\n· 100 Things to See: Tell about some of the seasonal stars you learned to find this term. OR Tell about stargazing this term.  For either question, share your notebook. What did you observe? What questions did you think about?\n\n· Astronomy: Explain what a galaxy, black hole, nebula, supernova, and binary star system is? How are they connected? OR Explain 4 ideas as to why the universe seems designed for life.\n\n· Astronomy: Describe the life cycle of a star. OR What are some questions that theology and cosmology share?\n\n· The Day Without Yesterday: Lemaître's work has been described as 'apolegetics in action.' Explain.\n\n· Tell about a current event or citizen science project from this term."
+        }
+      ]
     }
   ]
 }

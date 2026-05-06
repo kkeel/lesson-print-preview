@@ -2228,6 +2228,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Citizenship: Grade 8 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Gov./ Economics: Grade 8\n· Describe your state government as it is created by your state constitution. Include 1) what the different branches are, 2) the powers that the different branches have, and 3) if your constitution had a preamble, what problems or goals the preamble tried to address. OR Describe the differences between the federal government, your state government, and your local government. \n\nEthics: Part 2\n· Ourselves: Book I: Name some enemies of goodwill and show how they behave."
+        },
+        {
+          "term": "Term 2",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Gov./ Economics: Grade 8\n· Place Holder\t\n\nEthics: Part 2\n· Ourselves: Book I: Name some false ideas that hold back generosity OR Show how egotism destroys sympathy."
+        },
+        {
+          "term": "Term 3",
+          "content": "Current Events: Grades 5-8\n· Tell the story of one of the news events of this term.\n\nAmerican Gov./ Economics: Grade 8\n· Dollars & Sense: Tell what you know about the formation of the national banking system OR Tell what you know about the services banks offer.\n\nEthics: Part 2\n· Ourselves: Book I: Show what loyalty to our country means."
+        }
+      ]
     }
   ]
 }

@@ -670,6 +670,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Level 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing the last exercise you completed.\n\n· Sing, with hand signs: do, re, mi, so, fa, la, so, mi, re, do, so, re, do"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing the last exercise you completed.\n\n· Sing (do is low) do-fa, do-so, and do-la"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Draw an “F-sharp” and a “B-flat” in your music notebook. How does a sharp change the note you sing? How does a flat change the note you sing?\n\n· Sing the last sol-fa exercise you completed."
+        }
+      ]
     }
   ]
 }

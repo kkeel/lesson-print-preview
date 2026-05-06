@@ -2621,6 +2621,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grades 4-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Church History: Grades 4-6\n· Hudson Taylor: Deep in the Heart of China: What are three obstacles Hudson Taylor faced after his decision to become a missionary in China?"
+        },
+        {
+          "term": "Term 2",
+          "content": "Church History: Grades 4-6\n· Hudson Taylor: Deep in the Heart of China or Trial by Poison: Mary Slessor: Tell a story you remember of a blessing or good thing that happened to either Hudson Taylor or Mary Slessor in their lives as missionaries."
+        },
+        {
+          "term": "Term 3",
+          "content": "Church History: Grades 4-6\n· Trial by Poison: Mary Slessor: Tell what you remember about Mary Slessor's life as a missionary."
+        }
+      ]
     }
   ]
 }

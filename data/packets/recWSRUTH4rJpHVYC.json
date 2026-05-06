@@ -608,6 +608,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Fast Track",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Watch the linked video below for your exam.\nLink: Term 1 Exam Video"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Watch the linked video below for your exam.\nLink: Term 2 Exam Video"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Watch the linked video below for your exam.\nLink: Term 3 Exam Video"
+        }
+      ]
     }
   ]
 }

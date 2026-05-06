@@ -621,6 +621,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible History: Grade 9",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· God's Big Picture: Choose one: \na) What does the author mean by “God's people, God's place, and God's rule and blessing”?\nb) List the Old Testament covenants and explain how God's grace is shown through them AND Tell what you know about the \"new covenant\"\nc) Create The Kingdom of God Chart for “The pattern of the kingdom, The perished kingdom, and The promised kingdom.”"
+        },
+        {
+          "term": "Term 2",
+          "content": "· God's Big Picture: How is \"God's promise of the kingdom partially fulfilled in the history of Israel\"?\nOR\nDiscuss Figure 28 (p.110), \"The End of the Old Testament\" telling what you know of God's people, God's place, and God's rule and blessing as it relates to the time periods depicted."
+        },
+        {
+          "term": "Term 3",
+          "content": "· God's Big Picture: If you had to answer someone's question about what the Bible was all about, how would you do it using the framework of God's Big Picture as your model?"
+        }
+      ]
     }
   ]
 }

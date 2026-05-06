@@ -2681,6 +2681,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Bible: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "New Testament: Grades 7-8\n· Tell the story of the early church and how it grew.\n\n· Tell about Peter and a few of the experiences that happened to him as he helped start the early church.\n\nSpiritual Formation: Grades 7-8\n· Transformed by Truth: Explain how the Bible is a \"Big Story.\" What elements of story do we see in the Bible? Give examples of those elements from the Bible story. \n\n· Transformed by Truth: Give two of the reasons the Bible should be studied, along with explanations of those reasons."
+        },
+        {
+          "term": "Term 2",
+          "content": "New Testament: Grades 7-8\n· Tell about Paul's first missionary journey.\n\n· Name three people who helped support Paul in his ministry in your reading this term.\n\nSpiritual Formation: Grades 7-8\n· Transformed by Truth: What are the three steps of inductive Bible study? Explain what each step involves. \n\n· Transformed by Truth: How would you go about studying a chapter of the Bible?"
+        },
+        {
+          "term": "Term 3",
+          "content": "New Testament: Grades 7-8\n· What do you remember about Paul's third missionary journey?\n\n· What are some hardships Paul faced on his journeys?  How did Paul respond to these trials?\n\nSpiritual Formation: Grades 7-8\n· This Changes Everything: How has the author supported her point that \"why who we are influences what we do\"? Name two areas the gospel affects in our lives, and how what we do changes in those areas because of who we are in Christ. \n\n· This Changes Everything: In what ways does the gospel affect how we relate to the church? What are some ways the author states a believer is called to support the church?"
+        }
+      ]
     }
   ]
 }

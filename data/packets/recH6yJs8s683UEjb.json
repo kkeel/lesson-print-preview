@@ -640,6 +640,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sol-fa: Musical Games",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Sing a favorite song, do a favorite activity/dance, or draw/paint a favorite piece."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Sing a favorite song, do a favorite activity/dance, or draw/paint a favorite piece."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Sing a favorite song, do a favorite activity/dance, or draw/paint a favorite piece."
+        }
+      ]
     }
   ]
 }

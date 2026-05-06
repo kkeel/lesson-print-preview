@@ -623,6 +623,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Keyboarding",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Retype the last lesson you did. Record your WPM and accuracy."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Retype the last lesson you did. Record your WPM and accuracy."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Retype the last lesson you did. Record your WPM and accuracy."
+        }
+      ]
     }
   ]
 }

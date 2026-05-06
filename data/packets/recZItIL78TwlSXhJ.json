@@ -646,6 +646,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Lettering: Level 3",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Show your work to an adult.\n\n· Demonstrate one style of lettering in watercolor and explain it to an adult."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Show your work to an adult.\n\n· Demonstrate one style of lettering in ink & brush or brush pen and explain it to an adult."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Show your work to an adult.\n\n· Complete the monogram of a fellow student using your choice of medium."
+        }
+      ]
     }
   ]
 }

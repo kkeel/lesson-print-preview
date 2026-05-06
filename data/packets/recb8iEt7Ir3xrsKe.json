@@ -2401,6 +2401,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geology Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Field Guide to Geology: Explain in what ways the earth's crust changes.\n\n· Field Guide to Geology: Describe different ways that rocks are formed through the changes in the earth's crust.\n\n· Explain how you identified a found rock this term. OR Tell about a geology current event.\n\n· Annals of a Former World: Explain some aspect of geology that McPhee has brought to life for you.\n\n· Explain what you have discovered so far about your local geology and geological history.  Share your notebook."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Field Guide to Geology: Describe how water shapes the land through rivers OR seas OR ice.\n\n· Field Guide to Geology: Explain how relative dating works.\n\n· Explain how you identified a found rock this term. OR Tell about a geology current event.\n\n· Annals of a Former World: Explain some aspect of geology that McPhee has brought to life for you.\n\n· Tell what you have discovered this term about your local geology and geological history.  Share your notebook."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell the story of one of the rocks from The Story of the Earth in 25 Rocks.\n\n· The Story of the Earth in 25 Rocks: Explain how a geologist is like a detective.\n\n· Explain how you identified a found rock this term. OR Tell about a geology current event.\n\n· Tell about a geological site that you read about that you would like to visit someday. Where is it? What is interesting about it? What would you hope to see or learn?\n\n· Give a presentation on your local geology and geological history.  Share your notebook."
+        }
+      ]
     }
   ]
 }

@@ -2417,6 +2417,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Food Science Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Salt Fat Acid Heat: Tell something you learned about the chemistry of salt OR fat (lipids) OR acid, and the observations you made about this ingredient in the kitchen.\n\n· Salt, Fat, Acid, Heat: Tell something you learned about what heat is and what it does physically/chemically. Also, tell about the observations you made about heat in the kitchen.\n\n· Elements of Baking: Tell about one 'element of baking' that you read about this term, including what properties it contributes to a bake.\n\n· Tell about a meal you prepared for 'dinner night' and explain how it was made. You may refer to the recipe to help, but you should be able to explain HOW to prepare the food and tell about how salt/acid/fat/heat contribute to the success of the dish.  Share your lab notebook with your teacher.\n\n· Give an informal presentation to your teacher on something you have learned about this term, such as how a particular recipe or ingredient works."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Share your lab notebook with your teacher and explain one of your bakes. What worked/didn't? How did ingredient substitutions affect the product?\n\n· Culinary Anthropology selection: Tell what you learned about food in your selected culture. How are salt, fat, acid, and heat used by your selected culture?\n\n· Tell something that stood out to you about a chosen recipe, current event, OR your culinary anthropology selection.\n\n· Tell about a meal you prepared for 'dinner night' and explain how it was made. You may refer to the recipe to help, but you should be able to explain HOW to prepare the food and tell about how salt/acid/fat/heat contribute to the success of the dish.  Share your notebook with your teacher.\n\n· Give an informal presentation to your teacher on your citizen science project."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Share your lab notebook with your teacher and explain one of your bakes. What worked/didn't? How did ingredient substitutions affect the product? How does notebooking impact your learning experience?\n\n· Explain an idea that you learned about in Culinary Reactions.\n\n· Tell something that stood out to you about a chosen recipe, current event, OR Culinary Reactions.\n\n· Tell about a meal you prepared for 'dinner night' and explain how it was made. You may refer to the recipe to help, but you should be able to explain HOW to prepare the food and tell about how salt/acid/fat/heat contribute to the success of the dish.  Share your notebook with your teacher.\n\n· Give an informal presentation to your teacher on your citizen science research."
+        }
+      ]
     }
   ]
 }

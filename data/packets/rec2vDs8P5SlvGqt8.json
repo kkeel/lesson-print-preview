@@ -1441,6 +1441,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Recitation: Grade 11",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Recite hymn and psalm selections to a parent/teacher.\n\n· Recite OT/NT selections to a parent/teacher.\n\n· Recite poetry selections to a parent/teacher."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Recite hymn and psalm selections to a parent/teacher.\n\n· Recite OT/NT selections to a parent/teacher.\n\n· Recite poetry selections to a parent/teacher."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Recite hymn and psalm selections to a parent/teacher.\n\n· Recite OT/NT selections to a parent/teacher.\n\n· Recite poetry selections to a parent/teacher."
+        }
+      ]
     }
   ]
 }

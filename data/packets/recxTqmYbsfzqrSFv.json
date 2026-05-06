@@ -1063,6 +1063,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 10-11",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Regional\n• Write about one of the regions you studied this year in Across this Land. \n\n· Historical Geography\n• Write about the aspects of the trip down the Missouri River so far that have stood out to you. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· World Geography \n•  From Sufferings in Africa, write multiple paragraphs about Riley's adventures. Include a simple sketch map.  \n\n· Historical Geography\n• Write about the aspects of this last term of the trip. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path? What has been of interest to you?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Regional\n• Write about one of the regions you studied this year in Across this Land. \n\n· Historical Geography\n• Write about the aspects of this last term of the trip. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path? What has been of interest to you?"
+        }
+      ]
     }
   ]
 }

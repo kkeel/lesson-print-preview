@@ -179,6 +179,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Advanced Nature Study",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Advanced Nature Study Lessons\n· Take pictures of 10 of your favorite journaling pages from the term.\n\n· Describe some of the new skills or tools you have been experimenting with this term, and what you think about them. What have you liked and not liked, and where do you want to grow?\n\n· What was one of your most interesting findings or observations from the term? What are you wondering about?"
+        },
+        {
+          "term": "Term 2",
+          "content": "Advanced Nature Study Lessons\n· Take pictures of 10 of your favorite journaling pages from the term.\n\n· Describe some of the new skills or tools you have been experimenting with this term and what you think about them. What have you liked and not liked, and where do you want to grow?\n\n· What was one of your most interesting findings or observations from the term? What are you wondering about?"
+        },
+        {
+          "term": "Term 3",
+          "content": "Advanced Nature Study Lessons\n· Take pictures of 10 of your favorite journaling pages from the term.\n\n· Describe some of the new skills or tools you have been experimenting with this term and what you think about them. What have you liked and not liked, and where do you want to grow?\n\n· Describe your year-long study. What plants, animals, etc., did you discover? Describe some of the changes you saw. What were some of the highlights? What surprised you? What questions did it generate? Include a few pictures of your journal pages about your study. Any ideas for other longer-term studies you could do?"
+        }
+      ]
     }
   ]
 }

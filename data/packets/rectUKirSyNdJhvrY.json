@@ -645,6 +645,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Ethics: Part 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Ourselves: Book I: Describe the work of two \"Esquires of the Body\" (appetites), and show that these Esquires must be servants, not masters, in Mansoul. OR Tell about some of the perils of Mansoul."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Ourselves: Book I: Show that the sense of touch is a useful servant but a bad master. How may we get a \"hearing ear?\" Mention some sounds that you have enjoyed this term. OR How do the Beauty Sense and Imagination help assist Intellect in his travels?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Ourselves: Book I: Tell that the Desires of (a) approbation, (b) wealth, and (c) power have their uses and their dangers. Give examples from books you have read, if possible. OR Describe the benefits of Reason, as well as the dangers of depending upon it."
+        }
+      ]
     }
   ]
 }

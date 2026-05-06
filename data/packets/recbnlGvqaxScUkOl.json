@@ -222,6 +222,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Mathematics: Grade 8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Algebra 1: Part 1\n· Jacobs Elementary Algebra: Complete Ch.3 Summary and Review Set 2 (p.121-122, every other question).\n\nGeometry: Grade 8\n· RightStart Math Level G: Work on Review and Games 10 (Lesson 103)."
+        },
+        {
+          "term": "Term 2",
+          "content": "Algebra 1: Part 1\n· Jacobs Elementary Algebra: Complete Ch.6 Summary and Review Set 2 (p.234-235, questions not answered during term).\n\nGeometry: Grade 8\n· RightStart Math Level G: Work on Review and Games 12 (Lesson 116)."
+        },
+        {
+          "term": "Term 3",
+          "content": "Algebra 1: Part 1\n· Jacobs Elementary Algebra: Complete Midterm Review Set 3 (p.327-328, odd questions only).\n\nGeometry: Grade 8\n· RightStart Math Level G: Work on Assessment 3 (Lesson 127) if not finished. If finished, work on questions from another subject or play a math game."
+        }
+      ]
     }
   ]
 }

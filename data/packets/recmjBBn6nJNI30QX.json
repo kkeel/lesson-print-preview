@@ -643,6 +643,21 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Econ/Civics: Grade 11 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· The Art of Asking Better Questions: Explain how curiosity aids in developing the skill of asking great questions.\n\n· The Art of Asking Better Questions: If a friend asked you, \"Why is it important to develop the skill of asking better questions?\" how would you reply?"
+        },
+        {
+          "term": "Term 3",
+          "content": "· What Would Keynes Do?: Should the government help failing companies? Give support for and against.\nOR\nDiscuss the income-leisure trade-off (income effect and substitution effect of higher pay). When might you choose to take a promotion? Why might you decline?\nOR\nDiscuss the Lazear quote \"Incentives are the essence of economics\" in light of Maslow's progressive hierarchy of needs pyramid."
+        }
+      ]
     }
   ]
 }

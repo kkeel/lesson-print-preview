@@ -1106,6 +1106,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geography: Grade 2 (Canada)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· My Canada: Imagine you are taking a trip to Vancouver Island from another part of Canada. How would you get there? What kinds of things would you expect to see? What are some things that make islands special?\n\n· The Kids Book of Canada: Tell what you remember about Alberta. What different regions are there, and what are some of the animals that live there?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell what you remember about the water cycle. OR Tell what you remember about how water moves.\n\n· Locate on a blank map of Canada: the Rocky Mountains, Saskatchewan, and Ottawa, ON."
+        },
+        {
+          "term": "Term 3",
+          "content": "· The Kids Book of Canada and Canada Wild: Tell what you remember about Ontario. OR Tell what you remember about Quebec. What different regions are there, and what are some of the animals that live there?\n\n· Our Canadian Flag: Tell what you remember about how we got our Canadian flag and places where you might see it. OR Locate on a blank map of Canada: the Gulf of St. Lawrence, the Great Lakes, and Ottawa, ON."
+        }
+      ]
     }
   ]
 }

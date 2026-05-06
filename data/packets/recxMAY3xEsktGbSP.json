@@ -684,6 +684,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Sloyd: Level 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "·  Share one of the pieces you made this term with an adult and explain how you made it."
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Share one of the pieces you made this term with an adult and explain how you made it."
+        },
+        {
+          "term": "Term 3",
+          "content": "·  Share one of the pieces you made this term with an adult and explain how you made it."
+        }
+      ]
     }
   ]
 }

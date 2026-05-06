@@ -631,6 +631,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Story of Arithmetic: Part 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Number Stories of Long Ago: Tell what you know about how people in ancient Asia and Mesopotamia counted."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Number Stories of Long Ago: Tell what you know about Greek and Roman numerals. OR Tell what you know about the development of number writing."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Number Stories of Long Ago: Tell what you know about the history of the abacus."
+        }
+      ]
     }
   ]
 }

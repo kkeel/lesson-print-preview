@@ -2410,6 +2410,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Microbiology Lessons",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· I Contain Multitudes: Describe some of the 20th-century discoveries in the field of microbes.\n\n· Field Guide to Bacteria: Scan your summary creation of all of the bacteria you have read about so far. Write a few paragraphs about one type.\n\n· A Planet of Viruses: Write about the history of the study of viruses. Include some comments on COVID-19 as part of the ongoing story after the book was written; OR Microbe Hunters: Write about the discoveries of Leeuwenhoek or Spallanzani.\n\n· The Immortal Life of Henrietta Lacks: Tell the story of Henrietta Lacks (so far) in the book.\n\n· Describe 2 of your experiments. What conclusions did you draw from the results? What further questions did they raise? How would you go about finding the answers?\n\n· Show your teacher/parent your nature and science notebooks. Scan a favorite page from each."
+        },
+        {
+          "term": "Term 2",
+          "content": "· I Contain Multitudes: Explain how microbes play a role in illness and in health.\n\n· Field Guide to Bacteria: Scan your summary creation of all of the bacteria you have read about so far. Write a few paragraphs about one type.\n\n· Micro Life: Write about a few of your favorite images. How do they help your understanding to see things up close? Include a few sketches to illustrate your points; OR Microbe Hunters: What role did Koch play in the history of microbes?\n\n· The Immortal Life of Henrietta Lacks: What questions about bioethics have you had after reading the story of Henrietta Lacks to this point?\n\n· Describe 2 of your experiments. What conclusions did you draw from the results? What further questions did they raise? How would you go about finding the answers?\n\n· Show your teacher/parent your nature and science notebooks. Scan a favorite page from each."
+        },
+        {
+          "term": "Term 3",
+          "content": "· I Contain Multitudes: Describe the future of microbe research.\n\n· Field Guide to Bacteria: Scan your summary creation of all of the bacteria you have read about so far. Write a few paragraphs about one type.\n\n· Growing a Revolution: Why is David Montgomery optimistic about agriculture? What are ways to leave the soil better off instead of degrading it?\n\n· The Immortal Life of Henrietta Lacks: Write 5 response statements or 5 new questions about the story after finishing The Immortal Life of Henrietta Lacks.\n\n· Describe 2 of your experiments. What conclusions did you draw from the results? What further questions did they raise? How would you go about finding the answers?\n\n· Show your teacher/parent your nature and science notebooks. Scan a favorite page from each."
+        }
+      ]
     }
   ]
 }

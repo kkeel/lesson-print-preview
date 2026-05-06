@@ -627,6 +627,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Story of Geometry: Part 1",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· String, Straight-Edge, and Shadow: Tell what you know about geometry in nature OR Tell how design mimics nature."
+        },
+        {
+          "term": "Term 2",
+          "content": "· String, Straight-Edge, and Shadow: Tell how geometry is useful in architecture OR Tell how humans learned to measure the seasons."
+        },
+        {
+          "term": "Term 3",
+          "content": "· String, Straight-Edge, and Shadow: Draw and explain how Thales calculated the height of the Great Pyramid."
+        }
+      ]
     }
   ]
 }

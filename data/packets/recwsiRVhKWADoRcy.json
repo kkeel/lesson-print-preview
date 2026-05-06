@@ -611,6 +611,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Poetry Study: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· What Is Poetry?: How can poetry borrow voices, capture a moment, or make new sense? Give an example from your reading in the book or from the term's poetry."
+        },
+        {
+          "term": "Term 2",
+          "content": "· What Is Poetry?: Tell about some of the ways the author has introduced starting poems, and share which ones you enjoyed most."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Share a poem you wrote this term and explain which ideas from \"What Is Poetry?\" started it."
+        }
+      ]
     }
   ]
 }

@@ -401,6 +401,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Science: Grade 6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "General Science: Grade 6\n· Plate Tectonics: Draw or diagram 3 types of plate movement and what they cause. OR Explain what is meant by the terms continental drift and seafloor spreading.\n\n· Explain how you did one investigation in science lab this term and what you learned from it.\n\nNatural History: Grade 6\n· Tracking Trash: Draw or diagram 3 different factors that help create ocean currents; OR explain how ocean currents affect climate and wildlife."
+        },
+        {
+          "term": "Term 2",
+          "content": "General Science: Grade 6\n· Phineas Gage: Explain why animals are used as models in science. OR Tell how the life of Phineas Gage has contributed to our understanding of the brain.\n\n· Explain how you did one investigation in science lab this term and what you learned from it.\n\nNatural History: Grade 6\n· The Wolves and Moose of Isle Royale: Using words or pictures, explain how wolves affect the ecosystem; OR describe 3 ways that scientists study animals in the field."
+        },
+        {
+          "term": "Term 3",
+          "content": "General Science: Grade 6\n· The Art of Construction: Explain how a structure's form comes from its needed function. OR The author describes architecture as both art and engineering. Give 3 examples that demonstrate this idea.\n\n· Explain how you did one construction this term and what you learned from it.\n\nNatural History: Grade 6\n· The Frog Scientist: Diagram the life cycle of a frog; OR give 2 examples of chemical, biological, or environmental conditions that may impact amphibians in the wild."
+        }
+      ]
     }
   ]
 }

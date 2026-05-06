@@ -284,6 +284,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "PE: Grades 7-12",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "Sports\n· Explain the rules of one of the soccer games from this term OR demonstrate how to kick a soccer ball.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term.\n\nHistoric Dancing\n· Dance Sir Roger de Coverley."
+        },
+        {
+          "term": "Term 2",
+          "content": "Sports\n· Explain the rules to one of the basketball games from this term OR demonstrate how to dribble a basketball and how to properly throw it into the basket.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term.\n\nHistoric Dancing\n· Dance Capoeira."
+        },
+        {
+          "term": "Term 3",
+          "content": "Sports\n· Explain the rules to one of the rec games from this term.\n\nFree Play/ Circuits\n· Show someone 2 upper-body and 2 lower-body exercises you did this term.\n\nHistoric Dancing\n· Dance The Lancers Quadrille."
+        }
+      ]
     }
   ]
 }

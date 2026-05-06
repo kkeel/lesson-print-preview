@@ -623,6 +623,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Folk Dancing",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Perform the song and dance for Great Big House OR Brother Come and Dance."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Perform the song and dance for Old Joe Clark OR Brown Eyed Mary."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Perform the song and dance for Billy, Billy OR Paw Paw Patch."
+        }
+      ]
     }
   ]
 }

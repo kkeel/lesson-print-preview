@@ -1485,6 +1485,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Geometry: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· RightStart Math Level G: Work on Review and Games 3 (Lesson 27)."
+        },
+        {
+          "term": "Term 2",
+          "content": "· RightStart Math Level G: Work on Review and Games 5 (Lesson 53)."
+        },
+        {
+          "term": "Term 3",
+          "content": "· RightStart Math Level G: Work on Assessment 2 (Lesson 76)."
+        }
+      ]
     }
   ]
 }
