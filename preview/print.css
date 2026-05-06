@@ -1,0 +1,47 @@
+@page {
+  size: 8.5in 11in;
+  margin: 0.5in;
+
+  @bottom-left {
+    content: "Alveary Lesson Plans";
+    font-size: 8pt;
+    color: #4b544b;
+    white-space: nowrap;
+  }
+
+  @bottom-center {
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    font-size: 8pt;
+    color: #4b544b;
+    white-space: nowrap;
+  }
+
+  @bottom-right {
+    content: "p. " counter(page);
+    font-size: 8pt;
+    color: #4b544b;
+    white-space: nowrap;
+  }
+}
+
+@media print {
+  body.pdf-mode {
+    background: #ffffff;
+    padding: 0;
+  }
+
+  body.pdf-mode #preview {
+    gap: 0;
+  }
+
+  body.pdf-mode .page-flow {
+    width: 100%;
+    margin: 0;
+    box-shadow: none;
+    border: none;
+  }
+
+  body.pdf-mode .preview-only {
+    display: none !important;
+  }
+}
