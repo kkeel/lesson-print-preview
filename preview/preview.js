@@ -653,26 +653,69 @@ function renderLessonsSection(section) {
   let html = "";
 
   (section.terms || []).forEach((termGroup, index) => {
+    const termTitle = termGroup.term || "";
+
     html += `
       <div class="page-flow lessons-section ${index === 0 ? "section-break" : "term-start"}">
-        <div class="lesson-page-header">
-          <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
 
-          <div class="lesson-page-linkbox">
-            <a href="${escapeHtml(section.linkPageUrl || "#")}" target="_blank">
-              Click THIS text or<br>
-              scan the QR code<br>
-              for links.
-            </a>
-            <div class="lesson-page-qr-placeholder">QR</div>
+        <!-- Normal preview layout -->
+        <div class="lesson-preview-flow">
+          <div class="lesson-page-header">
+            <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
+
+            <div class="lesson-page-linkbox">
+              <a href="${escapeHtml(section.linkPageUrl || "#")}" target="_blank">
+                Click THIS text or<br>
+                scan the QR code<br>
+                for links.
+              </a>
+              <div class="lesson-page-qr-placeholder">QR</div>
+            </div>
+          </div>
+
+          <div class="term-banner">${escapeHtml(termTitle)}</div>
+
+          <div class="lesson-list">
+            ${(termGroup.lessons || []).map(lesson => renderLesson(lesson)).join("")}
           </div>
         </div>
 
-        <div class="term-banner">${escapeHtml(termGroup.term || "")}</div>
+        <!-- PDF print layout: table header repeats on each printed page -->
+        <table class="lesson-print-table">
+          <thead>
+            <tr>
+              <th>
+                <div class="lesson-print-repeat-header">
+                  <div class="lesson-page-header lesson-page-header--print">
+                    <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
 
-        <div class="lesson-list">
-          ${(termGroup.lessons || []).map(lesson => renderLesson(lesson)).join("")}
-        </div>
+                    <div class="lesson-page-linkbox">
+                      <a href="${escapeHtml(section.linkPageUrl || "#")}" target="_blank">
+                        Click THIS text or<br>
+                        scan the QR code<br>
+                        for links.
+                      </a>
+                      <div class="lesson-page-qr-placeholder">QR</div>
+                    </div>
+                  </div>
+
+                  <div class="term-banner">${escapeHtml(termTitle)}</div>
+                </div>
+              </th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>
+                <div class="lesson-list">
+                  ${(termGroup.lessons || []).map(lesson => renderLesson(lesson)).join("")}
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
       </div>
     `;
   });
