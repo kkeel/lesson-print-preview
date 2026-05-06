@@ -1511,7 +1511,9 @@ a:hover {
 
 .lesson-section-heading {
   display: inline-block;
-  font-weight: 800;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 9.7px;
   letter-spacing: 0.015em;
   margin-top: 0.05in;
   margin-bottom: 0.01in;
