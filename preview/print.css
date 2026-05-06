@@ -55,27 +55,13 @@ body.pdf-mode * {
   }
 
   body.pdf-mode .page-flow {
-    width: 100% !important;
-    min-height: auto !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    box-shadow: none !important;
-    border: none !important;
-    box-sizing: border-box;
-  }
-
-  /* Cover should fit one page now that footer copyright exists */
-  body.pdf-mode .cover-section {
-    min-height: 10in !important;
-    height: 10in !important;
-    break-after: page;
-    page-break-after: always;
-  }
-
-  body.pdf-mode .cover-inner {
-    min-height: 10in !important;
-    height: 10in !important;
-  }
+  width: 8.5in !important;
+  margin: 0 auto !important;
+  padding: 0.5in !important;
+  box-shadow: none !important;
+  border: none !important;
+  box-sizing: border-box;
+}
 
   /* Remove duplicate copyright from cover content */
   body.pdf-mode .cover-footer-line {
