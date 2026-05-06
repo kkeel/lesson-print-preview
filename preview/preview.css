@@ -1602,3 +1602,16 @@ a:hover {
     print-color-adjust: exact;
   }
 }
+
+.exam-topic-heading {
+  font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.25;
+  font-weight: 700;
+  color: #adb58f;
+  margin: 0.04in 0 0.035in;
+}
+
+.exam-topic-heading:first-child {
+  margin-top: 0;
+}
