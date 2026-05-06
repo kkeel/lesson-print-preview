@@ -1538,44 +1538,67 @@ a:hover {
 
 .exams-section {
   min-height: 11in;
+  padding-top: 0.72in;
+}
+
+.exam-page-header {
+  margin-bottom: 0.22in;
+}
+
+.exam-page-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 36px;
+  line-height: 1.1;
+  font-weight: 400;
+  color: #596e5e;
+  margin: 0 0 0.18in;
+}
+
+.exam-page-subtitle {
+  background: #adb58f;
+  color: #ffffff;
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 22px;
+  line-height: 1.1;
+  font-weight: 400;
+  padding: 7px 8px;
+  margin: 0;
+}
+
+.exam-term-list {
+  margin-top: 0.18in;
 }
 
 .exam-term-block {
   display: grid;
-  grid-template-columns: 0.8in 1fr;
-  gap: 0.12in;
-  margin-bottom: 0.35in;
+  grid-template-columns: 0.9in 1fr;
+  gap: 0.18in;
+  margin-bottom: 0.32in;
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
 
 .exam-term-label {
   font-family: "Circular Pro", "DM Sans", system-ui, sans-serif;
-  font-size: 10px;
+  font-size: 18px;
+  line-height: 1.15;
   font-weight: 700;
-  color: #adb58f;
-  text-transform: uppercase;
-  padding-top: 2px;
+  color: #596e5e;
+  padding-top: 0;
+  text-transform: none;
 }
 
 .exam-content {
   font-family: "DM Sans", system-ui, sans-serif;
-  font-size: 11px;
-  line-height: 1.4;
-  color: #111;
+  font-size: 12px;
+  line-height: 1.42;
+  color: #111111;
 }
 
-.exam-content strong,
-.exam-content b {
-  font-weight: 700;
-}
-
-.exam-content br + br {
-  margin-bottom: 6px;
-}
-
-/* keep exams clean in print */
 @media print {
-  .exam-content {
-    font-size: 10.5px;
-    line-height: 1.35;
+  .exam-page-subtitle {
+    background: #adb58f !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 }
