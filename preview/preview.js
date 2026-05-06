@@ -640,15 +640,26 @@ function renderLesson(lesson) {
 }
 
 function renderExamsSection(section) {
-  let html = `<div class="page-flow exams-section section-break">`;
+  let html = `
+    <div class="page-flow exams-section section-break">
+      <div class="lesson-page-header">
+        <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
 
-  (section.items || []).forEach(item => {
+        <div class="lesson-page-linkbox">
+          <span>Examination</span>
+        </div>
+      </div>
+  `;
+
+  (section.terms || []).forEach(term => {
     html += `
-      <section class="flow-block exam-block">
-        <h2>${escapeHtml(item.term || "")}</h2>
-        <h3>${escapeHtml(item.title || "")}</h3>
-        <p>${nl2br(item.content || "")}</p>
-      </section>
+      <div class="exam-term-block">
+        <div class="exam-term-label">${escapeHtml(term.term)}</div>
+
+        <div class="exam-content">
+          ${nl2br(term.content)}
+        </div>
+      </div>
     `;
   });
 
