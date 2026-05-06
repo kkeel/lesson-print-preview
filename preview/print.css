@@ -129,3 +129,76 @@ body.pdf-mode * {
     box-sizing: border-box;
   }
 }
+
+/* =========================
+   PDF lesson repeated headers
+   ========================= */
+
+/* Screen preview: keep the normal flow visible */
+.lesson-print-table {
+  display: none;
+}
+
+@media print {
+  /* In PDF mode, hide the normal lesson flow and use the table version */
+  body.pdf-mode .lesson-preview-flow {
+    display: none !important;
+  }
+
+  body.pdf-mode .lesson-print-table {
+    display: table !important;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  body.pdf-mode .lesson-print-table thead {
+    display: table-header-group;
+  }
+
+  body.pdf-mode .lesson-print-table tbody {
+    display: table-row-group;
+  }
+
+  body.pdf-mode .lesson-print-table th,
+  body.pdf-mode .lesson-print-table td {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    text-align: left;
+    vertical-align: top;
+    font-weight: inherit;
+  }
+
+  body.pdf-mode .lesson-print-repeat-header {
+    display: block;
+    background: #ffffff !important;
+    padding-bottom: 0.04in;
+  }
+
+  body.pdf-mode .lesson-page-header--print {
+    margin: 0 0 0.08in !important;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.18in;
+  }
+
+  body.pdf-mode .lesson-page-header--print .lesson-page-title {
+    margin: 0 !important;
+  }
+
+  body.pdf-mode .lesson-page-header--print .lesson-page-linkbox {
+    flex: 0 0 auto;
+    max-width: 1.55in;
+    padding-right: 0.04in !important;
+  }
+
+  body.pdf-mode .lesson-page-header--print .lesson-page-qr-placeholder {
+    margin-right: 0 !important;
+  }
+
+  body.pdf-mode .lesson-print-repeat-header .term-banner {
+    margin: 0 !important;
+  }
+}
