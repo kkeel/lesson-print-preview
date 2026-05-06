@@ -100,3 +100,32 @@ body.pdf-mode * {
     border-left-color: #8da08c !important;
   }
 }
+
+@media print {
+  /* Remove section-specific top offsets in print mode */
+  body.pdf-mode .lessons-section,
+  body.pdf-mode .exams-section {
+    padding-top: 0 !important;
+  }
+
+  body.pdf-mode .lesson-page-header,
+  body.pdf-mode .exam-page-header {
+    margin-top: 0 !important;
+  }
+
+  body.pdf-mode .howto-section,
+  body.pdf-mode .header-section {
+    padding-top: 0 !important;
+  }
+
+  body.pdf-mode .howto-page-header,
+  body.pdf-mode .header-page-intro {
+    margin-top: 0 !important;
+  }
+
+  /* Give the QR a little breathing room from the right edge */
+  body.pdf-mode .lesson-page-linkbox {
+    padding-right: 0.08in !important;
+    box-sizing: border-box;
+  }
+}
