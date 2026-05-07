@@ -431,9 +431,8 @@ body.pdf-mode * {
 }
 
 @media print {
-  /* Exam-week lessons often have no teacher notes.
-     Do not let the empty notes column force extra height at the end of a term. */
-  body.pdf-mode .lesson-notes-col:empty {
+  /* Empty teacher-note columns should not force extra lesson height */
+  body.pdf-mode .lesson-notes-col.lesson-notes-empty {
     min-height: 0 !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
