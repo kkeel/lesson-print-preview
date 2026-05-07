@@ -94,11 +94,11 @@
               {
                 "label": "Science: Geology",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Geology Lessons",
+                  "Geology Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Geology Lessons",
-                  "Geology Lessons*Geology Labs",
-                  "Nature Notebook: Grades 9-12*Geology Lessons",
-                  "Geology Lessons"
+                  "Geology Lessons",
+                  "Geology Lessons*Nature Notebook: Grades 9-12",
+                  "Geology Lessons*Geology Labs"
                 ]
               }
             ]

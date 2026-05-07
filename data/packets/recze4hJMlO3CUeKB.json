@@ -57,11 +57,11 @@
               {
                 "label": "Language Study: Grade 6",
                 "days": [
-                  "Dictation: Grade 6*Penmanship & Copywork: Grade 6*Written Narration: Grade 6",
-                  "Grammar: Grade 6*Penmanship & Copywork: Grade 6*Written Narration: Grade 6",
-                  "Dictation: Grade 6*Penmanship & Copywork: Grade 6*Written Narration: Grade 6",
-                  "Grammar: Grade 6*Penmanship & Copywork: Grade 6*Written Narration: Grade 6",
-                  "Dictation: Grade 6*Penmanship & Copywork: Grade 6*Written Narration: Grade 6"
+                  "Penmanship & Copywork: Grade 6*Dictation: Grade 6*Written Narration: Grade 6",
+                  "Penmanship & Copywork: Grade 6*Grammar: Grade 6*Written Narration: Grade 6",
+                  "Penmanship & Copywork: Grade 6*Dictation: Grade 6*Written Narration: Grade 6",
+                  "Penmanship & Copywork: Grade 6*Grammar: Grade 6*Written Narration: Grade 6",
+                  "Penmanship & Copywork: Grade 6*Grammar: Grade 6*Written Narration: Grade 6"
                 ]
               }
             ]

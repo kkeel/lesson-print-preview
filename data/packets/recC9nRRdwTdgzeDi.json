@@ -63,11 +63,11 @@
               {
                 "label": "Language Study: Grade 7",
                 "days": [
-                  "Written Narration: Grade 7*Copywork: Grade 7",
                   "Grammar/Comp: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
+                  "Written Narration: Grade 7*Grammar/Comp: Grade 7*Copywork: Grade 7",
                   "Dictation: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
-                  "Grammar/Comp: Grade 7*Written Narration: Grade 7*Copywork: Grade 7",
-                  "Dictation: Grade 7*Written Narration: Grade 7*Copywork: Grade 7"
+                  "Written Narration: Grade 7*Grammar/Comp: Grade 7*Copywork: Grade 7",
+                  "Dictation: Grade 7*Grammar/Comp: Grade 7*Written Narration: Grade 7*Copywork: Grade 7"
                 ]
               }
             ]

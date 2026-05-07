@@ -64,9 +64,9 @@
                 "label": "History: Grades 7-8 (U.S.)",
                 "days": [
                   "",
-                  "U.S. History: Grades 7-8*World History: Grades 7-8",
-                  "Ancient History: Grades 7-9",
-                  "U.S. History: Grades 7-8",
+                  "World History: Grades 7-8*U.S. History: Grades 7-8",
+                  "",
+                  "Ancient History: Grades 7-9*U.S. History: Grades 7-8",
                   ""
                 ]
               },
@@ -75,28 +75,28 @@
                 "days": [
                   "",
                   "World History: Grades 7-8*Canadian History: Grades 7-8",
-                  "Ancient History: Grades 7-9",
-                  "Canadian History: Grades 7-8",
+                  "",
+                  "Ancient History: Grades 7-9*Canadian History: Grades 7-8",
                   ""
                 ]
               },
               {
                 "label": "History: Grade 9 (U.S.)",
                 "days": [
-                  "",
+                  "U.S. History: Grades 9-12",
                   "U.S. History: Grades 9-12",
                   "Ancient History: Grades 7-9",
-                  "U.S. History: Grades 9-12*World History: Grade 9",
+                  "World History: Grade 9",
                   ""
                 ]
               },
               {
                 "label": "History: Grade 9 (Canada)",
                 "days": [
-                  "",
+                  "Canadian History: Grades 9-10",
                   "Canadian History: Grades 9-10",
                   "Ancient History: Grades 7-9",
-                  "World History: Grade 9*Canadian History: Grades 9-10",
+                  "World History: Grade 9",
                   ""
                 ]
               }
@@ -224,7 +224,7 @@
               "sequence": 1,
               "lessonLabel": "Lesson 1",
               "title": "30m Ancient History: Grades 7-9 - Lesson 1",
-              "body": "Meeting Sulla\n⍞ Materials: A Short History of Ancient Rome\n\n➜ INTRO\nWelcome to the Roman Empire! What and who have you learned about previousily? Are you familiar with Sulla, Caesar, Nero or Trajan? These are all people falling into the scope of 100 B.C to 350 A.D and these leaders are only a few of stories that will be learned about in the next few terms. \n\n➜ READ\nCh.6 p.89-99 - end at \"the Coming Men\" \n\n➜ NARRATE",
+              "body": "Meeting Sulla\n⍞ Materials: A Short History of Ancient Rome\n\n➜ INTRO\n\"Rome wasn't built in a day\" is a popular proverb and may be one that you are familiar with. And it is true. Rome was founded in 509 B.C and from it's founding passed from any leaders and participated in many wars. As Rome and its leaders conquered people groups, many groups assimilated to life among the culture. Political leaders arose and fell and the Roman republic found itself under threat from outside forces and from within. \n\nLeaders who were elected into positions within the Roman republic also found themselves under constant threat. Sulla, who will be introduced in this chapter, is one such man. He finds outside forces plotting against him and marshals an army to face his opponent. Sulla be only one of the many leaders of Rome that you will read about in Pascal Hughes' A Short History of Ancient Rome.\n\n➜ READ\nCh.6 p.89-99 - end at \"the Coming Men\" \n\n➜ NARRATE",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec35HIIi6CIj2I0T&6J82c=recmTgo9wf4Xws6BE"
             },

@@ -85,71 +85,71 @@
               {
                 "label": "Mathematics: Grade 2",
                 "days": [
-                  "Math Games: Grades 1-8*Math Lessons: Grade 2",
+                  "Math Lessons: Grade 2*Math Games: Grades 1-8",
                   "Math Lessons: Grade 2",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 2",
-                  "Math Lessons: Grade 2",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 2"
+                  "Math Lessons: Grade 2*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 2*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 2"
                 ]
               },
               {
                 "label": "Mathematics: Grade 3",
                 "days": [
-                  "Math Games: Grades 1-8*Math Lessons: Grade 3",
+                  "Math Lessons: Grade 3*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 3*Math Games: Grades 1-8",
                   "Math Lessons: Grade 3",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 3",
                   "Math Lessons: Grade 3",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 3"
+                  "Math Lessons: Grade 3*Math Games: Grades 1-8"
                 ]
               },
               {
                 "label": "Mathematics: Grade 4",
                 "days": [
-                  "Math Games: Grades 1-8*Math Lessons: Grade 4",
+                  "Math Lessons: Grade 4*Math Games: Grades 1-8",
                   "Math Lessons: Grade 4",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 4",
+                  "Math Lessons: Grade 4*Math Games: Grades 1-8",
                   "Math Lessons: Grade 4",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 4"
+                  "Math Lessons: Grade 4*Math Games: Grades 1-8"
                 ]
               },
               {
                 "label": "Mathematics: Grade 5",
                 "days": [
-                  "Math Games: Grades 1-8*Math Lessons: Grade 5",
                   "Math Lessons: Grade 5",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 5",
                   "Math Lessons: Grade 5",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 5"
+                  "Math Lessons: Grade 5*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 5*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 5*Math Games: Grades 1-8"
                 ]
               },
               {
                 "label": "Mathematics: Grade 6",
                 "days": [
-                  "Math Games: Grades 1-8*Math Lessons: Grade 6",
                   "Math Lessons: Grade 6",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 6",
-                  "Math Lessons: Grade 6",
-                  "Math Games: Grades 1-8*Math Lessons: Grade 6"
+                  "Math Lessons: Grade 6*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 6*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 6*Math Games: Grades 1-8",
+                  "Math Lessons: Grade 6"
                 ]
               },
               {
                 "label": "Mathematics: Grade 7",
                 "days": [
-                  "Math Games: Grades 1-8*Geometry: Grade 7",
-                  "Pre-Algebra",
-                  "Math Games: Grades 1-8*Geometry: Grade 7",
-                  "Pre-Algebra",
-                  "Math Games: Grades 1-8*Geometry: Grade 7"
+                  "Geometry: Grade 7",
+                  "Pre-Algebra*Math Games: Grades 1-8",
+                  "Geometry: Grade 7*Math Games: Grades 1-8",
+                  "Pre-Algebra*Math Games: Grades 1-8",
+                  "Geometry: Grade 7"
                 ]
               },
               {
                 "label": "Mathematics: Grade 8",
                 "days": [
-                  "Math Games: Grades 1-8*Algebra 1: Part 1",
+                  "Algebra 1: Part 1*Math Games: Grades 1-8",
+                  "Geometry: Grade 8*Math Games: Grades 1-8",
+                  "Algebra 1: Part 1*Math Games: Grades 1-8",
                   "Geometry: Grade 8",
-                  "Math Games: Grades 1-8*Algebra 1: Part 1",
-                  "Geometry: Grade 8",
-                  "Math Games: Grades 1-8*Algebra 1: Part 1"
+                  "Algebra 1: Part 1"
                 ]
               },
               {

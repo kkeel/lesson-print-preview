@@ -68,9 +68,9 @@
                 "label": "Music: Intro",
                 "days": [
                   "Sol-fa: Musical Games",
-                  "Hymns & Spirituals",
+                  "Hymns & Spirituals*Afternoon Listening",
                   "",
-                  "Folk Songs*Afternoon Listening",
+                  "Folk Songs",
                   "Music Appreciation"
                 ]
               },
@@ -78,10 +78,10 @@
                 "label": "Music: Level 1",
                 "days": [
                   "Sol-fa: Level 1",
-                  "Hymns & Spirituals",
+                  "Hymns & Spirituals*Afternoon Listening",
                   "",
-                  "Folk Songs*Afternoon Listening*Composer Study",
-                  ""
+                  "Folk Songs",
+                  "Composer Study"
                 ]
               },
               {
@@ -89,38 +89,38 @@
                 "days": [
                   "Sol-fa: Level 2",
                   "Hymns & Spirituals",
-                  "",
-                  "Folk Songs*Afternoon Listening*Composer Study",
+                  "Folk Songs",
+                  "Composer Study*Afternoon Listening",
                   ""
                 ]
               },
               {
                 "label": "Music: Level 3",
                 "days": [
-                  "Sol-fa: Level 3",
-                  "Hymns & Spirituals",
+                  "Sol-fa: Level 3*Afternoon Listening",
                   "",
-                  "Folk Songs*Afternoon Listening*Composer Study",
-                  ""
+                  "Hymns & Spirituals",
+                  "Folk Songs",
+                  "Composer Study"
                 ]
               },
               {
                 "label": "Music: Level 4",
                 "days": [
-                  "Sol-fa: Level 4",
-                  "Hymns & Spirituals",
+                  "Sol-fa: Level 4*Afternoon Listening",
                   "",
-                  "Folk Songs*Afternoon Listening*Composer Study",
-                  ""
+                  "Hymns & Spirituals",
+                  "Folk Songs",
+                  "Composer Study"
                 ]
               },
               {
                 "label": "Music: Level 5",
                 "days": [
-                  "Sol-fa: Level 5",
+                  "Sol-fa: Level 5*Afternoon Listening",
                   "Hymns & Spirituals",
-                  "",
-                  "Folk Songs*Afternoon Listening*Composer Study",
+                  "Folk Songs",
+                  "Composer Study",
                   ""
                 ]
               }

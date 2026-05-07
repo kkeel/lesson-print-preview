@@ -85,11 +85,11 @@
               {
                 "label": "Language Study: Grade 8",
                 "days": [
-                  "Written Narration: Grade 8*Copywork: Grade 8",
+                  "Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
                   "Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
                   "Dictation: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
                   "Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8",
-                  "Dictation: Grade 8*Written Narration: Grade 8*Copywork: Grade 8"
+                  "Dictation: Grade 8*Grammar/Comp: Grade 8*Written Narration: Grade 8*Copywork: Grade 8"
                 ]
               }
             ]

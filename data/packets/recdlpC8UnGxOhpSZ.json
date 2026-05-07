@@ -102,8 +102,8 @@
                   "",
                   "Classic Lit.: Grade 2",
                   "",
-                  "Community Read Alouds: Grades 1-12*Mythology: Grade 2",
-                  ""
+                  "Mythology: Grade 2",
+                  "Community Read Alouds: Grades 1-12"
                 ]
               },
               {
@@ -111,8 +111,8 @@
                 "days": [
                   "",
                   "General Lit.: Grade 3",
-                  "",
-                  "Community Read Alouds: Grades 1-12*Lit./Mythology: Grade 3",
+                  "Community Read Alouds: Grades 1-12",
+                  "Lit./Mythology: Grade 3",
                   ""
                 ]
               },
@@ -120,140 +120,140 @@
                 "label": "Citizenship: Grade 4",
                 "days": [
                   "First Citizen Stories",
-                  "",
-                  "",
                   "Community Read Alouds: Grades 1-12",
+                  "",
+                  "",
                   ""
                 ]
               },
               {
                 "label": "Citizenship: Grade 5",
                 "days": [
-                  "",
-                  "",
-                  "",
                   "Community Read Alouds: Grades 1-12",
-                  "Plutarch: Beginner Track*Current Events: Grades 5-8"
+                  "Current Events: Grades 5-8",
+                  "",
+                  "",
+                  "Plutarch: Beginner Track"
                 ]
               },
               {
                 "label": "Citizenship: Grade 6",
                 "days": [
                   "",
-                  "",
-                  "",
+                  "Plutarch: Grades 6-8",
                   "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                  "",
+                  "Current Events: Grades 5-8"
                 ]
               },
               {
                 "label": "Citizenship: Grade 7 (U.S.)",
                 "days": [
-                  "Ethics: Part 1",
+                  "Ethics: Part 1*Community Read Alouds: Grades 1-12",
                   "",
                   "American Government: Grade 7",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                  "",
+                  "Plutarch: Grades 6-8*Current Events: Grades 5-8"
                 ]
               },
               {
                 "label": "Citizenship: Grade 7 (Canada)",
                 "days": [
-                  "Ethics: Part 1",
+                  "Ethics: Part 1*Community Read Alouds: Grades 1-12",
                   "",
                   "Canadian Government: Grade 7",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                  "",
+                  "Plutarch: Grades 6-8*Current Events: Grades 5-8"
                 ]
               },
               {
                 "label": "Citizenship: Grade 8 (U.S.)",
                 "days": [
-                  "Ethics: Part 2",
+                  "Ethics: Part 2*Community Read Alouds: Grades 1-12",
                   "",
-                  "American Gov./ Economics: Grade 8",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                  "American Gov./ Economics: Grade 8*Current Events: Grades 5-8",
+                  "",
+                  "Plutarch: Grades 6-8"
                 ]
               },
               {
                 "label": "Citizenship: Grade 8 (Canada)",
                 "days": [
-                  "Ethics: Part 2",
+                  "Ethics: Part 2*Community Read Alouds: Grades 1-12",
                   "",
-                  "Canadian Gov./ Economics: Grade 8",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 5-8*Plutarch: Grades 6-8"
+                  "Canadian Gov./ Economics: Grade 8*Current Events: Grades 5-8",
+                  "",
+                  "Plutarch: Grades 6-8"
                 ]
               },
               {
                 "label": "Citizenship: Grade 9 (U.S.)",
                 "days": [
-                  "Ethics: Part 3",
+                  "Ethics: Part 3*Community Read Alouds: Grades 1-12",
                   "",
                   "",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (U.S.)"
+                  "",
+                  "Plutarch/Government: Grade 9 (U.S.)*Current Events: Grades 9-12"
                 ]
               },
               {
                 "label": "Citizenship: Grade 9 (Canada)",
                 "days": [
-                  "Ethics: Part 3",
+                  "Ethics: Part 3*Community Read Alouds: Grades 1-12",
                   "",
                   "",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12*Plutarch/Government: Grade 9 (Canada)"
+                  "",
+                  "Plutarch/Government: Grade 9 (Canada)*Current Events: Grades 9-12"
                 ]
               },
               {
                 "label": "Citizenship: Grade 10 (U.S.)",
                 "days": [
                   "Econ/Civics: Grade 10 (U.S.)",
+                  "Community Read Alouds: Grades 1-12*Current Events: Grades 9-12",
                   "",
-                  "",
-                  "Ethics: Part 4*Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12"
+                  "Ethics: Part 4",
+                  ""
                 ]
               },
               {
                 "label": "Citizenship: Grade 10 (Canada)",
                 "days": [
                   "Econ/Civics: Grade 10 (Canada)",
+                  "Community Read Alouds: Grades 1-12*Current Events: Grades 9-12",
                   "",
-                  "",
-                  "Ethics: Part 4*Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12"
+                  "Ethics: Part 4",
+                  ""
                 ]
               },
               {
                 "label": "Citizenship: Grade 11 (U.S.)",
                 "days": [
-                  "Econ/Civics: Grade 11 (U.S.)",
-                  "",
+                  "Econ/Civics: Grade 11 (U.S.)*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12",
                   "",
                   "Ethics: Part 5*Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12"
+                  ""
                 ]
               },
               {
                 "label": "Citizenship: Grade 11 (Canada)",
                 "days": [
-                  "Econ/Civics: Grade 11 (Canada)",
+                  "Econ/Civics: Grade 11 (Canada)*Community Read Alouds: Grades 1-12",
+                  "Current Events: Grades 9-12",
                   "",
-                  "",
-                  "Ethics: Part 5*Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12"
+                  "Ethics: Part 5",
+                  ""
                 ]
               },
               {
                 "label": "Citizenship: Grade 12",
                 "days": [
                   "Civics/Ethics: Grade 12",
-                  "",
+                  "Current Events: Grades 9-12",
                   "Economics: Grade 12",
-                  "Community Read Alouds: Grades 1-12",
-                  "Current Events: Grades 9-12"
+                  "",
+                  "Community Read Alouds: Grades 1-12"
                 ]
               }
             ]

@@ -67,11 +67,11 @@
               {
                 "label": "Science: Botany",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Botany Lessons",
+                  "Botany Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Botany Lessons",
-                  "Botany Lessons*Botany Labs",
-                  "Nature Notebook: Grades 9-12*Botany Lessons",
-                  "Botany Lessons"
+                  "Botany Lessons",
+                  "Botany Lessons*Nature Notebook: Grades 9-12",
+                  "Botany Lessons*Botany Labs"
                 ]
               }
             ]

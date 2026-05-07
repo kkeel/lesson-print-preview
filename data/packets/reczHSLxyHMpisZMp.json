@@ -103,11 +103,11 @@
               {
                 "label": "Science: Grade 5",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 5",
-                  "Nature Notebook: Grade 5",
                   "Natural History: Grade 5",
                   "",
-                  "Labs: Grade 5"
+                  "General Science: Grade 5*Nature Walks & Scouting: Grades 1-8",
+                  "",
+                  "Labs: Grade 5*Nature Notebook: Grade 5"
                 ]
               }
             ]

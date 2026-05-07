@@ -91,9 +91,9 @@
               {
                 "label": "Science: Grade 2",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 2*Nature Notebook: Grade 2",
+                  "General Science: Grade 2*Nature Notebook: Grade 2",
                   "",
-                  "Natural History: Grade 2",
+                  "Natural History: Grade 2*Nature Walks & Scouting: Grades 1-8",
                   "",
                   ""
                 ]
@@ -101,7 +101,7 @@
               {
                 "label": "Science: Grade 3",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 3",
+                  "General Science: Grade 3*Nature Walks & Scouting: Grades 1-8",
                   "Nature Notebook: Grade 3",
                   "Natural History: Grade 3",
                   "",
@@ -111,50 +111,50 @@
               {
                 "label": "Science: Grade 4",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 4",
-                  "Nature Notebook: Grade 4",
                   "Natural History: Grade 4",
                   "",
-                  "Labs: Grade 4"
+                  "General Science: Grade 4*Nature Walks & Scouting: Grades 1-8",
+                  "",
+                  "Labs: Grade 4*Nature Notebook: Grade 4"
                 ]
               },
               {
                 "label": "Science: Grade 5",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 5",
-                  "Nature Notebook: Grade 5",
                   "Natural History: Grade 5",
                   "",
-                  "Labs: Grade 5"
+                  "General Science: Grade 5*Nature Walks & Scouting: Grades 1-8",
+                  "",
+                  "Labs: Grade 5*Nature Notebook: Grade 5"
                 ]
               },
               {
                 "label": "Science: Grade 6",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 6",
-                  "Nature Notebook: Grade 6",
-                  "General Science: Grade 6",
                   "Natural History: Grade 6",
+                  "",
+                  "General Science: Grade 6*Nature Walks & Scouting: Grades 1-8",
+                  "General Science: Grade 6*Nature Notebook: Grade 6",
                   "Labs: Grade 6"
                 ]
               },
               {
                 "label": "Science: Grade 7",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 7",
-                  "General Science: Grade 7",
                   "Natural History: Grade 7",
+                  "General Science: Grade 7",
+                  "General Science: Grade 7",
                   "Nature Notebook: Grade 7",
-                  "Labs: Grade 7"
+                  "Labs: Grade 7*Nature Walks & Scouting: Grades 1-8"
                 ]
               },
               {
                 "label": "Science: Grade 8",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 8",
-                  "Natural History: Grade 8*Nature Notebook: Grade 8",
+                  "Natural History: Grade 8",
+                  "General Science: Grade 8*Nature Walks & Scouting: Grades 1-8",
                   "General Science: Grade 8",
-                  "General Science: Grade 8",
+                  "General Science: Grade 8*Nature Notebook: Grade 8",
                   "Labs: Grade 8"
                 ]
               }

@@ -67,11 +67,11 @@
               {
                 "label": "Science: Food Science",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Food Science Lessons",
+                  "Food Science Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Food Science Lessons",
-                  "Food Science Lessons*Food Science Labs",
-                  "Nature Notebook: Grades 9-12*Food Science Lessons",
-                  "Food Science Lessons"
+                  "Food Science Lessons",
+                  "Food Science Lessons*Nature Notebook: Grades 9-12",
+                  "Food Science Lessons*Food Science Labs"
                 ]
               }
             ]

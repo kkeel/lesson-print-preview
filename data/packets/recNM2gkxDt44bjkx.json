@@ -67,11 +67,11 @@
               {
                 "label": "Science: Grade 7",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 7",
-                  "General Science: Grade 7",
                   "Natural History: Grade 7",
+                  "General Science: Grade 7",
+                  "General Science: Grade 7",
                   "Nature Notebook: Grade 7",
-                  "Labs: Grade 7"
+                  "Labs: Grade 7*Nature Walks & Scouting: Grades 1-8"
                 ]
               }
             ]

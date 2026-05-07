@@ -57,11 +57,11 @@
               {
                 "label": "Science: Microbiology",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Microbiology Lessons",
+                  "Microbiology Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Microbiology Lessons",
-                  "Microbiology Lessons*Microbiology Labs",
-                  "Nature Notebook: Grades 9-12*Microbiology Lessons",
-                  "Microbiology Lessons"
+                  "Microbiology Lessons",
+                  "Microbiology Lessons*Nature Notebook: Grades 9-12",
+                  "Microbiology Lessons*Microbiology Labs"
                 ]
               }
             ]

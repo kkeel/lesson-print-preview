@@ -67,11 +67,11 @@
               {
                 "label": "Science: Grade 4",
                 "days": [
-                  "Nature Walks & Scouting: Grades 1-8*General Science: Grade 4",
-                  "Nature Notebook: Grade 4",
                   "Natural History: Grade 4",
                   "",
-                  "Labs: Grade 4"
+                  "General Science: Grade 4*Nature Walks & Scouting: Grades 1-8",
+                  "",
+                  "Labs: Grade 4*Nature Notebook: Grade 4"
                 ]
               }
             ]

@@ -61,20 +61,20 @@
               {
                 "label": "History: Grades 10-12 (U.S.)",
                 "days": [
-                  "",
+                  "World History: Grades 10-12",
                   "U.S. History: Grades 9-12",
                   "Ancient History: Grades 10-12",
-                  "U.S. History: Grades 9-12*World History: Grades 10-12",
+                  "U.S. History: Grades 9-12",
                   "Ancient History: Grades 10-12"
                 ]
               },
               {
                 "label": "History: Grade 10 (Canada)",
                 "days": [
-                  "",
+                  "World History: Grades 10-12",
                   "Canadian History: Grades 9-10",
                   "Ancient History: Grades 10-12",
-                  "Canadian History: Grades 9-10*World History: Grades 10-12",
+                  "Canadian History: Grades 9-10",
                   "Ancient History: Grades 10-12"
                 ]
               },

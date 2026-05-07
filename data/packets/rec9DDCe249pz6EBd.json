@@ -67,11 +67,11 @@
               {
                 "label": "Science: Chemistry",
                 "days": [
-                  "Chemistry Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Chemistry Lessons",
-                  "Chemistry Lessons*Chemistry Labs",
+                  "Chemistry Lessons*Nature Walks & Scouting: Grades 1-8",
+                  "Chemistry Lessons",
                   "Chemistry Lessons*Nature Notebook: Grades 9-12",
-                  "Chemistry Lessons"
+                  "Chemistry Lessons*Chemistry Labs"
                 ]
               }
             ]

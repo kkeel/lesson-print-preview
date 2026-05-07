@@ -57,11 +57,11 @@
               {
                 "label": "Science: Astronomy",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Astronomy Lessons",
+                  "Astronomy Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Astronomy Lessons",
-                  "Astronomy Lessons*Astronomy Labs",
-                  "Nature Notebook: Grades 9-12*Astronomy Lessons",
-                  "Astronomy Lessons"
+                  "Astronomy Lessons",
+                  "Astronomy Lessons*Nature Notebook: Grades 9-12",
+                  "Astronomy Lessons*Astronomy Labs"
                 ]
               }
             ]

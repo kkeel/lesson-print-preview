@@ -57,11 +57,11 @@
               {
                 "label": "Science: Introduction to Engineering",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Introduction to Engineering Lessons",
-                  "Introduction to Engineering Lessons*Introduction to Engineering Labs",
-                  "Nature Notebook: Grades 9-12*Introduction to Engineering Lessons",
-                  "Introduction to Engineering Lessons"
+                  "Introduction to Engineering Lessons",
+                  "Introduction to Engineering Lessons*Nature Notebook: Grades 9-12",
+                  "Introduction to Engineering Lessons*Introduction to Engineering Labs"
                 ]
               }
             ]

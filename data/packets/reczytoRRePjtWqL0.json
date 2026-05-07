@@ -67,11 +67,11 @@
               {
                 "label": "Science: Physics",
                 "days": [
-                  "Nature Walks & Scouting: Grades 9-12*Physics Lessons",
+                  "Physics Lessons*Nature Walks & Scouting: Grades 9-12",
                   "Physics Lessons",
-                  "Physics Lessons*Physics Labs",
-                  "Nature Notebook: Grades 9-12*Physics Lessons",
-                  "Physics Lessons"
+                  "Physics Lessons",
+                  "Physics Lessons*Nature Notebook: Grades 9-12",
+                  "Physics Lessons*Physics Labs"
                 ]
               }
             ]

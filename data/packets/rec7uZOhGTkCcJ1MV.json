@@ -79,30 +79,30 @@
               {
                 "label": "Bible: Grade 9",
                 "days": [
-                  "Old Testament: Grades 7-12*Bible History: Grade 9",
-                  "",
-                  "Old Testament: Grades 7-12*New Testament: Grade 9",
-                  "Church History: Grades 7-9",
-                  ""
+                  "Bible History: Grade 9",
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grade 9",
+                  "Old Testament: Grades 7-12",
+                  "Church History: Grades 7-9"
                 ]
               },
               {
                 "label": "Bible: Grades 10-11",
                 "days": [
-                  "Old Testament: Grades 7-12*Spiritual Formation: Grades 10-11",
-                  "",
-                  "Old Testament: Grades 7-12*New Testament: Grades 10-11",
-                  "",
+                  "Spiritual Formation: Grades 10-11",
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grades 10-11",
+                  "Old Testament: Grades 7-12",
                   "Church History: Grades 10-12"
                 ]
               },
               {
                 "label": "Bible: Grade 12",
                 "days": [
-                  "Old Testament: Grades 7-12*Spiritual Formation: Grade 12",
-                  "",
-                  "Old Testament: Grades 7-12*New Testament: Grade 12",
-                  "",
+                  "Spiritual Formation: Grade 12",
+                  "Old Testament: Grades 7-12",
+                  "New Testament: Grade 12",
+                  "Old Testament: Grades 7-12",
                   "Church History: Grades 10-12"
                 ]
               }
