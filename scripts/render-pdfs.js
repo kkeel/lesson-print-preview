@@ -62,10 +62,10 @@ async function renderPdf(record) {
 }
 
 async function main() {
-  const jsonPath = "./data/lesson-plans.json";
+  const jsonPath = "./data/packet-index.json";
 
   if (!fs.existsSync(jsonPath)) {
-    throw new Error("Missing data/lesson-plans.json");
+    throw new Error("Missing data/packet-index.json");
   }
 
   const records = JSON.parse(
