@@ -337,7 +337,7 @@ body.pdf-mode * {
 
 @media print {
   /* Keep the lesson opener together:
-     week label, title, subtitle, and materials should not be split awkwardly */
+     week label, title, subtitle, and materials should not split awkwardly */
   body.pdf-mode .lesson-opening-block {
     break-inside: avoid !important;
     page-break-inside: avoid !important;
@@ -352,47 +352,19 @@ body.pdf-mode * {
     page-break-after: avoid !important;
   }
 
-  body.pdf-mode .lesson-body {
-    break-before: avoid !important;
-    page-break-before: avoid !important;
-  }
-
-  /* Improve lesson divider lines across all columns */
-  body.pdf-mode .lesson-block {
-    border-top: 0 !important;
-    position: relative;
-  }
-
-  body.pdf-mode .lesson-block::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    border-top: 1px solid #8da08c;
-    z-index: 3;
-  }
-
-  body.pdf-mode .lesson-block:first-child::before {
-    display: none;
-  }
-
-  /* Give the teacher-note column its own matching line so the gray background
-     cannot visually swallow the parent divider */
-  body.pdf-mode .lesson-notes-col {
-    border-top: 1px solid #8da08c !important;
-    margin-top: -1px;
-    background: #eef0f4 !important;
-  }
-
-  body.pdf-mode .lesson-block:first-child .lesson-notes-col {
-    border-top: 0 !important;
-    margin-top: 0;
-  }
-
-  /* Keep subheadings from being orphaned at page bottoms */
+  /* Keep prompt headings from being orphaned at page bottoms */
   body.pdf-mode .lesson-section-heading {
+    display: inline;
+    font-weight: 700;
     break-after: avoid !important;
     page-break-after: avoid !important;
+    orphans: 2;
+    widows: 2;
+  }
+
+  /* Help lesson text break more naturally */
+  body.pdf-mode .lesson-body {
+    orphans: 3;
+    widows: 3;
   }
 }
