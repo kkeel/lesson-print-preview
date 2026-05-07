@@ -3,6 +3,11 @@ body.pdf-mode .preview-only {
   display: none !important;
 }
 
+/* Hide PDF-only repeated-header lesson layout on screen */
+.lesson-print-table {
+  display: none;
+}
+
 /* Let PDF mode keep color */
 body.pdf-mode,
 body.pdf-mode * {
@@ -55,40 +60,44 @@ body.pdf-mode * {
   }
 
   body.pdf-mode .page-flow {
-  width: 8.5in !important;
-  margin: 0 auto !important;
-  padding: 0.5in !important;
-  box-shadow: none !important;
-  border: none !important;
-  box-sizing: border-box;
-}
+    width: 8.5in !important;
+    margin: 0 auto !important;
+    padding: 0.5in !important;
+    box-shadow: none !important;
+    border: none !important;
+    box-sizing: border-box;
+  }
 
   /* Remove duplicate copyright from cover content */
   body.pdf-mode .cover-footer-line {
     display: none !important;
   }
 
-  /* Prevent the cover logo/footer from spilling onto page 2 */
   body.pdf-mode .cover-footer {
     padding-top: 0 !important;
     margin-top: auto !important;
   }
 
-  /* Header section should start at the real top margin */
-  body.pdf-mode .header-section {
-    min-height: auto !important;
+  /* Remove section-specific top offsets in print mode */
+  body.pdf-mode .header-section,
+  body.pdf-mode .howto-section,
+  body.pdf-mode .lessons-section,
+  body.pdf-mode .exams-section {
     padding-top: 0 !important;
   }
 
-  body.pdf-mode .header-page-intro {
+  body.pdf-mode .header-page-intro,
+  body.pdf-mode .howto-page-header,
+  body.pdf-mode .lesson-page-header,
+  body.pdf-mode .exam-page-header {
     margin-top: 0 !important;
   }
 
-  /* Undo grayscale-for-print rules from preview.css */
-  body.pdf-mode .lesson-notes-col {
-    background: #eef0f4 !important;
+  body.pdf-mode .header-section {
+    min-height: auto !important;
   }
 
+  /* Keep color rules from being forced grayscale */
   body.pdf-mode .term-banner {
     background: #596e5e !important;
     color: #ffffff !important;
@@ -99,48 +108,17 @@ body.pdf-mode * {
     border-color: #8da08c !important;
     border-left-color: #8da08c !important;
   }
-}
 
-@media print {
-  /* Remove section-specific top offsets in print mode */
-  body.pdf-mode .lessons-section,
-  body.pdf-mode .exams-section {
-    padding-top: 0 !important;
-  }
-
-  body.pdf-mode .lesson-page-header,
-  body.pdf-mode .exam-page-header {
-    margin-top: 0 !important;
-  }
-
-  body.pdf-mode .howto-section,
-  body.pdf-mode .header-section {
-    padding-top: 0 !important;
-  }
-
-  body.pdf-mode .howto-page-header,
-  body.pdf-mode .header-page-intro {
-    margin-top: 0 !important;
-  }
-
-  /* Give the QR a little breathing room from the right edge */
+  /* QR breathing room */
   body.pdf-mode .lesson-page-linkbox {
     padding-right: 0.08in !important;
     box-sizing: border-box;
   }
-}
 
-/* =========================
-   PDF lesson repeated headers
-   ========================= */
+  /* =========================
+     PDF lesson repeated headers
+     ========================= */
 
-/* Screen preview: keep the normal flow visible */
-.lesson-print-table {
-  display: none;
-}
-
-@media print {
-  /* In PDF mode, hide the normal lesson flow and use the table version */
   body.pdf-mode .lesson-preview-flow {
     display: none !important;
   }
@@ -150,6 +128,10 @@ body.pdf-mode * {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    break-after: auto !important;
+    page-break-after: auto !important;
   }
 
   body.pdf-mode .lesson-print-table thead {
@@ -168,6 +150,16 @@ body.pdf-mode * {
     text-align: left;
     vertical-align: top;
     font-weight: inherit;
+  }
+
+  body.pdf-mode .lesson-print-table tbody,
+  body.pdf-mode .lesson-print-table tr,
+  body.pdf-mode .lesson-print-table td,
+  body.pdf-mode .lesson-list {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    break-after: auto !important;
+    page-break-after: auto !important;
   }
 
   body.pdf-mode .lesson-print-repeat-header {
@@ -201,11 +193,11 @@ body.pdf-mode * {
   body.pdf-mode .lesson-print-repeat-header .term-banner {
     margin: 0 !important;
   }
-}
 
-@media print {
-  /* Make header panels printable/fragmentable.
-     Grid is causing long sections to act like unbreakable blocks. */
+  /* =========================
+     Header + How To printable block layout
+     ========================= */
+
   body.pdf-mode .header-panel {
     display: block !important;
     position: relative;
@@ -243,12 +235,7 @@ body.pdf-mode * {
   }
 
   body.pdf-mode .header-block,
-  body.pdf-mode .header-group-block {
-    break-inside: auto !important;
-    page-break-inside: auto !important;
-  }
-
-  /* Let Books/Supplies/Quick Links start naturally after the prior section */
+  body.pdf-mode .header-group-block,
   body.pdf-mode .books-resources-list,
   body.pdf-mode .supplies-resources-list,
   body.pdf-mode .quick-links-list {
@@ -256,7 +243,6 @@ body.pdf-mode * {
     page-break-inside: auto !important;
   }
 
-  /* Keep group headings with first item below */
   body.pdf-mode .books-resource-group h4,
   body.pdf-mode .supplies-resource-group h4,
   body.pdf-mode .quick-links-group h4,
@@ -273,7 +259,6 @@ body.pdf-mode * {
     page-break-before: avoid !important;
   }
 
-  /* Do not split actual images */
   body.pdf-mode .header-panel-icon,
   body.pdf-mode .books-resource-cover,
   body.pdf-mode .supplies-resource-cover,
@@ -282,7 +267,6 @@ body.pdf-mode * {
     page-break-inside: avoid !important;
   }
 
-  /* Same fix for How To panels */
   body.pdf-mode .howto-panel {
     display: block !important;
     position: relative;
@@ -333,11 +317,18 @@ body.pdf-mode * {
     break-before: avoid !important;
     page-break-before: avoid !important;
   }
-}
 
-@media print {
-  /* Keep the lesson opener together:
-     week label, title, subtitle, and materials should not split awkwardly */
+  /* =========================
+     Lesson page break + row styling
+     ========================= */
+
+  body.pdf-mode .lessons-section {
+    min-height: 0 !important;
+    height: auto !important;
+    padding-bottom: 0 !important;
+    overflow: visible !important;
+  }
+
   body.pdf-mode .lesson-opening-block {
     break-inside: avoid !important;
     page-break-inside: avoid !important;
@@ -352,7 +343,6 @@ body.pdf-mode * {
     page-break-after: avoid !important;
   }
 
-  /* Keep prompt headings from being orphaned at page bottoms */
   body.pdf-mode .lesson-section-heading {
     display: inline;
     font-weight: 700;
@@ -362,30 +352,11 @@ body.pdf-mode * {
     widows: 2;
   }
 
-  /* Help lesson text break more naturally */
   body.pdf-mode .lesson-body {
     orphans: 3;
     widows: 3;
   }
-}
 
-@media print {
-  /* Prevent extra blank/near-blank pages at the end of terms */
-  body.pdf-mode .lessons-section {
-    min-height: auto !important;
-  }
-
-  body.pdf-mode .lesson-print-table,
-  body.pdf-mode .lesson-print-table tbody,
-  body.pdf-mode .lesson-print-table tr,
-  body.pdf-mode .lesson-print-table td,
-  body.pdf-mode .lesson-list {
-    break-after: auto !important;
-    page-break-after: auto !important;
-  }
-
-  /* Make the teacher-notes background belong to the whole lesson row,
-     so divider lines are less likely to disappear/misalign */
   body.pdf-mode .lesson-block {
     border-top: 1.5px solid #8da08c !important;
     background:
@@ -405,33 +376,7 @@ body.pdf-mode * {
   body.pdf-mode .lesson-notes-col {
     background: transparent !important;
   }
-}
 
-@media print {
-  /* Reduce trailing overflow that is creating blank term-end pages */
-  body.pdf-mode .lessons-section {
-    min-height: 0 !important;
-    height: auto !important;
-    padding-bottom: 0 !important;
-    overflow: visible !important;
-  }
-
-  body.pdf-mode .lesson-print-table {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-  }
-
-  body.pdf-mode .lesson-print-table tbody,
-  body.pdf-mode .lesson-print-table tr,
-  body.pdf-mode .lesson-print-table td,
-  body.pdf-mode .lesson-list {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-  }
-}
-
-@media print {
-  /* Empty teacher-note columns should not force extra lesson height */
   body.pdf-mode .lesson-notes-col.lesson-notes-empty {
     min-height: 0 !important;
     padding-top: 0 !important;
