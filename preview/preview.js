@@ -727,6 +727,7 @@ function renderLesson(lesson) {
   const title = lesson.title || "";
   const body = cleanLessonText(lesson.body || "");
   const teacherNotes = lesson.teacherNotes || "";
+  const hasTeacherNotes = String(teacherNotes).trim().length > 0;
   const editUrl = lesson.editUrl || "";
   
   const bodyLines = body.split("\n");
@@ -776,9 +777,9 @@ function renderLesson(lesson) {
         </div>
       </div>
 
-      <aside class="lesson-notes-col">
-        ${teacherNotes ? formatTeacherNotes(teacherNotes) : ""}
-      </aside>
+        <aside class="lesson-notes-col ${hasTeacherNotes ? "" : "lesson-notes-empty"}">
+          ${hasTeacherNotes ? formatTeacherNotes(teacherNotes) : ""}
+        </aside>
     </section>
   `;
 }
