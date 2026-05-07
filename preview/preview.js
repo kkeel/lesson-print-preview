@@ -757,17 +757,19 @@ function renderLesson(lesson) {
 
       <div class="lesson-main-col">
 
-        <div class="lesson-title-line">
-          ⬚ ${escapeHtml(title)}
+        <div class="lesson-opening-block">
+          <div class="lesson-title-line">
+            ⬚ ${escapeHtml(title)}
+          </div>
+          
+          ${subtitle ? `
+            <div class="lesson-subtitle-line">${formatInlineRichText(subtitle)}</div>
+          ` : ""}
+          
+          ${callout ? `
+            <div class="lesson-materials-box">${formatInlineRichText(callout).replace(/\n/g, "<br>")}</div>
+          ` : ""}
         </div>
-        
-        ${subtitle ? `
-          <div class="lesson-subtitle-line">${formatInlineRichText(subtitle)}</div>
-        ` : ""}
-        
-        ${callout ? `
-          <div class="lesson-materials-box">${formatInlineRichText(callout).replace(/\n/g, "<br>")}</div>
-        ` : ""}
         
         <div class="lesson-body">
           ${formatLessonBody(remainingBody)}
