@@ -368,3 +368,41 @@ body.pdf-mode * {
     widows: 3;
   }
 }
+
+@media print {
+  /* Prevent extra blank/near-blank pages at the end of terms */
+  body.pdf-mode .lessons-section {
+    min-height: auto !important;
+  }
+
+  body.pdf-mode .lesson-print-table,
+  body.pdf-mode .lesson-print-table tbody,
+  body.pdf-mode .lesson-print-table tr,
+  body.pdf-mode .lesson-print-table td,
+  body.pdf-mode .lesson-list {
+    break-after: auto !important;
+    page-break-after: auto !important;
+  }
+
+  /* Make the teacher-notes background belong to the whole lesson row,
+     so divider lines are less likely to disappear/misalign */
+  body.pdf-mode .lesson-block {
+    border-top: 1.5px solid #8da08c !important;
+    background:
+      linear-gradient(
+        to right,
+        transparent 0,
+        transparent calc(100% - 1.85in),
+        #eef0f4 calc(100% - 1.85in),
+        #eef0f4 100%
+      ) !important;
+  }
+
+  body.pdf-mode .lesson-block:first-child {
+    border-top: none !important;
+  }
+
+  body.pdf-mode .lesson-notes-col {
+    background: transparent !important;
+  }
+}
