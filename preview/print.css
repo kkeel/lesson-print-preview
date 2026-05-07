@@ -406,3 +406,37 @@ body.pdf-mode * {
     background: transparent !important;
   }
 }
+
+@media print {
+  /* Stop repeated table headers from creating a trailing blank term page */
+  body.pdf-mode .lesson-print-table {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body.pdf-mode .lesson-print-table tbody tr:last-child,
+  body.pdf-mode .lesson-print-table tbody td:last-child,
+  body.pdf-mode .lesson-list {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body.pdf-mode .lessons-section.term-start:last-of-type {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  /* Reduce the visible gray “stub” after a split */
+  body.pdf-mode .lesson-block {
+    background:
+      linear-gradient(
+        to right,
+        transparent 0,
+        transparent calc(100% - 1.85in),
+        #eef0f4 calc(100% - 1.85in),
+        #eef0f4 calc(100% - 0.02in),
+        transparent calc(100% - 0.02in),
+        transparent 100%
+      ) !important;
+  }
+}
