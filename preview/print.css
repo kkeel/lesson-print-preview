@@ -204,58 +204,15 @@ body.pdf-mode * {
 }
 
 @media print {
-  /* -------------------------
-     Header page break rules
-     ------------------------- */
-
-  body.pdf-mode .header-panel-icon,
-  body.pdf-mode .header-panel-icon-col {
-    break-inside: avoid !important;
-    page-break-inside: avoid !important;
+  /* Let long header panels flow across pages instead of forcing new pages */
+  body.pdf-mode .header-panel,
+  body.pdf-mode .header-group-block,
+  body.pdf-mode .header-block {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
   }
 
-  body.pdf-mode .header-entry-title,
-  body.pdf-mode .planning-prep-subtitle,
-  body.pdf-mode .weekly-view-title,
-  body.pdf-mode .books-resource-group h4,
-  body.pdf-mode .supplies-resource-group h4,
-  body.pdf-mode .quick-links-group h4 {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
-  }
-
-  body.pdf-mode .header-entry-title + p,
-  body.pdf-mode .planning-prep-subtitle + p,
-  body.pdf-mode .books-resource-book:first-of-type,
-  body.pdf-mode .supplies-resource-supply:first-of-type,
-  body.pdf-mode .quick-link-row:first-of-type {
-    break-before: avoid !important;
-    page-break-before: avoid !important;
-  }
-
-  /* Keep resource intro with first visible resource block as much as browser print allows */
-  body.pdf-mode .books-resources-intro,
-  body.pdf-mode .books-resources-link-line,
-  body.pdf-mode .supplies-resources-intro,
-  body.pdf-mode .supplies-resources-link-line,
-  body.pdf-mode .quick-links-main > .header-entry-title {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
-  }
-
-  /* Individual images should never split */
-  body.pdf-mode .books-resource-cover,
-  body.pdf-mode .supplies-resource-cover,
-  body.pdf-mode .quick-links-qr-placeholder {
-    break-inside: avoid !important;
-    page-break-inside: avoid !important;
-  }
-
-  /* -------------------------
-     How To page break rules
-     ------------------------- */
-
-  /* Let long How To text flow instead of forcing the whole block together */
+  /* Let How To text flow too */
   body.pdf-mode .howto-block,
   body.pdf-mode .howto-panel,
   body.pdf-mode .howto-content {
@@ -263,38 +220,61 @@ body.pdf-mode * {
     page-break-inside: auto !important;
   }
 
-  /* But never split the image/icon column */
+  /* Do not split icons/images themselves */
+  body.pdf-mode .header-panel-icon,
+  body.pdf-mode .header-panel-icon-col,
+  body.pdf-mode .howto-icon,
   body.pdf-mode .howto-icon-col,
-  body.pdf-mode .howto-icon {
+  body.pdf-mode .books-resource-cover,
+  body.pdf-mode .supplies-resource-cover,
+  body.pdf-mode .quick-links-qr-placeholder {
     break-inside: avoid !important;
     page-break-inside: avoid !important;
   }
 
-  /* Keep prompt/title with the first lines under it */
-  body.pdf-mode .howto-prompt-title {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
+  /* Keep headings with the first bit of text immediately below */
+  body.pdf-mode .header-entry,
+  body.pdf-mode .planning-prep-entry {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
   }
 
-  body.pdf-mode .howto-prompt-title + p {
+  body.pdf-mode .header-entry-title,
+  body.pdf-mode .planning-prep-subtitle,
+  body.pdf-mode .howto-prompt-title,
+  body.pdf-mode .books-resource-group h4,
+  body.pdf-mode .supplies-resource-group h4,
+  body.pdf-mode .quick-links-group h4 {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+    orphans: 3;
+    widows: 3;
+  }
+
+  body.pdf-mode .header-entry-title + p,
+  body.pdf-mode .planning-prep-subtitle + p,
+  body.pdf-mode .howto-prompt-title + p,
+  body.pdf-mode .books-resource-book:first-of-type,
+  body.pdf-mode .supplies-resource-supply:first-of-type,
+  body.pdf-mode .quick-link-row:first-of-type {
     break-before: avoid !important;
     page-break-before: avoid !important;
   }
 
-  /* Restore lighter, original-feeling divider lines */
-  body.pdf-mode .howto-block-list {
-    border-top: 1.5px solid #8da08c !important;
-  }
-
-  body.pdf-mode .howto-panel {
-    border-bottom: 1.5px solid #8da08c !important;
-  }
-
+  /* Undo the extra border experiments and return closer to preview styling */
   body.pdf-mode .header-panel {
-    border-top-width: 1.5px !important;
+    border-top: 2px solid #8da08c !important;
   }
 
   body.pdf-mode .header-group-block:last-child .header-panel {
-    border-bottom-width: 1.5px !important;
+    border-bottom: 2px solid #8da08c !important;
+  }
+
+  body.pdf-mode .howto-block-list {
+    border-top: 2px solid #8da08c !important;
+  }
+
+  body.pdf-mode .howto-panel {
+    border-bottom: 2px solid #8da08c !important;
   }
 }
