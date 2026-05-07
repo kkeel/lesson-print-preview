@@ -204,26 +204,97 @@ body.pdf-mode * {
 }
 
 @media print {
-  /* Header + How To divider lines should appear on both sides of page breaks */
-  body.pdf-mode .header-panel,
-  body.pdf-mode .howto-row,
-  body.pdf-mode .howto-block {
+  /* -------------------------
+     Header page break rules
+     ------------------------- */
+
+  body.pdf-mode .header-panel-icon,
+  body.pdf-mode .header-panel-icon-col {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  body.pdf-mode .header-entry-title,
+  body.pdf-mode .planning-prep-subtitle,
+  body.pdf-mode .weekly-view-title,
+  body.pdf-mode .books-resource-group h4,
+  body.pdf-mode .supplies-resource-group h4,
+  body.pdf-mode .quick-links-group h4 {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body.pdf-mode .header-entry-title + p,
+  body.pdf-mode .planning-prep-subtitle + p,
+  body.pdf-mode .books-resource-book:first-of-type,
+  body.pdf-mode .supplies-resource-supply:first-of-type,
+  body.pdf-mode .quick-link-row:first-of-type {
+    break-before: avoid !important;
+    page-break-before: avoid !important;
+  }
+
+  /* Keep resource intro with first visible resource block as much as browser print allows */
+  body.pdf-mode .books-resources-intro,
+  body.pdf-mode .books-resources-link-line,
+  body.pdf-mode .supplies-resources-intro,
+  body.pdf-mode .supplies-resources-link-line,
+  body.pdf-mode .quick-links-main > .header-entry-title {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  /* Individual images should never split */
+  body.pdf-mode .books-resource-cover,
+  body.pdf-mode .supplies-resource-cover,
+  body.pdf-mode .quick-links-qr-placeholder {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* -------------------------
+     How To page break rules
+     ------------------------- */
+
+  /* Let long How To text flow instead of forcing the whole block together */
+  body.pdf-mode .howto-block,
+  body.pdf-mode .howto-panel,
+  body.pdf-mode .howto-content {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* But never split the image/icon column */
+  body.pdf-mode .howto-icon-col,
+  body.pdf-mode .howto-icon {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Keep prompt/title with the first lines under it */
+  body.pdf-mode .howto-prompt-title {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body.pdf-mode .howto-prompt-title + p {
+    break-before: avoid !important;
+    page-break-before: avoid !important;
+  }
+
+  /* Restore lighter, original-feeling divider lines */
+  body.pdf-mode .howto-block-list {
     border-top: 1.5px solid #8da08c !important;
+  }
+
+  body.pdf-mode .howto-panel {
     border-bottom: 1.5px solid #8da08c !important;
   }
 
-  /* Avoid double-thick borders when sections stay together normally */
-  body.pdf-mode .header-panel + .header-panel,
-  body.pdf-mode .howto-row + .howto-row,
-  body.pdf-mode .howto-block + .howto-block {
-    margin-top: -1.5px;
+  body.pdf-mode .header-panel {
+    border-top-width: 1.5px !important;
   }
 
-  /* Keep visual rule color consistent when printing */
-  body.pdf-mode .header-panel,
-  body.pdf-mode .howto-row,
-  body.pdf-mode .howto-block {
-    -webkit-print-color-adjust: exact !important;
-    print-color-adjust: exact !important;
+  body.pdf-mode .header-group-block:last-child .header-panel {
+    border-bottom-width: 1.5px !important;
   }
 }
