@@ -408,35 +408,24 @@ body.pdf-mode * {
 }
 
 @media print {
-  /* Stop repeated table headers from creating a trailing blank term page */
+  /* Reduce trailing overflow that is creating blank term-end pages */
+  body.pdf-mode .lessons-section {
+    min-height: 0 !important;
+    height: auto !important;
+    padding-bottom: 0 !important;
+    overflow: visible !important;
+  }
+
   body.pdf-mode .lesson-print-table {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
   }
 
-  body.pdf-mode .lesson-print-table tbody tr:last-child,
-  body.pdf-mode .lesson-print-table tbody td:last-child,
+  body.pdf-mode .lesson-print-table tbody,
+  body.pdf-mode .lesson-print-table tr,
+  body.pdf-mode .lesson-print-table td,
   body.pdf-mode .lesson-list {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
-  }
-
-  body.pdf-mode .lessons-section.term-start:last-of-type {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
-  }
-
-  /* Reduce the visible gray “stub” after a split */
-  body.pdf-mode .lesson-block {
-    background:
-      linear-gradient(
-        to right,
-        transparent 0,
-        transparent calc(100% - 1.85in),
-        #eef0f4 calc(100% - 1.85in),
-        #eef0f4 calc(100% - 0.02in),
-        transparent calc(100% - 0.02in),
-        transparent 100%
-      ) !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
   }
 }
