@@ -204,56 +204,68 @@ body.pdf-mode * {
 }
 
 @media print {
-  /* Let long header panels flow across pages instead of forcing new pages */
-  body.pdf-mode .header-panel,
-  body.pdf-mode .header-group-block,
-  body.pdf-mode .header-block {
+  /* Make header panels printable/fragmentable.
+     Grid is causing long sections to act like unbreakable blocks. */
+  body.pdf-mode .header-panel {
+    display: block !important;
+    position: relative;
+    border-top: 2px solid #8da08c !important;
+    background:
+      linear-gradient(
+        to right,
+        #eef0f4 0,
+        #eef0f4 1.2in,
+        #ffffff 1.2in,
+        #ffffff 100%
+      ) !important;
     break-inside: auto !important;
     page-break-inside: auto !important;
   }
 
-  /* Let How To text flow too */
-  body.pdf-mode .howto-block,
-  body.pdf-mode .howto-panel,
-  body.pdf-mode .howto-content {
-    break-inside: auto !important;
-    page-break-inside: auto !important;
-  }
-
-  /* Do not split icons/images themselves */
-  body.pdf-mode .header-panel-icon,
-  body.pdf-mode .header-panel-icon-col,
-  body.pdf-mode .howto-icon,
-  body.pdf-mode .howto-icon-col,
-  body.pdf-mode .books-resource-cover,
-  body.pdf-mode .supplies-resource-cover,
-  body.pdf-mode .quick-links-qr-placeholder {
+  body.pdf-mode .header-panel-icon-col {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 1.2in;
+    background: transparent !important;
+    padding: 0.28in 0.14in !important;
+    box-sizing: border-box;
     break-inside: avoid !important;
     page-break-inside: avoid !important;
   }
 
-  /* Keep headings with the first bit of text immediately below */
-  body.pdf-mode .header-entry,
-  body.pdf-mode .planning-prep-entry {
+  body.pdf-mode .header-panel-content {
+    display: block !important;
+    margin-left: 1.2in !important;
+    padding: 0.26in 0.26in 0.22in 0.26in !important;
     break-inside: auto !important;
     page-break-inside: auto !important;
   }
 
-  body.pdf-mode .header-entry-title,
-  body.pdf-mode .planning-prep-subtitle,
-  body.pdf-mode .howto-prompt-title,
-  body.pdf-mode .books-resource-group h4,
-  body.pdf-mode .supplies-resource-group h4,
-  body.pdf-mode .quick-links-group h4 {
-    break-after: avoid !important;
-    page-break-after: avoid !important;
-    orphans: 3;
-    widows: 3;
+  body.pdf-mode .header-block,
+  body.pdf-mode .header-group-block {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
   }
 
-  body.pdf-mode .header-entry-title + p,
-  body.pdf-mode .planning-prep-subtitle + p,
-  body.pdf-mode .howto-prompt-title + p,
+  /* Let Books/Supplies/Quick Links start naturally after the prior section */
+  body.pdf-mode .books-resources-list,
+  body.pdf-mode .supplies-resources-list,
+  body.pdf-mode .quick-links-list {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* Keep group headings with first item below */
+  body.pdf-mode .books-resource-group h4,
+  body.pdf-mode .supplies-resource-group h4,
+  body.pdf-mode .quick-links-group h4,
+  body.pdf-mode .header-entry-title,
+  body.pdf-mode .planning-prep-subtitle {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
   body.pdf-mode .books-resource-book:first-of-type,
   body.pdf-mode .supplies-resource-supply:first-of-type,
   body.pdf-mode .quick-link-row:first-of-type {
@@ -261,20 +273,64 @@ body.pdf-mode * {
     page-break-before: avoid !important;
   }
 
-  /* Undo the extra border experiments and return closer to preview styling */
-  body.pdf-mode .header-panel {
-    border-top: 2px solid #8da08c !important;
+  /* Do not split actual images */
+  body.pdf-mode .header-panel-icon,
+  body.pdf-mode .books-resource-cover,
+  body.pdf-mode .supplies-resource-cover,
+  body.pdf-mode .quick-links-qr-placeholder {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
   }
 
-  body.pdf-mode .header-group-block:last-child .header-panel {
-    border-bottom: 2px solid #8da08c !important;
-  }
-
-  body.pdf-mode .howto-block-list {
-    border-top: 2px solid #8da08c !important;
-  }
-
+  /* Same fix for How To panels */
   body.pdf-mode .howto-panel {
+    display: block !important;
+    position: relative;
     border-bottom: 2px solid #8da08c !important;
+    background:
+      linear-gradient(
+        to right,
+        #eef0f4 0,
+        #eef0f4 1.15in,
+        #ffffff 1.15in,
+        #ffffff 100%
+      ) !important;
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  body.pdf-mode .howto-icon-col {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 1.15in;
+    background: transparent !important;
+    padding: 0.2in 0.12in !important;
+    box-sizing: border-box;
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  body.pdf-mode .howto-content {
+    display: block !important;
+    margin-left: 1.15in !important;
+    padding: 0.18in 0.24in 0.2in !important;
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  body.pdf-mode .howto-block {
+    break-inside: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  body.pdf-mode .howto-prompt-title {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  body.pdf-mode .howto-prompt-title + p {
+    break-before: avoid !important;
+    page-break-before: avoid !important;
   }
 }
