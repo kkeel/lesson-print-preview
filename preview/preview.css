@@ -1640,3 +1640,8 @@ a:hover {
 .exam-line-spacer {
   height: 0.085in;
 }
+
+/* Hide PDF-only repeated-header lesson layout on normal edit preview pages */
+.lesson-print-table {
+  display: none;
+}
