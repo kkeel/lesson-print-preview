@@ -47,7 +47,13 @@ From the provided Syllabird sample files:
 
 For the Syllabird app export, we should not export the interleaved PDF course structure.
 
-Recommended rule:
+### Implementation filter
+
+- Export records where `Course Type` is `Course` or `Topic`.
+- Require the `Lessons` linked-record field to contain at least one connected lesson.
+- Do not export `Course w/Topics` parent records in phase 1, because those exist primarily for PDF/interleaved packet structures.
+
+### Recommended rule
 
 | Alveary structure | Syllabird export behavior |
 |---|---|
