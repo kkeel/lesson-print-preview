@@ -1,32 +1,49 @@
-name: Build Syllabird Courses CSV
+name: Build Lesson JSON + Syllabird CSVs
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *" # runs daily at 6am UTC
 
 permissions:
   contents: write
 
 jobs:
-  build-syllabird-courses:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Node
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: 18
 
-      - name: Build Syllabird courses CSV
+      - name: Build lesson packet JSON
+        run: node scripts/build-lesson-packets-json.mjs
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
-        run: node scripts/syllabird/buildCourses.mjs
 
-      - name: Commit generated CSV
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Build Syllabird courses CSV
-          file_pattern: exports/syllabird/courses.csv
+      - name: Build Syllabird courses CSV
+        run: node scripts/syllabird/buildCourses.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+
+      - name: Build Syllabird assignments CSV
+        run: node scripts/syllabird/buildAssignments.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/
+          git add exports/syllabird/
+
+          git commit -m "Update lesson JSON + Syllabird exports" || echo "No changes"
+
+          git push
