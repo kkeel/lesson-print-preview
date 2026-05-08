@@ -26,6 +26,8 @@ const COURSE_FIELDS = [
   "Course Connection",
   "Topic Connection",
   "Schedule Info.",
+  "perWeek",
+  "Syllabird Days",
   "Day 1",
   "Day 2",
   "Day 3",
@@ -397,7 +399,15 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
   const matchedHeaderRecords = getMatchedHeaderRecords(fields, setId, headerLookup);
 
   const defaultDays = inferDefaultDays(fields);
-  const numberOfDaysPerWeek = countActiveDays(defaultDays);
+
+  const numberOfDaysPerWeek =
+    Number(normalizeText(fields["perWeek"]) || 0) ||
+    countActiveDays(defaultDays);
+  
+  const syllabirdDays =
+    normalizeText(fields["Syllabird Days"]) ||
+    formatSyllabirdDays(defaultDays);
+  
   const numberOfWeeks = getMaxWeekForCourse(fields, lessonDetailsById);
 
   return {
@@ -407,7 +417,7 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
     course_numberOfWeeks: numberOfWeeks,
     course_subjects: normalizeSubject(fields["Subject"]),
     course_gradeYears: gradeFilterToSyllabirdGrades(fields["Grade Filter"]),
-    course_defaultDaysOfTheWeek: formatSyllabirdDays(defaultDays),
+    course_defaultDaysOfTheWeek: syllabirdDays,
     course_gradingStyle: "UNGRADED",
     course_color: "",
     course_picture: "",
