@@ -46,3 +46,9 @@ jobs:
           git add pdf/lesson-plans
           git commit -m "Update lesson plan PDFs" || echo "No PDF changes to commit"
           git push
+
+      - name: Sync PDF URLs to Airtable
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+        run: npm run sync-pdf-urls
