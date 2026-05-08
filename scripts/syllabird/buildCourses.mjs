@@ -32,7 +32,9 @@ const COURSE_FIELDS = [
   "Day 4",
   "Day 5",
   "Connect Header Pages",
-  "Lessons"
+  "Lessons",
+  "Grade Filter",
+  "Link Page"
 ];
 
 const HEADER_FIELDS = [
@@ -40,6 +42,7 @@ const HEADER_FIELDS = [
   "Connect Lesson Plans",
   "Course/Topic Description (LP)",
   "About_Export",
+  "Combining & Placement Tips (LP)",
   "General_Export",
   "Special_Export",
   "Term_Export",
@@ -171,6 +174,13 @@ function textToHtml(value) {
     .join("");
 }
 
+function htmlSection(title, content) {
+  const body = normalizeRichText(content);
+  if (!body) return "";
+
+  return `<h2>${escapeHtml(title)}</h2>${textToHtml(body)}`;
+}
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replace(/&/g, "&amp;")
@@ -230,28 +240,39 @@ function getMatchedHeaderRecords(courseFields, courseSetId, headerLookup) {
   return headerLookup.byLessonPlanId.get(courseSetId) || [];
 }
 
-function buildCourseDescription(headerRecords) {
-  const blocks = [];
+function buildCourseDescription(headerRecords, courseFields) {
+  const aboutBlocks = [];
+  const placementBlocks = [];
 
   for (const record of headerRecords) {
     const fields = record.fields || {};
 
-    blocks.push(
+    aboutBlocks.push(
       normalizeRichText(fields["Course/Topic Description (LP)"]),
       normalizeRichText(fields["About_Export"])
     );
+
+    placementBlocks.push(
+      normalizeRichText(fields["Combining & Placement Tips (LP)"])
+    );
   }
 
-  return textToHtml(joinNonEmptyBlocks(blocks));
+  const schedulingText = normalizeRichText(courseFields["Schedule Info."]);
+
+  return [
+    htmlSection("About the Course", joinNonEmptyBlocks(aboutBlocks)),
+    htmlSection("Placement & Combining Tips", joinNonEmptyBlocks(placementBlocks)),
+    htmlSection("Scheduling", schedulingText)
+  ].filter(Boolean).join("");
 }
 
-function buildCourseIntroduction(headerRecords) {
-  const blocks = [];
+function buildCourseIntroduction(headerRecords, courseFields) {
+  const planningBlocks = [];
 
   for (const record of headerRecords) {
     const fields = record.fields || {};
 
-    blocks.push(
+    planningBlocks.push(
       normalizeRichText(fields["General_Export"]),
       normalizeRichText(fields["Special_Export"]),
       normalizeRichText(fields["Term_Export"]),
@@ -259,7 +280,17 @@ function buildCourseIntroduction(headerRecords) {
     );
   }
 
-  return textToHtml(joinNonEmptyBlocks(blocks));
+  return [
+    htmlSection("Planning & Prep", joinNonEmptyBlocks(planningBlocks)),
+    buildQuickLinksHtml(courseFields)
+  ].filter(Boolean).join("");
+}
+
+function buildQuickLinksHtml(courseFields) {
+  const linkPage = normalizeText(courseFields["Link Page"]);
+  if (!linkPage) return "";
+
+  return `<h2>Quick Links</h2><a href="${escapeHtml(linkPage)}">Click this text for course quick links</a>`;
 }
 
 function normalizeSubject(value) {
@@ -267,59 +298,28 @@ function normalizeSubject(value) {
   return subjects.join(",");
 }
 
-function gradeTextToSyllabirdGrades(value) {
-  const text = normalizeText(value);
-  const grades = new Set();
+function gradeFilterToSyllabirdGrades(value) {
+  const grades = normalizeArray(value);
+  const map = {
+    G1: "FIRSTGRADE",
+    G2: "SECONDGRADE",
+    G3: "THIRDGRADE",
+    G4: "FOURTHGRADE",
+    G5: "FIFTHGRADE",
+    G6: "SIXTHGRADE",
+    G7: "SEVENTHGRADE",
+    G8: "EIGHTHGRADE",
+    G9: "NINTHGRADE",
+    G10: "TENTHGRADE",
+    G11: "ELEVENTHGRADE",
+    G12: "TWELFTHGRADE"
+  };
 
-  const gradeMap = [
-    ["KINDERGARTEN", /\bK\b|kindergarten/i],
-    ["FIRSTGRADE", /grade\s*1\b|\b1st\b/i],
-    ["SECONDGRADE", /grade\s*2\b|\b2nd\b/i],
-    ["THIRDGRADE", /grade\s*3\b|\b3rd\b/i],
-    ["FOURTHGRADE", /grade\s*4\b|\b4th\b/i],
-    ["FIFTHGRADE", /grade\s*5\b|\b5th\b/i],
-    ["SIXTHGRADE", /grade\s*6\b|\b6th\b/i],
-    ["SEVENTHGRADE", /grade\s*7\b|\b7th\b/i],
-    ["EIGHTHGRADE", /grade\s*8\b|\b8th\b/i],
-    ["NINTHGRADE", /grade\s*9\b|\b9th\b/i],
-    ["TENTHGRADE", /grade\s*10\b|\b10th\b/i],
-    ["ELEVENTHGRADE", /grade\s*11\b|\b11th\b/i],
-    ["TWELFTHGRADE", /grade\s*12\b|\b12th\b/i]
-  ];
+  const converted = grades
+    .map(grade => map[grade])
+    .filter(Boolean);
 
-  for (const [syllabirdGrade, regex] of gradeMap) {
-    if (regex.test(text)) {
-      grades.add(syllabirdGrade);
-    }
-  }
-
-  // Handle ranges like Grades 4-6 or 7-8.
-  const rangeMatch = text.match(/grades?\s*(\d+)\s*[-–]\s*(\d+)/i);
-  if (rangeMatch) {
-    const start = Number(rangeMatch[1]);
-    const end = Number(rangeMatch[2]);
-
-    const byNumber = {
-      1: "FIRSTGRADE",
-      2: "SECONDGRADE",
-      3: "THIRDGRADE",
-      4: "FOURTHGRADE",
-      5: "FIFTHGRADE",
-      6: "SIXTHGRADE",
-      7: "SEVENTHGRADE",
-      8: "EIGHTHGRADE",
-      9: "NINTHGRADE",
-      10: "TENTHGRADE",
-      11: "ELEVENTHGRADE",
-      12: "TWELFTHGRADE"
-    };
-
-    for (let grade = start; grade <= end; grade += 1) {
-      if (byNumber[grade]) grades.add(byNumber[grade]);
-    }
-  }
-
-  return `[${[...grades].map(grade => `'${grade}'`).join(", ")}]`;
+  return `[${converted.map(grade => `'${grade}'`).join(", ")}]`;
 }
 
 function getDayText(fields, dayNumber) {
@@ -351,15 +351,7 @@ function inferDefaultDays(fields) {
 }
 
 function formatSyllabirdDays(days) {
-  return [
-    "{",
-    `'monday': ${days.monday ? "True" : "False"}`,
-    `'tuesday': ${days.tuesday ? "True" : "False"}`,
-    `'wednesday': ${days.wednesday ? "True" : "False"}`,
-    `'thursday': ${days.thursday ? "True" : "False"}`,
-    `'friday': ${days.friday ? "True" : "False"}`,
-    "}"
-  ].join(", ");
+  return `{'Monday': ${days.monday ? "True" : "False"}, 'Tuesday': ${days.tuesday ? "True" : "False"}, 'Wednesday': ${days.wednesday ? "True" : "False"}, 'Thursday': ${days.thursday ? "True" : "False"}, 'Friday': ${days.friday ? "True" : "False"}, 'Saturday': False, 'Sunday': False}`;
 }
 
 function countActiveDays(days) {
@@ -409,14 +401,14 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
     course_numberOfDaysPerWeek: numberOfDaysPerWeek,
     course_numberOfWeeks: numberOfWeeks,
     course_subjects: normalizeSubject(fields["Subject"]),
-    course_gradeYears: gradeTextToSyllabirdGrades(fields["Grade"] || fields["Grade Text"]),
+    course_gradeYears: gradeFilterToSyllabirdGrades(fields["Grade Filter"]),
     course_defaultDaysOfTheWeek: formatSyllabirdDays(defaultDays),
     course_gradingStyle: "UNGRADED",
     course_color: "",
     course_picture: "",
     course_credits: "",
-    course_description: buildCourseDescription(matchedHeaderRecords),
-    course_introduction: buildCourseIntroduction(matchedHeaderRecords)
+    course_description: buildCourseDescription(matchedHeaderRecords, fields),
+    course_introduction: buildCourseIntroduction(matchedHeaderRecords, fields)
   };
 }
 
