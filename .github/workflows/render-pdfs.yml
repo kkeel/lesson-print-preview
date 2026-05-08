@@ -2,6 +2,18 @@ name: Render PDFs
 
 on:
   workflow_dispatch:
+    inputs:
+      render_mode:
+        description: "Render mode"
+        required: true
+        default: "changed"
+        type: choice
+        options:
+          - changed
+          - all
+
+  schedule:
+    - cron: "30 5 * * *"
 
 jobs:
   render-pdfs:
@@ -10,6 +22,13 @@ jobs:
     steps:
       - name: Checkout lesson print repo
         uses: actions/checkout@v4
+
+      - name: Checkout course-picker repo
+        uses: actions/checkout@v4
+        with:
+          repository: kkeel/course-picker
+          token: ${{ secrets.PLANNING_REPO_TOKEN }}
+          path: course-picker
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -22,29 +41,40 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install chromium
 
-      - name: Render PDFs
-        run: npm run render-pdfs
+      - name: Prepare manifest folder
+        run: |
+          mkdir -p course-picker/pdf/lesson-plans
 
-      - name: Checkout course-picker repo
-        uses: actions/checkout@v4
-        with:
-          repository: kkeel/course-picker
-          token: ${{ secrets.PLANNING_REPO_TOKEN }}
-          path: course-picker
+          if [ ! -f course-picker/pdf/lesson-plans/pdf-manifest.json ]; then
+            echo "{}" > course-picker/pdf/lesson-plans/pdf-manifest.json
+          fi
+
+      - name: Render PDFs
+        env:
+          RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
+        run: npm run render-pdfs
 
       - name: Copy PDFs into planning repo
         run: |
           mkdir -p course-picker/pdf/lesson-plans
-          rm -f course-picker/pdf/lesson-plans/*.pdf
-          cp generated-pdfs/*.pdf course-picker/pdf/lesson-plans/
+          cp generated-pdfs/*.pdf course-picker/pdf/lesson-plans/ || true
+          cp generated-pdfs/pdf-manifest.json course-picker/pdf/lesson-plans/
 
       - name: Commit and push PDFs
         run: |
           cd course-picker
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add pdf/lesson-plans
-          git commit -m "Update lesson plan PDFs" || echo "No PDF changes to commit"
+
+          if git diff --cached --quiet; then
+            echo "No PDF changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update lesson plan PDFs"
           git push
 
       - name: Sync PDF URLs to Airtable
