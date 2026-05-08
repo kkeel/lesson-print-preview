@@ -3,7 +3,7 @@ name: Build Supply Thumbnails
 on:
   workflow_dispatch:
   schedule:
-    - cron: "40 8 * * *"
+    - cron: "0 9 * * *"
 
 permissions:
   contents: write
