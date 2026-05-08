@@ -299,7 +299,10 @@ function normalizeSubject(value) {
 }
 
 function gradeFilterToSyllabirdGrades(value) {
-  const grades = normalizeArray(value);
+  const text = Array.isArray(value)
+    ? value.map(item => String(item ?? "")).join(",")
+    : String(value ?? "");
+
   const map = {
     G1: "FIRSTGRADE",
     G2: "SECONDGRADE",
@@ -315,7 +318,9 @@ function gradeFilterToSyllabirdGrades(value) {
     G12: "TWELFTHGRADE"
   };
 
-  const converted = grades
+  const matches = text.match(/G(?:10|11|12|[1-9])/g) || [];
+
+  const converted = [...new Set(matches)]
     .map(grade => map[grade])
     .filter(Boolean);
 
