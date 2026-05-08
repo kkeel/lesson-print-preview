@@ -1182,13 +1182,15 @@ function slugifyAnchorPart(value) {
 }
 
 function buildLessonAnchor(lesson) {
+  const lessonPart = lesson.sequence || lesson.lessonLabel || lesson.lessonId;
+
   return [
     "term",
     lesson.termNumber || 0,
     "week",
     lesson.weekNumber || 0,
     "lesson",
-    slugifyAnchorPart(lesson.lessonLabel || lesson.sequence || lesson.lessonId)
+    slugifyAnchorPart(lessonPart)
   ].join("-");
 }
 
