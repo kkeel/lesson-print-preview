@@ -1040,6 +1040,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
         const lf = record.fields || {};
 
         return {
+          lessonId: record.id,
           termNumber: Number(normalizeText(lf["Term"]) || 0),
           termLabel: lf["Term"] ? `Term ${lf["Term"]}` : "",
           weekNumber: Number(normalizeText(lf["Week"]) || 0),
@@ -1069,6 +1070,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
       const lf = lessonRecord.fields || {};
 
       lessons.push({
+        lessonId: lessonRecord.id,
         termNumber: Number(normalizeText(lf["Term"]) || 0),
         termLabel: lf["Term"] ? `Term ${lf["Term"]}` : "",
         weekNumber: Number(normalizeText(lf["Week"]) || 0),
