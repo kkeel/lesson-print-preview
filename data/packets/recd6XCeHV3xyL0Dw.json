@@ -181,6 +181,7 @@
           "term": "Term 1",
           "lessons": [
             {
+              "lessonId": "recYru1rH1iflsbFC",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 1,
@@ -193,6 +194,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recYru1rH1iflsbFC"
             },
             {
+              "lessonId": "rec7zAuFdIJirRbr0",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 2,
@@ -205,6 +207,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec7zAuFdIJirRbr0"
             },
             {
+              "lessonId": "recWvXeVG1B2kYKH1",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 3,
@@ -217,6 +220,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recWvXeVG1B2kYKH1"
             },
             {
+              "lessonId": "recOz0VDbqumVYwHA",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 4,
@@ -229,6 +233,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recOz0VDbqumVYwHA"
             },
             {
+              "lessonId": "recqmc7ZU80iJyXxw",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 5,
@@ -241,6 +246,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recqmc7ZU80iJyXxw"
             },
             {
+              "lessonId": "recqCe7gaqaBMln39",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 6,
@@ -253,6 +259,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recqCe7gaqaBMln39"
             },
             {
+              "lessonId": "recMrmlfxs6uR9RZO",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 7,
@@ -265,6 +272,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recMrmlfxs6uR9RZO"
             },
             {
+              "lessonId": "recEDKbCQgGFoVVnU",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 8,
@@ -277,6 +285,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recEDKbCQgGFoVVnU"
             },
             {
+              "lessonId": "rec1oWCQqIr6Hu6HJ",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 9,
@@ -289,6 +298,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec1oWCQqIr6Hu6HJ"
             },
             {
+              "lessonId": "rec49ebp3VKk9z6fM",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 10,
@@ -301,6 +311,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec49ebp3VKk9z6fM"
             },
             {
+              "lessonId": "recwDuy4MR3oGJLw8",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 11,
@@ -313,6 +324,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recwDuy4MR3oGJLw8"
             },
             {
+              "lessonId": "recdzg3kcS1SFcEXW",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 12,
@@ -331,6 +343,7 @@
           "term": "Term 2",
           "lessons": [
             {
+              "lessonId": "recT660j86Licocs0",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 13,
@@ -343,6 +356,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recT660j86Licocs0"
             },
             {
+              "lessonId": "rec9Rsz1ZpyGZpG6n",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 14,
@@ -355,6 +369,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec9Rsz1ZpyGZpG6n"
             },
             {
+              "lessonId": "recrm5sRbrNa04FMR",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 15,
@@ -367,6 +382,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recrm5sRbrNa04FMR"
             },
             {
+              "lessonId": "recYdvuYkqT2R0xvO",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 16,
@@ -379,6 +395,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recYdvuYkqT2R0xvO"
             },
             {
+              "lessonId": "recAU2D61bYVEMVGZ",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 17,
@@ -391,6 +408,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recAU2D61bYVEMVGZ"
             },
             {
+              "lessonId": "recguBU1cEP0NC2iv",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 18,
@@ -403,6 +421,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recguBU1cEP0NC2iv"
             },
             {
+              "lessonId": "recKCHNHAJV3f0S3u",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 19,
@@ -415,6 +434,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recKCHNHAJV3f0S3u"
             },
             {
+              "lessonId": "recQGKILwQMnJddoA",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 20,
@@ -427,6 +447,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recQGKILwQMnJddoA"
             },
             {
+              "lessonId": "recfGLimotlqoCh5N",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 21,
@@ -439,6 +460,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recfGLimotlqoCh5N"
             },
             {
+              "lessonId": "rec2flghnqiTMqh6r",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 22,
@@ -451,6 +473,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec2flghnqiTMqh6r"
             },
             {
+              "lessonId": "rec0KktNbXNa21pgp",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 23,
@@ -463,6 +486,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=rec0KktNbXNa21pgp"
             },
             {
+              "lessonId": "rec7Cv8K7QyunbTW3",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 24,
@@ -481,6 +505,7 @@
           "term": "Term 3",
           "lessons": [
             {
+              "lessonId": "recm50RY5dhei6Euh",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 25,
@@ -493,6 +518,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recm50RY5dhei6Euh"
             },
             {
+              "lessonId": "recYgV5vSbUHPWp3X",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 26,
@@ -505,6 +531,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recYgV5vSbUHPWp3X"
             },
             {
+              "lessonId": "recZWCaBynpNCJjJV",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 27,
@@ -517,6 +544,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recZWCaBynpNCJjJV"
             },
             {
+              "lessonId": "recDPHS9HOxyJUMfT",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 28,
@@ -529,6 +557,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recDPHS9HOxyJUMfT"
             },
             {
+              "lessonId": "recPTRGIMscDbIzIt",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 29,
@@ -541,6 +570,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recPTRGIMscDbIzIt"
             },
             {
+              "lessonId": "recQ21esHF03vRpZt",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 30,
@@ -553,6 +583,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recQ21esHF03vRpZt"
             },
             {
+              "lessonId": "recUcd8W6IPN6n3eT",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 31,
@@ -565,6 +596,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recUcd8W6IPN6n3eT"
             },
             {
+              "lessonId": "recvbDtGVsUlf0eMW",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 32,
@@ -577,6 +609,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recvbDtGVsUlf0eMW"
             },
             {
+              "lessonId": "recqMdYjkKJIQiK72",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 33,
@@ -589,6 +622,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recqMdYjkKJIQiK72"
             },
             {
+              "lessonId": "recC0yYAFLEUOCz7E",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 34,
@@ -601,6 +635,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recC0yYAFLEUOCz7E"
             },
             {
+              "lessonId": "recOZlPO6PvccLcUv",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 35,
@@ -613,6 +648,7 @@
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recd6XCeHV3xyL0Dw&6J82c=recOZlPO6PvccLcUv"
             },
             {
+              "lessonId": "recqrNIJrFzlFw3pO",
               "termNumber": 3,
               "termLabel": "Term 3",
               "weekNumber": 36,
