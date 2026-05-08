@@ -1,11 +1,21 @@
 # Syllabird CSV Export Field Map – Draft 1
 
+## Source Repo Responsibility
+
+The Syllabird export is generated from the lesson-writing repository and is intentionally independent from:
+
+- public planning app JSON
+- PDF rendering logic
+- interleaved print packet structures
+
+The export should represent standalone app courses/topics suitable for direct scheduling inside Syllabird.
+
 Export folder target:
 
 ```text
 exports/syllabird/courses.csv
 exports/syllabird/assignments.csv
-exports/syllabird/full_export.csv
+exports/syllabird/out.csv
 exports/syllabird/metadata.json
 ```
 
@@ -15,16 +25,23 @@ From the provided Syllabird sample files:
 
 - `courses.csv` has one row per Syllabird course.
 - `assignments.csv` has one row per lesson/assignment.
-- `full_export.csv` repeats the course columns on every assignment row.
+- `out.csv` repeats the course columns on every assignment row.
 - `course_gradingStyle` is consistently `UNGRADED` in the samples.
 - `assignment_graded` is consistently `FALSE` in the samples.
 - `assignment_duration` is consistently `0` in the samples.
 - `course_picture` and `course_credits` are blank in the samples.
-- `assignment_type` values present in the full sample are `Lesson`, `Exam`, and `Lab`.
+- `assignment_type` values present in the sample exports are `Lesson`, `Exam`, and `Lab`.
 - `assignment_custom_id` in the sample is not unique per individual lesson. It appears to function like an assignment type/category identifier:
   - all `Lesson` rows share one custom id
   - all `Exam` rows share one custom id
   - all `Lab` rows share one custom id
+
+## Export Stability Rules
+
+- Export rows should not depend on visible titles remaining unchanged.
+- Airtable record IDs should be preferred internally where stable identifiers are needed.
+- Parent interleaving structures should not affect exported topic sequencing.
+- Topic exports should remain stable even if PDF packet structures change later.
 
 ## Course Row Rule
 
@@ -44,6 +61,7 @@ Recommended rule:
 | Syllabird column | Alveary source / rule | Default | Notes |
 |---|---|---|---|
 | `course_name` | Course name if no topics; topic display name if topic-level export | required | This is the main visible title in Syllabird. |
+| `course_custom_id` | Stable Airtable-based course/topic identifier | recommended | Future-safe relational key for syncing and renaming stability. |
 | `course_numberOfDaysPerWeek` | Count of true weekdays from the selected schedule pattern | infer from schedule | For topic rows, use the first valid linked course schedule pattern in phase 1. |
 | `course_numberOfWeeks` | Number of weeks represented by lessons | `36` | Sample also includes `24` for some courses. We can infer from max lesson week if needed. |
 | `course_subjects` | Subject name(s), plus `Beginner` where sample expects it | blank if unknown | Sample uses comma-separated values like `English,Language Study,Beginner`. |
@@ -61,14 +79,15 @@ Recommended rule:
 | Syllabird column | Alveary source / rule | Default | Notes |
 |---|---|---|---|
 | `assignment_week` | Lesson week number | required | Numeric string. |
-| `assignment_day` | Day/sequence within that Syllabird course for the week | required | For topic courses, this should be the topic lesson day, not the interleaved PDF slot. |
+| `assignment_day` | Sequential lesson position within that Syllabird course for the week | required | For topic courses, this should be the topic lesson day, not the interleaved PDF slot. |
 | `assignment_name` | Lesson title/name with time prefix if desired | required | Sample includes names like `30m Architecture - Lesson 1`. |
 | `assignment_description` | Lesson body converted to HTML | blank | Preserve paragraphs, line breaks, links, bold, italics where possible. |
 | `assignment_teachersNote` | Teacher notes converted to HTML | blank | Blank is acceptable. |
 | `assignment_type` | Lesson type mapping | `Lesson` | Existing sample values: `Lesson`, `Exam`, `Lab`. Tracker lessons need a rule. |
 | `assignment_duration` | Lesson duration minutes if available | `0` | Sample uses `0` everywhere. |
 | `assignment_graded` | Static value | `FALSE` | Sample uses `FALSE` everywhere. |
-| `assignment_custom_id` | Syllabird type/category id OR Alveary stable id, pending partner clarification | blank or type id | Sample indicates this is not lesson-unique. Ask Syllabird before using Airtable lesson record IDs here. |
+| `assignment_custom_id` | Stable Airtable lesson identifier OR Syllabird assignment category id, pending partner clarification | blank or type id | Sample indicates this is not lesson-unique. Ask Syllabird before using Airtable lesson record IDs here. |
+| `course_custom_id` | Stable exported course identifier | recommended | Allows assignments to safely connect to exported course rows even if titles change later. |
 
 ## Tracker Lesson Rule – Open Item
 
@@ -121,6 +140,6 @@ exports/syllabird/courses.csv
 
 ```text
 exports/syllabird/assignments.csv
-exports/syllabird/full_export.csv
+exports/syllabird/out.csv
 exports/syllabird/metadata.json
 ```
