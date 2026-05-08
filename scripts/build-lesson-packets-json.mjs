@@ -98,7 +98,17 @@ const LESSON_DETAIL_FIELDS = [
   "Lesson Title",
   "Lesson Body",
   "Teacher Notes",
-  "Lesson_WritingURL"
+  "Lesson_WritingURL",
+  "URL 1",
+  "URL 2",
+  "URL 3",
+  "URL 4",
+  "URL 5",
+  "Text 1",
+  "Text 2",
+  "Text 3",
+  "Text 4",
+  "Text 5"
 ];
 
 const COURSE_LESSON_FIELDS = [
@@ -112,7 +122,17 @@ const COURSE_LESSON_FIELDS = [
   "Lesson Title",
   "Lesson Body",
   "Teacher Notes",
-  "Lesson_WritingURL"
+  "Lesson_WritingURL",
+  "URL 1",
+  "URL 2",
+  "URL 3",
+  "URL 4",
+  "URL 5",
+  "Text 1",
+  "Text 2",
+  "Text 3",
+  "Text 4",
+  "Text 5"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -1051,7 +1071,8 @@ function buildLessonsSection(packetRecord, headerLookup) {
           title: normalizeText(lf["Lesson Title"]),
           body: normalizeRichText(lf["Lesson Body"]),
           teacherNotes: normalizeRichText(lf["Teacher Notes"]),
-          editUrl: normalizeText(lf["Lesson_WritingURL"])
+          editUrl: normalizeText(lf["Lesson_WritingURL"]),
+          links: buildLessonLinks(lf)
         };
       });
     }
@@ -1080,7 +1101,8 @@ function buildLessonsSection(packetRecord, headerLookup) {
         title: normalizeText(lf["Lesson Title"]),
         body: normalizeRichText(lf["Lesson Body"]),
         teacherNotes: normalizeRichText(lf["Teacher Notes"]),
-        editUrl: normalizeText(lf["Lesson_WritingURL"])
+        editUrl: normalizeText(lf["Lesson_WritingURL"]),
+        links: buildLessonLinks(lf)
       });
     }
   }
@@ -1129,6 +1151,127 @@ function buildLessonsSection(packetRecord, headerLookup) {
     type: "lessons",
     title: normalizeText(fields["Lesson Set Name"]),
     linkPageUrl: normalizeText(fields["Link Page"]) || "#",
+    terms
+  };
+}
+
+function buildLessonLinks(fields) {
+  const links = [];
+
+  for (let i = 1; i <= 5; i += 1) {
+    const url = normalizeText(fields[`URL ${i}`]);
+    const text = normalizeText(fields[`Text ${i}`]);
+
+    if (!url) continue;
+
+    links.push({
+      text: text || url,
+      url
+    });
+  }
+
+  return links;
+}
+
+function slugifyAnchorPart(value) {
+  return String(value ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function buildLessonAnchor(lesson) {
+  return [
+    "term",
+    lesson.termNumber || 0,
+    "week",
+    lesson.weekNumber || 0,
+    "lesson",
+    slugifyAnchorPart(lesson.lessonLabel || lesson.sequence || lesson.lessonId)
+  ].join("-");
+}
+
+function buildLinkPage(packet) {
+  const lessonSection = (packet.sections || []).find(section => section.type === "lessons");
+
+  if (!lessonSection) return null;
+
+  const terms = [];
+
+  for (const term of lessonSection.terms || []) {
+    const weeksByNumber = new Map();
+
+    for (const lesson of term.lessons || []) {
+      const links = lesson.links || [];
+
+      if (!links.length) continue;
+
+      const weekKey = lesson.weekNumber || 0;
+
+      if (!weeksByNumber.has(weekKey)) {
+        weeksByNumber.set(weekKey, {
+          weekNumber: lesson.weekNumber,
+          weekLabel: lesson.weekLabel || "",
+          lessons: []
+        });
+      }
+
+      const anchor = buildLessonAnchor(lesson);
+
+      weeksByNumber.get(weekKey).lessons.push({
+        lessonId: lesson.lessonId,
+        termNumber: lesson.termNumber,
+        termLabel: lesson.termLabel,
+        weekNumber: lesson.weekNumber,
+        weekLabel: lesson.weekLabel,
+        sequence: lesson.sequence,
+        sort: lesson.sort || 0,
+        lessonLabel: lesson.lessonLabel,
+        title: lesson.title,
+        anchor,
+        links
+      });
+    }
+
+    const weeks = [...weeksByNumber.values()]
+      .map(week => ({
+        ...week,
+        lessons: week.lessons.sort((a, b) => {
+          const aSort = Number(a.sort || 0);
+          const bSort = Number(b.sort || 0);
+
+          if (aSort || bSort) return aSort - bSort;
+          return Number(a.sequence || 0) - Number(b.sequence || 0);
+        })
+      }))
+      .filter(week => week.lessons.length)
+      .sort((a, b) => Number(a.weekNumber || 0) - Number(b.weekNumber || 0));
+
+    if (!weeks.length) continue;
+
+    terms.push({
+      termNumber: term.termNumber,
+      term: term.term,
+      weeks
+    });
+  }
+
+  if (!terms.length) return null;
+
+  return {
+    id: packet.id,
+    title: packet.title,
+    lessonSetName: packet.lessonSetName,
+    subject: packet.subject,
+    gradeText: packet.gradeText,
+    sortId: packet.sortId,
+    rowType: packet.rowType,
+    hasTopics: packet.hasTopics,
+    isStandaloneCourse: packet.isStandaloneCourse,
+    courseConnectionNames: packet.courseConnectionNames || [],
+    topicConnectionNames: packet.topicConnectionNames || [],
+    updatedAt: new Date().toISOString(),
     terms
   };
 }
@@ -1265,9 +1408,11 @@ async function main() {
   const repoRoot = process.cwd();
   const dataDir = path.join(repoRoot, "data");
   const packetsDir = path.join(dataDir, "packets");
-
+  const linkPagesDir = path.join(dataDir, "link-pages");
+  
   await ensureDir(dataDir);
   await ensureDir(packetsDir);
+  await ensureDir(linkPagesDir);
 
   const lessonRecords = await fetchAllRecords(
     LESSON_TABLE_NAME,
@@ -1316,23 +1461,23 @@ async function main() {
   );
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
-const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
-
-const headerLookup = buildHeaderLookup(headerRecords);
-
-headerLookup.courseLessonsByCourseId = new Map();
-
-  for (const record of courseLessonRecords) {
-    const fields = record.fields || {};
-    const courseIds = normalizeArray(fields["Course"]);
+  const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
   
-    for (const courseId of courseIds) {
-      if (!headerLookup.courseLessonsByCourseId.has(courseId)) {
-        headerLookup.courseLessonsByCourseId.set(courseId, []);
+  const headerLookup = buildHeaderLookup(headerRecords);
+  
+  headerLookup.courseLessonsByCourseId = new Map();
+  
+    for (const record of courseLessonRecords) {
+      const fields = record.fields || {};
+      const courseIds = normalizeArray(fields["Course"]);
+    
+      for (const courseId of courseIds) {
+        if (!headerLookup.courseLessonsByCourseId.has(courseId)) {
+          headerLookup.courseLessonsByCourseId.set(courseId, []);
+        }
+        headerLookup.courseLessonsByCourseId.get(courseId).push(record);
       }
-      headerLookup.courseLessonsByCourseId.get(courseId).push(record);
     }
-  }
   
   headerLookup.howToById = howToById;
   headerLookup.howToImagesById = howToImagesById;
@@ -1349,14 +1494,40 @@ headerLookup.courseLessonsByCourseId = new Map();
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
 
+  const linkPages = [];
+
   for (const packet of packets) {
     const filePath = path.join(packetsDir, `${packet.id}.json`);
     await writeJson(filePath, packet);
+  
+    const linkPage = buildLinkPage(packet);
+  
+    if (linkPage) {
+      const linkPagePath = path.join(linkPagesDir, `${packet.id}.json`);
+      await writeJson(linkPagePath, linkPage);
+  
+      linkPages.push({
+        id: linkPage.id,
+        title: linkPage.title,
+        lessonSetName: linkPage.lessonSetName,
+        subject: linkPage.subject,
+        gradeText: linkPage.gradeText,
+        sortId: linkPage.sortId,
+        rowType: linkPage.rowType,
+        hasTopics: linkPage.hasTopics,
+        isStandaloneCourse: linkPage.isStandaloneCourse,
+        courseConnectionNames: linkPage.courseConnectionNames,
+        topicConnectionNames: linkPage.topicConnectionNames,
+        linkPageUrl: `./links.html?id=${encodeURIComponent(linkPage.id)}`
+      });
+    }
   }
-
+  
   await writeJson(path.join(dataDir, "packet-index.json"), index);
-
+  await writeJson(path.join(dataDir, "link-page-index.json"), linkPages);
+  
   console.log(`Built ${packets.length} packet JSON file(s).`);
+  console.log(`Built ${linkPages.length} link page JSON file(s).`);
 }
 
 main().catch(err => {
