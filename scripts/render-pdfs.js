@@ -38,7 +38,7 @@ async function renderPdf(record) {
     media: "print"
   });
 
-  const slug = slugify(record.title);
+  const slug = slugify(record.lessonSetName || record.title || record.id);
 
   const filename = `${record.id}-${slug}.pdf`;
 
