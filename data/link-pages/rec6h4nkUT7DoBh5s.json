@@ -12,7 +12,7 @@
     "Science: Food Science"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.372Z",
+  "updatedAt": "2026-05-08T23:43:02.632Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "60m Food Science Labs - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Mayonnaise and the Science of Emulsions",
@@ -62,7 +62,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "60m Food Science Labs - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Food Conservation",

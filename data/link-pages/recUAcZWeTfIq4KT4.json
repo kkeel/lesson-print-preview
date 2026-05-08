@@ -12,7 +12,7 @@
     "Science: Grade 6"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.339Z",
+  "updatedAt": "2026-05-08T23:43:02.595Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m General Science: Grade 6 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "The Destruction of Pompeii",
@@ -50,7 +50,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "30m General Science: Grade 6 - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "Mary Anning",
@@ -74,7 +74,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "30m General Science: Grade 6 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "NatGeo Continental Drift",
@@ -98,7 +98,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "30m General Science: Grade 6 - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "Ring of Natural Disasters",
@@ -122,7 +122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m General Science: Grade 6 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "How does radiocarbon dating work?",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "30m General Science: Grade 6 - Lesson 20",
-              "anchor": "term-1-week-10-lesson-lesson-20",
+              "anchor": "term-1-week-10-lesson-20",
               "links": [
                 {
                   "text": "Alfred Wegener",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "30m General Science: Grade 6 - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "Body Systems",
@@ -208,7 +208,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "30m General Science: Grade 6 - Lesson 29",
-              "anchor": "term-2-week-15-lesson-lesson-29",
+              "anchor": "term-2-week-15-lesson-29",
               "links": [
                 {
                   "text": "Germ Theory",
@@ -236,7 +236,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "30m General Science: Grade 6 - Lesson 31",
-              "anchor": "term-2-week-16-lesson-lesson-31",
+              "anchor": "term-2-week-16-lesson-31",
               "links": [
                 {
                   "text": "Oxygen's Surprisingly Complex Journey",
@@ -258,7 +258,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "30m General Science: Grade 6 - Lesson 32",
-              "anchor": "term-2-week-16-lesson-lesson-32",
+              "anchor": "term-2-week-16-lesson-32",
               "links": [
                 {
                   "text": "The Gross Clinic",
@@ -282,7 +282,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "30m General Science: Grade 6 - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "The Great Brain Debate",
@@ -306,7 +306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "30m General Science: Grade 6 - Lesson 41",
-              "anchor": "term-2-week-21-lesson-lesson-41",
+              "anchor": "term-2-week-21-lesson-41",
               "links": [
                 {
                   "text": "Smithsonian Magazine",
@@ -330,7 +330,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 43",
               "title": "30m General Science: Grade 6 - Lesson 43",
-              "anchor": "term-2-week-22-lesson-lesson-43",
+              "anchor": "term-2-week-22-lesson-43",
               "links": [
                 {
                   "text": "The Curious Case of Phineas Gage",
@@ -348,7 +348,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 44",
               "title": "30m General Science: Grade 6 - Lesson 44",
-              "anchor": "term-2-week-22-lesson-lesson-44",
+              "anchor": "term-2-week-22-lesson-44",
               "links": [
                 {
                   "text": "How Old is Your Body?",
@@ -378,7 +378,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "30m General Science: Grade 6 - Lesson 49",
-              "anchor": "term-3-week-25-lesson-lesson-49",
+              "anchor": "term-3-week-25-lesson-49",
               "links": [
                 {
                   "text": "Former Sears Tower",
@@ -406,7 +406,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 53",
               "title": "30m General Science: Grade 6 - Lesson 53",
-              "anchor": "term-3-week-27-lesson-lesson-53",
+              "anchor": "term-3-week-27-lesson-53",
               "links": [
                 {
                   "text": "Tacoma Narrows Bridge",
@@ -430,7 +430,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "30m General Science: Grade 6 - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "John Hancock Tower",
@@ -452,7 +452,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 60",
               "title": "30m General Science: Grade 6 - Lesson 60",
-              "anchor": "term-3-week-30-lesson-lesson-60",
+              "anchor": "term-3-week-30-lesson-60",
               "links": [
                 {
                   "text": "Swaying Skyscrapers",
@@ -476,7 +476,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 62",
               "title": "30m General Science: Grade 6 - Lesson 62",
-              "anchor": "term-3-week-31-lesson-lesson-62",
+              "anchor": "term-3-week-31-lesson-62",
               "links": [
                 {
                   "text": "Akashi-Kaikyo Bridge",
@@ -500,7 +500,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 63",
               "title": "30m General Science: Grade 6 - Lesson 63",
-              "anchor": "term-3-week-32-lesson-lesson-63",
+              "anchor": "term-3-week-32-lesson-63",
               "links": [
                 {
                   "text": "Flying Buttress",

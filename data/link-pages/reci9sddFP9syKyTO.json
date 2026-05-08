@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.194Z",
+  "updatedAt": "2026-05-08T23:43:02.453Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "30m Sloyd: Level 5 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Cube",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "30m Sloyd: Level 5 - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Cube",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m Sloyd: Level 5 - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Cube",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "30m Sloyd: Level 5 - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Square Prism",
@@ -126,7 +126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "30m Sloyd: Level 5 - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Square Prism",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "30m Sloyd: Level 5 - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Square Prism",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Sloyd: Level 5 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Square Pyramid",
@@ -204,7 +204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "30m Sloyd: Level 5 - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "Square Pyramid",
@@ -228,7 +228,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "30m Sloyd: Level 5 - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Square Pyramid",

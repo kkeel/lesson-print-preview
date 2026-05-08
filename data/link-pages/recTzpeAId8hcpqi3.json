@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.070Z",
+  "updatedAt": "2026-05-08T23:43:02.327Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "40m Economics: Grade 12 - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Lesssons for the Young Economist",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "40m Economics: Grade 12 - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Both Sides of the Issue",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "40m Economics: Grade 12 - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "∞ Video Link: Government: Too Big to Fix?",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "40m Economics: Grade 12 - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "McCulloch v. Maryland: The Birth of Big Government",
@@ -126,7 +126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "40m Economics: Grade 12 - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Economists to Congress: Don't Bail Out Big Business",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "40m Economics: Grade 12 - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Dr. Thomas Sowell",
@@ -174,7 +174,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "40m Economics: Grade 12 - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Why Is There Corn in Your Coke?",
@@ -208,7 +208,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "40m Economics: Grade 12 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "I, Pencil: The Movie",
@@ -232,7 +232,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "40m Economics: Grade 12 - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "How to Make a $1500 Sandwich in Only 6 Months.",
@@ -260,7 +260,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "40m Economics: Grade 12 - Lesson 16",
-              "anchor": "term-2-week-16-lesson-lesson-16",
+              "anchor": "term-2-week-16-lesson-16",
               "links": [
                 {
                   "text": "Why is There Corn in Your Coke?",
@@ -284,7 +284,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "40m Economics: Grade 12 - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Will Tariffs Hurt Americans?",
@@ -308,7 +308,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "40m Economics: Grade 12 - Lesson 18",
-              "anchor": "term-2-week-18-lesson-lesson-18",
+              "anchor": "term-2-week-18-lesson-18",
               "links": [
                 {
                   "text": "The Hockey Stick of Human Prosperity",
@@ -332,7 +332,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "40m Economics: Grade 12 - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Roslings 200 Countries",
@@ -356,7 +356,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 22",
               "title": "40m Economics: Grade 12 - Lesson 22",
-              "anchor": "term-2-week-22-lesson-lesson-22",
+              "anchor": "term-2-week-22-lesson-22",
               "links": [
                 {
                   "text": "Stossel Classroom",
@@ -380,7 +380,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 23",
               "title": "40m Economics: Grade 12 - Lesson 23",
-              "anchor": "term-2-week-23-lesson-lesson-23",
+              "anchor": "term-2-week-23-lesson-23",
               "links": [
                 {
                   "text": "Bad Government Brings Bad Inflation",
@@ -410,7 +410,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "40m Economics: Grade 12 - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Marginal Revolution University",
@@ -434,7 +434,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "40m Economics: Grade 12 - Lesson 26",
-              "anchor": "term-3-week-26-lesson-lesson-26",
+              "anchor": "term-3-week-26-lesson-26",
               "links": [
                 {
                   "text": "How Rent Control Hurts Renters",
@@ -458,7 +458,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "40m Economics: Grade 12 - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Minimum Wage Hurts Beginners",
@@ -482,7 +482,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "40m Economics: Grade 12 - Lesson 28",
-              "anchor": "term-3-week-28-lesson-lesson-28",
+              "anchor": "term-3-week-28-lesson-28",
               "links": [
                 {
                   "text": "Economics in One Lesson Quiz",
@@ -506,7 +506,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "40m Economics: Grade 12 - Lesson 29",
-              "anchor": "term-3-week-29-lesson-lesson-29",
+              "anchor": "term-3-week-29-lesson-29",
               "links": [
                 {
                   "text": "What is Subjective Value?",
@@ -530,7 +530,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "40m Economics: Grade 12 - Lesson 34",
-              "anchor": "term-3-week-34-lesson-lesson-34",
+              "anchor": "term-3-week-34-lesson-34",
               "links": [
                 {
                   "text": "Hazlitt's Lesson Restated",

@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.303Z",
+  "updatedAt": "2026-05-08T23:43:02.557Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "15m Sol-fa: Fast Track - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Lesson 1",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "15m Sol-fa: Fast Track - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Lesson 2",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "15m Sol-fa: Fast Track - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Lesson 3",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "15m Sol-fa: Fast Track - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Lesson 4",
@@ -126,7 +126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "15m Sol-fa: Fast Track - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Lesson 5",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "15m Sol-fa: Fast Track - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Lesson 6",
@@ -174,7 +174,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "15m Sol-fa: Fast Track - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Lesson 7",
@@ -198,7 +198,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "15m Sol-fa: Fast Track - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Lesson 8",
@@ -222,7 +222,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "15m Sol-fa: Fast Track - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Lesson 9",
@@ -246,7 +246,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "15m Sol-fa: Fast Track - Lesson 10",
-              "anchor": "term-1-week-10-lesson-lesson-10",
+              "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
                   "text": "Lesson 10",
@@ -270,7 +270,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "15m Sol-fa: Fast Track - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Lesson 11",
@@ -294,7 +294,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "15m Sol-fa: Fast Track - Lesson 12",
-              "anchor": "term-1-week-12-lesson-lesson-12",
+              "anchor": "term-1-week-12-lesson-12",
               "links": [
                 {
                   "text": "Term 1 Exam Video",
@@ -324,7 +324,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Sol-fa: Fast Track - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Lesson 12",
@@ -348,7 +348,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "15m Sol-fa: Fast Track - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "Lesson 13",
@@ -372,7 +372,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "15m Sol-fa: Fast Track - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Lesson 14",
@@ -396,7 +396,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "15m Sol-fa: Fast Track - Lesson 16",
-              "anchor": "term-2-week-16-lesson-lesson-16",
+              "anchor": "term-2-week-16-lesson-16",
               "links": [
                 {
                   "text": "Lesson 15",
@@ -420,7 +420,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "15m Sol-fa: Fast Track - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Lesson 16",
@@ -444,7 +444,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "15m Sol-fa: Fast Track - Lesson 18",
-              "anchor": "term-2-week-18-lesson-lesson-18",
+              "anchor": "term-2-week-18-lesson-18",
               "links": [
                 {
                   "text": "Lesson 17",
@@ -468,7 +468,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "15m Sol-fa: Fast Track - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Lesson 18",
@@ -492,7 +492,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "15m Sol-fa: Fast Track - Lesson 20",
-              "anchor": "term-2-week-20-lesson-lesson-20",
+              "anchor": "term-2-week-20-lesson-20",
               "links": [
                 {
                   "text": "Lesson 19",
@@ -516,7 +516,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "15m Sol-fa: Fast Track - Lesson 21",
-              "anchor": "term-2-week-21-lesson-lesson-21",
+              "anchor": "term-2-week-21-lesson-21",
               "links": [
                 {
                   "text": "Lesson 20",
@@ -540,7 +540,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 22",
               "title": "15m Sol-fa: Fast Track - Lesson 22",
-              "anchor": "term-2-week-22-lesson-lesson-22",
+              "anchor": "term-2-week-22-lesson-22",
               "links": [
                 {
                   "text": "Lesson 21",
@@ -564,7 +564,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 23",
               "title": "15m Sol-fa: Fast Track - Lesson 23",
-              "anchor": "term-2-week-23-lesson-lesson-23",
+              "anchor": "term-2-week-23-lesson-23",
               "links": [
                 {
                   "text": "Lesson 22",
@@ -588,7 +588,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 24",
               "title": "15m Sol-fa: Fast Track - Lesson 24",
-              "anchor": "term-2-week-24-lesson-lesson-24",
+              "anchor": "term-2-week-24-lesson-24",
               "links": [
                 {
                   "text": "Term 2 Exam Video",
@@ -618,7 +618,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "15m Sol-fa: Fast Track - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Lesson 23",
@@ -642,7 +642,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "15m Sol-fa: Fast Track - Lesson 26",
-              "anchor": "term-3-week-26-lesson-lesson-26",
+              "anchor": "term-3-week-26-lesson-26",
               "links": [
                 {
                   "text": "Lesson 24",
@@ -666,7 +666,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "15m Sol-fa: Fast Track - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Lesson 25",
@@ -690,7 +690,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "15m Sol-fa: Fast Track - Lesson 28",
-              "anchor": "term-3-week-28-lesson-lesson-28",
+              "anchor": "term-3-week-28-lesson-28",
               "links": [
                 {
                   "text": "Lesson 26",
@@ -714,7 +714,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "15m Sol-fa: Fast Track - Lesson 29",
-              "anchor": "term-3-week-29-lesson-lesson-29",
+              "anchor": "term-3-week-29-lesson-29",
               "links": [
                 {
                   "text": "Lesson 27",
@@ -738,7 +738,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "15m Sol-fa: Fast Track - Lesson 30",
-              "anchor": "term-3-week-30-lesson-lesson-30",
+              "anchor": "term-3-week-30-lesson-30",
               "links": [
                 {
                   "text": "Lesson 28",
@@ -762,7 +762,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "15m Sol-fa: Fast Track - Lesson 31",
-              "anchor": "term-3-week-31-lesson-lesson-31",
+              "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
                   "text": "Lesson 29",
@@ -786,7 +786,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "15m Sol-fa: Fast Track - Lesson 32",
-              "anchor": "term-3-week-32-lesson-lesson-32",
+              "anchor": "term-3-week-32-lesson-32",
               "links": [
                 {
                   "text": "Lesson 30",
@@ -810,7 +810,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "15m Sol-fa: Fast Track - Lesson 33",
-              "anchor": "term-3-week-33-lesson-lesson-33",
+              "anchor": "term-3-week-33-lesson-33",
               "links": [
                 {
                   "text": "Lesson 31",
@@ -834,7 +834,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "15m Sol-fa: Fast Track - Lesson 34",
-              "anchor": "term-3-week-34-lesson-lesson-34",
+              "anchor": "term-3-week-34-lesson-34",
               "links": [
                 {
                   "text": "Lesson 32",
@@ -858,7 +858,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "15m Sol-fa: Fast Track - Lesson 35",
-              "anchor": "term-3-week-35-lesson-lesson-35",
+              "anchor": "term-3-week-35-lesson-35",
               "links": [
                 {
                   "text": "Lesson 33",
@@ -882,7 +882,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 36",
               "title": "15m Sol-fa: Fast Track - Lesson 36",
-              "anchor": "term-3-week-36-lesson-lesson-36",
+              "anchor": "term-3-week-36-lesson-36",
               "links": [
                 {
                   "text": "Term 3 Exam Video",

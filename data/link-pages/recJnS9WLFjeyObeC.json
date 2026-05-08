@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.142Z",
+  "updatedAt": "2026-05-08T23:43:02.401Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Country Outline Map",
@@ -52,7 +52,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Blank Map of U.S.",
@@ -84,7 +84,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Rivers Map",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "Blank Map of U.S.",
@@ -130,7 +130,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 6",
-              "anchor": "term-1-week-3-lesson-lesson-6",
+              "anchor": "term-1-week-3-lesson-6",
               "links": [
                 {
                   "text": "Blank Map of U.S.",
@@ -154,7 +154,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "Draw a Bison",
@@ -176,7 +176,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 8",
-              "anchor": "term-1-week-4-lesson-lesson-8",
+              "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
                   "text": "Blank Map of the Northeastern Region",
@@ -204,7 +204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 10",
-              "anchor": "term-1-week-5-lesson-lesson-10",
+              "anchor": "term-1-week-5-lesson-10",
               "links": [
                 {
                   "text": "Blank Map of the Northeastern Region",
@@ -236,7 +236,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "Blank Map of Southeastern U.S.",
@@ -264,7 +264,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "Gulf of California",
@@ -282,7 +282,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 14",
-              "anchor": "term-1-week-7-lesson-lesson-14",
+              "anchor": "term-1-week-7-lesson-14",
               "links": [
                 {
                   "text": "Blank Map of Southeastern U.S.",
@@ -306,7 +306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 16",
-              "anchor": "term-1-week-8-lesson-lesson-16",
+              "anchor": "term-1-week-8-lesson-16",
               "links": [
                 {
                   "text": "Blank Map of Southeastern U.S.",
@@ -338,7 +338,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 17",
-              "anchor": "term-1-week-9-lesson-lesson-17",
+              "anchor": "term-1-week-9-lesson-17",
               "links": [
                 {
                   "text": "Sierra Nevada Mountains Geology",
@@ -356,7 +356,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 18",
-              "anchor": "term-1-week-9-lesson-lesson-18",
+              "anchor": "term-1-week-9-lesson-18",
               "links": [
                 {
                   "text": "Blank Map of Southeastern U.S.",
@@ -388,7 +388,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 19",
-              "anchor": "term-1-week-10-lesson-lesson-19",
+              "anchor": "term-1-week-10-lesson-19",
               "links": [
                 {
                   "text": "Mt. Nebo",
@@ -406,7 +406,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 20",
-              "anchor": "term-1-week-10-lesson-lesson-20",
+              "anchor": "term-1-week-10-lesson-20",
               "links": [
                 {
                   "text": "Blank Map of Southeastern U.S.",
@@ -434,7 +434,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 24",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 24",
-              "anchor": "term-1-week-12-lesson-lesson-24",
+              "anchor": "term-1-week-12-lesson-24",
               "links": [
                 {
                   "text": "Northeastern U.S. Map",
@@ -464,7 +464,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "Blank Map of the U.S.",
@@ -496,7 +496,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 27",
-              "anchor": "term-2-week-14-lesson-lesson-27",
+              "anchor": "term-2-week-14-lesson-27",
               "links": [
                 {
                   "text": "Utah Map",
@@ -514,7 +514,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 28",
-              "anchor": "term-2-week-14-lesson-lesson-28",
+              "anchor": "term-2-week-14-lesson-28",
               "links": [
                 {
                   "text": "Blank Map of U.S.",
@@ -542,7 +542,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 30",
-              "anchor": "term-2-week-15-lesson-lesson-30",
+              "anchor": "term-2-week-15-lesson-30",
               "links": [
                 {
                   "text": "Blank Map of the U.S.",
@@ -574,7 +574,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 31",
-              "anchor": "term-2-week-16-lesson-lesson-31",
+              "anchor": "term-2-week-16-lesson-31",
               "links": [
                 {
                   "text": "Carvalho Journey Map",
@@ -592,7 +592,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 32",
-              "anchor": "term-2-week-16-lesson-lesson-32",
+              "anchor": "term-2-week-16-lesson-32",
               "links": [
                 {
                   "text": "Midwest Region blank map",
@@ -616,7 +616,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 34",
-              "anchor": "term-2-week-17-lesson-lesson-34",
+              "anchor": "term-2-week-17-lesson-34",
               "links": [
                 {
                   "text": "Midwest Region blank map",
@@ -640,7 +640,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "Florida",
@@ -664,7 +664,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "Iowa",
@@ -682,7 +682,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 38",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 38",
-              "anchor": "term-2-week-19-lesson-lesson-38",
+              "anchor": "term-2-week-19-lesson-38",
               "links": [
                 {
                   "text": "State Abbreviations",
@@ -706,7 +706,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 39",
-              "anchor": "term-2-week-20-lesson-lesson-39",
+              "anchor": "term-2-week-20-lesson-39",
               "links": [
                 {
                   "text": "Kansas",
@@ -724,7 +724,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 40",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 40",
-              "anchor": "term-2-week-20-lesson-lesson-40",
+              "anchor": "term-2-week-20-lesson-40",
               "links": [
                 {
                   "text": "Blank Map of U.S.",
@@ -752,7 +752,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 41",
-              "anchor": "term-2-week-21-lesson-lesson-41",
+              "anchor": "term-2-week-21-lesson-41",
               "links": [
                 {
                   "text": "Colorado",
@@ -770,7 +770,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 42",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 42",
-              "anchor": "term-2-week-21-lesson-lesson-42",
+              "anchor": "term-2-week-21-lesson-42",
               "links": [
                 {
                   "text": "Southwest Region blank map",
@@ -802,7 +802,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 43",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 43",
-              "anchor": "term-2-week-22-lesson-lesson-43",
+              "anchor": "term-2-week-22-lesson-43",
               "links": [
                 {
                   "text": "The Dakotas",
@@ -820,7 +820,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 44",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 44",
-              "anchor": "term-2-week-22-lesson-lesson-44",
+              "anchor": "term-2-week-22-lesson-44",
               "links": [
                 {
                   "text": "Example Torn Paper Project",
@@ -844,7 +844,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 48",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 48",
-              "anchor": "term-2-week-24-lesson-lesson-48",
+              "anchor": "term-2-week-24-lesson-48",
               "links": [
                 {
                   "text": "Midwest Region Map",
@@ -874,7 +874,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 49",
-              "anchor": "term-3-week-25-lesson-lesson-49",
+              "anchor": "term-3-week-25-lesson-49",
               "links": [
                 {
                   "text": "1850s U.S. Map",
@@ -896,7 +896,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 50",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 50",
-              "anchor": "term-3-week-25-lesson-lesson-50",
+              "anchor": "term-3-week-25-lesson-50",
               "links": [
                 {
                   "text": "Blank Map of the U.S.",
@@ -932,7 +932,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 52",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 52",
-              "anchor": "term-3-week-26-lesson-lesson-52",
+              "anchor": "term-3-week-26-lesson-52",
               "links": [
                 {
                   "text": "State Abbreviations",
@@ -960,7 +960,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 53",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 53",
-              "anchor": "term-3-week-27-lesson-lesson-53",
+              "anchor": "term-3-week-27-lesson-53",
               "links": [
                 {
                   "text": "John James Audubon State Park",
@@ -978,7 +978,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 54",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 54",
-              "anchor": "term-3-week-27-lesson-lesson-54",
+              "anchor": "term-3-week-27-lesson-54",
               "links": [
                 {
                   "text": "State Abbreviations",
@@ -1006,7 +1006,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 55",
-              "anchor": "term-3-week-28-lesson-lesson-55",
+              "anchor": "term-3-week-28-lesson-55",
               "links": [
                 {
                   "text": "Mississippi River Map",
@@ -1024,7 +1024,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 56",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 56",
-              "anchor": "term-3-week-28-lesson-lesson-56",
+              "anchor": "term-3-week-28-lesson-56",
               "links": [
                 {
                   "text": "Western Region blank map",
@@ -1048,7 +1048,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Western Region blank map",
@@ -1076,7 +1076,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "World Map",
@@ -1098,7 +1098,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 60",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 60",
-              "anchor": "term-3-week-30-lesson-lesson-60",
+              "anchor": "term-3-week-30-lesson-60",
               "links": [
                 {
                   "text": "Western Region blank map",
@@ -1122,7 +1122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 62",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 62",
-              "anchor": "term-3-week-31-lesson-lesson-62",
+              "anchor": "term-3-week-31-lesson-62",
               "links": [
                 {
                   "text": "State Abbreviations",
@@ -1150,7 +1150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 66",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 66",
-              "anchor": "term-3-week-33-lesson-lesson-66",
+              "anchor": "term-3-week-33-lesson-66",
               "links": [
                 {
                   "text": "US Territories Explained",
@@ -1174,7 +1174,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 68",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 68",
-              "anchor": "term-3-week-34-lesson-lesson-68",
+              "anchor": "term-3-week-34-lesson-68",
               "links": [
                 {
                   "text": "Clay Model Map of Idaho",
@@ -1198,7 +1198,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 72",
               "title": "30m Geography: Grade 8 (U.S.) - Lesson 72",
-              "anchor": "term-3-week-36-lesson-lesson-72",
+              "anchor": "term-3-week-36-lesson-72",
               "links": [
                 {
                   "text": "United States Map",

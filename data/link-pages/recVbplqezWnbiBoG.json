@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.130Z",
+  "updatedAt": "2026-05-08T23:43:02.388Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Blank World Map",
@@ -52,7 +52,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Blank U.S. Map",
@@ -76,7 +76,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 8",
-              "anchor": "term-1-week-4-lesson-lesson-8",
+              "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
                   "text": "Room Model",
@@ -108,7 +108,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 9",
-              "anchor": "term-1-week-5-lesson-lesson-9",
+              "anchor": "term-1-week-5-lesson-9",
               "links": [
                 {
                   "text": "Panoramic 3D map",
@@ -136,7 +136,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "Map of the US with a compass rose",
@@ -166,7 +166,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 28",
-              "anchor": "term-2-week-14-lesson-lesson-28",
+              "anchor": "term-2-week-14-lesson-28",
               "links": [
                 {
                   "text": "Map Projections video",
@@ -190,7 +190,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 31",
-              "anchor": "term-2-week-16-lesson-lesson-31",
+              "anchor": "term-2-week-16-lesson-31",
               "links": [
                 {
                   "text": "US Precipitation Map",
@@ -214,7 +214,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 33",
-              "anchor": "term-2-week-17-lesson-lesson-33",
+              "anchor": "term-2-week-17-lesson-33",
               "links": [
                 {
                   "text": "NSF Water Cycle video",
@@ -236,7 +236,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 34",
-              "anchor": "term-2-week-17-lesson-lesson-34",
+              "anchor": "term-2-week-17-lesson-34",
               "links": [
                 {
                   "text": "Water Cycle in a Plastic Bag",
@@ -264,7 +264,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "Superbloom in California Desert",
@@ -288,7 +288,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 39",
-              "anchor": "term-2-week-20-lesson-lesson-39",
+              "anchor": "term-2-week-20-lesson-39",
               "links": [
                 {
                   "text": "5th edition PDF",
@@ -318,7 +318,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 55",
-              "anchor": "term-3-week-28-lesson-lesson-55",
+              "anchor": "term-3-week-28-lesson-55",
               "links": [
                 {
                   "text": "5th edition PDF",
@@ -342,7 +342,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 57",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 57",
-              "anchor": "term-3-week-29-lesson-lesson-57",
+              "anchor": "term-3-week-29-lesson-57",
               "links": [
                 {
                   "text": "Map of the Grand Canyon",
@@ -364,7 +364,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Picture of a Canyon",
@@ -388,7 +388,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "5th edition PDF",
@@ -406,7 +406,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 60",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 60",
-              "anchor": "term-3-week-30-lesson-lesson-60",
+              "anchor": "term-3-week-30-lesson-60",
               "links": [
                 {
                   "text": "Map of RMNP",
@@ -434,7 +434,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 61",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 61",
-              "anchor": "term-3-week-31-lesson-lesson-61",
+              "anchor": "term-3-week-31-lesson-61",
               "links": [
                 {
                   "text": "Brochure Map of RMNP",
@@ -458,7 +458,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 67",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 67",
-              "anchor": "term-3-week-34-lesson-lesson-67",
+              "anchor": "term-3-week-34-lesson-67",
               "links": [
                 {
                   "text": "Grid paper (1:3 ratio)",
@@ -476,7 +476,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 68",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 68",
-              "anchor": "term-3-week-34-lesson-lesson-68",
+              "anchor": "term-3-week-34-lesson-68",
               "links": [
                 {
                   "text": "Picture of Battleship",

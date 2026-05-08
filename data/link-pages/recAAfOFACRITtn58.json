@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.195Z",
+  "updatedAt": "2026-05-08T23:43:02.454Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "45m Sloyd: Level 7 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Basic Concepts",
@@ -58,7 +58,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "45m Sloyd: Level 7 - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Pleating into Thirty-Seconds",
@@ -82,7 +82,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Sloyd: Level 7 - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Pleating into Rotational Sixteenths",
@@ -106,7 +106,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "45m Sloyd: Level 7 - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Pleating into Rotational Thirty-Seconds",
@@ -136,7 +136,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "45m Sloyd: Level 7 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Symmetrical Motif 1",
@@ -164,7 +164,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "45m Sloyd: Level 7 - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "Symmetrical Motif 1",
@@ -192,7 +192,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "45m Sloyd: Level 7 - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Symmetrical Reflection",
@@ -216,7 +216,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "45m Sloyd: Level 7 - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Symmetrical Rotation",
@@ -240,7 +240,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "45m Sloyd: Level 7 - Lesson 21",
-              "anchor": "term-2-week-21-lesson-lesson-21",
+              "anchor": "term-2-week-21-lesson-21",
               "links": [
                 {
                   "text": "Glide Reflection",
@@ -270,7 +270,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "45m Sloyd: Level 7 - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Stretch & Skew",

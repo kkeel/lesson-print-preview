@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.189Z",
+  "updatedAt": "2026-05-08T23:43:02.449Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "15m Sloyd: Intro - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Square Fold",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "15m Sloyd: Intro - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Simple Cube",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "15m Sloyd: Intro - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Simple Rectangular Prism",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "15m Sloyd: Intro - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Corner Bookmark",
@@ -126,7 +126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "15m Sloyd: Intro - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Square Envelope",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "15m Sloyd: Intro - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Simple Airplane",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Sloyd: Intro - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Score & Fold Square",
@@ -204,7 +204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "15m Sloyd: Intro - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Score & Fold Cube",
@@ -228,7 +228,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "15m Sloyd: Intro - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Score & Fold Rectangular Prism",
@@ -252,7 +252,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "15m Sloyd: Intro - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Score & Fold Airplane",
@@ -280,7 +280,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "15m Sloyd: Intro - Lesson 21",
-              "anchor": "term-2-week-21-lesson-lesson-21",
+              "anchor": "term-2-week-21-lesson-21",
               "links": [
                 {
                   "text": "Loop & Curl Pinwheel",
@@ -310,7 +310,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "15m Sloyd: Intro - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Fold & Cut Stars",
@@ -334,7 +334,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "15m Sloyd: Intro - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Fold & Cut Snowflakes",
@@ -358,7 +358,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "15m Sloyd: Intro - Lesson 29",
-              "anchor": "term-3-week-29-lesson-lesson-29",
+              "anchor": "term-3-week-29-lesson-29",
               "links": [
                 {
                   "text": "Pleated Fan",
@@ -382,7 +382,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "15m Sloyd: Intro - Lesson 31",
-              "anchor": "term-3-week-31-lesson-lesson-31",
+              "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
                   "text": "Pleated Accordion",
@@ -406,7 +406,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "15m Sloyd: Intro - Lesson 33",
-              "anchor": "term-3-week-33-lesson-lesson-33",
+              "anchor": "term-3-week-33-lesson-33",
               "links": [
                 {
                   "text": "Using Tabs: Cube",

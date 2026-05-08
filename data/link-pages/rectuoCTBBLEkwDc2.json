@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.272Z",
+  "updatedAt": "2026-05-08T23:43:02.525Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Lattice Multiplication",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Three Methods of Division",

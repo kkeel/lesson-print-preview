@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:02.988Z",
+  "updatedAt": "2026-05-08T23:43:02.241Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "20m Art: Level 3 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Vertical Brush Forms L1 L26 & L3 L1",
@@ -52,7 +52,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "20m Art: Level 3 - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Oblique Brush Forms #1 L1 L31 & L2 L26 & L3 L2",
@@ -80,7 +80,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "20m Art: Level 3 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "17. Lesson on Laburnum",
@@ -98,7 +98,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "20m Art: Level 3 - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "17. Design of Laburnum",
@@ -122,7 +122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "20m Art: Level 3 - Lesson 5",
-              "anchor": "term-1-week-3-lesson-lesson-5",
+              "anchor": "term-1-week-3-lesson-5",
               "links": [
                 {
                   "text": "A Floral Bouquet of Irises and Laburnum (1909)",
@@ -140,7 +140,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "20m Art: Level 3 - Lesson 6",
-              "anchor": "term-1-week-3-lesson-lesson-6",
+              "anchor": "term-1-week-3-lesson-6",
               "links": [
                 {
                   "text": "17. Design of Laburnum",
@@ -164,7 +164,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "20m Art: Level 3 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "18. Lesson on Hares and Leaves",
@@ -182,7 +182,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "20m Art: Level 3 - Lesson 8",
-              "anchor": "term-1-week-4-lesson-lesson-8",
+              "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
                   "text": "18. Lesson on Hares and Leaves",
@@ -206,7 +206,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "20m Art: Level 3 - Lesson 9",
-              "anchor": "term-1-week-5-lesson-lesson-9",
+              "anchor": "term-1-week-5-lesson-9",
               "links": [
                 {
                   "text": "Hares & Rabbits",
@@ -232,7 +232,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "20m Art: Level 3 - Lesson 10",
-              "anchor": "term-1-week-5-lesson-lesson-10",
+              "anchor": "term-1-week-5-lesson-10",
               "links": [
                 {
                   "text": "19. Lesson on Ducklings and Pond",
@@ -260,7 +260,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "20m Art: Level 3 - Lesson 11",
-              "anchor": "term-1-week-6-lesson-lesson-11",
+              "anchor": "term-1-week-6-lesson-11",
               "links": [
                 {
                   "text": "19. Lesson on Ducklings and Pond",
@@ -282,7 +282,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "20m Art: Level 3 - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "Ducks on a pond",
@@ -306,7 +306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "20m Art: Level 3 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "20. Lesson on Ivy",
@@ -324,7 +324,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "20m Art: Level 3 - Lesson 14",
-              "anchor": "term-1-week-7-lesson-lesson-14",
+              "anchor": "term-1-week-7-lesson-14",
               "links": [
                 {
                   "text": "20. Lesson on Ivy",
@@ -348,7 +348,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "20m Art: Level 3 - Lesson 15",
-              "anchor": "term-1-week-8-lesson-lesson-15",
+              "anchor": "term-1-week-8-lesson-15",
               "links": [
                 {
                   "text": "Ivy #1",
@@ -370,7 +370,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "20m Art: Level 3 - Lesson 16",
-              "anchor": "term-1-week-8-lesson-lesson-16",
+              "anchor": "term-1-week-8-lesson-16",
               "links": [
                 {
                   "text": "21. Design of Ivy",
@@ -394,7 +394,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "20m Art: Level 3 - Lesson 17",
-              "anchor": "term-1-week-9-lesson-lesson-17",
+              "anchor": "term-1-week-9-lesson-17",
               "links": [
                 {
                   "text": "21. Design of Ivy",
@@ -424,7 +424,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "20m Art: Level 3 - Lesson 18",
-              "anchor": "term-1-week-9-lesson-lesson-18",
+              "anchor": "term-1-week-9-lesson-18",
               "links": [
                 {
                   "text": "21. Design of Ivy",
@@ -460,7 +460,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "20m Art: Level 3 - Lesson 19",
-              "anchor": "term-1-week-10-lesson-lesson-19",
+              "anchor": "term-1-week-10-lesson-19",
               "links": [
                 {
                   "text": "21. Design of Ivy",
@@ -490,7 +490,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "20m Art: Level 3 - Lesson 20",
-              "anchor": "term-1-week-10-lesson-lesson-20",
+              "anchor": "term-1-week-10-lesson-20",
               "links": [
                 {
                   "text": "Lilias Trotter",
@@ -514,7 +514,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "20m Art: Level 3 - Lesson 21",
-              "anchor": "term-1-week-11-lesson-lesson-21",
+              "anchor": "term-1-week-11-lesson-21",
               "links": [
                 {
                   "text": "Lilias Trotter",
@@ -544,7 +544,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "20m Art: Level 3 - Lesson 25",
-              "anchor": "term-2-week-13-lesson-lesson-25",
+              "anchor": "term-2-week-13-lesson-25",
               "links": [
                 {
                   "text": "Tutorial: Color Theory with Pastels L2 L1 & L3 L25",
@@ -572,7 +572,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "20m Art: Level 3 - Lesson 27",
-              "anchor": "term-2-week-14-lesson-lesson-27",
+              "anchor": "term-2-week-14-lesson-27",
               "links": [
                 {
                   "text": "Elements of Art: Color",
@@ -598,7 +598,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "20m Art: Level 3 - Lesson 28",
-              "anchor": "term-2-week-14-lesson-lesson-28",
+              "anchor": "term-2-week-14-lesson-28",
               "links": [
                 {
                   "text": "Elements of Art: Color",
@@ -626,7 +626,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "20m Art: Level 3 - Lesson 29",
-              "anchor": "term-2-week-15-lesson-lesson-29",
+              "anchor": "term-2-week-15-lesson-29",
               "links": [
                 {
                   "text": "Elements of Art: Color",
@@ -648,7 +648,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "20m Art: Level 3 - Lesson 30",
-              "anchor": "term-2-week-15-lesson-lesson-30",
+              "anchor": "term-2-week-15-lesson-30",
               "links": [
                 {
                   "text": "Watercolor Value Changes L3 L30",
@@ -672,7 +672,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "20m Art: Level 3 - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -698,7 +698,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 36",
               "title": "20m Art: Level 3 - Lesson 36",
-              "anchor": "term-2-week-18-lesson-lesson-36",
+              "anchor": "term-2-week-18-lesson-36",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -726,7 +726,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "20m Art: Level 3 - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -748,7 +748,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 38",
               "title": "20m Art: Level 3 - Lesson 38",
-              "anchor": "term-2-week-19-lesson-lesson-38",
+              "anchor": "term-2-week-19-lesson-38",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -776,7 +776,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "20m Art: Level 3 - Lesson 39",
-              "anchor": "term-2-week-20-lesson-lesson-39",
+              "anchor": "term-2-week-20-lesson-39",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -798,7 +798,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 40",
               "title": "20m Art: Level 3 - Lesson 40",
-              "anchor": "term-2-week-20-lesson-lesson-40",
+              "anchor": "term-2-week-20-lesson-40",
               "links": [
                 {
                   "text": "What Does Monochromatic Mean?",
@@ -826,7 +826,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "20m Art: Level 3 - Lesson 41",
-              "anchor": "term-2-week-21-lesson-lesson-41",
+              "anchor": "term-2-week-21-lesson-41",
               "links": [
                 {
                   "text": "Monochromatic Self Portrait Examples",
@@ -852,7 +852,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 42",
               "title": "20m Art: Level 3 - Lesson 42",
-              "anchor": "term-2-week-21-lesson-lesson-42",
+              "anchor": "term-2-week-21-lesson-42",
               "links": [
                 {
                   "text": "Monochromatic Self Portrait Examples",
@@ -884,7 +884,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 45",
               "title": "20m Art: Level 3 - Lesson 45",
-              "anchor": "term-2-week-23-lesson-lesson-45",
+              "anchor": "term-2-week-23-lesson-45",
               "links": [
                 {
                   "text": "Value Scale Seascape Collage",
@@ -902,7 +902,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 46",
               "title": "20m Art: Level 3 - Lesson 46",
-              "anchor": "term-2-week-23-lesson-lesson-46",
+              "anchor": "term-2-week-23-lesson-46",
               "links": [
                 {
                   "text": "Value Scale Seascape Collage",
@@ -932,7 +932,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "20m Art: Level 3 - Lesson 49",
-              "anchor": "term-3-week-25-lesson-lesson-49",
+              "anchor": "term-3-week-25-lesson-49",
               "links": [
                 {
                   "text": "Tutorial: Proportion L2 L58 & L3 L49",
@@ -954,7 +954,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 50",
               "title": "20m Art: Level 3 - Lesson 50",
-              "anchor": "term-3-week-25-lesson-lesson-50",
+              "anchor": "term-3-week-25-lesson-50",
               "links": [
                 {
                   "text": "Geometric Square Design",
@@ -978,7 +978,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 51",
               "title": "20m Art: Level 3 - Lesson 51",
-              "anchor": "term-3-week-26-lesson-lesson-51",
+              "anchor": "term-3-week-26-lesson-51",
               "links": [
                 {
                   "text": "The Ellipse Lesson L3 L51",
@@ -996,7 +996,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 52",
               "title": "20m Art: Level 3 - Lesson 52",
-              "anchor": "term-3-week-26-lesson-lesson-52",
+              "anchor": "term-3-week-26-lesson-52",
               "links": [
                 {
                   "text": "Setting Objects at Eye Level L2 L61 & L3 L52",
@@ -1020,7 +1020,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 53",
               "title": "20m Art: Level 3 - Lesson 53",
-              "anchor": "term-3-week-27-lesson-lesson-53",
+              "anchor": "term-3-week-27-lesson-53",
               "links": [
                 {
                   "text": "Horizontal Ellipses L3 L53",
@@ -1038,7 +1038,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 54",
               "title": "20m Art: Level 3 - Lesson 54",
-              "anchor": "term-3-week-27-lesson-lesson-54",
+              "anchor": "term-3-week-27-lesson-54",
               "links": [
                 {
                   "text": "Cylindrical Objects L2 L64 & L3 L54",
@@ -1062,7 +1062,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "20m Art: Level 3 - Lesson 55",
-              "anchor": "term-3-week-28-lesson-lesson-55",
+              "anchor": "term-3-week-28-lesson-55",
               "links": [
                 {
                   "text": "Vertical Ellipses L3 L55",
@@ -1080,7 +1080,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 56",
               "title": "20m Art: Level 3 - Lesson 56",
-              "anchor": "term-3-week-28-lesson-lesson-56",
+              "anchor": "term-3-week-28-lesson-56",
               "links": [
                 {
                   "text": "Setting Objects at Eye Level L2 L61 & L3 L52",
@@ -1104,7 +1104,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 57",
               "title": "20m Art: Level 3 - Lesson 57",
-              "anchor": "term-3-week-29-lesson-lesson-57",
+              "anchor": "term-3-week-29-lesson-57",
               "links": [
                 {
                   "text": "Can on Its Side",
@@ -1122,7 +1122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "20m Art: Level 3 - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Geometric Drawing in Circle",
@@ -1150,7 +1150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "20m Art: Level 3 - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "Geometric Drawing in Circle",
@@ -1172,7 +1172,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 60",
               "title": "20m Art: Level 3 - Lesson 60",
-              "anchor": "term-3-week-30-lesson-lesson-60",
+              "anchor": "term-3-week-30-lesson-60",
               "links": [
                 {
                   "text": "Geometric Drawing in Circle",
@@ -1200,7 +1200,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 61",
               "title": "20m Art: Level 3 - Lesson 61",
-              "anchor": "term-3-week-31-lesson-lesson-61",
+              "anchor": "term-3-week-31-lesson-61",
               "links": [
                 {
                   "text": "Cylindrical Objects L2 L64 & L3 L54",
@@ -1218,7 +1218,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 62",
               "title": "20m Art: Level 3 - Lesson 62",
-              "anchor": "term-3-week-31-lesson-lesson-62",
+              "anchor": "term-3-week-31-lesson-62",
               "links": [
                 {
                   "text": "Above Eye Level Example",
@@ -1242,7 +1242,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 63",
               "title": "20m Art: Level 3 - Lesson 63",
-              "anchor": "term-3-week-32-lesson-lesson-63",
+              "anchor": "term-3-week-32-lesson-63",
               "links": [
                 {
                   "text": "Cutting Silhouettes L2 L58 & L3 L63",
@@ -1264,7 +1264,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 64",
               "title": "20m Art: Level 3 - Lesson 64",
-              "anchor": "term-3-week-32-lesson-lesson-64",
+              "anchor": "term-3-week-32-lesson-64",
               "links": [
                 {
                   "text": "Silhouette example",
@@ -1288,7 +1288,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 65",
               "title": "20m Art: Level 3 - Lesson 65",
-              "anchor": "term-3-week-33-lesson-lesson-65",
+              "anchor": "term-3-week-33-lesson-65",
               "links": [
                 {
                   "text": "Silhouette example",
@@ -1306,7 +1306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 66",
               "title": "20m Art: Level 3 - Lesson 66",
-              "anchor": "term-3-week-33-lesson-lesson-66",
+              "anchor": "term-3-week-33-lesson-66",
               "links": [
                 {
                   "text": "Paul Cezanne Example",
@@ -1330,7 +1330,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 68",
               "title": "20m Art: Level 3 - Lesson 68",
-              "anchor": "term-3-week-34-lesson-lesson-68",
+              "anchor": "term-3-week-34-lesson-68",
               "links": [
                 {
                   "text": "Yummy Art Artist Study",
@@ -1358,7 +1358,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 69",
               "title": "20m Art: Level 3 - Lesson 69",
-              "anchor": "term-3-week-35-lesson-lesson-69",
+              "anchor": "term-3-week-35-lesson-69",
               "links": [
                 {
                   "text": "Yummy Art Artist Study",
@@ -1380,7 +1380,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 70",
               "title": "20m Art: Level 3 - Lesson 70",
-              "anchor": "term-3-week-35-lesson-lesson-70",
+              "anchor": "term-3-week-35-lesson-70",
               "links": [
                 {
                   "text": "Wayne Thiebaud Cakes",

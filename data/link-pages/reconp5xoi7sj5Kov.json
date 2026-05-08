@@ -12,7 +12,7 @@
     "Science: Botany"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.380Z",
+  "updatedAt": "2026-05-08T23:43:02.641Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "60m Botany Labs - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Soil Sampling Procedure",
@@ -56,7 +56,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "60m Botany Labs - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Soil Sampling Procedure",
@@ -80,7 +80,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "60m Botany Labs - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Dissection Guide",
@@ -110,7 +110,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "60m Botany Labs - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "SciStarter",
@@ -134,7 +134,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "60m Botany Labs - Lesson 20",
-              "anchor": "term-2-week-20-lesson-lesson-20",
+              "anchor": "term-2-week-20-lesson-20",
               "links": [
                 {
                   "text": "Ethnobotany",
@@ -164,7 +164,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "60m Botany Labs - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "SciStarter",
@@ -188,7 +188,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "60m Botany Labs - Lesson 32",
-              "anchor": "term-3-week-32-lesson-lesson-32",
+              "anchor": "term-3-week-32-lesson-32",
               "links": [
                 {
                   "text": "Soil Sampling Procedure",

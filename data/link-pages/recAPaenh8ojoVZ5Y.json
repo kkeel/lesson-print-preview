@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.199Z",
+  "updatedAt": "2026-05-08T23:43:02.458Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "20m Lettering: Level 2 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Lettering 2: Faceted Style",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "20m Lettering: Level 2 - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Lettering 2: Vintage Circus Style",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "20m Lettering: Level 2 - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Lettering 2: Bubble Style",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "20m Lettering: Level 2 - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Lettering 2: Banners",
@@ -132,7 +132,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "20m Lettering: Level 2 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Lettering 2: Ribbon Style",
@@ -156,7 +156,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "20m Lettering: Level 2 - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Lettering 2: Spooky Style",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "20m Lettering: Level 2 - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "Lettering 2: Blackletter Style",
@@ -204,7 +204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "20m Lettering: Level 2 - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Lettering 2: Retro Style",
@@ -228,7 +228,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "20m Lettering: Level 2 - Lesson 21",
-              "anchor": "term-2-week-21-lesson-lesson-21",
+              "anchor": "term-2-week-21-lesson-21",
               "links": [
                 {
                   "text": "Lettering 2: Frames & Borders",
@@ -258,7 +258,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "20m Lettering: Level 2 - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Lettering 2: Western Style",
@@ -282,7 +282,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "20m Lettering: Level 2 - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Lettering 2: Whimsical Serif Style",
@@ -306,7 +306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "20m Lettering: Level 2 - Lesson 29",
-              "anchor": "term-3-week-29-lesson-lesson-29",
+              "anchor": "term-3-week-29-lesson-29",
               "links": [
                 {
                   "text": "Lettering 2: Cute Style",
@@ -330,7 +330,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "20m Lettering: Level 2 - Lesson 31",
-              "anchor": "term-3-week-31-lesson-lesson-31",
+              "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
                   "text": "Lettering 2: Classic Style",
@@ -354,7 +354,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "20m Lettering: Level 2 - Lesson 33",
-              "anchor": "term-3-week-33-lesson-lesson-33",
+              "anchor": "term-3-week-33-lesson-33",
               "links": [
                 {
                   "text": "Lettering 2: Flourishes and Embellishments",

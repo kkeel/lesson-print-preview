@@ -12,7 +12,7 @@
     "Science: Chemistry"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.358Z",
+  "updatedAt": "2026-05-08T23:43:02.617Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "45m Chemistry Lessons - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "HS Chemistry Intro",
@@ -66,7 +66,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "45m Chemistry Lessons - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Engineering Guy #3",
@@ -84,7 +84,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "45m Chemistry Lessons - Lesson 3",
-              "anchor": "term-1-week-1-lesson-lesson-3",
+              "anchor": "term-1-week-1-lesson-3",
               "links": [
                 {
                   "text": "Engineering Guy #4",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Chemistry Lessons - Lesson 4",
-              "anchor": "term-1-week-1-lesson-lesson-4",
+              "anchor": "term-1-week-1-lesson-4",
               "links": [
                 {
                   "text": "Engineering Guy #5",
@@ -120,7 +120,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "45m Chemistry Lessons - Lesson 5",
-              "anchor": "term-1-week-1-lesson-lesson-5",
+              "anchor": "term-1-week-1-lesson-5",
               "links": [
                 {
                   "text": "Engineering Guy #6",
@@ -138,7 +138,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "45m Chemistry Lessons - Lesson 6",
-              "anchor": "term-1-week-1-lesson-lesson-6",
+              "anchor": "term-1-week-1-lesson-6",
               "links": [
                 {
                   "text": "Lab 1 Conclusion",
@@ -162,7 +162,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "45m Chemistry Lessons - Lesson 7",
-              "anchor": "term-1-week-2-lesson-lesson-7",
+              "anchor": "term-1-week-2-lesson-7",
               "links": [
                 {
                   "text": "Scientific Method",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "45m Chemistry Lessons - Lesson 8",
-              "anchor": "term-1-week-2-lesson-lesson-8",
+              "anchor": "term-1-week-2-lesson-8",
               "links": [
                 {
                   "text": "Chapter 1 Practice",
@@ -198,7 +198,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "45m Chemistry Lessons - Lesson 9",
-              "anchor": "term-1-week-2-lesson-lesson-9",
+              "anchor": "term-1-week-2-lesson-9",
               "links": [
                 {
                   "text": "Math Break: Zero and Negative Exponents",
@@ -220,7 +220,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "45m Chemistry Lessons - Lesson 10",
-              "anchor": "term-1-week-2-lesson-lesson-10",
+              "anchor": "term-1-week-2-lesson-10",
               "links": [
                 {
                   "text": "Significant Figures",
@@ -242,7 +242,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "45m Chemistry Lessons - Lesson 11",
-              "anchor": "term-1-week-2-lesson-lesson-11",
+              "anchor": "term-1-week-2-lesson-11",
               "links": [
                 {
                   "text": "Temperature and Density Problems",
@@ -260,7 +260,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "45m Chemistry Lessons - Lesson 12",
-              "anchor": "term-1-week-2-lesson-lesson-12",
+              "anchor": "term-1-week-2-lesson-12",
               "links": [
                 {
                   "text": "Density Lab",
@@ -288,7 +288,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "45m Chemistry Lessons - Lesson 13",
-              "anchor": "term-1-week-3-lesson-lesson-13",
+              "anchor": "term-1-week-3-lesson-13",
               "links": [
                 {
                   "text": "Chapter 2 Practice",
@@ -306,7 +306,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "45m Chemistry Lessons - Lesson 15",
-              "anchor": "term-1-week-3-lesson-lesson-15",
+              "anchor": "term-1-week-3-lesson-15",
               "links": [
                 {
                   "text": "Elements",
@@ -324,7 +324,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "45m Chemistry Lessons - Lesson 16",
-              "anchor": "term-1-week-3-lesson-lesson-16",
+              "anchor": "term-1-week-3-lesson-16",
               "links": [
                 {
                   "text": "Atoms and Isotopes",
@@ -342,7 +342,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "45m Chemistry Lessons - Lesson 17",
-              "anchor": "term-1-week-3-lesson-lesson-17",
+              "anchor": "term-1-week-3-lesson-17",
               "links": [
                 {
                   "text": "Meeting the Table",
@@ -374,7 +374,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "45m Chemistry Lessons - Lesson 19",
-              "anchor": "term-1-week-4-lesson-lesson-19",
+              "anchor": "term-1-week-4-lesson-19",
               "links": [
                 {
                   "text": "Ions",
@@ -392,7 +392,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "45m Chemistry Lessons - Lesson 20",
-              "anchor": "term-1-week-4-lesson-lesson-20",
+              "anchor": "term-1-week-4-lesson-20",
               "links": [
                 {
                   "text": "Chapter 4 Practice",
@@ -416,7 +416,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "45m Chemistry Lessons - Lesson 25",
-              "anchor": "term-1-week-5-lesson-lesson-25",
+              "anchor": "term-1-week-5-lesson-25",
               "links": [
                 {
                   "text": "Naming Ionic Compounds",
@@ -434,7 +434,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "45m Chemistry Lessons - Lesson 26",
-              "anchor": "term-1-week-5-lesson-lesson-26",
+              "anchor": "term-1-week-5-lesson-26",
               "links": [
                 {
                   "text": "Naming Nonmetal Compounds",
@@ -452,7 +452,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "45m Chemistry Lessons - Lesson 27",
-              "anchor": "term-1-week-5-lesson-lesson-27",
+              "anchor": "term-1-week-5-lesson-27",
               "links": [
                 {
                   "text": "Naming Polyatomic Ions and Acids",
@@ -470,7 +470,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "45m Chemistry Lessons - Lesson 28",
-              "anchor": "term-1-week-5-lesson-lesson-28",
+              "anchor": "term-1-week-5-lesson-28",
               "links": [
                 {
                   "text": "Chapter 5 Practice",
@@ -488,7 +488,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "45m Chemistry Lessons - Lesson 29",
-              "anchor": "term-1-week-5-lesson-lesson-29",
+              "anchor": "term-1-week-5-lesson-29",
               "links": [
                 {
                   "text": "Separation Lab",
@@ -516,7 +516,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "45m Chemistry Lessons - Lesson 32",
-              "anchor": "term-1-week-6-lesson-lesson-32",
+              "anchor": "term-1-week-6-lesson-32",
               "links": [
                 {
                   "text": "Chemical Reactions",
@@ -534,7 +534,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "45m Chemistry Lessons - Lesson 33",
-              "anchor": "term-1-week-6-lesson-lesson-33",
+              "anchor": "term-1-week-6-lesson-33",
               "links": [
                 {
                   "text": "Balancing Equations",
@@ -552,7 +552,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "45m Chemistry Lessons - Lesson 34",
-              "anchor": "term-1-week-6-lesson-lesson-34",
+              "anchor": "term-1-week-6-lesson-34",
               "links": [
                 {
                   "text": "Chapter 6 Practice",
@@ -570,7 +570,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "45m Chemistry Lessons - Lesson 35",
-              "anchor": "term-1-week-6-lesson-lesson-35",
+              "anchor": "term-1-week-6-lesson-35",
               "links": [
                 {
                   "text": "Sample Lab Report",
@@ -588,7 +588,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 36",
               "title": "45m Chemistry Lessons - Lesson 36",
-              "anchor": "term-1-week-6-lesson-lesson-36",
+              "anchor": "term-1-week-6-lesson-36",
               "links": [
                 {
                   "text": "Use Passive Voice",
@@ -612,7 +612,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 38",
               "title": "45m Chemistry Lessons - Lesson 38",
-              "anchor": "term-1-week-7-lesson-lesson-38",
+              "anchor": "term-1-week-7-lesson-38",
               "links": [
                 {
                   "text": "Precipitation Reactions",
@@ -630,7 +630,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "45m Chemistry Lessons - Lesson 39",
-              "anchor": "term-1-week-7-lesson-lesson-39",
+              "anchor": "term-1-week-7-lesson-39",
               "links": [
                 {
                   "text": "Acid-Base Reactions (Reactions Producing Liquid Water)",
@@ -648,7 +648,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 40",
               "title": "45m Chemistry Lessons - Lesson 40",
-              "anchor": "term-1-week-7-lesson-lesson-40",
+              "anchor": "term-1-week-7-lesson-40",
               "links": [
                 {
                   "text": "Redox Reactions (Reactions Transferring Electrons)",
@@ -666,7 +666,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "45m Chemistry Lessons - Lesson 41",
-              "anchor": "term-1-week-7-lesson-lesson-41",
+              "anchor": "term-1-week-7-lesson-41",
               "links": [
                 {
                   "text": "Microscale Reactions Lab",
@@ -694,7 +694,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 44",
               "title": "45m Chemistry Lessons - Lesson 44",
-              "anchor": "term-1-week-8-lesson-lesson-44",
+              "anchor": "term-1-week-8-lesson-44",
               "links": [
                 {
                   "text": "Chapter 7 Practice",
@@ -712,7 +712,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 46",
               "title": "45m Chemistry Lessons - Lesson 46",
-              "anchor": "term-1-week-8-lesson-lesson-46",
+              "anchor": "term-1-week-8-lesson-46",
               "links": [
                 {
                   "text": "Atomic Mass Units",
@@ -730,7 +730,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 47",
               "title": "45m Chemistry Lessons - Lesson 47",
-              "anchor": "term-1-week-8-lesson-lesson-47",
+              "anchor": "term-1-week-8-lesson-47",
               "links": [
                 {
                   "text": "The Mole",
@@ -752,7 +752,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 48",
               "title": "45m Chemistry Lessons - Lesson 48",
-              "anchor": "term-1-week-8-lesson-lesson-48",
+              "anchor": "term-1-week-8-lesson-48",
               "links": [
                 {
                   "text": "Counting by Weighing Lab",
@@ -780,7 +780,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "45m Chemistry Lessons - Lesson 49",
-              "anchor": "term-1-week-9-lesson-lesson-49",
+              "anchor": "term-1-week-9-lesson-49",
               "links": [
                 {
                   "text": "Molar Mass and Percent Composition",
@@ -798,7 +798,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 50",
               "title": "45m Chemistry Lessons - Lesson 50",
-              "anchor": "term-1-week-9-lesson-lesson-50",
+              "anchor": "term-1-week-9-lesson-50",
               "links": [
                 {
                   "text": "Empirical and Molecular Formulae",
@@ -816,7 +816,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 51",
               "title": "45m Chemistry Lessons - Lesson 51",
-              "anchor": "term-1-week-9-lesson-lesson-51",
+              "anchor": "term-1-week-9-lesson-51",
               "links": [
                 {
                   "text": "Chapter 8 Practice",
@@ -834,7 +834,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 53",
               "title": "45m Chemistry Lessons - Lesson 53",
-              "anchor": "term-1-week-9-lesson-lesson-53",
+              "anchor": "term-1-week-9-lesson-53",
               "links": [
                 {
                   "text": "Stoichiometry Part 1",
@@ -852,7 +852,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 54",
               "title": "45m Chemistry Lessons - Lesson 54",
-              "anchor": "term-1-week-9-lesson-lesson-54",
+              "anchor": "term-1-week-9-lesson-54",
               "links": [
                 {
                   "text": "Stoichiometry Part 2",
@@ -876,7 +876,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "45m Chemistry Lessons - Lesson 55",
-              "anchor": "term-1-week-10-lesson-lesson-55",
+              "anchor": "term-1-week-10-lesson-55",
               "links": [
                 {
                   "text": "Limiting Reagents",
@@ -894,7 +894,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 56",
               "title": "45m Chemistry Lessons - Lesson 56",
-              "anchor": "term-1-week-10-lesson-lesson-56",
+              "anchor": "term-1-week-10-lesson-56",
               "links": [
                 {
                   "text": "Percent Yield",
@@ -916,7 +916,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "45m Chemistry Lessons - Lesson 58",
-              "anchor": "term-1-week-10-lesson-lesson-58",
+              "anchor": "term-1-week-10-lesson-58",
               "links": [
                 {
                   "text": "Science News for Students",
@@ -942,7 +942,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "45m Chemistry Lessons - Lesson 59",
-              "anchor": "term-1-week-10-lesson-lesson-59",
+              "anchor": "term-1-week-10-lesson-59",
               "links": [
                 {
                   "text": "Limiting Reagents Lab",
@@ -976,7 +976,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 73",
               "title": "45m Chemistry Lessons - Lesson 73",
-              "anchor": "term-2-week-13-lesson-lesson-73",
+              "anchor": "term-2-week-13-lesson-73",
               "links": [
                 {
                   "text": "Energy and Heat",
@@ -994,7 +994,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 74",
               "title": "45m Chemistry Lessons - Lesson 74",
-              "anchor": "term-2-week-13-lesson-lesson-74",
+              "anchor": "term-2-week-13-lesson-74",
               "links": [
                 {
                   "text": "Thermodynamics",
@@ -1012,7 +1012,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 75",
               "title": "45m Chemistry Lessons - Lesson 75",
-              "anchor": "term-2-week-13-lesson-lesson-75",
+              "anchor": "term-2-week-13-lesson-75",
               "links": [
                 {
                   "text": "Enthalpy",
@@ -1030,7 +1030,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 77",
               "title": "45m Chemistry Lessons - Lesson 77",
-              "anchor": "term-2-week-13-lesson-lesson-77",
+              "anchor": "term-2-week-13-lesson-77",
               "links": [
                 {
                   "text": "Enthalpy Lab",
@@ -1058,7 +1058,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 79",
               "title": "45m Chemistry Lessons - Lesson 79",
-              "anchor": "term-2-week-14-lesson-lesson-79",
+              "anchor": "term-2-week-14-lesson-79",
               "links": [
                 {
                   "text": "Energy and Us",
@@ -1076,7 +1076,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 80",
               "title": "45m Chemistry Lessons - Lesson 80",
-              "anchor": "term-2-week-14-lesson-lesson-80",
+              "anchor": "term-2-week-14-lesson-80",
               "links": [
                 {
                   "text": "Entropy",
@@ -1098,7 +1098,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 82",
               "title": "45m Chemistry Lessons - Lesson 82",
-              "anchor": "term-2-week-14-lesson-lesson-82",
+              "anchor": "term-2-week-14-lesson-82",
               "links": [
                 {
                   "text": "Energy Current Event",
@@ -1122,7 +1122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 86",
               "title": "45m Chemistry Lessons - Lesson 86",
-              "anchor": "term-2-week-15-lesson-lesson-86",
+              "anchor": "term-2-week-15-lesson-86",
               "links": [
                 {
                   "text": "Light Energy",
@@ -1140,7 +1140,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 87",
               "title": "45m Chemistry Lessons - Lesson 87",
-              "anchor": "term-2-week-15-lesson-lesson-87",
+              "anchor": "term-2-week-15-lesson-87",
               "links": [
                 {
                   "text": "Updating the Atom (best with full screen)",
@@ -1162,7 +1162,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 88",
               "title": "45m Chemistry Lessons - Lesson 88",
-              "anchor": "term-2-week-15-lesson-lesson-88",
+              "anchor": "term-2-week-15-lesson-88",
               "links": [
                 {
                   "text": "Electron Configuration (best with full screen)",
@@ -1180,7 +1180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 89",
               "title": "45m Chemistry Lessons - Lesson 89",
-              "anchor": "term-2-week-15-lesson-lesson-89",
+              "anchor": "term-2-week-15-lesson-89",
               "links": [
                 {
                   "text": "Electron Configuration Continued",
@@ -1198,7 +1198,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 90",
               "title": "45m Chemistry Lessons - Lesson 90",
-              "anchor": "term-2-week-15-lesson-lesson-90",
+              "anchor": "term-2-week-15-lesson-90",
               "links": [
                 {
                   "text": "Electron Configuration Lab",
@@ -1226,7 +1226,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 91",
               "title": "45m Chemistry Lessons - Lesson 91",
-              "anchor": "term-2-week-16-lesson-lesson-91",
+              "anchor": "term-2-week-16-lesson-91",
               "links": [
                 {
                   "text": "Periodic Trends",
@@ -1244,7 +1244,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 92",
               "title": "45m Chemistry Lessons - Lesson 92",
-              "anchor": "term-2-week-16-lesson-lesson-92",
+              "anchor": "term-2-week-16-lesson-92",
               "links": [
                 {
                   "text": "Chapter 11 Practice",
@@ -1262,7 +1262,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 94",
               "title": "45m Chemistry Lessons - Lesson 94",
-              "anchor": "term-2-week-16-lesson-lesson-94",
+              "anchor": "term-2-week-16-lesson-94",
               "links": [
                 {
                   "text": "Chemical Bonding",
@@ -1280,7 +1280,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 95",
               "title": "45m Chemistry Lessons - Lesson 95",
-              "anchor": "term-2-week-16-lesson-lesson-95",
+              "anchor": "term-2-week-16-lesson-95",
               "links": [
                 {
                   "text": "Understanding Ionic Solids",
@@ -1304,7 +1304,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 97",
               "title": "45m Chemistry Lessons - Lesson 97",
-              "anchor": "term-2-week-17-lesson-lesson-97",
+              "anchor": "term-2-week-17-lesson-97",
               "links": [
                 {
                   "text": "Lewis Structures",
@@ -1322,7 +1322,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 98",
               "title": "45m Chemistry Lessons - Lesson 98",
-              "anchor": "term-2-week-17-lesson-lesson-98",
+              "anchor": "term-2-week-17-lesson-98",
               "links": [
                 {
                   "text": "Lewis Structures Continued",
@@ -1340,7 +1340,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 99",
               "title": "45m Chemistry Lessons - Lesson 99",
-              "anchor": "term-2-week-17-lesson-lesson-99",
+              "anchor": "term-2-week-17-lesson-99",
               "links": [
                 {
                   "text": "Understanding Covalent Structures",
@@ -1358,7 +1358,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 100",
               "title": "45m Chemistry Lessons - Lesson 100",
-              "anchor": "term-2-week-17-lesson-lesson-100",
+              "anchor": "term-2-week-17-lesson-100",
               "links": [
                 {
                   "text": "VSEPR Bonus",
@@ -1386,7 +1386,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 103",
               "title": "45m Chemistry Lessons - Lesson 103",
-              "anchor": "term-2-week-18-lesson-lesson-103",
+              "anchor": "term-2-week-18-lesson-103",
               "links": [
                 {
                   "text": "Boyle's Law",
@@ -1404,7 +1404,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 104",
               "title": "45m Chemistry Lessons - Lesson 104",
-              "anchor": "term-2-week-18-lesson-lesson-104",
+              "anchor": "term-2-week-18-lesson-104",
               "links": [
                 {
                   "text": "Charles' Law",
@@ -1422,7 +1422,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 105",
               "title": "45m Chemistry Lessons - Lesson 105",
-              "anchor": "term-2-week-18-lesson-lesson-105",
+              "anchor": "term-2-week-18-lesson-105",
               "links": [
                 {
                   "text": "Avogadro's Law",
@@ -1440,7 +1440,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 106",
               "title": "45m Chemistry Lessons - Lesson 106",
-              "anchor": "term-2-week-18-lesson-lesson-106",
+              "anchor": "term-2-week-18-lesson-106",
               "links": [
                 {
                   "text": "Ideal Gas Law",
@@ -1458,7 +1458,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 107",
               "title": "45m Chemistry Lessons - Lesson 107",
-              "anchor": "term-2-week-18-lesson-lesson-107",
+              "anchor": "term-2-week-18-lesson-107",
               "links": [
                 {
                   "text": "Peroxide Lab",
@@ -1486,7 +1486,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 109",
               "title": "45m Chemistry Lessons - Lesson 109",
-              "anchor": "term-2-week-19-lesson-lesson-109",
+              "anchor": "term-2-week-19-lesson-109",
               "links": [
                 {
                   "text": "Dalton's Law of Partial Pressures",
@@ -1504,7 +1504,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 110",
               "title": "45m Chemistry Lessons - Lesson 110",
-              "anchor": "term-2-week-19-lesson-lesson-110",
+              "anchor": "term-2-week-19-lesson-110",
               "links": [
                 {
                   "text": "Kinetic Theory",
@@ -1522,7 +1522,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 111",
               "title": "45m Chemistry Lessons - Lesson 111",
-              "anchor": "term-2-week-19-lesson-lesson-111",
+              "anchor": "term-2-week-19-lesson-111",
               "links": [
                 {
                   "text": "Chapter 13 Practice",
@@ -1546,7 +1546,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 115",
               "title": "45m Chemistry Lessons - Lesson 115",
-              "anchor": "term-2-week-20-lesson-lesson-115",
+              "anchor": "term-2-week-20-lesson-115",
               "links": [
                 {
                   "text": "Heats of Fusion and Vaporization",
@@ -1564,7 +1564,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 116",
               "title": "45m Chemistry Lessons - Lesson 116",
-              "anchor": "term-2-week-20-lesson-lesson-116",
+              "anchor": "term-2-week-20-lesson-116",
               "links": [
                 {
                   "text": "London Dispersion and Vapor Pressure",
@@ -1582,7 +1582,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 117",
               "title": "45m Chemistry Lessons - Lesson 117",
-              "anchor": "term-2-week-20-lesson-lesson-117",
+              "anchor": "term-2-week-20-lesson-117",
               "links": [
                 {
                   "text": "Crystalline Solids",
@@ -1600,7 +1600,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 118",
               "title": "45m Chemistry Lessons - Lesson 118",
-              "anchor": "term-2-week-20-lesson-lesson-118",
+              "anchor": "term-2-week-20-lesson-118",
               "links": [
                 {
                   "text": "Chapter 14 Practice",
@@ -1618,7 +1618,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 119",
               "title": "45m Chemistry Lessons - Lesson 119",
-              "anchor": "term-2-week-20-lesson-lesson-119",
+              "anchor": "term-2-week-20-lesson-119",
               "links": [
                 {
                   "text": "Chromatography Lab",
@@ -1646,7 +1646,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 121",
               "title": "45m Chemistry Lessons - Lesson 121",
-              "anchor": "term-2-week-21-lesson-lesson-121",
+              "anchor": "term-2-week-21-lesson-121",
               "links": [
                 {
                   "text": "Clean Water Hub",
@@ -1672,7 +1672,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 122",
               "title": "45m Chemistry Lessons - Lesson 122",
-              "anchor": "term-2-week-21-lesson-lesson-122",
+              "anchor": "term-2-week-21-lesson-122",
               "links": [
                 {
                   "text": "Solutions",
@@ -1690,7 +1690,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 123",
               "title": "45m Chemistry Lessons - Lesson 123",
-              "anchor": "term-2-week-21-lesson-lesson-123",
+              "anchor": "term-2-week-21-lesson-123",
               "links": [
                 {
                   "text": "Calculating Concentration",
@@ -1708,7 +1708,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 124",
               "title": "45m Chemistry Lessons - Lesson 124",
-              "anchor": "term-2-week-21-lesson-lesson-124",
+              "anchor": "term-2-week-21-lesson-124",
               "links": [
                 {
                   "text": "Making Dilutions",
@@ -1726,7 +1726,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 125",
               "title": "45m Chemistry Lessons - Lesson 125",
-              "anchor": "term-2-week-21-lesson-lesson-125",
+              "anchor": "term-2-week-21-lesson-125",
               "links": [
                 {
                   "text": "Colligative Properties Lab",
@@ -1754,7 +1754,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 127",
               "title": "45m Chemistry Lessons - Lesson 127",
-              "anchor": "term-2-week-22-lesson-lesson-127",
+              "anchor": "term-2-week-22-lesson-127",
               "links": [
                 {
                   "text": "Solution Stoichiometry",
@@ -1772,7 +1772,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 128",
               "title": "45m Chemistry Lessons - Lesson 128",
-              "anchor": "term-2-week-22-lesson-lesson-128",
+              "anchor": "term-2-week-22-lesson-128",
               "links": [
                 {
                   "text": "Stoichiometry & Normality",
@@ -1790,7 +1790,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 129",
               "title": "45m Chemistry Lessons - Lesson 129",
-              "anchor": "term-2-week-22-lesson-lesson-129",
+              "anchor": "term-2-week-22-lesson-129",
               "links": [
                 {
                   "text": "Chapter 15 Practice",
@@ -1808,7 +1808,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 131",
               "title": "45m Chemistry Lessons - Lesson 131",
-              "anchor": "term-2-week-22-lesson-lesson-131",
+              "anchor": "term-2-week-22-lesson-131",
               "links": [
                 {
                   "text": "Neutralization Lab",
@@ -1842,7 +1842,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 145",
               "title": "45m Chemistry Lessons - Lesson 145",
-              "anchor": "term-3-week-25-lesson-lesson-145",
+              "anchor": "term-3-week-25-lesson-145",
               "links": [
                 {
                   "text": "Acids and Bases",
@@ -1860,7 +1860,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 146",
               "title": "45m Chemistry Lessons - Lesson 146",
-              "anchor": "term-3-week-25-lesson-lesson-146",
+              "anchor": "term-3-week-25-lesson-146",
               "links": [
                 {
                   "text": "The pH Scale",
@@ -1878,7 +1878,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 147",
               "title": "45m Chemistry Lessons - Lesson 147",
-              "anchor": "term-3-week-25-lesson-lesson-147",
+              "anchor": "term-3-week-25-lesson-147",
               "links": [
                 {
                   "text": "Math Break: Logarithms",
@@ -1900,7 +1900,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 148",
               "title": "45m Chemistry Lessons - Lesson 148",
-              "anchor": "term-3-week-25-lesson-lesson-148",
+              "anchor": "term-3-week-25-lesson-148",
               "links": [
                 {
                   "text": "Chapter 16 Practice",
@@ -1918,7 +1918,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 149",
               "title": "45m Chemistry Lessons - Lesson 149",
-              "anchor": "term-3-week-25-lesson-lesson-149",
+              "anchor": "term-3-week-25-lesson-149",
               "links": [
                 {
                   "text": "Lemon Juice Lab",
@@ -1940,7 +1940,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 150",
               "title": "45m Chemistry Lessons - Lesson 150",
-              "anchor": "term-3-week-25-lesson-lesson-150",
+              "anchor": "term-3-week-25-lesson-150",
               "links": [
                 {
                   "text": "Update noted in AW",
@@ -1972,7 +1972,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 152",
               "title": "45m Chemistry Lessons - Lesson 152",
-              "anchor": "term-3-week-26-lesson-lesson-152",
+              "anchor": "term-3-week-26-lesson-152",
               "links": [
                 {
                   "text": "Science News for Students",
@@ -2002,7 +2002,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 153",
               "title": "45m Chemistry Lessons - Lesson 153",
-              "anchor": "term-3-week-26-lesson-lesson-153",
+              "anchor": "term-3-week-26-lesson-153",
               "links": [
                 {
                   "text": "Chemical Equilibrium",
@@ -2020,7 +2020,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 154",
               "title": "45m Chemistry Lessons - Lesson 154",
-              "anchor": "term-3-week-26-lesson-lesson-154",
+              "anchor": "term-3-week-26-lesson-154",
               "links": [
                 {
                   "text": "The Equilibrium Constant",
@@ -2044,7 +2044,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 158",
               "title": "45m Chemistry Lessons - Lesson 158",
-              "anchor": "term-3-week-27-lesson-lesson-158",
+              "anchor": "term-3-week-27-lesson-158",
               "links": [
                 {
                   "text": "Le Châtelier’s Principle",
@@ -2062,7 +2062,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 159",
               "title": "45m Chemistry Lessons - Lesson 159",
-              "anchor": "term-3-week-27-lesson-lesson-159",
+              "anchor": "term-3-week-27-lesson-159",
               "links": [
                 {
                   "text": "Using K",
@@ -2080,7 +2080,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 160",
               "title": "45m Chemistry Lessons - Lesson 160",
-              "anchor": "term-3-week-27-lesson-lesson-160",
+              "anchor": "term-3-week-27-lesson-160",
               "links": [
                 {
                   "text": "Chapter 17 Practice",
@@ -2098,7 +2098,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 161",
               "title": "45m Chemistry Lessons - Lesson 161",
-              "anchor": "term-3-week-27-lesson-lesson-161",
+              "anchor": "term-3-week-27-lesson-161",
               "links": [
                 {
                   "text": "Kinetics Lab",
@@ -2126,7 +2126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 164",
               "title": "45m Chemistry Lessons - Lesson 164",
-              "anchor": "term-3-week-28-lesson-lesson-164",
+              "anchor": "term-3-week-28-lesson-164",
               "links": [
                 {
                   "text": "Reduction and Oxidation",
@@ -2144,7 +2144,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 165",
               "title": "45m Chemistry Lessons - Lesson 165",
-              "anchor": "term-3-week-28-lesson-lesson-165",
+              "anchor": "term-3-week-28-lesson-165",
               "links": [
                 {
                   "text": "Redox between Nonmetals",
@@ -2162,7 +2162,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 166",
               "title": "45m Chemistry Lessons - Lesson 166",
-              "anchor": "term-3-week-28-lesson-lesson-166",
+              "anchor": "term-3-week-28-lesson-166",
               "links": [
                 {
                   "text": "Balancing Redox Reactions",
@@ -2180,7 +2180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 167",
               "title": "45m Chemistry Lessons - Lesson 167",
-              "anchor": "term-3-week-28-lesson-lesson-167",
+              "anchor": "term-3-week-28-lesson-167",
               "links": [
                 {
                   "text": "Electrochemistry",
@@ -2204,7 +2204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 169",
               "title": "45m Chemistry Lessons - Lesson 169",
-              "anchor": "term-3-week-29-lesson-lesson-169",
+              "anchor": "term-3-week-29-lesson-169",
               "links": [
                 {
                   "text": "Chapter 18 Practice",
@@ -2222,7 +2222,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 171",
               "title": "45m Chemistry Lessons - Lesson 171",
-              "anchor": "term-3-week-29-lesson-lesson-171",
+              "anchor": "term-3-week-29-lesson-171",
               "links": [
                 {
                   "text": "Radioactivity",
@@ -2240,7 +2240,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 172",
               "title": "45m Chemistry Lessons - Lesson 172",
-              "anchor": "term-3-week-29-lesson-lesson-172",
+              "anchor": "term-3-week-29-lesson-172",
               "links": [
                 {
                   "text": "Half-Life",
@@ -2262,7 +2262,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 173",
               "title": "45m Chemistry Lessons - Lesson 173",
-              "anchor": "term-3-week-29-lesson-lesson-173",
+              "anchor": "term-3-week-29-lesson-173",
               "links": [
                 {
                   "text": "Electrolysis Lab",
@@ -2290,7 +2290,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 175",
               "title": "45m Chemistry Lessons - Lesson 175",
-              "anchor": "term-3-week-30-lesson-lesson-175",
+              "anchor": "term-3-week-30-lesson-175",
               "links": [
                 {
                   "text": "Science News for Students",
@@ -2316,7 +2316,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 176",
               "title": "45m Chemistry Lessons - Lesson 176",
-              "anchor": "term-3-week-30-lesson-lesson-176",
+              "anchor": "term-3-week-30-lesson-176",
               "links": [
                 {
                   "text": "Nuclear Energy",
@@ -2334,7 +2334,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 177",
               "title": "45m Chemistry Lessons - Lesson 177",
-              "anchor": "term-3-week-30-lesson-lesson-177",
+              "anchor": "term-3-week-30-lesson-177",
               "links": [
                 {
                   "text": "Chapter 19 Practice",
@@ -2352,7 +2352,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 180",
               "title": "45m Chemistry Lessons - Lesson 180",
-              "anchor": "term-3-week-30-lesson-lesson-180",
+              "anchor": "term-3-week-30-lesson-180",
               "links": [
                 {
                   "text": "Clean Water Hub",
@@ -2384,7 +2384,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 181",
               "title": "45m Chemistry Lessons - Lesson 181",
-              "anchor": "term-3-week-31-lesson-lesson-181",
+              "anchor": "term-3-week-31-lesson-181",
               "links": [
                 {
                   "text": "Alkanes",
@@ -2402,7 +2402,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 182",
               "title": "45m Chemistry Lessons - Lesson 182",
-              "anchor": "term-3-week-31-lesson-lesson-182",
+              "anchor": "term-3-week-31-lesson-182",
               "links": [
                 {
                   "text": "Branched Alkanes",
@@ -2420,7 +2420,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 183",
               "title": "45m Chemistry Lessons - Lesson 183",
-              "anchor": "term-3-week-31-lesson-lesson-183",
+              "anchor": "term-3-week-31-lesson-183",
               "links": [
                 {
                   "text": "Alkenes and Alkynes",
@@ -2438,7 +2438,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 184",
               "title": "45m Chemistry Lessons - Lesson 184",
-              "anchor": "term-3-week-31-lesson-lesson-184",
+              "anchor": "term-3-week-31-lesson-184",
               "links": [
                 {
                   "text": "Rings",
@@ -2456,7 +2456,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 185",
               "title": "45m Chemistry Lessons - Lesson 185",
-              "anchor": "term-3-week-31-lesson-lesson-185",
+              "anchor": "term-3-week-31-lesson-185",
               "links": [
                 {
                   "text": "Functional Groups Part 1",
@@ -2474,7 +2474,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 186",
               "title": "45m Chemistry Lessons - Lesson 186",
-              "anchor": "term-3-week-31-lesson-lesson-186",
+              "anchor": "term-3-week-31-lesson-186",
               "links": [
                 {
                   "text": "Soap Lab",
@@ -2502,7 +2502,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 187",
               "title": "45m Chemistry Lessons - Lesson 187",
-              "anchor": "term-3-week-32-lesson-lesson-187",
+              "anchor": "term-3-week-32-lesson-187",
               "links": [
                 {
                   "text": "Functional Groups Part 2",
@@ -2520,7 +2520,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 188",
               "title": "45m Chemistry Lessons - Lesson 188",
-              "anchor": "term-3-week-32-lesson-lesson-188",
+              "anchor": "term-3-week-32-lesson-188",
               "links": [
                 {
                   "text": "Functional Groups Part 3",
@@ -2544,7 +2544,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 197",
               "title": "45m Chemistry Lessons - Lesson 197",
-              "anchor": "term-3-week-33-lesson-lesson-197",
+              "anchor": "term-3-week-33-lesson-197",
               "links": [
                 {
                   "text": "Protein Structure",
@@ -2562,7 +2562,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 198",
               "title": "45m Chemistry Lessons - Lesson 198",
-              "anchor": "term-3-week-33-lesson-lesson-198",
+              "anchor": "term-3-week-33-lesson-198",
               "links": [
                 {
                   "text": "Silly Putty Lab",
@@ -2590,7 +2590,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 199",
               "title": "45m Chemistry Lessons - Lesson 199",
-              "anchor": "term-3-week-34-lesson-lesson-199",
+              "anchor": "term-3-week-34-lesson-199",
               "links": [
                 {
                   "text": "Protein Function",
@@ -2612,7 +2612,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 200",
               "title": "45m Chemistry Lessons - Lesson 200",
-              "anchor": "term-3-week-34-lesson-lesson-200",
+              "anchor": "term-3-week-34-lesson-200",
               "links": [
                 {
                   "text": "Carbohydrates",
@@ -2630,7 +2630,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 201",
               "title": "45m Chemistry Lessons - Lesson 201",
-              "anchor": "term-3-week-34-lesson-lesson-201",
+              "anchor": "term-3-week-34-lesson-201",
               "links": [
                 {
                   "text": "Nucleic Acids",
@@ -2648,7 +2648,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 202",
               "title": "45m Chemistry Lessons - Lesson 202",
-              "anchor": "term-3-week-34-lesson-lesson-202",
+              "anchor": "term-3-week-34-lesson-202",
               "links": [
                 {
                   "text": "Dessert Caviar Lab",
@@ -2670,7 +2670,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 203",
               "title": "45m Chemistry Lessons - Lesson 203",
-              "anchor": "term-3-week-34-lesson-lesson-203",
+              "anchor": "term-3-week-34-lesson-203",
               "links": [
                 {
                   "text": "Lipids",
@@ -2694,7 +2694,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 205",
               "title": "45m Chemistry Lessons - Lesson 205",
-              "anchor": "term-3-week-35-lesson-lesson-205",
+              "anchor": "term-3-week-35-lesson-205",
               "links": [
                 {
                   "text": "Clean Water Hub",

@@ -12,7 +12,7 @@
     "Science: Introduction to Engineering"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.375Z",
+  "updatedAt": "2026-05-08T23:43:02.635Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "45m Introduction to Engineering Lessons - Lesson 5",
-              "anchor": "term-1-week-1-lesson-lesson-5",
+              "anchor": "term-1-week-1-lesson-5",
               "links": [
                 {
                   "text": "TEDEd",
@@ -60,7 +60,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "45m Introduction to Engineering Lessons - Lesson 16",
-              "anchor": "term-1-week-4-lesson-lesson-16",
+              "anchor": "term-1-week-4-lesson-16",
               "links": [
                 {
                   "text": "The Story of Radia Pearlman's Spanning Tree",
@@ -90,7 +90,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 84",
               "title": "45m Introduction to Engineering Lessons - Lesson 84",
-              "anchor": "term-2-week-17-lesson-lesson-84",
+              "anchor": "term-2-week-17-lesson-84",
               "links": [
                 {
                   "text": "Nature as Measure Part 1",
@@ -118,7 +118,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 89",
               "title": "45m Introduction to Engineering Lessons - Lesson 89",
-              "anchor": "term-2-week-18-lesson-lesson-89",
+              "anchor": "term-2-week-18-lesson-89",
               "links": [
                 {
                   "text": "Nature as Measure Part 3",
@@ -146,7 +146,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 94",
               "title": "45m Introduction to Engineering Lessons - Lesson 94",
-              "anchor": "term-2-week-19-lesson-lesson-94",
+              "anchor": "term-2-week-19-lesson-94",
               "links": [
                 {
                   "text": "Using Nature's Genius in Architecture",

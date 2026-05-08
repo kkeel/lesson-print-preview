@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.146Z",
+  "updatedAt": "2026-05-08T23:43:02.406Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "40m Geography: Grade 10-11 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Blank Map",
@@ -60,7 +60,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "40m Geography: Grade 10-11 - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Carving the Canoe",
@@ -84,7 +84,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "40m Geography: Grade 10-11 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Canadian Geography (10th)",
@@ -114,7 +114,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "40m Geography: Grade 10-11 - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "Original manuscript of the book",

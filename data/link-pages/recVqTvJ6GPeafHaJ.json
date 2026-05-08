@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:02.980Z",
+  "updatedAt": "2026-05-08T23:43:02.221Z",
   "terms": [
     {
       "termNumber": 2,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Architecture: Grades 9-12 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "What is Sashiko",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "30m Architecture: Grades 9-12 - Lesson 18",
-              "anchor": "term-2-week-18-lesson-lesson-18",
+              "anchor": "term-2-week-18-lesson-18",
               "links": [
                 {
                   "text": "Redwork Embroidery",

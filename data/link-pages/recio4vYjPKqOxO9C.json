@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.128Z",
+  "updatedAt": "2026-05-08T23:43:02.387Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "15m Geography: Grade 1 - Lesson 6",
-              "anchor": "term-1-week-3-lesson-lesson-6",
+              "anchor": "term-1-week-3-lesson-6",
               "links": [
                 {
                   "text": "Room Model",
@@ -58,7 +58,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "15m Geography: Grade 1 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "Hide and Seek Room Model",
@@ -82,7 +82,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "15m Geography: Grade 1 - Lesson 10",
-              "anchor": "term-1-week-5-lesson-lesson-10",
+              "anchor": "term-1-week-5-lesson-10",
               "links": [
                 {
                   "text": "Map from Room Model",
@@ -106,7 +106,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "15m Geography: Grade 1 - Lesson 11",
-              "anchor": "term-1-week-6-lesson-lesson-11",
+              "anchor": "term-1-week-6-lesson-11",
               "links": [
                 {
                   "text": "Room Map Hide and Seek",
@@ -124,7 +124,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "15m Geography: Grade 1 - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "Street Model",
@@ -148,7 +148,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Geography: Grade 1 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "Street Model Hide and Seek",
@@ -166,7 +166,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "15m Geography: Grade 1 - Lesson 14",
-              "anchor": "term-1-week-7-lesson-lesson-14",
+              "anchor": "term-1-week-7-lesson-14",
               "links": [
                 {
                   "text": "Map from Street Model",
@@ -190,7 +190,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "15m Geography: Grade 1 - Lesson 16",
-              "anchor": "term-1-week-8-lesson-lesson-16",
+              "anchor": "term-1-week-8-lesson-16",
               "links": [
                 {
                   "text": "Sunrise and Sunset on Street Map",
@@ -220,7 +220,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "15m Geography: Grade 1 - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "Eight Planets Orbiting the Sun",
@@ -238,7 +238,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 36",
               "title": "15m Geography: Grade 1 - Lesson 36",
-              "anchor": "term-2-week-18-lesson-lesson-36",
+              "anchor": "term-2-week-18-lesson-36",
               "links": [
                 {
                   "text": "Pictorial and Panoramic",
@@ -268,7 +268,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "15m Geography: Grade 1 - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Fairy-land of Science",

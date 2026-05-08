@@ -12,7 +12,7 @@
     "Science: Grade 4"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.330Z",
+  "updatedAt": "2026-05-08T23:43:02.586Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "15m Natural History: Grade 4 - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Amoeba",
@@ -56,7 +56,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "15m Natural History: Grade 4 - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Paramecium",
@@ -80,7 +80,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "15m Natural History: Grade 4 - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Rotifers Under the Microscope",
@@ -104,7 +104,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "15m Natural History: Grade 4 - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Hydra of Greek Mythology",
@@ -132,7 +132,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "15m Natural History: Grade 4 - Lesson 10",
-              "anchor": "term-1-week-10-lesson-lesson-10",
+              "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
                   "text": "Missouri Department of Conservation: Planaria",
@@ -162,7 +162,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Natural History: Grade 4 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Aquarium of the Pacific: Day Octopus",
@@ -190,7 +190,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "15m Natural History: Grade 4 - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "National Geographic: Butterfly Fish",
@@ -218,7 +218,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "15m Natural History: Grade 4 - Lesson 20",
-              "anchor": "term-2-week-20-lesson-lesson-20",
+              "anchor": "term-2-week-20-lesson-20",
               "links": [
                 {
                   "text": "YouTube: Octopus Camouflage",
@@ -242,7 +242,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "15m Natural History: Grade 4 - Lesson 21",
-              "anchor": "term-2-week-21-lesson-lesson-21",
+              "anchor": "term-2-week-21-lesson-21",
               "links": [
                 {
                   "text": "Malta National Aquarium: Picasso Triggerfish",
@@ -272,7 +272,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "15m Natural History: Grade 4 - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "What is a Volcano?",
@@ -296,7 +296,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "15m Natural History: Grade 4 - Lesson 26",
-              "anchor": "term-3-week-26-lesson-lesson-26",
+              "anchor": "term-3-week-26-lesson-26",
               "links": [
                 {
                   "text": "Submarine Volcanoes",
@@ -320,7 +320,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "15m Natural History: Grade 4 - Lesson 28",
-              "anchor": "term-3-week-28-lesson-lesson-28",
+              "anchor": "term-3-week-28-lesson-28",
               "links": [
                 {
                   "text": "Carl Linnaeus's Systema Naturae",
@@ -344,7 +344,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "15m Natural History: Grade 4 - Lesson 31",
-              "anchor": "term-3-week-31-lesson-lesson-31",
+              "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
                   "text": "Simple Way to Tell Insects Apart",
@@ -368,7 +368,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "15m Natural History: Grade 4 - Lesson 34",
-              "anchor": "term-3-week-34-lesson-lesson-34",
+              "anchor": "term-3-week-34-lesson-34",
               "links": [
                 {
                   "text": "The Lava Affair",

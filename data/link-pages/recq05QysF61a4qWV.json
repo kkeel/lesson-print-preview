@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:02.997Z",
+  "updatedAt": "2026-05-08T23:43:02.253Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "45m Art: Level 8 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Color Wheel",
@@ -52,7 +52,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "45m Art: Level 8 - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Example of Expanded Color Wheel",
@@ -76,7 +76,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "45m Art: Level 8 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Contrasting Colors L8 L3",
@@ -94,7 +94,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Art: Level 8 - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "Contrasting Colors with Watercolor L8 L4",
@@ -118,7 +118,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "45m Art: Level 8 - Lesson 6",
-              "anchor": "term-1-week-3-lesson-lesson-6",
+              "anchor": "term-1-week-3-lesson-6",
               "links": [
                 {
                   "text": "Setting Up Your Color Chart L8 L6",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "45m Art: Level 8 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "Color Charting L8 L6",
@@ -168,7 +168,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "45m Art: Level 8 - Lesson 8",
-              "anchor": "term-1-week-4-lesson-lesson-8",
+              "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
                   "text": "Color Charting L8 L6",
@@ -192,7 +192,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "45m Art: Level 8 - Lesson 9",
-              "anchor": "term-1-week-5-lesson-lesson-9",
+              "anchor": "term-1-week-5-lesson-9",
               "links": [
                 {
                   "text": "Color Charting L8 L6",
@@ -210,7 +210,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "45m Art: Level 8 - Lesson 10",
-              "anchor": "term-1-week-5-lesson-lesson-10",
+              "anchor": "term-1-week-5-lesson-10",
               "links": [
                 {
                   "text": "Color Charting L8 L6",
@@ -234,7 +234,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "45m Art: Level 8 - Lesson 11",
-              "anchor": "term-1-week-6-lesson-lesson-11",
+              "anchor": "term-1-week-6-lesson-11",
               "links": [
                 {
                   "text": "Split-Complements L8 L11",
@@ -258,7 +258,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "45m Art: Level 8 - Lesson 14",
-              "anchor": "term-1-week-7-lesson-lesson-14",
+              "anchor": "term-1-week-7-lesson-14",
               "links": [
                 {
                   "text": "Analogous Colored Flowers in a Vase",
@@ -286,7 +286,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "45m Art: Level 8 - Lesson 16",
-              "anchor": "term-1-week-8-lesson-lesson-16",
+              "anchor": "term-1-week-8-lesson-16",
               "links": [
                 {
                   "text": "Analogous Color/Painting with a Limited Color Palette",
@@ -316,7 +316,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "45m Art: Level 8 - Lesson 25",
-              "anchor": "term-2-week-13-lesson-lesson-25",
+              "anchor": "term-2-week-13-lesson-25",
               "links": [
                 {
                   "text": "Hatching with Charcoal L8 L25",
@@ -334,7 +334,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "45m Art: Level 8 - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "Hatching in Pencil L8 L26",
@@ -358,7 +358,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "45m Art: Level 8 - Lesson 27",
-              "anchor": "term-2-week-14-lesson-lesson-27",
+              "anchor": "term-2-week-14-lesson-27",
               "links": [
                 {
                   "text": "Hatching in Pastel L8 L27",
@@ -376,7 +376,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "45m Art: Level 8 - Lesson 28",
-              "anchor": "term-2-week-14-lesson-lesson-28",
+              "anchor": "term-2-week-14-lesson-28",
               "links": [
                 {
                   "text": "Cross-Hatching in Charcoal L8 L28",
@@ -400,7 +400,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "45m Art: Level 8 - Lesson 29",
-              "anchor": "term-2-week-15-lesson-lesson-29",
+              "anchor": "term-2-week-15-lesson-29",
               "links": [
                 {
                   "text": "Cross-Hatching in Pencil L8 L29",
@@ -418,7 +418,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "45m Art: Level 8 - Lesson 30",
-              "anchor": "term-2-week-15-lesson-lesson-30",
+              "anchor": "term-2-week-15-lesson-30",
               "links": [
                 {
                   "text": "Cross-Hatching in Pastel L8 L30",
@@ -442,7 +442,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "45m Art: Level 8 - Lesson 31",
-              "anchor": "term-2-week-16-lesson-lesson-31",
+              "anchor": "term-2-week-16-lesson-31",
               "links": [
                 {
                   "text": "Stippling in Pencil L8 L31",
@@ -466,7 +466,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "45m Art: Level 8 - Lesson 34",
-              "anchor": "term-2-week-17-lesson-lesson-34",
+              "anchor": "term-2-week-17-lesson-34",
               "links": [
                 {
                   "text": "Stippling in Watercolor L8 L34",
@@ -490,7 +490,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "45m Art: Level 8 - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "Stippled Bird in Watercolor",
@@ -514,7 +514,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "45m Art: Level 8 - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "A Sunday Afternoon on the Island of La Grande Jatte",
@@ -536,7 +536,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 38",
               "title": "45m Art: Level 8 - Lesson 38",
-              "anchor": "term-2-week-19-lesson-lesson-38",
+              "anchor": "term-2-week-19-lesson-38",
               "links": [
                 {
                   "text": "A Sunday Afternoon on the Island of La Grande Jatte",
@@ -566,7 +566,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "45m Art: Level 8 - Lesson 49",
-              "anchor": "term-3-week-25-lesson-lesson-49",
+              "anchor": "term-3-week-25-lesson-49",
               "links": [
                 {
                   "text": "Watercolor Techniques L6 L17 & L8 L49",
@@ -584,7 +584,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 50",
               "title": "45m Art: Level 8 - Lesson 50",
-              "anchor": "term-3-week-25-lesson-lesson-50",
+              "anchor": "term-3-week-25-lesson-50",
               "links": [
                 {
                   "text": "Watercolor Techniques L6 L17 & L8 L49",
@@ -608,7 +608,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 51",
               "title": "45m Art: Level 8 - Lesson 51",
-              "anchor": "term-3-week-26-lesson-lesson-51",
+              "anchor": "term-3-week-26-lesson-51",
               "links": [
                 {
                   "text": "Watercolor Techniques L6 L17 & L8 L49",
@@ -632,7 +632,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "45m Art: Level 8 - Lesson 55",
-              "anchor": "term-3-week-28-lesson-lesson-55",
+              "anchor": "term-3-week-28-lesson-55",
               "links": [
                 {
                   "text": "Netherlandish Proverbs",
@@ -660,7 +660,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 61",
               "title": "45m Art: Level 8 - Lesson 61",
-              "anchor": "term-3-week-31-lesson-lesson-61",
+              "anchor": "term-3-week-31-lesson-61",
               "links": [
                 {
                   "text": "Netherlandish Proverbs",
@@ -688,7 +688,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 67",
               "title": "45m Art: Level 8 - Lesson 67",
-              "anchor": "term-3-week-34-lesson-lesson-67",
+              "anchor": "term-3-week-34-lesson-67",
               "links": [
                 {
                   "text": "How to Paint Light in Watercolor",

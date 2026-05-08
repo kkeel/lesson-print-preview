@@ -12,7 +12,7 @@
     "Science: Introduction to Engineering"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.376Z",
+  "updatedAt": "2026-05-08T23:43:02.636Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "60m Introduction to Engineering Labs - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "The Leaning Tower of Pasta",
@@ -60,7 +60,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "60m Introduction to Engineering Labs - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Pounding Papyrus",
@@ -94,7 +94,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "60m Introduction to Engineering Labs - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Choosing the Best Gear Ratio for Maximum Bike Speed",
@@ -122,7 +122,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "60m Introduction to Engineering Labs - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Make Your Own Low-Power AM Radio Transmitter",
@@ -156,7 +156,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "60m Introduction to Engineering Labs - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Living Loom",
@@ -188,7 +188,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "60m Introduction to Engineering Labs - Lesson 30",
-              "anchor": "term-3-week-30-lesson-lesson-30",
+              "anchor": "term-3-week-30-lesson-30",
               "links": [
                 {
                   "text": "Design Your Own Sports Drink",

@@ -12,7 +12,7 @@
     "Science: Microbiology"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.398Z",
+  "updatedAt": "2026-05-08T23:43:02.659Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "45m Microbiology Lessons - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Talk by Betsey Dexter Dyer",
@@ -50,7 +50,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Microbiology Lessons - Lesson 4",
-              "anchor": "term-1-week-1-lesson-lesson-4",
+              "anchor": "term-1-week-1-lesson-4",
               "links": [
                 {
                   "text": "Seven Wonders",
@@ -74,7 +74,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "45m Microbiology Lessons - Lesson 18",
-              "anchor": "term-1-week-4-lesson-lesson-18",
+              "anchor": "term-1-week-4-lesson-18",
               "links": [
                 {
                   "text": "How to Identify Microbes",
@@ -104,7 +104,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 63",
               "title": "45m Microbiology Lessons - Lesson 63",
-              "anchor": "term-2-week-13-lesson-lesson-63",
+              "anchor": "term-2-week-13-lesson-63",
               "links": [
                 {
                   "text": "Wonders of the Microbial World",
@@ -128,7 +128,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 83",
               "title": "45m Microbiology Lessons - Lesson 83",
-              "anchor": "term-2-week-17-lesson-lesson-83",
+              "anchor": "term-2-week-17-lesson-83",
               "links": [
                 {
                   "text": "Journey to the Microcosmos",
@@ -152,7 +152,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 103",
               "title": "45m Microbiology Lessons - Lesson 103",
-              "anchor": "term-2-week-21-lesson-lesson-103",
+              "anchor": "term-2-week-21-lesson-103",
               "links": [
                 {
                   "text": "Journey to the Microcosmos",
@@ -182,7 +182,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 123",
               "title": "45m Microbiology Lessons - Lesson 123",
-              "anchor": "term-3-week-25-lesson-lesson-123",
+              "anchor": "term-3-week-25-lesson-123",
               "links": [
                 {
                   "text": "Journey to the Microcosmos",
@@ -206,7 +206,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 143",
               "title": "45m Microbiology Lessons - Lesson 143",
-              "anchor": "term-3-week-29-lesson-lesson-143",
+              "anchor": "term-3-week-29-lesson-143",
               "links": [
                 {
                   "text": "Journey to the Microcosmos",
@@ -230,7 +230,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 163",
               "title": "45m Microbiology Lessons - Lesson 163",
-              "anchor": "term-3-week-33-lesson-lesson-163",
+              "anchor": "term-3-week-33-lesson-163",
               "links": [
                 {
                   "text": "Journey to the Microcosmos",

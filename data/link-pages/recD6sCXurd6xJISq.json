@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:02.996Z",
+  "updatedAt": "2026-05-08T23:43:02.251Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "45m Art: Level 7 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Color Wheel",
@@ -56,7 +56,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "45m Art: Level 7 - Lesson 2",
-              "anchor": "term-1-week-1-lesson-lesson-2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
                   "text": "Example of Expanded Color Wheel",
@@ -80,7 +80,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "45m Art: Level 7 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Color Wheel",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Art: Level 7 - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "Color Wheel",
@@ -130,7 +130,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "45m Art: Level 7 - Lesson 5",
-              "anchor": "term-1-week-3-lesson-lesson-5",
+              "anchor": "term-1-week-3-lesson-5",
               "links": [
                 {
                   "text": "Mixing Browns L7 L5",
@@ -154,7 +154,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "45m Art: Level 7 - Lesson 8",
-              "anchor": "term-1-week-4-lesson-lesson-8",
+              "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
                   "text": "Warm and Cool Value Scales L7 L8",
@@ -178,7 +178,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "45m Art: Level 7 - Lesson 10",
-              "anchor": "term-1-week-5-lesson-lesson-10",
+              "anchor": "term-1-week-5-lesson-10",
               "links": [
                 {
                   "text": "Color Intensity Scales with Complementaries L7 L10",
@@ -202,7 +202,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "45m Art: Level 7 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "Toning Down Colors with Gray L7 L13",
@@ -226,7 +226,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "45m Art: Level 7 - Lesson 18",
-              "anchor": "term-1-week-9-lesson-lesson-18",
+              "anchor": "term-1-week-9-lesson-18",
               "links": [
                 {
                   "text": "The Watercolor Value Sketch",
@@ -250,7 +250,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "45m Art: Level 7 - Lesson 19",
-              "anchor": "term-1-week-10-lesson-lesson-19",
+              "anchor": "term-1-week-10-lesson-19",
               "links": [
                 {
                   "text": "The Watercolor Value Sketch",
@@ -268,7 +268,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "45m Art: Level 7 - Lesson 20",
-              "anchor": "term-1-week-10-lesson-lesson-20",
+              "anchor": "term-1-week-10-lesson-20",
               "links": [
                 {
                   "text": "The Watercolor Value Sketch",
@@ -292,7 +292,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "45m Art: Level 7 - Lesson 21",
-              "anchor": "term-1-week-11-lesson-lesson-21",
+              "anchor": "term-1-week-11-lesson-21",
               "links": [
                 {
                   "text": "The Watercolor Value Sketch",
@@ -310,7 +310,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 22",
               "title": "45m Art: Level 7 - Lesson 22",
-              "anchor": "term-1-week-11-lesson-lesson-22",
+              "anchor": "term-1-week-11-lesson-22",
               "links": [
                 {
                   "text": "Easier Watercolor Portraits",
@@ -340,7 +340,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "45m Art: Level 7 - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "Cone Shaped Flowers #1",
@@ -376,7 +376,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "45m Art: Level 7 - Lesson 28",
-              "anchor": "term-2-week-14-lesson-lesson-28",
+              "anchor": "term-2-week-14-lesson-28",
               "links": [
                 {
                   "text": "Red Vinca",
@@ -408,7 +408,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "45m Art: Level 7 - Lesson 29",
-              "anchor": "term-2-week-15-lesson-lesson-29",
+              "anchor": "term-2-week-15-lesson-29",
               "links": [
                 {
                   "text": "Red Vinca",
@@ -440,7 +440,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "45m Art: Level 7 - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "Illuminated Manuscript Example 1",
@@ -466,7 +466,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 36",
               "title": "45m Art: Level 7 - Lesson 36",
-              "anchor": "term-2-week-18-lesson-lesson-36",
+              "anchor": "term-2-week-18-lesson-36",
               "links": [
                 {
                   "text": "Illuminated Manuscript Example 1",
@@ -498,7 +498,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "45m Art: Level 7 - Lesson 37",
-              "anchor": "term-2-week-19-lesson-lesson-37",
+              "anchor": "term-2-week-19-lesson-37",
               "links": [
                 {
                   "text": "Lifting & Resist (Masking) L6 L17 & L7 L37",
@@ -522,7 +522,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "45m Art: Level 7 - Lesson 39",
-              "anchor": "term-2-week-20-lesson-lesson-39",
+              "anchor": "term-2-week-20-lesson-39",
               "links": [
                 {
                   "text": "Watercolor Technique Dry into Wet",
@@ -546,7 +546,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "45m Art: Level 7 - Lesson 41",
-              "anchor": "term-2-week-21-lesson-lesson-41",
+              "anchor": "term-2-week-21-lesson-41",
               "links": [
                 {
                   "text": "Advertisement Example 1",
@@ -572,7 +572,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 42",
               "title": "45m Art: Level 7 - Lesson 42",
-              "anchor": "term-2-week-21-lesson-lesson-42",
+              "anchor": "term-2-week-21-lesson-42",
               "links": [
                 {
                   "text": "Advertisement Example 1",
@@ -604,7 +604,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 43",
               "title": "45m Art: Level 7 - Lesson 43",
-              "anchor": "term-2-week-22-lesson-lesson-43",
+              "anchor": "term-2-week-22-lesson-43",
               "links": [
                 {
                   "text": "Watercolor & Salts",
@@ -622,7 +622,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 44",
               "title": "45m Art: Level 7 - Lesson 44",
-              "anchor": "term-2-week-22-lesson-lesson-44",
+              "anchor": "term-2-week-22-lesson-44",
               "links": [
                 {
                   "text": "Watercolor & Salts",
@@ -652,7 +652,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "45m Art: Level 7 - Lesson 49",
-              "anchor": "term-3-week-25-lesson-lesson-49",
+              "anchor": "term-3-week-25-lesson-49",
               "links": [
                 {
                   "text": "Drawing Draped Fabric L7 L49",
@@ -670,7 +670,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 50",
               "title": "45m Art: Level 7 - Lesson 50",
-              "anchor": "term-3-week-25-lesson-lesson-50",
+              "anchor": "term-3-week-25-lesson-50",
               "links": [
                 {
                   "text": "Composition L7 L50",
@@ -698,7 +698,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 52",
               "title": "45m Art: Level 7 - Lesson 52",
-              "anchor": "term-3-week-26-lesson-lesson-52",
+              "anchor": "term-3-week-26-lesson-52",
               "links": [
                 {
                   "text": "Texture L7 L52",
@@ -722,7 +722,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 55",
               "title": "45m Art: Level 7 - Lesson 55",
-              "anchor": "term-3-week-28-lesson-lesson-55",
+              "anchor": "term-3-week-28-lesson-55",
               "links": [
                 {
                   "text": "Different Ways to Hold the Pencil",
@@ -740,7 +740,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 56",
               "title": "45m Art: Level 7 - Lesson 56",
-              "anchor": "term-3-week-28-lesson-lesson-56",
+              "anchor": "term-3-week-28-lesson-56",
               "links": [
                 {
                   "text": "Line in Pictorial Composition L7 L56",
@@ -772,7 +772,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 57",
               "title": "45m Art: Level 7 - Lesson 57",
-              "anchor": "term-3-week-29-lesson-lesson-57",
+              "anchor": "term-3-week-29-lesson-57",
               "links": [
                 {
                   "text": "Value Scale with Pencil (aka Graphite) L7 L57",
@@ -790,7 +790,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "45m Art: Level 7 - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Dianne Sutherland: Day 6 Tulip in Graphite",
@@ -818,7 +818,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "45m Art: Level 7 - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "Portrait Example 1",
@@ -840,7 +840,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 60",
               "title": "45m Art: Level 7 - Lesson 60",
-              "anchor": "term-3-week-30-lesson-lesson-60",
+              "anchor": "term-3-week-30-lesson-60",
               "links": [
                 {
                   "text": "Portrait Example 1",
@@ -872,7 +872,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 67",
               "title": "45m Art: Level 7 - Lesson 67",
-              "anchor": "term-3-week-34-lesson-lesson-67",
+              "anchor": "term-3-week-34-lesson-67",
               "links": [
                 {
                   "text": "Realistic Pencil Drawing",

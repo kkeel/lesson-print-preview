@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.193Z",
+  "updatedAt": "2026-05-08T23:43:02.452Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "30m Sloyd: Level 4 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Wall Pocket",
@@ -54,7 +54,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "30m Sloyd: Level 4 - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Wall Pocket",
@@ -78,7 +78,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m Sloyd: Level 4 - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Wall Pocket",
@@ -102,7 +102,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "30m Sloyd: Level 4 - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Windmill",
@@ -126,7 +126,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "30m Sloyd: Level 4 - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Windmill",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "30m Sloyd: Level 4 - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Windmill",
@@ -174,7 +174,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "30m Sloyd: Level 4 - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Cylinder Wall Pocket",
@@ -198,7 +198,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "30m Sloyd: Level 4 - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Cylinder Wall Pocket",
@@ -222,7 +222,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "30m Sloyd: Level 4 - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Cylinder Wall Pocket",
@@ -246,7 +246,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "30m Sloyd: Level 4 - Lesson 10",
-              "anchor": "term-1-week-10-lesson-lesson-10",
+              "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
                   "text": "Cubical Match-Safe",
@@ -270,7 +270,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "30m Sloyd: Level 4 - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Cubical Match-Safe",
@@ -300,7 +300,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Sloyd: Level 4 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Oblong Comb-Case",
@@ -324,7 +324,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "30m Sloyd: Level 4 - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "Oblong Comb-Case",
@@ -348,7 +348,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "30m Sloyd: Level 4 - Lesson 15",
-              "anchor": "term-2-week-15-lesson-lesson-15",
+              "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
                   "text": "Oblong Comb-Case",

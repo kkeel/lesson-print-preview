@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.145Z",
+  "updatedAt": "2026-05-08T23:43:02.405Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "30m Geography: Grade 9 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Blank Map of Russia",
@@ -58,7 +58,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m Geography: Grade 9 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Blank Map of the World",
@@ -82,7 +82,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "30m Geography: Grade 9 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "Blank Map of China",
@@ -106,7 +106,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "30m Geography: Grade 9 - Lesson 11",
-              "anchor": "term-1-week-6-lesson-lesson-11",
+              "anchor": "term-1-week-6-lesson-11",
               "links": [
                 {
                   "text": "Blank Map of USA",
@@ -130,7 +130,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Geography: Grade 9 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "Blank Map of Canada",
@@ -154,7 +154,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "30m Geography: Grade 9 - Lesson 15",
-              "anchor": "term-1-week-8-lesson-lesson-15",
+              "anchor": "term-1-week-8-lesson-15",
               "links": [
                 {
                   "text": "Blank Map of Europe",
@@ -184,7 +184,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "30m Geography: Grade 9 - Lesson 25",
-              "anchor": "term-2-week-13-lesson-lesson-25",
+              "anchor": "term-2-week-13-lesson-25",
               "links": [
                 {
                   "text": "Blank Map of Africa",
@@ -212,7 +212,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "30m Geography: Grade 9 - Lesson 31",
-              "anchor": "term-2-week-16-lesson-lesson-31",
+              "anchor": "term-2-week-16-lesson-31",
               "links": [
                 {
                   "text": "Blank Map of Middle East",
@@ -236,7 +236,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 41",
               "title": "30m Geography: Grade 9 - Lesson 41",
-              "anchor": "term-2-week-21-lesson-lesson-41",
+              "anchor": "term-2-week-21-lesson-41",
               "links": [
                 {
                   "text": "Blank Map of India and Pakistan",
@@ -254,7 +254,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 42",
               "title": "30m Geography: Grade 9 - Lesson 42",
-              "anchor": "term-2-week-21-lesson-lesson-42",
+              "anchor": "term-2-week-21-lesson-42",
               "links": [
                 {
                   "text": "A Detailed Study of H4",
@@ -278,7 +278,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 44",
               "title": "30m Geography: Grade 9 - Lesson 44",
-              "anchor": "term-2-week-22-lesson-lesson-44",
+              "anchor": "term-2-week-22-lesson-44",
               "links": [
                 {
                   "text": "Determine Longitude",
@@ -302,7 +302,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 46",
               "title": "30m Geography: Grade 9 - Lesson 46",
-              "anchor": "term-2-week-23-lesson-lesson-46",
+              "anchor": "term-2-week-23-lesson-46",
               "links": [
                 {
                   "text": "The Longitude Prize Today",
@@ -330,7 +330,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 48",
               "title": "30m Geography: Grade 9 - Lesson 48",
-              "anchor": "term-2-week-24-lesson-lesson-48",
+              "anchor": "term-2-week-24-lesson-48",
               "links": [
                 {
                   "text": "WEP 2019 Keynote",
@@ -364,7 +364,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 53",
               "title": "30m Geography: Grade 9 - Lesson 53",
-              "anchor": "term-3-week-27-lesson-lesson-53",
+              "anchor": "term-3-week-27-lesson-53",
               "links": [
                 {
                   "text": "Blank Map of Korea and Japan",
@@ -388,7 +388,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 59",
               "title": "30m Geography: Grade 9 - Lesson 59",
-              "anchor": "term-3-week-30-lesson-lesson-59",
+              "anchor": "term-3-week-30-lesson-59",
               "links": [
                 {
                   "text": "Blank Map of Latin America",
@@ -412,7 +412,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 65",
               "title": "30m Geography: Grade 9 - Lesson 65",
-              "anchor": "term-3-week-33-lesson-lesson-65",
+              "anchor": "term-3-week-33-lesson-65",
               "links": [
                 {
                   "text": "Blank Map of the Arctic",

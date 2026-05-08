@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.235Z",
+  "updatedAt": "2026-05-08T23:43:02.489Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "30m Shakespeare: Beginner Track - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "The Life and Times of William Shakespeare",
@@ -66,7 +66,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "30m Shakespeare: Beginner Track - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -98,7 +98,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "30m Shakespeare: Beginner Track - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "List of Characters",
@@ -138,7 +138,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "30m Shakespeare: Beginner Track - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -166,7 +166,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "30m Shakespeare: Beginner Track - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "The Love Story of Pyramus and Thisbe",
@@ -194,7 +194,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "30m Shakespeare: Beginner Track - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -218,7 +218,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "30m Shakespeare: Beginner Track - Lesson 7",
-              "anchor": "term-1-week-7-lesson-lesson-7",
+              "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -242,7 +242,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "30m Shakespeare: Beginner Track - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -266,7 +266,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "30m Shakespeare: Beginner Track - Lesson 9",
-              "anchor": "term-1-week-9-lesson-lesson-9",
+              "anchor": "term-1-week-9-lesson-9",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -290,7 +290,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "30m Shakespeare: Beginner Track - Lesson 10",
-              "anchor": "term-1-week-10-lesson-lesson-10",
+              "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -314,7 +314,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "30m Shakespeare: Beginner Track - Lesson 11",
-              "anchor": "term-1-week-11-lesson-lesson-11",
+              "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -348,7 +348,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "30m Shakespeare: Beginner Track - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -372,7 +372,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "30m Shakespeare: Beginner Track - Lesson 14",
-              "anchor": "term-2-week-14-lesson-lesson-14",
+              "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
                   "text": "Lines from Midsummer Night's Dream",
@@ -396,7 +396,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 22",
               "title": "30m Shakespeare: Beginner Track - Lesson 22",
-              "anchor": "term-2-week-22-lesson-lesson-22",
+              "anchor": "term-2-week-22-lesson-22",
               "links": [
                 {
                   "text": "Mendelssohn's Wedding March (youtube)",
@@ -428,7 +428,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 23",
               "title": "30m Shakespeare: Beginner Track - Lesson 23",
-              "anchor": "term-2-week-23-lesson-lesson-23",
+              "anchor": "term-2-week-23-lesson-23",
               "links": [
                 {
                   "text": "30-minute Shakespeare (Website)",

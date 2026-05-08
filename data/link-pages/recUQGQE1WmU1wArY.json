@@ -12,7 +12,7 @@
     "Literature: Grade 9"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.223Z",
+  "updatedAt": "2026-05-08T23:43:02.477Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "15m Poetry Study: Grade 9 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-lesson-3",
+              "anchor": "term-1-week-2-lesson-3",
               "links": [
                 {
                   "text": "Villanelle by Andrew Lang",
@@ -60,7 +60,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "15m Poetry Study: Grade 9 - Lesson 7",
-              "anchor": "term-1-week-4-lesson-lesson-7",
+              "anchor": "term-1-week-4-lesson-7",
               "links": [
                 {
                   "text": "Sestina by Bishop",
@@ -84,7 +84,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 9",
               "title": "15m Poetry Study: Grade 9 - Lesson 9",
-              "anchor": "term-1-week-5-lesson-lesson-9",
+              "anchor": "term-1-week-5-lesson-9",
               "links": [
                 {
                   "text": "I'm going to like it here",
@@ -108,7 +108,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 11",
               "title": "15m Poetry Study: Grade 9 - Lesson 11",
-              "anchor": "term-1-week-6-lesson-lesson-11",
+              "anchor": "term-1-week-6-lesson-11",
               "links": [
                 {
                   "text": "Petrarch Bio",
@@ -130,7 +130,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "15m Poetry Study: Grade 9 - Lesson 12",
-              "anchor": "term-1-week-6-lesson-lesson-12",
+              "anchor": "term-1-week-6-lesson-12",
               "links": [
                 {
                   "text": "More Petrarch Sonnets",
@@ -154,7 +154,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Poetry Study: Grade 9 - Lesson 13",
-              "anchor": "term-1-week-7-lesson-lesson-13",
+              "anchor": "term-1-week-7-lesson-13",
               "links": [
                 {
                   "text": "Shakespeare's Sonnets",
@@ -172,7 +172,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 14",
               "title": "15m Poetry Study: Grade 9 - Lesson 14",
-              "anchor": "term-1-week-7-lesson-lesson-14",
+              "anchor": "term-1-week-7-lesson-14",
               "links": [
                 {
                   "text": "Shakespeare's Sonnets",
@@ -196,7 +196,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 15",
               "title": "15m Poetry Study: Grade 9 - Lesson 15",
-              "anchor": "term-1-week-8-lesson-lesson-15",
+              "anchor": "term-1-week-8-lesson-15",
               "links": [
                 {
                   "text": "Shakespeare's Sonnets",
@@ -220,7 +220,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "15m Poetry Study: Grade 9 - Lesson 17",
-              "anchor": "term-1-week-9-lesson-lesson-17",
+              "anchor": "term-1-week-9-lesson-17",
               "links": [
                 {
                   "text": "Donne's Holy Sonnets",
@@ -238,7 +238,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "15m Poetry Study: Grade 9 - Lesson 18",
-              "anchor": "term-1-week-9-lesson-lesson-18",
+              "anchor": "term-1-week-9-lesson-18",
               "links": [
                 {
                   "text": "Donne's Holy Sonnets",
@@ -266,7 +266,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "15m Poetry Study: Grade 9 - Lesson 19",
-              "anchor": "term-1-week-10-lesson-lesson-19",
+              "anchor": "term-1-week-10-lesson-19",
               "links": [
                 {
                   "text": "Donne's Holy Sonnets",
@@ -284,7 +284,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "15m Poetry Study: Grade 9 - Lesson 20",
-              "anchor": "term-1-week-10-lesson-lesson-20",
+              "anchor": "term-1-week-10-lesson-20",
               "links": [
                 {
                   "text": "Donne's Holy Sonnets",
@@ -308,7 +308,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 21",
               "title": "15m Poetry Study: Grade 9 - Lesson 21",
-              "anchor": "term-1-week-11-lesson-lesson-21",
+              "anchor": "term-1-week-11-lesson-21",
               "links": [
                 {
                   "text": "Funny Sonnets",
@@ -342,7 +342,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "15m Poetry Study: Grade 9 - Lesson 25",
-              "anchor": "term-2-week-13-lesson-lesson-25",
+              "anchor": "term-2-week-13-lesson-25",
               "links": [
                 {
                   "text": "LOC Ballads",
@@ -360,7 +360,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "15m Poetry Study: Grade 9 - Lesson 26",
-              "anchor": "term-2-week-13-lesson-lesson-26",
+              "anchor": "term-2-week-13-lesson-26",
               "links": [
                 {
                   "text": "The Wife of Usher's Well",
@@ -384,7 +384,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "15m Poetry Study: Grade 9 - Lesson 27",
-              "anchor": "term-2-week-14-lesson-lesson-27",
+              "anchor": "term-2-week-14-lesson-27",
               "links": [
                 {
                   "text": "Water of Tyne",
@@ -424,7 +424,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "15m Poetry Study: Grade 9 - Lesson 29",
-              "anchor": "term-2-week-15-lesson-lesson-29",
+              "anchor": "term-2-week-15-lesson-29",
               "links": [
                 {
                   "text": "Wreck of the Edmund Fitzgerald",
@@ -448,7 +448,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 35",
               "title": "15m Poetry Study: Grade 9 - Lesson 35",
-              "anchor": "term-2-week-18-lesson-lesson-35",
+              "anchor": "term-2-week-18-lesson-35",
               "links": [
                 {
                   "text": "Canterbury Tales, General Prologue",
@@ -472,7 +472,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 39",
               "title": "15m Poetry Study: Grade 9 - Lesson 39",
-              "anchor": "term-2-week-20-lesson-lesson-39",
+              "anchor": "term-2-week-20-lesson-39",
               "links": [
                 {
                   "text": "The Altar",
@@ -508,7 +508,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 46",
               "title": "15m Poetry Study: Grade 9 - Lesson 46",
-              "anchor": "term-2-week-23-lesson-lesson-46",
+              "anchor": "term-2-week-23-lesson-46",
               "links": [
                 {
                   "text": "The Charge of the Light Brigade",
@@ -542,7 +542,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 58",
               "title": "15m Poetry Study: Grade 9 - Lesson 58",
-              "anchor": "term-3-week-29-lesson-lesson-58",
+              "anchor": "term-3-week-29-lesson-58",
               "links": [
                 {
                   "text": "Starlings in Winter",
@@ -574,7 +574,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 62",
               "title": "15m Poetry Study: Grade 9 - Lesson 62",
-              "anchor": "term-3-week-31-lesson-lesson-62",
+              "anchor": "term-3-week-31-lesson-62",
               "links": [
                 {
                   "text": "Perhaps the World Ends Here",
@@ -598,7 +598,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 64",
               "title": "15m Poetry Study: Grade 9 - Lesson 64",
-              "anchor": "term-3-week-32-lesson-lesson-64",
+              "anchor": "term-3-week-32-lesson-64",
               "links": [
                 {
                   "text": "The Love Song of J. Alfred Prufrock",
@@ -622,7 +622,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 65",
               "title": "15m Poetry Study: Grade 9 - Lesson 65",
-              "anchor": "term-3-week-33-lesson-lesson-65",
+              "anchor": "term-3-week-33-lesson-65",
               "links": [
                 {
                   "text": "From An Atlas of the Difficult World",

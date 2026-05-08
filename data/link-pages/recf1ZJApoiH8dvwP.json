@@ -12,7 +12,7 @@
     "Science: Grade 5"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.335Z",
+  "updatedAt": "2026-05-08T23:43:02.591Z",
   "terms": [
     {
       "termNumber": 1,
@@ -32,7 +32,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "15m Natural History: Grade 5 - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Growing Basil Time Lapse",
@@ -60,7 +60,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "15m Natural History: Grade 5 - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Ethnobotanist",
@@ -88,7 +88,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "15m Natural History: Grade 5 - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "What is a Botanist?",
@@ -116,7 +116,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "15m Natural History: Grade 5 - Lesson 10",
-              "anchor": "term-1-week-10-lesson-lesson-10",
+              "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
                   "text": "Wildflowers in Death Valley",
@@ -146,7 +146,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "15m Natural History: Grade 5 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Herd of Bison",
@@ -178,7 +178,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "15m Natural History: Grade 5 - Lesson 16",
-              "anchor": "term-2-week-16-lesson-lesson-16",
+              "anchor": "term-2-week-16-lesson-16",
               "links": [
                 {
                   "text": "Bats by Region",
@@ -202,7 +202,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 17",
               "title": "15m Natural History: Grade 5 - Lesson 17",
-              "anchor": "term-2-week-17-lesson-lesson-17",
+              "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
                   "text": "The Case for Vampire Bats",
@@ -226,7 +226,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 20",
               "title": "15m Natural History: Grade 5 - Lesson 20",
-              "anchor": "term-2-week-20-lesson-lesson-20",
+              "anchor": "term-2-week-20-lesson-20",
               "links": [
                 {
                   "text": "Austin's Nocturnal Neighbors",
@@ -250,7 +250,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 23",
               "title": "15m Natural History: Grade 5 - Lesson 23",
-              "anchor": "term-2-week-23-lesson-lesson-23",
+              "anchor": "term-2-week-23-lesson-23",
               "links": [
                 {
                   "text": "Using a Bat Detector",
@@ -284,7 +284,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "15m Natural History: Grade 5 - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Dendrochronology at Mesa Verde",

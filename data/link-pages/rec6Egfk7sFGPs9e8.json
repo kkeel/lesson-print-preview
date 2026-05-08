@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.196Z",
+  "updatedAt": "2026-05-08T23:43:02.455Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "20m Handicrafts - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "Teacher Prep for Clay Modelling",
@@ -58,7 +58,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 2",
               "title": "20m Handicrafts - Lesson 2",
-              "anchor": "term-1-week-2-lesson-lesson-2",
+              "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
                   "text": "Bas Relief Tutorial",
@@ -86,7 +86,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 3",
               "title": "20m Handicrafts - Lesson 3",
-              "anchor": "term-1-week-3-lesson-lesson-3",
+              "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
                   "text": "Project #3 High Relief",
@@ -118,7 +118,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "20m Handicrafts - Lesson 4",
-              "anchor": "term-1-week-4-lesson-lesson-4",
+              "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
                   "text": "Project #4 Additive Relief",
@@ -150,7 +150,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 5",
               "title": "20m Handicrafts - Lesson 5",
-              "anchor": "term-1-week-5-lesson-lesson-5",
+              "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
                   "text": "Project #5 Hanging Slabs",
@@ -186,7 +186,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 6",
               "title": "20m Handicrafts - Lesson 6",
-              "anchor": "term-1-week-6-lesson-lesson-6",
+              "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
                   "text": "Project #6 Slab Cylinder",
@@ -214,7 +214,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 8",
               "title": "20m Handicrafts - Lesson 8",
-              "anchor": "term-1-week-8-lesson-lesson-8",
+              "anchor": "term-1-week-8-lesson-8",
               "links": [
                 {
                   "text": "Project #7 Slump & Hump Molds",
@@ -252,7 +252,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "20m Handicrafts - Lesson 13",
-              "anchor": "term-2-week-13-lesson-lesson-13",
+              "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
                   "text": "Free Sashiko Patterns",
@@ -292,7 +292,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 18",
               "title": "20m Handicrafts - Lesson 18",
-              "anchor": "term-2-week-18-lesson-lesson-18",
+              "anchor": "term-2-week-18-lesson-18",
               "links": [
                 {
                   "text": "Embroidery Legacy",
@@ -324,7 +324,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "20m Handicrafts - Lesson 19",
-              "anchor": "term-2-week-19-lesson-lesson-19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
                   "text": "Stem Stitch",
@@ -366,7 +366,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "20m Handicrafts - Lesson 25",
-              "anchor": "term-3-week-25-lesson-lesson-25",
+              "anchor": "term-3-week-25-lesson-25",
               "links": [
                 {
                   "text": "Cloisonne Supplies",
@@ -402,7 +402,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 26",
               "title": "20m Handicrafts - Lesson 26",
-              "anchor": "term-3-week-26-lesson-lesson-26",
+              "anchor": "term-3-week-26-lesson-26",
               "links": [
                 {
                   "text": "Practicing Cloisonne",
@@ -426,7 +426,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "20m Handicrafts - Lesson 27",
-              "anchor": "term-3-week-27-lesson-lesson-27",
+              "anchor": "term-3-week-27-lesson-27",
               "links": [
                 {
                   "text": "Cloisonne Ornament",
@@ -450,7 +450,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "20m Handicrafts - Lesson 28",
-              "anchor": "term-3-week-28-lesson-lesson-28",
+              "anchor": "term-3-week-28-lesson-28",
               "links": [
                 {
                   "text": "Cloisonne Ornament",
@@ -474,7 +474,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "20m Handicrafts - Lesson 29",
-              "anchor": "term-3-week-29-lesson-lesson-29",
+              "anchor": "term-3-week-29-lesson-29",
               "links": [
                 {
                   "text": "Cloisonne Ornament",
@@ -498,7 +498,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 30",
               "title": "20m Handicrafts - Lesson 30",
-              "anchor": "term-3-week-30-lesson-lesson-30",
+              "anchor": "term-3-week-30-lesson-30",
               "links": [
                 {
                   "text": "Cloisonne Ornament",
@@ -522,7 +522,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "20m Handicrafts - Lesson 31",
-              "anchor": "term-3-week-31-lesson-lesson-31",
+              "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
                   "text": "Cloisonne Branched Flower",
@@ -546,7 +546,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "20m Handicrafts - Lesson 32",
-              "anchor": "term-3-week-32-lesson-lesson-32",
+              "anchor": "term-3-week-32-lesson-32",
               "links": [
                 {
                   "text": "Cloisonne Branched Flower",
@@ -570,7 +570,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 33",
               "title": "20m Handicrafts - Lesson 33",
-              "anchor": "term-3-week-33-lesson-lesson-33",
+              "anchor": "term-3-week-33-lesson-33",
               "links": [
                 {
                   "text": "Cloisonne Landscape",
@@ -594,7 +594,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 34",
               "title": "20m Handicrafts - Lesson 34",
-              "anchor": "term-3-week-34-lesson-lesson-34",
+              "anchor": "term-3-week-34-lesson-34",
               "links": [
                 {
                   "text": "Cloisonne Landscape",

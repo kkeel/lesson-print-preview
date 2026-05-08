@@ -10,7 +10,7 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-08T23:37:03.188Z",
+  "updatedAt": "2026-05-08T23:43:02.448Z",
   "terms": [
     {
       "termNumber": 1,
@@ -30,7 +30,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 1",
               "title": "45m Health Elective (Beta) - Lesson 1",
-              "anchor": "term-1-week-1-lesson-lesson-1",
+              "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
                   "text": "What is Health?",
@@ -58,7 +58,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 4",
               "title": "45m Health Elective (Beta) - Lesson 4",
-              "anchor": "term-1-week-2-lesson-lesson-4",
+              "anchor": "term-1-week-2-lesson-4",
               "links": [
                 {
                   "text": "Dr. Josh Axe: Is the Healthcare System Designed to Keep You Sick?",
@@ -82,7 +82,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 7",
               "title": "45m Health Elective (Beta) - Lesson 7",
-              "anchor": "term-1-week-3-lesson-lesson-7",
+              "anchor": "term-1-week-3-lesson-7",
               "links": [
                 {
                   "text": "Wellness Mama Podcast: Your Brain on Food",
@@ -106,7 +106,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 10",
               "title": "45m Health Elective (Beta) - Lesson 10",
-              "anchor": "term-1-week-4-lesson-lesson-10",
+              "anchor": "term-1-week-4-lesson-10",
               "links": [
                 {
                   "text": "Wellness Mama Podcast: How to Build Nutritional Habits That Stick",
@@ -124,7 +124,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 12",
               "title": "45m Health Elective (Beta) - Lesson 12",
-              "anchor": "term-1-week-4-lesson-lesson-12",
+              "anchor": "term-1-week-4-lesson-12",
               "links": [
                 {
                   "text": "Foods That Support Mood",
@@ -148,7 +148,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 13",
               "title": "45m Health Elective (Beta) - Lesson 13",
-              "anchor": "term-1-week-5-lesson-lesson-13",
+              "anchor": "term-1-week-5-lesson-13",
               "links": [
                 {
                   "text": "The Body Keeps the Score",
@@ -180,7 +180,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 16",
               "title": "45m Health Elective (Beta) - Lesson 16",
-              "anchor": "term-1-week-6-lesson-lesson-16",
+              "anchor": "term-1-week-6-lesson-16",
               "links": [
                 {
                   "text": "After Skool: Use Your Thoughts to Optimize Your Health",
@@ -204,7 +204,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 19",
               "title": "45m Health Elective (Beta) - Lesson 19",
-              "anchor": "term-1-week-7-lesson-lesson-19",
+              "anchor": "term-1-week-7-lesson-19",
               "links": [
                 {
                   "text": "Dan Siegel and the Adolescent Brain",
@@ -232,7 +232,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 22",
               "title": "45m Health Elective (Beta) - Lesson 22",
-              "anchor": "term-1-week-8-lesson-lesson-22",
+              "anchor": "term-1-week-8-lesson-22",
               "links": [
                 {
                   "text": "She Persisted Ep.104: Sleep Deprivation",
@@ -256,7 +256,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 25",
               "title": "45m Health Elective (Beta) - Lesson 25",
-              "anchor": "term-1-week-9-lesson-lesson-25",
+              "anchor": "term-1-week-9-lesson-25",
               "links": [
                 {
                   "text": "She Persisted Ep.104: Sleep Deprivation",
@@ -274,7 +274,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 27",
               "title": "45m Health Elective (Beta) - Lesson 27",
-              "anchor": "term-1-week-9-lesson-lesson-27",
+              "anchor": "term-1-week-9-lesson-27",
               "links": [
                 {
                   "text": "Yes, Babies Need Sleep. But So Do We.",
@@ -298,7 +298,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 28",
               "title": "45m Health Elective (Beta) - Lesson 28",
-              "anchor": "term-1-week-10-lesson-lesson-28",
+              "anchor": "term-1-week-10-lesson-28",
               "links": [
                 {
                   "text": "Teenage Brain",
@@ -316,7 +316,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 29",
               "title": "45m Health Elective (Beta) - Lesson 29",
-              "anchor": "term-1-week-10-lesson-lesson-29",
+              "anchor": "term-1-week-10-lesson-29",
               "links": [
                 {
                   "text": "Teenage Brain",
@@ -340,7 +340,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 31",
               "title": "45m Health Elective (Beta) - Lesson 31",
-              "anchor": "term-1-week-11-lesson-lesson-31",
+              "anchor": "term-1-week-11-lesson-31",
               "links": [
                 {
                   "text": "Teenage Brain",
@@ -358,7 +358,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 32",
               "title": "45m Health Elective (Beta) - Lesson 32",
-              "anchor": "term-1-week-11-lesson-lesson-32",
+              "anchor": "term-1-week-11-lesson-32",
               "links": [
                 {
                   "text": "Teenage Brain",
@@ -388,7 +388,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 37",
               "title": "45m Health Elective (Beta) - Lesson 37",
-              "anchor": "term-2-week-13-lesson-lesson-37",
+              "anchor": "term-2-week-13-lesson-37",
               "links": [
                 {
                   "text": "10,000 Steps",
@@ -420,7 +420,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 43",
               "title": "45m Health Elective (Beta) - Lesson 43",
-              "anchor": "term-2-week-15-lesson-lesson-43",
+              "anchor": "term-2-week-15-lesson-43",
               "links": [
                 {
                   "text": "Nature Deficit Disorder",
@@ -448,7 +448,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 49",
               "title": "45m Health Elective (Beta) - Lesson 49",
-              "anchor": "term-2-week-17-lesson-lesson-49",
+              "anchor": "term-2-week-17-lesson-49",
               "links": [
                 {
                   "text": "Teen Substance & Abuse",
@@ -478,7 +478,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 51",
               "title": "45m Health Elective (Beta) - Lesson 51",
-              "anchor": "term-2-week-17-lesson-lesson-51",
+              "anchor": "term-2-week-17-lesson-51",
               "links": [
                 {
                   "text": "Doctors Are Terrified of The New Zombie Drug, This Is Why",
@@ -502,7 +502,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 52",
               "title": "45m Health Elective (Beta) - Lesson 52",
-              "anchor": "term-2-week-18-lesson-lesson-52",
+              "anchor": "term-2-week-18-lesson-52",
               "links": [
                 {
                   "text": "Overtaken: The Documentary",
@@ -520,7 +520,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 54",
               "title": "45m Health Elective (Beta) - Lesson 54",
-              "anchor": "term-2-week-18-lesson-lesson-54",
+              "anchor": "term-2-week-18-lesson-54",
               "links": [
                 {
                   "text": "Every Illegal Drug Explained in 15 minutes",
@@ -544,7 +544,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 64",
               "title": "45m Health Elective (Beta) - Lesson 64",
-              "anchor": "term-2-week-22-lesson-lesson-64",
+              "anchor": "term-2-week-22-lesson-64",
               "links": [
                 {
                   "text": "Stress: The Good, The Bad and the Useful",
@@ -572,7 +572,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 67",
               "title": "45m Health Elective (Beta) - Lesson 67",
-              "anchor": "term-2-week-23-lesson-lesson-67",
+              "anchor": "term-2-week-23-lesson-67",
               "links": [
                 {
                   "text": "Stress Relief",
@@ -610,7 +610,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 79",
               "title": "45m Health Elective (Beta) - Lesson 79",
-              "anchor": "term-3-week-27-lesson-lesson-79",
+              "anchor": "term-3-week-27-lesson-79",
               "links": [
                 {
                   "text": "The Science of Hydration",
@@ -642,7 +642,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 88",
               "title": "45m Health Elective (Beta) - Lesson 88",
-              "anchor": "term-3-week-30-lesson-lesson-88",
+              "anchor": "term-3-week-30-lesson-88",
               "links": [
                 {
                   "text": "Your Gut Microbiome",
@@ -674,7 +674,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 91",
               "title": "45m Health Elective (Beta) - Lesson 91",
-              "anchor": "term-3-week-31-lesson-lesson-91",
+              "anchor": "term-3-week-31-lesson-91",
               "links": [
                 {
                   "text": "The Gut and Brain",
@@ -696,7 +696,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 92",
               "title": "45m Health Elective (Beta) - Lesson 92",
-              "anchor": "term-3-week-31-lesson-lesson-92",
+              "anchor": "term-3-week-31-lesson-92",
               "links": [
                 {
                   "text": "Nutrition for Athletes",
@@ -720,7 +720,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 96",
               "title": "45m Health Elective (Beta) - Lesson 96",
-              "anchor": "term-3-week-32-lesson-lesson-96",
+              "anchor": "term-3-week-32-lesson-96",
               "links": [
                 {
                   "text": "Making Infusions",
@@ -748,7 +748,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 99",
               "title": "45m Health Elective (Beta) - Lesson 99",
-              "anchor": "term-3-week-33-lesson-lesson-99",
+              "anchor": "term-3-week-33-lesson-99",
               "links": [
                 {
                   "text": "Tincture Making",
@@ -784,7 +784,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 102",
               "title": "45m Health Elective (Beta) - Lesson 102",
-              "anchor": "term-3-week-34-lesson-lesson-102",
+              "anchor": "term-3-week-34-lesson-102",
               "links": [
                 {
                   "text": "Introduction to Homeopathy",
@@ -808,7 +808,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 103",
               "title": "45m Health Elective (Beta) - Lesson 103",
-              "anchor": "term-3-week-35-lesson-lesson-103",
+              "anchor": "term-3-week-35-lesson-103",
               "links": [
                 {
                   "text": "Teen Health",
@@ -842,7 +842,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 104",
               "title": "45m Health Elective (Beta) - Lesson 104",
-              "anchor": "term-3-week-35-lesson-lesson-104",
+              "anchor": "term-3-week-35-lesson-104",
               "links": [
                 {
                   "text": "What To Do If Your Inner Voice Is Cruel",
@@ -868,7 +868,7 @@
               "sort": 0,
               "lessonLabel": "Lesson 105",
               "title": "45m Health Elective (Beta) - Lesson 105",
-              "anchor": "term-3-week-35-lesson-lesson-105",
+              "anchor": "term-3-week-35-lesson-105",
               "links": [
                 {
                   "text": "Healthy Mind Platter",
