@@ -105,11 +105,74 @@ async function readJson(filePath) {
   return JSON.parse(raw);
 }
 
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let value = "";
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i += 1) {
+    const char = text[i];
+    const next = text[i + 1];
+
+    if (char === '"' && inQuotes && next === '"') {
+      value += '"';
+      i += 1;
+      continue;
+    }
+
+    if (char === '"') {
+      inQuotes = !inQuotes;
+      continue;
+    }
+
+    if (char === "," && !inQuotes) {
+      row.push(value);
+      value = "";
+      continue;
+    }
+
+    if ((char === "\n" || char === "\r") && !inQuotes) {
+      if (char === "\r" && next === "\n") i += 1;
+      row.push(value);
+      value = "";
+
+      if (row.some(cell => cell !== "")) rows.push(row);
+      row = [];
+      continue;
+    }
+
+    value += char;
+  }
+
+  if (value || row.length) {
+    row.push(value);
+    rows.push(row);
+  }
+
+  if (!rows.length) return [];
+
+  const headers = rows[0];
+
+  return rows.slice(1).map(values => {
+    const obj = {};
+    headers.forEach((header, index) => {
+      obj[header] = values[index] ?? "";
+    });
+    return obj;
+  });
+}
+
 async function main() {
   const repoRoot = process.cwd();
   const packetsDir = path.join(repoRoot, "data", "packets");
   const exportDir = path.join(repoRoot, "exports", "syllabird");
   const outputPath = path.join(exportDir, "assignments.csv");
+  const coursesPath = path.join(exportDir, "courses.csv");
+  const coursesCsv = await fs.readFile(coursesPath, "utf8");
+  const validCourseIds = new Set(
+    parseCsv(coursesCsv).map(course => course.course_custom_id).filter(Boolean)
+  );
 
   await fs.mkdir(exportDir, { recursive: true });
 
@@ -126,7 +189,9 @@ async function main() {
 
     // Match courses.csv phase 1 behavior:
     // only export standalone Course and Topic packets with lessons.
-    if (!(packet.rowType === "course" || packet.rowType === "topic")) continue;
+    const courseCustomId = `alveary-${packet.id}`;
+
+    if (!validCourseIds.has(courseCustomId)) continue;
 
     const packetRows = buildRowsForPacket(packet);
     rows.push(...packetRows);
