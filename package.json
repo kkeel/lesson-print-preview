@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "render-pdfs": "node scripts/render-pdfs.js"
-  },
+  "render-pdfs": "node scripts/render-pdfs.js",
+  "sync-pdf-urls": "node scripts/sync-pdf-urls.js"
+},
   "dependencies": {
     "playwright": "^1.52.0"
   }
