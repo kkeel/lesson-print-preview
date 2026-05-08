@@ -29,7 +29,7 @@ function slugify(text) {
 }
 
 function getPacketJsonPath(recordId) {
-  return `./data/${recordId}.json`;
+  return `./data/packets/${recordId}.json`;
 }
 
 function hashFile(filepath) {
