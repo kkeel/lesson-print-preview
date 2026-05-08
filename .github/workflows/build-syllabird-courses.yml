@@ -1,0 +1,32 @@
+name: Build Syllabird Courses CSV
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-syllabird-courses:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build Syllabird courses CSV
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+        run: node scripts/syllabird/buildCourses.mjs
+
+      - name: Commit generated CSV
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Build Syllabird courses CSV
+          file_pattern: exports/syllabird/courses.csv
