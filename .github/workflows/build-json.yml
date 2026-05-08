@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Run JSON build
-        run: node scripts/build-lesson-packets-json
+        run: node scripts/build-lesson-packets-json.mjs
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
