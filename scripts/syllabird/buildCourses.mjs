@@ -401,7 +401,7 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
   const numberOfWeeks = getMaxWeekForCourse(fields, lessonDetailsById);
 
   return {
-    course_custom_id: `alveary-${setId}`,
+    course_custom_id: `alveary-${record.id}`,
     course_name: name,
     course_numberOfDaysPerWeek: numberOfDaysPerWeek,
     course_numberOfWeeks: numberOfWeeks,
