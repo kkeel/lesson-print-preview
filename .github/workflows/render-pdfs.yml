@@ -60,7 +60,14 @@ jobs:
           cp generated-pdfs/*.pdf course-picker/pdf/lesson-plans/ || true
           cp generated-pdfs/pdf-manifest.json course-picker/pdf/lesson-plans/
 
-      - name: Commit and push PDFs
+      - name: Copy link pages into planning repo
+        run: |
+          mkdir -p course-picker/link-pages
+          rm -f course-picker/link-pages/*.json
+          cp data/link-pages/*.json course-picker/link-pages/
+          cp data/link-page-index.json course-picker/link-page-index.json
+
+      - name: Commit and push generated files
         run: |
           cd course-picker
 
@@ -68,13 +75,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add pdf/lesson-plans
+          git add link-pages
+          git add link-page-index.json
 
           if git diff --cached --quiet; then
-            echo "No PDF changes to commit."
+            echo "No generated file changes to commit."
             exit 0
           fi
 
-          git commit -m "Update lesson plan PDFs"
+          git commit -m "Update lesson plan PDFs and link pages"
           git push
 
       - name: Sync PDF URLs to Airtable
