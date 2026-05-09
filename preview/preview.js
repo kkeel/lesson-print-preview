@@ -718,7 +718,15 @@ function renderLessonsSection(section) {
                         scan the QR code<br>
                         for links.
                       </a>
-                      <div class="lesson-page-qr-placeholder">QR</div>
+                      ${qrCodeUrl(section.linkPageUrl, 140) ? `
+                        <img
+                          src="${escapeHtml(qrCodeUrl(section.linkPageUrl, 140))}"
+                          alt="QR code for lesson links"
+                          class="lesson-page-qr-placeholder"
+                        />
+                      ` : `
+                        <div class="lesson-page-qr-placeholder">QR</div>
+                      `}
                     </div>
                   </div>
 
