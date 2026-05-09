@@ -34,6 +34,13 @@ function escapeHtml(value) {
     .replace(/'/g, "&#39;");
 }
 
+function qrCodeUrl(value, size = 160) {
+  const url = String(value || "").trim();
+  if (!url || url === "#") return "";
+
+  return `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${encodeURIComponent(url)}`;
+}
+
 function formatInlineRichText(value) {
   return escapeHtml(value)
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
@@ -602,7 +609,15 @@ function renderHeaderItem(item, headerEditUrl = "") {
                     code for links.
                   </a>
   
-                  <div class="quick-links-qr-placeholder">QR</div>
+                  ${qrCodeUrl(linkPageUrl, 180) ? `
+                    <img
+                      src="${escapeHtml(qrCodeUrl(linkPageUrl, 180))}"
+                      alt="QR code for Quick Links"
+                      class="quick-links-qr-placeholder"
+                    />
+                  ` : `
+                    <div class="quick-links-qr-placeholder">QR</div>
+                  `}
                 </div>
               </div>
             </div>
@@ -669,7 +684,15 @@ function renderLessonsSection(section) {
                 scan the QR code<br>
                 for links.
               </a>
-              <div class="lesson-page-qr-placeholder">QR</div>
+              ${qrCodeUrl(section.linkPageUrl, 140) ? `
+                <img
+                  src="${escapeHtml(qrCodeUrl(section.linkPageUrl, 140))}"
+                  alt="QR code for lesson links"
+                  class="lesson-page-qr-placeholder"
+                />
+              ` : `
+                <div class="lesson-page-qr-placeholder">QR</div>
+              `}
             </div>
           </div>
 
