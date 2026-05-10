@@ -282,7 +282,7 @@
               "sequence": 7,
               "lessonLabel": "Lesson 7",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 7",
-              "body": "Division: Scratch and Galley Methods\n⍞ Materials: Number Stories of Long Ago\n\n➜ READ, NARRATE, & DISCUSS\np.75-77 \"Since this is\" - \"learned in school.\"\n\n➜ STUDY\nLook at the image. Can you find 1728 and 12? How many times will 12 go into 17? Work the problem our way. Can you find where Filippo recorded his answer?\n⍞ Image Resource: Number Stories of Long Ago \"How Filippo Proved His Work\" p.75",
+              "body": "Division: Scratch and Galley Methods\n⍞ Materials: Number Stories of Long Ago\n\n➜ READ, NARRATE, & DISCUSS\np.75-77 \"Since this is\" - \"learned in school.\"\n\n➜ STUDY\nLook at the image. Can you find 1728 and 12? How many times will 12 go into 17? Work the problem our way. Can you find where Filippo recorded his answer?\n⍞ Image Resource: Number Stories of Long Ago \"How Filippo Proved His Work\" p.76",
               "teacherNotes": "• IMPORTANT DATES\n1st Arithmetic Bk, England (1522)\n1st Arithmetic Bk, Mexico (1556)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectuoCTBBLEkwDc2&6J82c=recGsTi3PYpae6QYX",
               "links": []
@@ -338,7 +338,7 @@
               "sequence": 11,
               "lessonLabel": "Lesson 11",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 11",
-              "body": "Practice\n\n➜ RECAP\nWhat did you read last time?\n\n➜ PRACTICE\nHow many 5's will go into 565? Solve using manipulatives first and then with long division.\n\n➜ VIEW\nThis teacher is showing us three different algorithms for solving the same problem. An algorithm is a sort of shortcut for getting an answer without using real objects. Which do you think is easiest? Why?\n∞ Video Link: Three Methods of Division (5:10)",
+              "body": "Practice\n⍞ Materials: Number Stories of Long Ago\n\n➜ RECAP\nWhat did you read last time?\n\n➜ PRACTICE\nHow many 5's will go into 565? Solve using manipulatives first and then with long division.\n\n➜ VIEW\nThis teacher is showing us three different algorithms for solving the same problem. An algorithm is a sort of shortcut for getting an answer without using real objects. Which do you think is easiest? Why?\n∞ Video Link: Three Methods of Division (5:10)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectuoCTBBLEkwDc2&6J82c=rec2L5ajGXZPk05H9",
               "links": [
@@ -461,8 +461,8 @@
               "sequence": 19,
               "lessonLabel": "Lesson 19",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 19",
-              "body": "Number Puzzles: Heron and Gerbert\n⍞ Materials: Number Stories of Long Ago\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.98-99 \"One of the\" - \"do the trick?\"\n\n➜ STUDY\nThe box of numbers. Can you figure out how Adriaen chose his numbers so that the sum would be 29,997? [Try adding 2376 + 7623 and 4152 + 5847. Can you figure out the rest?]\n⍞ Image Resource: Number Stories of Long Ago, p.98-99",
-              "teacherNotes": "• IMPORTANT DATES\nHeron of Alexandria (10 A.D.-70 A.D.)",
+              "body": "Number Puzzles: Heron and Gerbert\n⍞ Materials: Number Stories of Long Ago\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.98-99 \"One of the\" - \"do the trick?\"\n\n➜ STUDY\nThe box of numbers. Can you figure out how Adriaen chose his numbers so that the sum would be 29,997? [Try adding 2376 + 7623 and 4152 + 5847. Can you figure out the rest?]\n⍞ Image Resource: Number Stories of Long Ago p.98-99",
+              "teacherNotes": "• IMPORTANT DATES\nHeron of Alexandria (10 AD-70 AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectuoCTBBLEkwDc2&6J82c=reckUrIdxnC3AHVv3",
               "links": []
             },
@@ -531,7 +531,7 @@
               "sequence": 24,
               "lessonLabel": "Lesson 24",
               "title": "15m Story of Arithmetic: Part 2 - Lesson 24",
-              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: \n⍞ Materials: Number Stories of Long Ago",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: \nNumber Stories of Long Ago",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectuoCTBBLEkwDc2&6J82c=rectVzmQeIg28krkt",
               "links": []
@@ -725,7 +725,7 @@
         },
         {
           "term": "Term 2",
-          "content": "· Number Stories of Long Ago: Tell what you know about how fractions have changed over time OR Tell about one of the number puzzles you found interesting."
+          "content": "· Number Stories of Long Ago: Tell what you know about how fractions have changed over time. OR Tell about one of the number puzzles you found interesting."
         },
         {
           "term": "Term 3",
