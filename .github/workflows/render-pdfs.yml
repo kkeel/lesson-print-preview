@@ -21,19 +21,20 @@ jobs:
 
     steps:
       - name: Checkout lesson print repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Checkout course-picker repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: kkeel/course-picker
           token: ${{ secrets.PLANNING_REPO_TOKEN }}
           path: course-picker
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: "22"
+          package-manager-cache: false
 
       - name: Install dependencies
         run: npm install
