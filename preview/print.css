@@ -357,24 +357,17 @@ body.pdf-mode * {
     widows: 3;
   }
 
-  body.pdf-mode .lesson-block {
-    border-top: 1.5px solid #8da08c !important;
-    background:
-      linear-gradient(
-        to right,
-        transparent 0,
-        transparent calc(100% - 1.85in),
-        #eef0f4 calc(100% - 1.85in),
-        #eef0f4 100%
-      ) !important;
-  }
+body.pdf-mode .lesson-block {
+  border-top: 1.5px solid #8da08c !important;
+  background: transparent !important;
+}
 
   body.pdf-mode .lesson-block:first-child {
     border-top: none !important;
   }
 
   body.pdf-mode .lesson-notes-col {
-    background: transparent !important;
+    background: #f4f6fa !important;
   }
 
   body.pdf-mode .lesson-notes-col.lesson-notes-empty {
