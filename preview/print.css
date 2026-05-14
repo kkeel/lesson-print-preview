@@ -357,33 +357,32 @@ body.pdf-mode * {
     widows: 3;
   }
 
-  body.pdf-mode .lesson-block {
-    border-top: 1.5px solid #8da08c !important;
-    background: #ffffff !important;
-  }
-
-  body.pdf-mode .lesson-block:first-child {
-    border-top: none !important;
-  }
-
-  body.pdf-mode .lesson-notes-col {
-    background: #f4f6fa !important;
-    box-sizing: border-box;
-    position: relative;
-  }
+    body.pdf-mode .lesson-block {
+      position: relative;
+      border-top: none !important;
+      background: #ffffff !important;
+    }
   
-  body.pdf-mode .lesson-notes-col::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    border-top: 1.5px solid #8da08c;
-  }
+    body.pdf-mode .lesson-block::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      border-top: 1px solid #8da08c;
+      z-index: 2;
+    }
   
-  body.pdf-mode .lesson-block:first-child .lesson-notes-col::before {
-    display: none;
-  }
+    body.pdf-mode .lesson-block:first-child::before {
+      display: none;
+    }
+  
+    body.pdf-mode .lesson-notes-col {
+      background: #f4f6fa !important;
+      box-sizing: border-box;
+      position: relative;
+      z-index: 1;
+    }
 
   body.pdf-mode .lesson-notes-col.lesson-notes-empty {
     min-height: 0 !important;
