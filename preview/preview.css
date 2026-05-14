@@ -93,7 +93,7 @@ body {
 .qr-placeholder {
   border: 1px dashed #999;
   background: #f7f7f7;
-  color: #666;
+  color: #111111;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -121,7 +121,7 @@ body {
   font-size: 13px;
   font-weight: 700;
   margin-bottom: 8px;
-  color: #555;
+  color: #596e5e;
 }
 
 /* lessons */
@@ -585,7 +585,7 @@ a:hover {
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 12px;
   line-height: 1.4;
-  color: #262b26;
+  color: #111111;
   margin: 0;
 }
 
@@ -663,7 +663,7 @@ a:hover {
 
 .schedule-table tr.course-books td {
   font-style: italic;
-  color: #596e5e;
+  color: #111111;
 }
 
 /* =========================
@@ -709,7 +709,7 @@ a:hover {
   font-size: 10px;
   line-height: 1.1;
   font-weight: 700;
-  color: #596e5e;
+  color: #111111;
   padding: 3px 6px;
   background: #f7f8f4;
   border-right: 1px solid #c7d0bd;
@@ -1158,7 +1158,7 @@ a:hover {
   font-family: "DM Sans", system-ui, sans-serif;
   font-size: 12px;
   line-height: 1.4;
-  color: #596e5e;
+  color: #111111;
   margin: 0;
 }
 
@@ -1524,7 +1524,7 @@ a:hover {
   letter-spacing: 0.015em;
   margin-top: 0.035in;
   margin-bottom: 0.008in;
-  color: #2f2f2f;
+  color: #111111;
 }
 
 .lesson-body br + .lesson-section-heading {
