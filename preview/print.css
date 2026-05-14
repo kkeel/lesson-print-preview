@@ -368,12 +368,21 @@ body.pdf-mode * {
 
   body.pdf-mode .lesson-notes-col {
     background: #f4f6fa !important;
-    border-top: 1.5px solid #8da08c !important;
     box-sizing: border-box;
+    position: relative;
   }
-
-  body.pdf-mode .lesson-block:first-child .lesson-notes-col {
-    border-top: none !important;
+  
+  body.pdf-mode .lesson-notes-col::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-top: 1.5px solid #8da08c;
+  }
+  
+  body.pdf-mode .lesson-block:first-child .lesson-notes-col::before {
+    display: none;
   }
 
   body.pdf-mode .lesson-notes-col.lesson-notes-empty {
