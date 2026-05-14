@@ -357,10 +357,10 @@ body.pdf-mode * {
     widows: 3;
   }
 
-body.pdf-mode .lesson-block {
-  border-top: 1.5px solid #8da08c !important;
-  background: transparent !important;
-}
+  body.pdf-mode .lesson-block {
+    border-top: 1.5px solid #8da08c !important;
+    background: #ffffff !important;
+  }
 
   body.pdf-mode .lesson-block:first-child {
     border-top: none !important;
@@ -368,6 +368,12 @@ body.pdf-mode .lesson-block {
 
   body.pdf-mode .lesson-notes-col {
     background: #f4f6fa !important;
+    border-top: 1.5px solid #8da08c !important;
+    box-sizing: border-box;
+  }
+
+  body.pdf-mode .lesson-block:first-child .lesson-notes-col {
+    border-top: none !important;
   }
 
   body.pdf-mode .lesson-notes-col.lesson-notes-empty {
