@@ -762,9 +762,14 @@ function renderLesson(lesson) {
   const editUrl = lesson.editUrl || "";
   
   const bodyLines = body.split("\n");
-  const subtitle = bodyLines[0] && !isLessonCalloutLine(bodyLines[0])
-    ? bodyLines.shift()
-    : "";
+  const firstBodyLine = (bodyLines[0] || "").trim();
+
+  const subtitle =
+    firstBodyLine &&
+    !isLessonCalloutLine(firstBodyLine) &&
+    !firstBodyLine.startsWith("➜")
+      ? bodyLines.shift()
+      : "";
   
   const calloutLines = [];
   
