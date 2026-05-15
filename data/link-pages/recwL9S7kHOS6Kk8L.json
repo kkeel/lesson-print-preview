@@ -14,31 +14,31 @@
     "History: Grades 11-12 (Canada)"
   ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-15T21:56:50.240Z",
+  "updatedAt": "2026-05-15T22:50:54.236Z",
   "terms": [
     {
       "termNumber": 1,
       "term": "Term 1",
       "weeks": [
         {
-          "weekNumber": 2,
-          "weekLabel": "Week 2",
+          "weekNumber": 1,
+          "weekLabel": "Week 1",
           "lessons": [
             {
-              "lessonId": "recSyDgv30R5k4oSe",
+              "lessonId": "recgdpfifL3284J4j",
               "termNumber": 1,
               "termLabel": "Term 1",
-              "weekNumber": 2,
-              "weekLabel": "Week 2",
-              "sequence": 3,
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 2,
               "sort": 0,
-              "lessonLabel": "Lesson 3",
-              "title": "30m Ancient History: Grades 10-12 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-3",
+              "lessonLabel": "Lesson 2",
+              "title": "40m Ancient History: Grades 10-12 - Lesson 2",
+              "anchor": "term-1-week-1-lesson-2",
               "links": [
                 {
-                  "text": "The Civil Wars - On the Gracch, Appian",
-                  "url": "https://sourcebooks.fordham.edu/ancient/appian-civwars1.asp"
+                  "text": "Interview with Nadya Williams",
+                  "url": "https://www.orangeblossomordinary.com/interviews/interview-with-nadya-williams-author-of-christians-reading-classics"
                 }
               ]
             }

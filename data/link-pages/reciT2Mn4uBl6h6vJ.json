@@ -14,12 +14,36 @@
     "World History: Grades 10-12",
     "Ancient History: Grades 10-12"
   ],
-  "updatedAt": "2026-05-15T21:56:50.243Z",
+  "updatedAt": "2026-05-15T22:50:54.241Z",
   "terms": [
     {
       "termNumber": 1,
       "term": "Term 1",
       "weeks": [
+        {
+          "weekNumber": 1,
+          "weekLabel": "Week 1",
+          "lessons": [
+            {
+              "lessonId": "rec1USLYwgd07G1GI",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 1,
+              "weekLabel": "Week 1",
+              "sequence": 2,
+              "sort": 100105,
+              "lessonLabel": "",
+              "title": "40m Ancient History: Grades 10-12 - Lesson 2",
+              "anchor": "term-1-week-1-lesson-2",
+              "links": [
+                {
+                  "text": "Interview with Nadya Williams ",
+                  "url": "https://www.orangeblossomordinary.com/interviews/interview-with-nadya-williams-author-of-christians-reading-classics"
+                }
+              ]
+            }
+          ]
+        },
         {
           "weekNumber": 2,
           "weekLabel": "Week 2",
@@ -39,24 +63,6 @@
                 {
                   "text": "Primary vs. Secondary Sources: The Differences Explained",
                   "url": "https://www.youtube.com/watch?v=CPQ95B95bWE"
-                }
-              ]
-            },
-            {
-              "lessonId": "recMhr6T9q72tS0Wm",
-              "termNumber": 1,
-              "termLabel": "Term 1",
-              "weekNumber": 2,
-              "weekLabel": "Week 2",
-              "sequence": 3,
-              "sort": 100203,
-              "lessonLabel": "",
-              "title": "30m Ancient History: Grades 10-12 - Lesson 3",
-              "anchor": "term-1-week-2-lesson-3",
-              "links": [
-                {
-                  "text": "The Civil Wars - On the Gracch, Appian",
-                  "url": "https://sourcebooks.fordham.edu/ancient/appian-civwars1.asp"
                 }
               ]
             }
@@ -786,6 +792,24 @@
           "weekNumber": 33,
           "weekLabel": "Week 9",
           "lessons": [
+            {
+              "lessonId": "recUxKs0cgFsTH4xh",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 33,
+              "sort": 303301,
+              "lessonLabel": "",
+              "title": "30m World History: Grades 10-12 - Lesson 33",
+              "anchor": "term-3-week-33-lesson-33",
+              "links": [
+                {
+                  "text": "The Proclamation of the German Empire on January 18, 1871,",
+                  "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/anton-von-werner-the-proclamation-of-the-german-empire-january-18-1871-friedrichsruh-version-1885"
+                }
+              ]
+            },
             {
               "lessonId": "rec56FXrI5lbIDvQ7",
               "termNumber": 3,
