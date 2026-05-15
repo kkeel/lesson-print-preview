@@ -1673,6 +1673,161 @@ a:hover {
   height: 0.085in;
 }
 
+/* =========================
+   PDF heading size normalization
+   Cover intentionally excluded
+   ========================= */
+
+/* Page titles */
+.howto-page-title,
+.lesson-page-title,
+.exam-page-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #596e5e;
+}
+
+/* Major green bands */
+.howto-page-subtitle,
+.exam-page-subtitle,
+.term-banner {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+/* Major section headings inside pages */
+.header-entry-title,
+.howto-prompt-title,
+.exam-term-label {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #596e5e;
+}
+
+/* Smaller subsection headings */
+.planning-prep-subtitle {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+/* Smaller subsection headings */
+.books-resource-topic h4,
+.supplies-resource-topic h4,
+.quick-links-topic h4,
+.exam-topic-heading {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+/* =========================
+   PDF body text normalization
+   ========================= */
+
+/* Main readable body text */
+.header-block p,
+.header-entry p,
+.planning-prep-entry p,
+.books-resources-intro,
+.books-resources-link-line,
+.books-resource-title,
+.supplies-resources-intro,
+.supplies-resources-link-line,
+.supplies-resources-empty,
+.supplies-resource-title,
+.quick-link-row,
+.quick-links-page-link,
+.quick-links-empty,
+.howto-content p,
+.lesson-main-col,
+.lesson-body,
+.lesson-notes-col,
+.lesson-title-line,
+.lesson-subtitle-line,
+.lesson-materials-box,
+.exam-content {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.48;
+  color: #111111;
+}
+
+/* Uppercase / label-style helper text */
+.lesson-week-col,
+.header-page-subbar-grade,
+.cover-footer-line {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.48;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.cover-footer-line {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.48;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+/* Link text */
+.lesson-page-linkbox a,
+.books-resources-link-line a,
+.supplies-resources-link-line a,
+.quick-link-row a,
+.quick-links-page-link {
+  font-size: 13px;
+  line-height: 1.48;
+}
+
+/* =========================
+   PDF schedule + weekly table text normalization
+   ========================= */
+
+/* Scheduling table */
+.schedule-table,
+.schedule-table th,
+.schedule-table td {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 9px;
+  line-height: 1.1;
+}
+
+/* Sample Weekly View title */
+.weekly-view-title {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 9px;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+/* Sample Weekly View grid */
+.weekly-view-grid,
+.weekly-view-day-header,
+.weekly-view-row-full,
+.weekly-view-cell {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 9px;
+  line-height: 1.1;
+}
+
+/* Keep table/grid labels bold */
+.schedule-table thead th,
+.weekly-view-day-header,
+.weekly-view-row-full {
+  font-weight: 700;
+}
+
 /* Hide PDF-only repeated-header lesson layout on normal edit preview pages */
 .lesson-print-table {
   display: none;
