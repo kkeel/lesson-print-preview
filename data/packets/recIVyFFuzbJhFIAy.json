@@ -36,7 +36,7 @@
           "entries": [
             {
               "title": "About the Course",
-              "content": "Students learn about the electoral process, the different aspects of parliamentary government, the Canadian legal system, and the concept of citizenship. The will spend the final term learning about the structure of our local and provincial authorities.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (Canada)"
+              "content": "Students learn about the electoral process, the different aspects of parliamentary government, the Canadian legal system, and the concept of citizenship. They will spend the final term learning about the structure of our local and provincial authorities.\n\nThis topic is included in the following course(s): Citizenship: Grade 7 (Canada)"
             }
           ]
         },
@@ -185,8 +185,8 @@
               "sequence": 1,
               "lessonLabel": "Lesson 1",
               "title": "25m Canadian Government: Grade 7 - Lesson 1",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Introduction\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ INTRO\nHow would you answer the question that is in the title of the book you will begin reading today? Who is in charge in Canada? How does our country make decisions? How does a law get made? What happens during an election? In this course, you will learn about the electoral process, the different aspects of parliamentary government, the Canadian legal system, and the concept of citizenship. \n\n➜ READ, NARRATE, & DISCUSS\np.1-6 \"All week our classmates\" - \"in a moment.\" (Audiobook chapters 1-2)\n\n➜ NOTEBOOK\nThe Citizenship Notebook is an excellent place to keep track of definitions and to copy in diagrams. If any of these terms are new to you, you may choose to include definitions in your notebook: democracy, municipal, federal, parliament, legislature, legislative, executive, judicial. The diagram on page 6 would also be a good one to copy.",
+              "teacherNotes": "★ TEACHER TIP\nIf you are using the audio recording of the book, the readings will correspond with the audiobook chapters (with timestamps, if necessary), and the recordings clearly denote the corresponding page numbers.\nStudents can be encouraged to take notes as they listen to the audio recording.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rec6OuxRXpCvPFW1W",
               "links": []
             },
@@ -199,10 +199,23 @@
               "sequence": 2,
               "lessonLabel": "Lesson 2",
               "title": "25m Canadian Government: Grade 7 - Lesson 2",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Senators, the Supreme Court, and the Prime Minister\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember about the three levels of government from last week?\n\n➜ READ, NARRATE, & DISCUSS\np.7-11 \"When adults talk\" - \"by the government.\" (Audiobook chapters 3 0:00-8:49)\nThe following are points you can discuss with your parent or teacher, or write about in your citizenship notebook.\n• Who are Senators, and what are the four important roles of the Senate?\n• What is the role of the Supreme Court?\n• What is the role of the Prime Minister? What kinds of appointments can he or she make?\n\n➜ VIEW\nThe main Parliament building in Ottawa, known as Centre Block, is currently closed for renovations. Take a tour of the current House of Common at West Block.\n∞ Video Link: Explore the House of Commons at West Block \n\n2\\. Take a tour of the Senate's temporary home in an unexpected place!\n∞ Video Link: Explore the Senate of Canada Building",
+              "teacherNotes": "• EXTRA HELPING\nHave you ever wondered how and why Ottawa was chosen as Canada's capital city?\n∞ Video Link: The Selection of Ottawa as the Capital of Canada",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recgLLPZQaEWUTfYc",
-              "links": []
+              "links": [
+                {
+                  "text": "Explore the House of Commons at West Block",
+                  "url": "https://www.youtube.com/watch?v=so1njjXhBmM"
+                },
+                {
+                  "text": "Explore the Senate of Canada Building",
+                  "url": "https://www.youtube.com/watch?v=ytGC3AxXdzw"
+                },
+                {
+                  "text": "The Selection of Ottawa as the Capital of Canada",
+                  "url": "https://www.youtube.com/watch?v=cOxVFdcWxWY"
+                }
+              ]
             },
             {
               "lessonId": "recz7kFhAwTlCZxLv",
@@ -213,10 +226,19 @@
               "sequence": 3,
               "lessonLabel": "Lesson 3",
               "title": "25m Canadian Government: Grade 7 - Lesson 3",
-              "body": "",
+              "body": "More Government Positions and the British North America Act\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from last week about the various positions in Parliament?\n\n➜ READ, NARRATE, & DISCUSS\np.12-17 \"If Nathan were the prime minister\"- \"strong as written laws!\" (Audiobook: from chapter 3 at 8:50 to the end of chapter 4)\n\n➜ VIEW\n1\\. Learn more about the role and duties of the Governor General.\n∞ Video Link: What are the duties of Canada's governor general? \n\n2\\. Learn more about the British North America Act.\n∞ Video Link: The Words That Shaped Canada: The British North America Act",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recz7kFhAwTlCZxLv",
-              "links": []
+              "links": [
+                {
+                  "text": "What are the duties of Canada's governor general?",
+                  "url": "https://www.youtube.com/watch?v=jRHuBs_ZhEU"
+                },
+                {
+                  "text": "The Words That Shaped Canada: The British North America Act",
+                  "url": "https://www.youtube.com/watch?v=f1dWKXyt2QE"
+                }
+              ]
             },
             {
               "lessonId": "rec1GqDKdGtJXtWy0",
@@ -227,10 +249,19 @@
               "sequence": 4,
               "lessonLabel": "Lesson 4",
               "title": "25m Canadian Government: Grade 7 - Lesson 4",
-              "body": "",
+              "body": "Confederation, The Constitution Act, and the Charter\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.18-23 \"Why mess with perfection?\"- \"equality of men and women.\" (Audiobook: Chapter 5)\nDiscuss these points with your parent/teacher, or make some notes in your citizenship notebook:\n• What changes were made with the Constitution Act of 1982?\n• What types of rights are guaranteed in the Canadian Charter of Rights and Freedoms?\n\n➜ VIEW\n1\\. Learn more about Canada's Constitution\n∞ Video Link: What is the Canadian Constitution?\n\n2\\. Test your knowledge of what are rights and what are freedoms with an online activity.\n∞ Link: Understanding Rights and Freedoms",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rec1GqDKdGtJXtWy0",
-              "links": []
+              "links": [
+                {
+                  "text": "What is the Canadian Constitution?",
+                  "url": "https://www.youtube.com/watch?v=FzFXd0NcvVw"
+                },
+                {
+                  "text": "Understanding Rights and Freedoms",
+                  "url": "https://learn.parl.ca/en/games/game2/index.html"
+                }
+              ]
             },
             {
               "lessonId": "recKrJ7b7C8fMmoyM",
@@ -241,8 +272,8 @@
               "sequence": 5,
               "lessonLabel": "Lesson 5",
               "title": "25m Canadian Government: Grade 7 - Lesson 5",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Winners & Losers\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from last week's reading about Canada's Constitution?\n\n➜ READ, NARRATE, & DISCUSS\np.24-27 \"Some people are so keen\" - \"it all depends!\" (Audiobook: Chapter 6)\n\n➜ NOTEBOOK\nChoose one of the federal referendums on page 27 and create a pros/cons list of reasons why someone might vote for or against the question.\nMark a few notable dates regarding the history of voting in Canada in your notebook or Timeline.",
+              "teacherNotes": "• COMPOSITION\nImagine you are going to start your own political party. What are some issues that matter the most to you? Define 3-5 foundational positions that your party would hold.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recKrJ7b7C8fMmoyM",
               "links": []
             },
@@ -255,7 +286,7 @@
               "sequence": 6,
               "lessonLabel": "Lesson 6",
               "title": "25m Canadian Government: Grade 7 - Lesson 6",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rec6sakNkenYMcDh3",
               "links": []
@@ -269,10 +300,15 @@
               "sequence": 7,
               "lessonLabel": "Lesson 7",
               "title": "25m Canadian Government: Grade 7 - Lesson 7",
-              "body": "",
+              "body": "Election Time\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from the reading last time about political parties and voting?\n\n➜ READ, NARRATE, & DISCUSS\np.28-31 \"How will you\" - \"Congratulations!\" (Audiobook: Chapter 7 0:00-6:09)\n\n➜ ACTIVITY\nTest your knowledge of how elections are called and how they function.\n∞ Link: Parliament and Elections",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rec2pkrd3byYS2YYr",
-              "links": []
+              "links": [
+                {
+                  "text": "Parliament and Elections",
+                  "url": "https://learn.parl.ca/en/games/game5/index.html"
+                }
+              ]
             },
             {
               "lessonId": "recBBppUp14rDdGjh",
@@ -283,10 +319,15 @@
               "sequence": 8,
               "lessonLabel": "Lesson 8",
               "title": "25m Canadian Government: Grade 7 - Lesson 8",
-              "body": "",
+              "body": "Campaigns and Voters\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from the reading last time about calling an election?\n\n➜ READ, NARRATE, & DISCUSS\np.32-35 \"Are you ready\" - \"always had the vote.\" (Audiobook: chapter 7, 6:10-end)\n• Looking at the timeline on page 35 (reproduced in Chapter 7 of the audio membership), determine when your province or territory first granted women the right to vote.\n\n➜ WATCH \nLearn more about Nellie McClung and her quest to get the vote for women.\n∞ Video Link: Heritage Minutes: Nellie McClung",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recBBppUp14rDdGjh",
-              "links": []
+              "links": [
+                {
+                  "text": "Heritage Minutes: Nellie McClung",
+                  "url": "https://www.youtube.com/watch?v=SdbG6EIHrbs"
+                }
+              ]
             },
             {
               "lessonId": "recqdYSFKMxTRkX6u",
@@ -297,7 +338,7 @@
               "sequence": 9,
               "lessonLabel": "Lesson 9",
               "title": "25m Canadian Government: Grade 7 - Lesson 9",
-              "body": "",
+              "body": "Election Day\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from last week's reading about starting an election campaign?\n\n➜ READ, NARRATE, & DISCUSS\np.36-43 \"Even though it's so easy\" - \"late into the evenings.\" (Audiobook: Chapter 8)\n• Describe some of the activities that take place on election day.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recqdYSFKMxTRkX6u",
               "links": []
@@ -311,10 +352,23 @@
               "sequence": 10,
               "lessonLabel": "Lesson 10",
               "title": "25m Canadian Government: Grade 7 - Lesson 10",
-              "body": "",
+              "body": "Election Day\n⍞ Materials: Who Runs This Country, Anyway?\n\n➜ RECAP\nWhat do you remember from last week's reading about election day?\n\n➜ READ, NARRATE, & DISCUSS\np.44-47 \"Both you and Nathan\" - \"who elected them.\" (Audiobook: Chapter 9)\n\n➜ WATCH\n1\\. Learn more about how MPs are elected and what happens to Parliament after an election.\n∞ Video Link: How do elections affect Canada's Parliament? \n\n2\\. Learn more about majority and minority governments.\n∞ Video Link: What are majority and minority governments? \n\n3\\. Learn more about what the term \"Responsible Government\" means.\n∞ Video Link: What is responsible government?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recVxhIZpMnOdbAGW",
-              "links": []
+              "links": [
+                {
+                  "text": "How do elections affect Canada's Parliament?",
+                  "url": "https://www.youtube.com/watch?v=TYAmWxAX06E"
+                },
+                {
+                  "text": "What are majority and minority governments?",
+                  "url": "https://www.youtube.com/watch?v=3WHr8j0yNvI"
+                },
+                {
+                  "text": "What is responsible government?",
+                  "url": "https://www.youtube.com/watch?v=cinl2PwTlBA"
+                }
+              ]
             },
             {
               "lessonId": "rechwb1W1fky0a1YK",
@@ -325,7 +379,7 @@
               "sequence": 11,
               "lessonLabel": "Lesson 11",
               "title": "25m Canadian Government: Grade 7 - Lesson 11",
-              "body": "",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings. You can also work on updating your Timeline, Book of Centuries or Citizenship Notebook.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rechwb1W1fky0a1YK",
               "links": []
@@ -339,7 +393,7 @@
               "sequence": 12,
               "lessonLabel": "Lesson 12",
               "title": "25m Canadian Government: Grade 7 - Lesson 12",
-              "body": "",
+              "body": "➜ EXAMS\n\nAnswer question(s) related to course.\n\nQuestions will come from:\nWho Runs This Country, Anyway?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recWCYM2IWi3OQVTS",
               "links": []
@@ -359,7 +413,7 @@
               "sequence": 13,
               "lessonLabel": "Lesson 13",
               "title": "25m Canadian Government: Grade 7 - Lesson 13",
-              "body": "",
+              "body": "48-51\nTour videos\nBook of Remembrance\nLibrary of Parliament",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recmwypOVd35zmyY5",
               "links": []
@@ -373,7 +427,7 @@
               "sequence": 14,
               "lessonLabel": "Lesson 14",
               "title": "25m Canadian Government: Grade 7 - Lesson 14",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recX5zsCNW1FgOVBr",
               "links": []
@@ -387,10 +441,19 @@
               "sequence": 15,
               "lessonLabel": "Lesson 15",
               "title": "25m Canadian Government: Grade 7 - Lesson 15",
-              "body": "",
+              "body": "52-55\n\nParliament and Elections\nParliament at Work: House of Commons",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=reclhCpCVX1HksfWo",
-              "links": []
+              "links": [
+                {
+                  "text": "Parliament and Elections",
+                  "url": "https://learn.parl.ca/en/games/game5/index.html"
+                },
+                {
+                  "text": "Parliament at Work: House of Commons",
+                  "url": "https://learn.parl.ca/en/games/game7/index.html"
+                }
+              ]
             },
             {
               "lessonId": "recrY9lpc5wQQMZI1",
@@ -401,7 +464,7 @@
               "sequence": 16,
               "lessonLabel": "Lesson 16",
               "title": "25m Canadian Government: Grade 7 - Lesson 16",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recrY9lpc5wQQMZI1",
               "links": []
@@ -415,7 +478,7 @@
               "sequence": 17,
               "lessonLabel": "Lesson 17",
               "title": "25m Canadian Government: Grade 7 - Lesson 17",
-              "body": "",
+              "body": "56-62",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=reclrGvRujw6LmU7B",
               "links": []
@@ -429,7 +492,7 @@
               "sequence": 18,
               "lessonLabel": "Lesson 18",
               "title": "25m Canadian Government: Grade 7 - Lesson 18",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=reclyPJvURrPP1Tax",
               "links": []
@@ -457,7 +520,7 @@
               "sequence": 20,
               "lessonLabel": "Lesson 20",
               "title": "25m Canadian Government: Grade 7 - Lesson 20",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recRAWCrOVIR0JAPk",
               "links": []
@@ -485,7 +548,7 @@
               "sequence": 22,
               "lessonLabel": "Lesson 22",
               "title": "25m Canadian Government: Grade 7 - Lesson 22",
-              "body": "",
+              "body": "Current Events - Government\n\n➜ READ & NARRATE\nFind a current events article about your government. Narrate your chosen article either orally or in writing.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=reckfGy3ClZp2OLbd",
               "links": []
@@ -513,7 +576,7 @@
               "sequence": 24,
               "lessonLabel": "Lesson 24",
               "title": "25m Canadian Government: Grade 7 - Lesson 24",
-              "body": "",
+              "body": "➜ EXAMS\n\nAnswer question(s) related to course.\n\nQuestions will come from:",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recC2jW7Nu6mXBCOA",
               "links": []
@@ -624,7 +687,7 @@
               "sequence": 29,
               "lessonLabel": "Lesson 29",
               "title": "25m Canadian Government: Grade 7 - Lesson 29",
-              "body": "Provincial Government\n\n➜ INTRO\nEach province and territory has a legislative assembly, forming the provincial level of government. Each province and territory is divided into electoral districts with a representative to the legislative assembly from each district. The boundaries of your provincial electoral district may differ from the federal one. The provincial representative have difference titles in different provinces/territories (e.g. Member of Provincial Parliament (MPP) in Ontario, Members of the National Assembly (MNA) in Quebec, and Members of the Legislative Assembly (MLA) in most other places). The leader of the party with the most seats becomes the premier.\nEach province also has a Lieutenant Governor who, like the Governor General, is the representative of the King of Canada for each province and territory.\nToday, you are going to do some research about your local provincial electoral district. By using the resources below, and through additional research with help from your parent or teacher, see if you can answer the following questions:\nWho is the premier of your province/territory and what is their political party?\nWhat is the name of your local provincial electoral district?\nCan you find a map of it?\nWho is your representative, and what title do they have in your province/territory?\nWhat party do they belong to?\nWhen was the most recent election?\nWho were the other candidates in the most recent election?\nWhat percentage of the vote did each candidate receive?\nCan you find out more information about your representative from their own website?\nWho is your Lieutenant Governor and how long have they served in this role?\n\n➜ VIEW\nFind the Elections website for your home province or territory (use search terms \"election\" and name of province/territory)",
+              "body": "Provincial Government\n\n➜ INTRO\nEach province and territory has a legislative assembly, forming the provincial level of government. Each province and territory is divided into electoral districts with a representative to the legislative assembly from each district. The boundaries of your provincial electoral district may differ from the federal one. The provincial representative have difference titles in different provinces/territories (e.g. Member of Provincial Parliament (MPP) in Ontario, Members of the National Assembly (MNA) in Quebec, Members of the House of Assembly (MHA) in Newfoundland and Labrador, and Members of the Legislative Assembly (MLA) in most other places). The leader of the party with the most seats becomes the premier.\nEach province also has a Lieutenant Governor who, like the Governor General, is the representative of the King of Canada for each province and territory.\nToday, you are going to do some research about your local provincial electoral district. By using the resources below, and through additional research with help from your parent or teacher, see if you can answer the following questions:\nWho is the premier of your province/territory and what is their political party?\nWhat is the name of your local provincial electoral district?\nCan you find a map of it?\nWho is your representative, and what title do they have in your province/territory?\nWhat party do they belong to?\nWhen was the most recent election?\nWho were the other candidates in the most recent election?\nWhat percentage of the vote did each candidate receive?\nCan you find out more information about your representative from their own website?\nWho is your Lieutenant Governor and how long have they served in this role?\n\n➜ VIEW\nFind the Elections website for your home province or territory (use search terms \"election\" and name of province/territory)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=recTQ67xGPzu9P8Yl",
               "links": []
@@ -666,7 +729,7 @@
               "sequence": 32,
               "lessonLabel": "Lesson 32",
               "title": "25m Canadian Government: Grade 7 - Lesson 32",
-              "body": "",
+              "body": "➜ READ & NARRATE\nFind a current events article about your local municipal government. Narrate your chosen article either orally or written.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rechFo04t3BJE5JhU",
               "links": []
@@ -680,7 +743,7 @@
               "sequence": 33,
               "lessonLabel": "Lesson 33",
               "title": "25m Canadian Government: Grade 7 - Lesson 33",
-              "body": "",
+              "body": "Write a Letter\n\n➜ INTRO\nToday you are going to write a letter to one of your elected officials. Whether or not you decide to send the letter is up to you. Brainstorm some issues that are important to you, or ask yourself what is one thing you would like to improve about where you live. Do some research about the issue: what needs to change? what has been done about it in the past? Then think about what level of government oversees that area. You can return to the activities from Lesson 25 if you need a refresher. Your local representative for that level of government is the recipient of your letter.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rec9kKvo0XtRm2TQi",
               "links": []
@@ -722,12 +785,27 @@
               "sequence": 36,
               "lessonLabel": "Lesson 36",
               "title": "25m Canadian Government: Grade 7 - Lesson 36",
-              "body": "",
+              "body": "➜ EXAMS\n\nAnswer question(s) related to course.\n\nQuestions will come from:",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recIVyFFuzbJhFIAy&6J82c=rectISTIlKhbQt3hM",
               "links": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "exams",
+      "title": "Canadian Government: Grade 7",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Explain at least two changes that occurred with the Constitution Act of 1982 OR Describe the steps involved from calling an election to the tallying of votes on election day."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Explain what the three levels of government are, including what services and issues each of them oversees OR Describe one of the articles you read this term."
         }
       ]
     }

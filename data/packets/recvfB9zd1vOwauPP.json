@@ -55,7 +55,7 @@
               "label": "Lower Spanish: Grades 1-6",
               "grade": "1-6",
               "scheduleInfo": "Lower Spanish: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
-              "books": "Spanish: Student Notebook||Spanish: Grades 1-6 SoundCloud Playlists||Fábulas de Esopo: Edición Clásica||Family Pictures/Cuadros de familia||Diez Deditos and Other Play Rhymes and Action Songs from Latin America||Diez Deditos (Audio mp3)"
+              "books": "Spanish: Student Notebook||Fábulas de Esopo: Edición Clásica||Family Pictures/Cuadros de familia||Diez Deditos and Other Play Rhymes and Action Songs from Latin America||Diez Deditos (Audio mp3)"
             }
           ],
           "weeklyView": {
@@ -95,10 +95,6 @@
                 {
                   "title": "Spanish: Student Notebook",
                   "resourceId": "recsOabaI6mTRal2Y"
-                },
-                {
-                  "title": "Spanish: Grades 1-6 SoundCloud Playlists",
-                  "resourceId": "recmlS0kgz4JEV3Aw"
                 },
                 {
                   "title": "Fábulas de Esopo: Edición Clásica",

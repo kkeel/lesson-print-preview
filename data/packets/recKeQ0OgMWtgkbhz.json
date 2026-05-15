@@ -214,27 +214,27 @@
                 {
                   "label": "Alveary Reading Lesson Placement",
                   "url": "https://drive.google.com/file/d/1LacFQJKYjPCSfdMKrhHZfzQYEh0CfYzp/view?usp=drive_link",
-                  "sort": ""
-                },
-                {
-                  "label": "Errata Page: Reading Level 2 for lessons released prior to 11/19/25",
-                  "url": "https://drive.google.com/file/d/1AfVSc2XFwcxA8c1ZB0UjoRgIo1O6Aty8/view?usp=drive_link",
-                  "sort": ""
-                },
-                {
-                  "label": "Level 2 Teacher Guide",
-                  "url": "https://drive.google.com/file/d/1Pz1YvHneP2jzA1gok2s6t-v76K00n2Eh/view",
-                  "sort": ""
+                  "sort": "1"
                 },
                 {
                   "label": "Literacy Development from Birth to Age 9",
                   "url": "https://docs.google.com/document/d/14aiBeoKftBqos9DDvIt8YAczJyAHo6ia5P_6fT5czqs/export?format=pdf",
-                  "sort": ""
+                  "sort": "2"
+                },
+                {
+                  "label": "Level 2 Teacher Guide",
+                  "url": "https://drive.google.com/file/d/1Pz1YvHneP2jzA1gok2s6t-v76K00n2Eh/view",
+                  "sort": "3"
                 },
                 {
                   "label": "Scholastic webpage",
                   "url": "http://teacher.scholastic.com/education/guidedreading/leveling_chart.htm",
-                  "sort": ""
+                  "sort": "4"
+                },
+                {
+                  "label": "Errata Page: Reading Level 2 for lessons released prior to 11/19/25",
+                  "url": "https://drive.google.com/file/d/1AfVSc2XFwcxA8c1ZB0UjoRgIo1O6Aty8/view?usp=drive_link",
+                  "sort": "5"
                 }
               ]
             }

@@ -237,6 +237,17 @@
               "links": []
             },
             {
+              "title": "Hymns & Spirituals",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Hymns, Spirituals, & Folk Songs PDF",
+                  "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view?usp=sharing",
+                  "sort": ""
+                }
+              ]
+            },
+            {
               "title": "Composer Study",
               "type": "topic",
               "links": [

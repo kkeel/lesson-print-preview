@@ -193,7 +193,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reczI18s7yrqe1poa",
-          "groups": []
+          "groups": [
+            {
+              "title": "Hymns & Spirituals",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Hymns, Spirituals, & Folk Songs PDF",
+                  "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view?usp=sharing",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
