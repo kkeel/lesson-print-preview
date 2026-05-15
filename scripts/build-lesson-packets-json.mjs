@@ -99,6 +99,7 @@ const LESSON_DETAIL_FIELDS = [
   "Lesson Body",
   "Teacher Notes",
   "Lesson_WritingURL",
+  "Lesson Links URL",
   "URL 1",
   "URL 2",
   "URL 3",
@@ -123,6 +124,7 @@ const COURSE_LESSON_FIELDS = [
   "Lesson Body",
   "Teacher Notes",
   "Lesson_WritingURL",
+  "Lesson Links URL",
   "URL 1",
   "URL 2",
   "URL 3",
@@ -1072,6 +1074,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
           body: normalizeRichText(lf["Lesson Body"]),
           teacherNotes: normalizeRichText(lf["Teacher Notes"]),
           editUrl: normalizeText(lf["Lesson_WritingURL"]),
+          lessonLinksUrl: normalizeText(lf["Lesson Links URL"]),
           links: buildLessonLinks(lf)
         };
       });
@@ -1102,6 +1105,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
         body: normalizeRichText(lf["Lesson Body"]),
         teacherNotes: normalizeRichText(lf["Teacher Notes"]),
         editUrl: normalizeText(lf["Lesson_WritingURL"]),
+        lessonLinksUrl: normalizeText(lf["Lesson Links URL"]),
         links: buildLessonLinks(lf)
       });
     }
