@@ -53,6 +53,8 @@ jobs:
       - name: Render PDFs
         env:
           RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
         run: npm run render-pdfs
 
       - name: Copy PDFs into planning repo
