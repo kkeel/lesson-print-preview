@@ -135,6 +135,7 @@ function buildRowsForPacket(packet) {
 
   const rows = [];
   const courseCustomId = `alveary-${packet.id}`;
+  const termNumber = Number(term.termNumber || 0);
 
   for (const term of lessonsSection.terms || []) {
     const lessons = term.lessons || [];
@@ -151,7 +152,7 @@ function buildRowsForPacket(packet) {
       const splitNotes = splitTeacherNotesForSyllabird(lesson.teacherNotes || "");
       const examContent =
         getAssignmentType(packet, lesson) === "Exam"
-          ? getExamContentForTerm(packet, lesson.termNumber)
+          ? getExamContentForTerm(packet, termNumber)
           : "";
       
       const assignmentBody = appendBlocks(
