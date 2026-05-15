@@ -135,11 +135,10 @@ function buildRowsForPacket(packet) {
 
   const rows = [];
   const courseCustomId = `alveary-${packet.id}`;
-  const termNumber = Number(term.termNumber || 0);
-
+  
   for (const term of lessonsSection.terms || []) {
+    const termNumber = Number(term.termNumber || 0);
     const lessons = term.lessons || [];
-
     const weekCounters = new Map();
 
     for (const lesson of lessons) {
