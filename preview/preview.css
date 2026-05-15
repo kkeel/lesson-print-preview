@@ -1,9 +1,31 @@
 @font-face {
   font-family: "Circular Pro";
-  src:
-    url("../assets/fonts/circular/circularpro-medium-webfont.woff2") format("woff2"),
-    url("../assets/fonts/circular/circularpro-medium-webfont.woff") format("woff");
-  font-weight: 300 700;
+  src: url("../assets/fonts/circular/CircularPro-Book.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Circular Pro";
+  src: url("../assets/fonts/circular/CircularPro-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Circular Pro";
+  src: url("../assets/fonts/circular/CircularPro-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Circular Pro";
+  src: url("../assets/fonts/circular/CircularPro-Black.otf") format("opentype");
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
