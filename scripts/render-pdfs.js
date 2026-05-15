@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 import { chromium } from "playwright";
+import { PDFDocument } from "pdf-lib";
 
 const BASE_URL =
   "https://kkeel.github.io/lesson-print-preview/preview/print.html?id=";
@@ -14,6 +15,11 @@ const MANIFEST_PATH =
 const INDEX_PATH = "./data/packet-index.json";
 
 const RENDER_MODE = process.env.RENDER_MODE || "changed";
+
+const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
+const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
+const AIRTABLE_TABLE_NAME = "Lesson Plan Sets";
+const AIRTABLE_PAGE_COUNT_FIELD = "PDF Page Count";
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -52,6 +58,45 @@ function saveManifest(manifest) {
     path.join(OUTPUT_DIR, "pdf-manifest.json"),
     JSON.stringify(manifest, null, 2)
   );
+}
+
+async function getPdfPageCount(pdfPath) {
+  const pdfBytes = fs.readFileSync(pdfPath);
+  const pdfDoc = await PDFDocument.load(pdfBytes);
+  return pdfDoc.getPageCount();
+}
+
+async function updateAirtablePageCount(recordId, pageCount) {
+  if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
+    console.warn("Skipping Airtable page count update: missing Airtable env vars.");
+    return;
+  }
+
+  const tableName = encodeURIComponent(AIRTABLE_TABLE_NAME);
+
+  const res = await fetch(
+    `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${tableName}/${recordId}`,
+    {
+      method: "PATCH",
+      headers: {
+        Authorization: `Bearer ${AIRTABLE_TOKEN}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        fields: {
+          [AIRTABLE_PAGE_COUNT_FIELD]: pageCount
+        }
+      })
+    }
+  );
+
+  if (!res.ok) {
+    throw new Error(
+      `Airtable page count update failed for ${recordId}: ${res.status} ${await res.text()}`
+    );
+  }
+
+  console.log(`Updated Airtable page count: ${recordId} = ${pageCount}`);
 }
 
 async function renderPdf(record) {
@@ -95,7 +140,16 @@ async function renderPdf(record) {
 
   await browser.close();
 
+  const pageCount = await getPdfPageCount(outputPath);
+
   console.log(`Saved: ${filename}`);
+  console.log(`Page count: ${pageCount}`);
+
+  return {
+    filename,
+    outputPath,
+    pageCount
+  };
 }
 
 async function main() {
@@ -141,11 +195,14 @@ async function main() {
         continue;
       }
 
-      await renderPdf(record);
+      const renderedPdf = await renderPdf(record);
+
+      await updateAirtablePageCount(record.id, renderedPdf.pageCount);
 
       manifest[record.id] = {
         hash: currentHash,
         filename,
+        pageCount: renderedPdf.pageCount,
         updatedAt: new Date().toISOString()
       };
 
