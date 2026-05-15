@@ -36,6 +36,52 @@ function textToHtml(value) {
     .join("");
 }
 
+function splitTeacherNotesForSyllabird(value) {
+  const text = String(value ?? "").trim();
+
+  if (!text) {
+    return {
+      bodyAppendix: "",
+      teacherNotes: ""
+    };
+  }
+
+  const blocks = text
+    .split(/\n\s*\n+/)
+    .map(block => block.trim())
+    .filter(Boolean);
+
+  const bodyBlocks = [];
+  const teacherOnlyBlocks = [];
+
+  for (const block of blocks) {
+    const upper = block.toUpperCase();
+
+    const isTeacherOnly =
+      upper.includes("★") &&
+      upper.includes("TEACHER") &&
+      !upper.includes("STUDENT/TEACHER");
+
+    if (isTeacherOnly) {
+      teacherOnlyBlocks.push(block);
+    } else {
+      bodyBlocks.push(block);
+    }
+  }
+
+  return {
+    bodyAppendix: bodyBlocks.join("\n\n"),
+    teacherNotes: teacherOnlyBlocks.join("\n\n")
+  };
+}
+
+function appendBlocks(...blocks) {
+  return blocks
+    .map(block => String(block ?? "").trim())
+    .filter(Boolean)
+    .join("\n\n");
+}
+
 function csvEscape(value) {
   const text = String(value ?? "");
   return `"${text.replace(/"/g, '""')}"`;
@@ -82,14 +128,20 @@ function buildRowsForPacket(packet) {
 
       weekCounters.set(weekNumber, dayNumber);
 
+      const splitNotes = splitTeacherNotesForSyllabird(lesson.teacherNotes || "");
+      const assignmentBody = appendBlocks(
+        lesson.body || "",
+        splitNotes.bodyAppendix
+      );
+
       rows.push({
         course_custom_id: courseCustomId,
         assignment_custom_id: `alveary-${lesson.lessonId || `${packet.id}-${weekNumber}-${dayNumber}`}`,
         assignment_week: weekNumber,
         assignment_day: dayNumber,
         assignment_name: lesson.title || "",
-        assignment_description: textToHtml(lesson.body || ""),
-        assignment_teachersNote: textToHtml(lesson.teacherNotes || ""),
+        assignment_description: textToHtml(assignmentBody),
+        assignment_teachersNote: textToHtml(splitNotes.teacherNotes),
         assignment_type: getAssignmentType(packet, lesson),
         assignment_duration: 0,
         assignment_graded: "FALSE"
