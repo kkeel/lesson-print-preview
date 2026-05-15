@@ -36,7 +36,10 @@ const COURSE_FIELDS = [
   "Connect Header Pages",
   "Lessons",
   "Grade Filter",
-  "Link Page"
+  "Link Page",
+  "Books & Resources",
+  "Supplies",
+  "Supply List Link"
 ];
 
 const HEADER_FIELDS = [
@@ -284,8 +287,44 @@ function buildCourseIntroduction(headerRecords, courseFields) {
 
   return [
     htmlSection("Planning & Prep", joinNonEmptyBlocks(planningBlocks)),
+  
+    buildChecklistHtml(
+      "Books & Resources",
+      courseFields["Books & Resources"],
+      courseFields["Link Page"]
+    ),
+  
+    buildChecklistHtml(
+      "Supplies",
+      courseFields["Supplies"],
+      courseFields["Supply List Link"]
+    ),
+  
     buildQuickLinksHtml(courseFields)
+  
   ].filter(Boolean).join("");
+}
+
+function buildChecklistHtml(title, value, linkUrl = "") {
+  const items = normalizeArray(value);
+
+  if (!items.length && !linkUrl) return "";
+
+  const checklist = items.length
+    ? `<ul>${items.map(item =>
+        `<li>☐ ${escapeHtml(item)}</li>`
+      ).join("")}</ul>`
+    : "";
+
+  const linkHtml = linkUrl
+    ? `<p><a href="${escapeHtml(linkUrl)}">Click this text for full ${escapeHtml(title)} details</a></p>`
+    : "";
+
+  return `
+    <h2>${escapeHtml(title)}</h2>
+    ${linkHtml}
+    ${checklist}
+  `;
 }
 
 function buildQuickLinksHtml(courseFields) {
