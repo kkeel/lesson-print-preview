@@ -11,6 +11,7 @@ const CSV_HEADERS = [
   "assignment_name",
   "assignment_description",
   "assignment_teachersNote",
+  "assignment_linksUrl",
   "assignment_type",
   "assignment_duration",
   "assignment_graded"
@@ -172,6 +173,7 @@ function buildRowsForPacket(packet) {
         assignment_name: lesson.title || "",
         assignment_description: textToHtml(assignmentBody),
         assignment_teachersNote: textToHtml(assignmentTeacherNotes),
+        assignment_linksUrl: lesson.lessonLinksUrl || "",
         assignment_type: getAssignmentType(packet, lesson),
         assignment_duration: 0,
         assignment_graded: "FALSE"
