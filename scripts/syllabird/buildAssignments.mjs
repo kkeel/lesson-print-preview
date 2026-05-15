@@ -95,6 +95,33 @@ function toCsv(rows) {
   ].join("\n") + "\n";
 }
 
+async function writePerCourseAssignmentCsvs(rows, outputDir) {
+  const grouped = new Map();
+
+  for (const row of rows) {
+    const courseId = row.course_custom_id;
+
+    if (!grouped.has(courseId)) {
+      grouped.set(courseId, []);
+    }
+
+    grouped.get(courseId).push(row);
+  }
+
+  for (const [courseId, courseRows] of grouped.entries()) {
+    const filePath = path.join(
+      outputDir,
+      `${courseId}.csv`
+    );
+
+    await fs.writeFile(
+      filePath,
+      toCsv(courseRows),
+      "utf8"
+    );
+  }
+}
+
 function getLessonsSection(packet) {
   return (packet.sections || []).find(section => section.type === "lessons") || null;
 }
@@ -253,12 +280,22 @@ async function main() {
   const exportDir = path.join(repoRoot, "exports", "syllabird");
   const outputPath = path.join(exportDir, "assignments.csv");
   const coursesPath = path.join(exportDir, "courses.csv");
+
+  const assignmentsByCourseDir = path.join(
+    exportDir,
+    "assignments-by-course"
+  );
+
   const coursesCsv = await fs.readFile(coursesPath, "utf8");
   const validCourseIds = new Set(
     parseCsv(coursesCsv).map(course => course.course_custom_id).filter(Boolean)
   );
 
   await fs.mkdir(exportDir, { recursive: true });
+
+  await fs.mkdir(assignmentsByCourseDir, {
+    recursive: true
+  });
 
   const fileNames = await fs.readdir(packetsDir);
   const packetFiles = fileNames
@@ -282,6 +319,11 @@ async function main() {
   }
 
   await fs.writeFile(outputPath, toCsv(rows), "utf8");
+
+  await writePerCourseAssignmentCsvs(
+    rows,
+    assignmentsByCourseDir
+  );
 
   console.log(`Built ${rows.length} Syllabird assignment row(s).`);
   console.log(`Wrote ${path.relative(repoRoot, outputPath)}`);
