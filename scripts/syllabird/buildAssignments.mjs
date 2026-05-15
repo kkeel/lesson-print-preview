@@ -98,6 +98,26 @@ function getLessonsSection(packet) {
   return (packet.sections || []).find(section => section.type === "lessons") || null;
 }
 
+function getExamsSection(packet) {
+  return (packet.sections || []).find(section => section.type === "exams") || null;
+}
+
+function getExamContentForTerm(packet, termNumber) {
+  const examsSection = getExamsSection(packet);
+  if (!examsSection) return "";
+
+  const termLabel = `Term ${termNumber}`;
+  const examTerm = (examsSection.terms || []).find(term =>
+    String(term.term || "").trim() === termLabel
+  );
+
+  const content = String(examTerm?.content || "").trim();
+
+  if (!content) return "";
+  
+  return `★ ${packet.lessonSetName} — TERM ${termNumber} EXAM QUESTIONS\n${content}`;
+}
+
 function getAssignmentType(packet, lesson) {
   const title = `${packet.lessonSetName || ""} ${lesson.title || ""}`.toLowerCase();
   const weekNumber = Number(lesson.weekNumber || 0);
@@ -129,9 +149,19 @@ function buildRowsForPacket(packet) {
       weekCounters.set(weekNumber, dayNumber);
 
       const splitNotes = splitTeacherNotesForSyllabird(lesson.teacherNotes || "");
+      const examContent =
+        getAssignmentType(packet, lesson) === "Exam"
+          ? getExamContentForTerm(packet, lesson.termNumber)
+          : "";
+      
       const assignmentBody = appendBlocks(
         lesson.body || "",
         splitNotes.bodyAppendix
+      );
+      
+      const assignmentTeacherNotes = appendBlocks(
+        splitNotes.teacherNotes,
+        examContent
       );
 
       rows.push({
@@ -141,7 +171,7 @@ function buildRowsForPacket(packet) {
         assignment_day: dayNumber,
         assignment_name: lesson.title || "",
         assignment_description: textToHtml(assignmentBody),
-        assignment_teachersNote: textToHtml(splitNotes.teacherNotes),
+        assignment_teachersNote: textToHtml(assignmentTeacherNotes),
         assignment_type: getAssignmentType(packet, lesson),
         assignment_duration: 0,
         assignment_graded: "FALSE"
