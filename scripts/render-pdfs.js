@@ -20,6 +20,7 @@ const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
 const AIRTABLE_TABLE_NAME = "Lesson Plan Sets";
 const AIRTABLE_PAGE_COUNT_FIELD = "PDF Page Count";
+const AIRTABLE_RENDER_STATUS_FIELD = "PDF Render Status";
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -66,6 +67,20 @@ async function getPdfPageCount(pdfPath) {
   return pdfDoc.getPageCount();
 }
 
+function formatRenderStatus(pageCount) {
+  const renderedAt = new Date().toLocaleString("en-US", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true
+  });
+
+  return `Rendered ${renderedAt} ET · ${pageCount} pages`;
+}
+
 async function updateAirtablePageCount(recordId, pageCount) {
   if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
     console.warn("Skipping Airtable page count update: missing Airtable env vars.");
@@ -84,7 +99,8 @@ async function updateAirtablePageCount(recordId, pageCount) {
       },
       body: JSON.stringify({
         fields: {
-          [AIRTABLE_PAGE_COUNT_FIELD]: pageCount
+          [AIRTABLE_PAGE_COUNT_FIELD]: pageCount,
+          [AIRTABLE_RENDER_STATUS_FIELD]: formatRenderStatus(pageCount)
         }
       })
     }
@@ -96,7 +112,7 @@ async function updateAirtablePageCount(recordId, pageCount) {
     );
   }
 
-  console.log(`Updated Airtable page count: ${recordId} = ${pageCount}`);
+  console.log(`Updated Airtable PDF render status: ${recordId} = ${pageCount} pages`);
 }
 
 async function renderPdf(record) {
