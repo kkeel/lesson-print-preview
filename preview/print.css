@@ -23,7 +23,7 @@ body.pdf-mode * {
   @bottom-left {
     content: "Alveary Lesson Plans";
     font-family: "Circular Pro", system-ui, sans-serif;
-    font-size: 9pt;
+    font-size: 8pt;
     color: #9a9a9a;
     white-space: nowrap;
   }
@@ -31,7 +31,7 @@ body.pdf-mode * {
   @bottom-center {
     content: "©2026 Charlotte Mason Institute® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
-    font-size: 9pt;
+    font-size: 8pt;
     color: #9a9a9a;
     white-space: nowrap;
   }
@@ -39,7 +39,7 @@ body.pdf-mode * {
   @bottom-right {
     content: "p. " counter(page);
     font-family: "Circular Pro", system-ui, sans-serif;
-    font-size: 9pt;
+    font-size: 8pt;
     color: #9a9a9a;
     white-space: nowrap;
   }
