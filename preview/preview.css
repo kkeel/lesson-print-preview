@@ -160,7 +160,7 @@ body {
 }
 
 .howto-prompt {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   margin-bottom: 8px;
   color: #596e5e;
@@ -182,7 +182,7 @@ body {
 .lesson-linkbox {
   text-align: right;
   max-width: 180px;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .lesson-meta {
@@ -277,7 +277,7 @@ a:hover {
 }
 
 .cover-kicker {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -298,7 +298,7 @@ a:hover {
   align-items: center;
   padding: 7px 12px;
   border-radius: 999px;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -354,7 +354,7 @@ a:hover {
 }
 
 .cover-note-title {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -410,7 +410,7 @@ a:hover {
 
 .cover-brand-line {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.1;
   font-weight: 500;
   color: #596e5e;
@@ -456,7 +456,7 @@ a:hover {
 
 .cover-subtitle-main {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 16px; /* smaller */
+  font-size: 17px; /* smaller */
   line-height: 1.4;
   font-weight: 300; /* lighter (less bold) */
   color: #adb58f; /* exact light green */
@@ -551,7 +551,7 @@ a:hover {
 .header-page-subbar-grade {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 12px;
-  line-height: 1.4;
+  line-height: 1.48;
   font-weight: 700;
   text-transform: uppercase;
   white-space: nowrap;
@@ -625,8 +625,8 @@ a:hover {
 .header-block p,
 .header-entry p {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
   margin: 0;
 }
@@ -658,7 +658,7 @@ a:hover {
   border-collapse: collapse;
   table-layout: fixed;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.1;
   border: 1px solid #596e5e;
 }
@@ -684,7 +684,7 @@ a:hover {
   text-align: left;
   padding: 5px 7px;
   font-weight: 700;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.1;
   letter-spacing: 0.02em;
   white-space: nowrap;
@@ -694,7 +694,7 @@ a:hover {
   padding: 5px 7px;
   border-bottom: 1px solid #8da08c;
   vertical-align: top;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.1;
 }
 
@@ -718,7 +718,7 @@ a:hover {
 
 .weekly-view-title {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
+  font-size: 9px;
   line-height: 1.1;
   font-weight: 700;
   color: #adb58f;
@@ -731,7 +731,7 @@ a:hover {
   border-top: 1px solid #c7d0bd;
   border-left: 1px solid #c7d0bd;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.1;
 }
 
@@ -748,7 +748,7 @@ a:hover {
 .weekly-view-row-full {
   grid-column: 1 / -1;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 1.1;
   font-weight: 700;
   color: #111111;
@@ -798,15 +798,15 @@ a:hover {
 
 .planning-prep-entry p {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
   margin: 0;
 }
 
 .planning-prep-subtitle {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.2;
   font-weight: 700;
   color: #adb58f;
@@ -822,14 +822,14 @@ a:hover {
 }
 
 .books-resources-intro {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0 0 0.12in;
 }
 
 .books-resources-link-line {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0 0 0.18in;
 }
 
@@ -861,7 +861,7 @@ a:hover {
 .books-resource-course h4 {
   background: #596e5e;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 13px;
   padding: 7px 10px;
 }
 
@@ -891,8 +891,8 @@ a:hover {
 }
 
 .books-resource-title {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
 }
 
 @media print {
@@ -911,14 +911,14 @@ a:hover {
 }
 
 .supplies-resources-intro {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0 0 0.12in;
 }
 
 .supplies-resources-link-line {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0 0 0.14in;
 }
 
@@ -929,8 +929,8 @@ a:hover {
 }
 
 .supplies-resources-empty {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0.18in 0 0 0.28in;
 }
 
@@ -956,7 +956,7 @@ a:hover {
 .supplies-resource-course h4 {
   background: #596e5e;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 13px;
   padding: 7px 10px;
 }
 
@@ -986,8 +986,8 @@ a:hover {
 }
 
 .supplies-resource-title {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
 }
 
 @media print {
@@ -1038,7 +1038,7 @@ a:hover {
 .quick-links-course h4 {
   background: #596e5e;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 13px;
   padding: 7px 10px;
 }
 
@@ -1057,8 +1057,8 @@ a:hover {
   gap: 0.08in;
   align-items: start;
   margin: 0 0 0.1in 0.18in;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
 }
 
 .quick-link-symbol {
@@ -1083,8 +1083,8 @@ a:hover {
 }
 
 .quick-links-page-link {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   text-align: left;
   padding-top: 0.02in;
 }
@@ -1097,8 +1097,8 @@ a:hover {
 }
 
 .quick-links-empty {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   margin: 0.18in 0 0 0.28in;
 }
 
@@ -1198,8 +1198,8 @@ a:hover {
 
 .howto-content p {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
   margin: 0;
 }
@@ -1255,7 +1255,7 @@ a:hover {
   color: #2458d6;
   text-decoration: underline;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.18;
 }
 
@@ -1270,7 +1270,7 @@ a:hover {
   background: #596e5e;
   color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.1;
   font-weight: 400;
   padding: 7px 8px;
@@ -1298,8 +1298,8 @@ a:hover {
 
 .lesson-week-col {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.1;
+  font-size: 13px;
+  line-height: 1.48;
   font-weight: 700;
   color: #adb58f;
   text-transform: uppercase;
@@ -1308,29 +1308,29 @@ a:hover {
 
 .lesson-main-col {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
   padding: 0.06in 0.12in 0.08in 0;
 }
 
 .lesson-title-line {
   font-size: 13px;
-  line-height: 1.4;
+  line-height: 1.48;
   margin-bottom: 0.035in;
 }
 
 .lesson-body {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   white-space: normal;
 }
 
 .lesson-notes-col {
   background: #eef0f4;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
   padding: 0.06in 0.09in 0.08in;
   min-height: 0.9in;
@@ -1396,18 +1396,18 @@ a:hover {
 }
 
 .lesson-page-linkbox a {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
 }
 
 .lesson-page-qr-placeholder {
   width: 0.52in;
   height: 0.52in;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .term-banner {
-  font-size: 18px;
+  font-size: 20px;
   padding: 5px 8px;
 }
 
@@ -1467,7 +1467,7 @@ a:hover {
 }
 
 .lesson-notes-col {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .lesson-block {
@@ -1503,14 +1503,14 @@ a:hover {
 
 .lesson-title-line {
   font-size: 13px;
-  line-height: 1.4;
+  line-height: 1.48;
   font-weight: 700;
   margin-bottom: 0.025in;
 }
 
 .lesson-subtitle-line {
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   color: #555;
   font-style: italic;
   margin: 0 0 0.035in 0.16in;
@@ -1532,7 +1532,7 @@ a:hover {
 .lesson-subtitle-line {
   margin-left: 0;
   color: #555;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .lesson-materials-box {
@@ -1543,8 +1543,8 @@ a:hover {
   border-left: 3px solid #8da08c;
   padding: 3px 6px;
   margin: 0.065in 0 0.03in 0;
-  font-size: 12px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.48;
   box-sizing: border-box;
 }
 
@@ -1562,7 +1562,7 @@ a:hover {
   display: inline-block;
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.015em;
   margin-top: 0.035in;
   margin-bottom: 0.008in;
@@ -1607,7 +1607,7 @@ a:hover {
   background: #adb58f;
   color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1.1;
   font-weight: 400;
   padding: 7px 8px;
@@ -1629,7 +1629,7 @@ a:hover {
 
 .exam-term-label {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.15;
   font-weight: 700;
   color: #596e5e;
@@ -1639,8 +1639,8 @@ a:hover {
 
 .exam-content {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12px;
-  line-height: 1.42;
+  font-size: 13px;
+  line-height: 1.48;
   color: #111111;
 }
 
@@ -1655,7 +1655,7 @@ a:hover {
 .exam-topic-heading {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.4;
+  line-height: 1.48;
   font-weight: 700;
   color: #adb58f;
   margin: 0.02in 0 0.015in;
