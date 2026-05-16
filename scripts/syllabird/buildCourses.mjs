@@ -140,7 +140,7 @@ function normalizeArray(value) {
   return rawItems
     .flatMap(item =>
       String(item ?? "")
-        .split(/\|\||,/)
+        .split("||")
         .map(part => part.trim())
     )
     .filter(Boolean);
