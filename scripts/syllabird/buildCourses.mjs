@@ -133,15 +133,16 @@ function normalizeText(value) {
 function normalizeArray(value) {
   if (value == null) return [];
 
-  if (Array.isArray(value)) {
-    return value
-      .map(item => String(item ?? "").trim())
-      .filter(Boolean);
-  }
+  const rawItems = Array.isArray(value)
+    ? value
+    : [value];
 
-  return String(value)
-    .split(/\|\||,/)
-    .map(item => item.trim())
+  return rawItems
+    .flatMap(item =>
+      String(item ?? "")
+        .split(/\|\||,/)
+        .map(part => part.trim())
+    )
     .filter(Boolean);
 }
 
