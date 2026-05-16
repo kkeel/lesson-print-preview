@@ -37,7 +37,7 @@ const COURSE_FIELDS = [
   "Lessons",
   "Grade Filter",
   "Link Page",
-  "Books & Resources",
+  "Books",
   "Supplies",
   "Supply List Link"
 ];
@@ -290,7 +290,7 @@ function buildCourseIntroduction(headerRecords, courseFields) {
   
     buildChecklistHtml(
       "Books & Resources",
-      courseFields["Books & Resources"],
+      courseFields["Books"],
       courseFields["Link Page"]
     ),
   
