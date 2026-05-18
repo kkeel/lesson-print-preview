@@ -3,7 +3,7 @@ name: Build Lesson JSON + Syllabird CSVs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # runs daily at 6am UTC
+    - cron: "45 12 * * *"
 
 permissions:
   contents: write
@@ -36,9 +36,9 @@ jobs:
 
       - name: Build Syllabird assignments CSV
         run: node scripts/syllabird/buildAssignments.mjs
-
-      - name: Build Syllabird combined out CSV
-        run: node scripts/syllabird/buildOut.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
 
       - name: Commit changes
         run: |
