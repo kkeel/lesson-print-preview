@@ -62,7 +62,7 @@ const LESSON_FIELDS = [
   "Syllabird Status",
   "Syllabird Tracker Template",
   "Tracker Title Template",
-  "perWeek"
+  "Tracker perWeek"
 ];
 
 const HEADER_FIELDS = [
@@ -1357,7 +1357,7 @@ function buildPacket(record, headerLookup) {
       status: normalizeText(fields["Syllabird Status"]),
       trackerTemplate: normalizeRichText(fields["Syllabird Tracker Template"]),
       trackerTitleTemplate: normalizeText(fields["Tracker Title Template"]),
-      perWeek: Number(normalizeText(fields["perWeek"]) || 0)
+      perWeek: Number(normalizeText(fields["Tracker perWeek"]) || 0)
     },
     
     sections: [
