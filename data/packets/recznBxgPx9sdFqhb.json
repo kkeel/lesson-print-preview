@@ -200,6 +200,11 @@
               "type": "course",
               "links": [
                 {
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                },
+                {
                   "label": "How can we find the original meaning of the text?",
                   "url": "https://vimeo.com/1117839003/a24612f6fc",
                   "sort": ""

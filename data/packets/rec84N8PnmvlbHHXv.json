@@ -269,7 +269,13 @@
             {
               "title": "Literature: Grade 11",
               "type": "course",
-              "links": []
+              "links": [
+                {
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
             },
             {
               "title": "Plays: Grades 9-12",
@@ -368,7 +374,7 @@
               "sort": 100102,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 1",
-              "body": "Transition from Classicism to Romanticism\n\n➜ INTRO\nTowards the end of the eighteenth century, writers were beginning to break from the rules of Classicism and experiment with poetic subject matter and form that, in retrospect, seem more aligned with the themes of Romanticism. Today, you will read a few works by three poets who bridge these two time periods: Thomas Gray, William Cowper, and Robert Burns.\n\n➜ READ & DISCUSS\n∞ Link: Elegy Written in a Country Churchyard\n• What is the setting of the poem, and how does Gray use this setting to create a mood or tone for the poem? What is he",
+              "body": "Transition from Classicism to Romanticism\n\n➜ INTRO\nTowards the end of the eighteenth century, writers were beginning to break from the rules of Classicism and experiment with poetic subject matter and form that, in retrospect, seem more aligned with the themes of Romanticism. Today, you will read a few works by three poets who bridge these two time periods: Thomas Gray, William Cowper, and Robert Burns.\n\n➜ READ & DISCUSS\n∞ Link: Elegy Written in a Country Churchyard\n• What is the setting of the poem, and how does Gray use this setting to create a mood or tone for the poem? What do you think the poet is saying about death and memory?\n\n∞ Link: The Shrubbery \n• How does the speaker show that there is a disconnect between how he feels and where he is? What is his relationship to the nature he sees around him?\n\n∞ Link: To a Mouse\n• If the language seems hard, try reading it out loud!\n• This poem ends with a turn - why does the speaker see the mouse as \"blest, compar’d wi’ me!\"?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recqfkpen0KKmychw",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=1",
@@ -376,6 +382,14 @@
                 {
                   "text": "Elegy Written in a Country Churchyard",
                   "url": "https://www.poetryfoundation.org/poems/44299/elegy-written-in-a-country-churchyard"
+                },
+                {
+                  "text": "The Shrubbery",
+                  "url": "https://www.poetryfoundation.org/poems/44033/the-shrubbery"
+                },
+                {
+                  "text": "To a Mouse",
+                  "url": "https://www.poetryfoundation.org/poems/43816/to-a-mouse-56d222ab36e33"
                 }
               ]
             },
@@ -405,11 +419,20 @@
               "sort": 100104,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 2",
-              "body": "Lightning Dreamer\np.1-19 \"Historical background\" - \"heaven on earth.\"\nWho are the people? Make a character list. Each week as you read, think about the different perspectives of the poems and how each one sees the same situation very differently. Share your observations in your narrations.\n\nBio of Gertrudis Gómez de Avellaneda",
+              "body": "William Wordsworth\n\n➜ INTRO\nWe will learn more about William Wordsworth (1770-1850) in the History of Literature lesson next week, but today's reading should give you a feel for his style and major themes. As you read, compare Wordsworth's poem to the selections you read last time. \"Tintern Abbey\" is written in blank verse (unrhymed iambic pentameter, or ten syllables per line). What other poets have you read that use blank verse? How is this different than Gray's \"Elegy\" you read last week, that had a very rigid structure?\n\n∞ Link: Lines Composed a Few Miles above Tintern Abbey, On Revisiting the Banks of the Wye during a Tour. July 13, 1798\n• What are some images that especially stand out to you? What is Wordsworth saying about nature? \n• What do you think he means when he says in lines 64-67: \"here I stand, not only with the sense / Of present pleasure, but with pleasing thoughts / That in this moment there is life and food / For future years.\"?\n\n➜ VIEW\nLook at this painting of Tintern Abbey painted in 1804 by English landscape painter William Havell (1782-1857).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recYsjotMiduHVEMC",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=1",
+              "links": [
+                {
+                  "text": "Lines Composed a Few Miles above Tintern Abbey, On Revisiting the Banks of the Wye during a Tour. July 13, 1798",
+                  "url": "https://rpo.library.utoronto.ca/content/lines-composed-few-miles-above-tintern-abbey-revisiting-banks-wye-during-tour-july-13-1798"
+                },
+                {
+                  "text": "Tintern Abbey",
+                  "url": "upload.wikimedia.org/wikipedia/commons/b/b5/Tintern-abbey-by-william-havell.jpg"
+                }
+              ]
             },
             {
               "lessonId": "recQs1XggGSFisPRZ",
@@ -485,8 +508,8 @@
               "sort": 100201,
               "lessonLabel": "",
               "title": "30m History of Lit: Grades 9-12 - Lesson 2",
-              "body": "William Wordsworth\n⍞ Materials: English Literature for Boys & Girls",
-              "teacherNotes": "",
+              "body": "William Wordsworth and Samuel Taylor Coleridge\n⍞ Materials: English Literature for Boys & Girls; History of Lit PDF\n\n➜ RECAP\nWhat do you recall about the major themes of the Romantic Period from last week's reading?\n\n➜ INTRO\nToday we will learn more about the life and work of two poets - William Wordsworth and Samuel Taylor Coleridge, who are most closely associated with English Romantic poetry. \n\n➜ READ, NARRATE, & DISCUSS\n1. Marshall, Ch.LXXIV \"Wordsworth - the Poet of Nature.\"\n• How did Wordsworth's experiences as a child seem to influence his later poetry?\n\n2. Marshall, Ch.LXXV \"Wordsworth and Coleridge - the Lake Poets.\"\n• What are some similarities and differences between the two poets?",
+              "teacherNotes": "• IMPORTANT DATES\nWilliam Wordsworth (1770-1850)\n\nSamuel Taylor Coleridge (1772-1834)\n\nFirst publication of the Lyrical Ballads (1798)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec6j5XLnrMBoubth&6J82c=recMN2pqDm7qxexny",
               "lessonLinksUrl": "",
               "links": []
@@ -501,11 +524,24 @@
               "sort": 100202,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 3",
-              "body": "",
+              "body": "William Wordsworth and Samuel Taylor Coleridge\n\n➜ INTRO\nWith the anonymous publication in 1798 of their Lyrical Ballads, Wordsworth and Coleridge introduced a new style of poetry to the public. The initial publication received mixed reviews, however, and with each subsequent publication, the two poets included a Preface by way of an introduction to their style, themes, and purpose. In today's lesson, you will read excerpts from the 1802 edition of this preface, as well as a representative poem by each of them. Think about how the poetry you read illustrates some of the points made in the Preface.\n\n➜ READ & DISCUSS\n1. ∞ PDF Link: Excerpts from the Preface to the Lyrical Ballads (1802)\n\n2. Wordsworth, \"My Heart Leaps Up\"\nMy heart leaps up when I behold \nA rainbow in the sky:\nSo was it when my life began; \nSo is it now I am a man; \nSo be it when I shall grow old, \nOr let me die!\nThe Child is father of the Man;\nAnd I could wish my days to be\nBound each to each by natural piety.\n\n3. ∞ Link: Wordsworth, \"I Wandered Lonely As A Cloud\"\n\n4. ∞ Link: Coleridge, \"The Rime of the Ancient Mariner\"\n• NOTE: This poems is too long to read completely today, but reading it for a few minutes will give you a feel for the style. If you enjoy it, please finish reading it during the next poetry class or during your free reading time!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recv2yeSRmmW7SmZf",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=2",
+              "links": [
+                {
+                  "text": "Excerpts from the Preface to the Lyrical Ballads (1802)",
+                  "url": "https://drive.google.com/file/d/1etGPYNvedz6PVGGYLXn0N2s8UbtBdRQS/view?usp=sharing"
+                },
+                {
+                  "text": "I Wandered Lonely As A Cloud",
+                  "url": "https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud"
+                },
+                {
+                  "text": "The Rime of the Ancient Mariner",
+                  "url": "https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834"
+                }
+              ]
             },
             {
               "lessonId": "recOTrZBuaYDW0cch",
@@ -533,11 +569,16 @@
               "sort": 100204,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 4",
-              "body": "Lightning Dreamer",
-              "teacherNotes": "",
+              "body": "Samuel Taylor Coleridge\n\n➜ INTRO\nToday we are going to read a poem much different in style from The Rime of the Ancient Mariner. As you read, think about other poems you have read about children, or by poets remembering their own childhood.\n\n∞ Link: Frost at Midnight\n\nWith any time remaining, you can read more of The Rime of the Ancient Mariner.",
+              "teacherNotes": "★ TEACHER TIP\nThere is a Poem Guide for Frost at Midnight at the Poetry Foundation link, if your student would like extra information about the poem or help with understanding it.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recR7fUsD75FEG2Nx",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=2",
+              "links": [
+                {
+                  "text": "Frost at Midnight",
+                  "url": "https://www.poetryfoundation.org/poems/43986/frost-at-midnight"
+                }
+              ]
             },
             {
               "lessonId": "recigZsPtuGPfuH6c",
@@ -613,11 +654,20 @@
               "sort": 100301,
               "lessonLabel": "",
               "title": "30m History of Lit: Grades 9-12 - Lesson 3",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Rabindranath Tagore\n\n➜ INTRO\nIf you are taking the Poetry Reading course this year, you will spend much of Term 1 reading poems by the Bengali writer, philosopher and artist Rabindranath Tagore. He wrote in Bengali, but translated his own works into English. He is a significant figure for Indian nationalism, and, though not himself a politician, was a vocal proponent of India's independence at the turn of the twentieth century.\n\n➜ VIEW, NARRATE & DISCUSS\nThis video provides an excellent overview of Tagore's life and work. It will take nearly the entire lesson time to watch, although you can watch at 1.25x speed.\n∞ Video Link: Rabindranath Tagore – Mystic Poet, Literary Genius & Nobel Laureate \n• What were some of Tagore's major contributions to arts and history?\n\n➜ READ\n∞ Link: The Gardener 85\nThis short poem is a timely piece to read, since Tagore was still alive and writing a century ago.",
+              "teacherNotes": "• IMPORTANT DATES\nRabindranath Tagore (1861-1941)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec6j5XLnrMBoubth&6J82c=recxpnFHOx2PGOmJS",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=3",
+              "links": [
+                {
+                  "text": "Rabindranath Tagore – Mystic Poet, Literary Genius & Nobel Laureate ",
+                  "url": "https://www.youtube.com/watch?v=P8HLIF32clU"
+                },
+                {
+                  "text": "The Gardener 85",
+                  "url": "https://www.poetryfoundation.org/poems/45667/the-gardener-85"
+                }
+              ]
             },
             {
               "lessonId": "recJSIwE1v1ce0pj5",
@@ -629,11 +679,16 @@
               "sort": 100302,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 5",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Rabindranath Tagore\n⍞ Materials: The Crescent Moon\n\n➜ INTRO\nWe will spend much of Term 1 reading poems by the Bengali writer, philosopher and artist Rabindranath Tagore. He wrote in Bengali, but translated his own works into English. He is a significant figure for Indian nationalism, and, though not himself a politician, was a vocal proponent of India's independence at the turn of the twentieth century.\nThe Crescent Moon is a collection of forty poems exploring themes such as childhood wonder, the natural world, imagination. As you read through these poems, think about other poems you have read that present the world through the eyes of children, such as Robert Louis Stevenson's A Child's Garden of Verses.\n\n➜ READ & DISCUSS\np.6-7 \"The Home\" \n• How would you describe the speaker of this poem?\n• The poem opens with two examples of personification (a figure of speech which gives human characteristics to non-human things). Why do you think Tagore uses these images of a miser and a widow?\n\np.8 \"On the Seashore\"\n• What images stand out most to you in this poem? How might they be symbols of a deeper meaning that lies beneath a simple description of children playing?\n\np.9-10 \"The Source\" and \"Baby's Way\"\n• What do these two poems together seem to say about the nature of infants and children?",
+              "teacherNotes": "★ TEACHER NOTE\nIf you are note taking the History of Lit 9-12 course, you may wish to watch this introduction to the life and work of Rabindranath Tagore during some free time.\n∞ Video Link: Rabindranath Tagore – Mystic Poet, Literary Genius & Nobel Laureate",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recUG3UJ2qlhTw5Er",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec84N8PnmvlbHHXv&term=1&week=3",
+              "links": [
+                {
+                  "text": "Rabindranath Tagore – Mystic Poet, Literary Genius & Nobel Laureate ",
+                  "url": "https://www.youtube.com/watch?v=P8HLIF32clU"
+                }
+              ]
             },
             {
               "lessonId": "recyx5Na5KrqYpKzP",
@@ -661,7 +716,7 @@
               "sort": 100304,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 6",
-              "body": "Lightning Dreamer",
+              "body": "Rabindranath Tagore, cont.\n⍞ Materials: The Crescent Moon\n\n➜ RECAP\nWhat was your favorite poem by Tagore you read last time? What did you like most about it?\n\n➜ READ & DISCUSS\np.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recaXxeMfe5W3XyDt",
               "lessonLinksUrl": "",
@@ -789,7 +844,7 @@
               "sort": 100404,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 8",
-              "body": "Lightning Dreamer",
+              "body": "",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recM8xadU7jntUc8V",
               "lessonLinksUrl": "",
@@ -917,7 +972,7 @@
               "sort": 100504,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 10",
-              "body": "Lightning Dreamer",
+              "body": "",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recc1is79ZRDOVXXC",
               "lessonLinksUrl": "",
@@ -1050,7 +1105,7 @@
               "sort": 100604,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 12",
-              "body": "Lightning Dreamer",
+              "body": "",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recyM7gZ1LBI4eEo5",
               "lessonLinksUrl": "",
@@ -1178,7 +1233,7 @@
               "sort": 100704,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 14",
-              "body": "Lightning Dreamer",
+              "body": "Lightning Dreamer\np.1-19 \"Historical background\" - \"heaven on earth.\"\nWho are the people? Make a character list. Each week as you read, think about the different perspectives of the poems and how each one sees the same situation very differently. Share your observations in your narrations.\n\nBio of Gertrudis Gómez de Avellaneda",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=rec68STkqSEUd5Gfu",
               "lessonLinksUrl": "",

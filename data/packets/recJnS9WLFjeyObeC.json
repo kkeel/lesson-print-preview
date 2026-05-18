@@ -139,6 +139,11 @@
               "type": "course",
               "links": [
                 {
+                  "label": "Foundations (See Section 16: Geography)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                },
+                {
                   "label": "Student Lessons (No Answers)",
                   "url": "#",
                   "sort": ""

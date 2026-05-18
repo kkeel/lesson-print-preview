@@ -125,7 +125,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recozIFrMD6NysNeJ",
-          "groups": []
+          "groups": [
+            {
+              "title": "Geography: Grade 9",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 16: Geography)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

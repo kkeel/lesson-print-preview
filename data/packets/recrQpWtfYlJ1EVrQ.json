@@ -183,7 +183,13 @@
             {
               "title": "Literature: Grades 5-6",
               "type": "course",
-              "links": []
+              "links": [
+                {
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
             },
             {
               "title": "Lit./Mythology: Grade 5-6",
@@ -267,11 +273,16 @@
               "sort": 100101,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 1",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\nPREP: Read the bio and share parts with your students in the lesson. \n∞ Article Link: Louisa May Alcott Bio\n\n➜ INTRO\nLittle Women was published in 2 volumes. We will read Volume 1, published originally in 1868. Little Women was the first American novel written for girls, though it had wide appeal upon publication, with boys and adult women and men as well. It was a move away from overly preachy children's literature and was an immediate success, changing how novels for young people were written. \n\n➜ READ, NARRATE, & DISCUSS\nCh.1 \"Playing Pilgrims\"\n\n• If you read Pilgrim's Progress in younger grades, keep an eye out for many different references or allusions to the book as you read Little Women. Did you notice any in this chapter? [Hint: the name of the chapter is one reference!]",
+              "teacherNotes": "★ TEACHER NOTE\nSee extra helpings for suggested audio versions, as this can be a fun book to listen to in the afternoons or at other times to create flexibility in your schedule.\n\n• IMPORTANT DATES\nLittle Women published (1868 AD)\n\n• EXTRA HELPING\n[View original manuscript]",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recwDPBsrTXQAUxFJ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=1",
+              "links": [
+                {
+                  "text": "Louisa May Alcott Bio",
+                  "url": "https://www.battlefields.org/learn/biographies/louisa-may-alcott"
+                }
+              ]
             },
             {
               "lessonId": "recQZHk7qH8Ztaco7",
@@ -299,11 +310,16 @@
               "sort": 100201,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 2",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWho are the \"Little Women\" and what is the setting for the book?\n\n➜ INTRO\nName as many things as you can that are happening in the world during the late 1800s when Little Women was written and published.\n\n➜ READ, NARRATE, & DISCUSS\nCh.2 \"A Merry Christmas\"\n\n• How do the March sisters show joy despite their circumstances?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Article Link: Christmas During the Civil War",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec64Jv6gQBM2Gbwn",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=2",
+              "links": [
+                {
+                  "text": "Christmas During the Civil War",
+                  "url": "https://www.battlefields.org/learn/articles/christmas-during-civil-war#:~:text=Christmas%20during%20the%20Civil%20War%20served%20both%20as%20an%20escape,Civil%20War%20%7C%20Article"
+                }
+              ]
             },
             {
               "lessonId": "reclFlbp3ZjReCRq3",
@@ -331,11 +347,16 @@
               "sort": 100301,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 3",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat was Christmas like in the March home? \n\n➜ READ, NARRATE, & DISCUSS\nCh.3 \"The Laurence Boy\"",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Article Link: Civil War Dresses",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recTnfVPa8ZRCw7M7",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=3",
+              "links": [
+                {
+                  "text": "Civil War Dresses",
+                  "url": "https://civilwarladies.com/"
+                }
+              ]
             },
             {
               "lessonId": "recFCvbIkykNJ8VrC",
@@ -363,11 +384,16 @@
               "sort": 100401,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 4",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWho did the March sisters meet in the last chapter? What is he like? \n\n➜ READ, NARRATE, & DISCUSS\nCh.4 \"Burdens\"\n\n➜ VIEW (optional)\n∞ Link: The Alcotts' Home, which was the inspiration for the Marchs' home. \n\n• Describe some of the burdens the sisters feel they carry. Which seems hardest to you?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recXfi1MIO5nB6VNk",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=4",
+              "links": [
+                {
+                  "text": "The Alcotts' Home",
+                  "url": "https://louisamayalcott.org/photo-gallery"
+                }
+              ]
             },
             {
               "lessonId": "recJJJGriy1b3Lwjh",
@@ -400,11 +426,20 @@
               "sort": 100501,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 5",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat are some of the chores or work the sisters are responsible for? \n\n➜ READ, NARRATE, & DISCUSS\nCh.5 \"Being Neighborly\"\n\n➜ VIEW (optional)\n∞ Video Link: Transcendentalism and the Alcotts",
+              "teacherNotes": "• EXTRA HELPINGS\nMemorial poem about Thoreau by Alcott. Read about the link between Alcott and Ralph Waldo Emerson in the article linked below.\n∞ Article Link: Alcott and Emerson",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recBjz8y0Xfvn9l2z",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=5",
+              "links": [
+                {
+                  "text": "Transcendentalism and the Alcotts",
+                  "url": "http://kcpt.pbslearningmedia.org/resource/alcott18-soc-ela-transcendentalism/louisa-may-alcott-transcendentalism/?student=true"
+                },
+                {
+                  "text": "Alcott and Emerson",
+                  "url": "https://www.walden.org/what-we-do/library/the-transcendentalists-their-lives-writings/louisa-may-alcott-1832-1888/"
+                }
+              ]
             },
             {
               "lessonId": "rec7Zdxkww5D7sU3Q",
@@ -441,11 +476,16 @@
               "sort": 100601,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 6",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nHow did Jo show kindness to a neighbor? \n\n➜ READ, NARRATE, & DISCUSS\nCh.6-7 \"Beth Finds the Palace Beautiful\" and \"Amy's Valley of Humiliation\"\n\n• Optional: Have you been noticing the allusions to Pilgrim's Progress? What kind of journey are each of the sisters on, and how is that similar (or dissimilar) to the Pilgrim's journey?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Pickled Limes",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec7UwW3jRuk2k3UM",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=1&week=6",
+              "links": [
+                {
+                  "text": "Pickled Limes",
+                  "url": "https://youtu.be/t1FxQW77Hxk?si=9Hv45OH2dAjwqHhA"
+                }
+              ]
             },
             {
               "lessonId": "recIHsVwGpOPKF5kg",
@@ -473,7 +513,7 @@
               "sort": 100701,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 7",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat lesson did Amy learn in the last chapter?  \n\n➜ READ, NARRATE, & DISCUSS\nCh.8 \"Jo Meets Apollyon\"\n\n• What are some of the lessons about anger and temper in this chapter? Do you agree?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec5epBUJ0ZR8a8Gs",
               "lessonLinksUrl": "",
@@ -514,7 +554,7 @@
               "sort": 100801,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 8",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP \nWhat lesson did Jo learn in the last chapter? \n\n➜ READ, NARRATE, & DISCUSS\nCh.9 \"Meg Goes to Vanity Fair\"\n\n• What temptations does Meg face, and how does she recover?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recnZe3NOdndCxN0B",
               "lessonLinksUrl": "",
@@ -546,7 +586,7 @@
               "sort": 100901,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 9",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat lesson did Meg learn in the last chapter? \n\n➜ READ, NARRATE, & DISCUSS\nCh.10 \"The P.C. and P.O.\"\n\n• If you wrote something for the Pickwick Portfolio, what would you write?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recLratP0VW0Oc1cw",
               "lessonLinksUrl": "",
@@ -583,7 +623,7 @@
               "sort": 101001,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 10",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nDescribe the Pickwick Club. Would you want to join? \n\n➜ READ, NARRATE, & DISCUSS\nCh.11 \"Experiments\"\n\n• Why do the experiments fail, and what lessons do the girls learn?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recNRhc0MQKPXeVqb",
               "lessonLinksUrl": "",
@@ -615,8 +655,8 @@
               "sort": 101101,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 11",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat was the \"experiment\" in the last chapter? \n\n➜ READ, NARRATE, & DISCUSS\nCh.12 \"Camp Laurence\"",
+              "teacherNotes": "★ TEACHER NOTE\nThis is a longer chapter and can be finished in the afternoon or next week during exam week.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recKPUQ4sYJOMEy66",
               "lessonLinksUrl": "",
               "links": []
@@ -647,8 +687,8 @@
               "sort": 101201,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 12",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nLittle Women",
+              "teacherNotes": "★ TEACHER NOTE\nFinish chapter from last week as needed.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rectjbMA6mvko6pGD",
               "lessonLinksUrl": "",
               "links": []
@@ -685,7 +725,7 @@
               "sort": 201301,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 13",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ INTRO\nWhat does your \"dream future\" look like 5 or 10 years from now? \n\n➜ READ, NARRATE, & DISCUSS\nCh.13 \"Castles in the Air\"",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recBRMCHbQbSAWlhv",
               "lessonLinksUrl": "",
@@ -717,11 +757,20 @@
               "sort": 201401,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 14",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat were some of the sisters' dreams in the previous chapter? \n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15 \"Secrets\" & \"A Telegram\" \nto \"Saying she would call her mother\"\"\n\n• How does Alcott use the contrasting personalities of the sisters as foils? A foil is when an author contrasts two characters to emphasize some of their qualities. The word foil refers to backing gems with foil to make them shine brighter. \n\n➜ VIEW (optional)\nWith the remaining time or in the afternoon, learn more about the telegraph.\n∞ Video Link: The Telegraph: The Civil War Text Machine",
+              "teacherNotes": "• IMPORTANT DATES\nTelegraph invented (1830s)\n\n• EXTRA HELPINGS\n∞ Video Link: LMA, Civil War Nurse",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recetgTOQ6jecKOMh",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=2&week=14",
+              "links": [
+                {
+                  "text": "The Telegraph: The Civil War Text Machine",
+                  "url": "https://youtu.be/tzP7QOOAt4I?si=4eeaKxa3jCUd1W8m"
+                },
+                {
+                  "text": "LMA, Civil War Nurse",
+                  "url": "https://www.civilwarmed.org/alcott/"
+                }
+              ]
             },
             {
               "lessonId": "rec0m1NYbrXliyQvY",
@@ -749,11 +798,16 @@
               "sort": 201501,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 15",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ INTRO\nWhat does good comfort look and feel like? What are ways you've been comforted when sad or ways that people have tried to comfort you unhelpfully?\n\n➜ READ, NARRATE, & DISCUSS\nCh.15 \"A Telegram\" from \"Everything was arranged\" and Ch.16 \"Letters\"",
+              "teacherNotes": "★ TEACHER NOTE\nBeth likely had Scarlet Fever. Share from or view this short video as desired. \n∞ Video Link: Scarlet Fever",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recS8odIOXDvOIB5W",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=2&week=15",
+              "links": [
+                {
+                  "text": "Scarlet Fever",
+                  "url": "https://youtube.com/shorts/6qLp4mwwfx4?si=NcfFqpdbmXUjcPqc"
+                }
+              ]
             },
             {
               "lessonId": "recYaS6aFxkZeqNSk",
@@ -781,7 +835,7 @@
               "sort": 201601,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 16",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nWhat do you think will happen next? \n\n➜ READ, NARRATE, & DISCUSS\nCh.17-18 \"Little Faithful\" & \"Dark Days\"\n\n• Make a character chart of Amy's virtues versus her vanities.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec9kgKtXNFbeqVb1",
               "lessonLinksUrl": "",
@@ -813,11 +867,16 @@
               "sort": 201701,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 17",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nHow did the sisters show care for others in the previous chapters? \n\n➜ READ, NARRATE, & DISCUSS\nCh.19-20 \"Amy's Will\" & \"Confidential\"\n\n• In what ways did Alcott use the literary device of foreshadowing leading up to Beth's illness? Foreshadowing is when an author gives us hints or clues about what might happen later in the story.  \n\n* In what ways does Little Women show that life can be good even through trials and tragedies?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Article Link: Autobiographical Roots of Little Women",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recUoJJB0qADzhRXy",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=2&week=17",
+              "links": [
+                {
+                  "text": "Autobiographical Roots of Little Women",
+                  "url": "https://northlight.org/blending-fiction-with-fact-little-women/"
+                }
+              ]
             },
             {
               "lessonId": "recW5jHqxTVCYfbWV",
@@ -845,7 +904,7 @@
               "sort": 201801,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 18",
-              "body": "",
+              "body": "⍞ Materials: Little Women\n\n➜ RECAP\nDescribe what you've learned about Amy.\n\n➜ READ, NARRATE, & DISCUSS\nCh.21 \"Laurie Makes Mischief, and Jo Makes Peace\"\n\n• Were you satisfied with the resolution of the prank in this chapter? Why or why not? If not, how might you have resolved it differently?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recFOwgDTcYg7g8cd",
               "lessonLinksUrl": "",
@@ -877,11 +936,24 @@
               "sort": 201901,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 19",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ INTRO\nFollowing the Civil War, the American public was in dire need of a pleasant distraction. Hans Brinker offered this escape and became an instant bestseller, second only to Charles Dickens in sales. Mary Mapes Dodge made a lasting change in children’s literature both as the author of Hans Brinker and editor of St. Nicholas magazine. She brought some of the finest writers of her day to young readers and helped make writing for children lively, thoughtful, and full of imagination. \n\nThis story is set in Holland. The Netherlands is the official name of the entire country, while Holland makes up two provinces within the country - North and South Holland. Optional: View Holland on this map (Scroll down to see the map.)\n∞ Map Link: The Netherlands\n\n➜ READ, NARRATE, & DISCUSS\nCh.1-2 \nOR\nCh.1-3\n\n• What have you already learned about Holland?",
+              "teacherNotes": "★ TEACHER NOTE\nChoose which pacing option to follow based on your student(s)' ability and interest. See Planning & Prep notes for more details on each option.\n\n• TERMINOLOGY\n∞ Article Link: Hans Brinker Pronunciation & corrections (shared with permission)\n\n• EXTRA HELPINGS\nClick \"See More\" near the top of this page to read a short bio of the author.\n∞ Article Link: Mary Mapes Dodge bio",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recNHWYQDq9bn2CS8",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recrQpWtfYlJ1EVrQ&term=2&week=19",
+              "links": [
+                {
+                  "text": "The Netherlands",
+                  "url": "https://history.howstuffworks.com/european-history/holland-netherlands.htm"
+                },
+                {
+                  "text": "Hans Brinker Pronunciation & Corrections",
+                  "url": "https://www.heardutchhere.net/HansBrinker2.html"
+                },
+                {
+                  "text": "Mary Mapes Dodge Bio",
+                  "url": "https://hymnary.org/person/Dodge_MM"
+                }
+              ]
             },
             {
               "lessonId": "rec4jKzmSq4SK7Ang",
@@ -909,8 +981,8 @@
               "sort": 202001,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 20",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ MAPWORK\nUse your atlas or view this map and find the capital city of Amsterdam. You may want to print the map and tuck it in the book to refer to as you read. \n\n➜ READ, NARRATE, & DISCUSS\nCh.3-4\nOR\nCh.4-6\n\n• How would you describe Hans and Gretel to a friend?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Dutch Windmill Inside",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec3QUV8C9n2HuskJ",
               "lessonLinksUrl": "",
               "links": []
@@ -941,8 +1013,8 @@
               "sort": 202101,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 21",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: How did Hans and Gretel find a friend?\n\n➜ READ, NARRATE, & DISCUSS\nCh.5-7\nOR\nCh.7-9\n\n• What “shadows” hang over the Brinker home?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Traditional Dutch Winter Skating",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rece0nMvIc95TlViZ",
               "lessonLinksUrl": "",
               "links": []
@@ -973,8 +1045,8 @@
               "sort": 202201,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 22",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about Hans and Gretel's parents? \n\n➜ READ, NARRATE, & DISCUSS\nCh.8-9\nOR\nCh.10-11\n\n• What does the boys’ plan to skate nearly fifty miles reveal about them and the time they live in? \n\nVIEW\nSt. Nicholas illustration from St. Nicholas magazine where Mary Mapes Dodge served as editor.",
+              "teacherNotes": "LITERATURE CONNECTION\nLouisa May Alcott (of Little Women fame) wrote for the St. Nicholas magazine!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recLOHa3KSSYQgJFF",
               "lessonLinksUrl": "",
               "links": []
@@ -1005,8 +1077,8 @@
               "sort": 202301,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 23",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you think will happen next? \n\n➜ READ, NARRATE, & DISCUSS\nCh.10-11\nOR\nCh.12-15\n\n•  How do Dutch customs of the Saint Nicholas celebration compare to your own Christmas celebrations?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Website Link: Virtually browse some of the art mentioned in this chapter if time allows.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=reca8sNrifGV2iavB",
               "lessonLinksUrl": "",
               "links": []
@@ -1037,7 +1109,7 @@
               "sort": 202401,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 24",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ EXAMS",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec7SHumzHvI9swhv",
               "lessonLinksUrl": "",
@@ -1075,7 +1147,7 @@
               "sort": 302501,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 25",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Saint Nicholas celebrations?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12-13\nOR\nCh.16-18\n\n➜ MAPWORK\nUse your atlas or view this map and find Haarlem.\n\n•  How would you have responded to the \"catastrophe\" if you had been with the boys?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recMVfOYZnq0LzuyG",
               "lessonLinksUrl": "",
@@ -1107,8 +1179,8 @@
               "sort": 302601,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 26",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened in the catastrophe? What do you think will happen next?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15\nOR\nCh.19-21\n\n• What different kinds of homes are described?\n• Why does Gretel struggle with her feelings about her father?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Historic Dutch Home Tour",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recaj7Z0D1UGi3ndx",
               "lessonLinksUrl": "",
               "links": []
@@ -1139,7 +1211,7 @@
               "sort": 302701,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 27",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Brinker home? \n\n➜ READ, NARRATE, & DISCUSS\nCh.16-17\nOR\nCh.22-23\n\n\n• Why do you think the author includes so many details about the places the boys visit?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recMYft1KGFXYz18Y",
               "lessonLinksUrl": "",
@@ -1171,8 +1243,8 @@
               "sort": 302801,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 28",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What was the meaning of the \"man with four heads\"?\n\n➜ READ, NARRATE, & DISCUSS\nCh.18-19\nOR\nCh.24-26\n\n• What dangers or freedoms come with spending so much time on the ice?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Can a finger really be used to stop a leaky dike?",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recpsqb7vF2tTsR4q",
               "lessonLinksUrl": "",
               "links": []
@@ -1203,8 +1275,8 @@
               "sort": 302901,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 29",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened last on the canal? \n\n➜ READ, NARRATE, & DISCUSS\nCh.20-21\nOR\nCh.27-28\n\n• How do group plans reveal who is flexible, selfish, cautious, or brave?",
+              "teacherNotes": "★ TEACHER NOTE\nThe next lesson includes an optional video for traditional Dutch gingerbread. (A five ingredient quick bread.) Look ahead and gather ingredients if you would like to make your own.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recDqgcjRb3hjCMyj",
               "lessonLinksUrl": "",
               "links": []
@@ -1235,7 +1307,7 @@
               "sort": 303001,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 30",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Red Lion so far? \n\n➜ READ, NARRATE, & DISCUSS\nCh.22-23\nOR\nCh.29-32\n\n➜ VIEW (optional)\nWith remaining time or in the afternoon, learn how to make traditional Dutch Gingerbread.\n∞ Video Link: Traditional Dutch Gingerbread\n\n• How does the author mix comedy and danger? Why do you think she chose to do that?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recrnPwjcYWwPyOMN",
               "lessonLinksUrl": "",
@@ -1267,8 +1339,8 @@
               "sort": 303101,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 31",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: How did the Red Lion become dangerous? What was the resolution?\n\n➜ READ, NARRATE, & DISCUSS\nCh.24-25\nOR\nCh.33-36\n\n ➜ MAPWORK\nUse your atlas or view this map and find Leiden (Leyden is an older spelling).\n\n• How can visiting museums help us better understand the people, history, and culture of a place?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Website Link: The \"Egyptian Museum\" is likely the Rijksmuseum van Oudheden.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recIcc1x4bByAp9HP",
               "lessonLinksUrl": "",
               "links": []
@@ -1299,7 +1371,7 @@
               "sort": 303201,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 32",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What did the boys see in Leyden? \n\n➜ READ, NARRATE, & DISCUSS\nCh.26-27\nOR\nCh.37-40\n\n• How does the quote “it is no sin to love beautiful things if you adapt your material to circumstances” help us think about enjoying beauty wisely?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec2YtOGcnYZztHD7",
               "lessonLinksUrl": "",
@@ -1331,8 +1403,8 @@
               "sort": 303301,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 33",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What stories were shared in the last lesson?\n\n➜ READ, NARRATE, & DISCUSS\nCh.28-29\nOR\nCh.41-42\n\n➜ MAPWORK\nUse your atlas or view this map and find The Hague.\n\n• Why is a day of rest important in the story?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: The Hague Market today.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recDyiaajgUK6k8Oi",
               "lessonLinksUrl": "",
               "links": []
@@ -1363,7 +1435,7 @@
               "sort": 303401,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 34",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened during the visit to The Hague?\n\n➜ READ, NARRATE, & DISCUSS\nCh.30-31\nOR\nCh.43-44\n\n• As they head home, what has changed because of their journey?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recP6uuKjJ0Laberz",
               "lessonLinksUrl": "",
@@ -1395,7 +1467,7 @@
               "sort": 303501,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 35",
-              "body": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened as the boys head home?\n\n➜ READ, NARRATE, & DISCUSS\nCh.32-33\nOR\nCh.45-48\n\n• Why is it sometimes difficult to hope when a situation feels uncertain?\n• How can friendship help someone going through tough times?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recvjOT4MTL5wdp1D",
               "lessonLinksUrl": "",
@@ -1427,8 +1499,8 @@
               "sort": 303601,
               "lessonLabel": "",
               "title": "20m General Lit.: Grades 5-6 - Lesson 36",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ EXAMS\n\n\n➜ READ & DISCUSS\nCh.34-35\nOR\nFinish book over exam week as needed.",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Elfstedentocht: The Famed Frozen Race",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recbJz1wRxDzlQEeB",
               "lessonLinksUrl": "",
               "links": []

@@ -13,7 +13,7 @@
     "Canadian History: Grades 2-4",
     "World History: Grades 4-6"
   ],
-  "updatedAt": "2026-05-18T15:09:44.979Z",
+  "updatedAt": "2026-05-18T20:25:25.036Z",
   "terms": [
     {
       "termNumber": 1,
@@ -488,6 +488,28 @@
                 {
                   "text": "I Wandered Lonely as a Cloud",
                   "url": "https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud"
+                }
+              ]
+            },
+            {
+              "lessonId": "recKe7AK95x9C14PZ",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "sort": 302502,
+              "lessonLabel": "",
+              "title": "25m World History: Grades 4-6 - Lesson 25",
+              "anchor": "term-3-week-25-lesson-25",
+              "links": [
+                {
+                  "text": "Japanese Society",
+                  "url": "https://drive.google.com/file/d/1bz9BMSxAWjuEQhjxhgsa5OIyEWlmZ6qc/view?usp=drive_link"
+                },
+                {
+                  "text": "Chart of Feudal System",
+                  "url": "https://en.wikipedia.org/wiki/Edo_society#/media/File:Edo_social_structure.svg"
                 }
               ]
             }

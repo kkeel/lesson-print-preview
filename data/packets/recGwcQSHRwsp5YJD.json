@@ -160,7 +160,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recGwcQSHRwsp5YJD",
-          "groups": []
+          "groups": [
+            {
+              "title": "Mathematics: Grade 5",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 10: Math)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

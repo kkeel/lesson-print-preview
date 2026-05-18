@@ -175,7 +175,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recVRo4PZirdeIAkg",
-          "groups": []
+          "groups": [
+            {
+              "title": "Literature: Grades 7-8",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

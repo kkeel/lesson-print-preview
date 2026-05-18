@@ -228,6 +228,11 @@
                   "label": "Grid Paper Template",
                   "url": "https://incompetech.com/graphpaper/quickPicks/8.5x11grey.25inchSquares.pdf",
                   "sort": "4"
+                },
+                {
+                  "label": "Foundations (See Section 5: Art Appreciation and Instruction)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
                 }
               ]
             }

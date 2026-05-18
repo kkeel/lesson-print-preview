@@ -1,16 +1,18 @@
 {
-  "id": "recZItIL78TwlSXhJ",
-  "title": "Lettering",
-  "lessonSetName": "Lettering: Level 3",
-  "subject": "Life Skills",
-  "gradeText": "GRADE(S): 9+",
-  "sortId": "010.006.009.000",
-  "rowType": "course",
+  "id": "recS1bcmurrJ85GEw",
+  "title": "General Lit.",
+  "lessonSetName": "General Lit.: Grades 5-6",
+  "subject": "Literature",
+  "gradeText": "GRADE(S): 5-6",
+  "sortId": "011.001.005.005",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionNames": [],
+  "isStandaloneCourse": false,
+  "courseConnectionNames": [
+    "Literature: Grades 5-6"
+  ],
   "topicConnectionNames": [],
-  "updatedAt": "2026-05-18T20:25:25.076Z",
+  "updatedAt": "2026-05-18T20:25:25.087Z",
   "terms": [
     {
       "termNumber": 1,
@@ -21,7 +23,7 @@
           "weekLabel": "Week 1",
           "lessons": [
             {
-              "lessonId": "recK9Zfcmmm3R7Hg9",
+              "lessonId": "recwDPBsrTXQAUxFJ",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 1,
@@ -29,12 +31,12 @@
               "sequence": 1,
               "sort": 0,
               "lessonLabel": "Lesson 1",
-              "title": "20m Lettering: Level 3 - Lesson 1",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 1",
               "anchor": "term-1-week-1-lesson-1",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Drawing Sans Serif",
-                  "url": "https://vimeo.com/705787840/505e73aa0d"
+                  "text": "Louisa May Alcott Bio",
+                  "url": "https://www.battlefields.org/learn/biographies/louisa-may-alcott"
                 }
               ]
             }
@@ -45,7 +47,7 @@
           "weekLabel": "Week 2",
           "lessons": [
             {
-              "lessonId": "recSJ8vHbzVZ5eoua",
+              "lessonId": "rec64Jv6gQBM2Gbwn",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 2,
@@ -53,12 +55,12 @@
               "sequence": 2,
               "sort": 0,
               "lessonLabel": "Lesson 2",
-              "title": "20m Lettering: Level 3 - Lesson 2",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 2",
               "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Drawing Serif",
-                  "url": "https://vimeo.com/705952192/53d3cf235d"
+                  "text": "Christmas During the Civil War",
+                  "url": "https://www.battlefields.org/learn/articles/christmas-during-civil-war#:~:text=Christmas%20during%20the%20Civil%20War%20served%20both%20as%20an%20escape,Civil%20War%20%7C%20Article"
                 }
               ]
             }
@@ -69,7 +71,7 @@
           "weekLabel": "Week 3",
           "lessons": [
             {
-              "lessonId": "rec0OwBPiD4jaBVms",
+              "lessonId": "recTnfVPa8ZRCw7M7",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 3,
@@ -77,12 +79,12 @@
               "sequence": 3,
               "sort": 0,
               "lessonLabel": "Lesson 3",
-              "title": "20m Lettering: Level 3 - Lesson 3",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 3",
               "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Drawing Script",
-                  "url": "https://vimeo.com/705981599/7aa0572c57"
+                  "text": "Civil War Dresses",
+                  "url": "https://civilwarladies.com/"
                 }
               ]
             }
@@ -93,7 +95,7 @@
           "weekLabel": "Week 4",
           "lessons": [
             {
-              "lessonId": "recIDzKOZhHUzrDCj",
+              "lessonId": "recXfi1MIO5nB6VNk",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 4,
@@ -101,12 +103,12 @@
               "sequence": 4,
               "sort": 0,
               "lessonLabel": "Lesson 4",
-              "title": "20m Lettering: Level 3 - Lesson 4",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 4",
               "anchor": "term-1-week-4-lesson-4",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Drawing Shadow Lines & Dimension",
-                  "url": "https://vimeo.com/705982081/05ebd67d2a"
+                  "text": "The Alcotts' Home",
+                  "url": "https://louisamayalcott.org/photo-gallery"
                 }
               ]
             }
@@ -117,7 +119,7 @@
           "weekLabel": "Week 5",
           "lessons": [
             {
-              "lessonId": "rec4gPplch1xY1L4e",
+              "lessonId": "recBjz8y0Xfvn9l2z",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 5,
@@ -125,12 +127,16 @@
               "sequence": 5,
               "sort": 0,
               "lessonLabel": "Lesson 5",
-              "title": "20m Lettering: Level 3 - Lesson 5",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 5",
               "anchor": "term-1-week-5-lesson-5",
               "links": [
                 {
-                  "text": "Lettering 3: Drawing Overlapping Letters",
-                  "url": "https://vimeo.com/706699629/4bc79dd1d2"
+                  "text": "Transcendentalism and the Alcotts",
+                  "url": "http://kcpt.pbslearningmedia.org/resource/alcott18-soc-ela-transcendentalism/louisa-may-alcott-transcendentalism/?student=true"
+                },
+                {
+                  "text": "Alcott and Emerson",
+                  "url": "https://www.walden.org/what-we-do/library/the-transcendentalists-their-lives-writings/louisa-may-alcott-1832-1888/"
                 }
               ]
             }
@@ -141,7 +147,7 @@
           "weekLabel": "Week 6",
           "lessons": [
             {
-              "lessonId": "recDxsoUwtZEtrn9B",
+              "lessonId": "rec7UwW3jRuk2k3UM",
               "termNumber": 1,
               "termLabel": "Term 1",
               "weekNumber": 6,
@@ -149,12 +155,12 @@
               "sequence": 6,
               "sort": 0,
               "lessonLabel": "Lesson 6",
-              "title": "20m Lettering: Level 3 - Lesson 6",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 6",
               "anchor": "term-1-week-6-lesson-6",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Drawing Ombré",
-                  "url": "https://vimeo.com/706699406/8af97ba2eb"
+                  "text": "Pickled Limes",
+                  "url": "https://youtu.be/t1FxQW77Hxk?si=9Hv45OH2dAjwqHhA"
                 }
               ]
             }
@@ -167,35 +173,11 @@
       "term": "Term 2",
       "weeks": [
         {
-          "weekNumber": 13,
-          "weekLabel": "Week 1",
-          "lessons": [
-            {
-              "lessonId": "recOLzR8jwzRJ6uNW",
-              "termNumber": 2,
-              "termLabel": "Term 2",
-              "weekNumber": 13,
-              "weekLabel": "Week 1",
-              "sequence": 13,
-              "sort": 0,
-              "lessonLabel": "Lesson 13",
-              "title": "20m Lettering: Level 3 - Lesson 13",
-              "anchor": "term-2-week-13-lesson-13",
-              "links": [
-                {
-                  "text": "Lettering 3: Ink & Brush Sans Serif",
-                  "url": "https://vimeo.com/706711563/56b0a52863"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "weekNumber": 14,
           "weekLabel": "Week 2",
           "lessons": [
             {
-              "lessonId": "rec4ZOAWOQIftgHHo",
+              "lessonId": "recetgTOQ6jecKOMh",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 14,
@@ -203,12 +185,16 @@
               "sequence": 14,
               "sort": 0,
               "lessonLabel": "Lesson 14",
-              "title": "20m Lettering: Level 3 - Lesson 14",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 14",
               "anchor": "term-2-week-14-lesson-14",
               "links": [
                 {
-                  "text": "Lettering 3: Ink & Brush Serif",
-                  "url": "https://vimeo.com/706711741/31095b4ddc"
+                  "text": "The Telegraph: The Civil War Text Machine",
+                  "url": "https://youtu.be/tzP7QOOAt4I?si=4eeaKxa3jCUd1W8m"
+                },
+                {
+                  "text": "LMA, Civil War Nurse",
+                  "url": "https://www.civilwarmed.org/alcott/"
                 }
               ]
             }
@@ -219,7 +205,7 @@
           "weekLabel": "Week 3",
           "lessons": [
             {
-              "lessonId": "rec85QNwE6kce12pm",
+              "lessonId": "recS8odIOXDvOIB5W",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 15,
@@ -227,36 +213,12 @@
               "sequence": 15,
               "sort": 0,
               "lessonLabel": "Lesson 15",
-              "title": "20m Lettering: Level 3 - Lesson 15",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 15",
               "anchor": "term-2-week-15-lesson-15",
               "links": [
                 {
-                  "text": "Lettering 3: Ink & Brush Script",
-                  "url": "https://vimeo.com/706711847/e911016437"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "weekNumber": 16,
-          "weekLabel": "Week 4",
-          "lessons": [
-            {
-              "lessonId": "rec6tyeWyk1FArtuK",
-              "termNumber": 2,
-              "termLabel": "Term 2",
-              "weekNumber": 16,
-              "weekLabel": "Week 4",
-              "sequence": 16,
-              "sort": 0,
-              "lessonLabel": "Lesson 16",
-              "title": "20m Lettering: Level 3 - Lesson 16",
-              "anchor": "term-2-week-16-lesson-16",
-              "links": [
-                {
-                  "text": "Lettering 3: Brush Pen Sans Serif",
-                  "url": "https://vimeo.com/706706256/1e2e63f8a5"
+                  "text": "Scarlet Fever",
+                  "url": "https://youtube.com/shorts/6qLp4mwwfx4?si=NcfFqpdbmXUjcPqc"
                 }
               ]
             }
@@ -267,7 +229,7 @@
           "weekLabel": "Week 5",
           "lessons": [
             {
-              "lessonId": "recxLtf75ih1X43jt",
+              "lessonId": "recUoJJB0qADzhRXy",
               "termNumber": 2,
               "termLabel": "Term 2",
               "weekNumber": 17,
@@ -275,36 +237,44 @@
               "sequence": 17,
               "sort": 0,
               "lessonLabel": "Lesson 17",
-              "title": "20m Lettering: Level 3 - Lesson 17",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 17",
               "anchor": "term-2-week-17-lesson-17",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Pen Serif",
-                  "url": "https://vimeo.com/706706428/987cc7a0e6"
+                  "text": "Autobiographical Roots of Little Women",
+                  "url": "https://northlight.org/blending-fiction-with-fact-little-women/"
                 }
               ]
             }
           ]
         },
         {
-          "weekNumber": 18,
-          "weekLabel": "Week 6",
+          "weekNumber": 19,
+          "weekLabel": "Week 7",
           "lessons": [
             {
-              "lessonId": "recUTPNf9vhSsNaVb",
+              "lessonId": "recNHWYQDq9bn2CS8",
               "termNumber": 2,
               "termLabel": "Term 2",
-              "weekNumber": 18,
-              "weekLabel": "Week 6",
-              "sequence": 18,
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
               "sort": 0,
-              "lessonLabel": "Lesson 18",
-              "title": "20m Lettering: Level 3 - Lesson 18",
-              "anchor": "term-2-week-18-lesson-18",
+              "lessonLabel": "Lesson 19",
+              "title": "20m General Lit.: Grades 5-6 - Lesson 19",
+              "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
-                  "text": "Lettering 3: Brush Pen Script",
-                  "url": "https://vimeo.com/706706555/47cd9a44a0"
+                  "text": "The Netherlands",
+                  "url": "https://history.howstuffworks.com/european-history/holland-netherlands.htm"
+                },
+                {
+                  "text": "Hans Brinker Pronunciation & Corrections",
+                  "url": "https://www.heardutchhere.net/HansBrinker2.html"
+                },
+                {
+                  "text": "Mary Mapes Dodge Bio",
+                  "url": "https://hymnary.org/person/Dodge_MM"
                 }
               ]
             }

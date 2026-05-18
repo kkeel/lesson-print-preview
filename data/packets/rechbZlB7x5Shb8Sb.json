@@ -202,7 +202,13 @@
             {
               "title": "Bible: Grade 12",
               "type": "course",
-              "links": []
+              "links": [
+                {
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
             },
             {
               "title": "New Testament: Grade 12",

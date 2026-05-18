@@ -131,7 +131,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec1NRlYp2n4n75t8",
-          "groups": []
+          "groups": [
+            {
+              "title": "History: Grade 1 (Canada)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 15: History)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

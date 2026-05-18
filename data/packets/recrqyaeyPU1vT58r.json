@@ -245,6 +245,11 @@
                   "label": "Errata Page: Reading Level 1 for Lessons released prior to 11/19/25",
                   "url": "https://drive.google.com/file/d/16PytKzsUdJlc56yDtPyBHuo1ssZnBhGE/view?usp=drive_link",
                   "sort": "5"
+                },
+                {
+                  "label": "Foundations (See Section 14: Reading Lessons)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
                 }
               ]
             }

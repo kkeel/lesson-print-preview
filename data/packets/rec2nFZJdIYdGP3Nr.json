@@ -144,7 +144,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec2nFZJdIYdGP3Nr",
-          "groups": []
+          "groups": [
+            {
+              "title": "Geography: Grades 4-6",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 16: Geography)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -258,7 +270,7 @@
               "sequence": 3,
               "lessonLabel": "Lesson 3",
               "title": "25m Geography: Grades 4-6 - Lesson 3",
-              "body": "The Road to Africa\n⍞ Materials: David Livingstone: African Explorer\n\n➜ RECAP       \nWhat did you read last time?\n\n➜ LOCATE        \n∞ Map link: Map of Scotland\n1\\. Locate Glasgow on the map. David grew up in Blantyre, which is 8 miles from Glasgow. \n2\\. What river runs through Glasgow? [A: Clyde River]\n3\\. How would you describe the coastline of Scotland? As you can see, Scotland has a rugged coastline where waterways jut in. There are over 800 islands, and the coastline is larger than that of England, France, and Spain. \n\n➜ READ, NARRATE, & DISCUSS \n⍞ Materials: David Livingstone: African Explorer\nCh.1 p.9-16 “All around them” - ”they accept him?”\n\n• Why would Livingstone choose medicine and exploration? How does it help his missionary work?\n\n➜ VIEW\nHere is a current picture of the three-story building David and his family lived in with many other families who worked at the mill. The building is now part of a museum in Blantyre, Scotland, in honor of David Livingstone.\n∞ Image Link: Picture of Livingstone's Home",
+              "body": "The Road to Africa\n⍞ Materials: David Livingstone: African Explorer\n\n➜ RECAP       \nWhat did you read last time?\n\n➜ LOCATE        \n∞ Map link: Map of Scotland\n1\\. Locate Glasgow on the map. David grew up in Blantyre, which is 8 miles from Glasgow. \n2\\. What river runs through Glasgow? [A:Clyde River]\n3\\. How would you describe the coastline of Scotland? Scotland has a rugged coastline where waterways jut in. There are over 800 islands, and the coastline is larger than that of England, France, and Spain. \n\n➜ READ, NARRATE, & DISCUSS \n⍞ Materials: David Livingstone: African Explorer\nCh.1 p.9-16 “All around them” - ”they accept him?”\n\n• Why would Livingstone choose medicine and exploration? How does it help his missionary work?\n\n➜ VIEW\nHere is a current picture of the three-story building David and his family lived in with many other families who worked at the mill. The building is now part of a museum in Blantyre, Scotland, in honor of David Livingstone.\n∞ Image Link: Picture of Livingstone's Home",
               "teacherNotes": "• DEFINITIONS\npounds and shillings: monetary units in the United Kingdom\n\nRoyal Society: the oldest national scientific society in the world and the leading national organization for the promotion of scientific research in Britain (p.12)\n\nnonsectarian: not affiliated with a particular religious group (p.14)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec2nFZJdIYdGP3Nr&6J82c=recXwunDWfUvU3L4N",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec2nFZJdIYdGP3Nr&term=1&week=2",

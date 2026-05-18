@@ -239,6 +239,11 @@
                   "label": "Optional Cloisonne Kits (see Note in Header page)",
                   "url": "https://www.cloisonnekit.com/",
                   "sort": "1"
+                },
+                {
+                  "label": "Foundations (See Section 5: Art Appreciation and Instruction)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
                 }
               ]
             }

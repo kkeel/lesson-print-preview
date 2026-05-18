@@ -199,6 +199,11 @@
                   "label": "bibleproject.com",
                   "url": "https://bibleproject.com/explore/book-overviews/?type=old",
                   "sort": ""
+                },
+                {
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
                 }
               ]
             }

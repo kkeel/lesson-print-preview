@@ -125,7 +125,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recmcMLVf0UYM6aBz",
-          "groups": []
+          "groups": [
+            {
+              "title": "Geography: Grade 7 (Canada)",
+              "type": "course",
+              "links": [
+                {
+                  "label": "Foundations (See Section 16: Geography)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

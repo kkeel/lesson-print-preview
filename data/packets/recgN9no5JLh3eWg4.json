@@ -125,7 +125,19 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recgN9no5JLh3eWg4",
-          "groups": []
+          "groups": [
+            {
+              "title": "Plutarch/Government: Grade 9 (Canada)",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Video: How to Teach Plutarch (see Citizenship: Section 7)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },

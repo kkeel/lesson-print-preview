@@ -185,6 +185,11 @@
                   "label": "Community Read Alouds",
                   "url": "#",
                   "sort": ""
+                },
+                {
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": ""
                 }
               ]
             }
