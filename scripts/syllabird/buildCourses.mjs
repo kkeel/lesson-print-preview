@@ -39,7 +39,9 @@ const COURSE_FIELDS = [
   "Link Page",
   "Books",
   "Supplies",
-  "Supply List Link"
+  "Supply List Link",
+  "Syllabird Status",
+  "Syllabird Tracker Template"
 ];
 
 const HEADER_FIELDS = [
@@ -422,11 +424,24 @@ function getMaxWeekForCourse(fields, lessonDetailsById) {
 
 function shouldExportCourse(record) {
   const fields = record.fields || {};
+
   const courseType = normalizeText(fields["Course Type"]);
   const lessonIds = normalizeArray(fields["Lessons"]);
 
+  const trackerTemplate = normalizeRichText(
+    fields["Syllabird Tracker Template"]
+  );
+
+  const syllabirdStatus = normalizeText(
+    fields["Syllabird Status"]
+  );
+
+  if (syllabirdStatus === "Do Not Import") {
+    return false;
+  }
+
   return (
-    lessonIds.length > 0 &&
+    (lessonIds.length > 0 || trackerTemplate) &&
     (courseType === "Course" || courseType === "Topic")
   );
 }
