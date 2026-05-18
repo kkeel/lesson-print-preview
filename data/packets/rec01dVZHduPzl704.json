@@ -31,6 +31,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recHOTj8ymdfcbMIf",
+    "trackerTitleTemplate": "30m Nature Walks & Scouting: Grades 1-8",
+    "perWeek": 1
+  },
   "sections": [
     {
       "type": "cover",

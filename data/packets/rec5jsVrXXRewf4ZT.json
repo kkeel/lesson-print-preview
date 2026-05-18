@@ -19,6 +19,12 @@
     "Calculus: Part 1"
   ],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "rec7llnlGCITKIDws",
+    "trackerTitleTemplate": "40m Mathematics: Grade 12",
+    "perWeek": 0
+  },
   "sections": [
     {
       "type": "cover",

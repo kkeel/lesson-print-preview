@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recm8JbPvoKHZP3bE",
+    "trackerTitleTemplate": "20m Lower Spanish: Grades 1-6",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "",
+    "trackerTitleTemplate": "",
+    "perWeek": 3
+  },
   "sections": [
     {
       "type": "cover",

@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "rec609RJCtuqW0JGV",
+    "trackerTitleTemplate": "40m Pre-Calculus: Part 1",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

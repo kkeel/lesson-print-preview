@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recsTTFlQl0e4HN2b",
+    "trackerTitleTemplate": "40m Algebra 1: Part 2",
+    "perWeek": 2
+  },
   "sections": [
     {
       "type": "cover",

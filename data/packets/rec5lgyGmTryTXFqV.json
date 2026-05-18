@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recaR1GsOn3QT7Mv1",
+    "trackerTitleTemplate": "20m Lower French: Grades 1-6",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

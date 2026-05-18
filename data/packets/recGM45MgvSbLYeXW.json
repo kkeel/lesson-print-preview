@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recv2kQ0ZkyDUzI0s",
+    "trackerTitleTemplate": "40m Mathematics: Grade 9 (Denison)",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

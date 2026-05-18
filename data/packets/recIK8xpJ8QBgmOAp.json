@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recoBcLzZY4L2F7h0",
+    "trackerTitleTemplate": "40m Geometry: Part 2",
+    "perWeek": 2
+  },
   "sections": [
     {
       "type": "cover",

@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recBFLAWR86VDkoyT",
+    "trackerTitleTemplate": "15m Dictation: Grade 5",
+    "perWeek": 1
+  },
   "sections": [
     {
       "type": "cover",

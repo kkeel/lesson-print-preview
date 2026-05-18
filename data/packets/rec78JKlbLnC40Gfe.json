@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recAGuiwt0KWwCddo",
+    "trackerTitleTemplate": "30m Math Lessons: Grade 7 (Denison)",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

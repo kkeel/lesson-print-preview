@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recjAaggN9xcewty5",
+    "trackerTitleTemplate": "30m Upper Spanish: Level 4",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

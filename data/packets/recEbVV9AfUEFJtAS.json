@@ -19,6 +19,12 @@
     "Pre-Calculus: Part 1"
   ],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recrVnz8LDtYvFc1o",
+    "trackerTitleTemplate": "40m Mathematics: Grade 11",
+    "perWeek": 0
+  },
   "sections": [
     {
       "type": "cover",

@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recTKtV2L9nj44Bau",
+    "trackerTitleTemplate": "30m Latin 3",
+    "perWeek": 2
+  },
   "sections": [
     {
       "type": "cover",

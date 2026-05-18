@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recLFXCTf9DbG3MQb",
+    "trackerTitleTemplate": "40m Math Lessons: Grade 8 (Denison)",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

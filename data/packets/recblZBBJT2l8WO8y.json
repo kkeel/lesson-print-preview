@@ -19,6 +19,12 @@
     "Mythology/Hist. Fiction: Grade 4"
   ],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Do Not Import",
+    "trackerTemplate": "",
+    "trackerTitleTemplate": "",
+    "perWeek": 0
+  },
   "sections": [
     {
       "type": "cover",

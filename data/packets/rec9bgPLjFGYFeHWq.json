@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recA7bQDv58ypZ2U2",
+    "trackerTitleTemplate": "30m Upper French: Level 5",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

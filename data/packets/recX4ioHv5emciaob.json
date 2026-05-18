@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recWGFcPiVr32gnql",
+    "trackerTitleTemplate": "40m Mathematics: Grade 11 (Denison)",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",

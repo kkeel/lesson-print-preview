@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "reck6eG0QiMhklIsz",
+    "trackerTitleTemplate": "10m Penmanship & Copywork: Grade 5",
+    "perWeek": 1
+  },
   "sections": [
     {
       "type": "cover",

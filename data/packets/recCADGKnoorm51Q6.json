@@ -17,6 +17,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "rec7c8k5CDQ8qOH3W",
+    "trackerTitleTemplate": "20m Nature Notebook: Grade 7",
+    "perWeek": 1
+  },
   "sections": [
     {
       "type": "cover",

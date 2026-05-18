@@ -23,6 +23,12 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recsme0cBmVMh2Clx",
+    "trackerTitleTemplate": "10m Commonplace: Grades 9-12",
+    "perWeek": 1
+  },
   "sections": [
     {
       "type": "cover",

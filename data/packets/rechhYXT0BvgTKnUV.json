@@ -13,6 +13,12 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "syllabird": {
+    "status": "Needs Initial Import",
+    "trackerTemplate": "recwFNoCsT35xt9Z6",
+    "trackerTitleTemplate": "40m Mathematics: Grade 10 (Denison)",
+    "perWeek": 5
+  },
   "sections": [
     {
       "type": "cover",
