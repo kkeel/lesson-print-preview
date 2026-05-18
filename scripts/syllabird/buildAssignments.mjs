@@ -183,10 +183,7 @@ function buildTrackerRowsForPacket(packet) {
         `${tracker.trackerTitleTemplate} - Lesson ${lessonCounter}`;
 
       const assignmentBody = isExamWeek
-        ? appendBlocks(
-            tracker.trackerTemplate,
-            "Complete term exam."
-          )
+        ? "➜ EXAMS\nAnswer question(s) related to course."
         : tracker.trackerTemplate;
 
       rows.push({
