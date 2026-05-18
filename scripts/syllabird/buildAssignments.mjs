@@ -2,6 +2,11 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
+const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
+
+const AIRTABLE_TABLE_NAME = "Lesson Plan Sets";
+const AIRTABLE_EXPORT_STATUS_FIELD = "Syllabird Export Status";
 
 const CSV_HEADERS = [
   "course_custom_id",
@@ -120,6 +125,58 @@ async function writePerCourseAssignmentCsvs(rows, outputDir) {
       "utf8"
     );
   }
+}
+
+function formatSyllabirdExportStatus(courseCount, assignmentCount) {
+  const exportedAt = new Date().toLocaleString("en-US", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true
+  });
+
+  return `Syllabird CSV exported ${exportedAt} ET · ${courseCount} courses · ${assignmentCount} assignments`;
+}
+
+async function updateAirtableSyllabirdStatus(courseIds, assignmentCount) {
+  if (!AIRTABLE_TOKEN || !AIRTABLE_BASE_ID) {
+    console.warn("Skipping Airtable Syllabird status update: missing Airtable env vars.");
+    return;
+  }
+
+  const tableName = encodeURIComponent(AIRTABLE_TABLE_NAME);
+  const status = formatSyllabirdExportStatus(courseIds.length, assignmentCount);
+
+  for (const courseId of courseIds) {
+    const recordId = String(courseId).replace(/^alveary-/, "");
+
+    const response = await fetch(
+      `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${tableName}/${recordId}`,
+      {
+        method: "PATCH",
+        headers: {
+          Authorization: `Bearer ${AIRTABLE_TOKEN}`,
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          fields: {
+            [AIRTABLE_EXPORT_STATUS_FIELD]: status
+          }
+        })
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        `Airtable Syllabird status update failed for ${recordId}: ${response.status} ${await response.text()}`
+      );
+    }
+  }
+
+  console.log(`Updated Airtable Syllabird export status for ${courseIds.length} course(s).`);
 }
 
 function getLessonsSection(packet) {
@@ -340,7 +397,6 @@ async function main() {
   const repoRoot = process.cwd();
   const packetsDir = path.join(repoRoot, "data", "packets");
   const exportDir = path.join(repoRoot, "exports", "syllabird");
-  const outputPath = path.join(exportDir, "assignments.csv");
   const coursesPath = path.join(exportDir, "courses.csv");
 
   const assignmentsByCourseDir = path.join(
@@ -386,15 +442,18 @@ async function main() {
     rows.push(...packetRows);
   }
 
-  await fs.writeFile(outputPath, toCsv(rows), "utf8");
-
   await writePerCourseAssignmentCsvs(
     rows,
     assignmentsByCourseDir
   );
 
+  await updateAirtableSyllabirdStatus(
+    [...validCourseIds],
+    rows.length
+  );
+
   console.log(`Built ${rows.length} Syllabird assignment row(s).`);
-  console.log(`Wrote ${path.relative(repoRoot, outputPath)}`);
+  console.log(`Wrote per-course assignment CSVs to ${path.relative(repoRoot, assignmentsByCourseDir)}`);
 }
 
 main().catch(error => {
