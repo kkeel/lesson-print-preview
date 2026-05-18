@@ -1284,7 +1284,7 @@ a:hover {
 
 .lesson-block {
   display: grid;
-  grid-template-columns: 0.65in 1fr 2.12in;
+  grid-template-columns: 0.65in 1fr 2.5in;
   gap: 0;
   margin: 0;
   border-top: 1.5px solid #8da08c;
