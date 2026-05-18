@@ -351,7 +351,7 @@ function renderHeaderItem(item, headerEditUrl = "") {
 
   if (item.kind === "books-resources") {
     const iconSrc = "../images/header_icons/Books & Resources.png";
-    const linkUrl = item.linkUrl || "#";
+    const linkUrl = item.linkUrl || "";
   
     return `
       <section class="flow-block header-block header-group-block">
@@ -371,9 +371,11 @@ function renderHeaderItem(item, headerEditUrl = "") {
               scan the QR code below.
             </p>
   
-            <p class="books-resources-link-line">
-              ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
-            </p>
+            ${linkUrl ? `
+              <p class="books-resources-link-line">
+                ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
+              </p>
+            ` : ""}
   
             <div class="books-resources-list">
               ${(item.groups || []).map(group => `
