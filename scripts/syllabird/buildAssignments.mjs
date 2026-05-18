@@ -157,6 +157,71 @@ function getAssignmentType(packet, lesson) {
   return "Lesson";
 }
 
+function buildTrackerRowsForPacket(packet) {
+  const tracker = packet.syllabird || {};
+
+  if (!tracker.trackerTemplate) return [];
+
+  const rows = [];
+  const courseCustomId = `alveary-${packet.id}`;
+
+  let lessonCounter = 1;
+
+  for (let week = 1; week <= 36; week += 1) {
+    const termNumber =
+      week <= 12 ? 1 :
+      week <= 24 ? 2 : 3;
+
+    for (let day = 1; day <= tracker.perWeek; day += 1) {
+      const isExamWeek = week % 12 === 0;
+
+      const examContent = isExamWeek
+        ? getExamContentForTerm(packet, termNumber)
+        : "";
+
+      const lessonTitle =
+        `${tracker.trackerTitleTemplate} - Lesson ${lessonCounter}`;
+
+      const assignmentBody = isExamWeek
+        ? appendBlocks(
+            tracker.trackerTemplate,
+            "Complete term exam."
+          )
+        : tracker.trackerTemplate;
+
+      rows.push({
+        course_custom_id: courseCustomId,
+
+        assignment_custom_id:
+          `alveary-tracker-${packet.id}-${week}-${day}`,
+
+        assignment_week: week,
+        assignment_day: day,
+
+        assignment_name: lessonTitle,
+
+        assignment_description:
+          textToHtml(assignmentBody),
+
+        assignment_teachersNote:
+          textToHtml(examContent),
+
+        assignment_linksUrl: "",
+
+        assignment_type:
+          isExamWeek ? "Exam" : "Lesson",
+
+        assignment_duration: 0,
+        assignment_graded: "FALSE"
+      });
+
+      lessonCounter += 1;
+    }
+  }
+
+  return rows;
+}
+
 function buildRowsForPacket(packet) {
   const lessonsSection = getLessonsSection(packet);
   if (!lessonsSection) return [];
@@ -314,7 +379,13 @@ async function main() {
 
     if (!validCourseIds.has(courseCustomId)) continue;
 
-    const packetRows = buildRowsForPacket(packet);
+    const trackerTemplate =
+      packet.syllabird?.trackerTemplate || "";
+    
+    const packetRows = trackerTemplate
+      ? buildTrackerRowsForPacket(packet)
+      : buildRowsForPacket(packet);
+    
     rows.push(...packetRows);
   }
 
