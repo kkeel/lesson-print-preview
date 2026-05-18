@@ -58,7 +58,11 @@ const LESSON_FIELDS = [
   "Lessons",
   "Term 1 Exams",
   "Term 2 Exams",
-  "Term 3 Exams"
+  "Term 3 Exams",
+  "Syllabird Status",
+  "Syllabird Tracker Template",
+  "Tracker Title Template",
+  "perWeek"
 ];
 
 const HEADER_FIELDS = [
@@ -1348,6 +1352,14 @@ function buildPacket(record, headerLookup) {
     courseConnectionNames,
     topicConnectionNames,
     templateType: "standard",
+
+    syllabird: {
+      status: normalizeText(fields["Syllabird Status"]),
+      trackerTemplate: normalizeRichText(fields["Syllabird Tracker Template"]),
+      trackerTitleTemplate: normalizeText(fields["Tracker Title Template"]),
+      perWeek: Number(normalizeText(fields["perWeek"]) || 0)
+    },
+    
     sections: [
       {
         type: "cover",
