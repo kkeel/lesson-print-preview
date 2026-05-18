@@ -92,7 +92,7 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recLpfY3HoY8mk9rj",
           "groups": [
             {
               "title": "Geography: Grade 7 (U.S.)",
@@ -956,7 +956,7 @@
               "sequence": 36,
               "lessonLabel": "Lesson 36",
               "title": "30m Geography: Grade 7 (U.S.) - Lesson 36",
-              "body": "⍞ Materials: Mapping the World with Art, notebook, copy of p.103, 105, 107, scissors, white glue, ruler, compass, thin string\n\nPREP: You will need to make copies for the activity, or you can use the map in the book. Printing on cardstock would be ideal.\n\n➜ RECAP\nWhat did you read last time?\n\n➜ MAPPING ACTIVITY\nActivity Idea 23F: Make an octahedral globe\np.102 Activity Section: follow the instructions in your book\n∞ Image Link: Octahedral Globe Example",
+              "body": "⍞ Materials: Mapping the World with Art, notebook, copy of p.103, 105, 107, scissors, white glue, ruler, compass, thin string\n\nPREP: You will need to make copies for the activity, or you can use the map in the book. Printing on cardstock would be ideal.\n\n➜ RECAP\nWhat did you read last time?\n\n➜ DRAW\np.56 Map Drawing 23B Ireland, 23C Iceland\n\n➜ VIEW\nIt will be helpful to look at these maps of Ireland and Iceland as you draw yours.\n∞ Map Link: Map of Ireland\n∞ Map Link: Map of Iceland\n\n➜ MAPPING ACTIVITY\nActivity Idea 23F: Make an octahedral globe\np.102 Activity Section: follow the instructions in your book\n∞ Image Link: Octahedral Globe Example",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyu5tjwRcMydVgV&6J82c=recaSATin0LI17DS6",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recyu5tjwRcMydVgV&term=2&week=18",
@@ -964,6 +964,14 @@
                 {
                   "text": "Octahedral Globe Example",
                   "url": "https://lyncean.education/projects/astronomy/polyhedral-globes/earthset.jpg"
+                },
+                {
+                  "text": "Map of Ireland",
+                  "url": "https://www.worldatlas.com/upload/90/ca/2b/ie-01.jpg"
+                },
+                {
+                  "text": "Map of Iceland",
+                  "url": "https://www.worldatlas.com/upload/e4/76/4f/is-01.jpg"
                 }
               ]
             },
@@ -976,11 +984,20 @@
               "sequence": 37,
               "lessonLabel": "Lesson 37",
               "title": "30m Geography: Grade 7 (U.S.) - Lesson 37",
-              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ READ\nReading 24: Frobisher and the Discovery of Northern Canada.\nBe sure to include a sentence describing how the map pertains to the reading.\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.",
+              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ READ\nReading 24: Frobisher and the Discovery of Northern Canada.\nBe sure to include a sentence describing how the map pertains to the reading.\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.\n\n➜ DRAW\np.57-58 Map Drawing 24 Greenland & Areas of Canada (24A Greenland, 24B Baffin Island, 24C Hudson Bay)\n\n➜ VIEW\nIt will be helpful to look at this map of Greenland and areas of Canada as you draw yours.\n∞ Map Link: Map of Greenland\n∞ Map Link: Map of Canada",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyu5tjwRcMydVgV&6J82c=recAmzCRH1lxrvHOe",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recyu5tjwRcMydVgV&term=2&week=19",
+              "links": [
+                {
+                  "text": "Map of Greenland",
+                  "url": "https://cdn.britannica.com/90/69790-004-C4E0C012/Map-regions-Greenland-human-settlement-locations.jpg?s=1500x700&q=85"
+                },
+                {
+                  "text": "Map of Canada",
+                  "url": "https://cdn.britannica.com/42/247942-050-739F3C8D/Locator-map-Davis-Strait.jpg"
+                }
+              ]
             },
             {
               "lessonId": "rechbtSFRWaJMe1Pk",
@@ -991,20 +1008,11 @@
               "sequence": 38,
               "lessonLabel": "Lesson 38",
               "title": "30m Geography: Grade 7 (U.S.) - Lesson 38",
-              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ\nReading 25: The Dutch in Japan\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.\n\n➜ DRAW\np.56 Map Drawing 23B Ireland, 23C Iceland\n\n➜ VIEW\nIt will be helpful to look at these maps of Ireland and Iceland as you draw yours.\n∞ Map Link: Map of Ireland\n∞ Map Link: Map of Iceland",
+              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ\nReading 25: The Dutch in Japan\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyu5tjwRcMydVgV&6J82c=rechbtSFRWaJMe1Pk",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recyu5tjwRcMydVgV&term=2&week=19",
-              "links": [
-                {
-                  "text": "Map of Ireland",
-                  "url": "https://www.worldatlas.com/upload/90/ca/2b/ie-01.jpg"
-                },
-                {
-                  "text": "Map of Iceland",
-                  "url": "https://www.worldatlas.com/upload/e4/76/4f/is-01.jpg"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "recsZR6uBxYLEKRRa",
@@ -1030,20 +1038,11 @@
               "sequence": 40,
               "lessonLabel": "Lesson 40",
               "title": "30m Geography: Grade 7 (U.S.) - Lesson 40",
-              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ\nReading 27: Vitus Bering and Alaska\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.\n\n➜ DRAW\np.57-58 Map Drawing 24 Greenland & Areas of Canada (24A Greenland, 24B Baffin Island, 24C Hudson Bay)\n\n➜ VIEW\nIt will be helpful to look at this map of Greenland and areas of Canada as you draw yours.\n∞ Map Link: Map of Greenland\n∞ Map Link: Map of Canada",
+              "body": "⍞ Materials: Mapping the World with Art, notebook\n\n➜ RECAP\nWhat did you read last time?\n\n➜ READ\nReading 27: Vitus Bering and Alaska\n\n➜ NARRATE & NOTEBOOK\n1\\. Narrate orally what you remember about the reading.\n2\\. In your notebook, include some kind of narration. You can write a short paragraph, write bullet points, or draw diagrams or pictures with captions.",
               "teacherNotes": "★ TEACHER NOTE\nYou will need a hard-boiled egg for the next lesson.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyu5tjwRcMydVgV&6J82c=recpatcn032gxhiyR",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recyu5tjwRcMydVgV&term=2&week=20",
-              "links": [
-                {
-                  "text": "Map of Greenland",
-                  "url": "https://cdn.britannica.com/90/69790-004-C4E0C012/Map-regions-Greenland-human-settlement-locations.jpg?s=1500x700&q=85"
-                },
-                {
-                  "text": "Map of Canada",
-                  "url": "https://cdn.britannica.com/42/247942-050-739F3C8D/Locator-map-Davis-Strait.jpg"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "recffipFbBG4GUgg1",

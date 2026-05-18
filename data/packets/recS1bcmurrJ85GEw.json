@@ -100,7 +100,7 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec7ZFS33CbZViLLV",
           "groups": [
             {
               "title": "General Lit.: Grades 5-6",
@@ -556,11 +556,20 @@
               "sequence": 20,
               "lessonLabel": "Lesson 20",
               "title": "20m General Lit.: Grades 5-6 - Lesson 20",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ MAPWORK\nUse your atlas or view this map and find the capital city of Amsterdam. You may want to print the map and tuck it in the book to refer to as you read. \n\n➜ READ, NARRATE, & DISCUSS\nCh.3-4\nOR\nCh.4-6\n\n• How would you describe Hans and Gretel to a friend?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ MAPWORK\nUse your atlas or view this map and find the capital city of Amsterdam. You may want to print the map and tuck it in the book to refer to as you read.\n∞ Map Link: Netherlands Map\n\n➜ READ, NARRATE, & DISCUSS\nCh.3-4\nOR\nCh.4-6\n\n• How would you describe Hans and Gretel to a friend?",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Dutch Windmill Inside",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec3QUV8C9n2HuskJ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=2&week=20",
+              "links": [
+                {
+                  "text": "Netherlands Map",
+                  "url": "https://www.worldatlas.com/upload/90/d7/e8/nl-01.jpg"
+                },
+                {
+                  "text": "Dutch Windmill Inside",
+                  "url": "https://youtu.be/1FJzqp3Doys?si=wbCZpjk9_vGb5DeD"
+                }
+              ]
             },
             {
               "lessonId": "rece0nMvIc95TlViZ",
@@ -571,11 +580,16 @@
               "sequence": 21,
               "lessonLabel": "Lesson 21",
               "title": "20m General Lit.: Grades 5-6 - Lesson 21",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: How did Hans and Gretel find a friend?\n\n➜ READ, NARRATE, & DISCUSS\nCh.5-7\nOR\nCh.7-9\n\n• What “shadows” hang over the Brinker home?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nHow did Hans and Gretel find a friend?\n\n➜ READ, NARRATE, & DISCUSS\nCh.5-7\nOR\nCh.7-9\n\n• What “shadows” hang over the Brinker home?",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Traditional Dutch Winter Skating",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rece0nMvIc95TlViZ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=2&week=21",
+              "links": [
+                {
+                  "text": "Traditional Dutch Winter Skating",
+                  "url": "https://youtu.be/z61b1Y6FjXw?si=BFWlqPBmn7FBQd-O"
+                }
+              ]
             },
             {
               "lessonId": "recLOHa3KSSYQgJFF",
@@ -586,11 +600,16 @@
               "sequence": 22,
               "lessonLabel": "Lesson 22",
               "title": "20m General Lit.: Grades 5-6 - Lesson 22",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about Hans and Gretel's parents? \n\n➜ READ, NARRATE, & DISCUSS\nCh.8-9\nOR\nCh.10-11\n\n• What does the boys’ plan to skate nearly fifty miles reveal about them and the time they live in? \n\nVIEW\nSt. Nicholas illustration from St. Nicholas magazine where Mary Mapes Dodge served as editor.",
-              "teacherNotes": "LITERATURE CONNECTION\nLouisa May Alcott (of Little Women fame) wrote for the St. Nicholas magazine!",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat do you remember about Hans and Gretel's parents? \n\n➜ READ, NARRATE, & DISCUSS\nCh.8-9\nOR\nCh.10-11\n\n• What does the boys’ plan to skate nearly fifty miles reveal about them and the time they live in? \n\n➜ VIEW\nSt. Nicholas illustration from St. Nicholas magazine, where Mary Mapes Dodge served as editor.\n∞ Image Link: St. Nicholas Illustration",
+              "teacherNotes": "• LITERATURE CONNECTION\nLouisa May Alcott (of Little Women fame) wrote for the St. Nicholas magazine!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recLOHa3KSSYQgJFF",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=2&week=22",
+              "links": [
+                {
+                  "text": "St. Nicholas Illustration",
+                  "url": "https://www.stnicholascenter.org/how-to-celebrate/resources/stories-poems/stories/vintage-stories/hans-brinker"
+                }
+              ]
             },
             {
               "lessonId": "reca8sNrifGV2iavB",
@@ -601,11 +620,16 @@
               "sequence": 23,
               "lessonLabel": "Lesson 23",
               "title": "20m General Lit.: Grades 5-6 - Lesson 23",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you think will happen next? \n\n➜ READ, NARRATE, & DISCUSS\nCh.10-11\nOR\nCh.12-15\n\n•  How do Dutch customs of the Saint Nicholas celebration compare to your own Christmas celebrations?",
-              "teacherNotes": "• EXTRA HELPINGS\n∞ Website Link: Virtually browse some of the art mentioned in this chapter if time allows.",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat do you think will happen next? \n\n➜ READ, NARRATE, & DISCUSS\nCh.10-11\nOR\nCh.12-15\n\n• How do Dutch customs of the Saint Nicholas celebration compare to your own Christmas celebrations?",
+              "teacherNotes": "• EXTRA HELPINGS\nVirtually browse some of the art mentioned in this chapter if time allows.\n∞ Link: Rijksmuseum Art",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=reca8sNrifGV2iavB",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=2&week=23",
+              "links": [
+                {
+                  "text": "Rijksmuseum Art",
+                  "url": "https://www.rijksmuseum.nl/en/collection"
+                }
+              ]
             },
             {
               "lessonId": "rec7SHumzHvI9swhv",
@@ -616,7 +640,7 @@
               "sequence": 24,
               "lessonLabel": "Lesson 24",
               "title": "20m General Lit.: Grades 5-6 - Lesson 24",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ EXAMS",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course. Questions will come from:",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec7SHumzHvI9swhv",
               "lessonLinksUrl": "",
@@ -637,11 +661,16 @@
               "sequence": 25,
               "lessonLabel": "Lesson 25",
               "title": "20m General Lit.: Grades 5-6 - Lesson 25",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Saint Nicholas celebrations?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12-13\nOR\nCh.16-18\n\n➜ MAPWORK\nUse your atlas or view this map and find Haarlem.\n\n•  How would you have responded to the \"catastrophe\" if you had been with the boys?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat do you remember about the Saint Nicholas celebrations?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12-13\nOR\nCh.16-18\n\n➜ MAPWORK\nUse your atlas or view this map and find Haarlem.\n∞ Map Link: Netherlands Map\n\n• How would you have responded to the \"catastrophe\" if you had been with the boys?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recMVfOYZnq0LzuyG",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=25",
+              "links": [
+                {
+                  "text": "Netherlands Map",
+                  "url": "https://www.worldatlas.com/upload/90/d7/e8/nl-01.jpg"
+                }
+              ]
             },
             {
               "lessonId": "recaj7Z0D1UGi3ndx",
@@ -652,11 +681,16 @@
               "sequence": 26,
               "lessonLabel": "Lesson 26",
               "title": "20m General Lit.: Grades 5-6 - Lesson 26",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened in the catastrophe? What do you think will happen next?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15\nOR\nCh.19-21\n\n• What different kinds of homes are described?\n• Why does Gretel struggle with her feelings about her father?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat happened in the catastrophe? What do you think will happen next?\n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15\nOR\nCh.19-21\n\n• What different kinds of homes are described?\n• Why does Gretel struggle with her feelings about her father?",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Historic Dutch Home Tour",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recaj7Z0D1UGi3ndx",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=26",
+              "links": [
+                {
+                  "text": "Historic Dutch Home Tour",
+                  "url": "https://youtube.com/shorts/jbPdlxg_mrU?si=k-fPRm3F7aanpX4I"
+                }
+              ]
             },
             {
               "lessonId": "recMYft1KGFXYz18Y",
@@ -667,7 +701,7 @@
               "sequence": 27,
               "lessonLabel": "Lesson 27",
               "title": "20m General Lit.: Grades 5-6 - Lesson 27",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Brinker home? \n\n➜ READ, NARRATE, & DISCUSS\nCh.16-17\nOR\nCh.22-23\n\n\n• Why do you think the author includes so many details about the places the boys visit?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat do you remember about the Brinker home? \n\n➜ READ, NARRATE, & DISCUSS\nCh.16-17\nOR\nCh.22-23\n\n• Why do you think the author includes so many details about the places the boys visit?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recMYft1KGFXYz18Y",
               "lessonLinksUrl": "",
@@ -682,11 +716,16 @@
               "sequence": 28,
               "lessonLabel": "Lesson 28",
               "title": "20m General Lit.: Grades 5-6 - Lesson 28",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What was the meaning of the \"man with four heads\"?\n\n➜ READ, NARRATE, & DISCUSS\nCh.18-19\nOR\nCh.24-26\n\n• What dangers or freedoms come with spending so much time on the ice?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat was the meaning of the \"man with four heads\"?\n\n➜ READ, NARRATE, & DISCUSS\nCh.18-19\nOR\nCh.24-26\n\n• What dangers or freedoms come with spending so much time on the ice?",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Can a finger really be used to stop a leaky dike?",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recpsqb7vF2tTsR4q",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=28",
+              "links": [
+                {
+                  "text": "Can a finger really be used to stop a leaky dike?",
+                  "url": "https://youtu.be/eAclTrE3Q9M?si=swADH_ZJTeBN8n5g"
+                }
+              ]
             },
             {
               "lessonId": "recDqgcjRb3hjCMyj",
@@ -697,7 +736,7 @@
               "sequence": 29,
               "lessonLabel": "Lesson 29",
               "title": "20m General Lit.: Grades 5-6 - Lesson 29",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened last on the canal? \n\n➜ READ, NARRATE, & DISCUSS\nCh.20-21\nOR\nCh.27-28\n\n• How do group plans reveal who is flexible, selfish, cautious, or brave?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat happened last on the canal? \n\n➜ READ, NARRATE, & DISCUSS\nCh.20-21\nOR\nCh.27-28\n\n• How do group plans reveal who is flexible, selfish, cautious, or brave?",
               "teacherNotes": "★ TEACHER NOTE\nThe next lesson includes an optional video for traditional Dutch gingerbread. (A five ingredient quick bread.) Look ahead and gather ingredients if you would like to make your own.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recDqgcjRb3hjCMyj",
               "lessonLinksUrl": "",
@@ -712,11 +751,16 @@
               "sequence": 30,
               "lessonLabel": "Lesson 30",
               "title": "20m General Lit.: Grades 5-6 - Lesson 30",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What do you remember about the Red Lion so far? \n\n➜ READ, NARRATE, & DISCUSS\nCh.22-23\nOR\nCh.29-32\n\n➜ VIEW (optional)\nWith remaining time or in the afternoon, learn how to make traditional Dutch Gingerbread.\n∞ Video Link: Traditional Dutch Gingerbread\n\n• How does the author mix comedy and danger? Why do you think she chose to do that?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat do you remember about the Red Lion so far? \n\n➜ READ, NARRATE, & DISCUSS\nCh.22-23\nOR\nCh.29-32\n\n➜ VIEW (optional)\nWith the remaining time or in the afternoon, learn how to make traditional Dutch Gingerbread.\n∞ Video Link: Traditional Dutch Gingerbread\n\n• How does the author mix comedy and danger? Why do you think she chose to do that?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recrnPwjcYWwPyOMN",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=30",
+              "links": [
+                {
+                  "text": "Traditional Dutch Gingerbread",
+                  "url": "https://youtu.be/XTVVGWTgYTE?si=HMLkwFnNFoTOis_m"
+                }
+              ]
             },
             {
               "lessonId": "recIcc1x4bByAp9HP",
@@ -727,11 +771,20 @@
               "sequence": 31,
               "lessonLabel": "Lesson 31",
               "title": "20m General Lit.: Grades 5-6 - Lesson 31",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: How did the Red Lion become dangerous? What was the resolution?\n\n➜ READ, NARRATE, & DISCUSS\nCh.24-25\nOR\nCh.33-36\n\n ➜ MAPWORK\nUse your atlas or view this map and find Leiden (Leyden is an older spelling).\n\n• How can visiting museums help us better understand the people, history, and culture of a place?",
-              "teacherNotes": "• EXTRA HELPINGS\n∞ Website Link: The \"Egyptian Museum\" is likely the Rijksmuseum van Oudheden.",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nHow did the Red Lion become dangerous? What was the resolution?\n\n➜ READ, NARRATE, & DISCUSS\nCh.24-25\nOR\nCh.33-36\n\n ➜ MAPWORK\nUse your atlas or view this map and find Leiden (Leyden is an older spelling).\n∞ Map Link: Netherlands Map\n\n• How can visiting museums help us better understand the people, history, and culture of a place?",
+              "teacherNotes": "• EXTRA HELPINGS\nThe \"Egyptian Museum\" is likely the Rijksmuseum van Oudheden.\n∞ Link: Rijksmuseum van Oudheden",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recIcc1x4bByAp9HP",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=31",
+              "links": [
+                {
+                  "text": "Netherlands Map",
+                  "url": "https://www.worldatlas.com/upload/90/d7/e8/nl-01.jpg"
+                },
+                {
+                  "text": "Rijksmuseum van Oudheden",
+                  "url": "https://www.rmo.nl/en/"
+                }
+              ]
             },
             {
               "lessonId": "rec2YtOGcnYZztHD7",
@@ -742,7 +795,7 @@
               "sequence": 32,
               "lessonLabel": "Lesson 32",
               "title": "20m General Lit.: Grades 5-6 - Lesson 32",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What did the boys see in Leyden? \n\n➜ READ, NARRATE, & DISCUSS\nCh.26-27\nOR\nCh.37-40\n\n• How does the quote “it is no sin to love beautiful things if you adapt your material to circumstances” help us think about enjoying beauty wisely?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat did the boys see in Leyden? \n\n➜ READ, NARRATE, & DISCUSS\nCh.26-27\nOR\nCh.37-40\n\n• How does the quote “it is no sin to love beautiful things if you adapt your material to circumstances” help us think about enjoying beauty wisely?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=rec2YtOGcnYZztHD7",
               "lessonLinksUrl": "",
@@ -757,11 +810,20 @@
               "sequence": 33,
               "lessonLabel": "Lesson 33",
               "title": "20m General Lit.: Grades 5-6 - Lesson 33",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What stories were shared in the last lesson?\n\n➜ READ, NARRATE, & DISCUSS\nCh.28-29\nOR\nCh.41-42\n\n➜ MAPWORK\nUse your atlas or view this map and find The Hague.\n\n• Why is a day of rest important in the story?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat stories were shared in the last lesson?\n\n➜ READ, NARRATE, & DISCUSS\nCh.28-29\nOR\nCh.41-42\n\n➜ MAPWORK\nUse your atlas or view this map and find The Hague.\n∞ Map Link: Netherlands Map\n\n• Why is a day of rest important in the story?",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: The Hague Market today.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recDyiaajgUK6k8Oi",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=33",
+              "links": [
+                {
+                  "text": "Netherlands Map",
+                  "url": "https://www.worldatlas.com/upload/90/d7/e8/nl-01.jpg"
+                },
+                {
+                  "text": "The Hague Market Today",
+                  "url": "https://youtu.be/C8iamIyfOMw?si=qGEicJEOHo1ZxUZ-"
+                }
+              ]
             },
             {
               "lessonId": "recP6uuKjJ0Laberz",
@@ -772,7 +834,7 @@
               "sequence": 34,
               "lessonLabel": "Lesson 34",
               "title": "20m General Lit.: Grades 5-6 - Lesson 34",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened during the visit to The Hague?\n\n➜ READ, NARRATE, & DISCUSS\nCh.30-31\nOR\nCh.43-44\n\n• As they head home, what has changed because of their journey?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP \nWhat happened during the visit to The Hague?\n\n➜ READ, NARRATE, & DISCUSS\nCh.30-31\nOR\nCh.43-44\n\n• As they head home, what has changed because of their journey?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recP6uuKjJ0Laberz",
               "lessonLinksUrl": "",
@@ -787,7 +849,7 @@
               "sequence": 35,
               "lessonLabel": "Lesson 35",
               "title": "20m General Lit.: Grades 5-6 - Lesson 35",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP: What happened as the boys head home?\n\n➜ READ, NARRATE, & DISCUSS\nCh.32-33\nOR\nCh.45-48\n\n• Why is it sometimes difficult to hope when a situation feels uncertain?\n• How can friendship help someone going through tough times?",
+              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ RECAP\nWhat happened as the boys head home?\n\n➜ READ, NARRATE, & DISCUSS\nCh.32-33\nOR\nCh.45-48\n\n• Why is it sometimes difficult to hope when a situation feels uncertain?\n• How can friendship help someone going through tough times?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recvjOT4MTL5wdp1D",
               "lessonLinksUrl": "",
@@ -802,11 +864,16 @@
               "sequence": 36,
               "lessonLabel": "Lesson 36",
               "title": "20m General Lit.: Grades 5-6 - Lesson 36",
-              "body": "⍞ Materials: Hans Brinker or The Silver Skates\n\n➜ EXAMS\n\n\n➜ READ & DISCUSS\nCh.34-35\nOR\nFinish book over exam week as needed.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course. Questions will come from:\nHans Brinker or The Silver Skates\n\n➜ READ & DISCUSS\nCh.34-35\nOR\nFinish the book over exam week as needed.",
               "teacherNotes": "• EXTRA HELPINGS\n∞ Video Link: Elfstedentocht: The Famed Frozen Race",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recS1bcmurrJ85GEw&6J82c=recbJz1wRxDzlQEeB",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recS1bcmurrJ85GEw&term=3&week=36",
+              "links": [
+                {
+                  "text": "Elfstedentocht: The Famed Frozen Race",
+                  "url": "https://www.bbc.com/sport/winter-sports/67926417"
+                }
+              ]
             }
           ]
         }

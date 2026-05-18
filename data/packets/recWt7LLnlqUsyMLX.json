@@ -200,6 +200,12 @@
           ]
         },
         {
+          "kind": "books-resources",
+          "title": "Books & Resources",
+          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recUCZT56j1EATu2U",
+          "groups": []
+        },
+        {
           "kind": "supplies-resources",
           "title": "Supplies",
           "linkUrl": "",

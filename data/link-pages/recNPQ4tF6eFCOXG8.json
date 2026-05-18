@@ -13,7 +13,7 @@
     "U.S. History: Grades 4-6",
     "World History: Grades 4-6"
   ],
-  "updatedAt": "2026-05-18T20:25:25.031Z",
+  "updatedAt": "2026-05-18T23:16:00.415Z",
   "terms": [
     {
       "termNumber": 1,
@@ -270,6 +270,34 @@
                 {
                   "text": "Chart of Feudal System",
                   "url": "https://en.wikipedia.org/wiki/Edo_society#/media/File:Edo_social_structure.svg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 28,
+          "weekLabel": "Week 4",
+          "lessons": [
+            {
+              "lessonId": "recmRskYmqe7xHYNx",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 28,
+              "sort": 302802,
+              "lessonLabel": "",
+              "title": "25m World History: Grades 4-6 - Lesson 28",
+              "anchor": "term-3-week-28-lesson-28",
+              "links": [
+                {
+                  "text": "Map of Japan",
+                  "url": "https://www.nationsonline.org/maps/japan-map.jpg"
+                },
+                {
+                  "text": "Illustration of Deshima",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nagasaki_bay_siebold.jpg"
                 }
               ]
             }
