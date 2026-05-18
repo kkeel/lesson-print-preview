@@ -44,7 +44,7 @@ body {
   font-family: "Circular Pro", system-ui, sans-serif;
   margin: 0;
   padding: 32px 0;
-  line-height: 1.4;
+  line-height: 1.2;
   background: #e9e9e9;
 }
 
@@ -457,7 +457,7 @@ a:hover {
 .cover-subtitle-main {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 17px; /* smaller */
-  line-height: 1.4;
+  line-height: 1.2;
   font-weight: 300; /* lighter (less bold) */
   color: #adb58f; /* exact light green */
   white-space: pre-line;
@@ -551,7 +551,7 @@ a:hover {
 .header-page-subbar-grade {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 12px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 700;
   text-transform: uppercase;
   white-space: nowrap;
@@ -616,7 +616,7 @@ a:hover {
 .header-entry-title {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 20px;
-  line-height: 1.22;
+  line-height: 1.2;
   font-weight: 700;
   color: #596e5e;
   margin: 0 0 10px;
@@ -626,7 +626,7 @@ a:hover {
 .header-entry p {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
   margin: 0;
 }
@@ -658,7 +658,7 @@ a:hover {
   border-collapse: collapse;
   table-layout: fixed;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
   border: 1px solid #596e5e;
 }
@@ -684,7 +684,7 @@ a:hover {
   text-align: left;
   padding: 5px 7px;
   font-weight: 700;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
   letter-spacing: 0.02em;
   white-space: nowrap;
@@ -694,7 +694,7 @@ a:hover {
   padding: 5px 7px;
   border-bottom: 1px solid #8da08c;
   vertical-align: top;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
 }
 
@@ -718,7 +718,7 @@ a:hover {
 
 .weekly-view-title {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
   font-weight: 700;
   color: #adb58f;
@@ -731,7 +731,7 @@ a:hover {
   border-top: 1px solid #c7d0bd;
   border-left: 1px solid #c7d0bd;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
 }
 
@@ -748,7 +748,7 @@ a:hover {
 .weekly-view-row-full {
   grid-column: 1 / -1;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
   font-weight: 700;
   color: #111111;
@@ -799,7 +799,7 @@ a:hover {
 .planning-prep-entry p {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
   margin: 0;
 }
@@ -823,13 +823,13 @@ a:hover {
 
 .books-resources-intro {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0 0 0.12in;
 }
 
 .books-resources-link-line {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0 0 0.18in;
 }
 
@@ -853,7 +853,7 @@ a:hover {
 
 .books-resource-group h4 {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
-  line-height: 1.4;
+  line-height: 1.2;
   font-weight: 700;
   margin: 0 0 0.08in;
 }
@@ -892,7 +892,7 @@ a:hover {
 
 .books-resource-title {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
 }
 
 @media print {
@@ -912,13 +912,13 @@ a:hover {
 
 .supplies-resources-intro {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0 0 0.12in;
 }
 
 .supplies-resources-link-line {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0 0 0.14in;
 }
 
@@ -930,7 +930,7 @@ a:hover {
 
 .supplies-resources-empty {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0.18in 0 0 0.28in;
 }
 
@@ -987,7 +987,7 @@ a:hover {
 
 .supplies-resource-title {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
 }
 
 @media print {
@@ -1058,13 +1058,13 @@ a:hover {
   align-items: start;
   margin: 0 0 0.1in 0.18in;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
 }
 
 .quick-link-symbol {
   color: #2458d6;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 .quick-link-row a,
@@ -1084,7 +1084,7 @@ a:hover {
 
 .quick-links-page-link {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   text-align: left;
   padding-top: 0.02in;
 }
@@ -1098,7 +1098,7 @@ a:hover {
 
 .quick-links-empty {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin: 0.18in 0 0 0.28in;
 }
 
@@ -1125,7 +1125,7 @@ a:hover {
 .howto-page-title {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   color: #596e5e;
   margin: 0 0 0.18in;
@@ -1136,7 +1136,7 @@ a:hover {
   color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 24px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   padding: 7px 8px;
   margin-bottom: 0.1in;
@@ -1199,7 +1199,7 @@ a:hover {
 .howto-content p {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
   margin: 0;
 }
@@ -1237,7 +1237,7 @@ a:hover {
 .lesson-page-title {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 34px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   color: #596e5e;
   margin: 0;
@@ -1256,7 +1256,7 @@ a:hover {
   text-decoration: underline;
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.18;
+  line-height: 1.2;
 }
 
 .lesson-page-qr-placeholder {
@@ -1271,7 +1271,7 @@ a:hover {
   color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 22px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   padding: 7px 8px;
   margin: 0;
@@ -1299,7 +1299,7 @@ a:hover {
 .lesson-week-col {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 700;
   color: #adb58f;
   text-transform: uppercase;
@@ -1309,20 +1309,20 @@ a:hover {
 .lesson-main-col {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
   padding: 0.06in 0.12in 0.08in 0;
 }
 
 .lesson-title-line {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   margin-bottom: 0.035in;
 }
 
 .lesson-body {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   white-space: normal;
 }
 
@@ -1330,7 +1330,7 @@ a:hover {
   background: #eef0f4;
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
   padding: 0.06in 0.09in 0.08in;
   min-height: 0.9in;
@@ -1397,7 +1397,7 @@ a:hover {
 
 .lesson-page-linkbox a {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
 }
 
 .lesson-page-qr-placeholder {
@@ -1454,7 +1454,7 @@ a:hover {
    ========================= */
 
 .lesson-body {
-  line-height: 1.4;
+  line-height: 1.2;
 }
 
 .lesson-week-col {
@@ -1503,14 +1503,14 @@ a:hover {
 
 .lesson-title-line {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 700;
   margin-bottom: 0.025in;
 }
 
 .lesson-subtitle-line {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #555;
   font-style: italic;
   margin: 0 0 0.035in 0.16in;
@@ -1544,7 +1544,7 @@ a:hover {
   padding: 3px 6px;
   margin: 0.065in 0 0.03in 0;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   box-sizing: border-box;
 }
 
@@ -1597,7 +1597,7 @@ a:hover {
 .exam-page-title {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   color: #596e5e;
   margin: 0 0 0.18in;
@@ -1608,7 +1608,7 @@ a:hover {
   color: #ffffff;
   font-family: "Plantin MT Pro", "Times New Roman", serif;
   font-size: 24px;
-  line-height: 1.1;
+  line-height: 1.2;
   font-weight: 400;
   padding: 7px 8px;
   margin: 0;
@@ -1630,7 +1630,7 @@ a:hover {
 .exam-term-label {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 20px;
-  line-height: 1.15;
+  line-height: 1.2;
   font-weight: 700;
   color: #596e5e;
   padding-top: 0;
@@ -1640,7 +1640,7 @@ a:hover {
 .exam-content {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
 }
 
@@ -1655,7 +1655,7 @@ a:hover {
 .exam-topic-heading {
   font-family: "Circular Pro", "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 700;
   color: #adb58f;
   margin: 0.02in 0 0.015in;
@@ -1757,7 +1757,7 @@ a:hover {
 .exam-content {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
   color: #111111;
 }
 
@@ -1767,7 +1767,7 @@ a:hover {
 .cover-footer-line {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 12px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 700;
   letter-spacing: 0.02em;
 }
@@ -1775,7 +1775,7 @@ a:hover {
 .cover-footer-line {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 12px;
-  line-height: 1.48;
+  line-height: 1.2;
   font-weight: 400;
   letter-spacing: 0.02em;
 }
@@ -1787,7 +1787,7 @@ a:hover {
 .quick-link-row a,
 .quick-links-page-link {
   font-size: 13px;
-  line-height: 1.48;
+  line-height: 1.2;
 }
 
 /* =========================
@@ -1799,14 +1799,14 @@ a:hover {
 .schedule-table th,
 .schedule-table td {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
 }
 
 /* Sample Weekly View title */
 .weekly-view-title {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
   font-weight: 700;
 }
@@ -1817,7 +1817,7 @@ a:hover {
 .weekly-view-row-full,
 .weekly-view-cell {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 9px;
+  font-size: 10px;
   line-height: 1.1;
 }
 
