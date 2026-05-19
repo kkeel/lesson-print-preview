@@ -13,7 +13,7 @@
     "Ancient History: Grades 7-9",
     "Canadian History: Grades 7-8"
   ],
-  "updatedAt": "2026-05-19T08:53:07.388Z",
+  "updatedAt": "2026-05-19T16:02:55.347Z",
   "terms": [
     {
       "termNumber": 1,
@@ -158,6 +158,24 @@
           "weekLabel": "Week 4",
           "lessons": [
             {
+              "lessonId": "recxQd4B98XwAlEf5",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 7,
+              "sort": 100402,
+              "lessonLabel": "",
+              "title": "30m Canadian History: Grades 7-8 - Lesson 7",
+              "anchor": "term-1-week-4-lesson-7",
+              "links": [
+                {
+                  "text": "1812 Map - Control of the Lakes",
+                  "url": "https://www.usni.org/sites/default/files/styles/embed_large/public/Skaggs%20Fmap%20MA%2009.png"
+                }
+              ]
+            },
+            {
               "lessonId": "recvyJakL6iU95GbK",
               "termNumber": 1,
               "termLabel": "Term 1",
@@ -174,6 +192,28 @@
                   "url": "https://www.youtube.com/watch?v=8l1NyR6UvxU"
                 }
               ]
+            },
+            {
+              "lessonId": "rec5MFlkfeK0VpBT7",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 4,
+              "weekLabel": "Week 4",
+              "sequence": 8,
+              "sort": 100404,
+              "lessonLabel": "",
+              "title": "30m Canadian History: Grades 7-8 - Lesson 8",
+              "anchor": "term-1-week-4-lesson-8",
+              "links": [
+                {
+                  "text": "Blank Great Lakes Map",
+                  "url": "https://www.d-maps.com/carte.php?num_car=167231&lang=en"
+                },
+                {
+                  "text": "The American War | 1812 Virtual Exhibition",
+                  "url": "https://www.warmuseum.ca/war-of-1812/explore-history/the-american-war/"
+                }
+              ]
             }
           ]
         },
@@ -181,6 +221,24 @@
           "weekNumber": 5,
           "weekLabel": "Week 5",
           "lessons": [
+            {
+              "lessonId": "recHdEi506nIib1La",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 9,
+              "sort": 100502,
+              "lessonLabel": "",
+              "title": "30m Canadian History: Grades 7-8 - Lesson 9",
+              "anchor": "term-1-week-5-lesson-9",
+              "links": [
+                {
+                  "text": "Portrait of Tecumseh",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tecumseh02.jpg"
+                }
+              ]
+            },
             {
               "lessonId": "recVqipGQVUQEBXpY",
               "termNumber": 1,
