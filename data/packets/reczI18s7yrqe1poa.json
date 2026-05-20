@@ -205,8 +205,23 @@
               "type": "topic",
               "links": [
                 {
+                  "label": "Hymns, Spirituals & Folk Songs Spotify Playlist",
+                  "url": "#",
+                  "sort": ""
+                },
+                {
+                  "label": "Hymns, Spirituals & Folk Songs Youtube Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLvg0fKfOahKTMOJ2uBJbzbi3nT426Ab1t",
+                  "sort": ""
+                },
+                {
                   "label": "Hymns, Spirituals, & Folk Songs PDF",
                   "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view?usp=sharing",
+                  "sort": ""
+                },
+                {
+                  "label": "Musical Terms Appendix",
+                  "url": "#",
                   "sort": ""
                 }
               ]

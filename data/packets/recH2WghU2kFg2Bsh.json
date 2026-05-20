@@ -195,7 +195,29 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recH2WghU2kFg2Bsh",
-          "groups": []
+          "groups": [
+            {
+              "title": "Folk Songs",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Hymns, Folk Songs, & Spirituals Youtube Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLvg0fKfOahKTMOJ2uBJbzbi3nT426Ab1t",
+                  "sort": "1"
+                },
+                {
+                  "label": "Hymns, Folk Songs, & Spirituals Spotify Playlist",
+                  "url": "spotify.org",
+                  "sort": "2"
+                },
+                {
+                  "label": "Musical Terms Appendix",
+                  "url": "cminst.org",
+                  "sort": "3"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -980,7 +1002,7 @@
               "sequence": 31,
               "lessonLabel": "Lesson 31",
               "title": "10m Folk Songs - Lesson 31",
-              "body": "⬚ 10m Folk Songs - Lesson 31\nAloha 'Oe\n⍞ Materials: Our Work or Music PDF\n\n➜ RECAP \nWhat was the story behind our new folk song, Aloha 'Oe?\n\n➜ VIEW\nThis is the view the Queen Lili’uokalani might have seen as she began to weave our song in her head.\n∞ Image Link: Nuʻuanu Pali\n\n➜ LISTEN & PRACTICE\n• Listen to the full song and pay close attention to the pronunciation of the words. Make notes as needed to help you remember.\n• Listen to the song again and focus on the tune. Start humming or hooing along as you pick up the melody.\n∞ Music Link: Aloha 'Oe (recording of choice)\n\n➜ EXPLORE\nIf time allows, learn a bit more about Hawaii's last queen (scroll through the page). \n∞ Website Link: About Queen Liliʻuokalani",
+              "body": "⬚ 10m Folk Songs - Lesson 31\nAloha 'Oe\n⍞ Materials: Our Work or Music PDF\n\n➜ RECAP \nWhat was the story behind our new folk song, Aloha 'Oe?\n\n➜ VIEW\nThis is the view the Queen Lili’uokalani might have seen as she began to weave our song in her head. The second image shows the flower/tree mentioned at the end of the first verse.\n∞ Image Link: Nuʻuanu Pali\n∞ Image Link: Metrosideros polymorpha\n\n➜ LISTEN & PRACTICE\n• Listen to the full song and pay close attention to the pronunciation of the words. Make notes as needed to help you remember.\n• Listen to the song again and focus on the tune. Start humming or hooing along as you pick up the melody.\n∞ Music Link: Aloha 'Oe (recording of choice)\n\n➜ EXPLORE\nIf time allows, learn a bit more about Hawaii's last queen (scroll through the page). \n∞ Website Link: About Queen Liliʻuokalani",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recH2WghU2kFg2Bsh&6J82c=recHu8yXoX9iRneW1",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recH2WghU2kFg2Bsh&term=3&week=31",
@@ -988,6 +1010,10 @@
                 {
                   "text": "Nuʻuanu Pali",
                   "url": "https://en.wikipedia.org/wiki/Nu%CA%BBuanu_Pali#/media/File:Cliffs_of_the_Koolau_Range,_Oahu_58.jpg"
+                },
+                {
+                  "text": "Metrosideros polymorpha",
+                  "url": "https://ntbg.org/database/plants/detail/metrosideros-polymorpha"
                 },
                 {
                   "text": "Aloha 'Oe",
@@ -1056,8 +1082,8 @@
               "sequence": 34,
               "lessonLabel": "Lesson 34",
               "title": "10m Folk Songs - Lesson 34",
-              "body": "⬚ 10m Folk Songs - Lesson 34\nAloha 'Oe (cont.)\n⍞ Materials: Our Work or Music PDF, painting or sketching supplies (optional)\n\n➜ RECAP\nDo you remember the words to \"The San Juan Pig\"? \n\n➜ SING \nSing \"Aloha 'Oe\" from memory, then listen to the video to check your work.  \n∞ Video Link: Aloha 'Oe\n\n➜ ILLUSTRATE\nWith extra time, sketch or paint an illustration to go with this song.",
-              "teacherNotes": "",
+              "body": "⬚ 10m Folk Songs - Lesson 34\nAloha 'Oe (cont.)\n⍞ Materials: Our Work or Music PDF, painting or sketching supplies (optional)\n\n➜ RECAP\nDo you remember the words to \"The San Juan Pig\"? \n\n➜ SING \nSing \"Aloha 'Oe\" from memory, then listen to the video to check your work.  \n∞ Video Link: Aloha 'Oe\n• If you learned Angels We Have Heard on High in hymn lessons, do you notice any similarities between the two songs? [They both have two languages! The fancy name is that these are both \"macaronic\" songs.] \n\n➜ ILLUSTRATE\nWith extra time, sketch or paint an illustration to go with this song.",
+              "teacherNotes": "• TERMINOLOGY\nmacaronic songs: songs (often folk songs) that contain two languages in the same song.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recH2WghU2kFg2Bsh&6J82c=recKN5To9srESWXw9",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recH2WghU2kFg2Bsh&term=3&week=34",
               "links": [
