@@ -130,7 +130,7 @@
           "kind": "supplies-resources",
           "title": "Supplies",
           "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recydvGZUJZVjPvQy",
-          "basicSuppliesUrl": "#",
+          "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {
               "title": "Geography: Grade 3 (U.S.)",
@@ -1309,7 +1309,7 @@
               "links": [
                 {
                   "text": "Hampton Roads Bridge Tunnel",
-                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hampton_Roads_Bridge_Tunnel.jpg/600px-Hampton_Roads_Bridge_Tunnel.jpg"
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hampton_Roads_Bridge_Tunnel.jpg/1280px-Hampton_Roads_Bridge_Tunnel.jpg"
                 }
               ]
             },

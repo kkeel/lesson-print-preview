@@ -104,7 +104,7 @@
           "kind": "supplies-resources",
           "title": "Supplies",
           "linkUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recqs5CJX6rm4MnPJ",
-          "basicSuppliesUrl": "#",
+          "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {
               "title": "Biology Labs",
@@ -135,7 +135,7 @@
       "pages": [
         {
           "title": "Biology Labs",
-          "subtitle": "How To Approach",
+          "subtitle": "How To Approach Labs",
           "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recV6v89HMMBlnxju?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {

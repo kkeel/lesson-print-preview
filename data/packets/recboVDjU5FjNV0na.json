@@ -158,7 +158,7 @@
           "kind": "supplies-resources",
           "title": "Supplies",
           "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recgwYscXzqbmjffJ",
-          "basicSuppliesUrl": "#",
+          "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {
               "title": "Science: Physics",
@@ -292,7 +292,7 @@
         },
         {
           "title": "Science: Physics",
-          "subtitle": "How To Approach",
+          "subtitle": "How To Approach Labs",
           "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recokb9szVgDmGRD0?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
           "blocks": [
             {
