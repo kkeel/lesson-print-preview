@@ -818,11 +818,11 @@ function buildSuppliesResources(packetRecord, allLessonRecordsById) {
     }
   }
 
-  return {
+    return {
     kind: "supplies-resources",
     title: "Supplies",
     linkUrl,
-    basicSuppliesUrl: "#",
+    basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     groups
   };
 }
