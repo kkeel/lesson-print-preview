@@ -749,6 +749,21 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "General Lit: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Little Women: Pilgrim's Progress is referred to multiple times in the book. Explain Jo's Apollyon in Ch.8, Meg's Vanity Fair in Ch.9, or discuss other parallels to Pilgrim's Progress that you've seen."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Act out OR write a scene from Little Women as a play."
+        }
+      ]
     }
   ]
 }

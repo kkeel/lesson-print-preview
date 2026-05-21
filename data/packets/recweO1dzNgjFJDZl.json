@@ -281,18 +281,18 @@
               "type": "course",
               "links": [
                 {
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6"
+                },
+                {
                   "label": "Alternate One Year Physical Science Lesson Plans",
                   "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
                   "sort": ""
                 },
                 {
-                  "label": "Foundations (See Section 13: Science)",
-                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
-                },
-                {
                   "label": "Outdoor Work",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
                   "sort": ""
                 },
                 {
