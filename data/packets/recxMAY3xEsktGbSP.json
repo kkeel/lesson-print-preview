@@ -113,17 +113,13 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec18fvwcWROKwRu9",
           "basicSuppliesUrl": "#",
           "groups": [
             {
               "title": "Sloyd: Level 6",
               "type": "course",
               "supplies": [
-                {
-                  "title": "Tacky Glue",
-                  "supplyId": "recABrHiQ95NTJGg7"
-                },
                 {
                   "title": "Glue Sticks",
                   "supplyId": "recfszE31Mt0aMDtb"
@@ -143,10 +139,6 @@
                 {
                   "title": "Fold-and-Score Tool/Bone",
                   "supplyId": "rec6A5reVW1Ueb9Ws"
-                },
-                {
-                  "title": "Twine or String",
-                  "supplyId": "recG5uvMadIuvQ7da"
                 },
                 {
                   "title": "T-Square",

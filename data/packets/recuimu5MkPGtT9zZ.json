@@ -228,7 +228,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recU2BFWNK9nliynJ",
           "basicSuppliesUrl": "#",
           "groups": [
             {
@@ -300,7 +300,7 @@
                 },
                 {
                   "label": "Musical Terms Appendix",
-                  "url": "cminst.org",
+                  "url": "https://drive.google.com/file/d/1yPct0tsaTXFIwtrnM5ZMnD5RHIJYcCcm/view?usp=drive_link",
                   "sort": "3"
                 }
               ]

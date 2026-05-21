@@ -117,7 +117,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recye8V0ApzYVtUmK",
           "basicSuppliesUrl": "#",
           "groups": [
             {
@@ -193,10 +193,6 @@
                   "supplyId": "rec0boK7Ckv4XRUVr"
                 },
                 {
-                  "title": "Hole Punch",
-                  "supplyId": "recuyRM57pEFbfLHo"
-                },
-                {
                   "title": "Acorns",
                   "supplyId": "recuKbt02bQkIu9c9"
                 },
@@ -207,6 +203,10 @@
                 {
                   "title": "White and Colored Chalk",
                   "supplyId": "recJ9uLxsxnIebHTI"
+                },
+                {
+                  "title": "Hole Punch",
+                  "supplyId": "recuyRM57pEFbfLHo"
                 }
               ]
             }

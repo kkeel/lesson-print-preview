@@ -113,7 +113,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=reclZXJopMkaFIGIq",
           "basicSuppliesUrl": "#",
           "groups": [
             {
@@ -129,10 +129,6 @@
                   "supplyId": "rec0boK7Ckv4XRUVr"
                 },
                 {
-                  "title": "Hole Punch",
-                  "supplyId": "recuyRM57pEFbfLHo"
-                },
-                {
                   "title": "Awl",
                   "supplyId": "recLCp0uNWUQmNsch"
                 },
@@ -143,10 +139,6 @@
                 {
                   "title": "Fold-and-Score Tool/Bone",
                   "supplyId": "rec6A5reVW1Ueb9Ws"
-                },
-                {
-                  "title": "Twine or String",
-                  "supplyId": "recG5uvMadIuvQ7da"
                 },
                 {
                   "title": "T-Square",
@@ -171,10 +163,6 @@
                 {
                   "title": "Cutting Mat",
                   "supplyId": "recDOzK3fa1jIcwSq"
-                },
-                {
-                  "title": "Tacky Glue",
-                  "supplyId": "recABrHiQ95NTJGg7"
                 }
               ]
             }

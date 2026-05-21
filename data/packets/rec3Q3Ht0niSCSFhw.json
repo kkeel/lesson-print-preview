@@ -193,7 +193,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recozdGjleqb46Dtm",
           "basicSuppliesUrl": "#",
           "groups": [
             {
@@ -259,6 +259,22 @@
                   "sort": "6"
                 }
               ]
+            },
+            {
+              "title": "Dictation: Grade 4",
+              "type": "topic",
+              "links": [
+                {
+                  "label": "Alveary Phonogram Teachers Guide & Key",
+                  "url": "https://drive.google.com/file/d/1q4ltWCGVQU3sr9NWw7_db_xeKIQAcf_L/view",
+                  "sort": "1"
+                },
+                {
+                  "label": "English Reading & Spelling Patterns",
+                  "url": "https://drive.google.com/file/d/1wMWfPKz4dNixRLeWYrtJDhbKu9UL59bQ/view?usp=drive_link",
+                  "sort": "2"
+                }
+              ]
             }
           ]
         }
@@ -267,43 +283,6 @@
     {
       "type": "howto",
       "pages": [
-        {
-          "title": "Language Study: Grade 4",
-          "subtitle": "How To Teach Dictation",
-          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recBGITdY4bOkOZCb?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
-          "blocks": [
-            {
-              "prompt": "Prepare",
-              "text": "Select a passage that has already been read and narrated. (We provide passages in the Dictation packets.) Have students read over it and select 4-5 words that they don't know. They can also mark punctuation that may be difficult to remember. They only need to select a section that contains 4-5 new words. If this is only a couple of sentences, that is fine.",
-              "imageId": "rec6mwte9GhEBIan2",
-              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
-            },
-            {
-              "prompt": "Discuss",
-              "text": "Ask students which words they think will be most difficult to spell and why. If there is a common spelling pattern, you can point that out. You can also point out other words that have a similar pattern.",
-              "imageId": "recNNZHVLXJY6vLgN",
-              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
-            },
-            {
-              "prompt": "Practice",
-              "text": "Have students visualize the words by \"seeing\" them with their eyes closed. They should also practice on a whiteboard.",
-              "imageId": "rec3pksdMr2pnit7e",
-              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
-            },
-            {
-              "prompt": "Complete",
-              "text": "As part of the same lesson, when students feel ready, slowly call out a sentence from what they studied. You will want to read it phrase by phrase and not repeat it.",
-              "imageId": "recG36nDNaLHUtoQm",
-              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
-            },
-            {
-              "prompt": "View",
-              "text": "When finished, have students look over their own work to check and see that everything looks right. If you see any misspelled words, erase those and have the students practice those again.",
-              "imageId": "recClidFP874e8aCx",
-              "image": "../images/howto_images/recClidFP874e8aCx.webp"
-            }
-          ]
-        },
         {
           "title": "Language Study: Grade 4",
           "subtitle": "How To Teach Grammar",
@@ -332,6 +311,43 @@
               "text": "Observe examples of concepts in books being read and in daily life.",
               "imageId": "recMOkXGwxQKm1nBL",
               "image": "../images/howto_images/recMOkXGwxQKm1nBL.webp"
+            }
+          ]
+        },
+        {
+          "title": "Language Study: Grade 4",
+          "subtitle": "How To Teach Dictation",
+          "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag2S8wmDF4fbWaAv/recJ8OCSDEalIXmY4?XRKkD=recVqTvJ6GPeafHaJ&6J82c=rec29oxFWTUnXF541&home=pago27hsdn3q8TtGK",
+          "blocks": [
+            {
+              "prompt": "Prepare",
+              "text": "Select a passage that has already been read and narrated. (We provide passages in the Dictation packets.) Have students read over it and select 4-5 words that they don't know. They can also mark punctuation that may be difficult to remember. They only need to select a section that contains 4-5 new words. If this is only a couple of sentences, that is fine.",
+              "imageId": "rec6mwte9GhEBIan2",
+              "image": "../images/howto_images/rec6mwte9GhEBIan2.webp"
+            },
+            {
+              "prompt": "Discuss",
+              "text": "Ask students which words they think will be most difficult to spell and why. If there is a common spelling pattern, you can point that out. Use the Alveray Phonogram Teacher’s Guide or the English Reading & Spelling Patterns sheets to find common spelling patterns. You can also point out other words that have a similar pattern.",
+              "imageId": "recNNZHVLXJY6vLgN",
+              "image": "../images/howto_images/recNNZHVLXJY6vLgN.webp"
+            },
+            {
+              "prompt": "Practice",
+              "text": "Have students visualize the words by \"seeing\" them with their eyes closed. They should also practice on a whiteboard.",
+              "imageId": "rec3pksdMr2pnit7e",
+              "image": "../images/howto_images/rec3pksdMr2pnit7e.webp"
+            },
+            {
+              "prompt": "Complete",
+              "text": "As part of the same lesson, when students feel ready, slowly call out a sentence from what they studied. You will want to read it phrase by phrase and not repeat it.",
+              "imageId": "recG36nDNaLHUtoQm",
+              "image": "../images/howto_images/recG36nDNaLHUtoQm.webp"
+            },
+            {
+              "prompt": "View",
+              "text": "When finished, have students look over their own work to check and see that everything looks right. If you see any misspelled words, erase those and have the students practice those again.",
+              "imageId": "recClidFP874e8aCx",
+              "image": "../images/howto_images/recClidFP874e8aCx.webp"
             }
           ]
         }
@@ -372,11 +388,20 @@
               "sort": 100102,
               "lessonLabel": "",
               "title": "15m Dictation: Grade 4 - Tracker",
-              "body": "Tracker: ⬚ ⬚ ⬚\n⍞ Materials: Grade 4 Student packet of copywork and dictation passages \n\n➜ DICTATION \nThree Dictation lessons are scheduled each week. In each lesson, there should be time for studying (10 min) and time for the sentences to be dictated (5 min). You can use this week's suggested passage for the lessons and/or choose your own generally from the history, literature, or geography books the student has already read during the week. The suggested passage might take one lesson to learn, or it might take all three lessons to learn. It will be different for each student. Be sure to pay attention to any notes regarding grammar or punctuation added to the student dictation packet for the week.\n\nEnough text to include 4-5 unknown words should be studied by the student. This might mean that the student is only studying a couple of sentences. Ask for the words they do not know how to spell. Write them down on a chalkboard, whiteboard, or piece of paper. The student should work on visualizing each word until they can see it with their eyes shut, and then practice writing the word, drawing the letters in the air, or saying the letters aloud until it is memorized.\n\nDiscuss any interesting spelling patterns or punctuation from the text being studied. The process should take around 10 minutes to this point.\n\nThen, choose a sentence or two to slowly dictate a few words at a time to the student from the text studied. Read it once. Correct any errors and revisit any words missed.  \n\nBe sure to adapt the amount studied and dictated to suit the student. Add to or subtract from the amount or difficulty of the text studied to ensure the student's success and growth.",
+              "body": "Tracker: ⬚ ⬚ ⬚\n⍞ Materials: Grade 4 Student packet of copywork and dictation passages \n\n➜ DICTATION \nThree Dictation lessons are scheduled each week. In each lesson, there should be time for studying (10 min) and time for the sentences to be dictated (5 min). You can use this week's suggested passage for the lessons and/or choose your own generally from the history, literature, or geography books the student has already read during the week. The suggested passage might take one lesson to learn, or it might take all three lessons to learn. It will be different for each student. Be sure to pay attention to any notes regarding grammar or punctuation added to the student dictation packet for the week.\n\nEnough text to include 4-5 unknown words should be studied by the student. This might mean that the student is only studying a couple of sentences. Ask for the words they do not know how to spell. Write them down on a chalkboard, whiteboard, or piece of paper. The student should work on visualizing each word until they can see it with their eyes shut, and then practice writing the word, drawing the letters in the air, or saying the letters aloud until it is memorized.\n\nDiscuss any interesting spelling patterns or punctuation from the text being studied. Use the Alveary Phonogram Teacher’s Guide or the English Reading & Spelling Patterns sheets to find common spelling patterns. The process should take around 10 minutes to this point.\n∞ Link: Alveary Phonogram Teacher’s Guide\n∞ Link: English Reading & Spelling Patterns\nThen, choose a sentence or two to slowly dictate a few words at a time to the student from the text studied. Read it once. Correct any errors and revisit any words missed.  \n\nBe sure to adapt the amount studied and dictated to suit the student. Add to or subtract from the amount or difficulty of the text studied to ensure the student's success and growth.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recUjW3bq5ATm7nc3&6J82c=recPVU4YVWwd44Eum",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec3Q3Ht0niSCSFhw&term=1&week=1",
+              "links": [
+                {
+                  "text": "Alveary Phonogram Teacher’s Guide",
+                  "url": "https://drive.google.com/file/d/1q4ltWCGVQU3sr9NWw7_db_xeKIQAcf_L/view"
+                },
+                {
+                  "text": "English Reading & Spelling Patterns",
+                  "url": "https://drive.google.com/file/d/1wMWfPKz4dNixRLeWYrtJDhbKu9UL59bQ/view"
+                }
+              ]
             },
             {
               "lessonId": "recl9paVdOw7doEXh",

@@ -102,7 +102,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recKrNa3rC1e9RrW6",
           "basicSuppliesUrl": "#",
           "groups": []
         },
@@ -732,11 +732,20 @@
               "sequence": 25,
               "lessonLabel": "Lesson 25",
               "title": "20m Historic Dancing - Lesson 25",
-              "body": "The Lancers Quadrille\n\n➜ PREP\nWatch instructional video to familiarize yourself with dance.  Print or have a digital copy of The Lancers Quadrille PDF while teaching dance.\n\n➜ INTRO\n\n\n➜ VIEW\n∞ Video Link: The Lancers Quadrille\n\n➜ LEARN\nLearn Individual steps\n∞ Video Link: The Lancers Quadrille Instructional Video\n∞ The Lancers Quadrille PDF",
+              "body": "The Lancers Quadrille\n\n➜ PREP\nWatch instructional video to familiarize yourself with dance.  Print or have a digital copy of The Lancers Quadrille PDF while teaching dance.\n\n➜ INTRO\nThe Lancers Quadrille is a set of 5 dances, La Dorset, Lodoiska, La Native, Les Graces, and Les Lanciers, originally published in 1817 by John Duval.  The quadrille was first derived from French military parades, where four mounted horsemen would make square formations.  Further influence came from French Country Dances or Cotillion dances popular at the time. (Remember we learned a Cotillion dance last year, George Washington’s Favourite!) The quadrille first appeared as the _quadrille de contredanse_ in late 18th century France but really became popular once reaching English ballrooms and International high society in 1815.  The quadrille is made up of 8 dancers, 4 couples facing into the center of the square formation.  When you hear “square formation,” did anyone think square dancing?  If so, you would be correct!  The quadrille is one of the primary historical predecessors of the American square dance.  Today, we will begin learning Les Lanciers, the final movement of the Lancers Quadrille.\n\n➜ VIEW\n∞ Video Link: The Lancers Quadrille 1\nTime marker: 12:14\n\n∞ Video Link: The Lancers Quadrille 2\n\n➜ LEARN\nLearn Individual steps\n∞ Video Link: The Lancers Quadrille Instructional Video\n∞ The Lancers Quadrille PDF",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec6Ffq7trhpH9xN4&6J82c=recMwKswvNvLSNMid",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec6Ffq7trhpH9xN4&term=3&week=25",
+              "links": [
+                {
+                  "text": "∞ Video Link: The Lancers Quadrille 1",
+                  "url": "https://www.youtube.com/watch?v=m0GX6hqEZvU"
+                },
+                {
+                  "text": "∞ Video Link: The Lancers Quadrille 2",
+                  "url": "https://www.youtube.com/watch?v=KpciLQS-ksw"
+                }
+              ]
             },
             {
               "lessonId": "recfwm6ZIuWIockb5",
