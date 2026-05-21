@@ -1268,8 +1268,6 @@ function buildLinkPage(packet) {
     });
   }
 
-  if (!terms.length) return null;
-
   return {
     id: packet.id,
     title: packet.title,
