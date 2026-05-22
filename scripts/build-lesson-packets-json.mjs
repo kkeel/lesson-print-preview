@@ -70,7 +70,9 @@ const LESSON_FIELDS = [
 
 const HEADER_FIELDS = [
   "headerID",
+  "Header Page",
   "Connect Lesson Plans",
+  "Additional Header Info",
   "Subject",
   "Course/Topic Description (LP)",
   "About_Export",
@@ -275,6 +277,7 @@ function buildHeaderLookup(headerRecords) {
     const connectedLessonPlanIds = normalizeArray(fields["Connect Lesson Plans"]);
 
     byHeaderId.set(headerId, record);
+    byHeaderId.set(record.id, record);
 
     for (const lessonPlanId of connectedLessonPlanIds) {
       if (!byLessonPlanId.has(lessonPlanId)) {
@@ -879,6 +882,68 @@ function sortQuickLinks(links) {
   });
 }
 
+function getHeaderTitle(headerRecord) {
+  const fields = headerRecord?.fields || {};
+
+  return (
+    normalizeText(fields["Header Page"]) ||
+    normalizeText(fields["headerID"]) ||
+    headerRecord?.id ||
+    ""
+  );
+}
+
+function quickLinkKey(link) {
+  return [
+    normalizeText(link.id),
+    normalizeText(link.url).toLowerCase(),
+    normalizeText(link.label).toLowerCase()
+  ].join("|");
+}
+
+function uniqueQuickLinks(links) {
+  const seen = new Set();
+  const result = [];
+
+  for (const link of sortQuickLinks(links || [])) {
+    const key = quickLinkKey(link);
+    if (!key || seen.has(key)) continue;
+
+    seen.add(key);
+    result.push(link);
+  }
+
+  return result;
+}
+
+function removeDuplicateQuickLinks(links, linksToRemove) {
+  const removeKeys = new Set((linksToRemove || []).map(quickLinkKey));
+
+  return uniqueQuickLinks(
+    (links || []).filter(link => !removeKeys.has(quickLinkKey(link)))
+  );
+}
+
+function getAdditionalHeaderRecords(headerRecords, headerLookup) {
+  const records = [];
+  const seen = new Set();
+
+  for (const headerRecord of headerRecords || []) {
+    const headerFields = headerRecord.fields || {};
+    const additionalHeaderIds = normalizeArray(headerFields["Additional Header Info"]);
+
+    for (const additionalHeaderId of additionalHeaderIds) {
+      const additionalRecord = headerLookup.byHeaderId.get(additionalHeaderId);
+      if (!additionalRecord || seen.has(additionalRecord.id)) continue;
+
+      seen.add(additionalRecord.id);
+      records.push(additionalRecord);
+    }
+  }
+
+  return records;
+}
+
 function getQuickLinksFromHeaderRecords(headerRecords, headerLookup) {
   const quickLinksById = headerLookup.quickLinksById || new Map();
   const links = [];
@@ -886,6 +951,7 @@ function getQuickLinksFromHeaderRecords(headerRecords, headerLookup) {
   for (const headerRecord of headerRecords || []) {
     const headerFields = headerRecord.fields || {};
     const quickLinkIds = normalizeArray(headerFields["Quick Links Connections"]);
+    const sourceTitle = getHeaderTitle(headerRecord);
 
     for (const quickLinkId of quickLinkIds) {
       const quickLinkRecord = quickLinksById.get(quickLinkId);
@@ -899,14 +965,16 @@ function getQuickLinksFromHeaderRecords(headerRecords, headerLookup) {
       if (!label && !url) continue;
 
       links.push({
+        id: quickLinkRecord.id,
         label,
         url: url || "#",
-        sort
+        sort,
+        sourceTitle
       });
     }
   }
 
-  return sortQuickLinks(links);
+  return uniqueQuickLinks(links);
 }
 
 function buildQuickLinksResources(
@@ -926,17 +994,31 @@ function buildQuickLinksResources(
 
   const groups = [];
 
-  if (isTopic) {
-    const links = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
-
-    if (links.length) {
-      groups.push({
-        title: lessonSetName,
-        type: "topic",
-        links
-      });
+    if (isTopic) {
+      const topicLinks = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
+  
+      const additionalHeaderRecords = getAdditionalHeaderRecords(headerRecords, headerLookup);
+      const inheritedLinks = removeDuplicateQuickLinks(
+        getQuickLinksFromHeaderRecords(additionalHeaderRecords, headerLookup),
+        topicLinks
+      );
+  
+      if (topicLinks.length) {
+        groups.push({
+          title: lessonSetName,
+          type: "topic",
+          links: topicLinks
+        });
+      }
+  
+      if (inheritedLinks.length) {
+        groups.push({
+          title: "Related Course Quick Links",
+          type: "course",
+          links: inheritedLinks
+        });
+      }
     }
-  }
 
   else if (!topicIds.length) {
     const links = getQuickLinksFromHeaderRecords(headerRecords, headerLookup);
@@ -1234,7 +1316,7 @@ function flattenAdditionalQuickLinks(packet) {
     }
   }
 
-  return sortQuickLinks(additional);
+  return uniqueQuickLinks(additional);
 }
 
 function buildLinkPage(packet) {
