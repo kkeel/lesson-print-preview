@@ -85,7 +85,7 @@ function nl2br(value) {
 }
 
 function formatExamContent(value) {
-  const lines = String(value ?? "").split("\n");
+  const lines = cleanLessonText(value).split("\n");
 
   function isQuestionLine(text) {
     return (
@@ -145,7 +145,11 @@ function formatLessonBody(value) {
 }
 
 function cleanLessonText(value) {
-  return String(value ?? "").replace(/\\\./g, ".");
+  return String(value ?? "")
+    // Convert escaped fill-in-the-blank underscores back to underscores.
+    .replace(/\\_/g, "_")
+    // Keep the existing escaped-period cleanup.
+    .replace(/\\\./g, ".");
 }
 
 function booksToLines(value) {
