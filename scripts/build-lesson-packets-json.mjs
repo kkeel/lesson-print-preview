@@ -1211,6 +1211,32 @@ function buildLessonAnchor(lesson) {
   ].join("-");
 }
 
+function flattenAdditionalQuickLinks(packet) {
+  const headerSection = (packet.sections || []).find(section => section.type === "header");
+  const headerItems = headerSection?.items || [];
+  const quickLinksItem = headerItems.find(item => item.kind === "quick-links");
+
+  const additional = [];
+
+  for (const group of quickLinksItem?.groups || []) {
+    for (const link of group.links || []) {
+      const label = normalizeText(link.label);
+      const url = normalizeText(link.url);
+      if (!label || !url || url === "#") continue;
+
+      additional.push({
+        label,
+        url,
+        sort: normalizeText(link.sort),
+        groupTitle: normalizeText(group.title),
+        groupType: normalizeText(group.type)
+      });
+    }
+  }
+
+  return sortQuickLinks(additional);
+}
+
 function buildLinkPage(packet) {
   const lessonSection = (packet.sections || []).find(section => section.type === "lessons");
 
@@ -1290,40 +1316,12 @@ function buildLinkPage(packet) {
     topicConnectionNames: packet.topicConnectionNames || [],
   
     quickLinks: {
-      extraHelpingsUrl:
-        normalizeText(
-          packet.sections?.[0]?.items
-            ?.find(item => item.kind === "quick-links")
-            ?.extraHelpingsUrl
-        ) || "",
-  
-      bookListUrl:
-        normalizeText(
-          packet.sections?.[0]?.items
-            ?.find(item => item.kind === "books-resources")
-            ?.linkUrl
-        ) || "",
-  
-      supplyListUrl:
-        normalizeText(
-          packet.sections?.[0]?.items
-            ?.find(item => item.kind === "supplies-resources")
-            ?.linkUrl
-        ) || "",
-  
-      basicSuppliesUrl:
-        normalizeText(
-          packet.sections?.[0]?.items
-            ?.find(item => item.kind === "supplies-resources")
-            ?.basicSuppliesUrl
-        ) || "",
-  
-      lessonPdfUrl:
-        normalizeText(
-          packet.sections?.[3]?.linkPageUrl
-        )
-          ? `https://planning.alveary.org/pdf/lesson-plans/${packet.id}.pdf`
-          : ""
+      extraHelpingsUrl: normalizeText(packet.extraHelpingsUrl),
+      bookListUrl: normalizeText(packet.bookListUrl),
+      supplyListUrl: normalizeText(packet.supplyListUrl),
+      basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
+      lessonPdfUrl: normalizeText(packet.pdfLinkUrl),
+      additional: flattenAdditionalQuickLinks(packet)
     },
   
     updatedAt: new Date().toISOString(),
@@ -1364,8 +1362,10 @@ function buildPacket(record, headerLookup) {
 
   const setId = normalizeText(fields.setID) || record.id;
   const lessonSetName = normalizeText(fields["Lesson Set Name"]);
-  const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
+  const bookListUrl = normalizeText(fields["Book List Link"]);
+  const supplyListUrl = normalizeText(fields["Supply List Link"]);
   const pdfLinkUrl = normalizeText(fields["PDF Link URL"]);
+  const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
   const gradeText = normalizeText(fields["Grade Text"]);
@@ -1399,7 +1399,10 @@ function buildPacket(record, headerLookup) {
     courseConnectionNames,
     topicConnectionNames,
     templateType: "standard",
+    bookListUrl,
+    supplyListUrl,
     pdfLinkUrl,
+    extraHelpingsUrl,
 
     syllabird: {
       status: normalizeText(fields["Syllabird Status"]),
