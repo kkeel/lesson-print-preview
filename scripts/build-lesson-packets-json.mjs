@@ -894,11 +894,12 @@ function getHeaderTitle(headerRecord) {
 }
 
 function quickLinkKey(link) {
-  return [
-    normalizeText(link.id),
-    normalizeText(link.url).toLowerCase(),
-    normalizeText(link.label).toLowerCase()
-  ].join("|");
+  const label = normalizeText(link.label).toLowerCase();
+  const url = normalizeText(link.url).toLowerCase();
+
+  // If Airtable has separate Quick Link records with the same label/url,
+  // treat them as the same quicklink.
+  return `${label}|${url}`;
 }
 
 function uniqueQuickLinks(links) {
