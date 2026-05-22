@@ -907,7 +907,12 @@ function getQuickLinksFromHeaderRecords(headerRecords, headerLookup) {
   return sortQuickLinks(links);
 }
 
-function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
+function buildQuickLinksResources(
+  packetRecord,
+  headerRecords,
+  headerLookup,
+  extraHelpingsUrl = ""
+) {
   const fields = packetRecord.fields || {};
 
   const linkPageUrl = normalizeText(fields["Link Page"]) || "#";
@@ -986,6 +991,7 @@ function buildQuickLinksResources(packetRecord, headerRecords, headerLookup) {
     kind: "quick-links",
     title: "Quick Links",
     linkPageUrl,
+    extraHelpingsUrl,
     groups
   };
 }
@@ -1280,6 +1286,44 @@ function buildLinkPage(packet) {
     isStandaloneCourse: packet.isStandaloneCourse,
     courseConnectionNames: packet.courseConnectionNames || [],
     topicConnectionNames: packet.topicConnectionNames || [],
+  
+    quickLinks: {
+      extraHelpingsUrl:
+        normalizeText(
+          packet.sections?.[0]?.items
+            ?.find(item => item.kind === "quick-links")
+            ?.extraHelpingsUrl
+        ) || "",
+  
+      bookListUrl:
+        normalizeText(
+          packet.sections?.[0]?.items
+            ?.find(item => item.kind === "books-resources")
+            ?.linkUrl
+        ) || "",
+  
+      supplyListUrl:
+        normalizeText(
+          packet.sections?.[0]?.items
+            ?.find(item => item.kind === "supplies-resources")
+            ?.linkUrl
+        ) || "",
+  
+      basicSuppliesUrl:
+        normalizeText(
+          packet.sections?.[0]?.items
+            ?.find(item => item.kind === "supplies-resources")
+            ?.basicSuppliesUrl
+        ) || "",
+  
+      lessonPdfUrl:
+        normalizeText(
+          packet.sections?.[3]?.linkPageUrl
+        )
+          ? `https://planning.alveary.org/pdf/lesson-plans/${packet.id}.pdf`
+          : ""
+    },
+  
     updatedAt: new Date().toISOString(),
     terms
   };
@@ -1318,6 +1362,7 @@ function buildPacket(record, headerLookup) {
 
   const setId = normalizeText(fields.setID) || record.id;
   const lessonSetName = normalizeText(fields["Lesson Set Name"]);
+  const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
   const gradeText = normalizeText(fields["Grade Text"]);
@@ -1385,7 +1430,12 @@ function buildPacket(record, headerLookup) {
         
           buildBooksResources(record, headerLookup.lessonRecordsById || new Map()),
           buildSuppliesResources(record, headerLookup.lessonRecordsById || new Map()),
-          buildQuickLinksResources(record, matchedHeaderRecords, headerLookup)
+          buildQuickLinksResources(
+            record,
+            matchedHeaderRecords,
+            headerLookup,
+            extraHelpingsUrl
+          )
         ].filter(Boolean)
       },
       buildHowToSection(record, headerLookup),
