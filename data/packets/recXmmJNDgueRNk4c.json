@@ -13,6 +13,10 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recbYqTctoNPUMrVG",
+  "supplyListUrl": "",
+  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recXmmJNDgueRNk4c-geometry-part-1.pdf",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

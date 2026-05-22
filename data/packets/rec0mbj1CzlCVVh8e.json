@@ -13,6 +13,10 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recZDXlQ7cb9GIkH5",
+  "supplyListUrl": "",
+  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec0mbj1CzlCVVh8e-upper-french-level-2.pdf",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

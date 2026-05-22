@@ -13,6 +13,10 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recPbX2lDJKZ0THU4",
+  "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recPbX2lDJKZ0THU4",
+  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recD6sCXurd6xJISq-art-level-7.pdf",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",

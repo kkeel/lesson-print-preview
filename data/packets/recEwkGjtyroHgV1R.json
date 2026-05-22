@@ -13,6 +13,10 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec9p05SUvGdQqFO7",
+  "supplyListUrl": "",
+  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recEwkGjtyroHgV1R-latin-2-video-course.pdf",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

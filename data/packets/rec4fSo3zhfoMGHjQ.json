@@ -13,6 +13,10 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recphzOz02QtwWmTI",
+  "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recphzOz02QtwWmTI",
+  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec4fSo3zhfoMGHjQ-sewing-level-2.pdf",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
