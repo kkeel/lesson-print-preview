@@ -175,14 +175,15 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "History: Grade 4 (U.S.)",
               "type": "course",
               "links": [
                 {
-                  "label": "History Charts & Timeline Scope & Sample",
-                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "label": "Grade 4 U.S. History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
                   "sort": "1"
                 },
                 {
@@ -191,9 +192,14 @@
                   "sort": "2"
                 },
                 {
+                  "label": "History Charts & Timeline Scope & Sample",
+                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "sort": "3"
+                },
+                {
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "5"
                 }
               ]
             }
@@ -773,7 +779,7 @@
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 13",
               "body": "The Slave Auction, A Letter from a Schoolboy\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜ INTRO\nThis book is about an Englishman named William Wilberforce (1759-1833) who was a member of Parliament, the lawmaking group in the government of Great Britain. The English had been part of the slave trade since 1662. In 1770, out of a total of one hundred thousand slaves a year from West Africa, British ships transported more than half. English considered the slave trade inseparably linked with the wealth and national security of Great Britain.  William worked tirelessly in Parliament to change the laws and abolish or get rid of the slave trade.  As we learn about this remarkable man, we will also learn about what life was like in the late 1700's and early 1800s, what people were thinking about, talking about, and how it was different from our life today. We are mostly studying the 1800-1900 this year but this book begins a little earlier in 1759 when William was born. \n\n➜ LOCATE\n∞ Map Link: Map of England\nFind Hull, which is a coastal city in northern England. This is where William was born.\n\n➜ READ, NARRATE, & DISCUSS\np.9-17 Beginning - \"on their journey.\"\n• How would describe the kind of family and lifestyle that William was born into?\n• How is his life and opportunities different from the slaves we were introduced to in the first chapter?\n\n➜ VIEW\n∞ Image Links: Birthplace of William Wilberforce which is now a museum, Portrait of William Wilberforce",
-              "teacherNotes": "",
+              "teacherNotes": "• IMPORTANT DATES\n1759 Birth of William Wilberforce",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=recX42Mdq1wBlPBnt",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=2&week=13",
               "links": [
@@ -940,7 +946,7 @@
               "sort": 201702,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 17",
-              "body": "Oh Happy Day\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ LOCATE\n∞ Map Link: Map of English Channel\n1.William is going on another holiday with family as well with his friend Isaac Milner to the French Riviera. How did people travel in those days? (carriage and boat). Trace their route across the Strait of Dover to Calais, France. \n2.∞ Map Link: Map of River of Europe\nOnce they were in France they took a carriage to Lyon and then put their carriages on a boat to sail down the Rhone River all the way to the Mediterranean Sea.\n\n➜ READ, NARRATE, & DISCUSS\np.43-50 (whole chapter)\n• What kind of changes are spiritual changes are happening with William?\n• How do you think his time with his aunt and uncle when he was a child influenced him?",
+              "body": "Oh Happy Day\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ LOCATE\n∞ Map Link: Map of English Channel\n1.William is going on another holiday with family as well with his friend Isaac Milner to the French Riviera. How did people travel in those days? (carriage and boat). Trace their route across the Strait of Dover to Calais, France. \n2.∞ Map Link: Map of River of Europe\nOnce they were in France they took a carriage to Lyon and then put their carriages on a boat to sail down the Rhone River all the way to the Mediterranean Sea.\n\n➜ READ, NARRATE, & DISCUSS\np.43-50 (whole chapter)\n• What kind of spiritual changes are happening with William?\n• How do you think his time with his aunt and uncle when he was a child influenced him?",
               "teacherNotes": "• DEFINITIONS\nTheophilus Lindsay (a known minister during this time) left his ministry at the Church of England to start a Unitarian Church that did not believe the core doctrines of Christianity.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=recC3noJlOVp1eUYo",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=2&week=17",
@@ -981,8 +987,8 @@
               "sort": 201802,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 18",
-              "body": "Amazing Grace\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\nNote: We are skipping the chapter \"Amazing Grace\" for the sake of time. It is mostly about John Newton's conversion. We would encourage you to read it outside of class time or you can watch the suggested video in Extra Helpings.\n\n➜RECAP\nWhat did you read last time?\n\n➜ INTRO\nWilliam was looking for a spiritual mentor and was encouraged to reach out to the minister and hymn writer, John Newton. Have you heard of the hymn, Amazing Grace? He was the author. \n\n➜ READ, NARRATE, & DISCUSS\np.63-71\n• Why do you think William was troubled about whether he could still be in Parliament and be a Christian?\n• What advice would you give him?",
-              "teacherNotes": "• EXTRA HELPING\nThis video tells the story of John Newton",
+              "body": "The Truth about the Slave Trade\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\nNote: We are skipping the chapter \"Amazing Grace\" for the sake of time. It is mostly about John Newton's conversion. We would encourage you to read it outside of class time.\n\n➜RECAP\nWhat did you read last time?\n\n➜ INTRO\nWilliam was looking for a spiritual mentor and was encouraged to reach out to the minister and hymn writer, John Newton. Have you heard of the hymn, Amazing Grace? He was the author. \n\n➜ READ, NARRATE, & DISCUSS\np.63-71\n• Why do you think William was troubled about whether he could still be in Parliament and be a Christian?\n• Why would it be so hard for William to change the laws about the slave trade in England ?",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=recPdZpqRL1dmgYDh",
               "lessonLinksUrl": "",
               "links": []
@@ -1013,11 +1019,16 @@
               "sort": 201902,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 19",
-              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.73-82\n\n➜ VIEW\n∞ Image Link:",
-              "teacherNotes": "",
+              "body": "Mr. Greatheart\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\nNote: The reading is a little longer today.\n\n➜RECAP\nWhat did you read last time?\n\n➜ INTRO\nHow can laws help a society not engage in immoral or sinful behavior? How else can people help others who seem intent on living an immoral lifestyle?  As we will read in this chapter Wilberforce used his influence for good and not only fought against the slave trade but strived to make England a better place for all people to live. \n\n➜ READ, NARRATE, & DISCUSS\np.73-82\n• Why do you think William persevered through the obstacles and discouragement?\n\n➜ VIEW\n∞ Image Link: Statue of William in outside of his home in Hull",
+              "teacherNotes": "★ TEACHER NOTE\nYou may want to skip the last paragraph on p.82 that talks about the immoral behavior of some teenagers. \n\n• DEFINITIONS\ndissolute: lacking restraint, marked by indulgence",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec1G772PT3WpS8rF",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=2&week=19",
+              "links": [
+                {
+                  "text": "Statue of William Wilberforce",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/052-SFEC-HULL-20070329-WILBERFORCE.JPG"
+                }
+              ]
             },
             {
               "lessonId": "rec5YFFPoS7N937zL",
@@ -1045,8 +1056,8 @@
               "sort": 202002,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 20",
-              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.83-95\n\n➜ VIEW\n∞ Image Link:",
-              "teacherNotes": "",
+              "body": "The Duel\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ INTRO\nIf people can't come to agreements about important matters, what might they do to settle their agreements? In the past dueling was a common way to settle disputes around the world and in America. A duel is a combat between persons armed with lethal weapons—usually swords or guns—that is held according to prearranged rules to settle a quarrel or a point of honor. You will learn how that dangerous practice was finally outlawed in England.\n\n➜ READ, NARRATE, & DISCUSS\np.83-90 Beginning - \"new bride, Barbara.\"\n\n➜ VIEW\n∞ Image Link: Holy Trinity Church in Clapham, England\nThis is the church where the \"Clapham Saints\" worshipped together and encouraged each other to do good for their society.",
+              "teacherNotes": "• DEFINITIONS\nseditious:  describes action of saying, writing, or doing something that encourages people to disobey their government (p.85 talks about Seditious Meetings Bill)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec809qArmoIJwAGI",
               "lessonLinksUrl": "",
               "links": []
@@ -1077,11 +1088,16 @@
               "sort": 202102,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 21",
-              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.97-103\n\n➜ VIEW\n∞ Image Link:",
+              "body": "The Duel, A Night of Nights\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜ RECAP\nWhat did you read last time?\n\n➜ INTRO\nThe year is now 1805. The French Revolution that threw down the monarchy was over. A man named Napoleon Bonaparte had risen to power to France. \"To the troops he commanded in battle Napoleon was known fondly as the “Little Corporal.” To the monarchs and kings whose thrones he overthrew he was “that Corsican ogre.” Some believed him a great reformer. Others thought him a monster. Friend and foe alike, however, could agree on one fact: Napoleon I, emperor of France and for 16 years master of most of Europe, was one of the greatest military geniuses of all time\" (from Britannica Kids). We will read about his conflicts with England. \n\n➜ READ, NARRATE, & DISCUSS\np.90-100 \"One morning, early,\" - \"seen at Portsmouth.\"\n\n➜ VIEW\n∞ Video Link: Watch this video that discusses a painting about the Battle of Trafalgar.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec6zbEOuBunm8MAx",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=2&week=21",
+              "links": [
+                {
+                  "text": "Video: The Battle of Trafalgar",
+                  "url": "https://www.youtube.com/watch?v=gTs2B2BX25E"
+                }
+              ]
             },
             {
               "lessonId": "recM3Go59HsU28AgN",
@@ -1109,8 +1125,8 @@
               "sort": 202202,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 22",
-              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.105-\n\n➜ VIEW\n∞ Image Link:",
-              "teacherNotes": "",
+              "body": "A Night of Nights, Free at Last\n⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ INTRO\nIt has been almost 20 years since William first proposed his bill to abolish the slave trade in the British Empire. Let's see if he finally has enough votes to pass during a session of Parliament on the evening of February 23, 1807.\n\n➜ READ, NARRATE, & DISCUSS\np.100-108 \"The Napoleonic Wars\" - \"open the door.\"\n• Why do you think he finally got enough votes?",
+              "teacherNotes": "★ TEACHER NOTE\nThe practice of suttee in India is mentioned on p. 107. You may want to think of how you will address that issue with your students. It was a Hindu practice that displayed womanly devotion. Hindus also believed in reincarnation and what you do on earth give you better status when you are reincarnated. \n\n• DEFINITIONS\neuphoria: a feeling of well-being or excitement (p.103)\n\n• IMPORTANT DATES\n1807 Passed the Slave Trade Act",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec1RVDG3Ddmro3ub",
               "lessonLinksUrl": "",
               "links": []
@@ -1141,11 +1157,16 @@
               "sort": 202302,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 23",
-              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.105-114\n\n➜ VIEW\n∞ Image Link:",
-              "teacherNotes": "",
+              "body": "⍞ Materials: William Wilberforce: The Freedom Fighter\n\n➜RECAP\nWhat did you read last time?\n\n➜ READ, NARRATE, & DISCUSS\np.108-114 \"But what of his\" - end.\n• What stood out to you about the life of William Wilberforce?\n\n➜ VIEW\n∞ Image Link: Memorial at Westminster Abbey\nYou can look at William's memorial in Westminster Abbey and read the inscription on the statute.",
+              "teacherNotes": "• IMPORTANT DATES\n1833 Death of William Wilberforce",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=recSahAvn8iiMtwE4",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=2&week=23",
+              "links": [
+                {
+                  "text": "Westminster Abbey memorial",
+                  "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/william-wilberforce-family"
+                }
+              ]
             },
             {
               "lessonId": "recMRxo5lS6HxpRzt",
@@ -1535,7 +1556,7 @@
               "sort": 303402,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 34",
-              "body": "Excursions on Land and Sea, Shore Leave\n⍞ Materials: Commodore Perry in the Land of the Shogun\n\n➜ RECAP\nWhat did you read last time?\n\n➜ LOCATE\n1.∞ Map Link: Shimoda, Japan\nYou will see that Shimoda is darkened on this map.  This is one of the ports that the Americans are allowed to use. This is also the fishing village that was mentioned at the beginning of the book that first sighted the 4 black ships. \n2.∞ Map Link: Hakodate, Japan\nHakodate is circled on the map. Where is it located in relation to Shimoda? This is the other port city that the Americans were allowed to go to. \n\n➜ READ, NARRATE, & DISCUSS\nCh. 14-15 p.97-106\n• What were some of the differences between the American customs an lifestyle and the Japanese?",
+              "body": "Excursions on Land and Sea, Shore Leave\n⍞ Materials: Commodore Perry in the Land of the Shogun\n\n➜ RECAP\nWhat did you read last time?\n\n➜ LOCATE\n1.∞ Map Link: Shimoda, Japan\nYou will see that Shimoda is darkened on this map.  This is one of the ports that the Americans are allowed to use. This is also the fishing village that was mentioned at the beginning of the book that first sighted the 4 black ships. \n2.∞ Map Link: Hakodate, Japan\nHakodate is circled on the map. Where is it located in relation to Shimoda? This is the other port city that the Americans were allowed to go to. \n\n➜ READ, NARRATE, & DISCUSS\nCh. 14-15 p.97-106\n• What were some of the differences between the American customs and lifestyle and the Japanese?",
               "teacherNotes": "★ TEACHER NOTE\nPreview bottom of p.98 and top of p.99 that again mentions ritual suicide. P.102 talks about a bathhouse that is shared by both men and women.\n\n• DEFINITIONS\ndaguerreotype: an early photograph produced on a silver or a silver-covered copper plate (p.103)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec7VFNSUzWmeGcKL",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recNPQ4tF6eFCOXG8&term=3&week=34",
@@ -1576,8 +1597,8 @@
               "sort": 303502,
               "lessonLabel": "",
               "title": "25m World History: Grades 4-6 - Lesson 35",
-              "body": "In the Wake of the Black Ships\n⍞ Materials: Commodore Perry in the Land of the Shogun\n\n➜ RECAP\nWhat did you read last time?\n\n➜ INTRO\n\n➜ READ, NARRATE, & DISCUSS\nCh. 16, Afterward\n\n➜ VIEW\n∞ Image Link:",
-              "teacherNotes": "",
+              "body": "In the Wake of the Black Ships\n⍞ Materials: Commodore Perry in the Land of the Shogun\n\n➜ RECAP\nWhat did you read last time?\n\n➜ INTRO\nThe United States has consuls all over the world.  Consuls are representatives of a government who reside in a foreign country to assist and protect citizens of the consul's country, and to promote and facilitate relations between the two countries. Two years after Perry, it was time to send a consul to Japan. Let's see if he is welcomed. \n\n➜ READ, NARRATE, & DISCUSS\nCh. 16, Afterward\n• Why do you think other people were so interested to go to Japan now that it was open to foreigners?\n• What were the positive changes that took place in Japan once they ended the feudal system?\n\n➜ VIEW\n∞ Image Link:",
+              "teacherNotes": "pantaloons: loose-fitting usually shorter than ankle-length pants(p.107)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckIbzVuwanEJ4os&6J82c=rec3oNl6GsiPRKWoM",
               "lessonLinksUrl": "",
               "links": []
@@ -1615,6 +1636,17 @@
               "links": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "exams",
+      "title": "History: Grade 4 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "World History: Grades 4-6\n· William Wilberforce-The Freedom Fighter: Tell the story of William Wilberforce’s fight against the slave trade and what lessons we can learn from him."
         }
       ]
     }

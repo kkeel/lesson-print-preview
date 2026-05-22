@@ -152,6 +152,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec9lkHl3pKY5QBnE",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "Geography: Grade 3 (U.S.)",
@@ -170,7 +171,7 @@
                 {
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "2"
                 }
               ]
             }

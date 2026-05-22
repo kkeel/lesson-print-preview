@@ -133,6 +133,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "History: Grades 2-3 (U.S.)",
@@ -141,7 +142,7 @@
                 {
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "5"
                 },
                 {
                   "label": "History Charts & Timeline Scope & Sample",

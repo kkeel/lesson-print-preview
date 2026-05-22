@@ -144,6 +144,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec2nFZJdIYdGP3Nr",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "Geography: Grades 4-6",
@@ -152,6 +153,11 @@
                 {
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "2"
+                },
+                {
+                  "label": "Student Lessons (No Answers)",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
                   "sort": ""
                 }
               ]
@@ -1122,11 +1128,16 @@
               "sequence": 48,
               "lessonLabel": "Lesson 48",
               "title": "25m Geography: Grades 4-6 - Lesson 48",
-              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nThe student will use a blank map to fill in.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nThe student will use a blank map to fill in.\n∞ Link: Blank Map of Africa",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec2nFZJdIYdGP3Nr&6J82c=recbzELCYQ2hESd0N",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec2nFZJdIYdGP3Nr&term=2&week=24",
+              "links": [
+                {
+                  "text": "∞ Link: Blank Map of Africa",
+                  "url": "https://www.geoguessr.com/assets/seterra/printables/en/africa-countries.pdf"
+                }
+              ]
             }
           ]
         },
@@ -1570,11 +1581,16 @@
               "sequence": 72,
               "lessonLabel": "Lesson 72",
               "title": "25m Geography: Grades 4-6 - Lesson 72",
-              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nThe student will use a blank map to fill in.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nThe student will use a blank map to fill in.\n∞ Link: Blank Map of Africa",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec2nFZJdIYdGP3Nr&6J82c=rec4PhIKrBadBoipV",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec2nFZJdIYdGP3Nr&term=3&week=36",
+              "links": [
+                {
+                  "text": "∞ Link: Blank Map of Africa",
+                  "url": "https://www.geoguessr.com/assets/seterra/printables/en/africa-countries.pdf"
+                }
+              ]
             }
           ]
         }
@@ -1591,11 +1607,11 @@
         },
         {
           "term": "Term 2",
-          "content": "· Tell all you can about a lake or river that Livingstone has encountered during his voyages.  \n\n· Print a blank map of Africa and fill in as much as you remember of Central and Western Africa."
+          "content": "· Tell all you can about a lake or river that Livingstone has encountered during his voyages.  \n\n· Print a blank map of Africa and fill in as much as you remember of Central and Western Africa.\n∞ Link: Blank Map of Africa"
         },
         {
           "term": "Term 3",
-          "content": "· Describe an African terrain/region/area as Livingstone experienced it. \n\n· Print a blank map of Africa and fill in as much as you remember of Eastern and Southern Africa."
+          "content": "· Describe an African terrain/region/area as Livingstone experienced it. \n\n· Print a blank map of Africa and fill in as much as you remember of Eastern and Southern Africa.\n∞ Link: Blank Map of Africa"
         }
       ]
     }

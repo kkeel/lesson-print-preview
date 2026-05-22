@@ -175,6 +175,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recA9VwDfoL5rPGan",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "History: Grades 7-8 (U.S.)",
@@ -191,9 +192,19 @@
                   "sort": "2"
                 },
                 {
+                  "label": "Grade 7 U.S. History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "3"
+                },
+                {
+                  "label": "Grade 8 U.S. History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "4"
+                },
+                {
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "5"
                 }
               ]
             }

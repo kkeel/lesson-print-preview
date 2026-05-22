@@ -125,15 +125,21 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recsCGDu4MrTcBayw",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "Geography: Grade 8 (Canada)",
               "type": "course",
               "links": [
                 {
+                  "label": "Student Lessons (No Answers)",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "1"
+                },
+                {
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "2"
                 }
               ]
             }

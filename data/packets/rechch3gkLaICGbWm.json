@@ -160,6 +160,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rechch3gkLaICGbWm",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "Geography: Grade 2 (Canada)",
@@ -173,7 +174,7 @@
                 {
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "2"
                 }
               ]
             }
