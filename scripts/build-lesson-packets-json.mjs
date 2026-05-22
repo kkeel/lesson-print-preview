@@ -47,6 +47,8 @@ const LESSON_FIELDS = [
   "Supplies",
   "Supply IDs",
   "Supply List Link",
+  "PDF Link URL",
+  "Extra Helpings Link",
   "Link Page",
   "SS Row Lables",
   "Day 1",
