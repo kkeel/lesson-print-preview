@@ -1365,6 +1365,7 @@ function buildPacket(record, headerLookup) {
   const setId = normalizeText(fields.setID) || record.id;
   const lessonSetName = normalizeText(fields["Lesson Set Name"]);
   const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
+  const pdfLinkUrl = normalizeText(fields["PDF Link URL"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
   const gradeText = normalizeText(fields["Grade Text"]);
@@ -1398,6 +1399,7 @@ function buildPacket(record, headerLookup) {
     courseConnectionNames,
     topicConnectionNames,
     templateType: "standard",
+    pdfLinkUrl,
 
     syllabird: {
       status: normalizeText(fields["Syllabird Status"]),
