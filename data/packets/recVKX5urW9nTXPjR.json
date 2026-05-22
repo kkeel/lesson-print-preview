@@ -142,7 +142,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recVKX5urW9nTXPjR",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recLkNcUZJnaS1KOm",
+                  "label": "Foundations (See Section 15: History)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "5",
+                  "sourceTitle": "History: Grades 11-12 (Canada)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

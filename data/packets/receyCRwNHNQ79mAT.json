@@ -131,7 +131,28 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=receyCRwNHNQ79mAT",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rectXHiziYSasXPyv",
+                  "label": "Biology Lab Book",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Science: Biology"
+                },
+                {
+                  "id": "recMZN6hmyKyYIAC7",
+                  "label": "AmScope Original Student Slide Key",
+                  "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view",
+                  "sort": "2",
+                  "sourceTitle": "Science: Biology"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

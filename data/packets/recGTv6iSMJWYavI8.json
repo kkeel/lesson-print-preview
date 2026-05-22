@@ -163,19 +163,25 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recmZKPxlxp6Z4vvQ",
                   "label": "Warm-Ups (Audio)",
                   "url": "https://soundcloud.com/alveary/warm-up-form-2-and-3/s-cHDwD?in=alveary/sets/sol-fa-level-3",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sol-fa: Level 3"
                 },
                 {
+                  "id": "recX6Tq90f6ib9Q0O",
                   "label": "Warm-Ups (Video)",
                   "url": "https://vimeo.com/337660739/4bbc0a0711",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sol-fa: Level 3"
                 },
                 {
+                  "id": "recy6F1z4ZhlPFxdg",
                   "label": "Blank Staff Paper",
                   "url": "https://drive.google.com/file/d/19NkUTZHvsoe0u1OP-FbTsit54O-1Zjdg/view",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Sol-fa: Level 3"
                 }
               ]
             }

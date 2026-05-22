@@ -142,7 +142,42 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recyxfG0u2SwUnA2Z",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "reclGAzuUMZRLyztP",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 8 (U.S.)"
+                },
+                {
+                  "id": "recKER2ltjeeaRcx9",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 8 (Canada)"
+                },
+                {
+                  "id": "recIfOT9LvYW6tfHt",
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 8 (U.S.)"
+                },
+                {
+                  "id": "recNd2ruW3MjyC78e",
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 8 (Canada)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

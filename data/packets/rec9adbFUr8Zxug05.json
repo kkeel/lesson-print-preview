@@ -132,9 +132,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rec3WXv5EWFu4ExOX",
                   "label": "Our Work: Grade 3",
                   "url": "https://charlotte-mason-institute.my.canva.site/our-work-grade-3-2026-2027-web",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Recitation: Grade 3"
                 }
               ]
             }

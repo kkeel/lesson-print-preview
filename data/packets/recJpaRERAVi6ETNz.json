@@ -215,29 +215,39 @@
               "type": "course",
               "links": [
                 {
+                  "id": "reciAPuuZNCAap4rO",
                   "label": "Appendix: Guiding Questions for Art",
                   "url": "https://drive.google.com/file/d/1kFr-2zGXd-qvzieLvcbgAjlIYTfN4-Qq/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Art: Fast Track"
                 },
                 {
+                  "id": "recHIKniPcjOFA79C",
                   "label": "Art Teacher Training Tutorials",
                   "url": "http://vimeo.com/user/36827822/folder/2111395",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Art: Fast Track"
                 },
                 {
+                  "id": "recO5JqxtGLnyoNnW",
                   "label": "Ethics Guide for Picking Wildflowers",
                   "url": "https://www.blm.gov/Learn/Can-I-Keep-This",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Art: Fast Track"
                 },
                 {
+                  "id": "recnM3bzZegnZf8Th",
                   "label": "Grid Paper Template",
                   "url": "https://incompetech.com/graphpaper/quickPicks/8.5x11grey.25inchSquares.pdf",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Art: Fast Track"
                 },
                 {
+                  "id": "recvisO4JysrWUQjC",
                   "label": "Foundations (See Section 5: Art Appreciation and Instruction)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Art: Fast Track"
                 }
               ]
             }

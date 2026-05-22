@@ -159,19 +159,25 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rectfnOZdT0HYOL6y",
                   "label": "Paper Folding Video Lessons",
                   "url": "vimeo.com/user/36827822/folder/4204988",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sloyd: Intro"
                 },
                 {
+                  "id": "recwuwVjm3nIxdvSE",
                   "label": "Airplane Pattern (Term 2)",
                   "url": "https://www.auntannie.com/3DCrafts/FloatingWingGlider/FWGliderTrialModel.pdf",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sloyd: Intro"
                 },
                 {
+                  "id": "rec05HyJfpzAwU3kE",
                   "label": "Cube Pattern (Term 3)",
                   "url": "https://www.firstpalette.com/pdf/cube.pdf",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Sloyd: Intro"
                 }
               ]
             }

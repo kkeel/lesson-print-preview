@@ -165,7 +165,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recay5okj71ONAjSd",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recDv8TDKAw04zuuH",
+                  "label": "SoundCloud Song Playlist",
+                  "url": "https://soundcloud.com/alveary/sets/p-e-2026-27?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                  "sort": "1",
+                  "sourceTitle": "PE: Grades 4-6"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

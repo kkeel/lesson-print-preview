@@ -163,9 +163,59 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rectc6H0tVBsLM0Zm",
                   "label": "AmScope key for slide IDs",
                   "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view?usp=sharing",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "General Science: Grade 8"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recbE7wcJxkDB0BIi",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recvd02ZK8ouAX7uo",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recPwYrF0SODMer3y",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "rechGkWLja21cFKn4",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recsbOOju71i7VKMe",
+                  "label": "Alternate One Year Physical Science Lesson Plans",
+                  "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
+                  "sort": "5",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recdNfoZYNN4rRnog",
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 8"
                 }
               ]
             }

@@ -246,7 +246,266 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec01dVZHduPzl704",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recT0LDpJ0SXXDydt",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 4"
+                },
+                {
+                  "id": "recpxgCPiYzEjv6Vt",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 5"
+                },
+                {
+                  "id": "recmNqtQmdySfdaf2",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recbE7wcJxkDB0BIi",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recep9LpdelioKx4b",
+                  "label": "Microscope Coloring Book",
+                  "url": "https://drive.google.com/file/d/132agvBQtQ2N4z3vDldwjYN9UVX6xbo8r/view?usp=sharing",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 4"
+                },
+                {
+                  "id": "reccddKHxUiSeiuMe",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 5"
+                },
+                {
+                  "id": "recB53bfJLk47HD5m",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recvd02ZK8ouAX7uo",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recJXKB58nYRRlzRF",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 4"
+                },
+                {
+                  "id": "recPBfEz0GR92ha5C",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 5"
+                },
+                {
+                  "id": "recI5OwEzTkfcearN",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recPwYrF0SODMer3y",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recK3NSHNTYSv2aZI",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 5"
+                },
+                {
+                  "id": "recyxQUSTLcGWO1zM",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "rechGkWLja21cFKn4",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "recw0T3SzOytDmlSf",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 4"
+                },
+                {
+                  "id": "recsbOOju71i7VKMe",
+                  "label": "Alternate One Year Physical Science Lesson Plans",
+                  "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
+                  "sort": "5",
+                  "sourceTitle": "Science: Grade 8"
+                },
+                {
+                  "id": "rec9JT8Uuhjyg9Q2r",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "5",
+                  "sourceTitle": "Science: Grade 4"
+                },
+                {
+                  "id": "recdNfoZYNN4rRnog",
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 1"
+                },
+                {
+                  "id": "recPaTGUfLfXQsbIB",
+                  "label": "Alternate One Year Physical Science Lesson Plans",
+                  "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "rec1C8vmAWiGNb6qC",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 1"
+                },
+                {
+                  "id": "recMnz5thFe7cx39f",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recSvf0yV40nqLLUP",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 3"
+                },
+                {
+                  "id": "recczZMpg2Cg5sjV7",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recJzu51vQdmIUOmM",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 1"
+                },
+                {
+                  "id": "recaagT6Ev5798GWJ",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "receSYi7Z4nTfOR4C",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 3"
+                },
+                {
+                  "id": "recVtv0YA79s9AxYP",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recSmZzqasuSA84ch",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 1"
+                },
+                {
+                  "id": "recNjUePpk6ww1wTX",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recoakeC4PQQCXlHn",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 3"
+                },
+                {
+                  "id": "recUNREZXcldm3abU",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recgBVsyGqXq74k7E",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 1"
+                },
+                {
+                  "id": "recFQ3u8qSK2FQZ79",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "rechm2kyPEeZbKa2X",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 3"
+                },
+                {
+                  "id": "recApOiDTSndSBlkR",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

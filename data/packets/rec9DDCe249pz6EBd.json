@@ -156,49 +156,80 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recFJaN5oK1OKtbbm",
                   "label": "Alveary Bookshelf",
                   "url": "https://www.alveary.org/bookshelf",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recH499CeQMaN1qiZ",
                   "label": "Contact Us for Teachers",
                   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfhaAB0eQWkpMxNYW9t4PWrPIvS3fblKfTw9Ee1jvexzDvUpg/viewform",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recgJZbR8jWsJa39L",
                   "label": "Homework Help for HS Science Students",
                   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQhHvZhrqoNYQ3eOTovRlmiJg8fKNeVibhw6jxlBuZ_oTww/viewform?usp=sf_link",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recZrpt1qeTbnuMDM",
                   "label": "John Muir Laws • Nature Journaling Resources",
                   "url": "https://johnmuirlaws.com/",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "rec84wNJH3vHgRv8U",
                   "label": "Khan Academy Video Playlists",
                   "url": "https://www.youtube.com/@khanacademy/playlists",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recneXtfuWr2Qcizx",
                   "label": "Lab Notebook Examples",
                   "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recl923ZK4kLS8i0o",
                   "label": "Seek app from iNaturalist",
                   "url": "https://www.inaturalist.org/pages/seek_app",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recs8DwojA67glOCO",
                   "label": "SkyView Lite for Android",
                   "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
                 },
                 {
+                  "id": "recxPMzhHJ5DBZjqd",
                   "label": "SkyView Lite for iOS",
                   "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Chemistry Lessons"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recF9wS06Qq5pnW0G",
+                  "label": "Chemistry Lab Book",
+                  "url": "#",
+                  "sort": "",
+                  "sourceTitle": "Science: Chemistry"
                 }
               ]
             }

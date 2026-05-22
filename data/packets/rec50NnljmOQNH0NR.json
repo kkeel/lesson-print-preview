@@ -287,9 +287,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 9"
                 }
               ]
             },
@@ -298,9 +300,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rec8Aww9p0kyXCRTG",
                   "label": "History of Literature PDF",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "History of Lit: Grades 9-12"
                 }
               ]
             },
@@ -309,9 +313,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recPbMLmg8aZobdmW",
                   "label": "Appendix: Ideas for Students New to Shakespeare",
                   "url": "https://drive.google.com/file/d/17sgxRqinE_s4K-iiquCS_F0kI1AFV2Xe/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Plays: Grades 9-12"
                 }
               ]
             }
@@ -741,7 +747,7 @@
               "sort": 100304,
               "lessonLabel": "",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 6",
-              "body": "Rabindranath Tagore, cont.\n⍞ Materials: The Crescent Moon\n\n➜ RECAP\nWhat was your favorite poem by Tagore you read last time? What did you like most about it?\n\n➜ READ & DISCUSS\np.",
+              "body": "Rabindranath Tagore, cont.\n⍞ Materials: The Crescent Moon\n\n➜ RECAP\nWhat was your favorite poem by Tagore you read last time? What did you like most about it?\n\n➜ READ & DISCUSS\np.11-15 \"The Unheeded Pageant,\" \"Sleep Stealer,\" \"The Beginning,\" and \"Baby's World\"\n• What images stand out to you the most in today's poems?\n• How",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recaXxeMfe5W3XyDt",
               "lessonLinksUrl": "",

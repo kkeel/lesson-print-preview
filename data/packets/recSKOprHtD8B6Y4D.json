@@ -144,14 +144,18 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recYZWM6WmwQX76CZ",
                   "label": "Sol-fa SoundCloud Playlist",
                   "url": "https://soundcloud.com/alveary/sets/solfege-level-1-beginner",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sol-fa: Level 1"
                 },
                 {
+                  "id": "recEBuSF91j4nhhiN",
                   "label": "Warm-Ups",
                   "url": "https://soundcloud.com/alveary/warm-up?in=alveary/sets/solfege-level-1-beginner",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sol-fa: Level 1"
                 }
               ]
             }

@@ -212,9 +212,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recXtn6PfTQ883Pew",
                   "label": "Foundations (See Section 8: English)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 2"
                 }
               ]
             },
@@ -223,34 +225,46 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recLNvseWML3JEwXt",
                   "label": "Alveary Reading Lesson Placement",
                   "url": "https://drive.google.com/file/d/1LacFQJKYjPCSfdMKrhHZfzQYEh0CfYzp/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Reading Level 2"
                 },
                 {
+                  "id": "recuDF1biZAUBQbP7",
                   "label": "Literacy Development from Birth to Age 9",
                   "url": "https://docs.google.com/document/d/14aiBeoKftBqos9DDvIt8YAczJyAHo6ia5P_6fT5czqs/export?format=pdf",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Reading Level 2"
                 },
                 {
+                  "id": "recugZ6a9OBRd9Tme",
                   "label": "Level 2 Teacher Guide",
                   "url": "https://drive.google.com/file/d/1Pz1YvHneP2jzA1gok2s6t-v76K00n2Eh/view",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Reading Level 2"
                 },
                 {
+                  "id": "recEwzZ70EaKmzLMZ",
                   "label": "Scholastic webpage",
                   "url": "http://teacher.scholastic.com/education/guidedreading/leveling_chart.htm",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Reading Level 2"
                 },
                 {
+                  "id": "recOJ5ew9Q4hOBfEz",
                   "label": "Errata Page: Reading Level 2 for lessons released prior to 11/19/25",
                   "url": "https://drive.google.com/file/d/1AfVSc2XFwcxA8c1ZB0UjoRgIo1O6Aty8/view?usp=drive_link",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Reading Level 2"
                 },
                 {
+                  "id": "rec4992P1JvTXXHHS",
                   "label": "Foundations (See Section 14: Reading Lessons)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Reading Level 2"
                 }
               ]
             }

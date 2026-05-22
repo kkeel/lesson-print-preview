@@ -132,9 +132,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recFdUJigQnwJwScO",
                   "label": "typing.com",
                   "url": "https://www.typing.com/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Keyboarding"
                 }
               ]
             }

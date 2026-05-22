@@ -183,19 +183,25 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rec83PcqCvh49yqa1",
                   "label": "Transitioning from Oral to Written Narration",
                   "url": "https://www.youtube.com/watch?v=X7uKcj-_XTo",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Literature: Grade 3"
                 },
                 {
+                  "id": "recAaOfUwMqX45G3u",
                   "label": "Community Read Alouds",
                   "url": "#",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Literature: Grade 3"
                 },
                 {
+                  "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 3"
                 }
               ]
             }

@@ -187,14 +187,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recj9r22z2WnTE1kU",
                   "label": "Sloyd Introduction Video",
                   "url": "https://vimeo.com/340947199/7d7d2ddd99",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sloyd: Level 2"
                 },
                 {
+                  "id": "recadNZetxbEF8GQB",
                   "label": "Appendix: Second Year Models",
                   "url": "https://drive.google.com/file/d/1ouwKKUEBQ3psM3vBBP7XrAqRyHmsTuS_/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sloyd: Level 2"
                 }
               ]
             }

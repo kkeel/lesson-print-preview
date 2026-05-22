@@ -214,14 +214,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recaP6V06E78OvVuK",
                   "label": "Copywork & Dictation: Grade 5",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Language Study: Grade 5"
                 },
                 {
+                  "id": "recYyQgFLx7URRJAk",
                   "label": "Foundations (See Sections 3 & 8: Narration & English)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Language Study: Grade 5"
                 }
               ]
             },
@@ -230,9 +234,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recJvduWdeX7k4xH3",
                   "label": "Practice Island Teacher Manual",
                   "url": "https://drive.google.com/file/d/1WFljgKcH4k0K0LdxmfaXlm4SOBiZu4mE/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Grammar: Grade 5"
                 }
               ]
             }

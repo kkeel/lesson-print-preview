@@ -124,7 +124,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recFWa8jq2cb203BQ",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recXtn6PfTQ883Pew",
+                  "label": "Foundations (See Section 8: English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 2"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

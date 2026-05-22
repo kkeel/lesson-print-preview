@@ -171,9 +171,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recT2EoJtaFL98hfx",
                   "label": "Foundations (See Section 10: Math)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Mathematics: Grade 1"
                 }
               ]
             }
@@ -1790,7 +1792,7 @@
               "sort": 202002,
               "lessonLabel": "",
               "title": "20m Math Lessons: Grade 1 - Lesson 97",
-              "body": "⬚ 20m Math Lessons: Grade 1 - Lesson 97 \nAdding Tens & Ones  \n⍞ Materials: RightStart Math Level A\n\nPREP: Read the lesson. Work through it to acquaint yourself with the concepts. Lay out all materials.\n\n➜ PRACTICE\nLesson 74",
+              "body": "Adding Tens & Ones  \n⍞ Materials: RightStart Math Level A\n\nPREP: Read the lesson. Work through it to acquaint yourself with the concepts. Lay out all materials.\n\n➜ PRACTICE\nLesson 74",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recHJenMoQE2N0d4B&6J82c=recYSbB39ZCElQhu7",
               "lessonLinksUrl": "",
@@ -2372,7 +2374,7 @@
               "sort": 302703,
               "lessonLabel": "",
               "title": "20m Math Lessons: Grade 1 - Lesson 133",
-              "body": "Review    \n⍞ Materials: RightStart Math Level A\n\n➜ Complete Review activities. Revisit any lessons that caused difficulty.\n\n➜ PRACTICE\nLesson 99",
+              "body": "Review    \n⍞ Materials: RightStart Math Level A\n\n➜ PRACTICE\nLesson 99\nComplete Review activities. Revisit any lessons that caused difficulty.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recHJenMoQE2N0d4B&6J82c=recgu1qYzrtvq8V8d",
               "lessonLinksUrl": "",

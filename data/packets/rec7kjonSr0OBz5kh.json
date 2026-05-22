@@ -140,14 +140,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recP9sjrI5c6sfRq8",
                   "label": "Online Latin Course Intro Video",
                   "url": "https://www.youtube.com/watch?v=Ga7fuB78_zQ&list=PLvg0fKfOahKQi_uFUcbXA0cxTllU5NGQf&index=2",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Latin 1 (Independent Study)"
                 },
                 {
+                  "id": "recU3QFzNPfIrr0ML",
                   "label": "Online Latin Course Registration (Optional)",
                   "url": "https://buy.stripe.com/3cs28S9YofiO5YQbIL",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Latin 1 (Independent Study)"
                 }
               ]
             }

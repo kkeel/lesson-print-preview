@@ -127,7 +127,49 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recfwFbjwURXmVcHG",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recdNfoZYNN4rRnog",
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recMnz5thFe7cx39f",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recaagT6Ev5798GWJ",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recNjUePpk6ww1wTX",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                },
+                {
+                  "id": "recFQ3u8qSK2FQZ79",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 2"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

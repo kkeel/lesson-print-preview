@@ -144,14 +144,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recLkNcUZJnaS1KOm",
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "History: Grades 2-3 (U.S.)"
                 },
                 {
+                  "id": "recu1Zant7NlDyyMt",
                   "label": "History Charts & Timeline Scope & Sample",
                   "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "History: Grades 2-3 (U.S.)"
                 }
               ]
             }
@@ -309,11 +313,16 @@
               "sequence": 5,
               "lessonLabel": "Lesson 5",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 5",
-              "body": "1830, Mary Todd\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.46-57 \"By spring\" - \"Stephen A. Douglas.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "body": "1830, Mary Todd\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nIf you don't know how to do something or don't know much about a subject, what steps would you take to learn about it? When Abe didn't know about something, he read a book about it. And that was at a time when it was hard to find books. If you remember, he didn't even finish one year of formal school. \n\n➜ READ, NARRATE, & DISCUSS\np.46-56 \"By spring\" - \"the Edwards' house.\"\n• What stands out to you about the character of Abe?\n• What characteristics seem to set him apart from other people?",
+              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: This video shows the New Salem historical site where they reconstructed the town where Abe lived in the 1830s.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recVFMBXXoVvKQFeg",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=5",
+              "links": [
+                {
+                  "text": "New Salem Historic Site",
+                  "url": "https://www.youtube.com/watch?v=jfyMviicnpc"
+                }
+              ]
             },
             {
               "lessonId": "recAh9mSZdQ1xBcN9",
@@ -324,11 +333,16 @@
               "sequence": 6,
               "lessonLabel": "Lesson 6",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 6",
-              "body": "Mary Todd, Lawyer\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.57-67 \"The very next\" - \"his own state.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
+              "body": "Mary Todd, Lawyer\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nWhen we think of famous people from the past we often think that everything just went well for them and they went straight to the top. But as we can see with Lincoln, there are a lot of setbacks and discouragements along the way. \n\n➜ READ, NARRATE, & DISCUSS\np.56-67 \"November 4\" - \"his own state.\"\n• Discuss some of the challenges and obstacles Abe faced and how he responded to them. \n\n➜ VIEW\n∞ Image Link: Home of Lincoln and Mary that they lived in from 1844 to 1861, when he became President. It is a historic site you can visit.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recAh9mSZdQ1xBcN9",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=6",
+              "links": [
+                {
+                  "text": "Home of Lincoln and Mary",
+                  "url": "https://en.wikipedia.org/wiki/Lincoln_Home_National_Historic_Site#/media/File:Lincoln_Home_1.jpg"
+                }
+              ]
             },
             {
               "lessonId": "rec7YkiEVC8F1aBio",
@@ -339,11 +353,24 @@
               "sequence": 7,
               "lessonLabel": "Lesson 7",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 7",
-              "body": "Lawyer, President\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.68-75 \"One spring day\" - \"into the fog.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "body": "President\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ LOCATE\n∞ Map Link:Map of US in 1854\n1.Look at the map key. What does orange mean? What does green mean? \n2.Where are most of the states that allow slavery located? Why do you think that is the case?\nWe will read about a series of debates between Lincoln and Stephen Douglas that made Lincoln a household name across the country. Here is the question they were discussing: How do the new states decide if they will allow slavery or be a free state? These debates were very exciting for the people of Illinois. It was like a sporting event with crowds, music and souvenirs. \n\n➜ READ, NARRATE, & DISCUSS\np.68-75 \"One spring day\" - \"into the fog.\"\n• What are some of the differences between Lincoln and Douglas?\n• Do you think Douglas was surprised that Lincoln did so well in the debates? What do you think prepared him for these moments?\n\n➜ VIEW\n1.∞ Image Link: Life-size bronze statues of Lincoln and Douglas at their 8th debate in Alton, Illinois.\n2.Did you catch the name they gave to Lincoln during his campaign—Honest Abe, the Rail Splitter? Even though he was now a lawyer, he had split rails in his youth, and this image of him hard work and self-reliance was something many voters could relate to. This is a color reproduction of an 1858 painting.",
+              "teacherNotes": "• DEFINITIONS\nsecede:to separate from a nation or state and become independent",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec7YkiEVC8F1aBio",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=7",
+              "links": [
+                {
+                  "text": "Map of US in 1854",
+                  "url": "https://famous-trials.com/images/ftrials/DredScott/mapksneb.jpeg"
+                },
+                {
+                  "text": "Statues of debate",
+                  "url": "https://cdn.britannica.com/03/150803-050-FF978B74/statues-site-Abraham-Lincoln-Stephen-A-Douglas-1858.jpg"
+                },
+                {
+                  "text": "Railsplitter painting",
+                  "url": "https://www.lincolncollection.org/collection/creator-author/item/?cs=c&creator=Chicago+Historical+Society&page=1&view=gallery&item=104569"
+                }
+              ]
             },
             {
               "lessonId": "recDW10yqxT8WOTDU",
@@ -354,11 +381,20 @@
               "sequence": 8,
               "lessonLabel": "Lesson 8",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 8",
-              "body": "1861\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.77-86 \"February,1861\" - \"the White House.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "body": "1861\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nDo you think it would be fun to be a child in the White House? William was 11 and Tad was 8 when their dad became President. Tad was known for his antics around the White House.  He once discovered how to make all of the White House bells ring at the same time—much to the surprise of the entire staff and residents of the building!\n\n➜ LOCATE\n⍞ Map Resource: US Atlas p.14-15\nFind Washington, DC. This is where Lincoln is going to now that he is President. Which direction is it from Springfield, Illinois?\n\n➜ READ, NARRATE, & DISCUSS\np.77-86 \"February,1861\" - \"the White House.\"\n• Do you think being President of the US is a hard or easy job? Why or why not?\n\n➜ VIEW\n∞ Image Link: Confederate flag from 1861 housed in the Smithsonian",
+              "teacherNotes": "• EXTRA HELPING\nThis is a short video about the beginning of the war at Fort Sumter.\n∞ Video Link: Fort Sumter",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recDW10yqxT8WOTDU",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=8",
+              "links": [
+                {
+                  "text": "Video about Fort Sumter",
+                  "url": "https://www.youtube.com/watch?v=xsbEmWkit9Y"
+                },
+                {
+                  "text": "Confederate flag",
+                  "url": "https://www.si.edu/object/confederate-battle-flag%3Anmah_439645"
+                }
+              ]
             },
             {
               "lessonId": "recbPVUGDxF5AEnxA",
@@ -369,11 +405,16 @@
               "sequence": 9,
               "lessonLabel": "Lesson 9",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 9",
-              "body": "Emancipation\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.87-93 \"Freeing of the\" - \"Pursuit of Happiness.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "body": "Emancipation\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nAbraham Lincoln is considered by many to be the greatest US President. In this chapter, we will read about one of the things he did that makes him so great. \n\n➜ READ, NARRATE, & DISCUSS\n1.p.87-93 \"Freeing of the\" - \"Pursuit of Happiness.\"\n2.Read the first paragraph of the Emancipation Proclamation. (Emancipation means freeing from bondage. Proclamation is an official statement or announcement made by the government.\n“That on the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free; and the Executive Government of the United States, including the military and naval authority thereof, will recognize and maintain the freedom of such persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom.\"",
+              "teacherNotes": "• EXTRA HELPING\nThis chapter mentioned the telegraph office. This video tells the history of the telegraph.\n∞ Video Link: History of telegraph",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recbPVUGDxF5AEnxA",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=9",
+              "links": [
+                {
+                  "text": "Video about telegraph",
+                  "url": "https://www.youtube.com/watch?v=tzP7QOOAt4I"
+                }
+              ]
             },
             {
               "lessonId": "recCGnYmm4AUdFJVu",
@@ -384,8 +425,8 @@
               "sequence": 10,
               "lessonLabel": "Lesson 10",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 10",
-              "body": "At Gettysburg\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np.94-103 \"Only one of\" - \"feel any easier.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "body": "At Gettysburg\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ LOCATE\n⍞ Map Resource: US Atlas\n1.p.14-15 Find Pennsylvania. Where is it in relation to Washington, DC?\n2.p.47 This is just a map of Pennsylvania. Find Gettysburg right over the southern border of the state. This area became a national cemetery for many o the soldiers that died and it was the place is where an important speech was given by President Lincoln called The Gettysburg Address.\n\n➜ READ, NARRATE, & DISCUSS\np.94-103 \"Only one of\" - \"feel any easier.\"\n• Do you know what Lincoln meant by four score and seven years ago? (score means 20, 87 years ago in 1776.)\n• Is there anything we can do to honor those who sacrificed their lives for the freedom of our country?\n\n➜ PROMPT\n∞ Image Link: Title of Image",
+              "teacherNotes": "• DEFINITIONS\norator: a person who makes speeches and is very good at making them (p.94)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recCGnYmm4AUdFJVu",
               "lessonLinksUrl": "",
               "links": []
@@ -400,7 +441,7 @@
               "lessonLabel": "Lesson 11",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 11",
               "body": "The Last Day\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\np. 104-109 \"Friday, April 14,\" - \"from the earth.\"\n• Discussion Question Idea\n\n➜ PROMPT\n∞ Image Link: Title of Image",
-              "teacherNotes": "",
+              "teacherNotes": "• ILLUSTRATE - Draw a scene from the book using watercolor or another medium such as chalk, pastels, or crayons.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec8qyMQnJLwMUpDw",
               "lessonLinksUrl": "",
               "links": []
@@ -793,6 +834,17 @@
               "links": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "exams",
+      "title": "History: Grades 2-3 (U.S.)",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Abraham Lincoln: An Initial Biography\nTell all you know about the story of Abraham Lincoln’s journey from his childhood to becoming president during the Civil War."
         }
       ]
     }

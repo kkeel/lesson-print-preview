@@ -144,14 +144,18 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "reccjjxzx09cFKlY0",
                   "label": "Musical Games Playlist",
                   "url": "https://youtube.com/playlist?list=PLvg0fKfOahKRzogiNUj8sdCn1mNe2jstw&si=C2T7jlSRNZOG5PeG",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sol-fa: Musical Games"
                 },
                 {
+                  "id": "recBauY9OB2tLQMlC",
                   "label": "Appendix: Waltz Steps",
                   "url": "https://drive.google.com/file/d/1-hh0emXbA5yRIxwaDwb1v21i84msOL55/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sol-fa: Musical Games"
                 }
               ]
             }

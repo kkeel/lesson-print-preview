@@ -156,29 +156,39 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recnnoDXBRfbwIvyT",
                   "label": "Nature Journal Connection",
                   "url": "https://johnmuirlaws.com/the-nature-journal-connection/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Geology Lessons"
                 },
                 {
+                  "id": "recWEsyr5FpKBXODL",
                   "label": "Alveary Bookshelf",
                   "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Geology Lessons"
                 },
                 {
+                  "id": "reckvV3Wp16PxcXpM",
                   "label": "Roadside Geology",
                   "url": "https://www.amazon.com/s?k=roadside+geology&redirectFromSmile=1&ref=nb_sb_noss_1",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Geology Lessons"
                 },
                 {
+                  "id": "rec9lW8bUkKVH9eOn",
                   "label": "State by State Rockhound",
                   "url": "http://www.gatorgirlrocks.com/state-by-state/",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Geology Lessons"
                 },
                 {
+                  "id": "reciOm5ncqt9dPTJ6",
                   "label": "How to Find Rocks",
                   "url": "https://howtofindrocks.com/",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Geology Lessons"
                 }
               ]
             }

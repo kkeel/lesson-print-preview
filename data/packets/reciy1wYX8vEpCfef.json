@@ -223,14 +223,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "reciAPuuZNCAap4rO",
                   "label": "Appendix: Guiding Questions for Art",
                   "url": "https://drive.google.com/file/d/1kFr-2zGXd-qvzieLvcbgAjlIYTfN4-Qq/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Art: High School Fast Track"
                 },
                 {
+                  "id": "recvisO4JysrWUQjC",
                   "label": "Foundations (See Section 5: Art Appreciation and Instruction)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Art: High School Fast Track"
                 }
               ]
             }

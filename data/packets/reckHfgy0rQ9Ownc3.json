@@ -122,9 +122,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recb9lKMTbSF4IrOg",
                   "label": "Our Work: Grades 1-2",
                   "url": "https://charlotte-mason-institute.my.canva.site/our-work-grade-1-2-2026-27-web",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Recitation: Grades 1-2"
                 }
               ]
             }

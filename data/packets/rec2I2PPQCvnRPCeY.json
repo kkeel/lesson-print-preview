@@ -187,14 +187,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recjKvqWCFlHLkJi4",
                   "label": "Copywork & Dictation: Grade 7",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Language Study: Grade 7"
                 },
                 {
+                  "id": "recURTGmpZ8uCps1c",
                   "label": "Foundations (See Sections 3 & 8: Narration & English)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Language Study: Grade 7"
                 }
               ]
             },
@@ -203,9 +207,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recj39s6TW4hHfCHq",
                   "label": "Practice Town Teacher Manual",
                   "url": "https://drive.google.com/file/d/1V17GjjkYyfgnKIzmIIPcVVoDdeLlGXfp/view?usp=drive_link",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Grammar/Comp: Grade 7"
                 }
               ]
             }

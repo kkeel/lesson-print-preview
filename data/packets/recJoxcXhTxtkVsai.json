@@ -175,14 +175,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recjhvxb6QyZbA4Ec",
                   "label": "Community Read Alouds",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 2"
                 },
                 {
+                  "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 2"
                 }
               ]
             }

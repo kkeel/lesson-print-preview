@@ -183,9 +183,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rec8iF3BVp7t8Cbfw",
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Geography: Grade 1"
                 }
               ]
             }

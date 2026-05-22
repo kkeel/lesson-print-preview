@@ -243,14 +243,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rectXHiziYSasXPyv",
                   "label": "Biology Lab Book",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Science: Biology"
                 },
                 {
+                  "id": "recMZN6hmyKyYIAC7",
                   "label": "AmScope Original Student Slide Key",
                   "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Science: Biology"
                 }
               ]
             },
@@ -259,49 +263,67 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recK62yUlaNFPAVJI",
                   "label": "All Keys and Sample Answers (1st edition, see reminder in header)",
                   "url": "https://www.dropbox.com/scl/fi/7h2a4ol2u3hknsr3ju854/GB-All-Keys-and-Sample-Answers.pdf?rlkey=dfl0n8s0bnm952osgeju6904z&e=1&dl=0",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recHsLvXO9AdM4ZEO",
                   "label": "Homework Help for HS Science Students",
                   "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQhHvZhrqoNYQ3eOTovRlmiJg8fKNeVibhw6jxlBuZ_oTww/viewform?usp=sf_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recZI2Bjsy50kTmuF",
                   "label": "Contact Us for Teachers",
                   "url": "https://docs.google.com/forms/d/e/1FAIpQLSfhaAB0eQWkpMxNYW9t4PWrPIvS3fblKfTw9Ee1jvexzDvUpg/viewform",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recJUyfiap06xcQc4",
                   "label": "Alveary Bookshelf",
                   "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recpwl55SgJLdknLL",
                   "label": "John Muir Laws • Nature Journaling Resources",
                   "url": "https://johnmuirlaws.com/",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recF3DdncpoApWqVe",
                   "label": "Seek app from iNaturalist",
                   "url": "https://www.inaturalist.org/pages/seek_app",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recJ7jqtGtUUuk11k",
                   "label": "SkyView Lite for iOS",
                   "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
-                  "sort": "7"
+                  "sort": "7",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recTuVlLiEegBFTXb",
                   "label": "SkyView Lite for Android",
                   "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
-                  "sort": "8"
+                  "sort": "8",
+                  "sourceTitle": "Biology Lessons"
                 },
                 {
+                  "id": "recHJFmSDmxXZwlpp",
                   "label": "Lab Notebook Examples",
                   "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
-                  "sort": "9"
+                  "sort": "9",
+                  "sourceTitle": "Biology Lessons"
                 }
               ]
             }

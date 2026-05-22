@@ -151,19 +151,25 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recKL4zy7zqxWXM4e",
                   "label": "Blank Outline Maps of Canada, Provinces, and Territories",
                   "url": "https://donnaward.ca/outline-maps-of-canada-and-provinces/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Geography: Grade 3 (Canada)"
                 },
                 {
+                  "id": "rec9avASDDL70k4mN",
                   "label": "Appendix: Geography Models",
                   "url": "https://drive.google.com/file/d/1wVkOObzRXuUkjSAZRIbZoPwlQQeuXbHW/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Geography: Grade 3 (Canada)"
                 },
                 {
+                  "id": "rec8iF3BVp7t8Cbfw",
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Geography: Grade 3 (Canada)"
                 }
               ]
             }

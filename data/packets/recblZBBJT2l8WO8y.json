@@ -190,9 +190,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 4"
                 }
               ]
             }

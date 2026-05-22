@@ -201,14 +201,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recvMC1hYZb5cqwK2",
                   "label": "bibleproject.com",
                   "url": "https://bibleproject.com/explore/book-overviews/?type=old",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 10-11"
                 },
                 {
+                  "id": "recjcHmvLmeK8TbN1",
                   "label": "Foundations (See Section 6: Bible)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 10-11"
                 }
               ]
             }

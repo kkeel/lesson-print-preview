@@ -144,9 +144,24 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recagJy0CJNOZaron",
                   "label": "bibleproject.com",
                   "url": "http://bibleproject.com/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "New Testament: Grade 12"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recjcHmvLmeK8TbN1",
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 12"
                 }
               ]
             }

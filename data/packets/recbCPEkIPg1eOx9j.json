@@ -165,19 +165,25 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recz6rmpEylNJAJhv",
                   "label": "Community Read Alouds",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 5"
                 },
                 {
+                  "id": "recyj4ZGoPSJDe9b3",
                   "label": "Setting Up a Citizenship Notebook",
                   "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 5"
                 },
                 {
+                  "id": "reccc29cxCm45lxUV",
                   "label": "Video: How to Teach Plutarch (see Citizenship: Section 7)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Citizenship: Grade 5"
                 }
               ]
             },
@@ -186,39 +192,53 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rec1PUQeONCgpRVig",
                   "label": "The Pour Over | Subscribe",
                   "url": "https://www.thepourover.org/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "recm9w5XzfNfjTVeI",
                   "label": "The World and Everything In It",
                   "url": "https://wng.org/podcasts",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "reczKamHHswVq3Pr0",
                   "label": "World Watch (Paid Subscription Required)",
                   "url": "https://worldwatch.news/",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "recF6rxjJ8jRcB3PD",
                   "label": "The Sift",
                   "url": "https://wng.org/sift",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "recYv4aFIkhB78m90",
                   "label": "BBC",
                   "url": "http://www.bbc.com/",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "reca7ry8Jk02hz62S",
                   "label": "Teaching Kids News (CA)",
                   "url": "https://teachingkidsnews.com/",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 },
                 {
+                  "id": "recXk6JMXFa4ehs9n",
                   "label": "1Jour1Actu (in French)",
                   "url": "https://www.1jour1actu.com/",
-                  "sort": "7"
+                  "sort": "7",
+                  "sourceTitle": "Current Events: Grades 5-8"
                 }
               ]
             }

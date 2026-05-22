@@ -127,19 +127,25 @@
               "type": "course",
               "links": [
                 {
+                  "id": "reczQVGrTdFdhmPtD",
                   "label": "Course Overview",
                   "url": "https://docs.google.com/presentation/d/e/2PACX-1vQ5QhlLN2XlWUN1IulvzKqFgW6BY8yYI6hwO5rZ8EbTNksTFLGk3aqwAgzuCeijn1qEPP3OGLfYyGiR/pub?start=false&loop=false&delayms=60000&slide=id.g35fbbf57a49_0_0",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Technology"
                 },
                 {
+                  "id": "recpS5Oc8ILCxjdKO",
                   "label": "Term 1 Exam Link",
                   "url": "https://www.canva.com/create/infographics/",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Technology"
                 },
                 {
+                  "id": "recxBiOVPHpml7hEv",
                   "label": "Term 3 Exam Link",
                   "url": "https://www.youtube.com/watch?v=ih3LDRuup2s",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Technology"
                 }
               ]
             }

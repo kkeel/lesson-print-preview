@@ -167,14 +167,59 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rec7H4adNJURJoZim",
                   "label": "Grade 6 Lab Book",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Labs: Grade 6"
                 },
                 {
+                  "id": "rec5GuL2YYnzM8Bth",
                   "label": "Lab Notebook Examples",
                   "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Labs: Grade 6"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recmNqtQmdySfdaf2",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recB53bfJLk47HD5m",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recI5OwEzTkfcearN",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recyxQUSTLcGWO1zM",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 6"
+                },
+                {
+                  "id": "recdNfoZYNN4rRnog",
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 6"
                 }
               ]
             }

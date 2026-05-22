@@ -336,29 +336,39 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recpxgCPiYzEjv6Vt",
                   "label": "Outdoor Work",
                   "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 5"
                 },
                 {
+                  "id": "reccddKHxUiSeiuMe",
                   "label": "Seek app from iNaturalist",
                   "url": "https://www.inaturalist.org/pages/seek_app",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 5"
                 },
                 {
+                  "id": "recPBfEz0GR92ha5C",
                   "label": "SkyView Lite for iOS",
                   "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 5"
                 },
                 {
+                  "id": "recK3NSHNTYSv2aZI",
                   "label": "SkyView Lite for Android",
                   "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 5"
                 },
                 {
+                  "id": "recdNfoZYNN4rRnog",
                   "label": "Foundations (See Section 13: Science)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 5"
                 }
               ]
             },
@@ -367,14 +377,18 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recR6QS6eI0DA5liv",
                   "label": "Grade 5 Lab Book",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Labs: Grade 5"
                 },
                 {
+                  "id": "rec7VRDfA1WLN7AL8",
                   "label": "Lab Notebook Examples",
                   "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Labs: Grade 5"
                 }
               ]
             }

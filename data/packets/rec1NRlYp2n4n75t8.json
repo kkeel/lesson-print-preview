@@ -142,9 +142,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recLkNcUZJnaS1KOm",
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "History: Grade 1 (Canada)"
                 }
               ]
             }

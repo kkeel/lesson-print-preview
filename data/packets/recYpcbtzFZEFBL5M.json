@@ -134,7 +134,28 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recYpcbtzFZEFBL5M",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recjhcLMysikrJrT9",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "",
+                  "sourceTitle": "Citizenship: Grade 4"
+                },
+                {
+                  "id": "rec4vC7RBhG08PRRF",
+                  "label": "Foundations (See Section 7: Citizenship)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Citizenship: Grade 4"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

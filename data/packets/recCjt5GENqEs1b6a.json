@@ -130,7 +130,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recCjt5GENqEs1b6a",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recjcHmvLmeK8TbN1",
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 1"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

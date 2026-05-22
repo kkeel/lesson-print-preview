@@ -179,34 +179,59 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rec8JmqD4zfhtgEwF",
                   "label": "Alveary Reading Lesson Placement",
                   "url": "https://drive.google.com/file/d/1LacFQJKYjPCSfdMKrhHZfzQYEh0CfYzp/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Reading Level 3"
                 },
                 {
+                  "id": "recKEIu2XKGw9zxFL",
                   "label": "Literacy Development from Birth to Age 9",
                   "url": "https://docs.google.com/document/d/14aiBeoKftBqos9DDvIt8YAczJyAHo6ia5P_6fT5czqs/export?format=pdf",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Reading Level 3"
                 },
                 {
+                  "id": "recYUVdhtWCPMNiI0",
                   "label": "Level 3 Teacher Guide",
                   "url": "https://drive.google.com/file/d/1jQmx2XUoXKDklwv2DnHs31tYid6e7mIP/view?usp=drive_link",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Reading Level 3"
                 },
                 {
+                  "id": "recKbSxiUCX5IiApM",
                   "label": "Scholastic webpage",
                   "url": "http://teacher.scholastic.com/education/guidedreading/leveling_chart.htm",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Reading Level 3"
                 },
                 {
+                  "id": "recx2HNXJtqCSKvxt",
                   "label": "Errata Page: Reading Level 3 for lessons released prior to 11/19/25",
                   "url": "https://drive.google.com/file/d/1qHjYgMtv5ZvRRCXbEhWHK4sso-pNNKQz/view?usp=drive_link",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Reading Level 3"
                 },
                 {
+                  "id": "rec4992P1JvTXXHHS",
                   "label": "Foundations (See Section 14: Reading Lessons)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Reading Level 3"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recvDuEYodLe0rgTW",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 3"
                 }
               ]
             }

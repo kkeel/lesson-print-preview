@@ -140,14 +140,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "reczxLKUfGX29SXe4",
                   "label": "Latin Level 2 - Answer Key Supplement",
                   "url": "https://drive.google.com/file/d/1BlxILyBl6HdFE5CWotaDxVuP1hrPLFhL/view?usp=drive_link",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Latin 2 (Independent Study)"
                 },
                 {
+                  "id": "recILmfcABE8Lq0fE",
                   "label": "Online Latin Course",
                   "url": "https://buy.stripe.com/5kA5l40nO0nUcnebJg",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Latin 2 (Independent Study)"
                 }
               ]
             }

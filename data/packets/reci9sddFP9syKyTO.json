@@ -187,9 +187,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recs1hZbA3yfNuXIY",
                   "label": "Sloyd Introduction Video",
                   "url": "https://vimeo.com/340947199/7d7d2ddd99",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sloyd: Level 5"
                 }
               ]
             }

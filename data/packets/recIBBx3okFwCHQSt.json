@@ -192,14 +192,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recHA23HSsHsjjk5o",
                   "label": "Community Read Alouds",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 11 (Canada)"
                 },
                 {
+                  "id": "recYPqQAKl0inqaB3",
                   "label": "Setting Up a Citizenship Notebook",
                   "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 11 (Canada)"
                 }
               ]
             },
@@ -208,34 +212,46 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "reccMMSTUkGzbcC9e",
                   "label": "The Pour Over | Subscribe",
                   "url": "https://www.thepourover.org/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 },
                 {
+                  "id": "recwGo4RqDY8GVUuO",
                   "label": "The World and Everything In It",
                   "url": "https://wng.org/podcasts",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 },
                 {
+                  "id": "rec47l9X5xVnW2FGx",
                   "label": "The Sift",
                   "url": "https://wng.org/sift",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 },
                 {
+                  "id": "rec66fK09rbrp6juK",
                   "label": "BBC",
                   "url": "http://www.bbc.com/",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 },
                 {
+                  "id": "recHWHD07lqFmQHSZ",
                   "label": "Teaching Kids News (CA)",
                   "url": "https://teachingkidsnews.com/",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 },
                 {
+                  "id": "recnfU3rH5nARgBQx",
                   "label": "1Jour1Actu (in French)",
                   "url": "https://www.1jour1actu.com/",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Current Events: Grades 9-12"
                 }
               ]
             }

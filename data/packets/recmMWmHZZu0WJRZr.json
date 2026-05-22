@@ -278,9 +278,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recDv8TDKAw04zuuH",
                   "label": "SoundCloud Song Playlist",
                   "url": "https://soundcloud.com/alveary/sets/p-e-2026-27?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "PE: Grades 4-6"
                 }
               ]
             },
@@ -289,9 +291,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recoKqPyCyWvnsLJn",
                   "label": "Video Folder of Folk Dances",
                   "url": "https://vimeo.com/user/36827822/folder/28792575?fl=tl&fe=cc",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Folk Dancing"
                 }
               ]
             }

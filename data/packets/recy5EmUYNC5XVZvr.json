@@ -138,7 +138,42 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recy5EmUYNC5XVZvr",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recwTyM1MA6ZXpmIy",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 11 (U.S.)"
+                },
+                {
+                  "id": "recHA23HSsHsjjk5o",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 11 (Canada)"
+                },
+                {
+                  "id": "recZWizj5uBDMwyWu",
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 11 (U.S.)"
+                },
+                {
+                  "id": "recYPqQAKl0inqaB3",
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 11 (Canada)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

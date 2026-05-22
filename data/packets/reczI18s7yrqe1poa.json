@@ -210,24 +210,32 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recP120SnSSMXSBDL",
                   "label": "Hymns, Spirituals & Folk Songs Spotify Playlist",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Hymns & Spirituals"
                 },
                 {
+                  "id": "recp4b6rF0w08ka1Y",
                   "label": "Hymns, Spirituals & Folk Songs Youtube Playlist",
                   "url": "https://www.youtube.com/playlist?list=PLvg0fKfOahKTMOJ2uBJbzbi3nT426Ab1t",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Hymns & Spirituals"
                 },
                 {
+                  "id": "rec12rAhmUmBRJlS7",
                   "label": "Hymns, Spirituals, & Folk Songs PDF",
                   "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view?usp=sharing",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Hymns & Spirituals"
                 },
                 {
+                  "id": "recdVKdEEpCFLFmew",
                   "label": "Musical Terms Appendix",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Hymns & Spirituals"
                 }
               ]
             }

@@ -122,14 +122,38 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recidTIEMN9aHSdyJ",
                   "label": "Alveary Phonogram Teachers Guide & Key",
                   "url": "https://drive.google.com/file/d/1q4ltWCGVQU3sr9NWw7_db_xeKIQAcf_L/view",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Dictation: Grade 4"
                 },
                 {
+                  "id": "recrEiKmoRva8OssN",
                   "label": "English Reading & Spelling Patterns",
                   "url": "https://drive.google.com/file/d/1wMWfPKz4dNixRLeWYrtJDhbKu9UL59bQ/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Dictation: Grade 4"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rectaHfuLhEDYA1Bc",
+                  "label": "Copywork & Dictation: Grade 4",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Language Study: Grade 4"
+                },
+                {
+                  "id": "recnGTplaVSbsTm5z",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "2",
+                  "sourceTitle": "Language Study: Grade 4"
                 }
               ]
             }

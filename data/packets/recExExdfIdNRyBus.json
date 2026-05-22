@@ -136,9 +136,24 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recdYXRkI1VUNecvU",
                   "label": "Extra Helpings",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Spiritual Formation: Grades 7-8"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recjcHmvLmeK8TbN1",
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 7-8"
                 }
               ]
             }

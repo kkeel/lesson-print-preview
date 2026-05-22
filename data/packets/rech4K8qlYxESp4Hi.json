@@ -215,29 +215,39 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recY3OXz0YabZEgFo",
                   "label": "America's Test Kitchen Library",
                   "url": "https://www.youtube.com/@AmericasTestKitchen/playlists",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Food Science Lessons"
                 },
                 {
+                  "id": "recYILSfeQjKRKxCI",
                   "label": "The Loopy Whisk",
                   "url": "https://www.youtube.com/@katarina.cermelj",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Food Science Lessons"
                 },
                 {
+                  "id": "recWctThNKOOrX1O2",
                   "label": "Samin Nosrat Cooking",
                   "url": "https://www.youtube.com/playlist?list=PLYu2Ez1tbdnsrztLTaDMY3qlw8L3-aSSh",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Food Science Lessons"
                 },
                 {
+                  "id": "recAHiBkTlBsarqsi",
                   "label": "Food & Wine",
                   "url": "https://www.foodandwine.com/news/science-technology",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Food Science Lessons"
                 },
                 {
+                  "id": "rechRZOKfUzb7SaUd",
                   "label": "Science News Explores",
                   "url": "https://www.snexplores.org/?s=food+science",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Food Science Lessons"
                 }
               ]
             }

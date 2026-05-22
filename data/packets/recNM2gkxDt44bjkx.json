@@ -149,7 +149,56 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recNM2gkxDt44bjkx",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recdNfoZYNN4rRnog",
+                  "label": "Foundations (See Section 13: Science)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recPaTGUfLfXQsbIB",
+                  "label": "Alternate One Year Physical Science Lesson Plans",
+                  "url": "https://drive.google.com/file/d/1cu_jHi6qhmtfJw-pklMc2qeLfIo85_Q-/view?usp=drive_link",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recczZMpg2Cg5sjV7",
+                  "label": "Outdoor Work",
+                  "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recVtv0YA79s9AxYP",
+                  "label": "Seek app from iNaturalist",
+                  "url": "https://www.inaturalist.org/pages/seek_app",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recUNREZXcldm3abU",
+                  "label": "SkyView Lite for Android",
+                  "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                },
+                {
+                  "id": "recApOiDTSndSBlkR",
+                  "label": "SkyView Lite for iOS",
+                  "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
+                  "sort": "",
+                  "sourceTitle": "Science: Grade 7"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

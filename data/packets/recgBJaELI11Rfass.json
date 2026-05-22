@@ -132,9 +132,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recaduqCfWxNyqdos",
                   "label": "Our Work: Grades 7-8",
                   "url": "https://charlotte-mason-institute.my.canva.site/our-work-grade-7-8-2026-27-web",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Recitation: Grades 7-8"
                 }
               ]
             }

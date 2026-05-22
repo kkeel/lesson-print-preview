@@ -175,14 +175,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recYrcxhrMEfHUsE7",
                   "label": "Sloyd Introduction Video",
                   "url": "https://vimeo.com/340947199/7d7d2ddd99",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sloyd: Level 3"
                 },
                 {
+                  "id": "recM6U2EjF8W0iPur",
                   "label": "Appendix: Third Year Models",
                   "url": "https://drive.google.com/file/d/18TXMGtTF5JPF_p3KeYslBZCwEylK_FCU/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sloyd: Level 3"
                 }
               ]
             }

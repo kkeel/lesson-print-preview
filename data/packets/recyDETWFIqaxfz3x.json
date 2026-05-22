@@ -146,7 +146,77 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recyDETWFIqaxfz3x",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recjcHmvLmeK8TbN1",
+                  "label": "Foundations (See Section 6: Bible)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 3"
+                },
+                {
+                  "id": "rec9mUPvkhCq7iJxK",
+                  "label": "How can we find the original meaning of the text?",
+                  "url": "https://vimeo.com/1117839003/a24612f6fc",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 3"
+                },
+                {
+                  "id": "recYI7qNWWxMqZfoW",
+                  "label": "How can we find the original meaning of the text?",
+                  "url": "https://vimeo.com/1117839003/a24612f6fc",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 4-6"
+                },
+                {
+                  "id": "recAMsg6ExhBzMayr",
+                  "label": "How do we help students learn to interpret the Bible?",
+                  "url": "https://vimeo.com/1117839033/5afc54c412",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 3"
+                },
+                {
+                  "id": "recozJ9gKjUQgSvo2",
+                  "label": "How do we help students learn to interpret the Bible?",
+                  "url": "https://vimeo.com/1117839033/5afc54c412",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 4-6"
+                },
+                {
+                  "id": "recAhFhdUNOITcFmO",
+                  "label": "How does learning about the Ancient Near East world help us understand the Bible?",
+                  "url": "https://vimeo.com/1117828641/f5874cbcc6",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 3"
+                },
+                {
+                  "id": "rec5alQY5tdpWrSSF",
+                  "label": "How does learning about the Ancient Near East world help us understand the Bible?",
+                  "url": "https://vimeo.com/1117828641/f5874cbcc6",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 4-6"
+                },
+                {
+                  "id": "recXCqwx5evQQlz8V",
+                  "label": "What is the role of the Holy Spirit when reading the Bible?",
+                  "url": "https://vimeo.com/1117828713/6299ef50f6",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grade 3"
+                },
+                {
+                  "id": "rec0rX8y6a0jfJd5F",
+                  "label": "What is the role of the Holy Spirit when reading the Bible?",
+                  "url": "https://vimeo.com/1117828713/6299ef50f6",
+                  "sort": "",
+                  "sourceTitle": "Bible: Grades 4-6"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -736,7 +806,7 @@
               "sequence": 34,
               "lessonLabel": "Lesson 34",
               "title": "20m Old Testament: Grades 3-6 - Lesson 34",
-              "body": "Naomi and Ruth\n⍞ Materials: ESV Large Print Bible; notebook; Manners & Customs\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ INTRO\nThe book of Judges ends by repeating the sad statement one more time: \"In those days there was no king in Israel. Everyone did what was right in his own eyes.\" Today we will begin the book of Ruth, which begins with a verse saying the story took place while the judges were ruling. Elimelech moves his family away from the city of Bethlehem to Moab because there is a famine. Moabites were an enemy of the people of Israel, but in that land, Ruth, a Moabite woman, marries into Naomi's family and shows faithfulness. \n\nRuth is a short, four-chapter-long book that shines in the midst of the darkness, because the story of Ruth holds hope. While the book of Judges shows us God can still work through people who are disobedient, foolish, and selfish, the book of Ruth shows us what he can do through people who are faithful to him. \n\n➜ READ, NARRATE & DISCUSS\nRuth 1:1-18\n\"Whenever people were forced to leave the covenant Promised Land, it can be construed as either punishment or neglect of God. Since this story is in the judges period when the people were constantly unfaithful, we can infer that the famine was part of God's judgment. Drought and famine were included in the curses for violating the covenant (Deut. 28:23-24).\" (Bible Story Handbook) \n\n• How is her loyalty and faithfulness different from what most people were choosing in the book of Judges? \n\n➜ MAP WORK\n⍞ Map Resource: Manners & Customs\np.83 Locate the town of Bethlehem where Elimelech's family was from. Find Moab, where the family moved and Ruth was from. What body of water lies between the two locations? (Salt Sea or Dead Sea)\n\n➜ NOTEBOOK \nCreate a title page for the book of Ruth. Draw a picture or write a short summary of today's passage. Older students may write a longer summary or choose to copy down key verse(s) from the reading.",
+              "body": "Naomi and Ruth\n⍞ Materials: ESV Large Print Bible; notebook; Manners & Customs\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ INTRO\nThe book of Judges ends by repeating the sad statement one more time: \"In those days there was no king in Israel. Everyone did what was right in his own eyes.\" Today we will begin the book of Ruth, which begins with a verse saying the story took place while the judges were ruling. Elimelech moves his family away from the city of Bethlehem to Moab because there is a famine. Moabites were an enemy of the people of Israel, but in that land, Ruth, a Moabite woman, marries into Naomi's family and shows faithfulness. \n\nRuth is a short, four-chapter-long book that shines in the midst of the darkness, because the story of Ruth holds hope. While the book of Judges shows us God can still work through people who are disobedient, foolish, and selfish, the book of Ruth shows us what he can do through people who are faithful to him. \n\n➜ READ, NARRATE & DISCUSS\nRuth 1:1-18\n\"Whenever people were forced to leave the covenant Promised Land, it can be construed as either punishment or neglect of God. Since this story is in the judges period when the people were constantly unfaithful, we can infer that the famine was part of God's judgment. Drought and famine were included in the curses for violating the covenant (Deut. 28:23-24).\" (Bible Story Handbook) \n\n• How is her loyalty and faithfulness different from what most people chose in the book of Judges? \n\n➜ MAP WORK\n⍞ Map Resource: Manners & Customs\np.83 Locate the town of Bethlehem where Elimelech's family was from. Find Moab, where the family moved and Ruth was from. What body of water lies between the two locations? (Salt Sea or Dead Sea)\n\n➜ NOTEBOOK \nCreate a title page for the book of Ruth. Draw a picture or write a short summary of today's passage. Older students may write a longer summary or choose to copy down key verse(s) from the reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyDETWFIqaxfz3x&6J82c=rec2Zd4fqEExnNdWn",
               "lessonLinksUrl": "",
@@ -876,7 +946,7 @@
               "sequence": 43,
               "lessonLabel": "Lesson 43",
               "title": "20m Old Testament: Grades 3-6 - Lesson 43",
-              "body": "Philistines Capture the Ark\n⍞ Materials: ESV Large Print Bible; Manners & Customs\n\nNOTE: Two parts of the story can be added in as appropriate for your student(s):\n1\\. \"The story of the ark brings an end to the judges period of history, as God's ultimate judgment on the people was to abandon them to their oppressors. He did this by leaving the land and bringing judgement on the Philistines without raising up a judge.\"\n2\\. A note on the god Dagon and the ark: \"The first time Dagon fell in front of the ark, it was as though he was bowing before God.\" The second time, \"his head and arms fell off, which is an \"indication that he had been slain in battle. In the ancient world enemy casualties were sometimes counted by making a pile of the heads or hand of the slain. The destruction of Dagon was a very visible way for Yahweh to show the Philistines that he had not been defeated.\" (Bible Story Handbook)\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ INTRO\nThe ark of the covenant is captured by the Philistines in the chapters we will read from today. Let's look at some information about the ark of the covenant before reading the passage. \n\nManners & Customs \n1\\. Turn to p.301 and look at the image of the ark of the covenant based on the description from passages in the Bible. While nobody knows where the ark is located currently, artists have drawn or tried to show what it possibly looked like. Take a moment to look at the image of the priest as well. Do you remember what the name of the overlay he is wearing is called? (an ephod)\n2\\. Read p.331-332 \"Holy objects\" \nYounger students: p.331 \"In the Jewish\" - \"served the same purpose.\"\nOlder students, or as time and interest allow: p.331-333 \"In the Jewish\" - \"of the house.\" View the image of the priest on p.333. What do you notice about what he is holding, reading, and wearing?\n\n➜ READ & NARRATE\nI Samuel 4:1-11; 5:1-11\n\n• What does this story tell us about the power of God?",
+              "body": "Philistines Capture the Ark\n⍞ Materials: ESV Large Print Bible; Manners & Customs\n\nNOTE: Two parts of the story can be added in as appropriate for your student(s):\n1\\. \"The story of the ark brings an end to the judges period of history, as God's ultimate judgment on the people was to abandon them to their oppressors. He did this by leaving the land and bringing judgement on the Philistines without raising up a judge.\"\n2\\. A note on the god Dagon and the ark: \"The first time Dagon fell in front of the ark, it was as though he was bowing before God.\" The second time, \"his head and arms fell off, which is an \"indication that he had been slain in battle. In the ancient world enemy casualties were sometimes counted by making a pile of the heads or hand of the slain. The destruction of Dagon was a very visible way for Yahweh to show the Philistines that he had not been defeated.\" (Bible Story Handbook)\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ INTRO\nThe ark of the covenant is captured by the Philistines in the chapters we will read from today. Let's look at some information about the ark of the covenant before reading the passage. \n\nManners & Customs \n1\\. Turn to p.301 and look at the image of the ark of the covenant based on the description from passages in the Bible. While nobody knows where the ark is located currently, artists have drawn or tried to show what it possibly looked like. Take a moment to look at the image of the priest as well. Do you remember the name of the overlay he is wearingd? (an ephod)\n2\\. Read p.331-332 \"Holy objects\" \nYounger students: p.331 \"In the Jewish\" - \"served the same purpose.\"\nOlder students, or as time and interest allow: p.331-333 \"In the Jewish\" - \"of the house.\" View the image of the priest on p.333. What do you notice about what he is holding, reading, and wearing?\n\n➜ READ & NARRATE\nI Samuel 4:1-11; 5:1-11\n\n• What does this story tell us about the power of God?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyDETWFIqaxfz3x&6J82c=recAg1BOvA7pxAgCG",
               "lessonLinksUrl": "",
@@ -1053,7 +1123,7 @@
               "lessonLabel": "Lesson 54",
               "title": "20m Old Testament: Grades 3-6 - Lesson 54",
               "body": "David v. Goliath\n⍞ Materials: ESV Large Print Bible, notebook\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ INTRO\nIn the next two lessons, we will read the story of David going up against Goliath, a tough, intimidating opponent who is mocking or taunting (in today's sports world, we might call it \"trash-talking\") the Israelites. \"In the ancient world people believed that the gods fought in conjunction with the human armies they supported and that the armies with the stronger god would prevail...As Goliath defied Israel's armies, he was also defying their God—the two cannot be separated. David became indignant for the Lord's reputation, which is a demonstration that he had the quality that God was looking for in a king.\" (Bible Story Handbook) \n\n➜ READ & NARRATE\nI Samuel 17:1-27\n\n➜ NOTEBOOK \nDraw a picture or write a short summary of today's reading. Older students may write a longer summary or copy down one or more key verses from the passage.",
-              "teacherNotes": "★ TEACHER NOTE\nPreview the verses regarding David victoriously cutting off Goliath's head after defeating him (v.51-54). One option is to stop at verse 50, then skip to v.55.",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyDETWFIqaxfz3x&6J82c=recEStsphHNxlaneu",
               "lessonLinksUrl": "",
               "links": []
@@ -1067,8 +1137,8 @@
               "sequence": 55,
               "lessonLabel": "Lesson 55",
               "title": "20m Old Testament: Grades 3-6 - Lesson 55",
-              "body": "David Defeats Goliath\n⍞ Materials: ESV Large Print Bible; Manners & Customs; notebook (optional)\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ READ & NARRATE\nToday we will read the rest of the story of David and Goliath. In this story we see that God is faithful to what he promised. We also see characteristics of David that help show why he was chosen by God as the next king of Israel. \nI Samuel 17:28-53\n\n➜ READ & NARRATE\nManners & Customs \"The foot-soldier\" p.264-265 \"During the rise\" - \"the Assyrian army.\" \n\n➜ NOTEBOOK \nOptional: If you would like to, add more to your drawing you began last time in your notebook or add any additional information to your summary that you would like to.",
-              "teacherNotes": "",
+              "body": "David Defeats Goliath\n⍞ Materials: ESV Large Print Bible; Manners & Customs; notebook (optional)\n\n➜ RECAP\nWhat do you recall about what we read last time? \n\n➜ READ & NARRATE\nToday we will read the rest of the story of David and Goliath. In this story, we see that God is faithful to what he promised. We also see characteristics of David that help show why he was chosen by God as the next king of Israel. \nI Samuel 17:28-53\n\n➜ READ & NARRATE\nManners & Customs \"The foot-soldier\" p.264-265 \"During the rise\" - \"the Assyrian army.\" \n\n➜ NOTEBOOK \nOptional: If you would like to, add more to your drawing you began last time in your notebook, or add any additional information to your summary that you would like to.",
+              "teacherNotes": "★ TEACHER NOTE\nPreview the verses regarding David victoriously cutting off Goliath's head after defeating him (v.51-54). One option is to stop at verse 50, then skip to v.55.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recyDETWFIqaxfz3x&6J82c=recJohy19UQHRBEuH",
               "lessonLinksUrl": "",
               "links": []

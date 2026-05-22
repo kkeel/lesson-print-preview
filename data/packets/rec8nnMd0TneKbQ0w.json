@@ -156,9 +156,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "rec7HhVyflHXVXxpN",
                   "label": "Science News Explores",
                   "url": "https://www.snexplores.org/",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Introduction to Engineering Lessons"
                 }
               ]
             }

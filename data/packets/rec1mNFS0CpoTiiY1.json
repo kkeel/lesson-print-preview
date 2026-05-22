@@ -183,9 +183,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recV1i0PWkrYDMJut",
                   "label": "Foundations (See Sections 3 & 8: Narration & English)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 10"
                 }
               ]
             },
@@ -194,9 +196,11 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recExCAbjJPgtFKij",
                   "label": "Basics of Clarity & Grace Answer Key",
                   "url": "https://drive.google.com/file/d/1uN3jOarK6V-CeuTuBlQzQ0jA_JthQBim/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Composition: Grade 10"
                 }
               ]
             }

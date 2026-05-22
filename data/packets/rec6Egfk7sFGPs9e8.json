@@ -241,14 +241,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recXaox7xG4QiKxHp",
                   "label": "Optional Cloisonne Kits (see Note in Header page)",
                   "url": "https://www.cloisonnekit.com/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Handicrafts"
                 },
                 {
+                  "id": "recvisO4JysrWUQjC",
                   "label": "Foundations (See Section 5: Art Appreciation and Instruction)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Handicrafts"
                 }
               ]
             }

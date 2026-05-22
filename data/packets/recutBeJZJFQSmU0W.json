@@ -151,7 +151,42 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recutBeJZJFQSmU0W",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rec6JBw56TxT5Y4ZT",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 9"
+                },
+                {
+                  "id": "recV1i0PWkrYDMJut",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 10"
+                },
+                {
+                  "id": "recwdHbzcgSsqGTPX",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 11"
+                },
+                {
+                  "id": "recnKuw30S34iXUvK",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 12"
+                }
+              ]
+            }
+          ]
         }
       ]
     }

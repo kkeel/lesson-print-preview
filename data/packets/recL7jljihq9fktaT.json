@@ -324,34 +324,46 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recT0LDpJ0SXXDydt",
                   "label": "Outdoor Work",
                   "url": "https://drive.google.com/file/d/1j9j1ReUaKCnyPdwm7eHbIk6TywXCfbFX/view?usp=sharing",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Science: Grade 4"
                 },
                 {
+                  "id": "recep9LpdelioKx4b",
                   "label": "Microscope Coloring Book",
                   "url": "https://drive.google.com/file/d/132agvBQtQ2N4z3vDldwjYN9UVX6xbo8r/view?usp=sharing",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Science: Grade 4"
                 },
                 {
+                  "id": "recJXKB58nYRRlzRF",
                   "label": "Seek app from iNaturalist",
                   "url": "https://www.inaturalist.org/pages/seek_app",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Science: Grade 4"
                 },
                 {
+                  "id": "recw0T3SzOytDmlSf",
                   "label": "SkyView Lite for iOS",
                   "url": "https://apps.apple.com/tr/app/skyview-lite/id413936865",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Science: Grade 4"
                 },
                 {
+                  "id": "rec9JT8Uuhjyg9Q2r",
                   "label": "SkyView Lite for Android",
                   "url": "https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_US",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Science: Grade 4"
                 },
                 {
+                  "id": "recdNfoZYNN4rRnog",
                   "label": "Foundations (See Section 13: Science)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Science: Grade 4"
                 }
               ]
             },
@@ -360,14 +372,18 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "reczbCB5kGTVh5UFR",
                   "label": "Grade 4 Lab Book",
                   "url": "#",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Labs: Grade 4"
                 },
                 {
+                  "id": "recqvXVakOIAGA8kf",
                   "label": "Lab Notebook Examples",
                   "url": "https://drive.google.com/file/d/17X8--TTiUHxz4xxkDBrvuijB7mV46sJp/view?usp=sharing",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Labs: Grade 4"
                 }
               ]
             }

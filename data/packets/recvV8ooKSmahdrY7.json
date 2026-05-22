@@ -168,9 +168,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recwdHbzcgSsqGTPX",
                   "label": "Foundations (See Sections 3 & 8: Narration & English)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Language Study: Grade 11"
                 }
               ]
             }

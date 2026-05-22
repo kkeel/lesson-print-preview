@@ -187,14 +187,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recAIsdXBiIBDuvvH",
                   "label": "Sloyd Introduction Video",
                   "url": "https://vimeo.com/340947199/7d7d2ddd99",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Sloyd: Level 1"
                 },
                 {
+                  "id": "recdKXSmOQA5oiiSz",
                   "label": "Appendix: First Year Models",
                   "url": "https://drive.google.com/file/d/1KgMXjK5H8Gq2ZkMkPhkp8-mUYTmIBHmx/view?usp=drive_link",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Sloyd: Level 1"
                 }
               ]
             }

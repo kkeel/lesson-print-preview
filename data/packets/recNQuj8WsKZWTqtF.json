@@ -134,7 +134,35 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recNQuj8WsKZWTqtF",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rec83PcqCvh49yqa1",
+                  "label": "Transitioning from Oral to Written Narration",
+                  "url": "https://www.youtube.com/watch?v=X7uKcj-_XTo",
+                  "sort": "1",
+                  "sourceTitle": "Literature: Grade 3"
+                },
+                {
+                  "id": "recAaOfUwMqX45G3u",
+                  "label": "Community Read Alouds",
+                  "url": "#",
+                  "sort": "2",
+                  "sourceTitle": "Literature: Grade 3"
+                },
+                {
+                  "id": "rec2bGFGKgRMuARuy",
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 3"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

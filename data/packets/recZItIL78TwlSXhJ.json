@@ -155,9 +155,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "reciVucHaxVlfEjYe",
                   "label": "How to Set Up Your Art Book",
                   "url": "https://vimeo.com/705980904/428af279f9",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Lettering: Level 3"
                 }
               ]
             }

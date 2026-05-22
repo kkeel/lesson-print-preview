@@ -192,9 +192,24 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recPbMLmg8aZobdmW",
                   "label": "Appendix: Ideas for Students New to Shakespeare",
                   "url": "https://drive.google.com/file/d/17sgxRqinE_s4K-iiquCS_F0kI1AFV2Xe/view?usp=drive_link",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Plays: Grades 9-12"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rec2bGFGKgRMuARuy",
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Literature: Grade 11"
                 }
               ]
             }

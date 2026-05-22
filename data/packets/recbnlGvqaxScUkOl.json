@@ -194,9 +194,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recT2EoJtaFL98hfx",
                   "label": "Foundations (See Section 10: Math)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Mathematics: Grade 8"
                 }
               ]
             }

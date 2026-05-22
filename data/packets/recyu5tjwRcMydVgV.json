@@ -140,14 +140,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recJ6F2bMJtupwiiQ",
                   "label": "Student Lessons (No Answers)",
                   "url": "https://drive.google.com/file/d/1oo8C3RZrEvH5BqbVMiNF2beJQcTF-Chu/view",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Geography: Grade 7 (U.S.)"
                 },
                 {
+                  "id": "rec8iF3BVp7t8Cbfw",
                   "label": "Foundations (See Section 16: Geography)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Geography: Grade 7 (U.S.)"
                 }
               ]
             }

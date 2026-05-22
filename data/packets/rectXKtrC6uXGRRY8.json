@@ -123,7 +123,28 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rectXKtrC6uXGRRY8",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rectaHfuLhEDYA1Bc",
+                  "label": "Copywork & Dictation: Grade 4",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Language Study: Grade 4"
+                },
+                {
+                  "id": "recnGTplaVSbsTm5z",
+                  "label": "Foundations (See Sections 3 & 8: Narration & English)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "2",
+                  "sourceTitle": "Language Study: Grade 4"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

@@ -159,29 +159,39 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recR9S7KwZbJcRooS",
                   "label": "Child's Introduction to the Orchestra (Youtube)",
                   "url": "https://www.youtube.com/watch?v=C_ipa4JzNNc",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Music Appreciation"
                 },
                 {
+                  "id": "reciJ6lmNifXEiad5",
                   "label": "Child's Introduction to the Orchestra",
                   "url": "https://archive.org/details/AChildsIntroductionToTheOrchestra/01.+Antoinette+the+Clarinet.mp3",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Music Appreciation"
                 },
                 {
+                  "id": "recXMzaI6N0DpH4Vy",
                   "label": "How to Pronounce Prokofiev",
                   "url": "https://www.youtube.com/watch?v=iHh-aaPPHTE",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Music Appreciation"
                 },
                 {
+                  "id": "rec2HHb2ESK0h9SzN",
                   "label": "How to Pronounce Camille Saint-Saens",
                   "url": "https://www.youtube.com/watch?v=6nP9OD_9IDs",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Music Appreciation"
                 },
                 {
+                  "id": "recnZB0I8QsxQeu1b",
                   "label": "Music Appreciation Spotify Playlist",
                   "url": "https://open.spotify.com/playlist/3QbKMj78klSaE3d5LDmrIZ?si=sDtm0OwWQzmojI-TgQAszA",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Music Appreciation"
                 }
               ]
             }

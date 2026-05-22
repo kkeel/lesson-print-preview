@@ -160,14 +160,18 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recjhcLMysikrJrT9",
                   "label": "Community Read Alouds",
                   "url": "#",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Citizenship: Grade 4"
                 },
                 {
+                  "id": "rec4vC7RBhG08PRRF",
                   "label": "Foundations (See Section 7: Citizenship)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": ""
+                  "sort": "",
+                  "sourceTitle": "Citizenship: Grade 4"
                 }
               ]
             }

@@ -196,34 +196,46 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recLxJnCmlWTw3Pqc",
                   "label": "Seek app from iNaturalist",
                   "url": "https://www.inaturalist.org/pages/seek_app",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Botany Lessons"
                 },
                 {
+                  "id": "reciSUraikLlGXupe",
                   "label": "Nature Journal Connection",
                   "url": "https://johnmuirlaws.com/the-nature-journal-connection/",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Botany Lessons"
                 },
                 {
+                  "id": "rec6M6lfnMjtrPINc",
                   "label": "Alveary Bookshelf",
                   "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Botany Lessons"
                 },
                 {
+                  "id": "rec8sfKoxcV3oRckD",
                   "label": "Elementary Studies in Plant Life",
                   "url": "https://babel.hathitrust.org/cgi/pt?id=wu.89047122668&view=1up&seq=7",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Botany Lessons"
                 },
                 {
+                  "id": "recQnQJ7zVqWNDeJ8",
                   "label": "Elementary Studies in Plant Life Annotations",
                   "url": "https://docs.google.com/document/d/1GagV6vTXnyx6NLkC86hzbb5qnf57gR9FE7cUfuRpXEc/preview",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Botany Lessons"
                 },
                 {
+                  "id": "recoYStukVAVkF3wk",
                   "label": "AmScope key for slide IDs",
                   "url": "https://drive.google.com/file/d/1r2XdJquCSdb1grpx9m3upe61nmRDqJuA/view?usp=sharing",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Botany Lessons"
                 }
               ]
             }

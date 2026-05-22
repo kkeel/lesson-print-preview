@@ -160,34 +160,46 @@
               "type": "topic",
               "links": [
                 {
+                  "id": "recFDYCecXtmf4cd8",
                   "label": "Nature Journal Connection",
                   "url": "https://johnmuirlaws.com/the-nature-journal-connection/",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Microbiology Lessons"
                 },
                 {
+                  "id": "recLS9Yeo0axSciI8",
                   "label": "Alveary Bookshelf",
                   "url": "https://airtable.com/appGy6iYhEqm5cMsF/shre6jWU0AaAKFUVU",
-                  "sort": "2"
+                  "sort": "2",
+                  "sourceTitle": "Microbiology Lessons"
                 },
                 {
+                  "id": "recPQ525j44dlsfmU",
                   "label": "Illustrated Guide to Home Biology Experiments",
                   "url": "https://www.thehomescientist.com/manuals",
-                  "sort": "3"
+                  "sort": "3",
+                  "sourceTitle": "Microbiology Lessons"
                 },
                 {
+                  "id": "rechLwQTaA1ITqub6",
                   "label": "Seven Wonders of the Microbe World",
                   "url": "https://www.youtube.com/playlist?list=PL4473936D327B7C69",
-                  "sort": "4"
+                  "sort": "4",
+                  "sourceTitle": "Microbiology Lessons"
                 },
                 {
+                  "id": "rec7DpSmZl1vBBElF",
                   "label": "Microbiology from A to Z",
                   "url": "https://www.micropia.nl/en/discover/microbiology/",
-                  "sort": "5"
+                  "sort": "5",
+                  "sourceTitle": "Microbiology Lessons"
                 },
                 {
+                  "id": "recvPz7hy9WsXKbcf",
                   "label": "Microbiology Current Events",
                   "url": "https://www.micropia.nl/en/discover/news/",
-                  "sort": "6"
+                  "sort": "6",
+                  "sourceTitle": "Microbiology Lessons"
                 }
               ]
             }

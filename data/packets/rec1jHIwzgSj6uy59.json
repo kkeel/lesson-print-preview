@@ -130,7 +130,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec1jHIwzgSj6uy59",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recT2EoJtaFL98hfx",
+                  "label": "Foundations (See Section 10: Math)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "",
+                  "sourceTitle": "Mathematics: Grade 8"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

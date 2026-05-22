@@ -163,9 +163,11 @@
               "type": "course",
               "links": [
                 {
+                  "id": "rect4PlWl4QJLABIE",
                   "label": "Prepare Your Chalkboard",
                   "url": "https://vimeo.com/343309300/adbc371ba6?share=copy",
-                  "sort": "1"
+                  "sort": "1",
+                  "sourceTitle": "Lettering: Level 1"
                 }
               ]
             }
