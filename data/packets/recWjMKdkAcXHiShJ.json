@@ -430,11 +430,28 @@
               "sequence": 10,
               "lessonLabel": "Lesson 10",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 10",
-              "body": "Shelley",
+              "body": "Percy Bysshe Shelley\n\n➜ INTRO\nToday, we are turning our attention to the first of two second-generation Romantic poets: Percy Bysshe Shelley. While he was inspired by the work and though of Wordsworth and Coleridge, he has a style all his own. Look for some of the themes you've been learning about from the Romantic Period.\n\n➜ READ, NARRATE, & DISCUSS\n1\\. The first two poems are sonnets: what do you already know about sonnets? How does the form support the meaning of the poem? Both these poems have guides, if you would like to read about them further.\n∞ Link: Ozymandias\n∞ Link: England in 1819\n• What do you know about what was happening in English around the year 1819?\n\n2\\. In these second two poems, consider how Shelley is representing nature.\n∞ Link: Ode to the West Wind\n∞ Link: Mont Blanc\n• What poetic images stand out to you the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recc1is79ZRDOVXXC",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=1&week=5",
+              "links": [
+                {
+                  "text": "Ozymandias",
+                  "url": "https://www.poetryfoundation.org/poems/46565/ozymandias"
+                },
+                {
+                  "text": "England in 1819",
+                  "url": "https://www.poetryfoundation.org/poems/45118/england-in-1819"
+                },
+                {
+                  "text": "Ode to the West Wind",
+                  "url": "https://www.poetryfoundation.org/poems/45134/ode-to-the-west-wind"
+                },
+                {
+                  "text": "Mont Blanc",
+                  "url": "https://www.poetryfoundation.org/poems/45130/mont-blanc-lines-written-in-the-vale-of-chamouni"
+                }
+              ]
             },
             {
               "lessonId": "recJV9T3AQCo9jWzU",
@@ -445,7 +462,7 @@
               "sequence": 11,
               "lessonLabel": "Lesson 11",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 11",
-              "body": "Rabindranath Tagore, cont.\n⍞ Materials: The Crescent Moon\n\n➜ RECAP\nWhat was your favorite poem by Tagore you read last time? What did you like most about it?\n\n➜ READ & DISCUSS\nRead one time, discuss, and then reread the poems.\np.36-40\n• What images stand out to you the most in today's poems?",
+              "body": "Rabindranath Tagore, cont.\n⍞ Materials: The Crescent Moon\n\n➜ RECAP\nWhat was your favorite poem by Shelley that you read in the last lesson? What did you like most about it?\n\n➜ READ & DISCUSS\nRead one time, discuss, and then reread the poems.\np.36-40\n• What images stand out to you the most in today's poems?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recJV9T3AQCo9jWzU",
               "lessonLinksUrl": "",
@@ -460,11 +477,24 @@
               "sequence": 12,
               "lessonLabel": "Lesson 12",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 12",
-              "body": "",
+              "body": "John Keats\n\n➜ INTRO\nToday, we will meet the second of the second-generation Romantic poets: John Keats. As we did with Shelley, look for some of the themes you've been learning about from the Romantic Period. There is only one poem to read today, because your understanding and appreciation of it will increase with multiple readings. Read it through more than once on your own, and if you would like some interpretive help, there is a link to a Guide to the poem.\nThis poem, Ode on a Grecian Urn, is a famous example of ekphasis, or the poetic descriptions of a work of art. As you read, think about how the poetry engages with other arts, such as sculpture and music. What does it have to say about the limits of any one art form, or, put more bluntly, what can poetry do that sculpture can't, and vice versa?\n\n➜ READ, NARRATE, & DISCUSS\n∞ Link: Ode on a Grecian Urn\n• The final enigmatic two lines have been an interpretive puzzle since Keats wrote this poem - what do you think he means by \"Beauty is truth, truth beauty,—that is all / Ye know on earth, and all ye need to know.\" And why are they in quotation marks?\n\n➜ VIEW\nIt is helpful to have an image of what Keats is describing when reading the poem.\n∞ Link: Sketch of an Urn by Keats",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recyM7gZ1LBI4eEo5",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=1&week=6",
+              "links": [
+                {
+                  "text": "Ode on a Grecian Urn",
+                  "url": "https://www.poetryfoundation.org/poems/44477/ode-on-a-grecian-urn"
+                },
+                {
+                  "text": "Poem Guide: Ode on a Grecian Urn",
+                  "url": "https://www.poetryfoundation.org/articles/145240/john-keats-ode-on-a-grecian-urn"
+                },
+                {
+                  "text": "Sketch of an Urn by Keats",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Keats_urn.jpg"
+                }
+              ]
             },
             {
               "lessonId": "reczcuEjL1dbR95Wc",
@@ -490,11 +520,32 @@
               "sequence": 14,
               "lessonLabel": "Lesson 14",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 14",
-              "body": "Keats",
-              "teacherNotes": "",
+              "body": "John Keats, cont.\n\n➜ RECAP\nWhat was your favorite poem by Tagore you read last time? What did you like most about it?\n\n➜ READ, NARRATE, & DISCUSS\n1\\. ∞ Link: Ode to a Nightingale\n• What does the nightingale represent to Keats in this poem?\n\n2\\. The other two poems by Keats are both sonnets written in response to other works of art. The first he wrote after reading George Chapman's translation of Homer, and the second in response to the Elgin Marbles (statuaries from the Parthenon) when they first were displayed at the British Museum.\n\n∞ Link: On First Looking into Chapman's Homer\n∞ Link: On Seeing the Elgin Marbles\n\n➜ VIEW\nA slide show of the sculptures that Keats would have seen.\n∞ Link: The Elgin Marbles at the British Library",
+              "teacherNotes": "• EXTRA HELPING\nThe Elgin Marbles are controversial, and Greece has requested their repatriation. Read more about the controversy here.\n∞ Link: The Elgin Marbles",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=rec68STkqSEUd5Gfu",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=1&week=7",
+              "links": [
+                {
+                  "text": "Ode to a Nightingale",
+                  "url": "https://www.poetryfoundation.org/poems/44479/ode-to-a-nightingale"
+                },
+                {
+                  "text": "On First Looking into Chapman's Homer",
+                  "url": "https://www.poetryfoundation.org/poems/44481/on-first-looking-into-chapmans-homer"
+                },
+                {
+                  "text": "On Seeing the Elgin Marbles",
+                  "url": "https://www.poetryfoundation.org/poems/52305/on-seeing-the-elgin-marbles"
+                },
+                {
+                  "text": "The Elgin Marbles at the British Library",
+                  "url": "https://en.wikipedia.org/wiki/Elgin_Marbles#/media/File:Elgin-marbles-jan-2024.jpg"
+                },
+                {
+                  "text": "The Elgin Marbles",
+                  "url": "https://www.britannica.com/topic/Elgin-Marbles"
+                }
+              ]
             },
             {
               "lessonId": "recG1IyEpp2Zi2mla",
@@ -505,11 +556,16 @@
               "sequence": 15,
               "lessonLabel": "Lesson 15",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 15",
-              "body": "Keats",
+              "body": "Gertrudis Gómez de Avellaneda\n\n➜ INTRO\nToday we will learn about a Romantic poet from another part of the world - Gertrudis Gómez de Avellaneda - who was born in Cuba and lived in Spain.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recG1IyEpp2Zi2mla",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=1&week=8",
+              "links": [
+                {
+                  "text": "https://www.literaryladiesguide.com/author-biography/gertrudis-gomez-de-avellaneda/",
+                  "url": "https://www.literaryladiesguide.com/author-biography/gertrudis-gomez-de-avellaneda/"
+                }
+              ]
             },
             {
               "lessonId": "recoOP9VUHq3AligL",
