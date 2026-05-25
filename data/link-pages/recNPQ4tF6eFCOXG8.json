@@ -50,7 +50,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T22:48:40.049Z",
+  "updatedAt": "2026-05-25T22:58:04.024Z",
   "terms": [
     {
       "termNumber": 1,
@@ -797,6 +797,34 @@
                 {
                   "text": "The Story of Steamships",
                   "url": "https://www.youtube.com/watch?v=W79MLcQGBjI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "lessons": [
+            {
+              "lessonId": "reclIX5FkR5s19svC",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "sort": 302601,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 26",
+              "anchor": "term-3-week-26-lesson-26",
+              "links": [
+                {
+                  "text": "US Capitol",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/United_States_Capitol_west_front_edit2.jpg"
+                },
+                {
+                  "text": "Inside the Rotunda",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/USA-US_Capitol4.JPG/3840px-USA-US_Capitol4.JPG"
                 }
               ]
             }

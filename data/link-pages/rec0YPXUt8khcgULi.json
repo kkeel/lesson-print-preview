@@ -64,7 +64,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T22:48:40.050Z",
+  "updatedAt": "2026-05-25T22:58:04.025Z",
   "terms": [
     {
       "termNumber": 1,
@@ -438,6 +438,34 @@
       "termNumber": 3,
       "term": "Term 3",
       "weeks": [
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "lessons": [
+            {
+              "lessonId": "recjwTDwLdoG0mW8r",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "sort": 0,
+              "lessonLabel": "Lesson 26",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 26",
+              "anchor": "term-3-week-26-lesson-26",
+              "links": [
+                {
+                  "text": "US Capitol",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/United_States_Capitol_west_front_edit2.jpg"
+                },
+                {
+                  "text": "Inside the Rotunda",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/USA-US_Capitol4.JPG/3840px-USA-US_Capitol4.JPG"
+                }
+              ]
+            }
+          ]
+        },
         {
           "weekNumber": 29,
           "weekLabel": "Week 5",
