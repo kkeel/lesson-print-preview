@@ -64,7 +64,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T20:51:23.646Z",
+  "updatedAt": "2026-05-25T22:48:40.050Z",
   "terms": [
     {
       "termNumber": 1,
@@ -379,6 +379,54 @@
                 {
                   "text": "Map of US in 1854",
                   "url": "https://famous-trials.com/images/ftrials/DredScott/mapksneb.jpeg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "lessons": [
+            {
+              "lessonId": "recq88QVMYo3HiKb8",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "sort": 0,
+              "lessonLabel": "Lesson 22",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 22",
+              "anchor": "term-2-week-22-lesson-22",
+              "links": [
+                {
+                  "text": "Video: What was the Union?",
+                  "url": "https://www.youtube.com/watch?v=_8EfSqfuF_s&t=230s"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 23,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "recc1PhHrWnJjYPiN",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "sort": 0,
+              "lessonLabel": "Lesson 23",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 23",
+              "anchor": "term-2-week-23-lesson-23",
+              "links": [
+                {
+                  "text": "Important Battles of the Civil War",
+                  "url": "https://www.studentsofhistory.com/important-battles-of-the-civil-war"
                 }
               ]
             }

@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T20:51:23.650Z",
+  "updatedAt": "2026-05-25T22:48:40.055Z",
   "terms": [
     {
       "termNumber": 1,
@@ -707,9 +707,51 @@
           ]
         },
         {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "lessons": [
+            {
+              "lessonId": "rec9uJb042stzMdIN",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "sort": 202201,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 22",
+              "anchor": "term-2-week-22-lesson-22",
+              "links": [
+                {
+                  "text": "Video: What was the Union?",
+                  "url": "https://www.youtube.com/watch?v=_8EfSqfuF_s&t=230s"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "weekNumber": 23,
           "weekLabel": "Week 11",
           "lessons": [
+            {
+              "lessonId": "recqEGsMeIXkJmwuw",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "sort": 202301,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 23",
+              "anchor": "term-2-week-23-lesson-23",
+              "links": [
+                {
+                  "text": "Important Battles of the Civil War",
+                  "url": "https://www.studentsofhistory.com/important-battles-of-the-civil-war"
+                }
+              ]
+            },
             {
               "lessonId": "reclsjLNO3zBMGOTj",
               "termNumber": 2,
