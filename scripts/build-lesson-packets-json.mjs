@@ -58,6 +58,7 @@ const LESSON_FIELDS = [
   "Day 5",
   "How To Pages",
   "Lessons",
+  "ML Lesson Plan Set Connection",
   "Term 1 Exams",
   "Term 2 Exams",
   "Term 3 Exams",
@@ -1464,6 +1465,13 @@ function buildPacket(record, headerLookup) {
   const hasTopics = topicConnectionIds.length > 0;
   const isStandaloneCourse = !isTopicRow && !hasTopics;
 
+  const mlLessonPlanConnections = normalizeArray(
+    fields["ML Lesson Plan Set Connection"]
+  );
+  
+  const isModernLanguage =
+    mlLessonPlanConnections.length > 0;
+
   const matchedHeaderRecords = getMatchedHeaderRecords(fields, setId, headerLookup);
   const headerItems = buildHeaderItems(matchedHeaderRecords);
 
@@ -1481,7 +1489,9 @@ function buildPacket(record, headerLookup) {
     topicConnectionIds,
     courseConnectionNames,
     topicConnectionNames,
-    templateType: "standard",
+    templateType: isModernLanguage
+      ? "modern-language"
+      : "standard",
     bookListUrl,
     supplyListUrl,
     pdfLinkUrl,
