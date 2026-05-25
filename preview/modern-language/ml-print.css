@@ -1,0 +1,16 @@
+/* =========================================================
+   MODERN LANGUAGE PRINT
+   ========================================================= */
+
+@media print {
+
+  .ml-lesson-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .ml-lesson-set {
+    break-inside: auto;
+  }
+
+}
