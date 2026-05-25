@@ -50,7 +50,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T09:42:08.901Z",
+  "updatedAt": "2026-05-25T15:40:50.858Z",
   "terms": [
     {
       "termNumber": 1,
@@ -603,6 +603,54 @@
                 {
                   "text": "Picture of a workhouse",
                   "url": "https://irishworkhousecentre.ie/wp-content/uploads/2025/08/school-list1.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 18,
+          "weekLabel": "Week 6",
+          "lessons": [
+            {
+              "lessonId": "recF3mhVVPyENQq4M",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 18,
+              "sort": 201801,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 18",
+              "anchor": "term-2-week-18-lesson-18",
+              "links": [
+                {
+                  "text": "Video: How the Mexican-American War changed the US forever",
+                  "url": "https://www.britannica.com/event/Mexican-American-War/images-videos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 20,
+          "weekLabel": "Week 8",
+          "lessons": [
+            {
+              "lessonId": "rec5YFFPoS7N937zL",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 20,
+              "sort": 202001,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 20",
+              "anchor": "term-2-week-20-lesson-20",
+              "links": [
+                {
+                  "text": "Map of US in 1854",
+                  "url": "https://famous-trials.com/images/ftrials/DredScott/mapksneb.jpeg"
                 }
               ]
             }
