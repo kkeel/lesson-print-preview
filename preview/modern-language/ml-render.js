@@ -1,4 +1,39 @@
 function renderModernLanguageLessonsSection(section) {
+  if (section.weeklyLessons?.length) {
+    return renderMLWeeklyLessons(section);
+  }
+
+  return renderMLByLessonSet(section);
+}
+
+function renderMLWeeklyLessons(section) {
+  return `
+    <div class="page-flow ml-lessons-section section-break">
+      <section class="flow-block">
+        <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
+        <div class="term-banner">Modern Language Lessons</div>
+
+        <div class="ml-week-list">
+          ${(section.weeklyLessons || []).map(week => renderMLWeek(week)).join("")}
+        </div>
+      </section>
+    </div>
+  `;
+}
+
+function renderMLWeek(week) {
+  return `
+    <section class="ml-week-block">
+      <div class="ml-week-banner">${escapeHtml(week.weekLabel || `Week ${week.week || ""}`)}</div>
+
+      <div class="ml-week-lessons">
+        ${(week.lessons || []).map(lesson => renderMLLesson(lesson)).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function renderMLByLessonSet(section) {
   return `
     <div class="page-flow ml-lessons-section section-break">
       <section class="flow-block">
@@ -6,61 +41,62 @@ function renderModernLanguageLessonsSection(section) {
         <div class="term-banner">Modern Language Lessons</div>
 
         <div class="ml-lesson-sets">
-          ${(section.lessonSets || []).map(lessonSet => renderMLLessonSet(lessonSet)).join("")}
+          ${(section.lessonSets || []).map(lessonSet => `
+            <section class="ml-lesson-set">
+              <h2 class="ml-lesson-set-title">${escapeHtml(lessonSet.title || "")}</h2>
+              ${(lessonSet.lessons || []).map(lesson => renderMLLesson(lesson)).join("")}
+            </section>
+          `).join("")}
         </div>
       </section>
     </div>
   `;
 }
 
-function renderMLLessonSet(lessonSet) {
-  return `
-    <section class="ml-lesson-set">
-      <h2 class="ml-lesson-set-title">${escapeHtml(lessonSet.title || "")}</h2>
-
-      <div class="ml-lesson-list">
-        ${(lessonSet.lessons || []).map(lesson => renderMLLesson(lesson)).join("")}
-      </div>
-    </section>
-  `;
-}
-
 function renderMLLesson(lesson) {
   return `
     <article class="ml-lesson-card">
-      <div class="ml-lesson-toprow">
-        <div class="ml-lesson-week">${escapeHtml(lesson.weekLabel || "")}</div>
-        <div class="ml-lesson-type">${escapeHtml(lesson.lessonType || "")}</div>
+      <div class="ml-lesson-left">
+        <div class="ml-lesson-week">${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}</div>
       </div>
 
-      <h3 class="ml-lesson-title">${escapeHtml(lesson.title || "")}</h3>
+      <div class="ml-lesson-main">
+        <div class="ml-lesson-title-line">⬚ ${escapeHtml(lesson.title || "")}</div>
 
-      ${lesson.subtitle ? `
-        <div class="ml-lesson-subtitle">${escapeHtml(lesson.subtitle)}</div>
-      ` : ""}
+        ${lesson.subtitle ? `
+          <div class="ml-lesson-subtitle-line">${formatInlineRichText(lesson.subtitle)}</div>
+        ` : ""}
 
-      <div class="ml-lesson-meta">
-        ${renderMLMetaBlock("Materials", lesson.materials)}
-        ${renderMLMetaBlock("Prep", lesson.prep)}
-        ${renderMLMetaBlock("Phrase of the Week", lesson.phraseOfWeek)}
-        ${renderMLMetaBlock("Lesson", lesson.instructions)}
-        ${renderMLMetaBlock("Grammar", lesson.grammarInstructions)}
-        ${renderMLMetaBlock("Practice", lesson.practiceInstructions)}
-        ${renderMLMetaBlock("Cultural Connection", lesson.cctBlock)}
+        ${lesson.materials ? `
+          <div class="ml-lesson-materials-box">${formatInlineRichText(lesson.materials).replace(/\n/g, "<br>")}</div>
+        ` : ""}
+
+        <div class="ml-lesson-body">
+          ${renderMLTextBlock(lesson.prep)}
+          ${renderMLTextBlock(lesson.phraseOfWeek)}
+          ${renderMLTextBlock(lesson.instructions)}
+          ${renderMLTextBlock(lesson.grammarInstructions)}
+          ${renderMLTextBlock(lesson.practiceInstructions)}
+          ${renderMLTextBlock(lesson.cctBlock)}
+        </div>
       </div>
+
+      <aside class="ml-lesson-notes">
+        ${lesson.lessonType ? `<strong>${escapeHtml(lesson.lessonType)}</strong><br>` : ""}
+        ${lesson.lessonLabel ? `${escapeHtml(lesson.lessonLabel)}<br>` : ""}
+        ${lesson.weekLabel ? `${escapeHtml(lesson.weekLabel)}` : ""}
+      </aside>
     </article>
   `;
 }
 
-function renderMLMetaBlock(label, content) {
-  const text = String(content || "").trim();
-
+function renderMLTextBlock(value) {
+  const text = String(value || "").trim();
   if (!text) return "";
 
   return `
-    <section class="ml-meta-block">
-      <div class="ml-meta-label">${escapeHtml(label)}</div>
-      <div class="ml-meta-content">${formatInlineRichText(text).replace(/\n/g, "<br>")}</div>
-    </section>
+    <div class="ml-text-block">
+      ${formatInlineRichText(text).replace(/\n/g, "<br>")}
+    </div>
   `;
 }
