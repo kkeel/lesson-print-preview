@@ -26,22 +26,22 @@ const COURSE_LESSONS_TABLE_NAME = "Course Lessons";
 const COURSE_LESSONS_VIEW_NAME = "Grid view";
 
 const ML_LESSON_PLAN_SETS_TABLE_NAME = "ML Lesson Plan Sets";
-const ML_LESSON_PLAN_SETS_VIEW_NAME = "Grid view";
+const ML_LESSON_PLAN_SETS_VIEW_NAME = "";
 
 const ML_LESSONS_TABLE_NAME = "ML Lessons";
-const ML_LESSONS_VIEW_NAME = "Grid view";
+const ML_LESSONS_VIEW_NAME = "";
 
 const ML_VOCAB_TABLE_NAME = "ML Vocab/Examples";
-const ML_VOCAB_VIEW_NAME = "Grid view";
+const ML_VOCAB_VIEW_NAME = "";
 
 const ML_SENTENCES_TABLE_NAME = "ML Sentences";
-const ML_SENTENCES_VIEW_NAME = "Grid view";
+const ML_SENTENCES_VIEW_NAME = "";
 
 const ML_GRAMMAR_CHARTS_TABLE_NAME = "ML Grammar Charts";
-const ML_GRAMMAR_CHARTS_VIEW_NAME = "Grid view";
+const ML_GRAMMAR_CHARTS_VIEW_NAME = "";
 
 const ML_GRAMMAR_EXAMPLES_TABLE_NAME = "ML Grammar examples/practice";
-const ML_GRAMMAR_EXAMPLES_VIEW_NAME = "Grid view";
+const ML_GRAMMAR_EXAMPLES_VIEW_NAME = "";
 
 const LESSON_FIELDS = [
   "Lesson Set Name",
@@ -268,7 +268,9 @@ async function fetchAllRecords(tableName, viewName, fields) {
       `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(tableName)}`
     );
 
-    url.searchParams.set("view", viewName);
+    if (viewName) {
+      url.searchParams.set("view", viewName);
+    }
 
     for (const field of fields) {
       url.searchParams.append("fields[]", field);
