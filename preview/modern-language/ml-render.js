@@ -63,11 +63,15 @@ function renderMLLesson(lesson) {
   return `
     <article class="ml-lesson-card">
       <div class="ml-lesson-main">
-        <div class="ml-topic-label">
-          ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
+        <div class="ml-lesson-heading-row">
+          <div class="ml-lesson-title-line">
+            ⬚ ${escapeHtml(lesson.title || "")}
+          </div>
+        
+          <div class="ml-topic-label">
+            ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
+          </div>
         </div>
-
-        <div class="ml-lesson-title-line">⬚ ${escapeHtml(lesson.title || "")}</div>
 
         ${lesson.subtitle ? `
           <div class="ml-lesson-subtitle-line">${formatInlineRichText(lesson.subtitle)}</div>
