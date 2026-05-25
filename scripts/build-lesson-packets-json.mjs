@@ -1362,6 +1362,108 @@ function buildLessonsSection(packetRecord, headerLookup) {
   };
 }
 
+function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
+  const fields = packetRecord.fields || {};
+
+  const mlLessonPlanSetIds = normalizeArray(
+    fields["ML Lesson Plan Set Connection"]
+  );
+
+  if (!mlLessonPlanSetIds.length) return null;
+
+  const mlLessonPlanSetsById =
+    headerLookup.mlLessonPlanSetsById || new Map();
+
+  const mlLessonsById =
+    headerLookup.mlLessonsById || new Map();
+
+  const lessonSets = [];
+
+  for (const mlSetId of mlLessonPlanSetIds) {
+    const mlSetRecord = mlLessonPlanSetsById.get(mlSetId);
+
+    if (!mlSetRecord) continue;
+
+    const sf = mlSetRecord.fields || {};
+
+    const lessonIds = normalizeArray(
+      sf["Mod. Lang. Lessons"]
+    );
+
+    const lessons = [];
+
+    for (const lessonId of lessonIds) {
+      const lessonRecord = mlLessonsById.get(lessonId);
+
+      if (!lessonRecord) continue;
+
+      const lf = lessonRecord.fields || {};
+
+      lessons.push({
+        id: lessonRecord.id,
+        title: normalizeText(lf["Lesson Title"]),
+        subtitle: normalizeLineBreakText(lf["Subtitle"]),
+        lessonType: normalizeText(lf["Lesson Type"]),
+        term: normalizeText(lf["Term:"]),
+        week: normalizeText(lf["Week:"]),
+        weekLabel: normalizeText(lf["Week*Label"]),
+        sequence: Number(
+          normalizeText(lf["Lesson Sequence"]) || 0
+        ),
+        lessonLabel: normalizeText(lf["Lesson Lable"]),
+        materials: normalizeLineBreakText(lf["Materials"]),
+        prep: normalizeRichText(
+          lf["Prep (from Lesson Instructions)"]
+        ),
+        phraseOfWeek: normalizeRichText(
+          lf["Phrase of the Week"]
+        ),
+        instructions: normalizeRichText(
+          lf["Instructions (from Lesson Instructions)"]
+        ),
+        grammarInstructions: normalizeRichText(
+          lf["➜ GRAMMAR"]
+        ),
+        practiceInstructions: normalizeRichText(
+          lf["➜ PRACTICE"]
+        ),
+        cctBlock: normalizeRichText(
+          lf["CC&T Lesson Block"]
+        )
+      });
+    }
+
+    lessons.sort((a, b) => {
+      if (Number(a.term || 0) !== Number(b.term || 0)) {
+        return Number(a.term || 0) - Number(b.term || 0);
+      }
+
+      if (Number(a.week || 0) !== Number(b.week || 0)) {
+        return Number(a.week || 0) - Number(b.week || 0);
+      }
+
+      return a.sequence - b.sequence;
+    });
+
+    lessonSets.push({
+      id: mlSetRecord.id,
+      title: normalizeText(sf["Lesson Set Name"]),
+      language: normalizeText(sf["Language"]),
+      perWeek: normalizeText(sf["perWeek"]),
+      weeksTotal: normalizeText(sf["Weeks_Total"]),
+      lessons
+    });
+  }
+
+  if (!lessonSets.length) return null;
+
+  return {
+    type: "modern-language-lessons",
+    title: normalizeText(fields["Lesson Set Name"]),
+    lessonSets
+  };
+}
+
 function buildLessonLinks(fields) {
   const links = [];
 
@@ -1645,8 +1747,12 @@ function buildPacket(record, headerLookup) {
         ].filter(Boolean)
       },
       buildHowToSection(record, headerLookup),
-      buildLessonsSection(record, headerLookup),
-      buildExamsSection(record)
+
+        isModernLanguage
+          ? buildModernLanguageLessonsSection(record, headerLookup)
+          : buildLessonsSection(record, headerLookup),
+        
+        buildExamsSection(record)
     ].filter(Boolean)
   };
 }
