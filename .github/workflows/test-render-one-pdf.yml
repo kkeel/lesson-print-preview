@@ -47,7 +47,7 @@ jobs:
           RENDER_MODE: "all"
 
       - name: Upload test PDF artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: test-rendered-pdf
           path: generated-pdfs/*.pdf
