@@ -1,0 +1,53 @@
+name: Test Render One PDF
+
+on:
+  workflow_dispatch:
+    inputs:
+      packet_id:
+        description: "Lesson packet ID to render"
+        required: true
+        default: "recvfB9zd1vOwauPP"
+
+jobs:
+  test-render:
+    runs-on: ubuntu-latest
+
+    env:
+      TEST_PACKET_ID: ${{ github.event.inputs.packet_id }}
+      SKIP_AIRTABLE_UPDATE: "true"
+      RENDER_MODE: "all"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install chromium
+
+      - name: Build packet JSON
+        run: node scripts/build-lesson-packets-json.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+
+      - name: Render one test PDF
+        run: node scripts/render-pdfs.js
+        env:
+          TEST_PACKET_ID: ${{ github.event.inputs.packet_id }}
+          SKIP_AIRTABLE_UPDATE: "true"
+          RENDER_MODE: "all"
+
+      - name: Upload test PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-rendered-pdf
+          path: generated-pdfs/*.pdf
