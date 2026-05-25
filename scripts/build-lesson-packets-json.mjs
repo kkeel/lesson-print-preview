@@ -1375,8 +1375,20 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
     headerLookup.mlLessonPlanSetsById || new Map();
 
   const mlLessonsById =
-    headerLookup.mlLessonsById || new Map();
+  headerLookup.mlLessonsById || new Map();
 
+  const mlVocabById =
+    headerLookup.mlVocabById || new Map();
+  
+  const mlSentencesById =
+    headerLookup.mlSentencesById || new Map();
+  
+  const mlGrammarChartsById =
+    headerLookup.mlGrammarChartsById || new Map();
+  
+  const mlGrammarExamplesById =
+    headerLookup.mlGrammarExamplesById || new Map();
+  
   const lessonSets = [];
 
   for (const mlSetId of mlLessonPlanSetIds) {
@@ -1430,6 +1442,84 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
         cctBlock: normalizeRichText(
           lf["CC&T Lesson Block"]
         )
+
+        vocab: normalizeArray(lf["Vocab Connections"])
+          .map(id => mlVocabById.get(id))
+          .filter(Boolean)
+          .map(record => {
+            const vf = record.fields || {};
+        
+            return {
+              id: record.id,
+              text: normalizeText(vf["Vocab/Example"]),
+              translation: normalizeText(vf["English Translation"]),
+              language: normalizeText(vf["Language"]),
+              type: normalizeText(vf["Type"]),
+              sequence: Number(normalizeText(vf["Sequence"]) || 0),
+              label: normalizeText(vf["Vocab Label"]),
+              set: normalizeText(vf["Set"])
+            };
+          }),
+        
+        sentences: normalizeArray(lf["Sentence Connections"])
+          .map(id => mlSentencesById.get(id))
+          .filter(Boolean)
+          .map(record => {
+            const sf = record.fields || {};
+        
+            return {
+              id: record.id,
+              sentence: normalizeText(sf["Sentence"]),
+              translation: normalizeText(sf["English Translation"]),
+              label: normalizeText(sf["Label"]),
+              language: normalizeText(sf["Language"]),
+              sentenceType: normalizeText(sf["Sentence Type"]),
+              type: normalizeText(sf["Type"]),
+              sequence: Number(normalizeText(sf["Sequence"]) || 0),
+              set: normalizeText(sf["Set"])
+            };
+          }),
+        
+        grammarCharts: normalizeArray(lf["Grammar Charts Connection"])
+          .map(id => mlGrammarChartsById.get(id))
+          .filter(Boolean)
+          .map(record => {
+            const gf = record.fields || {};
+            const exampleIds = normalizeArray(gf["ML Grammar examples/practice"]);
+        
+            const rows = exampleIds
+              .map(id => mlGrammarExamplesById.get(id))
+              .filter(Boolean)
+              .map(exampleRecord => {
+                const ef = exampleRecord.fields || {};
+        
+                return {
+                  id: exampleRecord.id,
+                  rowKey: normalizeText(ef["Row Key"]),
+                  chartType: normalizeText(ef["Chart Type"]),
+                  sequence: Number(normalizeText(ef["Sequence"]) || 0),
+                  col1: normalizeText(ef["Col 1"]),
+                  col1Translation: normalizeText(ef["Col 1 Translation"]),
+                  col2: normalizeText(ef["Col 2"]),
+                  col2Translation: normalizeText(ef["Col 2 Translation"])
+                };
+              })
+              .sort((a, b) => a.sequence - b.sequence);
+        
+            return {
+              id: record.id,
+              name: normalizeText(gf["Chart Name"]),
+              language: normalizeText(gf["Language"]),
+              extraInstructions: normalizeRichText(gf["Extra Instructions Block"]),
+              conceptText: normalizeRichText(gf["Concept Text"]),
+              formattedInstructions: normalizeRichText(gf["Formatted Instructions"]),
+              chartType: normalizeText(gf["Chart Type"]),
+              set: normalizeText(gf["Set"]),
+              col1Header: normalizeText(gf["Col1 Header"]),
+              col2Header: normalizeText(gf["Col2 Header"]),
+              rows
+            };
+          }),
       });
     }
 
