@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reclhERbHEXrGEJTn",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recH6yJs8s683UEjb-sol-fa-musical-games.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reclhERbHEXrGEJTn",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -137,7 +137,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recH6yJs8s683UEjb",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reclhERbHEXrGEJTn",
           "groups": [
             {
               "title": "Sol-fa: Musical Games",

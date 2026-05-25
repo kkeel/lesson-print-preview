@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec9lmWtXdrU3jSHO",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rech2GA4NRK0pGrqO-technology.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec9lmWtXdrU3jSHO",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -120,7 +120,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rech2GA4NRK0pGrqO",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec9lmWtXdrU3jSHO",
           "groups": [
             {
               "title": "Technology",

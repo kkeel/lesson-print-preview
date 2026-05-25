@@ -22,7 +22,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recV8AeQe61SiWsp9",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recKeQ0OgMWtgkbhz-language-study-grade-2.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recV8AeQe61SiWsp9",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -205,7 +205,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recKeQ0OgMWtgkbhz",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recV8AeQe61SiWsp9",
           "groups": [
             {
               "title": "Language Study: Grade 2",

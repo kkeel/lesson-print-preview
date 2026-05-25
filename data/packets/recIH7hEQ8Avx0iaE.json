@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recXyDVhxTlc50p4e",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recIH7hEQ8Avx0iaE-story-of-geometry-part-2.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recXyDVhxTlc50p4e",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -121,7 +121,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recIH7hEQ8Avx0iaE",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recXyDVhxTlc50p4e",
           "groups": []
         }
       ]

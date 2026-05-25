@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recMuKJeBsa2PYeAA",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recu4bKUJ3T5ckZ0r-copywork-grade-8.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recMuKJeBsa2PYeAA",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "⍞ Materials: Grade 8 Student packet of copywork and dictation passages \n\n➜ WRITE\nSpend ten minutes daily working on copywork. You can use this week's suggested passage or choose your own of a similar length.",
@@ -115,7 +115,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recu4bKUJ3T5ckZ0r",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recMuKJeBsa2PYeAA",
           "groups": [
             {
               "title": "Related Course Quick Links",

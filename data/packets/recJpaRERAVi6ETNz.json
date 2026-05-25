@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recUHZPvHg9t7Ksvw",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recUHZPvHg9t7Ksvw",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recJpaRERAVi6ETNz-art-fast-track.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUHZPvHg9t7Ksvw",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -208,7 +208,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recJpaRERAVi6ETNz",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUHZPvHg9t7Ksvw",
           "groups": [
             {
               "title": "Art: Fast Track",

@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rechMtP1V1XgZ53pi",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=rechMtP1V1XgZ53pi",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/receqRUGPs0jU7mrA-sol-fa-level-4.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rechMtP1V1XgZ53pi",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -152,7 +152,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=receqRUGPs0jU7mrA",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rechMtP1V1XgZ53pi",
           "groups": [
             {
               "title": "Sol-fa: Level 4",

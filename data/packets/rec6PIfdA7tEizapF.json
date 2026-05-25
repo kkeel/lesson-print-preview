@@ -24,7 +24,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recjS0ICLL8DA93jm",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec6PIfdA7tEizapF-language-study-grade-3.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recjS0ICLL8DA93jm",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -214,7 +214,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec6PIfdA7tEizapF",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recjS0ICLL8DA93jm",
           "groups": [
             {
               "title": "Language Study: Grade 3",
@@ -1784,7 +1784,7 @@
               "sort": 303103,
               "lessonLabel": "",
               "title": "10m Written Narration: Grade 3 - Lesson 31",
-              "body": "➜ Complete one written narration this week.",
+              "body": "➜ WRITTEN NARRATION\nComplete one written narration this week.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reckE0OR0ILeJX6TV&6J82c=recZCK7B9goF6ghwd",
               "lessonLinksUrl": "",

@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T15:40:50.865Z",
+  "updatedAt": "2026-05-25T19:46:42.053Z",
   "terms": [
     {
       "termNumber": 1,
@@ -363,6 +363,24 @@
                 {
                   "text": "Image of Three Forks",
                   "url": "https://www.umt.edu/this-is-montana/columns/stories/the-three-forks-of-the-missouri-in-headwaters-state-park-larry-mayer-photo.jpg"
+                }
+              ]
+            },
+            {
+              "lessonId": "rechuxtr3zUT5hQ6V",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "sort": 100802,
+              "lessonLabel": "",
+              "title": "25m World History: Grades 4-6 - Lesson 8",
+              "anchor": "term-1-week-8-lesson-8",
+              "links": [
+                {
+                  "text": "Holy Trinity Church in Clapham, England",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Holy_Trinity_Church%2C_Clapham.jpg/960px-Holy_Trinity_Church%2C_Clapham.jpg"
                 }
               ]
             }

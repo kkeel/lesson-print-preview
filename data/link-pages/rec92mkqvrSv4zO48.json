@@ -11,7 +11,7 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "quickLinks": {
-    "extraHelpingsUrl": "",
+    "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recA4fE7pd3FiQRra",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recA4fE7pd3FiQRra",
     "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recA4fE7pd3FiQRra",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
@@ -47,7 +47,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T15:40:50.680Z",
+  "updatedAt": "2026-05-25T19:46:41.869Z",
   "terms": [
     {
       "termNumber": 1,

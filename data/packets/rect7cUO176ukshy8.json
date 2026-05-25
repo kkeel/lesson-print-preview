@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recZGVMJzb5q6czhu",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recZGVMJzb5q6czhu",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rect7cUO176ukshy8-reading-level-3.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZGVMJzb5q6czhu",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -172,7 +172,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rect7cUO176ukshy8",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZGVMJzb5q6czhu",
           "groups": [
             {
               "title": "Reading Level 3",

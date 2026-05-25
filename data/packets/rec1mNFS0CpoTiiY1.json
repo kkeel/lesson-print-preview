@@ -24,7 +24,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=reciJStPWnMeY7ku4",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec1mNFS0CpoTiiY1-language-study-grade-10.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reciJStPWnMeY7ku4",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -176,7 +176,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reciJStPWnMeY7ku4",
           "groups": [
             {
               "title": "Language Study: Grade 10",

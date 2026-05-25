@@ -28,7 +28,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recAooMLNY6bb34bg",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recAooMLNY6bb34bg",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recL7jljihq9fktaT-science-grade-4.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recAooMLNY6bb34bg",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -317,7 +317,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recL7jljihq9fktaT",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recAooMLNY6bb34bg",
           "groups": [
             {
               "title": "Science: Grade 4",

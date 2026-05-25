@@ -26,7 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recozdGjleqb46Dtm",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec3Q3Ht0niSCSFhw-language-study-grade-4.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recozdGjleqb46Dtm",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -211,7 +211,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec3Q3Ht0niSCSFhw",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recozdGjleqb46Dtm",
           "groups": [
             {
               "title": "Language Study: Grade 4",

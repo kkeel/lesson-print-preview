@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reczUjTDddwJhQsyZ",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recSKOprHtD8B6Y4D-sol-fa-level-1.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reczUjTDddwJhQsyZ",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -137,7 +137,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recSKOprHtD8B6Y4D",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reczUjTDddwJhQsyZ",
           "groups": [
             {
               "title": "Sol-fa: Level 1",

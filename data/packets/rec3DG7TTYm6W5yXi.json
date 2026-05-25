@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recYTG9MRdgiltlD5",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recYTG9MRdgiltlD5",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec3DG7TTYm6W5yXi-sloyd-level-1.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recYTG9MRdgiltlD5",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -180,7 +180,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec3DG7TTYm6W5yXi",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recYTG9MRdgiltlD5",
           "groups": [
             {
               "title": "Sloyd: Level 1",

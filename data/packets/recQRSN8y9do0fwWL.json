@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recqkaSHIvH4dpBWk",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recqkaSHIvH4dpBWk",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recQRSN8y9do0fwWL-natural-history-grade-7.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recqkaSHIvH4dpBWk",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -164,7 +164,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recQRSN8y9do0fwWL",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recqkaSHIvH4dpBWk",
           "groups": [
             {
               "title": "Related Course Quick Links",

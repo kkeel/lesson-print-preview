@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rech3p7fPR9avbcP7",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recFzc62gdI8njsrI-story-of-arithmetic-part-1.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rech3p7fPR9avbcP7",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -133,7 +133,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recFzc62gdI8njsrI",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rech3p7fPR9avbcP7",
           "groups": []
         }
       ]

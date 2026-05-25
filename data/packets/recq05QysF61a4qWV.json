@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec73ywJXe1HmioMu",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec73ywJXe1HmioMu",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recq05QysF61a4qWV-art-level-8.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec73ywJXe1HmioMu",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -224,7 +224,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recq05QysF61a4qWV",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec73ywJXe1HmioMu",
           "groups": [
             {
               "title": "Art: Level 8",

@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reckgBhOzzgwf3mBm",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec14GWBf7XrqDiYY-grammar-grade-4.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reckgBhOzzgwf3mBm",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -131,7 +131,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec14GWBf7XrqDiYY",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reckgBhOzzgwf3mBm",
           "groups": [
             {
               "title": "Grammar: Grade 4",

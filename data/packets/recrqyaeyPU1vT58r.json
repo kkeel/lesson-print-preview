@@ -22,7 +22,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec7VealMCWCQdr30",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recrqyaeyPU1vT58r-language-study-grade-1.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec7VealMCWCQdr30",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -209,7 +209,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recrqyaeyPU1vT58r",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec7VealMCWCQdr30",
           "groups": [
             {
               "title": "Language Study: Grade 1",

@@ -28,7 +28,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recq8k84Ven5CZX4C",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recq8k84Ven5CZX4C",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reczHSLxyHMpisZMp-science-grade-5.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recq8k84Ven5CZX4C",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -329,7 +329,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reczHSLxyHMpisZMp",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recq8k84Ven5CZX4C",
           "groups": [
             {
               "title": "Science: Grade 5",

@@ -28,7 +28,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=reczJaAXPgqwXQPsz",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recm8QafJuO9s9fKP-science-grade-6.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reczJaAXPgqwXQPsz",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -298,7 +298,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recm8QafJuO9s9fKP",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reczJaAXPgqwXQPsz",
           "groups": [
             {
               "title": "Science: Grade 6",

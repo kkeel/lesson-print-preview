@@ -772,6 +772,17 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "Lit./Mythology: Grades 7-8",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 2",
+          "content": "· Explain how Scrooge changes from the beginning to the end of A Christmas Carol. What helps him change the most? Use examples from the story."
+        }
+      ]
     }
   ]
 }

@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recW0CmfSrc3CfXE3",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recW0CmfSrc3CfXE3",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recG9ae1rAwq5ueET-reading-level-2.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recW0CmfSrc3CfXE3",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -172,7 +172,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recG9ae1rAwq5ueET",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recW0CmfSrc3CfXE3",
           "groups": [
             {
               "title": "Reading Level 2",
