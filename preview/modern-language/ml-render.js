@@ -11,7 +11,6 @@ function renderMLWeeklyLessons(section) {
     <div class="page-flow ml-lessons-section section-break">
       <section class="flow-block">
         <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
-        <div class="term-banner">Modern Language Lessons</div>
 
         <div class="ml-week-list">
           ${(section.weeklyLessons || []).map(week => renderMLWeek(week)).join("")}
@@ -46,7 +45,6 @@ function renderMLByLessonSet(section) {
     <div class="page-flow ml-lessons-section section-break">
       <section class="flow-block">
         <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
-        <div class="term-banner">Modern Language Lessons</div>
 
         <div class="ml-lesson-sets">
           ${(section.lessonSets || []).map(lessonSet => `
@@ -88,12 +86,6 @@ function renderMLLesson(lesson) {
           ${renderMLTextBlock(lesson.cctBlock)}
         </div>
       </div>
-
-      <aside class="ml-lesson-notes">
-        ${lesson.lessonType ? `<strong>${escapeHtml(lesson.lessonType)}</strong><br>` : ""}
-        ${lesson.lessonLabel ? `${escapeHtml(lesson.lessonLabel)}<br>` : ""}
-        ${lesson.weekLabel ? `${escapeHtml(lesson.weekLabel)}` : ""}
-      </aside>
     </article>
   `;
 }
