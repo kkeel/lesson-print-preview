@@ -1550,8 +1550,67 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
   return {
     type: "modern-language-lessons",
     title: normalizeText(fields["Lesson Set Name"]),
-    lessonSets
+    lessonSets,
+    weeklyLessons: buildModernLanguageWeeklyLessons(lessonSets)
   };
+}
+
+function buildModernLanguageWeeklyLessons(lessonSets = []) {
+  const weeksByKey = new Map();
+
+  lessonSets.forEach(lessonSet => {
+    (lessonSet.lessons || []).forEach(lesson => {
+      const weekKey = String(lesson.week || "").trim();
+
+      if (!weekKey) return;
+
+      if (!weeksByKey.has(weekKey)) {
+        weeksByKey.set(weekKey, {
+          week: lesson.week,
+          weekLabel: lesson.weekLabel,
+          term: lesson.term,
+          lessons: []
+        });
+      }
+
+      weeksByKey.get(weekKey).lessons.push({
+        ...lesson,
+        lessonSetId: lessonSet.id,
+        lessonSetTitle: lessonSet.title,
+        language: lessonSet.language
+      });
+    });
+  });
+
+  return Array.from(weeksByKey.values())
+    .sort((a, b) => Number(a.week || 0) - Number(b.week || 0))
+    .map(week => ({
+      ...week,
+      lessons: week.lessons.sort((a, b) => {
+        const aSet = String(a.lessonSetTitle || "");
+        const bSet = String(b.lessonSetTitle || "");
+
+        const typeOrder = [
+          "Picture Study",
+          "Grammar",
+          "Literature",
+          "Literature Extension",
+          "Songs, Rhymes & Conversations",
+          "Songs, Rhymes, & Conversations",
+          "Cultural"
+        ];
+
+        const getOrder = title => {
+          const index = typeOrder.findIndex(type =>
+            title.toLowerCase().includes(type.toLowerCase())
+          );
+
+          return index === -1 ? 999 : index;
+        };
+
+        return getOrder(aSet) - getOrder(bSet);
+      })
+    }));
 }
 
 function buildLessonLinks(fields) {
