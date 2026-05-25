@@ -1441,7 +1441,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
         ),
         cctBlock: normalizeRichText(
           lf["CC&T Lesson Block"]
-        )
+        ),
 
         vocab: normalizeArray(lf["Vocab Connections"])
           .map(id => mlVocabById.get(id))
