@@ -24,7 +24,15 @@ function renderMLWeeklyLessons(section) {
 function renderMLWeek(week) {
   return `
     <section class="ml-week-block">
-      <div class="ml-week-banner">${escapeHtml(week.weekLabel || `Week ${week.week || ""}`)}</div>
+      <div class="ml-week-banner">
+        <div class="ml-week-banner-term">
+          Term ${escapeHtml(week.term || "")}
+        </div>
+      
+        <div class="ml-week-banner-week">
+          ${escapeHtml(week.weekLabel || `Week ${week.week || ""}`)}
+        </div>
+      </div>
 
       <div class="ml-week-lessons">
         ${(week.lessons || []).map(lesson => renderMLLesson(lesson)).join("")}
@@ -56,8 +64,8 @@ function renderMLByLessonSet(section) {
 function renderMLLesson(lesson) {
   return `
     <article class="ml-lesson-card">
-      <div class="ml-lesson-left">
-        <div class="ml-lesson-week">${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}</div>
+      <div class="ml-topic-label">
+        ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
       </div>
 
       <div class="ml-lesson-main">
