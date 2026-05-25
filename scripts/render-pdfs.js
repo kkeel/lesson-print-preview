@@ -16,6 +16,9 @@ const INDEX_PATH = "./data/packet-index.json";
 
 const RENDER_MODE = process.env.RENDER_MODE || "changed";
 
+const TEST_PACKET_ID = process.env.TEST_PACKET_ID || "";
+const SKIP_AIRTABLE_UPDATE = process.env.SKIP_AIRTABLE_UPDATE === "true";
+
 const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
 const AIRTABLE_TABLE_NAME = "Lesson Plan Sets";
@@ -173,9 +176,19 @@ async function main() {
     throw new Error(`Missing ${INDEX_PATH}`);
   }
 
-  const records = JSON.parse(
+  let records = JSON.parse(
     fs.readFileSync(INDEX_PATH, "utf8")
   );
+  
+  if (TEST_PACKET_ID) {
+    records = records.filter(record => record.id === TEST_PACKET_ID);
+  
+    if (!records.length) {
+      throw new Error(`No packet found for TEST_PACKET_ID: ${TEST_PACKET_ID}`);
+    }
+  
+    console.log(`TEST MODE: rendering only ${TEST_PACKET_ID}`);
+  }
 
   const manifest = loadManifest();
 
@@ -213,7 +226,11 @@ async function main() {
 
       const renderedPdf = await renderPdf(record);
 
-      await updateAirtablePageCount(record.id, renderedPdf.pageCount);
+      if (SKIP_AIRTABLE_UPDATE) {
+        console.log(`Skipping Airtable update for test render: ${record.id}`);
+      } else {
+        await updateAirtablePageCount(record.id, renderedPdf.pageCount);
+      }
 
       manifest[record.id] = {
         hash: currentHash,
