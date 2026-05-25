@@ -1807,6 +1807,30 @@ async function main() {
     lessonDetailRecords.map(record => [record.id, record])
   );
 
+  headerLookup.mlLessonPlanSetsById = new Map(
+    mlLessonPlanSetRecords.map(record => [record.id, record])
+  );
+  
+  headerLookup.mlLessonsById = new Map(
+    mlLessonRecords.map(record => [record.id, record])
+  );
+  
+  headerLookup.mlVocabById = new Map(
+    mlVocabRecords.map(record => [record.id, record])
+  );
+  
+  headerLookup.mlSentencesById = new Map(
+    mlSentenceRecords.map(record => [record.id, record])
+  );
+  
+  headerLookup.mlGrammarChartsById = new Map(
+    mlGrammarChartRecords.map(record => [record.id, record])
+  );
+  
+  headerLookup.mlGrammarExamplesById = new Map(
+    mlGrammarExampleRecords.map(record => [record.id, record])
+  );
+
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
 
