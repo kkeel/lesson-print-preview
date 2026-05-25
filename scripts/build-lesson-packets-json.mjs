@@ -25,6 +25,24 @@ const LESSONS_VIEW_NAME = "Grid view";
 const COURSE_LESSONS_TABLE_NAME = "Course Lessons";
 const COURSE_LESSONS_VIEW_NAME = "Grid view";
 
+const ML_LESSON_PLAN_SETS_TABLE_NAME = "ML Lesson Plan Sets";
+const ML_LESSON_PLAN_SETS_VIEW_NAME = "Grid view";
+
+const ML_LESSONS_TABLE_NAME = "ML Lessons";
+const ML_LESSONS_VIEW_NAME = "Grid view";
+
+const ML_VOCAB_TABLE_NAME = "ML Vocab/Examples";
+const ML_VOCAB_VIEW_NAME = "Grid view";
+
+const ML_SENTENCES_TABLE_NAME = "ML Sentences";
+const ML_SENTENCES_VIEW_NAME = "Grid view";
+
+const ML_GRAMMAR_CHARTS_TABLE_NAME = "ML Grammar Charts";
+const ML_GRAMMAR_CHARTS_VIEW_NAME = "Grid view";
+
+const ML_GRAMMAR_EXAMPLES_TABLE_NAME = "ML Grammar examples/practice";
+const ML_GRAMMAR_EXAMPLES_VIEW_NAME = "Grid view";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -145,6 +163,92 @@ const COURSE_LESSON_FIELDS = [
   "Text 3",
   "Text 4",
   "Text 5"
+];
+
+const ML_LESSON_PLAN_SET_FIELDS = [
+  "Lesson Set Name",
+  "setID",
+  "Rotation_3",
+  "Language",
+  "perWeek",
+  "Weeks_Total",
+  "Mod. Lang. Lessons",
+  "Lesson Plan Sets"
+];
+
+const ML_LESSON_FIELDS = [
+  "Lesson Title",
+  "lessonID",
+  "Language (from Mod. Lang. Lesson Plan Sets)",
+  "Term:",
+  "Week:",
+  "Week*Label",
+  "Lesson Sequence",
+  "Lesson Lable",
+  "Lesson Instructions",
+  "Mod. Lang. Lesson Plan Sets",
+  "Subtitle",
+  "Materials",
+  "Prep (from Lesson Instructions)",
+  "Phrase of the Week",
+  "Instructions (from Lesson Instructions)",
+  "Vocab Connections",
+  "Grammar Charts Connection",
+  "➜ GRAMMAR",
+  "➜ PRACTICE",
+  "Sentence Connections",
+  "CC&T Lesson Connection",
+  "CC&T Lesson Block",
+  "Lesson Type"
+];
+
+const ML_VOCAB_FIELDS = [
+  "Vocab/Example",
+  "English Translation",
+  "Language",
+  "Type",
+  "Sequence",
+  "Vocab Label",
+  "Set",
+  "Lesson Plans"
+];
+
+const ML_SENTENCE_FIELDS = [
+  "Sentence",
+  "English Translation",
+  "Label",
+  "Language",
+  "Sentence Type",
+  "Type",
+  "Sequence",
+  "Set",
+  "Lesson Plans",
+  "Phrase -> Lessons"
+];
+
+const ML_GRAMMAR_CHART_FIELDS = [
+  "Chart Name",
+  "Language",
+  "Extra Instructions Block",
+  "Concept Text",
+  "Formatted Instructions",
+  "Chart Type",
+  "Set",
+  "Col1 Header",
+  "Col2 Header",
+  "Lesson Plan Connection",
+  "ML Grammar examples/practice"
+];
+
+const ML_GRAMMAR_EXAMPLE_FIELDS = [
+  "Row Key",
+  "Chart Type",
+  "Sequence",
+  "Col 1",
+  "Col 1 Translation",
+  "Col 2",
+  "Col 2 Translation",
+  "Chart Connections"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -1626,6 +1730,49 @@ async function main() {
     COURSE_LESSONS_VIEW_NAME,
     COURSE_LESSON_FIELDS
   );
+
+  const mlLessonPlanSetRecords = await fetchAllRecords(
+    ML_LESSON_PLAN_SETS_TABLE_NAME,
+    ML_LESSON_PLAN_SETS_VIEW_NAME,
+    ML_LESSON_PLAN_SET_FIELDS
+  );
+  
+  const mlLessonRecords = await fetchAllRecords(
+    ML_LESSONS_TABLE_NAME,
+    ML_LESSONS_VIEW_NAME,
+    ML_LESSON_FIELDS
+  );
+  
+  const mlVocabRecords = await fetchAllRecords(
+    ML_VOCAB_TABLE_NAME,
+    ML_VOCAB_VIEW_NAME,
+    ML_VOCAB_FIELDS
+  );
+  
+  const mlSentenceRecords = await fetchAllRecords(
+    ML_SENTENCES_TABLE_NAME,
+    ML_SENTENCES_VIEW_NAME,
+    ML_SENTENCE_FIELDS
+  );
+  
+  const mlGrammarChartRecords = await fetchAllRecords(
+    ML_GRAMMAR_CHARTS_TABLE_NAME,
+    ML_GRAMMAR_CHARTS_VIEW_NAME,
+    ML_GRAMMAR_CHART_FIELDS
+  );
+  
+  const mlGrammarExampleRecords = await fetchAllRecords(
+    ML_GRAMMAR_EXAMPLES_TABLE_NAME,
+    ML_GRAMMAR_EXAMPLES_VIEW_NAME,
+    ML_GRAMMAR_EXAMPLE_FIELDS
+  );
+
+  console.log(`Fetched ${mlLessonPlanSetRecords.length} ML lesson plan set(s).`);
+  console.log(`Fetched ${mlLessonRecords.length} ML lesson(s).`);
+  console.log(`Fetched ${mlVocabRecords.length} ML vocab record(s).`);
+  console.log(`Fetched ${mlSentenceRecords.length} ML sentence record(s).`);
+  console.log(`Fetched ${mlGrammarChartRecords.length} ML grammar chart(s).`);
+  console.log(`Fetched ${mlGrammarExampleRecords.length} ML grammar example row(s).`);
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
   const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
