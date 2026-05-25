@@ -79,7 +79,7 @@ function renderMLLesson(lesson) {
 
         <div class="ml-lesson-body">
           ${renderMLTextBlock(lesson.prep)}
-          ${renderMLTextBlock(lesson.phraseOfWeek)}
+          ${renderMLPhraseBlock(lesson.phraseOfWeek)}
           ${renderMLTextBlock(lesson.instructions)}
           ${renderMLTextBlock(lesson.grammarInstructions)}
           ${renderMLTextBlock(lesson.practiceInstructions)}
@@ -92,6 +92,21 @@ function renderMLLesson(lesson) {
 
 function renderMLTextBlock(value) {
   const text = String(value || "").trim();
+  if (!text) return "";
+
+  return `
+    <div class="ml-text-block">
+      ${formatInlineRichText(text).replace(/\n/g, "<br>")}
+    </div>
+  `;
+}
+
+function renderMLPhraseBlock(value) {
+  const text = String(value || "")
+    .replace(/\n\s+\n/g, "\n\n")
+    .replace(/\n\s+/g, "\n")
+    .trim();
+
   if (!text) return "";
 
   return `
