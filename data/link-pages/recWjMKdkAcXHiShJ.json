@@ -31,7 +31,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T20:14:30.554Z",
+  "updatedAt": "2026-05-25T20:23:25.218Z",
   "terms": [
     {
       "termNumber": 1,
@@ -440,6 +440,34 @@
                 {
                   "text": "Map of the Voyage of Aeneas and the Mythic Origins of Rome",
                   "url": "https://www.worldhistory.org/img/r/p/1500x1500/16056.png.webp?v=1777738271-1767690171"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "lessons": [
+            {
+              "lessonId": "recTZ5PelPiJBEgK6",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 51,
+              "sort": 0,
+              "lessonLabel": "Lesson 51",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 51",
+              "anchor": "term-3-week-26-lesson-51",
+              "links": [
+                {
+                  "text": "Paul Laurence Dunbar bio",
+                  "url": "https://www.poetryfoundation.org/poets/paul-laurence-dunbarhttps://www.poetryfoundation.org/poets/paul-laurence-dunbar"
+                },
+                {
+                  "text": "Fifth Massachusetts Colored Calvary",
+                  "url": "https://samepassage.org/the-5th-regiment-massachusetts-colored-volunteer-cavalry/"
                 }
               ]
             }
