@@ -1,0 +1,91 @@
+/* =========================================================
+   MODERN LANGUAGE PREVIEW
+   ========================================================= */
+
+.ml-lessons-section {
+  width: 100%;
+}
+
+.ml-lesson-set {
+  margin-bottom: 48px;
+}
+
+.ml-lesson-set-title {
+  margin: 0 0 20px;
+  font-size: 28px;
+  line-height: 1.2;
+  color: #596e5e;
+}
+
+.ml-lesson-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.ml-lesson-card {
+  border: 1.5px solid #d8ddd4;
+  border-radius: 18px;
+  padding: 24px;
+  background: #fff;
+  break-inside: avoid;
+}
+
+.ml-lesson-toprow {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 14px;
+}
+
+.ml-lesson-week {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #596e5e;
+}
+
+.ml-lesson-type {
+  font-size: 13px;
+  font-weight: 600;
+  color: #7a8672;
+}
+
+.ml-lesson-title {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.ml-lesson-subtitle {
+  margin-top: 8px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #4f4f4f;
+}
+
+.ml-lesson-meta {
+  margin-top: 18px;
+  display: grid;
+  gap: 14px;
+}
+
+.ml-meta-block {
+  border-top: 1px solid #e4e7e1;
+  padding-top: 12px;
+}
+
+.ml-meta-label {
+  margin-bottom: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #596e5e;
+}
+
+.ml-meta-content {
+  font-size: 15px;
+  line-height: 1.65;
+}
