@@ -45,6 +45,7 @@ jobs:
           TEST_PACKET_ID: ${{ github.event.inputs.packet_id }}
           SKIP_AIRTABLE_UPDATE: "true"
           RENDER_MODE: "all"
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
       - name: Upload test PDF artifact
         uses: actions/upload-artifact@v5
