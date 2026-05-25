@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "render-pdfs": "node scripts/render-pdfs.js",
+    "render-pdf-test": "TEST_PACKET_ID=recvfB9zd1vOwauPP SKIP_AIRTABLE_UPDATE=true node scripts/render-pdfs.js",
     "sync-pdf-urls": "node scripts/sync-pdf-urls.js"
   },
   "dependencies": {
