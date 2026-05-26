@@ -64,8 +64,6 @@
 }
 
 .ml-topic-label {
-  flex: 0 1 2.2in;
-
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -75,8 +73,28 @@
   text-align: right;
   line-height: 1.2;
   white-space: normal;
+}
 
+.ml-topic-meta {
+  flex: 0 1 2.2in;
   margin-right: 0.2in;
+  text-align: right;
+}
+
+.ml-topic-meta .ml-topic-label {
+  margin-right: 0;
+}
+
+.ml-week-meta {
+  margin-top: 3px;
+
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  color: #adb58f;
+  line-height: 1.2;
 }
 
 .ml-lesson-title-line {
