@@ -118,10 +118,6 @@
      margin-top: 8px;
    }
 
-  .ml-vocab-review-card .ml-resource-grid {
-    display: block;
-  }
-
   .ml-vocab-review-card .ml-resource-item {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   }
