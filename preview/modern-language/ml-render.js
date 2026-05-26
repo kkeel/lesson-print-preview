@@ -65,7 +65,7 @@ function renderMLLesson(lesson) {
       <div class="ml-lesson-main">
         <div class="ml-lesson-heading-row">
           <div class="ml-lesson-title-line">
-            ⬚ ${escapeHtml(lesson.title || "")}
+            ⬚ ${formatMLLessonTitle(lesson.title || "")}
           </div>
         
           <div class="ml-topic-label">
@@ -118,4 +118,15 @@ function renderMLPhraseBlock(value) {
       ${formatInlineRichText(text).replace(/\n/g, "<br>")}
     </div>
   `;
+}
+
+function formatMLLessonTitle(title) {
+  let text = escapeHtml(title || "");
+
+  text = text.replace(
+    /Songs,\s*Rhymes,\s*&\s*Conversations\s+–\s+Lesson/i,
+    'Songs, Rhymes & Conversations<br>– Lesson'
+  );
+
+  return text;
 }
