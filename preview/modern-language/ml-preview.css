@@ -6,6 +6,15 @@
   width: 8.5in;
 }
 
+.ml-lesson-set-title {
+  margin: 0 0 22px;
+  color: #596e5e;
+}
+
+.ml-lesson-set + .ml-lesson-set {
+  margin-top: 40px;
+}
+
 .ml-week-block {
   margin-bottom: 44px;
   break-inside: avoid;
