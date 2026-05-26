@@ -37,3 +37,13 @@ jobs:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           COURSE_PICKER_PAT: ${{ secrets.COURSE_PICKER_PAT }}
+
+      - name: Upload Modern Language PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: modern-language-pdfs
+          path: |
+            course-picker/pdf/modern-language/full-course/*.pdf
+            course-picker/pdf/modern-language/grades-1-3/*.pdf
+            course-picker/pdf/modern-language/topics/*.pdf
+            course-picker/pdf/modern-language/individual-lessons/*.pdf
