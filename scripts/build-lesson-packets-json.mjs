@@ -182,6 +182,7 @@ const ML_LESSON_PLAN_SET_FIELDS = [
 const ML_LESSON_FIELDS = [
   "Lesson Title",
   "lessonID",
+  "Edit Lesson",
   "Language (from Mod. Lang. Lesson Plan Sets)",
   "Term:",
   "Week:",
