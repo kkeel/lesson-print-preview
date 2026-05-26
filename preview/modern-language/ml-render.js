@@ -82,7 +82,11 @@ function renderMLTopicTerms(lessonSet) {
   return [...termsByNumber.entries()]
     .sort((a, b) => Number(a[0] || 0) - Number(b[0] || 0))
     .map(([term, lessons]) => `
-      <section class="ml-topic-term-block" id="ml-topic-term-${escapeHtml(term)}-${slugifyPreviewAnchor(lessonSet.title || "")}">
+      <section
+        class="ml-topic-term-block"
+        id="ml-topic-term-${escapeHtml(term)}-${slugifyPreviewAnchor(lessonSet.title || "")}"
+        data-ml-topic-term="${escapeHtml(term)}"
+      >
         <div class="ml-topic-term-banner" id="ml-term-${escapeHtml(term)}">
           Term ${escapeHtml(term)}
         </div>
