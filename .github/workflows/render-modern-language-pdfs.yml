@@ -1,0 +1,39 @@
+name: Render Modern Language PDFs
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "30 11 * * *"
+
+jobs:
+  render-modern-language-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout lesson-print-preview
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright
+        run: npx playwright install chromium
+
+      - name: Build lesson packet JSON
+        run: node scripts/build-lesson-packets-json.mjs
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+
+      - name: Render Modern Language PDFs
+        run: node scripts/render-modern-language-pdfs.js
+        env:
+          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+          COURSE_PICKER_PAT: ${{ secrets.COURSE_PICKER_PAT }}
