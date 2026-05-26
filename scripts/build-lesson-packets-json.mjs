@@ -1441,6 +1441,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
 
       lessons.push({
         id: lessonRecord.id,
+        editUrl: normalizeText(lf["Edit Lesson"]),
         title: normalizeText(lf["Lesson Title"]),
         subtitle: normalizeLineBreakText(lf["Subtitle"]),
         lessonType: normalizeText(lf["Lesson Type"]),
