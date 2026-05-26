@@ -90,6 +90,7 @@ function renderMLLesson(lesson) {
           ${renderMLTextBlock(lesson.cctBlock)}
           ${renderMLVocabGrid(lesson.vocab)}
           ${renderMLSentenceGrid(lesson.sentences)}
+          ${renderMLGrammarCharts(lesson.grammarCharts)}
         </div>
       </div>
     </article>
@@ -165,6 +166,62 @@ function renderMLSentenceGrid(sentences = []) {
     primaryKey: "sentence",
     translationKey: "translation"
   });
+}
+
+function renderMLGrammarCharts(charts = []) {
+  if (!Array.isArray(charts) || !charts.length) return "";
+
+  return charts.map(chart => {
+    const title = buildMLGrammarTitle(chart);
+
+    return `
+      <section class="ml-grammar-block">
+        <div class="ml-grammar-title">
+          ${escapeHtml(title)}
+        </div>
+
+        ${chart.instructions ? `
+          <div class="ml-grammar-instructions">
+            ${formatInlineRichText(chart.instructions).replace(/\n/g, "<br>")}
+          </div>
+        ` : ""}
+
+        ${(chart.examples || []).length ? `
+          <div class="ml-grammar-grid">
+            ${(chart.examples || []).map(example => `
+              <div class="ml-grammar-item">
+                <div class="ml-grammar-primary">
+                  ${escapeHtml(example.text || "")}
+                </div>
+
+                ${example.translation ? `
+                  <div class="ml-grammar-translation">
+                    ${escapeHtml(example.translation)}
+                  </div>
+                ` : ""}
+              </div>
+            `).join("")}
+          </div>
+        ` : ""}
+      </section>
+    `;
+  }).join("");
+}
+
+function buildMLGrammarTitle(chart = {}) {
+  const parts = [];
+
+  if (chart.type) {
+    parts.push(chart.type);
+  } else {
+    parts.push("Grammar");
+  }
+
+  if (chart.set) {
+    parts.push(chart.set);
+  }
+
+  return parts.join(" - ");
 }
 
 function renderMLResourceGrid({ title, items, blockClass, primaryKey, translationKey }) {
