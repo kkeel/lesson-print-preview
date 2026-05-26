@@ -52,24 +52,54 @@ function renderMLByLessonSet(section) {
   return `
     <div class="page-flow ml-lessons-section section-break">
       <section class="flow-block">
-        <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
-
         <div class="ml-lesson-sets">
           ${(section.lessonSets || []).map(lessonSet => `
             <section class="ml-lesson-set" id="ml-topic-${slugifyPreviewAnchor(lessonSet.title || "")}">
-              <h2 class="ml-lesson-set-title">${escapeHtml(lessonSet.title || "")}</h2>
-              ${(lessonSet.lessons || []).map(lesson => renderMLLesson({
-                ...lesson,
-                lessonSetId: lessonSet.id,
-                lessonSetTitle: lessonSet.title,
-                language: lessonSet.language
-              })).join("")}
+              <h1 class="lesson-page-title ml-topic-page-title">${escapeHtml(lessonSet.title || "")}</h1>
+
+              ${renderMLTopicTerms(lessonSet)}
             </section>
           `).join("")}
         </div>
       </section>
     </div>
   `;
+}
+
+function renderMLTopicTerms(lessonSet) {
+  const termsByNumber = new Map();
+
+  (lessonSet.lessons || []).forEach(lesson => {
+    const term = String(lesson.term || "").trim() || "0";
+
+    if (!termsByNumber.has(term)) {
+      termsByNumber.set(term, []);
+    }
+
+    termsByNumber.get(term).push(lesson);
+  });
+
+  return [...termsByNumber.entries()]
+    .sort((a, b) => Number(a[0] || 0) - Number(b[0] || 0))
+    .map(([term, lessons]) => `
+      <section class="ml-topic-term-block" id="ml-topic-term-${escapeHtml(term)}-${slugifyPreviewAnchor(lessonSet.title || "")}">
+        <div class="ml-topic-term-banner" id="ml-term-${escapeHtml(term)}">
+          Term ${escapeHtml(term)}
+        </div>
+
+        <div class="ml-topic-term-lessons">
+          ${lessons
+            .sort((a, b) => Number(a.week || 0) - Number(b.week || 0) || Number(a.sequence || 0) - Number(b.sequence || 0))
+            .map(lesson => renderMLLesson({
+              ...lesson,
+              lessonSetId: lessonSet.id,
+              lessonSetTitle: lessonSet.title,
+              language: lessonSet.language
+            }))
+            .join("")}
+        </div>
+      </section>
+    `).join("");
 }
 
 function renderMLLesson(lesson) {
