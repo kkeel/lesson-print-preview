@@ -4,13 +4,89 @@
 
 @media print {
 
-  .ml-lesson-card {
-    break-inside: avoid;
-    page-break-inside: avoid;
+  .ml-lessons-section {
+    width: 100%;
   }
 
-  .ml-lesson-set {
+  .ml-week-block {
+    margin-bottom: 28px;
     break-inside: auto;
+    page-break-inside: auto;
   }
 
+  .ml-week-banner {
+    margin-bottom: 16px;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .ml-week-lessons,
+  .ml-topic-term-lessons {
+    gap: 20px;
+  }
+
+  .ml-lesson-card {
+    break-inside: auto;
+    page-break-inside: auto;
+    padding-bottom: 18px;
+  }
+
+  .ml-lesson-heading-row,
+  .ml-lesson-subtitle-line,
+  .ml-lesson-materials-box {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .ml-lesson-title-line {
+    font-size: 18px;
+    line-height: 1.2;
+  }
+
+  .ml-lesson-subtitle-line {
+    font-size: 14px;
+    line-height: 1.25;
+    margin-bottom: 10px;
+  }
+
+  .ml-lesson-body {
+    font-size: 13.5px;
+    line-height: 1.38;
+    gap: 11px;
+  }
+
+  .ml-text-block {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .ml-resource-block,
+  .ml-grammar-block {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .ml-resource-title {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .ml-resource-primary,
+  .ml-resource-translation,
+  .ml-grammar-primary,
+  .ml-grammar-translation {
+    font-size: 12.5px;
+    line-height: 1.25;
+  }
+
+  .ml-grammar-heading {
+    font-size: 13.5px;
+    line-height: 1.25;
+  }
+
+  .ml-grammar-instructions,
+  .ml-grammar-table {
+    font-size: 12.5px;
+    line-height: 1.3;
+  }
 }
