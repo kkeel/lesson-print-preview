@@ -8,6 +8,7 @@ const BASE_URL =
   "https://kkeel.github.io/lesson-print-preview/preview/print.html?id=";
 
 const OUTPUT_DIR = "./generated-pdfs";
+const ML_OUTPUT_DIR = "./generated-modern-language-pdfs";
 
 const MANIFEST_PATH =
   "./course-picker/pdf/lesson-plans/pdf-manifest.json";
@@ -17,6 +18,9 @@ const INDEX_PATH = "./data/packet-index.json";
 const RENDER_MODE = process.env.RENDER_MODE || "changed";
 
 const TEST_PACKET_ID = process.env.TEST_PACKET_ID || "";
+const TEST_VARIANT = process.env.TEST_VARIANT || "";
+const TEST_TOPIC = process.env.TEST_TOPIC || "";
+const TEST_LESSON_ID = process.env.TEST_LESSON_ID || "";
 const SKIP_AIRTABLE_UPDATE = process.env.SKIP_AIRTABLE_UPDATE === "true";
 
 const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
@@ -27,6 +31,10 @@ const AIRTABLE_RENDER_STATUS_FIELD = "PDF Render Status";
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+if (!fs.existsSync(ML_OUTPUT_DIR)) {
+  fs.mkdirSync(ML_OUTPUT_DIR, { recursive: true });
 }
 
 function slugify(text) {
@@ -125,7 +133,24 @@ async function renderPdf(record) {
 
   const page = await browser.newPage();
 
-  const url = `${BASE_URL}${record.id}`;
+  const params = new URLSearchParams({
+    id: record.id
+  });
+
+  if (TEST_VARIANT) {
+    params.set("variant", TEST_VARIANT);
+  }
+
+  if (TEST_TOPIC) {
+    params.set("mlView", "topic");
+    params.set("topic", TEST_TOPIC);
+  }
+
+  if (TEST_LESSON_ID) {
+    params.set("lesson", TEST_LESSON_ID);
+  }
+
+  const url = `https://kkeel.github.io/lesson-print-preview/preview/print.html?${params.toString()}`;
 
   console.log(`Rendering: ${url}`);
 
@@ -141,9 +166,25 @@ async function renderPdf(record) {
     record.lessonSetName || record.title || record.id
   );
 
-  const filename = `${record.id}-${slug}.pdf`;
+  let filename = `${record.id}-${slug}.pdf`;
+  let outputDir = OUTPUT_DIR;
 
-  const outputPath = path.join(OUTPUT_DIR, filename);
+  if (TEST_VARIANT === "g1-3") {
+    filename = `${record.id}-g1-3.pdf`;
+    outputDir = ML_OUTPUT_DIR;
+  }
+
+  if (TEST_TOPIC) {
+    filename = `${record.id}-${slugify(TEST_TOPIC)}.pdf`;
+    outputDir = ML_OUTPUT_DIR;
+  }
+
+  if (TEST_LESSON_ID) {
+    filename = `${TEST_LESSON_ID}.pdf`;
+    outputDir = ML_OUTPUT_DIR;
+  }
+
+  const outputPath = path.join(outputDir, filename);
 
   await page.pdf({
     path: outputPath,
