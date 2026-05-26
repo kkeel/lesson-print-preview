@@ -90,9 +90,17 @@
 }
 
 .ml-lesson-card {
+  position: relative;
   padding-bottom: 24px;
   border-bottom: 1px solid #adb58f;
   break-inside: avoid;
+}
+
+.ml-lesson-margin-edit {
+  position: absolute;
+  left: -0.48in;
+  top: 0.02in;
+  z-index: 5;
 }
 
 .ml-lesson-main {
