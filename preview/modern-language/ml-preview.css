@@ -225,3 +225,63 @@
 .ml-sentence-block .ml-resource-title {
   background: #adb58f;
 }
+
+/* =========================================================
+   MODERN LANGUAGE GRAMMAR
+   ========================================================= */
+
+.ml-grammar-block {
+  margin-top: 10px;
+  border: 0.5px solid #d7ddd4;
+  break-inside: avoid;
+}
+
+.ml-grammar-title {
+  background: #596e5e;
+  color: #fff;
+
+  padding: 5px 8px;
+
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ml-grammar-instructions {
+  padding: 10px 12px 2px;
+
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.ml-grammar-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+
+  border-top: 0.5px solid #d7ddd4;
+}
+
+.ml-grammar-item {
+  border-right: 0.5px solid #d7ddd4;
+  border-bottom: 0.5px solid #d7ddd4;
+}
+
+.ml-grammar-item:nth-child(2n) {
+  border-right: 0;
+}
+
+.ml-grammar-primary {
+  padding: 8px 10px 4px;
+
+  background: #f4f6fa;
+
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.ml-grammar-translation {
+  padding: 0 10px 8px;
+
+  font-style: italic;
+  line-height: 1.3;
+}
