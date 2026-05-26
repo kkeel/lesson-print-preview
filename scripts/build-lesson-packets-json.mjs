@@ -43,6 +43,9 @@ const ML_GRAMMAR_CHARTS_VIEW_NAME = "";
 const ML_GRAMMAR_EXAMPLES_TABLE_NAME = "ML Grammar examples/practice";
 const ML_GRAMMAR_EXAMPLES_VIEW_NAME = "";
 
+const ML_INSTRUCTIONS_TABLE_NAME = "ML Instructions";
+const ML_INSTRUCTIONS_VIEW_NAME = "";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -249,6 +252,11 @@ const ML_GRAMMAR_EXAMPLE_FIELDS = [
   "Col 2",
   "Col 2 Translation",
   "Chart Connections"
+];
+
+const ML_INSTRUCTION_FIELDS = [
+  "Instructions",
+  "CC&T Lesson Block"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -1362,6 +1370,22 @@ function buildLessonsSection(packetRecord, headerLookup) {
   };
 }
 
+function buildMLCctBlock(lessonFields, mlInstructionsById) {
+  const instructionIds = normalizeArray(lessonFields["CC&T Lesson Connection"]);
+
+  const linkedInstructionBlocks = instructionIds
+    .map(id => mlInstructionsById.get(id))
+    .filter(Boolean)
+    .map(record => normalizeRichText(record.fields?.["Instructions"]))
+    .filter(Boolean);
+
+  if (linkedInstructionBlocks.length) {
+    return linkedInstructionBlocks.join("\n\n");
+  }
+
+  return normalizeRichText(lessonFields["CC&T Lesson Block"]);
+}
+
 function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
   const fields = packetRecord.fields || {};
 
@@ -1388,6 +1412,9 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
   
   const mlGrammarExamplesById =
     headerLookup.mlGrammarExamplesById || new Map();
+
+  const mlInstructionsById =
+    headerLookup.mlInstructionsById || new Map();
   
   const lessonSets = [];
 
@@ -1439,9 +1466,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
         practiceInstructions: normalizeRichText(
           lf["➜ PRACTICE"]
         ),
-        cctBlock: normalizeRichText(
-          lf["CC&T Lesson Block"]
-        ),
+        cctBlock: buildMLCctBlock(lf, mlInstructionsById),
 
         vocab: normalizeArray(lf["Vocab Connections"])
           .map(id => mlVocabById.get(id))
@@ -2024,12 +2049,19 @@ async function main() {
     ML_GRAMMAR_EXAMPLE_FIELDS
   );
 
+  const mlInstructionRecords = await fetchAllRecords(
+    ML_INSTRUCTIONS_TABLE_NAME,
+    ML_INSTRUCTIONS_VIEW_NAME,
+    ML_INSTRUCTION_FIELDS
+  );
+
   console.log(`Fetched ${mlLessonPlanSetRecords.length} ML lesson plan set(s).`);
   console.log(`Fetched ${mlLessonRecords.length} ML lesson(s).`);
   console.log(`Fetched ${mlVocabRecords.length} ML vocab record(s).`);
   console.log(`Fetched ${mlSentenceRecords.length} ML sentence record(s).`);
   console.log(`Fetched ${mlGrammarChartRecords.length} ML grammar chart(s).`);
   console.log(`Fetched ${mlGrammarExampleRecords.length} ML grammar example row(s).`);
+  console.log(`Fetched ${mlInstructionRecords.length} ML instruction record(s).`);
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
   const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
@@ -2084,6 +2116,10 @@ async function main() {
   
   headerLookup.mlGrammarExamplesById = new Map(
     mlGrammarExampleRecords.map(record => [record.id, record])
+  );
+
+  headerLookup.mlInstructionsById = new Map(
+    mlInstructionRecords.map(record => [record.id, record])
   );
 
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
