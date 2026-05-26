@@ -1,6 +1,9 @@
 const params = new URLSearchParams(window.location.search);
 const id = params.get("id");
 const jumpTarget = params.get("jump");
+const mlVariant = params.get("variant") || "";
+const mlTopic = params.get("topic") || "";
+const mlLesson = params.get("lesson") || "";
 
 const preview = document.getElementById("preview");
 
@@ -69,7 +72,12 @@ function renderSection(section, packetData) {
   }
 
   if (section.type === "modern-language-lessons") {
-    return renderModernLanguageLessonsSection(section, { viewMode: mlViewMode });
+    return renderModernLanguageLessonsSection(section, {
+      viewMode: mlViewMode,
+      variant: mlVariant,
+      topic: mlTopic,
+      lesson: mlLesson
+    });
   }
 
   if (section.type === "exams") {
