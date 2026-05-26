@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T13:58:16.487Z",
+  "updatedAt": "2026-05-26T15:12:53.244Z",
   "terms": [
     {
       "termNumber": 1,
@@ -575,6 +575,30 @@
                 {
                   "text": "Maya Angelou recites Sympathy",
                   "url": "https://www.youtube.com/watch?v=nz4lhMIhtrs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "recq7algSO0VVXzI8",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 69,
+              "sort": 303502,
+              "lessonLabel": "",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 69",
+              "anchor": "term-3-week-35-lesson-69",
+              "links": [
+                {
+                  "text": "Paul Dunbar House Historic Site",
+                  "url": "https://www.destinationdayton.org/things-to-do/attractions/paul-laurence-dunbar/"
                 }
               ]
             }

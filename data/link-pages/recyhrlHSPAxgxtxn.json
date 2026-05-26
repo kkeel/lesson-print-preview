@@ -57,7 +57,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T13:58:16.414Z",
+  "updatedAt": "2026-05-26T15:12:53.176Z",
   "terms": [
     {
       "termNumber": 1,
@@ -676,8 +676,12 @@
               "anchor": "term-2-week-19-lesson-19",
               "links": [
                 {
-                  "text": "View of Paris",
-                  "url": "https://travel.usnews.com/dims4/USNEWS/d326300/2147483647/resize/976x652%5E%3E/crop/976x652/quality/85/format/webp/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FNew_Paris_pic_jw04ZlH.jpg"
+                  "text": "Washington Monument",
+                  "url": "https://cdn.britannica.com/46/93846-050-EDA09DD6/Washington-Monument-Washington-DC.jpg"
+                },
+                {
+                  "text": "Paintings of James Whistler",
+                  "url": "https://www.metmuseum.org/essays/james-mcneill-whistler-1834-1903"
                 }
               ]
             },

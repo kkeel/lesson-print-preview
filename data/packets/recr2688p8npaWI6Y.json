@@ -1378,6 +1378,25 @@
           ]
         }
       ]
+    },
+    {
+      "type": "exams",
+      "title": "New Testament: Grades 3-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Tell about the conversation Jesus and Nicodemus had OR tell about John the Baptist's role in the gospel of John."
+        },
+        {
+          "term": "Term 2",
+          "content": "· Tell about two of the sign Jesus did OR tell about Jesus raising Lazarus from the dead."
+        },
+        {
+          "term": "Term 3",
+          "content": "· Tell about two of the \"I Am\" statement of Jesus OR tell about the resurrection of Jesus."
+        }
+      ]
     }
   ]
 }

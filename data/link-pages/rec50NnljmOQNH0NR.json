@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T13:58:16.470Z",
+  "updatedAt": "2026-05-26T15:12:53.230Z",
   "terms": [
     {
       "termNumber": 1,
@@ -1134,6 +1134,30 @@
                 {
                   "text": "Caged Bird",
                   "url": "https://www.poetryfoundation.org/poems/48989/caged-bird"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "recDxjJ4ai1I6t9Eb",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 69,
+              "sort": 303502,
+              "lessonLabel": "",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 69",
+              "anchor": "term-3-week-35-lesson-69",
+              "links": [
+                {
+                  "text": "Paul Dunbar House Historic Site",
+                  "url": "https://www.destinationdayton.org/things-to-do/attractions/paul-laurence-dunbar/"
                 }
               ]
             }
