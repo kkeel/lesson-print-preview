@@ -149,6 +149,11 @@
   line-height: 1.2;
 }
 
+.ml-sentence-table + .ml-resource-title,
+.ml-resource-block.sentences .ml-resource-title {
+  background: #adb58f;
+}
+
 .ml-resource-table {
   width: 100%;
   border-collapse: collapse;
