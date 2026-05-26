@@ -136,6 +136,7 @@ function renderMLPreviewControls(data) {
     }
   
     updateMLTopicOptionsForTerm(mlSection, term);
+    jumpToFirstTopicTerm(term);
   });
 
   document.getElementById("ml-jump-main")?.addEventListener("change", event => {
@@ -210,6 +211,18 @@ function updateMLTopicOptionsForTerm(section, selectedTerm) {
     <option value="">Choose topic...</option>
     ${buildMLTopicOptions(section, selectedTerm)}
   `;
+}
+
+function jumpToFirstTopicTerm(term) {
+  if (!term) return;
+
+  const target = document.querySelector(`[data-ml-topic-term="${CSS.escape(term)}"]`);
+  if (!target) return;
+
+  target.scrollIntoView({
+    behavior: "smooth",
+    block: "start"
+  });
 }
 
 function jumpToPreviewAnchor(anchorId) {
