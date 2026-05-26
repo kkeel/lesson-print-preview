@@ -254,34 +254,35 @@
   line-height: 1.55;
 }
 
-.ml-grammar-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-
+.ml-grammar-table {
+  width: 100%;
+  border-collapse: collapse;
   border-top: 0.5px solid #d7ddd4;
+  font-size: 14px;
 }
 
-.ml-grammar-item {
-  border-right: 0.5px solid #d7ddd4;
-  border-bottom: 0.5px solid #d7ddd4;
+.ml-grammar-table th {
+  background: #f4f6fa;
+  border: 0.5px solid #d7ddd4;
+  padding: 6px 8px;
+  text-align: left;
+  font-weight: 700;
 }
 
-.ml-grammar-item:nth-child(2n) {
-  border-right: 0;
+.ml-grammar-table td {
+  width: 50%;
+  border: 0.5px solid #d7ddd4;
+  padding: 7px 8px;
+  vertical-align: top;
 }
 
 .ml-grammar-primary {
-  padding: 8px 10px 4px;
-
-  background: #f4f6fa;
-
   font-weight: 700;
   line-height: 1.3;
 }
 
 .ml-grammar-translation {
-  padding: 0 10px 8px;
-
+  margin-top: 2px;
   font-style: italic;
   line-height: 1.3;
 }
