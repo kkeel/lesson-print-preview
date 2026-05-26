@@ -11,6 +11,45 @@
   color: #596e5e;
 }
 
+.ml-topic-page-title {
+  margin-bottom: 22px;
+}
+
+.ml-topic-term-block {
+  margin-top: 26px;
+}
+
+.ml-topic-term-block:first-of-type {
+  margin-top: 0;
+}
+
+.ml-topic-term-banner {
+  background: #596e5e;
+  color: #fff;
+
+  font-family: "Plantin MT Pro", "Plantin", Georgia, serif;
+  font-size: 24px;
+  line-height: 1.2;
+  font-weight: 400;
+
+  padding: 7px 10px;
+  margin: 0 0 24px;
+}
+
+.ml-topic-term-lessons {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.ml-topic-term-lessons .ml-lesson-card {
+  padding-top: 18px;
+}
+
+.ml-topic-term-lessons .ml-lesson-card:first-child {
+  padding-top: 0;
+}
+
 .ml-lesson-set + .ml-lesson-set {
   margin-top: 40px;
 }
