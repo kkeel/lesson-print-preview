@@ -50,6 +50,12 @@ function getPacketJsonPath(recordId) {
   return `./data/packets/${recordId}.json`;
 }
 
+function isModernLanguagePacket(packetData) {
+  return (packetData.sections || []).some(
+    section => section.type === "modern-language-lessons"
+  );
+}
+
 function hashFile(filepath) {
   const content = fs.readFileSync(filepath);
   return crypto.createHash("md5").update(content).digest("hex");
@@ -245,6 +251,14 @@ async function main() {
         continue;
       }
 
+      const packetData = JSON.parse(fs.readFileSync(packetPath, "utf8"));
+
+      if (!TEST_PACKET_ID && isModernLanguagePacket(packetData)) {
+        console.log(`Skipping Modern Language packet in regular PDF render: ${record.id}`);
+        skippedCount++;
+        continue;
+      }
+      
       const currentHash = hashFile(packetPath);
 
       const previousHash = manifest[record.id]?.hash;
