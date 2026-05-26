@@ -154,33 +154,59 @@
   background: #adb58f;
 }
 
-.ml-resource-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-  font-size: 14px;
-  line-height: 1.4;
+.ml-resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border: 0.5px solid #d7ddd4;
+  border-top: 0;
 }
 
-.ml-resource-table tr + tr td {
+.ml-resource-item {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
   border-top: 0.5px solid #d7ddd4;
+  break-inside: avoid;
 }
 
-.ml-resource-table td {
-  padding: 7px 10px;
-  vertical-align: top;
+.ml-resource-item:nth-child(1),
+.ml-resource-item:nth-child(2) {
+  border-top: 0;
+}
+
+.ml-resource-item:nth-child(odd) {
+  border-right: 0.5px solid #d7ddd4;
+}
+
+.ml-resource-image-slot {
+  display: none;
+  grid-row: 1 / span 2;
+}
+
+.ml-resource-image-slot img {
+  display: block;
+  width: 0.55in;
+  height: 0.55in;
+  object-fit: contain;
 }
 
 .ml-resource-primary {
-  width: 50%;
+  padding: 6px 8px 2px;
   font-weight: 700;
   background: #f4f6fa;
+  line-height: 1.25;
 }
 
 .ml-resource-translation {
-  width: 50%;
+  padding: 2px 8px 6px;
   font-style: italic;
   background: #fff;
+  line-height: 1.25;
+}
+
+.ml-resource-item.has-image .ml-resource-image-slot {
+  display: block;
+  padding: 6px 0 6px 8px;
 }
 
 .ml-sentence-block .ml-resource-title {
