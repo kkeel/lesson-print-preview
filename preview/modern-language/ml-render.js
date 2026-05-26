@@ -168,7 +168,7 @@ function renderMLSentenceTable(sentences = []) {
   });
 
   return `
-    <section class="ml-resource-block">
+    <section class="ml-resource-block ml-sentence-block">
       <div class="ml-resource-title">${escapeHtml(title)}</div>
 
       <table class="ml-resource-table ml-sentence-table">
