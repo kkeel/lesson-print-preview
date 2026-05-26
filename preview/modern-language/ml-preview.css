@@ -292,12 +292,12 @@
   border-top: 0;
 }
 
-/* Review vocab: multiple sets side-by-side */
-.ml-resource-review-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+/* Review resources: multiple sets stacked as separate mini charts */
+.ml-resource-review-grid,
+.ml-resource-stacked-review {
+  display: flex;
+  flex-direction: column;
   gap: 12px;
-  align-items: start;
 }
 
 .ml-vocab-review-card {
