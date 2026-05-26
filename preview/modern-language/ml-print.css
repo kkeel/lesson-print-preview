@@ -97,9 +97,10 @@
     page-break-inside: avoid;
   }
 
-  .ml-resource-review-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .ml-resource-review-grid,
+  .ml-resource-stacked-review {
+    display: flex;
+    flex-direction: column;
     gap: 12px;
     break-inside: auto;
     page-break-inside: auto;
@@ -110,6 +111,12 @@
     page-break-inside: avoid;
     margin-top: 8px;
   }
+
+  .ml-sentence-review-card {
+     break-inside: avoid;
+     page-break-inside: avoid;
+     margin-top: 8px;
+   }
 
   .ml-vocab-review-card .ml-resource-grid {
     display: block;
