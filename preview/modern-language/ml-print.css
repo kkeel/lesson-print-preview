@@ -14,10 +14,17 @@
     page-break-inside: auto;
   }
 
-  .ml-week-banner {
+  .ml-week-banner,
+  .ml-topic-term-banner {
     margin-bottom: 16px;
     break-after: avoid;
     page-break-after: avoid;
+  }
+
+  .ml-week-banner + .ml-week-lessons,
+  .ml-topic-term-banner + .ml-topic-term-lessons {
+    break-before: avoid;
+    page-break-before: avoid;
   }
 
   .ml-week-lessons,
@@ -88,6 +95,32 @@
   .ml-grammar-block:not(:has(tbody tr:nth-child(5))) {
     break-inside: avoid;
     page-break-inside: avoid;
+  }
+
+  .ml-resource-review-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .ml-vocab-review-card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-top: 8px;
+  }
+
+  .ml-vocab-review-card .ml-resource-grid {
+    display: block;
+  }
+
+  .ml-vocab-review-card .ml-resource-item {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .ml-vocab-review-card .ml-resource-item:nth-child(odd) {
+    border-right: 0;
   }
 
   .ml-resource-primary,
