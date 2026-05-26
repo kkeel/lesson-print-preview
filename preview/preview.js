@@ -1,5 +1,6 @@
 const params = new URLSearchParams(window.location.search);
 const id = params.get("id");
+const jumpTarget = params.get("jump");
 
 const preview = document.getElementById("preview");
 
@@ -42,6 +43,12 @@ function renderPacket(data) {
 
   preview.innerHTML = html;
   renderMLPreviewControls(data);
+  
+  if (jumpTarget) {
+    setTimeout(() => {
+      jumpToPreviewAnchor(jumpTarget);
+    }, 60);
+  }
 }
 
 function renderSection(section, packetData) {
@@ -113,7 +120,7 @@ function renderMLPreviewControls(data) {
         <option value="">Choose ${mlViewMode === "topic" ? "topic" : "week"}...</option>
         ${mlViewMode === "topic"
           ? buildMLTopicOptions(mlSection)
-          : buildMLWeekOptions(mlSection)
+          : buildMLLessonOptions(mlSection)
         }
       </select>
     </div>
@@ -167,6 +174,34 @@ function buildMLWeekOptions(section, selectedTerm = "") {
     .join("");
 }
 
+function buildMLLessonOptions(section, selectedTerm = "") {
+  const lessons = [];
+
+  (section.weeklyLessons || []).forEach(week => {
+    (week.lessons || []).forEach(lesson => {
+      if (
+        selectedTerm &&
+        String(week.term || "") !== String(selectedTerm)
+      ) {
+        return;
+      }
+
+      lessons.push({
+        value: `ml-lesson-${lesson.id}`,
+        label: `${lesson.title} (${week.weekLabel || `Week ${week.week}`})`
+      });
+    });
+  });
+
+  return lessons
+    .map(item => `
+      <option value="${escapeHtml(item.value)}">
+        ${escapeHtml(item.label)}
+      </option>
+    `)
+    .join("");
+}
+
 function buildMLTopicOptions(section, selectedTerm = "") {
   const topics = new Map();
 
@@ -199,7 +234,7 @@ function updateMLJumpOptionsForTerm(section, selectedTerm) {
 
   jumpSelect.innerHTML = `
     <option value="">Choose week...</option>
-    ${buildMLWeekOptions(section, selectedTerm)}
+    ${buildMLLessonOptions(section, selectedTerm)}
   `;
 }
 
