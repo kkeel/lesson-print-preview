@@ -1,13 +1,114 @@
 function renderModernLanguageLessonsSection(section, options = {}) {
+  const preparedSection = prepareMLSectionForRender(section, options);
+
   if (options.viewMode === "topic") {
-    return renderMLByLessonSet(section);
+    return renderMLByLessonSet(preparedSection);
   }
 
-  if (section.weeklyLessons?.length) {
-    return renderMLWeeklyLessons(section);
+  if (preparedSection.weeklyLessons?.length) {
+    return renderMLWeeklyLessons(preparedSection);
   }
 
-  return renderMLByLessonSet(section);
+  return renderMLByLessonSet(preparedSection);
+}
+
+function prepareMLSectionForRender(section, options = {}) {
+  const variant = String(options.variant || "").trim();
+  const topic = String(options.topic || "").trim();
+  const lessonId = String(options.lesson || "").trim();
+
+  let lessonSets = (section.lessonSets || []).map(lessonSet => ({
+    ...lessonSet,
+    lessons: [...(lessonSet.lessons || [])]
+  }));
+
+  if (variant === "g1-3") {
+    lessonSets = lessonSets.filter(lessonSet => {
+      const title = String(lessonSet.title || "").toLowerCase();
+
+      return (
+        !title.includes("grammar") &&
+        !title.includes("literature extension")
+      );
+    });
+  }
+
+  if (topic) {
+    lessonSets = lessonSets.filter(lessonSet =>
+      slugifyPreviewAnchor(lessonSet.title || "") === topic
+    );
+  }
+
+  if (lessonId) {
+    lessonSets = lessonSets
+      .map(lessonSet => ({
+        ...lessonSet,
+        lessons: (lessonSet.lessons || []).filter(lesson => lesson.id === lessonId)
+      }))
+      .filter(lessonSet => lessonSet.lessons.length);
+  }
+
+  return {
+    ...section,
+    lessonSets,
+    weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets)
+  };
+}
+
+function buildMLWeeklyLessonsFromLessonSets(lessonSets = []) {
+  const weeksByKey = new Map();
+
+  lessonSets.forEach(lessonSet => {
+    (lessonSet.lessons || []).forEach(lesson => {
+      const weekKey = String(lesson.week || "").trim();
+      if (!weekKey) return;
+
+      if (!weeksByKey.has(weekKey)) {
+        weeksByKey.set(weekKey, {
+          week: lesson.week,
+          weekLabel: lesson.weekLabel,
+          term: lesson.term,
+          lessons: []
+        });
+      }
+
+      weeksByKey.get(weekKey).lessons.push({
+        ...lesson,
+        lessonSetId: lessonSet.id,
+        lessonSetTitle: lessonSet.title,
+        language: lessonSet.language
+      });
+    });
+  });
+
+  return Array.from(weeksByKey.values())
+    .sort((a, b) => Number(a.week || 0) - Number(b.week || 0))
+    .map(week => ({
+      ...week,
+      lessons: week.lessons.sort(sortMLWeeklyLessons)
+    }));
+}
+
+function sortMLWeeklyLessons(a = {}, b = {}) {
+  const typeOrder = [
+    "Picture Study",
+    "Grammar",
+    "Literature",
+    "Literature Extension",
+    "Songs, Rhymes & Conversations",
+    "Songs, Rhymes, & Conversations",
+    "Cultural"
+  ];
+
+  const getOrder = title => {
+    const index = typeOrder.findIndex(type =>
+      String(title || "").toLowerCase().includes(type.toLowerCase())
+    );
+
+    return index === -1 ? 999 : index;
+  };
+
+  return getOrder(a.lessonSetTitle) - getOrder(b.lessonSetTitle);
 }
 
 function renderMLWeeklyLessons(section) {
