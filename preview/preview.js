@@ -99,15 +99,13 @@ function renderMLPreviewControls(data) {
       </select>
     </div>
 
-    ${mlViewMode === "course" ? `
-      <div class="ml-preview-control-group">
-        <label for="ml-jump-term">Term</label>
-        <select id="ml-jump-term">
-          <option value="">Choose term...</option>
-          ${buildMLTermOptions(mlSection)}
-        </select>
-      </div>
-    ` : ""}
+    <div class="ml-preview-control-group">
+      <label for="ml-jump-term">Term</label>
+      <select id="ml-jump-term">
+        <option value="">Choose term...</option>
+        ${buildMLTermOptions(mlSection)}
+      </select>
+    </div>
 
     <div class="ml-preview-control-group">
       <label for="ml-jump-main">Jump to</label>
@@ -130,8 +128,14 @@ function renderMLPreviewControls(data) {
 
   document.getElementById("ml-jump-term")?.addEventListener("change", event => {
     const term = event.target.value || "";
-    updateMLJumpOptionsForTerm(mlSection, term);
-    jumpToPreviewAnchor(term ? `ml-term-${term}` : "");
+  
+    if (mlViewMode === "course") {
+      updateMLJumpOptionsForTerm(mlSection, term);
+      jumpToPreviewAnchor(term ? `ml-term-${term}` : "");
+      return;
+    }
+  
+    updateMLTopicOptionsForTerm(mlSection, term);
   });
 
   document.getElementById("ml-jump-main")?.addEventListener("change", event => {
@@ -162,13 +166,23 @@ function buildMLWeekOptions(section, selectedTerm = "") {
     .join("");
 }
 
-function buildMLTopicOptions(section) {
+function buildMLTopicOptions(section, selectedTerm = "") {
   const topics = new Map();
 
   (section.lessonSets || []).forEach(lessonSet => {
     if (!lessonSet.title) return;
+
+    const topicSlug = slugifyPreviewAnchor(lessonSet.title);
+    const hasSelectedTerm = !selectedTerm || (lessonSet.lessons || []).some(
+      lesson => String(lesson.term || "") === String(selectedTerm)
+    );
+
+    if (!hasSelectedTerm) return;
+
     topics.set(
-      `ml-topic-${slugifyPreviewAnchor(lessonSet.title)}`,
+      selectedTerm
+        ? `ml-topic-term-${selectedTerm}-${topicSlug}`
+        : `ml-topic-${topicSlug}`,
       lessonSet.title
     );
   });
@@ -185,6 +199,16 @@ function updateMLJumpOptionsForTerm(section, selectedTerm) {
   jumpSelect.innerHTML = `
     <option value="">Choose week...</option>
     ${buildMLWeekOptions(section, selectedTerm)}
+  `;
+}
+
+function updateMLTopicOptionsForTerm(section, selectedTerm) {
+  const jumpSelect = document.getElementById("ml-jump-main");
+  if (!jumpSelect) return;
+
+  jumpSelect.innerHTML = `
+    <option value="">Choose topic...</option>
+    ${buildMLTopicOptions(section, selectedTerm)}
   `;
 }
 
