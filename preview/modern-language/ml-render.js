@@ -88,6 +88,8 @@ function renderMLLesson(lesson) {
           ${renderMLTextBlock(lesson.grammarInstructions)}
           ${renderMLTextBlock(lesson.practiceInstructions)}
           ${renderMLTextBlock(lesson.cctBlock)}
+          ${renderMLVocabTable(lesson.vocab)}
+          ${renderMLSentenceTable(lesson.sentences)}
         </div>
       </div>
     </article>
@@ -129,4 +131,46 @@ function formatMLLessonTitle(title) {
   );
 
   return text;
+}
+
+function renderMLVocabTable(vocab = []) {
+  if (!Array.isArray(vocab) || !vocab.length) return "";
+
+  return `
+    <section class="ml-resource-block">
+      <div class="ml-resource-title">Vocabulary</div>
+
+      <table class="ml-resource-table ml-vocab-table">
+        <tbody>
+          ${vocab.map(item => `
+            <tr>
+              <td class="ml-resource-primary">${escapeHtml(item.text || "")}</td>
+              <td class="ml-resource-translation">${escapeHtml(item.translation || "")}</td>
+            </tr>
+          `).join("")}
+        </tbody>
+      </table>
+    </section>
+  `;
+}
+
+function renderMLSentenceTable(sentences = []) {
+  if (!Array.isArray(sentences) || !sentences.length) return "";
+
+  return `
+    <section class="ml-resource-block">
+      <div class="ml-resource-title">Sentences</div>
+
+      <table class="ml-resource-table ml-sentence-table">
+        <tbody>
+          ${sentences.map(item => `
+            <tr>
+              <td class="ml-resource-primary">${escapeHtml(item.sentence || "")}</td>
+              <td class="ml-resource-translation">${escapeHtml(item.translation || "")}</td>
+            </tr>
+          `).join("")}
+        </tbody>
+      </table>
+    </section>
+  `;
 }
