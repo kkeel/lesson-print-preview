@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T22:58:04.032Z",
+  "updatedAt": "2026-05-26T09:01:21.315Z",
   "terms": [
     {
       "termNumber": 1,
@@ -981,6 +981,28 @@
           "weekLabel": "Week 6",
           "lessons": [
             {
+              "lessonId": "recKxVZ93oDexG7w6",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 30,
+              "sort": 303001,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 30",
+              "anchor": "term-3-week-30-lesson-30",
+              "links": [
+                {
+                  "text": "Video: The Gold Rush",
+                  "url": "https://www.youtube.com/watch?v=to4yJ64Em7o"
+                },
+                {
+                  "text": "Video: Pioneer Life in a Log Cabin",
+                  "url": "https://www.youtube.com/watch?v=Uo5B7O12Ju0"
+                }
+              ]
+            },
+            {
               "lessonId": "recfNAOWnqSfZQFK7",
               "termNumber": 3,
               "termLabel": "Term 3",
@@ -1032,6 +1054,24 @@
           "weekNumber": 32,
           "weekLabel": "Week 8",
           "lessons": [
+            {
+              "lessonId": "recUmE2t4tskILcCp",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 32,
+              "weekLabel": "Week 8",
+              "sequence": 32,
+              "sort": 303201,
+              "lessonLabel": "",
+              "title": "25m U.S. History: Grades 4-6 - Lesson 32",
+              "anchor": "term-3-week-32-lesson-32",
+              "links": [
+                {
+                  "text": "Video: Trail of Tears",
+                  "url": "https://www.youtube.com/watch?v=SosZ2ZRJymU"
+                }
+              ]
+            },
             {
               "lessonId": "rec4qeczjwErRQxAj",
               "termNumber": 3,

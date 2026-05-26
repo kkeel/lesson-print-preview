@@ -31,7 +31,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-25T22:58:04.100Z",
+  "updatedAt": "2026-05-26T09:01:21.388Z",
   "terms": [
     {
       "termNumber": 1,
@@ -468,6 +468,30 @@
                 {
                   "text": "Fifth Massachusetts Colored Calvary",
                   "url": "https://samepassage.org/the-5th-regiment-massachusetts-colored-volunteer-cavalry/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 29,
+          "weekLabel": "Week 5",
+          "lessons": [
+            {
+              "lessonId": "rec3NwhV55A0BhgWn",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 57,
+              "sort": 0,
+              "lessonLabel": "Lesson 57",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 57",
+              "anchor": "term-3-week-29-lesson-57",
+              "links": [
+                {
+                  "text": "Maya Angelou recites Sympathy",
+                  "url": "https://www.youtube.com/watch?v=nz4lhMIhtrs"
                 }
               ]
             }
