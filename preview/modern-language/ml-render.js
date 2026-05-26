@@ -85,8 +85,6 @@ function renderMLLesson(lesson) {
           ${renderMLTextBlock(lesson.prep)}
           ${renderMLPhraseBlock(lesson.phraseOfWeek)}
           ${renderMLTextBlock(lesson.instructions)}
-          ${renderMLTextBlock(lesson.grammarInstructions)}
-          ${renderMLTextBlock(lesson.practiceInstructions)}
           ${renderMLTextBlock(lesson.cctBlock)}
           ${renderMLVocabGrid(lesson.vocab)}
           ${renderMLSentenceGrid(lesson.sentences)}
@@ -172,31 +170,33 @@ function renderMLGrammarCharts(charts = []) {
   if (!Array.isArray(charts) || !charts.length) return "";
 
   return charts.map(chart => {
-    const title = buildMLGrammarTitle(chart);
     const rows = Array.isArray(chart.rows) ? chart.rows : [];
+    const chartTypeClass = getMLGrammarChartTypeClass(chart.chartType);
+    const headingInfo = splitMLGrammarInstructions(chart.formattedInstructions);
+    const headers = buildMLGrammarHeaders(chart);
 
     return `
-      <section class="ml-grammar-block">
-        <div class="ml-grammar-title">
-          ${escapeHtml(title)}
-        </div>
+      <section class="ml-grammar-block ${chartTypeClass}">
+        ${headingInfo.heading ? `
+          <div class="ml-grammar-heading">
+            ${escapeHtml(headingInfo.heading)}
+          </div>
+        ` : ""}
 
-        ${chart.formattedInstructions ? `
+        ${headingInfo.body ? `
           <div class="ml-grammar-instructions">
-            ${formatInlineRichText(chart.formattedInstructions).replace(/\n/g, "<br>")}
+            ${formatInlineRichText(headingInfo.body).replace(/\n/g, "<br>")}
           </div>
         ` : ""}
 
         ${rows.length ? `
           <table class="ml-grammar-table">
-            ${(chart.col1Header || chart.col2Header) ? `
-              <thead>
-                <tr>
-                  <th>${escapeHtml(chart.col1Header || "")}</th>
-                  <th>${escapeHtml(chart.col2Header || "")}</th>
-                </tr>
-              </thead>
-            ` : ""}
+            <thead>
+              <tr>
+                <th>${escapeHtml(headers.col1)}</th>
+                <th>${escapeHtml(headers.col2)}</th>
+              </tr>
+            </thead>
 
             <tbody>
               ${rows.map(row => `
@@ -222,6 +222,42 @@ function renderMLGrammarCharts(charts = []) {
       </section>
     `;
   }).join("");
+}
+
+function splitMLGrammarInstructions(value) {
+  const text = String(value || "").trim();
+  if (!text) return { heading: "", body: "" };
+
+  const lines = text
+    .split(/\n+/)
+    .map(line => line.trim())
+    .filter(Boolean);
+
+  return {
+    heading: lines[0] || "",
+    body: lines.slice(1).join("\n")
+  };
+}
+
+function getMLGrammarChartTypeClass(chartType) {
+  const type = String(chartType || "").toLowerCase();
+
+  if (type.includes("practice")) return "ml-grammar-practice";
+  return "ml-grammar-example";
+}
+
+function buildMLGrammarHeaders(chart = {}) {
+  const chartType = String(chart.chartType || "").toLowerCase();
+  const fallback = chartType.includes("practice") ? "Practice:" : "Examples:";
+
+  const col1 = String(chart.col1Header || "").trim();
+  const col2 = String(chart.col2Header || "").trim();
+
+  if (col1 && col2) return { col1, col2 };
+  if (col1 && !col2) return { col1, col2: col1 };
+  if (!col1 && col2) return { col1: col2, col2 };
+
+  return { col1: fallback, col2: fallback };
 }
 
 function buildMLGrammarTitle(chart = {}) {
