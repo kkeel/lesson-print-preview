@@ -136,9 +136,14 @@ function formatMLLessonTitle(title) {
 function renderMLVocabTable(vocab = []) {
   if (!Array.isArray(vocab) || !vocab.length) return "";
 
+  const title = buildMLResourceTitle(vocab, "Vocabulary", {
+    typeField: "type",
+    setField: "set"
+  });
+
   return `
     <section class="ml-resource-block">
-      <div class="ml-resource-title">Vocabulary</div>
+      <div class="ml-resource-title">${escapeHtml(title)}</div>
 
       <table class="ml-resource-table ml-vocab-table">
         <tbody>
@@ -157,9 +162,14 @@ function renderMLVocabTable(vocab = []) {
 function renderMLSentenceTable(sentences = []) {
   if (!Array.isArray(sentences) || !sentences.length) return "";
 
+  const title = buildMLResourceTitle(sentences, "Sentences", {
+    typeField: "sentenceType",
+    setField: "set"
+  });
+
   return `
     <section class="ml-resource-block">
-      <div class="ml-resource-title">Sentences</div>
+      <div class="ml-resource-title">${escapeHtml(title)}</div>
 
       <table class="ml-resource-table ml-sentence-table">
         <tbody>
@@ -173,4 +183,26 @@ function renderMLSentenceTable(sentences = []) {
       </table>
     </section>
   `;
+}
+
+function buildMLResourceTitle(items = [], fallback, options = {}) {
+  const typeField = options.typeField || "type";
+  const setField = options.setField || "set";
+
+  const types = [...new Set(
+    items
+      .map(item => String(item[typeField] || "").trim())
+      .filter(Boolean)
+  )];
+
+  const sets = [...new Set(
+    items
+      .map(item => String(item[setField] || "").trim())
+      .filter(Boolean)
+  )];
+
+  const typeLabel = types.length === 1 ? types[0] : fallback;
+  const setLabel = sets.length === 1 ? sets[0] : sets.join(", ");
+
+  return [typeLabel, setLabel].filter(Boolean).join(" - ");
 }
