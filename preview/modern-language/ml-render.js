@@ -169,59 +169,65 @@ function renderMLSentenceGrid(sentences = []) {
 function renderMLGrammarCharts(charts = []) {
   if (!Array.isArray(charts) || !charts.length) return "";
 
-  return charts.map(chart => {
-    const rows = Array.isArray(chart.rows) ? chart.rows : [];
-    const chartTypeClass = getMLGrammarChartTypeClass(chart.chartType);
-    const headingInfo = splitMLGrammarInstructions(chart.formattedInstructions);
-    const headers = buildMLGrammarHeaders(chart);
+  return [...charts]
+    .sort(sortMLGrammarCharts)
+    .map(chart => {
+      const rows = Array.isArray(chart.rows) ? chart.rows : [];
+      const chartTypeClass = getMLGrammarChartTypeClass(chart.chartType);
+      const headingInfo = splitMLGrammarInstructions(chart.formattedInstructions);
+      const headers = buildMLGrammarHeaders(chart);
 
-    return `
-      <section class="ml-grammar-block ${chartTypeClass}">
-        ${headingInfo.heading ? `
-          <div class="ml-grammar-heading">
-            ${escapeHtml(headingInfo.heading)}
-          </div>
-        ` : ""}
+      return `
+        <section class="ml-grammar-block ${chartTypeClass}">
+          ${headingInfo.heading ? `
+            <div class="ml-grammar-heading">
+              ${escapeHtml(headingInfo.heading)}
+            </div>
+          ` : ""}
 
-        ${headingInfo.body ? `
-          <div class="ml-grammar-instructions">
-            ${formatInlineRichText(headingInfo.body).replace(/\n/g, "<br>")}
-          </div>
-        ` : ""}
+          ${headingInfo.body ? `
+            <div class="ml-grammar-instructions">
+              ${formatInlineRichText(headingInfo.body).replace(/\n/g, "<br>")}
+            </div>
+          ` : ""}
 
-        ${rows.length ? `
-          <table class="ml-grammar-table">
-            <thead>
-              <tr>
-                <th>${escapeHtml(headers.col1)}</th>
-                <th>${escapeHtml(headers.col2)}</th>
-              </tr>
-            </thead>
-
-            <tbody>
-              ${rows.map(row => `
+          ${rows.length ? `
+            <table class="ml-grammar-table">
+              <thead>
                 <tr>
-                  <td>
-                    <div class="ml-grammar-primary">${escapeHtml(row.col1 || "")}</div>
-                    ${row.col1Translation ? `
-                      <div class="ml-grammar-translation">${escapeHtml(row.col1Translation)}</div>
-                    ` : ""}
-                  </td>
-
-                  <td>
-                    <div class="ml-grammar-primary">${escapeHtml(row.col2 || "")}</div>
-                    ${row.col2Translation ? `
-                      <div class="ml-grammar-translation">${escapeHtml(row.col2Translation)}</div>
-                    ` : ""}
-                  </td>
+                  ${headers.single ? `
+                    <th colspan="2">${escapeHtml(headers.single)}</th>
+                  ` : `
+                    <th>${escapeHtml(headers.col1)}</th>
+                    <th>${escapeHtml(headers.col2)}</th>
+                  `}
                 </tr>
-              `).join("")}
-            </tbody>
-          </table>
-        ` : ""}
-      </section>
-    `;
-  }).join("");
+              </thead>
+
+              <tbody>
+                ${rows.map(row => `
+                  <tr>
+                    <td>
+                      <div class="ml-grammar-primary">${escapeHtml(row.col1 || "")}</div>
+                      ${row.col1Translation ? `
+                        <div class="ml-grammar-translation">${escapeHtml(row.col1Translation)}</div>
+                      ` : ""}
+                    </td>
+
+                    <td>
+                      <div class="ml-grammar-primary">${escapeHtml(row.col2 || "")}</div>
+                      ${row.col2Translation ? `
+                        <div class="ml-grammar-translation">${escapeHtml(row.col2Translation)}</div>
+                      ` : ""}
+                    </td>
+                  </tr>
+                `).join("")}
+              </tbody>
+            </table>
+          ` : ""}
+        </section>
+      `;
+    }).join("");
 }
 
 function splitMLGrammarInstructions(value) {
@@ -253,11 +259,35 @@ function buildMLGrammarHeaders(chart = {}) {
   const col1 = String(chart.col1Header || "").trim();
   const col2 = String(chart.col2Header || "").trim();
 
-  if (col1 && col2) return { col1, col2 };
-  if (col1 && !col2) return { col1, col2: col1 };
-  if (!col1 && col2) return { col1: col2, col2 };
+  if (col1 && col2) return { col1, col2, single: "" };
+  if (col1 && !col2) return { col1: "", col2: "", single: col1 };
+  if (!col1 && col2) return { col1: "", col2: "", single: col2 };
 
-  return { col1: fallback, col2: fallback };
+  return { col1: "", col2: "", single: fallback };
+}
+
+function sortMLGrammarCharts(a = {}, b = {}) {
+  const aType = String(a.chartType || "").toLowerCase();
+  const bType = String(b.chartType || "").toLowerCase();
+
+  const typeRank = type => type.includes("practice") ? 2 : 1;
+
+  const aTypeRank = typeRank(aType);
+  const bTypeRank = typeRank(bType);
+
+  if (aTypeRank !== bTypeRank) return aTypeRank - bTypeRank;
+
+  const aSet = getMLSetNumber(a.set);
+  const bSet = getMLSetNumber(b.set);
+
+  if (aSet !== bSet) return aSet - bSet;
+
+  return String(a.name || "").localeCompare(String(b.name || ""));
+}
+
+function getMLSetNumber(value) {
+  const match = String(value || "").match(/\d+/);
+  return match ? Number(match[0]) : 999;
 }
 
 function buildMLGrammarTitle(chart = {}) {
