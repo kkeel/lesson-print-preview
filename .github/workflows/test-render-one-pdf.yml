@@ -7,6 +7,20 @@ on:
         description: "Lesson packet ID to render"
         required: true
         default: "recvfB9zd1vOwauPP"
+      variant:
+        description: "Optional ML variant"
+        required: false
+        default: ""
+
+      topic:
+        description: "Optional ML topic slug"
+        required: false
+        default: ""
+
+      lesson_id:
+        description: "Optional ML lesson record ID"
+        required: false
+        default: ""
 
 jobs:
   test-render:
@@ -14,6 +28,9 @@ jobs:
 
     env:
       TEST_PACKET_ID: ${{ github.event.inputs.packet_id }}
+      TEST_VARIANT: ${{ github.event.inputs.variant }}
+      TEST_TOPIC: ${{ github.event.inputs.topic }}
+      TEST_LESSON_ID: ${{ github.event.inputs.lesson_id }}
       SKIP_AIRTABLE_UPDATE: "true"
       RENDER_MODE: "all"
 
@@ -43,6 +60,9 @@ jobs:
         run: node scripts/render-pdfs.js
         env:
           TEST_PACKET_ID: ${{ github.event.inputs.packet_id }}
+          TEST_VARIANT: ${{ github.event.inputs.variant }}
+          TEST_TOPIC: ${{ github.event.inputs.topic }}
+          TEST_LESSON_ID: ${{ github.event.inputs.lesson_id }}
           SKIP_AIRTABLE_UPDATE: "true"
           RENDER_MODE: "all"
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
@@ -51,4 +71,6 @@ jobs:
         uses: actions/upload-artifact@v5
         with:
           name: test-rendered-pdf
-          path: generated-pdfs/*.pdf
+          path: |
+            generated-pdfs/*.pdf
+            generated-modern-language-pdfs/*.pdf
