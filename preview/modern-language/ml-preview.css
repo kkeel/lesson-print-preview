@@ -292,6 +292,35 @@
   border-top: 0;
 }
 
+/* Review vocab: multiple sets side-by-side */
+.ml-resource-review-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  align-items: start;
+}
+
+.ml-vocab-review-card {
+  min-width: 0;
+  margin-top: 8px;
+}
+
+.ml-vocab-review-card .ml-resource-grid {
+  display: block;
+}
+
+.ml-vocab-review-card .ml-resource-item {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+}
+
+.ml-vocab-review-card .ml-resource-item:nth-child(odd) {
+  border-right: 0;
+}
+
+.ml-vocab-review-card .ml-resource-item:nth-child(2) {
+  border-top: 0.5px solid #d7ddd4;
+}
+
 .ml-sentence-block .ml-resource-title {
   background: #adb58f;
 }
