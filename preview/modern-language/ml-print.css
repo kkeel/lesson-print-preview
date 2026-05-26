@@ -69,8 +69,8 @@
 
   .ml-resource-block,
   .ml-grammar-block {
-    break-inside: auto;
-    page-break-inside: auto;
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 
   .ml-resource-title,
@@ -83,16 +83,6 @@
 
   .ml-resource-item,
   .ml-grammar-table tbody tr {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
-
-  .ml-resource-block:not(:has(.ml-resource-item:nth-child(7))) {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
-
-  .ml-grammar-block:not(:has(tbody tr:nth-child(5))) {
     break-inside: avoid;
     page-break-inside: avoid;
   }
@@ -143,5 +133,16 @@
   .ml-grammar-table {
     font-size: 12.5px;
     line-height: 1.3;
+  }
+
+  .ml-lessons-section .flow-block:last-child,
+  .ml-week-block:last-child,
+  .ml-topic-term-block:last-child,
+  .ml-lesson-set:last-child,
+  .ml-lesson-card:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    break-after: auto;
+    page-break-after: auto;
   }
 }
