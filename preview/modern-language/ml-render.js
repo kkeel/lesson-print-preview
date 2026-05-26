@@ -88,8 +88,8 @@ function renderMLLesson(lesson) {
           ${renderMLTextBlock(lesson.grammarInstructions)}
           ${renderMLTextBlock(lesson.practiceInstructions)}
           ${renderMLTextBlock(lesson.cctBlock)}
-          ${renderMLVocabTable(lesson.vocab)}
-          ${renderMLSentenceTable(lesson.sentences)}
+          ${renderMLVocabGrid(lesson.vocab)}
+          ${renderMLSentenceGrid(lesson.sentences)}
         </div>
       </div>
     </article>
@@ -133,7 +133,7 @@ function formatMLLessonTitle(title) {
   return text;
 }
 
-function renderMLVocabTable(vocab = []) {
+function renderMLVocabGrid(vocab = []) {
   if (!Array.isArray(vocab) || !vocab.length) return "";
 
   const title = buildMLResourceTitle(vocab, "Vocabulary", {
@@ -141,25 +141,16 @@ function renderMLVocabTable(vocab = []) {
     setField: "set"
   });
 
-  return `
-    <section class="ml-resource-block">
-      <div class="ml-resource-title">${escapeHtml(title)}</div>
-
-      <table class="ml-resource-table ml-vocab-table">
-        <tbody>
-          ${vocab.map(item => `
-            <tr>
-              <td class="ml-resource-primary">${escapeHtml(item.text || "")}</td>
-              <td class="ml-resource-translation">${escapeHtml(item.translation || "")}</td>
-            </tr>
-          `).join("")}
-        </tbody>
-      </table>
-    </section>
-  `;
+  return renderMLResourceGrid({
+    title,
+    items: vocab,
+    blockClass: "ml-vocab-block",
+    primaryKey: "text",
+    translationKey: "translation"
+  });
 }
 
-function renderMLSentenceTable(sentences = []) {
+function renderMLSentenceGrid(sentences = []) {
   if (!Array.isArray(sentences) || !sentences.length) return "";
 
   const title = buildMLResourceTitle(sentences, "Sentences", {
@@ -167,20 +158,32 @@ function renderMLSentenceTable(sentences = []) {
     setField: "set"
   });
 
-  return `
-    <section class="ml-resource-block ml-sentence-block">
-      <div class="ml-resource-title">${escapeHtml(title)}</div>
+  return renderMLResourceGrid({
+    title,
+    items: sentences,
+    blockClass: "ml-sentence-block",
+    primaryKey: "sentence",
+    translationKey: "translation"
+  });
+}
 
-      <table class="ml-resource-table ml-sentence-table">
-        <tbody>
-          ${sentences.map(item => `
-            <tr>
-              <td class="ml-resource-primary">${escapeHtml(item.sentence || "")}</td>
-              <td class="ml-resource-translation">${escapeHtml(item.translation || "")}</td>
-            </tr>
-          `).join("")}
-        </tbody>
-      </table>
+function renderMLResourceGrid({ title, items, blockClass, primaryKey, translationKey }) {
+  return `
+    <section class="ml-resource-block ${blockClass || ""}">
+      <div class="ml-resource-title">${escapeHtml(title || "")}</div>
+
+      <div class="ml-resource-grid">
+        ${items.map(item => `
+          <div class="ml-resource-item ${item.image ? "has-image" : ""}">
+            <div class="ml-resource-image-slot">
+              ${item.image ? `<img src="${escapeHtml(item.image)}" alt="" />` : ""}
+            </div>
+
+            <div class="ml-resource-primary">${escapeHtml(item[primaryKey] || "")}</div>
+            <div class="ml-resource-translation">${escapeHtml(item[translationKey] || "")}</div>
+          </div>
+        `).join("")}
+      </div>
     </section>
   `;
 }
