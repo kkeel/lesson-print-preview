@@ -252,7 +252,7 @@ function renderMLLesson(lesson) {
           ${renderMLPhraseBlock(lesson.phraseOfWeek)}
           ${renderMLTextBlock(lesson.instructions)}
           ${renderMLTextBlock(lesson.cctBlock)}
-          ${renderMLVocabGrid(sortMLItemsBySet(lesson.vocab))}
+          ${renderMLVocabGrid(sortMLItemsBySet(lesson.vocab), lesson)}
           ${renderMLSentenceGrid(sortMLItemsBySet(lesson.sentences))}
           ${renderMLGrammarCharts(lesson.grammarCharts)}
         </div>
@@ -298,8 +298,31 @@ function formatMLLessonTitle(title) {
   return text;
 }
 
-function renderMLVocabGrid(vocab = []) {
+function renderMLVocabGrid(vocab = [], lesson = {}) {
   if (!Array.isArray(vocab) || !vocab.length) return "";
+
+  const sets = groupMLItemsBySet(vocab);
+
+  if (sets.length > 1) {
+    return `
+      <section class="ml-resource-review-grid ml-vocab-review-grid">
+        ${sets.map(([setLabel, setItems]) => {
+          const title = buildMLResourceTitle(setItems, "Vocabulary", {
+            typeField: "type",
+            setField: "set"
+          });
+
+          return renderMLResourceGrid({
+            title,
+            items: setItems,
+            blockClass: "ml-vocab-block ml-vocab-review-card",
+            primaryKey: "text",
+            translationKey: "translation"
+          });
+        }).join("")}
+      </section>
+    `;
+  }
 
   const title = buildMLResourceTitle(vocab, "Vocabulary", {
     typeField: "type",
@@ -513,6 +536,27 @@ function buildMLResourceTitle(items = [], fallback, options = {}) {
   const setLabel = sets.length === 1 ? sets[0] : sets.join(", ");
 
   return [typeLabel, setLabel].filter(Boolean).join(" - ");
+}
+
+function groupMLItemsBySet(items = []) {
+  const groups = new Map();
+
+  items.forEach(item => {
+    const setLabel = String(item.set || "Set").trim();
+
+    if (!groups.has(setLabel)) {
+      groups.set(setLabel, []);
+    }
+
+    groups.get(setLabel).push(item);
+  });
+
+  return [...groups.entries()]
+    .sort((a, b) => getMLSetNumber(a[0]) - getMLSetNumber(b[0]))
+    .map(([setLabel, setItems]) => [
+      setLabel,
+      sortMLItemsBySet(setItems)
+    ]);
 }
 
 function sortMLItemsBySet(items = []) {
