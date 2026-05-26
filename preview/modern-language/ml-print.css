@@ -66,9 +66,28 @@
     page-break-inside: auto;
   }
 
-  .ml-resource-title {
+  .ml-resource-title,
+  .ml-grammar-heading,
+  .ml-grammar-instructions,
+  .ml-grammar-table thead {
     break-after: avoid;
     page-break-after: avoid;
+  }
+
+  .ml-resource-item,
+  .ml-grammar-table tbody tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .ml-resource-block:not(:has(.ml-resource-item:nth-child(7))) {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .ml-grammar-block:not(:has(tbody tr:nth-child(5))) {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 
   .ml-resource-primary,
