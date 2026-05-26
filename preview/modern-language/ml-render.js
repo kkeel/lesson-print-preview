@@ -1,4 +1,8 @@
-function renderModernLanguageLessonsSection(section) {
+function renderModernLanguageLessonsSection(section, options = {}) {
+  if (options.viewMode === "topic") {
+    return renderMLByLessonSet(section);
+  }
+
   if (section.weeklyLessons?.length) {
     return renderMLWeeklyLessons(section);
   }
@@ -22,7 +26,7 @@ function renderMLWeeklyLessons(section) {
 
 function renderMLWeek(week) {
   return `
-    <section class="ml-week-block">
+    <section class="ml-week-block" id="ml-week-${escapeHtml(week.week || "")}">
       <div class="ml-week-banner">
         <div class="ml-week-banner-term">
           Term ${escapeHtml(week.term || "")}
@@ -48,7 +52,7 @@ function renderMLByLessonSet(section) {
 
         <div class="ml-lesson-sets">
           ${(section.lessonSets || []).map(lessonSet => `
-            <section class="ml-lesson-set">
+            <section class="ml-lesson-set" id="ml-topic-${slugifyPreviewAnchor(lessonSet.title || "")}">
               <h2 class="ml-lesson-set-title">${escapeHtml(lessonSet.title || "")}</h2>
               ${(lessonSet.lessons || []).map(lesson => renderMLLesson(lesson)).join("")}
             </section>
