@@ -173,6 +173,7 @@ function renderMLGrammarCharts(charts = []) {
 
   return charts.map(chart => {
     const title = buildMLGrammarTitle(chart);
+    const rows = Array.isArray(chart.rows) ? chart.rows : [];
 
     return `
       <section class="ml-grammar-block">
@@ -180,28 +181,43 @@ function renderMLGrammarCharts(charts = []) {
           ${escapeHtml(title)}
         </div>
 
-        ${chart.instructions ? `
+        ${chart.formattedInstructions ? `
           <div class="ml-grammar-instructions">
-            ${formatInlineRichText(chart.instructions).replace(/\n/g, "<br>")}
+            ${formatInlineRichText(chart.formattedInstructions).replace(/\n/g, "<br>")}
           </div>
         ` : ""}
 
-        ${(chart.examples || []).length ? `
-          <div class="ml-grammar-grid">
-            ${(chart.examples || []).map(example => `
-              <div class="ml-grammar-item">
-                <div class="ml-grammar-primary">
-                  ${escapeHtml(example.text || "")}
-                </div>
+        ${rows.length ? `
+          <table class="ml-grammar-table">
+            ${(chart.col1Header || chart.col2Header) ? `
+              <thead>
+                <tr>
+                  <th>${escapeHtml(chart.col1Header || "")}</th>
+                  <th>${escapeHtml(chart.col2Header || "")}</th>
+                </tr>
+              </thead>
+            ` : ""}
 
-                ${example.translation ? `
-                  <div class="ml-grammar-translation">
-                    ${escapeHtml(example.translation)}
-                  </div>
-                ` : ""}
-              </div>
-            `).join("")}
-          </div>
+            <tbody>
+              ${rows.map(row => `
+                <tr>
+                  <td>
+                    <div class="ml-grammar-primary">${escapeHtml(row.col1 || "")}</div>
+                    ${row.col1Translation ? `
+                      <div class="ml-grammar-translation">${escapeHtml(row.col1Translation)}</div>
+                    ` : ""}
+                  </td>
+
+                  <td>
+                    <div class="ml-grammar-primary">${escapeHtml(row.col2 || "")}</div>
+                    ${row.col2Translation ? `
+                      <div class="ml-grammar-translation">${escapeHtml(row.col2Translation)}</div>
+                    ` : ""}
+                  </td>
+                </tr>
+              `).join("")}
+            </tbody>
+          </table>
         ` : ""}
       </section>
     `;
