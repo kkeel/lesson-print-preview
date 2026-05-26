@@ -68,8 +68,16 @@ function renderMLLesson(lesson) {
             ⬚ ${formatMLLessonTitle(lesson.title || "")}
           </div>
         
-          <div class="ml-topic-label">
-            ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
+          <div class="ml-topic-meta">
+            <div class="ml-topic-label">
+              ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
+            </div>
+          
+            ${lesson.weekLabel ? `
+              <div class="ml-week-meta">
+                ${escapeHtml(lesson.weekLabel)}
+              </div>
+            ` : ""}
           </div>
         </div>
 
@@ -86,8 +94,8 @@ function renderMLLesson(lesson) {
           ${renderMLPhraseBlock(lesson.phraseOfWeek)}
           ${renderMLTextBlock(lesson.instructions)}
           ${renderMLTextBlock(lesson.cctBlock)}
-          ${renderMLVocabGrid(lesson.vocab)}
-          ${renderMLSentenceGrid(lesson.sentences)}
+          ${renderMLVocabGrid(sortMLItemsBySet(lesson.vocab))}
+          ${renderMLSentenceGrid(sortMLItemsBySet(lesson.sentences))}
           ${renderMLGrammarCharts(lesson.grammarCharts)}
         </div>
       </div>
@@ -347,4 +355,15 @@ function buildMLResourceTitle(items = [], fallback, options = {}) {
   const setLabel = sets.length === 1 ? sets[0] : sets.join(", ");
 
   return [typeLabel, setLabel].filter(Boolean).join(" - ");
+}
+
+function sortMLItemsBySet(items = []) {
+  return [...items].sort((a, b) => {
+    const aSet = getMLSetNumber(a.set);
+    const bSet = getMLSetNumber(b.set);
+
+    if (aSet !== bSet) return aSet - bSet;
+
+    return Number(a.sequence || 0) - Number(b.sequence || 0);
+  });
 }
