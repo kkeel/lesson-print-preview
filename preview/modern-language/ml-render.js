@@ -109,6 +109,10 @@ function renderMLTopicTerms(lessonSet) {
 function renderMLLesson(lesson) {
   return `
     <article class="ml-lesson-card">
+      ${lesson.editUrl ? `
+        <a href="${escapeHtml(lesson.editUrl)}" target="_blank" class="preview-only edit-button ml-lesson-margin-edit">Edit</a>
+      ` : ""}
+    
       <div class="ml-lesson-main">
         <div class="ml-lesson-heading-row">
           <div class="ml-lesson-title-line">
