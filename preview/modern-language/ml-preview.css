@@ -176,3 +176,7 @@
   width: 50%;
   font-style: italic;
 }
+
+.ml-sentence-block .ml-resource-title {
+  background: #adb58f;
+}
