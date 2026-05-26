@@ -156,25 +156,31 @@
 
 .ml-resource-table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   font-size: 14px;
-  line-height: 1.35;
+  line-height: 1.4;
+}
+
+.ml-resource-table tr + tr td {
+  border-top: 0.5px solid #d7ddd4;
 }
 
 .ml-resource-table td {
-  border: 1px solid #8da08c;
-  padding: 6px 8px;
+  padding: 7px 10px;
   vertical-align: top;
 }
 
 .ml-resource-primary {
   width: 50%;
   font-weight: 700;
+  background: #f4f6fa;
 }
 
 .ml-resource-translation {
   width: 50%;
   font-style: italic;
+  background: #fff;
 }
 
 .ml-sentence-block .ml-resource-title {
