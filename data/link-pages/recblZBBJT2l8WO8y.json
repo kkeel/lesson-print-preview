@@ -29,7 +29,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T15:12:53.219Z",
+  "updatedAt": "2026-05-26T16:31:03.029Z",
   "terms": [
     {
       "termNumber": 2,
@@ -87,6 +87,28 @@
           "weekNumber": 19,
           "weekLabel": "Week 7",
           "lessons": [
+            {
+              "lessonId": "recUSCeMtaYVyi5YK",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "sort": 201901,
+              "lessonLabel": "",
+              "title": "20m General Lit.: Grade 4 - Lesson 19",
+              "anchor": "term-2-week-19-lesson-19",
+              "links": [
+                {
+                  "text": "The Netherlands",
+                  "url": "https://history.howstuffworks.com/european-history/holland-netherlands.htm"
+                },
+                {
+                  "text": "Hans Brinker Pronunciation & Corrections",
+                  "url": "https://www.heardutchhere.net/HansBrinker2.html"
+                }
+              ]
+            },
             {
               "lessonId": "recGKeCYkL4GdZ9Qu",
               "termNumber": 2,

@@ -126,7 +126,56 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Lower French: Grades 1-6",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rec6ytTUIvrSKrxbr",
+                  "label": "Lower French: Grades 1-3 only",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "rec7unlUbB7PXsMsW",
+                  "label": "Lower French: Picture Study only",
+                  "url": "#",
+                  "sort": "2",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recbCASzPXOdXS4WA",
+                  "label": "Lower French: Literature only",
+                  "url": "#",
+                  "sort": "3",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "reca6sqfoiVmkVnos",
+                  "label": "Lower French: Songs, Rhymes, & Conversations only",
+                  "url": "#",
+                  "sort": "4",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recPvZCKhH9RLmyXg",
+                  "label": "Lower French: Grammar only (Grades 4+)",
+                  "url": "#",
+                  "sort": "5",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recpjNBsxF31tBu1z",
+                  "label": "Lower French: Lit. Extension only (Grades 4+)",
+                  "url": "#",
+                  "sort": "6",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

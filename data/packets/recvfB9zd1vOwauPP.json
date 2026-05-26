@@ -138,7 +138,56 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recvfB9zd1vOwauPP",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Lower Spanish: Grades 1-6",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recJ1ap5fumBwUghL",
+                  "label": "Lower Spanish: Grades 1-3 only",
+                  "url": "#",
+                  "sort": "1",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recjgtJMKUsgMXVgm",
+                  "label": "Lower Spanish: Picture Study only",
+                  "url": "#",
+                  "sort": "2",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recGMFWklVxCsWwR8",
+                  "label": "Lower Spanish: Literature only",
+                  "url": "#",
+                  "sort": "3",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recOieHHUg982g0Ps",
+                  "label": "Lower Spanish: Songs, Rhymes, & Conversations only",
+                  "url": "#",
+                  "sort": "4",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "reca7EIgdQBD4tEzy",
+                  "label": "Lower Spanish: Grammar only (Grades 4+)",
+                  "url": "#",
+                  "sort": "5",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recSWqMyprSVJTWzC",
+                  "label": "Lower Spanish: Lit. Extension only (Grades 4+)",
+                  "url": "#",
+                  "sort": "6",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

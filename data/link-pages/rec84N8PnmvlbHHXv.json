@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T15:12:53.241Z",
+  "updatedAt": "2026-05-26T16:31:03.050Z",
   "terms": [
     {
       "termNumber": 1,
@@ -438,6 +438,24 @@
           "weekNumber": 8,
           "weekLabel": "Week 8",
           "lessons": [
+            {
+              "lessonId": "rec98ToDlmIwQSBZ0",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 8,
+              "weekLabel": "Week 8",
+              "sequence": 8,
+              "sort": 100801,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 8",
+              "anchor": "term-1-week-8-lesson-8",
+              "links": [
+                {
+                  "text": "Biography of Gertrudis Gomez de Avellaneda",
+                  "url": "https://www.literaryladiesguide.com/author-biography/gertrudis-gomez-de-avellaneda/"
+                }
+              ]
+            },
             {
               "lessonId": "recrkDXGmt8BX8r5J",
               "termNumber": 1,
