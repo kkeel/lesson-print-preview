@@ -38,7 +38,7 @@ function prepareMLSectionForRender(section, options = {}) {
       const titleSlug = slugifyPreviewAnchor(lessonSet.title || "");
       const topicSlug = slugifyPreviewAnchor(topic);
   
-      return titleSlug === topicSlug || titleSlug.includes(topicSlug);
+      return titleSlug === topicSlug;
     });
   }
 
