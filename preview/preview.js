@@ -99,27 +99,24 @@ function renderMLPreviewControls(data) {
       </select>
     </div>
 
-    <div class="ml-preview-control-group">
-      <label for="ml-jump-term">Jump to term</label>
-      <select id="ml-jump-term">
-        <option value="">Choose term...</option>
-        ${buildMLTermOptions(mlSection)}
-      </select>
-    </div>
+    ${mlViewMode === "course" ? `
+      <div class="ml-preview-control-group">
+        <label for="ml-jump-term">Term</label>
+        <select id="ml-jump-term">
+          <option value="">Choose term...</option>
+          ${buildMLTermOptions(mlSection)}
+        </select>
+      </div>
+    ` : ""}
 
     <div class="ml-preview-control-group">
-      <label for="ml-jump-week">Jump to week</label>
-      <select id="ml-jump-week">
-        <option value="">Choose week...</option>
-        ${buildMLWeekOptions(mlSection)}
-      </select>
-    </div>
-
-    <div class="ml-preview-control-group">
-      <label for="ml-jump-topic">Jump to topic</label>
-      <select id="ml-jump-topic">
-        <option value="">Choose topic...</option>
-        ${buildMLTopicOptions(mlSection)}
+      <label for="ml-jump-main">Jump to</label>
+      <select id="ml-jump-main">
+        <option value="">Choose ${mlViewMode === "topic" ? "topic" : "week"}...</option>
+        ${mlViewMode === "topic"
+          ? buildMLTopicOptions(mlSection)
+          : buildMLWeekOptions(mlSection)
+        }
       </select>
     </div>
   `;
@@ -132,14 +129,12 @@ function renderMLPreviewControls(data) {
   });
 
   document.getElementById("ml-jump-term")?.addEventListener("change", event => {
-    jumpToPreviewAnchor(event.target.value);
+    const term = event.target.value || "";
+    updateMLJumpOptionsForTerm(mlSection, term);
+    jumpToPreviewAnchor(term ? `ml-term-${term}` : "");
   });
 
-  document.getElementById("ml-jump-week")?.addEventListener("change", event => {
-    jumpToPreviewAnchor(event.target.value);
-  });
-
-  document.getElementById("ml-jump-topic")?.addEventListener("change", event => {
+  document.getElementById("ml-jump-main")?.addEventListener("change", event => {
     jumpToPreviewAnchor(event.target.value);
   });
 }
@@ -149,7 +144,7 @@ function buildMLTermOptions(section) {
 
   (section.weeklyLessons || []).forEach(week => {
     if (!week.term) return;
-    terms.set(`ml-term-${week.term}`, `Term ${week.term}`);
+    terms.set(String(week.term), `Term ${week.term}`);
   });
 
   return [...terms.entries()]
@@ -157,8 +152,9 @@ function buildMLTermOptions(section) {
     .join("");
 }
 
-function buildMLWeekOptions(section) {
+function buildMLWeekOptions(section, selectedTerm = "") {
   return (section.weeklyLessons || [])
+    .filter(week => !selectedTerm || String(week.term) === String(selectedTerm))
     .map(week => {
       const label = `Term ${week.term || ""} - ${week.weekLabel || `Week ${week.week || ""}`}`;
       return `<option value="ml-week-${escapeHtml(week.week || "")}">${escapeHtml(label)}</option>`;
@@ -180,6 +176,16 @@ function buildMLTopicOptions(section) {
   return [...topics.entries()]
     .map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`)
     .join("");
+}
+
+function updateMLJumpOptionsForTerm(section, selectedTerm) {
+  const jumpSelect = document.getElementById("ml-jump-main");
+  if (!jumpSelect) return;
+
+  jumpSelect.innerHTML = `
+    <option value="">Choose week...</option>
+    ${buildMLWeekOptions(section, selectedTerm)}
+  `;
 }
 
 function jumpToPreviewAnchor(anchorId) {
