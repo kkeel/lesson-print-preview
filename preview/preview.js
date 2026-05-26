@@ -40,7 +40,11 @@ function renderPacket(data) {
     throw new Error("Missing sections array in JSON");
   }
 
-  data.sections.forEach(section => {
+  const sectionsToRender = mlLesson
+    ? data.sections.filter(section => section.type === "modern-language-lessons")
+    : data.sections;
+  
+  sectionsToRender.forEach(section => {
     html += renderSection(section, data);
   });
 
