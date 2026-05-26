@@ -124,8 +124,8 @@ function formatMLLessonTitle(title) {
   let text = escapeHtml(title || "");
 
   text = text.replace(
-    /Songs,\s*Rhymes,\s*&\s*Conversations\s+–\s+Lesson/i,
-    'Songs, Rhymes & <br>Conversations – Lesson'
+    /(Songs,\s*Rhymes(?:,)?\s*&\s*)Conversations/i,
+    "$1<br>Conversations"
   );
 
   return text;
