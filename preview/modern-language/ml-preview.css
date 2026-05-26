@@ -75,8 +75,12 @@
 
   text-align: right;
 
-  max-width: 2.2in;
+  width: 2.1in;
   margin-right: 0.2in;
+
+  line-height: 1.2;
+
+  white-space: normal;
 }
 
 .ml-lesson-title-line {
