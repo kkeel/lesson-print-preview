@@ -125,7 +125,7 @@ function formatMLLessonTitle(title) {
 
   text = text.replace(
     /Songs,\s*Rhymes,\s*&\s*Conversations\s+–\s+Lesson/i,
-    'Songs, Rhymes & Conversations<br>– Lesson'
+    'Songs, Rhymes & <br>Conversations – Lesson'
   );
 
   return text;
