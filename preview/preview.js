@@ -106,6 +106,16 @@ function renderMLPreviewControls(data) {
       </select>
     </div>
 
+    ${mlViewMode === "topic" ? `
+      <div class="ml-preview-control-group">
+        <label for="ml-jump-topic">Topic</label>
+        <select id="ml-jump-topic">
+          <option value="">Choose topic...</option>
+          ${buildMLTopicOptions(mlSection)}
+        </select>
+      </div>
+    ` : ""}
+
     <div class="ml-preview-control-group">
       <label for="ml-jump-term">Term</label>
       <select id="ml-jump-term">
@@ -114,12 +124,22 @@ function renderMLPreviewControls(data) {
       </select>
     </div>
 
+    ${mlViewMode === "course" ? `
+      <div class="ml-preview-control-group">
+        <label for="ml-jump-week">Week</label>
+        <select id="ml-jump-week">
+          <option value="">Choose week...</option>
+          ${buildMLWeekOptions(mlSection)}
+        </select>
+      </div>
+    ` : ""}
+
     <div class="ml-preview-control-group">
-      <label for="ml-jump-main">Jump to</label>
-      <select id="ml-jump-main">
-        <option value="">Choose ${mlViewMode === "topic" ? "topic" : "week"}...</option>
+      <label for="ml-jump-lesson">Lesson</label>
+      <select id="ml-jump-lesson">
+        <option value="">Choose lesson...</option>
         ${mlViewMode === "topic"
-          ? buildMLTopicOptions(mlSection)
+          ? buildMLTopicLessonOptions(mlSection)
           : buildMLLessonOptions(mlSection)
         }
       </select>
@@ -133,20 +153,30 @@ function renderMLPreviewControls(data) {
     renderPacket(currentPacketData);
   });
 
+  document.getElementById("ml-jump-topic")?.addEventListener("change", event => {
+    updateMLTopicModeLessonOptions(mlSection);
+    jumpToPreviewAnchor(event.target.value);
+  });
+
   document.getElementById("ml-jump-term")?.addEventListener("change", event => {
     const term = event.target.value || "";
-  
+
     if (mlViewMode === "course") {
-      updateMLJumpOptionsForTerm(mlSection, term);
+      updateMLCourseModeOptions(mlSection);
       jumpToPreviewAnchor(term ? `ml-term-${term}` : "");
       return;
     }
-  
-    updateMLTopicOptionsForTerm(mlSection, term);
+
+    updateMLTopicModeLessonOptions(mlSection);
     jumpToFirstTopicTerm(term);
   });
 
-  document.getElementById("ml-jump-main")?.addEventListener("change", event => {
+  document.getElementById("ml-jump-week")?.addEventListener("change", event => {
+    updateMLCourseModeOptions(mlSection);
+    jumpToPreviewAnchor(event.target.value);
+  });
+
+  document.getElementById("ml-jump-lesson")?.addEventListener("change", event => {
     jumpToPreviewAnchor(event.target.value);
   });
 }
@@ -166,85 +196,103 @@ function buildMLTermOptions(section) {
 
 function buildMLWeekOptions(section, selectedTerm = "") {
   return (section.weeklyLessons || [])
-    .filter(week => !selectedTerm || String(week.term) === String(selectedTerm))
+    .filter(week => !selectedTerm || String(week.term || "") === String(selectedTerm))
     .map(week => {
-      const label = `Term ${week.term || ""} - ${week.weekLabel || `Week ${week.week || ""}`}`;
+      const label = week.weekLabel || `Week ${week.week || ""}`;
       return `<option value="ml-week-${escapeHtml(week.week || "")}">${escapeHtml(label)}</option>`;
     })
     .join("");
 }
 
-function buildMLLessonOptions(section, selectedTerm = "") {
+function buildMLLessonOptions(section, selectedTerm = "", selectedWeek = "") {
   const lessons = [];
 
   (section.weeklyLessons || []).forEach(week => {
-    (week.lessons || []).forEach(lesson => {
-      if (
-        selectedTerm &&
-        String(week.term || "") !== String(selectedTerm)
-      ) {
-        return;
-      }
+    if (selectedTerm && String(week.term || "") !== String(selectedTerm)) return;
+    if (selectedWeek && String(week.week || "") !== String(selectedWeek)) return;
 
+    (week.lessons || []).forEach(lesson => {
       lessons.push({
         value: `ml-lesson-${lesson.id}`,
-        label: `${lesson.title} (${week.weekLabel || `Week ${week.week}`})`
+        label: lesson.title || "Untitled lesson"
       });
     });
   });
 
   return lessons
-    .map(item => `
-      <option value="${escapeHtml(item.value)}">
-        ${escapeHtml(item.label)}
+    .map(item => `<option value="${escapeHtml(item.value)}">${escapeHtml(item.label)}</option>`)
+    .join("");
+}
+
+function buildMLTopicOptions(section) {
+  return (section.lessonSets || [])
+    .filter(lessonSet => lessonSet.title)
+    .map(lessonSet => `
+      <option value="ml-topic-${slugifyPreviewAnchor(lessonSet.title)}">
+        ${escapeHtml(lessonSet.title)}
       </option>
     `)
     .join("");
 }
 
-function buildMLTopicOptions(section, selectedTerm = "") {
-  const topics = new Map();
+function buildMLTopicLessonOptions(section, selectedTopic = "", selectedTerm = "") {
+  const lessons = [];
 
   (section.lessonSets || []).forEach(lessonSet => {
-    if (!lessonSet.title) return;
+    const topicAnchor = `ml-topic-${slugifyPreviewAnchor(lessonSet.title || "")}`;
 
-    const topicSlug = slugifyPreviewAnchor(lessonSet.title);
-    const hasSelectedTerm = !selectedTerm || (lessonSet.lessons || []).some(
-      lesson => String(lesson.term || "") === String(selectedTerm)
-    );
+    if (selectedTopic && selectedTopic !== topicAnchor) return;
 
-    if (!hasSelectedTerm) return;
+    (lessonSet.lessons || []).forEach(lesson => {
+      if (selectedTerm && String(lesson.term || "") !== String(selectedTerm)) return;
 
-    topics.set(
-      selectedTerm
-        ? `ml-topic-term-${selectedTerm}-${topicSlug}`
-        : `ml-topic-${topicSlug}`,
-      lessonSet.title
-    );
+      lessons.push({
+        value: `ml-lesson-${lesson.id}`,
+        label: `${lesson.weekLabel || `Week ${lesson.week || ""}`} — ${lesson.title || "Untitled lesson"}`
+      });
+    });
   });
 
-  return [...topics.entries()]
-    .map(([value, label]) => `<option value="${escapeHtml(value)}">${escapeHtml(label)}</option>`)
+  return lessons
+    .map(item => `<option value="${escapeHtml(item.value)}">${escapeHtml(item.label)}</option>`)
     .join("");
 }
 
-function updateMLJumpOptionsForTerm(section, selectedTerm) {
-  const jumpSelect = document.getElementById("ml-jump-main");
-  if (!jumpSelect) return;
+function updateMLCourseModeOptions(section) {
+  const term = document.getElementById("ml-jump-term")?.value || "";
+  const weekAnchor = document.getElementById("ml-jump-week")?.value || "";
+  const selectedWeek = weekAnchor.replace("ml-week-", "");
 
-  jumpSelect.innerHTML = `
-    <option value="">Choose week...</option>
-    ${buildMLLessonOptions(section, selectedTerm)}
-  `;
+  const weekSelect = document.getElementById("ml-jump-week");
+  const lessonSelect = document.getElementById("ml-jump-lesson");
+
+  if (weekSelect) {
+    weekSelect.innerHTML = `
+      <option value="">Choose week...</option>
+      ${buildMLWeekOptions(section, term)}
+    `;
+
+    if (weekAnchor) weekSelect.value = weekAnchor;
+  }
+
+  if (lessonSelect) {
+    lessonSelect.innerHTML = `
+      <option value="">Choose lesson...</option>
+      ${buildMLLessonOptions(section, term, selectedWeek)}
+    `;
+  }
 }
 
-function updateMLTopicOptionsForTerm(section, selectedTerm) {
-  const jumpSelect = document.getElementById("ml-jump-main");
-  if (!jumpSelect) return;
+function updateMLTopicModeLessonOptions(section) {
+  const selectedTopic = document.getElementById("ml-jump-topic")?.value || "";
+  const selectedTerm = document.getElementById("ml-jump-term")?.value || "";
+  const lessonSelect = document.getElementById("ml-jump-lesson");
 
-  jumpSelect.innerHTML = `
-    <option value="">Choose topic...</option>
-    ${buildMLTopicOptions(section, selectedTerm)}
+  if (!lessonSelect) return;
+
+  lessonSelect.innerHTML = `
+    <option value="">Choose lesson...</option>
+    ${buildMLTopicLessonOptions(section, selectedTopic, selectedTerm)}
   `;
 }
 
