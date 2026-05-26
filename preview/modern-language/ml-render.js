@@ -341,6 +341,29 @@ function renderMLVocabGrid(vocab = [], lesson = {}) {
 function renderMLSentenceGrid(sentences = []) {
   if (!Array.isArray(sentences) || !sentences.length) return "";
 
+  const sets = groupMLItemsBySet(sentences);
+
+  if (sets.length > 1) {
+    return `
+      <section class="ml-resource-stacked-review ml-sentence-review-stack">
+        ${sets.map(([setLabel, setItems]) => {
+          const title = buildMLResourceTitle(setItems, "Sentences", {
+            typeField: "sentenceType",
+            setField: "set"
+          });
+
+          return renderMLResourceGrid({
+            title,
+            items: setItems,
+            blockClass: "ml-sentence-block ml-sentence-review-card",
+            primaryKey: "sentence",
+            translationKey: "translation"
+          });
+        }).join("")}
+      </section>
+    `;
+  }
+
   const title = buildMLResourceTitle(sentences, "Sentences", {
     typeField: "sentenceType",
     setField: "set"
