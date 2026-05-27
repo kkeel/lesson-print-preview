@@ -203,7 +203,19 @@ const ML_LESSON_FIELDS = [
   "Sentence Connections",
   "CC&T Lesson Connection",
   "CC&T Lesson Block",
-  "Lesson Type"
+  "Lesson Type",
+  "Lesson Links URL",
+  "URL 1",
+  "URL 2",
+  "URL 3",
+  "URL 4",
+  "URL 5",
+  "Text 1",
+  "Text 2",
+  "Text 3",
+  "Text 4",
+  "Text 5"
+];
 ];
 
 const ML_VOCAB_FIELDS = [
@@ -1469,6 +1481,8 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
           lf["➜ PRACTICE"]
         ),
         cctBlock: buildMLCctBlock(lf, mlInstructionsById),
+        lessonLinksUrl: normalizeText(lf["Lesson Links URL"]),
+        links: buildLessonLinks(lf),
 
         vocab: normalizeArray(lf["Vocab Connections"])
           .map(id => mlVocabById.get(id))
@@ -1706,13 +1720,18 @@ function flattenAdditionalQuickLinks(packet) {
 }
 
 function buildLinkPage(packet) {
-  const lessonSection = (packet.sections || []).find(section => section.type === "lessons");
+  const standardLessonSection = (packet.sections || []).find(section => section.type === "lessons");
+  const modernLanguageSection = (packet.sections || []).find(section => section.type === "modern-language-lessons");
 
-  if (!lessonSection) return null;
+  if (modernLanguageSection) {
+    return buildModernLanguageLinkPage(packet, modernLanguageSection);
+  }
+
+  if (!standardLessonSection) return null;
 
   const terms = [];
 
-  for (const term of lessonSection.terms || []) {
+  for (const term of standardLessonSection.terms || []) {
     const weeksByNumber = new Map();
 
     for (const lesson of term.lessons || []) {
@@ -1792,6 +1811,122 @@ function buildLinkPage(packet) {
       additional: flattenAdditionalQuickLinks(packet)
     },
   
+    updatedAt: new Date().toISOString(),
+    terms
+  };
+}
+
+function buildModernLanguageLinkPage(packet, modernLanguageSection) {
+  const termsByNumber = new Map();
+  const topics = [];
+
+  for (const lessonSet of modernLanguageSection.lessonSets || []) {
+    const topicSlug = slugifyAnchorPart(lessonSet.title);
+
+    topics.push({
+      id: lessonSet.id,
+      title: lessonSet.title,
+      slug: topicSlug,
+      language: lessonSet.language
+    });
+
+    for (const lesson of lessonSet.lessons || []) {
+      const links = lesson.links || [];
+
+      if (!links.length) continue;
+
+      const termNumber = Number(lesson.term || 0);
+      const weekNumber = Number(lesson.week || 0);
+
+      if (!termsByNumber.has(termNumber)) {
+        termsByNumber.set(termNumber, {
+          termNumber,
+          term: termNumber ? `Term ${termNumber}` : "Term",
+          weeksByNumber: new Map()
+        });
+      }
+
+      const term = termsByNumber.get(termNumber);
+
+      if (!term.weeksByNumber.has(weekNumber)) {
+        term.weeksByNumber.set(weekNumber, {
+          weekNumber,
+          weekLabel: lesson.weekLabel || (weekNumber ? `Week ${weekNumber}` : ""),
+          lessons: []
+        });
+      }
+
+      const anchor = [
+        "ml",
+        topicSlug,
+        "term",
+        termNumber || 0,
+        "week",
+        weekNumber || 0,
+        "lesson",
+        slugifyAnchorPart(lesson.sequence || lesson.lessonLabel || lesson.id)
+      ].join("-");
+
+      term.weeksByNumber.get(weekNumber).lessons.push({
+        lessonId: lesson.id,
+        termNumber,
+        termLabel: term.term,
+        weekNumber,
+        weekLabel: lesson.weekLabel || "",
+        sequence: lesson.sequence,
+        sort: lesson.sequence || 0,
+        lessonLabel: lesson.lessonLabel,
+        title: lesson.title,
+        topicId: lessonSet.id,
+        topicTitle: lessonSet.title,
+        topicSlug,
+        anchor,
+        links
+      });
+    }
+  }
+
+  const terms = [...termsByNumber.values()]
+    .map(term => ({
+      termNumber: term.termNumber,
+      term: term.term,
+      weeks: [...term.weeksByNumber.values()]
+        .map(week => ({
+          ...week,
+          lessons: week.lessons.sort((a, b) => Number(a.sort || 0) - Number(b.sort || 0))
+        }))
+        .filter(week => week.lessons.length)
+        .sort((a, b) => Number(a.weekNumber || 0) - Number(b.weekNumber || 0))
+    }))
+    .filter(term => term.weeks.length)
+    .sort((a, b) => Number(a.termNumber || 0) - Number(b.termNumber || 0));
+
+  if (!terms.length) return null;
+
+  return {
+    id: packet.id,
+    type: "modern-language",
+    title: packet.title,
+    lessonSetName: packet.lessonSetName,
+    subject: packet.subject,
+    gradeText: packet.gradeText,
+    sortId: packet.sortId,
+    rowType: packet.rowType,
+    hasTopics: packet.hasTopics,
+    isStandaloneCourse: packet.isStandaloneCourse,
+    courseConnectionNames: packet.courseConnectionNames || [],
+    topicConnectionNames: packet.topicConnectionNames || [],
+    topics,
+
+    quickLinks: {
+      extraHelpingsUrl: normalizeText(packet.extraHelpingsUrl),
+      bookListUrl: normalizeText(packet.bookListUrl),
+      supplyListUrl: normalizeText(packet.supplyListUrl),
+      basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
+      lessonPdfUrl: normalizeText(packet.pdfLinkUrl),
+      additional: flattenAdditionalQuickLinks(packet)
+    },
+
     updatedAt: new Date().toISOString(),
     terms
   };
