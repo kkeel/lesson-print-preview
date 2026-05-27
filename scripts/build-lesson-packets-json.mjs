@@ -46,6 +46,9 @@ const ML_GRAMMAR_EXAMPLES_VIEW_NAME = "";
 const ML_INSTRUCTIONS_TABLE_NAME = "ML Instructions";
 const ML_INSTRUCTIONS_VIEW_NAME = "";
 
+const ML_SUBTITLES_TABLE_NAME = "ML Subtitles";
+const ML_SUBTITLES_VIEW_NAME = "";
+
 const LESSON_FIELDS = [
   "Lesson Set Name",
   "setID",
@@ -272,6 +275,15 @@ const ML_GRAMMAR_EXAMPLE_FIELDS = [
 const ML_INSTRUCTION_FIELDS = [
   "Instructions",
   "CC&T Lesson Block"
+];
+
+const ML_SUBTITLE_FIELDS = [
+  "Formatted Subtitle",
+  "Song/Rhyme Text",
+  "Song/Rhyme Translation",
+  "ML Lesson Plan Sets Connection (Songs)",
+  "ML Lesson Plan Sets Connection (Stories)",
+  "Storylines"
 ];
 
 if (!AIRTABLE_TOKEN) {
@@ -1416,7 +1428,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
     headerLookup.mlLessonPlanSetsById || new Map();
 
   const mlLessonsById =
-  headerLookup.mlLessonsById || new Map();
+    headerLookup.mlLessonsById || new Map();
 
   const mlVocabById =
     headerLookup.mlVocabById || new Map();
@@ -1433,6 +1445,9 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
   const mlInstructionsById =
     headerLookup.mlInstructionsById || new Map();
   
+  const mlSubtitlesByLessonSetId =
+    headerLookup.mlSubtitlesByLessonSetId || new Map();
+    
   const lessonSets = [];
 
   for (const mlSetId of mlLessonPlanSetIds) {
@@ -1581,13 +1596,37 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
       return a.sequence - b.sequence;
     });
 
+    const subtitleResources =
+      mlSubtitlesByLessonSetId.get(mlSetRecord.id) || [];
+    
     lessonSets.push({
       id: mlSetRecord.id,
       title: normalizeText(sf["Lesson Set Name"]),
       language: normalizeText(sf["Language"]),
       perWeek: normalizeText(sf["perWeek"]),
       weeksTotal: normalizeText(sf["Weeks_Total"]),
-      lessons
+      lessons,
+    
+      resources: {
+        songsRhymes: subtitleResources
+          .filter(item => item.songLessonSetIds.includes(mlSetRecord.id))
+          .map(item => ({
+            id: item.id,
+            title: item.title,
+            text: item.songText,
+            translation: item.songTranslation
+          })),
+    
+        storylines: subtitleResources
+          .filter(item => item.storyLessonSetIds.includes(mlSetRecord.id))
+          .map(item => ({
+            id: item.id,
+            title: item.title,
+            storylineLabels: item.storylineLabels
+          })),
+    
+        glossary: []
+      }
     });
   }
 
@@ -2204,6 +2243,12 @@ async function main() {
     ML_INSTRUCTION_FIELDS
   );
 
+  const mlSubtitleRecords = await fetchAllRecords(
+    ML_SUBTITLES_TABLE_NAME,
+    ML_SUBTITLES_VIEW_NAME,
+    ML_SUBTITLE_FIELDS
+  );
+
   console.log(`Fetched ${mlLessonPlanSetRecords.length} ML lesson plan set(s).`);
   console.log(`Fetched ${mlLessonRecords.length} ML lesson(s).`);
   console.log(`Fetched ${mlVocabRecords.length} ML vocab record(s).`);
@@ -2211,6 +2256,7 @@ async function main() {
   console.log(`Fetched ${mlGrammarChartRecords.length} ML grammar chart(s).`);
   console.log(`Fetched ${mlGrammarExampleRecords.length} ML grammar example row(s).`);
   console.log(`Fetched ${mlInstructionRecords.length} ML instruction record(s).`);
+  console.log(`Fetched ${mlSubtitleRecords.length} ML subtitle record(s).`);
   
   const howToById = new Map(howToRecords.map(r => [r.id, r]));
   const howToImagesById = new Map(howToImageRecords.map(r => [r.id, r]));
@@ -2270,7 +2316,38 @@ async function main() {
   headerLookup.mlInstructionsById = new Map(
     mlInstructionRecords.map(record => [record.id, record])
   );
-
+  
+  headerLookup.mlSubtitlesByLessonSetId = new Map();
+  
+  for (const record of mlSubtitleRecords) {
+    const fields = record.fields || {};
+  
+    const subtitleData = {
+      id: record.id,
+      title: normalizeText(fields["Formatted Subtitle"]),
+      songText: normalizeRichText(fields["Song/Rhyme Text"]),
+      songTranslation: normalizeRichText(fields["Song/Rhyme Translation"]),
+      songLessonSetIds: normalizeArray(fields["ML Lesson Plan Sets Connection (Songs)"]),
+      storyLessonSetIds: normalizeArray(fields["ML Lesson Plan Sets Connection (Stories)"]),
+      storylineLabels: normalizeArray(fields["Storylines"])
+    };
+  
+    const connectedLessonSetIds = [
+      ...subtitleData.songLessonSetIds,
+      ...subtitleData.storyLessonSetIds
+    ];
+  
+    for (const lessonSetId of connectedLessonSetIds) {
+      if (!headerLookup.mlSubtitlesByLessonSetId.has(lessonSetId)) {
+        headerLookup.mlSubtitlesByLessonSetId.set(lessonSetId, []);
+      }
+  
+      headerLookup.mlSubtitlesByLessonSetId
+        .get(lessonSetId)
+        .push(subtitleData);
+    }
+  }
+  
   const packets = lessonRecords.map(record => buildPacket(record, headerLookup));
   const index = packets.map(buildIndexItem);
 
