@@ -192,7 +192,7 @@
 }
 
 .ml-text-block {
-  white-space: normal;
+  white-space: pre-line;
 }
 
 .ml-lesson-notes {
