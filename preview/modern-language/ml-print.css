@@ -159,4 +159,14 @@
     break-after: auto;
     page-break-after: auto;
   }
+   
+   .ml-appendix-block {
+     break-before: page;
+     page-break-before: always;
+   }
+   
+   .ml-appendix-block + .ml-appendix-block {
+     break-before: page;
+     page-break-before: always;
+   }
 }
