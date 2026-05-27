@@ -1693,11 +1693,23 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
             )
           })),
       
-        glossary: buildMLGlossaryFromLessonIds(
-          normalizeArray(sf["Vocab Glossary Connection"]),
-          mlLessonsById,
-          mlVocabById
-        )
+        glossary: normalizeArray(sf["Vocab Glossary Connection"])
+          .map(id => mlVocabById.get(id))
+          .filter(Boolean)
+          .map(record => {
+            const vf = record.fields || {};
+        
+            return {
+              id: record.id,
+              text: normalizeText(vf["Vocab/Example"]),
+              translation: normalizeText(vf["English Translation"]),
+              language: normalizeText(vf["Language"]),
+              type: normalizeText(vf["Type"]),
+              sequence: Number(normalizeText(vf["Sequence"]) || 0),
+              label: normalizeText(vf["Vocab Label"]),
+              set: normalizeText(vf["Set"])
+            };
+          })
       }
     });
   }
