@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-27T01:48:36.126Z",
+  "updatedAt": "2026-05-27T08:55:02.811Z",
   "terms": [
     {
       "termNumber": 1,
@@ -582,6 +582,58 @@
       "term": "Term 2",
       "weeks": [
         {
+          "weekNumber": 13,
+          "weekLabel": "Week 1",
+          "lessons": [
+            {
+              "lessonId": "recx7Chz9gMbrw8PR",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 13,
+              "weekLabel": "Week 1",
+              "sequence": 13,
+              "sort": 201301,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 13",
+              "anchor": "term-2-week-13-lesson-13",
+              "links": [
+                {
+                  "text": "Biography of Ralph Waldo Emerson",
+                  "url": "https://poets.org/poet/ralph-waldo-emerson"
+                },
+                {
+                  "text": "Poems by Emerson",
+                  "url": "https://poets.org/poet/ralph-waldo-emerson#tabbed-content"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 14,
+          "weekLabel": "Week 2",
+          "lessons": [
+            {
+              "lessonId": "recIYQIYDtzqDOCKF",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 14,
+              "weekLabel": "Week 2",
+              "sequence": 14,
+              "sort": 201401,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 14",
+              "anchor": "term-2-week-14-lesson-14",
+              "links": [
+                {
+                  "text": "Biography of Henry David Thoreau",
+                  "url": "https://thoreausociety.org/life-legacy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "weekNumber": 15,
           "weekLabel": "Week 3",
           "lessons": [
@@ -600,6 +652,30 @@
                 {
                   "text": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd",
                   "url": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 16,
+          "weekLabel": "Week 4",
+          "lessons": [
+            {
+              "lessonId": "recmFMpdTfDA7YUqO",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 16,
+              "weekLabel": "Week 4",
+              "sequence": 16,
+              "sort": 201601,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 16",
+              "anchor": "term-2-week-16-lesson-16",
+              "links": [
+                {
+                  "text": "Finding Emily Dickinson in the power of her poetry ",
+                  "url": "https://www.youtube.com/watch?v=BLeMZ5WIdrI"
                 }
               ]
             }
@@ -639,6 +715,32 @@
           "weekNumber": 25,
           "weekLabel": "Week 1",
           "lessons": [
+            {
+              "lessonId": "rec8Hn0cn6c8AIHNy",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 25,
+              "sort": 302501,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 25",
+              "anchor": "term-3-week-25-lesson-25",
+              "links": [
+                {
+                  "text": "Biography - Mark Twain",
+                  "url": "https://marktwainhouse.org/about/mark-twain/biography/"
+                },
+                {
+                  "text": "Mark Twain - Writer",
+                  "url": "https://www.youtube.com/watch?v=vuQMBWjmlHk"
+                },
+                {
+                  "text": "Mark Twain and World Literature",
+                  "url": "https://blog.oup.com/2010/04/mark-twain/"
+                }
+              ]
+            },
             {
               "lessonId": "rec2wKa5yAy1ccCHQ",
               "termNumber": 3,

@@ -57,7 +57,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-27T01:48:36.063Z",
+  "updatedAt": "2026-05-27T08:55:02.745Z",
   "terms": [
     {
       "termNumber": 1,
@@ -265,6 +265,24 @@
           "weekNumber": 5,
           "weekLabel": "Week 5",
           "lessons": [
+            {
+              "lessonId": "receI38W4wPMHxIJk",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 5,
+              "weekLabel": "Week 5",
+              "sequence": 5,
+              "sort": 100501,
+              "lessonLabel": "",
+              "title": "30m World History: Grades 7-8 - Lesson 5",
+              "anchor": "term-1-week-5-lesson-5",
+              "links": [
+                {
+                  "text": "Map of Mexico",
+                  "url": "https://www.worldometers.info/img/maps/mexico_physical_map.gif"
+                }
+              ]
+            },
             {
               "lessonId": "recHdEi506nIib1La",
               "termNumber": 1,
@@ -680,7 +698,7 @@
                   "url": "https://cdn.britannica.com/46/93846-050-EDA09DD6/Washington-Monument-Washington-DC.jpg"
                 },
                 {
-                  "text": "Paintings of James Whistler",
+                  "text": "Paintings of James McNeill Whistler",
                   "url": "https://www.metmuseum.org/essays/james-mcneill-whistler-1834-1903"
                 }
               ]
