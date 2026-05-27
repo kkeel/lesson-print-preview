@@ -54,7 +54,64 @@ function prepareMLSectionForRender(section, options = {}) {
   return {
     ...section,
     lessonSets,
-    weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets)
+    weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets),
+    appendices: buildMLAppendices(lessonSets, options)
+  };
+}
+
+function buildMLAppendices(lessonSets = [], options = {}) {
+  const seenStoryIds = new Set();
+  const seenSongIds = new Set();
+  const seenGlossaryIds = new Set();
+
+  const stories = [];
+  const songsRhymes = [];
+  const glossary = [];
+
+  lessonSets.forEach(lessonSet => {
+    const resources = lessonSet.resources || {};
+
+    (resources.stories || []).forEach(story => {
+      if (seenStoryIds.has(story.id)) return;
+
+      seenStoryIds.add(story.id);
+
+      stories.push({
+        ...story,
+        lessonSetTitle: lessonSet.title,
+        language: lessonSet.language
+      });
+    });
+
+    (resources.songsRhymes || []).forEach(song => {
+      if (seenSongIds.has(song.id)) return;
+
+      seenSongIds.add(song.id);
+
+      songsRhymes.push({
+        ...song,
+        lessonSetTitle: lessonSet.title,
+        language: lessonSet.language
+      });
+    });
+
+    (resources.glossary || []).forEach(item => {
+      if (seenGlossaryIds.has(item.id)) return;
+
+      seenGlossaryIds.add(item.id);
+
+      glossary.push({
+        ...item,
+        lessonSetTitle: lessonSet.title,
+        language: lessonSet.language
+      });
+    });
+  });
+
+  return {
+    stories,
+    songsRhymes,
+    glossary
   };
 }
 
@@ -165,8 +222,54 @@ function renderMLByLessonSet(section) {
             </section>
           `).join("")}
         </div>
+
+        ${renderMLAppendices(section.appendices)}
       </section>
     </div>
+  `;
+}
+
+function renderMLAppendices(appendices = {}) {
+  const hasStories = (appendices.stories || []).length;
+  const hasSongs = (appendices.songsRhymes || []).length;
+  const hasGlossary = (appendices.glossary || []).length;
+
+  if (!hasStories && !hasSongs && !hasGlossary) {
+    return "";
+  }
+
+  return `
+    <section class="ml-appendices">
+      ${hasStories ? `
+        <section class="ml-appendix-block">
+          <h1 class="lesson-page-title">Storylines</h1>
+
+          <div class="ml-appendix-placeholder">
+            Storyline rendering coming next
+          </div>
+        </section>
+      ` : ""}
+
+      ${hasSongs ? `
+        <section class="ml-appendix-block">
+          <h1 class="lesson-page-title">Songs & Rhymes</h1>
+
+          <div class="ml-appendix-placeholder">
+            Songs & Rhymes rendering coming next
+          </div>
+        </section>
+      ` : ""}
+
+      ${hasGlossary ? `
+        <section class="ml-appendix-block">
+          <h1 class="lesson-page-title">Vocabulary Glossary</h1>
+
+          <div class="ml-appendix-placeholder">
+            Glossary rendering coming next
+          </div>
+        </section>
+      ` : ""}
+    </section>
   `;
 }
 
