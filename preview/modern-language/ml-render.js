@@ -238,15 +238,15 @@ function renderMLLesson(lesson) {
             ` : ""}
           
             ${lesson.lessonLinksUrl ? `
-              <a class="ml-lesson-links-url" href="${escapeHtml(lesson.lessonLinksUrl)}" target="_blank" rel="noopener">
-                Lesson Links
-              </a>
-          
               <img
                 class="ml-lesson-links-qr"
                 src="https://quickchart.io/qr?size=120&margin=1&text=${encodeURIComponent(lesson.lessonLinksUrl)}"
                 alt="QR code for lesson links"
               />
+            
+              <a class="ml-lesson-links-url" href="${escapeHtml(lesson.lessonLinksUrl)}" target="_blank" rel="noopener">
+                Lesson Links
+              </a>
             ` : ""}
           </div>
         </div>
