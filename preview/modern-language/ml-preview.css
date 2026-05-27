@@ -348,7 +348,7 @@
 .ml-grammar-table {
   width: 100%;
   border-collapse: collapse;
-  border-top: 0.5px solid #d7ddd4;
+  border-top: 0;
   font-size: 14px;
 }
 
