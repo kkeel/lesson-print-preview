@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recjxhOtJDBXK35Pc",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec2VXhvxGK38hpk1-u-s-history-grades-7-8.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recjxhOtJDBXK35Pc",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -141,7 +141,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec2VXhvxGK38hpk1",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recjxhOtJDBXK35Pc",
           "groups": [
             {
               "title": "Related Course Quick Links",

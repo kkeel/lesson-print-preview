@@ -22,7 +22,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recZ0DXfFP97QArDQ",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec0YPXUt8khcgULi-u-s-history-grades-4-6.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZ0DXfFP97QArDQ",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -153,7 +153,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec0YPXUt8khcgULi",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZ0DXfFP97QArDQ",
           "groups": [
             {
               "title": "Related Course Quick Links",

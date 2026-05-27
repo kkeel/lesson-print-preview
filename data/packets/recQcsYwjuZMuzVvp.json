@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recHTgJVYIMQRUCqi",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recQcsYwjuZMuzVvp-history-grades-2-3-canada.pdf",
-  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recHTgJVYIMQRUCqi",
+  "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -160,7 +160,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recQcsYwjuZMuzVvp",
-          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recHTgJVYIMQRUCqi",
+          "extraHelpingsUrl": "",
           "groups": [
             {
               "title": "History: Grades 2-3 (Canada)",

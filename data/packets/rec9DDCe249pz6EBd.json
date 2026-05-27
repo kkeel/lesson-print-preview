@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recBq9iEE2Yn8ZhJh",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec9DDCe249pz6EBd-chemistry-lessons.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recBq9iEE2Yn8ZhJh",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -149,7 +149,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec9DDCe249pz6EBd",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recBq9iEE2Yn8ZhJh",
           "groups": [
             {
               "title": "Chemistry Lessons",
@@ -227,7 +227,7 @@
                 {
                   "id": "recF9wS06Qq5pnW0G",
                   "label": "Chemistry Lab Book",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/1y7NuiYNi1KcxFxrMwuW9s2tU2WK0xstz/view",
                   "sort": "",
                   "sourceTitle": "Science: Chemistry"
                 }

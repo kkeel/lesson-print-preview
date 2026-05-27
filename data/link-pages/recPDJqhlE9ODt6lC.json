@@ -29,7 +29,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-27T18:29:25.172Z",
+  "updatedAt": "2026-05-27T21:41:25.033Z",
   "terms": [
     {
       "termNumber": 1,
@@ -774,6 +774,78 @@
           ]
         },
         {
+          "weekNumber": 20,
+          "weekLabel": "Week 8",
+          "lessons": [
+            {
+              "lessonId": "recAwOQNGGg1zqHCc",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 20,
+              "weekLabel": "Week 8",
+              "sequence": 80,
+              "sort": 202005,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 80",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-20-lesson-80",
+              "links": [
+                {
+                  "text": "Birthplace of Pauline Johnson",
+                  "url": "https://chiefswoodnhs.ca/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 21,
+          "weekLabel": "Week 9",
+          "lessons": [
+            {
+              "lessonId": "rec0AryD0WqTI5P0m",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 82,
+              "sort": 202103,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 82",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-21-lesson-82",
+              "links": [
+                {
+                  "text": "Robert Frost bio",
+                  "url": "https://www.poetryfoundation.org/poets/robert-frost"
+                }
+              ]
+            },
+            {
+              "lessonId": "recl4LSp1Qy40J0iH",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 84,
+              "sort": 202105,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 84",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-21-lesson-84",
+              "links": [
+                {
+                  "text": "Performance of \"The Song My Paddle Sings\"",
+                  "url": "https://youtu.be/tfQaf28-lOE?si=RFcDSmUwm7w3dqpE"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "weekNumber": 22,
           "weekLabel": "Week 10",
           "lessons": [
@@ -796,6 +868,100 @@
                   "url": "https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud"
                 }
               ]
+            },
+            {
+              "lessonId": "recfa6RYy95HM5dOp",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 86,
+              "sort": 202203,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 86",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-22-lesson-86",
+              "links": [
+                {
+                  "text": "Jesus Loves Me",
+                  "url": "https://youtu.be/TlihgT0VFik?si=XfiZFeyHzo_2G4Hm"
+                },
+                {
+                  "text": "Anna Bartlett Warner bio",
+                  "url": "https://en.wikipedia.org/wiki/Anna_Bartlett_Warner"
+                }
+              ]
+            },
+            {
+              "lessonId": "recdyXIV4sVOhOgKl",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 87,
+              "sort": 202204,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 87",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-22-lesson-87",
+              "links": [
+                {
+                  "text": "\"The Homing Bee\"",
+                  "url": "https://poets.org/poem/homing-bee"
+                }
+              ]
+            },
+            {
+              "lessonId": "recSv1YQgnhYMFsGv",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 88,
+              "sort": 202205,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 88",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-22-lesson-88",
+              "links": [
+                {
+                  "text": "Paddle Song One Woman Play",
+                  "url": "https://youtu.be/WKqdW1hhYcA?si=Z1T4Eb3_HVcneU5I"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 23,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "recD4bkSvnBjBcz0u",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 90,
+              "sort": 202303,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 90",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-23-lesson-90",
+              "links": [
+                {
+                  "text": "Harriet McEwan Kimball Hymns",
+                  "url": "https://hymnary.org/person/Kimball_HM1"
+                },
+                {
+                  "text": "Harriet McEwan Kimball bio",
+                  "url": "https://en.wikipedia.org/wiki/Harriet_McEwen_Kimball"
+                }
+              ]
             }
           ]
         }
@@ -805,6 +971,246 @@
       "termNumber": 3,
       "term": "Term 3",
       "weeks": [
+        {
+          "weekNumber": 25,
+          "weekLabel": "Week 1",
+          "lessons": [
+            {
+              "lessonId": "recixqMoSK2AX3YV7",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 98,
+              "sort": 302503,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 98",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-25-lesson-98",
+              "links": [
+                {
+                  "text": "John Greenleaf Whittier bio",
+                  "url": "https://www.poetryfoundation.org/poets/john-greenleaf-whittier"
+                }
+              ]
+            },
+            {
+              "lessonId": "recJOMveSW2YhbUUS",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 99,
+              "sort": 302504,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 99",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-25-lesson-99",
+              "links": [
+                {
+                  "text": "Paul Laurence Dunbar bio",
+                  "url": "https://www.poetryfoundation.org/poets/paul-laurence-dunbar"
+                }
+              ]
+            },
+            {
+              "lessonId": "recRsDvOD03URrtis",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 100,
+              "sort": 302505,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 100",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-25-lesson-100",
+              "links": [
+                {
+                  "text": "Fifth Massachusetts Colored Calvary",
+                  "url": "https://samepassage.org/the-5th-regiment-massachusetts-colored-volunteer-cavalry/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "lessons": [
+            {
+              "lessonId": "recMW4DOK8xZ4qmZ4",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 102,
+              "sort": 302603,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 102",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-26-lesson-102",
+              "links": [
+                {
+                  "text": "Story Behind \"Christmas Bells\"",
+                  "url": "https://reasonsforhopejesus.com/christmas-heard-bells-christmas-day/"
+                },
+                {
+                  "text": "Christmas Bells movie",
+                  "url": "https://www.sight-sound.com/films/i-heard-the-bells"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 27,
+          "weekLabel": "Week 3",
+          "lessons": [
+            {
+              "lessonId": "recacARChci4tRZQh",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 27,
+              "weekLabel": "Week 3",
+              "sequence": 106,
+              "sort": 302703,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 106",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-27-lesson-106",
+              "links": [
+                {
+                  "text": "James Russell Lowell bio",
+                  "url": "https://www.poetryfoundation.org/poets/james-russell-lowell"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 28,
+          "weekLabel": "Week 4",
+          "lessons": [
+            {
+              "lessonId": "recP0LjQCHrs6TDqS",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 110,
+              "sort": 302803,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 110",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-28-lesson-110",
+              "links": [
+                {
+                  "text": "Oliver Wendell Holmes bio",
+                  "url": "https://www.poetryfoundation.org/poets/oliver-wendell-holmes"
+                }
+              ]
+            },
+            {
+              "lessonId": "reczsGgOb3dgNjOFB",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 28,
+              "weekLabel": "Week 4",
+              "sequence": 111,
+              "sort": 302804,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 111",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-28-lesson-111",
+              "links": [
+                {
+                  "text": "Black Soldiers in the Civil War",
+                  "url": "https://youtu.be/DOyO75HJygI?si=5_GbKbAWHtJ4UH2c"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 29,
+          "weekLabel": "Week 5",
+          "lessons": [
+            {
+              "lessonId": "recR02FjLGlOPiQ45",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 29,
+              "weekLabel": "Week 5",
+              "sequence": 114,
+              "sort": 302903,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 114",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-29-lesson-114",
+              "links": [
+                {
+                  "text": "Charlotte Perkins Gilman bio",
+                  "url": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 30,
+          "weekLabel": "Week 6",
+          "lessons": [
+            {
+              "lessonId": "rec6M6qz1oR2zmzOQ",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 118,
+              "sort": 303003,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 118",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-30-lesson-118",
+              "links": [
+                {
+                  "text": "Lucy Larcom bio",
+                  "url": "https://en.wikipedia.org/wiki/Lucy_Larcom"
+                }
+              ]
+            },
+            {
+              "lessonId": "recKew6dtQgsv4u4p",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 30,
+              "weekLabel": "Week 6",
+              "sequence": 119,
+              "sort": 303004,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 119",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-30-lesson-119",
+              "links": [
+                {
+                  "text": "Frederick Douglass",
+                  "url": "https://freedomcenter.org/voice/agitation-and-activism-the-life-and-legacy-of-frederick-douglass/"
+                }
+              ]
+            }
+          ]
+        },
         {
           "weekNumber": 31,
           "weekLabel": "Week 7",
@@ -826,6 +1232,98 @@
                 {
                   "text": "\"I Gave My Love a Cherry Tree\"",
                   "url": "https://www.mamalisa.com/?t=es&p=2404"
+                }
+              ]
+            },
+            {
+              "lessonId": "recdIddTzwhRYdBU6",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 122,
+              "sort": 303103,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 122",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-31-lesson-122",
+              "links": [
+                {
+                  "text": "Photos of Samplers",
+                  "url": "https://americanhistory.si.edu/collections/object-groups/american-samplers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 33,
+          "weekLabel": "Week 9",
+          "lessons": [
+            {
+              "lessonId": "recgs5psiMXfCJdR9",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 33,
+              "weekLabel": "Week 9",
+              "sequence": 130,
+              "sort": 303303,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 130",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-33-lesson-130",
+              "links": [
+                {
+                  "text": "Reading of \"Little Brown Baby\"",
+                  "url": "https://youtu.be/UOyU7Bt0p0s?si=2oeTr3e2LDEO5VWP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "reciLrIXNGHgjFIoI",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 138,
+              "sort": 303503,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 138",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-35-lesson-138",
+              "links": [
+                {
+                  "text": "Mary Mapes Dodge bio",
+                  "url": "https://en.wikipedia.org/wiki/Mary_Mapes_Dodge"
+                }
+              ]
+            },
+            {
+              "lessonId": "rec1rkrJfUuUZ9fIj",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 35,
+              "weekLabel": "Week 11",
+              "sequence": 140,
+              "sort": 303505,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "5m Poetry Reading: Grade 7 - Lesson 140",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-3-week-35-lesson-140",
+              "links": [
+                {
+                  "text": "Paul Laurence Dunbar Home",
+                  "url": "https://youtu.be/xgGlat2ZZ7c?si=BTVJmQSU84vmHj8z"
                 }
               ]
             }

@@ -26,7 +26,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-27T18:29:25.068Z",
+  "updatedAt": "2026-05-27T21:41:24.923Z",
   "terms": [
     {
       "termNumber": 1,
@@ -157,6 +157,10 @@
                 {
                   "text": "Plant and Animal Discoveries",
                   "url": "https://montanakids.com/history_and_prehistory/lewis_and_clark/plants_animals.htm"
+                },
+                {
+                  "text": "A Modern Lewis and Clark Survey",
+                  "url": "https://drive.google.com/file/d/1X2DwpBMeVeRzdX5Zw7-QyQYD4vFfJj5B/view"
                 }
               ]
             }

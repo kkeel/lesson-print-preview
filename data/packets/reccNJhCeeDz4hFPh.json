@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recLbje4VqybSpi0f",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reccNJhCeeDz4hFPh-biology-lessons.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recLbje4VqybSpi0f",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -149,7 +149,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reccNJhCeeDz4hFPh",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recLbje4VqybSpi0f",
           "groups": [
             {
               "title": "Biology Lessons",
@@ -227,7 +227,7 @@
                 {
                   "id": "rectXHiziYSasXPyv",
                   "label": "Biology Lab Book",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/1mCHiZULsZMA7mw4sJiEu1AupGMUYU5hb/view",
                   "sort": "1",
                   "sourceTitle": "Science: Biology"
                 },
