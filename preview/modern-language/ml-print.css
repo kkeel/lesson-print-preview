@@ -32,6 +32,15 @@
     gap: 20px;
   }
 
+   .ml-lesson-links-url {
+     font-size: 10px;
+   }
+   
+   .ml-lesson-links-qr {
+     width: 0.62in;
+     height: 0.62in;
+   }
+
   .ml-lesson-card {
     break-inside: auto;
     page-break-inside: auto;
