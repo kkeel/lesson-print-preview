@@ -142,7 +142,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recnGtrrxLZQpoc2I",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Poetry Reading: Grade 7",
+              "type": "topic",
+              "links": [
+                {
+                  "id": "rec83I91VKUeZf9gm",
+                  "label": "Over the River Public Domain Poetry List",
+                  "url": "https://drive.google.com/file/d/1qON7mvn-Iyf1thEn-tq-0ncsndsxFRgh/view?usp=drive_link",
+                  "sort": "",
+                  "sourceTitle": "Poetry Reading: Grade 7"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

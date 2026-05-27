@@ -138,7 +138,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recl75TzTdk7hIBeY",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Poetry Reading: Grade 8",
+              "type": "topic",
+              "links": [
+                {
+                  "id": "recb29PPNmDDviVc9",
+                  "label": "Over the River Public Domain Poetry List",
+                  "url": "https://drive.google.com/file/d/1qON7mvn-Iyf1thEn-tq-0ncsndsxFRgh/view?usp=drive_link",
+                  "sort": "",
+                  "sourceTitle": "Poetry Reading: Grade 8"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

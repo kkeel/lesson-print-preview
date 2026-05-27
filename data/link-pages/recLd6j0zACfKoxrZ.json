@@ -16,9 +16,17 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recLd6j0zACfKoxrZ-poetry-grades-1-4.pdf",
-    "additional": []
+    "additional": [
+      {
+        "label": "Over the River Public Domain Poetry List",
+        "url": "https://drive.google.com/file/d/1qON7mvn-Iyf1thEn-tq-0ncsndsxFRgh/view?usp=drive_link",
+        "sort": "",
+        "groupTitle": "Poetry: Grades 1-4",
+        "groupType": "course"
+      }
+    ]
   },
-  "updatedAt": "2026-05-27T14:28:37.543Z",
+  "updatedAt": "2026-05-27T15:18:49.962Z",
   "terms": [
     {
       "termNumber": 1,
