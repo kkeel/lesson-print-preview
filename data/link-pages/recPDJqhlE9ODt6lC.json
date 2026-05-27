@@ -21,7 +21,7 @@
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recPDJqhlE9ODt6lC-poetry-grade-7.pdf",
     "additional": []
   },
-  "updatedAt": "2026-05-27T08:55:02.826Z",
+  "updatedAt": "2026-05-27T14:28:37.547Z",
   "terms": [
     {
       "termNumber": 1,
@@ -40,7 +40,9 @@
               "sequence": 2,
               "sort": 100201,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 2",
+              "topicTitle": "Poetry Study",
               "anchor": "term-1-week-2-lesson-2",
               "links": [
                 {
@@ -64,7 +66,9 @@
               "sequence": 3,
               "sort": 100301,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 3",
+              "topicTitle": "Poetry Study",
               "anchor": "term-1-week-3-lesson-3",
               "links": [
                 {
@@ -92,7 +96,9 @@
               "sequence": 10,
               "sort": 101001,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 10",
+              "topicTitle": "Poetry Study",
               "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
@@ -122,7 +128,9 @@
               "sequence": 16,
               "sort": 201601,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 16",
+              "topicTitle": "Poetry Study",
               "anchor": "term-2-week-16-lesson-16",
               "links": [
                 {
@@ -150,7 +158,9 @@
               "sequence": 22,
               "sort": 202201,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 22",
+              "topicTitle": "Poetry Study",
               "anchor": "term-2-week-22-lesson-22",
               "links": [
                 {
@@ -180,7 +190,9 @@
               "sequence": 31,
               "sort": 303101,
               "lessonLabel": "",
+              "linkLabel": "Poetry Study",
               "title": "20m Poetry Study: Grade 7 - Lesson 31",
+              "topicTitle": "Poetry Study",
               "anchor": "term-3-week-31-lesson-31",
               "links": [
                 {
