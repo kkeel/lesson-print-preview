@@ -274,15 +274,29 @@ function renderMLTextBlock(value) {
 
 function renderMLPhraseBlock(value) {
   const text = String(value || "")
-    .replace(/\n\s+\n/g, "\n\n")
-    .replace(/\n\s+/g, "\n")
+    .replace(/\r\n/g, "\n")
     .trim();
 
   if (!text) return "";
 
+  const lines = text
+    .split("\n")
+    .map(line => line.trim())
+    .filter(Boolean);
+
+  const heading = lines[0] || "";
+  const phraseLine = lines.slice(1).join(" ").trim();
+
+  const parts = phraseLine.split(/\s+-\s+/);
+  const phrase = (parts[0] || "").trim();
+  const translation = parts.slice(1).join(" - ").trim();
+
   return `
     <div class="ml-text-block">
-      ${formatInlineRichText(text).replace(/\n/g, "<br>")}
+      ${heading ? `${formatInlineRichText(heading)}<br>` : ""}
+      ${translation ? `
+        <strong>${formatInlineRichText(phrase)}</strong> - <em>${formatInlineRichText(translation)}</em>
+      ` : formatInlineRichText(phraseLine)}
     </div>
   `;
 }
@@ -443,17 +457,24 @@ function renderMLGrammarCharts(charts = []) {
 }
 
 function splitMLGrammarInstructions(value) {
-  const text = String(value || "").trim();
+  const text = String(value || "")
+    .replace(/\r\n/g, "\n")
+    .trim();
+
   if (!text) return { heading: "", body: "" };
 
-  const lines = text
-    .split(/\n+/)
-    .map(line => line.trim())
-    .filter(Boolean);
+  const firstLineBreak = text.indexOf("\n");
+
+  if (firstLineBreak === -1) {
+    return {
+      heading: text.trim(),
+      body: ""
+    };
+  }
 
   return {
-    heading: lines[0] || "",
-    body: lines.slice(1).join("\n")
+    heading: text.slice(0, firstLineBreak).trim(),
+    body: text.slice(firstLineBreak + 1).trim()
   };
 }
 
