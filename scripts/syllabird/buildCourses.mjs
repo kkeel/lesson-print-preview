@@ -407,6 +407,18 @@ function countActiveDays(days) {
   return Object.values(days).filter(Boolean).length || 1;
 }
 
+function daysForCount(count) {
+  const safeCount = Math.max(1, Math.min(Number(count) || 1, 10));
+
+  return {
+    monday: safeCount >= 1,
+    tuesday: safeCount >= 2,
+    wednesday: safeCount >= 3,
+    thursday: safeCount >= 4,
+    friday: safeCount >= 5
+  };
+}
+
 function getMaxWeekForCourse(fields, lessonDetailsById) {
   const lessonIds = normalizeArray(fields["Lessons"]);
   let maxWeek = 0;
@@ -455,13 +467,20 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
 
   const defaultDays = inferDefaultDays(fields);
 
-  const numberOfDaysPerWeek =
+  const trackerTemplate = normalizeRichText(fields["Syllabird Tracker Template"]);
+  const trackerPerWeek =
     Number(normalizeText(fields["perWeek"]) || 0) ||
     countActiveDays(defaultDays);
   
-  const syllabirdDays =
-    normalizeText(fields["Syllabird Days"]) ||
-    formatSyllabirdDays(defaultDays);
+  const numberOfDaysPerWeek = trackerTemplate
+    ? trackerPerWeek
+    : Number(normalizeText(fields["perWeek"]) || 0) ||
+      countActiveDays(defaultDays);
+  
+  const syllabirdDays = trackerTemplate
+    ? formatSyllabirdDays(daysForCount(numberOfDaysPerWeek))
+    : normalizeText(fields["Syllabird Days"]) ||
+      formatSyllabirdDays(defaultDays);
   
   const numberOfWeeks = getMaxWeekForCourse(fields, lessonDetailsById);
 
