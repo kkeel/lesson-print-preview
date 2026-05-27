@@ -231,6 +231,54 @@ function renderMLByLessonSet(section) {
   `;
 }
 
+function renderMLStoryResource(story) {
+  return `
+    <article class="ml-story-resource">
+      <header class="ml-story-header">
+        <div class="ml-story-header-left">
+          <h2 class="ml-story-title">
+            ${escapeHtml(story.title || "")}
+          </h2>
+
+          <div class="ml-story-meta">
+            ${escapeHtml(story.lessonSetTitle || "")}
+          </div>
+        </div>
+      </header>
+
+      <div class="ml-story-lines">
+        ${(story.lines || []).map(renderMLStoryLine).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function renderMLStoryLine(line) {
+  return `
+    <div class="ml-story-line">
+      <div class="ml-story-language-col">
+        <div class="ml-story-reference">
+          ${escapeHtml(line.reference || "")}
+        </div>
+
+        <div class="ml-story-text">
+          ${escapeHtml(line.sentence || "")}
+        </div>
+      </div>
+
+      <div class="ml-story-translation-col">
+        <div class="ml-story-reference">
+          ${escapeHtml(line.reference || "")}
+        </div>
+
+        <div class="ml-story-text">
+          ${escapeHtml(line.translation || "")}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
 function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
@@ -243,11 +291,11 @@ function renderMLAppendices(appendices = {}) {
   return `
     <section class="ml-appendices">
       ${hasStories ? `
-        <section class="ml-appendix-block">
+        <section class="ml-appendix-block ml-storylines-appendix">
           <h1 class="lesson-page-title">Storylines</h1>
-
-          <div class="ml-appendix-placeholder">
-            Storyline rendering coming next
+      
+          <div class="ml-story-list">
+            ${(appendices.stories || []).map(renderMLStoryResource).join("")}
           </div>
         </section>
       ` : ""}
