@@ -440,3 +440,77 @@
   line-height: 1.2;
   color: #596e5e;
 }
+
+/* =========================
+   ML Storylines
+   ========================= */
+
+.ml-story-resource {
+  margin-top: 0.55in;
+}
+
+.ml-story-resource:first-child {
+  margin-top: 0;
+}
+
+.ml-story-header {
+  margin-bottom: 0.22in;
+}
+
+.ml-story-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 34px;
+  line-height: 1.06;
+  font-weight: 400;
+  color: #596e5e;
+  margin: 0 0 0.06in;
+}
+
+.ml-story-meta {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 700;
+  color: #adb58f;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.ml-story-lines {
+  margin-top: 0.14in;
+}
+
+.ml-story-line {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.32in;
+  margin-top: 0.14in;
+}
+
+.ml-story-language-col,
+.ml-story-translation-col {
+  min-width: 0;
+}
+
+.ml-story-translation-col {
+  border-left: 1px solid #c7d0bd;
+  padding-left: 0.32in;
+}
+
+.ml-story-reference {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 10px;
+  line-height: 1.1;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #adb58f;
+  margin-bottom: 0.04in;
+}
+
+.ml-story-text {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.28;
+  color: #111111;
+}
