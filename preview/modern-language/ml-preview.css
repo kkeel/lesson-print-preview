@@ -109,11 +109,8 @@
 }
 
 .ml-lesson-heading-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  align-self: flex-start;
-  gap: 26px;
+  display: block;
+  padding-right: 2.65in;
   margin-bottom: 8px;
 }
 
@@ -130,8 +127,10 @@
 }
 
 .ml-topic-meta {
-  flex: 0 1 2.2in;
-  margin-right: 0.2in;
+  position: absolute;
+  top: 0;
+  right: 0.2in;
+  width: 2.2in;
   text-align: right;
 
   display: flex;
@@ -178,9 +177,6 @@
   font-size: 20px;
   line-height: 1.3;
   font-weight: 700;
-
-  flex: 1 1 auto;
-  min-width: 4.75in;
 }
 
 .ml-lesson-subtitle-line {
