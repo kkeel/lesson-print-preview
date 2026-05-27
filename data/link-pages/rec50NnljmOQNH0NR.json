@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-26T16:31:03.038Z",
+  "updatedAt": "2026-05-27T01:13:57.972Z",
   "terms": [
     {
       "termNumber": 1,
@@ -570,6 +570,14 @@
                 {
                   "text": "Biography of Gertrudis Gomez de Avellaneda",
                   "url": "https://www.literaryladiesguide.com/author-biography/gertrudis-gomez-de-avellaneda/"
+                },
+                {
+                  "text": "10 Poems by Gertrudis Gomez de Avellaneda",
+                  "url": "https://www.literaryladiesguide.com/classic-women-authors-poetry/10-poems-by-gertrudis-gomez-de-avellaneda/"
+                },
+                {
+                  "text": "To A Butterfly by Gertrudis Gómez de Avellaneda ",
+                  "url": "https://www.youtube.com/watch?v=OQGelKDHjjk"
                 }
               ]
             },
@@ -616,6 +624,32 @@
           "weekLabel": "Week 9",
           "lessons": [
             {
+              "lessonId": "recsrpadrbMfTmUJr",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 9,
+              "weekLabel": "Week 9",
+              "sequence": 9,
+              "sort": 100901,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 9",
+              "anchor": "term-1-week-9-lesson-9",
+              "links": [
+                {
+                  "text": "Biography of José María Heredia",
+                  "url": "https://www.ebsco.com/research-starters/history/jose-maria-heredia"
+                },
+                {
+                  "text": "Niagara",
+                  "url": "https://poets.org/poem/niagara"
+                },
+                {
+                  "text": "The Hurricane",
+                  "url": "https://poets.org/poem/hurricane-1"
+                }
+              ]
+            },
+            {
               "lessonId": "recr5T65YIkFgtJW8",
               "termNumber": 1,
               "termLabel": "Term 1",
@@ -661,6 +695,36 @@
           "weekNumber": 10,
           "weekLabel": "Week 10",
           "lessons": [
+            {
+              "lessonId": "recKUtvfoVCM4L1yg",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 10,
+              "sort": 101001,
+              "lessonLabel": "",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 10",
+              "anchor": "term-1-week-10-lesson-10",
+              "links": [
+                {
+                  "text": "Biography of Felicia Dorothea Hemans",
+                  "url": "https://chawtonhouse.org/wp-content/uploads/2012/06/Felicia-Hemans.pdf"
+                },
+                {
+                  "text": "To Wordsworth",
+                  "url": "https://www.poetryfoundation.org/poems/51935/to-wordsworth"
+                },
+                {
+                  "text": "The Haunted House",
+                  "url": "https://www.poetryfoundation.org/poems/1596890/the-haunted-house"
+                },
+                {
+                  "text": "Casabiana",
+                  "url": "https://www.brinkerhoffpoetry.org/poems/casabianca"
+                }
+              ]
+            },
             {
               "lessonId": "rec8SqKkNiNzOPA2r",
               "termNumber": 1,
@@ -841,6 +905,24 @@
           "weekNumber": 15,
           "weekLabel": "Week 3",
           "lessons": [
+            {
+              "lessonId": "recskSG1kGl56WseQ",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 15,
+              "weekLabel": "Week 3",
+              "sequence": 29,
+              "sort": 201502,
+              "lessonLabel": "",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 29",
+              "anchor": "term-2-week-15-lesson-29",
+              "links": [
+                {
+                  "text": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd",
+                  "url": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd"
+                }
+              ]
+            },
             {
               "lessonId": "recXfJNXwpMwUMt73",
               "termNumber": 2,

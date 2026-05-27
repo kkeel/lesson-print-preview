@@ -73,7 +73,7 @@
               "label": "Canadian History: Grades 9-10",
               "grade": "9-10",
               "scheduleInfo": "Canadian History: Grades 9-10\n1 time/week 40 min\n1 time/week 30 min",
-              "books": "The Underground Railroad: Next Stop, Toronto!||||Vanished Beyond the Map||Sophie's Rebellion||Red Wolf||The Charlottetown Conference and the Birth of Confederation"
+              "books": "The Underground Railroad: Next Stop, Toronto!||Vanished Beyond the Map||Sophie's Rebellion||Red Wolf||The Charlottetown Conference and the Birth of Confederation"
             },
             {
               "rowType": "topic",
@@ -1159,11 +1159,16 @@
               "sort": 201304,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 26",
-              "body": "",
+              "body": "Introduction - Vanished Beyond the Map\n⍞ Materials: Vanished Beyond the Map\n\n➜ INTRO\nVanished Beyond the Map is an account of Adam Shoalts's quest to solve the mystery of what happened to Hubert Darrell, a long-forgotten explorer, trapper, guide, and mapmaker, who disappeared in the Arctic in 1910. Shoalts's narrative shows a historian at work: using archival research, historical documents, and interviews with elderly individuals who may have long-ago connections to Darrell's family, Shoalts pieces together Darrell's life and travels. But it is just as much a geographical story: Darrell immigrated from England to Manitoba, then journeyed to the Arctic following the gold rush. His life intersected with that of other great explorers, namely Roald Amundsen and Vilhjalmur Stefansson, and he travelled alone across vast distances in the Arctic.\n\n➜ READ, NARRATE, & DISCUSS\n1. Vanished Beyond the Map\np.1-11 \"Mist hung about\" - \"story of what I found.\"\n\n• What are your initial impressions? Do you have any early guesses about where this story might go?\n\n2. Dictionary of Canadian Biography - Hubert Darrell\nRead the same biographical dictionary entry that initially got Adam Shoalts intrigued in the story of Hubert Darrell. If you prefer to avoid spoilers, you can save reading this until later in the year!\n∞ Article Link: Darrell, Hubert - Dictionary of Canadian Biography",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recZOz661dWWap198",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=13",
+              "links": [
+                {
+                  "text": "Darrell, Hubert - Dictionary of Canadian Biography",
+                  "url": "https://www.biographi.ca/en/bio/darrell_hubert_13E.html"
+                }
+              ]
             },
             {
               "lessonId": "recH18d9HUV3y0z3v",
@@ -1223,11 +1228,16 @@
               "sort": 201404,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 28",
-              "body": "",
+              "body": "Immigration to Manitoba, 1890s\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you recall from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.12-22 \"The early details\" - \"the farm's debts.\"\n\n• Many immigrants to Canada, especially those continuing westward, came from Europe to Halifax. Imagine the route Darrell might have taken from his family's home in Kent (outside London) to Birtle, Manitoba.\n\n➜ VIEW\nLearn more about the landscape Darrell arrived to find in Manitoba by watching some drone footage of Birtle (just skip around and watch a few minutes, as the entire video is quite long).\n∞ Video Link: Birtle Manitoba from Above",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recpH0lQp9zocdtr2",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=14",
+              "links": [
+                {
+                  "text": "Birtle Manitoba from Above",
+                  "url": "https://www.youtube.com/watch?v=uel1OlpQl3U"
+                }
+              ]
             },
             {
               "lessonId": "recx7lZTE4Z9T6ola",
@@ -1287,11 +1297,20 @@
               "sort": 201504,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 30",
-              "body": "",
+              "body": "Klondike\n⍞ Materials: Vanished Beyond the Map, Canadian Student Atlas, My Arctic Map\n\n➜ PREP\nPrint (in colour if possible) this detailed map of Canada's arctic region. If desired, students can add labels and routes to it while they read Vanished Beyond the Map. If printing is not possible, save the link so the map can be referenced easily. In future lessons, this map will be referred to as \"My Arctic Map.\"\n∞ Map Link: Yukon and Northwest Territories\n\n➜ RECAP\nWhat do you recall of Darrell's immigration story from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.23-35 \"I was shivering\" - \"a desire to hunt one.\"\n\n➜ MAP WORK\n⍞ Map Resource: Canadian Student Atlas p.32\n1. Locate the Kluane Range [A: They are the mountains between Kluane Lake and the larger St. Elias Mountain Range, the southwest corner of Yukon.]\n2. Locate Great Slave Lake and follow the Mackenzie River from that lake to the Arctic Ocean.\n\n➜ VIEW\n1. Look at the first two full spreads of photos between p.32-33.\n\n2. There is very early video footage of prospectors making their way to Skagway and over the Chilkoot Trail to the Klondike's goldfields. The following video shows footage filmed by Thomas Edison, who travelled there himself in 1896.\n∞ Video Link: Thomas Edison's Stunning Footage of the Klondike Gold Rush",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=reciATZP2yw9Tgo8O",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=15",
+              "links": [
+                {
+                  "text": "Yukon and Northwest Territories",
+                  "url": "https://ontheworldmap.com/canada/province/yukon/map-of-yukon-and-northwest-territories.jpg"
+                },
+                {
+                  "text": "Thomas Edison's Stunning Footage of the Klondike Gold Rush",
+                  "url": "https://www.youtube.com/watch?v=LPTWJ1BNCio"
+                }
+              ]
             },
             {
               "lessonId": "recaMbr8nHvKE5SBT",
@@ -1351,11 +1370,16 @@
               "sort": 201604,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 32",
-              "body": "",
+              "body": "Wanderer\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you recall from your reading last week?\n\n➜ READ, NARRATE, & DISCUSS\n1. Vanished Beyond the Map\np.35-50 \"After another winter passed\" - \"use of the original name.\"\n\n2. Read the Dictionary of Canadian Biography entry for David Hanbury.\n∞ Article Link: Hanbury, David Theophilus - Dictionary of Canadian Biography\n\n➜ VIEW\nReview Darrell's route maps on p.39 and p.49. Add routes to My Arctic Map (optional); note that the map doesn't go far enough east to include the entire journey with Hanbury.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec2M9PDf6IcpH8Wl",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=16",
+              "links": [
+                {
+                  "text": "Hanbury, David Theophilus - Dictionary of Canadian Biography",
+                  "url": "https://www.biographi.ca/en/bio/hanbury_david_theophilus_13E.html"
+                }
+              ]
             },
             {
               "lessonId": "recKrbZF0dp3Ev681",
@@ -1415,11 +1439,16 @@
               "sort": 201704,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 34",
-              "body": "",
+              "body": "Travels with Hanbury\n⍞ Materials: Vanished Beyond the Map; My Arctic Map\n\n➜ RECAP\nWhat do you recall from last week about Darrell's travels with Chief Yinto and with David Hanbury?\n\n➜ READ, NARRATE, & DISCUSS\np.50-62 \"By the end of summer\" - \"such an improbable journey.\"\n\n➜ VIEW\nAs you read, continue to follow the route by referencing the map on page 49.\n\n➜ MAP WORK\nLooking at the close-up map of Great Bear Lake (labelled here in German), find the major geographical points Darrell and Hanbury journeyed through in today's reading: Coppermine River, Dismal Lakes, Dease River, Great Bear River, Mackenzie River. You can add the names that are missing to My Arctic Map.\n∞ Map Link: Great Bear Lake",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rectixHxnmIb5T695",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=17",
+              "links": [
+                {
+                  "text": "Great Bear Lake",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Great_Bear_Lake_%28de%29.png"
+                }
+              ]
             },
             {
               "lessonId": "recWJMCOXIZbbfVTq",
@@ -1484,7 +1513,7 @@
               "sort": 201804,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 36",
-              "body": "",
+              "body": "Return to Manitoba\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat stood out to you most from last week's reading?\n\n➜ INTRO\nHistorical records—such as birth, marriage, and death certificates, government forms, property titles, etc.—can help to reconstruct the facts of an individual's life, but if you want to know what someone born 150 years ago was truly like—their thoughts, beliefs, and feelings—how might you find out?\n\n➜ READ, NARRATE, & DISCUSS\np.63-77 \"By December 1902\" - \"he'd never return.\"",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recqsLlsVCogrR5Do",
               "lessonLinksUrl": "",
@@ -1548,7 +1577,7 @@
               "sort": 201904,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 38",
-              "body": "",
+              "body": "Travels with Harrison\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you recall from last week's reading about Darrell's time back in Manitoba?\n\n➜ READ, NARRATE, & DISCUSS\np.78-91 \"Darrell's hard fist\" - \"for his greatest feats.\"\n\n➜ VIEW\nStudy the map on p.85 as you read about Darrell's journey with Harrison. Add the route to My Arctic Map (optional).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recpGps0CnkJNZf9K",
               "lessonLinksUrl": "",
@@ -1612,11 +1641,16 @@
               "sort": 202004,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 40",
-              "body": "",
+              "body": "Delivering the Mail and the Northwest Passage\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you recall from last week's reading about Darrell's journey with Harrison?\n\n➜ INTRO\nIn today's reading, you will learn about how Darrell encountered Roald Amundsen in 1906, when Amundsen and his crew were overwintering after sailing through the Northwest Passage for the very first time. \n\n➜ READ, NARRATE, & DISCUSS\np.92-104 \"With nothing to keep him\" - \"he was off again.\"\n\n➜ VIEW\nStudy the map on p.97 as you read about Darrell's journey as an arctic mail carrier. Add the route to My Arctic Map (optional).\n\n➜ VIEW, NARRATE, & DISCUSS\n∞ Video Link: Roald Amundsen and the Northwest passage (1903-1906)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recbxRfi4QQbV4XkC",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=20",
+              "links": [
+                {
+                  "text": "Roald Amundsen and the Northwest passage (1903-1906)",
+                  "url": "https://www.youtube.com/watch?v=6TYm32M9nu0"
+                }
+              ]
             },
             {
               "lessonId": "recpcNQM2b3HkjvUn",
@@ -1676,11 +1710,16 @@
               "sort": 202104,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 42",
-              "body": "",
+              "body": "Dreams & Disappointments\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you recall from last week's reading about Darrell's journeys as a mail carrier and his encounter with Amundsen?\n\n➜ READ, NARRATE, & DISCUSS\np.105-117 \"The hardened whaling captain\" - \"then all return together.\"\n\n➜ VIEW\n1. Spend a bit of time looking at the remaining photographs between p.32-33. Note that several were taken by Hanbury and Harrison.\n\n2. View the Mackenzie River Delta from a satellite and try to imagine the challenges involved in navigating it during the spring thaw.\n∞ Video Link: Exploring Earth From Space: Mackenzie River, Canada",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec6kjQoqhQsGqiIl",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=21",
+              "links": [
+                {
+                  "text": "Exploring Earth From Space: Mackenzie River, Canada ",
+                  "url": "https://www.youtube.com/watch?v=eko544Y5tOU"
+                }
+              ]
             },
             {
               "lessonId": "recDqqdHVKjfzHhry",
@@ -1740,11 +1779,16 @@
               "sort": 202204,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 44",
-              "body": "",
+              "body": "Guiding the Mounties\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you recall from the reading last week?\n\n➜ READ, NARRATE, & DISCUSS\np.117-130 \"Darrell himself would have\" - \"just beyond the horizon.\"\n\n➜ VIEW\nStudy the map on p.124 as you read about Darrell's journey as guide and trail breaker for the North-West Mounted Police. Add the route to My Arctic Map (optional).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recpMyCb1BnP3HHot",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=2&week=22",
+              "links": [
+                {
+                  "text": "Lost But Not Forgotten: Remembering the Lost Patrol 114 Years Later",
+                  "url": "https://npf-fpn.com/the_locker/lost-but-not-forgotten-remembering-the-lost-patrol-114-years-later/"
+                }
+              ]
             },
             {
               "lessonId": "rec8dmu3k4bTWi554",
@@ -1804,7 +1848,7 @@
               "sort": 202304,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 46",
-              "body": "",
+              "body": "Yearnings\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you recall from the readings last week?\n\n➜ READ, NARRATE, & DISCUSS\np.131-141 \"Darrell had been growing\" - \"Hubert Darrell.\"\n\n• Reflect on how Darrell, whom history has scarcely remembered, was nevertheless known (both personally and by reputation) by so many famous adventurers and explorers during his own day.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recszEnXLf0NYyTn3",
               "lessonLinksUrl": "",
@@ -1868,7 +1912,7 @@
               "sort": 202404,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 48",
-              "body": "",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nCanadian Student Atlas",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec0gAKnkTyzHEOA9",
               "lessonLinksUrl": "",
@@ -1943,7 +1987,7 @@
               "sort": 302504,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 50",
-              "body": "",
+              "body": "Darrell's Disappearance\n⍞ Materials: Vanished Beyond the Map; Canadian Student Atlas, My Arctic Map\n\n➜ RECAP\nWhat do you recall from the readings last time?\n\n➜ READ, NARRATE, & DISCUSS\np.142-151 \"Reconstructing Darrell's movements\" - \"news for a time.\"\n\n• Shoalts writes that at this point in the story, \"I'd come to the end of his surviving letters and journals\" (142). How do you think he will proceed in trying to solve this mystery? What avenues of inquiry are still open to him in this cold case that's over a century old? \n• What is your early guess about what might have happened to Darrell?\n\n➜ MAP WORK\n⍞ Map Resource: Canadian Student Atlas p.32-33, My Arctic Map\nReferencing the drawn map on p.144 (Vanished Beyond the Map), follow Darrell's route in the atlas. Add this route to My Arctic Map (optional).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recwfV0ASh38aUW6H",
               "lessonLinksUrl": "",
@@ -2012,7 +2056,7 @@
               "sort": 302604,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 52",
-              "body": "",
+              "body": "Traces\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you recall from last week regarding news of Darrell's disappearance?\n\n➜ READ, NARRATE, & DISCUSS\np.151-162 \"Back when I'd first started\" - \"to search for it.\"",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recqchYkiz22y5vbC",
               "lessonLinksUrl": "",
@@ -2081,11 +2125,16 @@
               "sort": 302704,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 54",
-              "body": "",
+              "body": "Faded Traces\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you recall from last week regarding news of Darrell's disappearance?\n\n➜ READ, NARRATE, & DISCUSS\np.165-176 \"Only once on any\" - \"summer of 2019.\"",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recUVHs1TuZyOp3fX",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=3&week=27",
+              "links": [
+                {
+                  "text": "Exploring The Anderson River ",
+                  "url": "https://www.youtube.com/watch?v=yC9ljmDEKtQ"
+                }
+              ]
             },
             {
               "lessonId": "recX4f5C4snXa4rvv",
@@ -2154,11 +2203,20 @@
               "sort": 302804,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 56",
-              "body": "",
+              "body": "Anderson River Expedition\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you recall from last week regarding Shoalts's planning for his expedition?\n\n➜ READ, NARRATE, & DISCUSS\np.176-188 \"When I arrived in Yellowknife\" - \"to his doom.\"\n\n• Do you remember meeting Chuck Brill in the Alone Across the Arctic documentary? (If you want to revisit, his interview begins at 8:33)\n∞ Video Link: Alone Across the Arctic\n\n➜ VIEW\nSpend some time looking at the first six photos in the second set of photos between pages 176-177.\n\n➜ MAP WORK\nLocate Norman Wells on the map below (it is not shown on the Canadian Student Atlas). Add it to My Arctic Map (optional).\n∞ Map Link: Map of NWT",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec7PspXKrBD6QDHd",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=3&week=28",
+              "links": [
+                {
+                  "text": "Alone Across the Arctic",
+                  "url": "https://www.youtube.com/watch?v=V5_wgGmIl6o"
+                },
+                {
+                  "text": "Map of NWT",
+                  "url": "https://i.cbc.ca/ais/1.6025988,1620942888000/full/max/0/default.jpg"
+                }
+              ]
             },
             {
               "lessonId": "recLWwO0JLHUMXGpV",
@@ -2223,7 +2281,7 @@
               "sort": 302904,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 58",
-              "body": "",
+              "body": "Catch-up Day\n\n➜ CATCH UP\nUse this time to catch up on lessons or mapping activities in this or another course, or explore Extra Helpings. You can also work on updating your Book of Centuries or History Chart.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recBy4ktnNDxD4o7a",
               "lessonLinksUrl": "",
@@ -2292,11 +2350,16 @@
               "sort": 303004,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 60",
-              "body": "",
+              "body": "The Fog of Time\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat did you read previously about Shoalts's discoveries on his trip?\n\n➜ READ, NARRATE, & DISCUSS\np.203-212 \"When I got home to Ontario\" - \"any trace of Darrell.\"\n\n• What does today's reading show about some of the difficulties and frustrations of interpreting historical records, especially when they contradict each other?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec6eMAFKHoTrgGYt",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=3&week=30",
+              "links": [
+                {
+                  "text": "The Bishop Who Ate His Boots",
+                  "url": "http://www.stringercam.com/bishop_boots.html"
+                }
+              ]
             },
             {
               "lessonId": "recw5fdZyBiRbdiNP",
@@ -2361,11 +2424,20 @@
               "sort": 303104,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 62",
-              "body": "",
+              "body": "Travels to Smoke River\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat discoveries did Shoalts make from his archival research?\n\n➜ READ, NARRATE, & DISCUSS\np.213-225 \"I stared at the map\" - \"what tomorrow might hold.\"\n\n➜ MAP WORK\nLocate and label Smoke River on My Arctic Map (it is drawn there but unlabelled). Use Shoalts's map on p.215 for reference.\n\n➜ VIEW\nSpend some time looking at the first four photos between p.224-225.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=reckNQIQLLVPYNrYz",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=3&week=31",
+              "links": [
+                {
+                  "text": "The Smoking Hills",
+                  "url": "https://www.atlasobscura.com/places/smoking-hills"
+                },
+                {
+                  "text": "A spectacular phenomenon - the Smoking Hills Northwest Territories",
+                  "url": "https://www.youtube.com/shorts/TJCYP7rb1S0"
+                }
+              ]
             },
             {
               "lessonId": "recCJkOgMYmllGxuZ",
@@ -2430,7 +2502,7 @@
               "sort": 303204,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 64",
-              "body": "",
+              "body": "Husky Lakes\n⍞ Materials: Vanished Beyond the Map, My Arctic Map\n\n➜ RECAP\nWhat do you remember about Smoke River from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.226-238 \"By far the biggest grizzly\" - \"narrow things down any further.\"\nAs you read, refer back to the map on p.215 to trace Shoalts's route. Add the route to My Arctic Map (optional).\n\n➜ VIEW\nSpend some time looking at the next six photographs between p.224-225 (from the grizzly photo to the seal photo).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=rec0xgrJGBrqzKUh6",
               "lessonLinksUrl": "",
@@ -2499,7 +2571,7 @@
               "sort": 303304,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 66",
-              "body": "",
+              "body": "The Answer? \n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you remember from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.238-250 \"Finally, with calmer conditions\" - \"before flying home.\"\n\n• What do you think of Shoalts's theory? Is it plausible? Could it ever be proven? What do you think is the role of intuition in the work of a historian?\n\n➜ VIEW\nSpend some time looking at the remaining photographs between p.224-225.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recYyCaGlvTi0tIO3",
               "lessonLinksUrl": "",
@@ -2568,11 +2640,16 @@
               "sort": 303404,
               "lessonLabel": "",
               "title": "30m Canadian History: Grades 9-10 - Lesson 68",
-              "body": "",
+              "body": "Legacy\n⍞ Materials: Vanished Beyond the Map\n\n➜ RECAP\nWhat do you remember from last week's reading?\n\n➜ READ, NARRATE, & DISCUSS\np.251-264 \"As we had made our boat journey\" - \"something well worth saving.\"\n\n• Reflect on the contributions Darrell made to the history of geography. Shoalts writes that many times \"in Darrell's life, the chance to go down in history slipped through his fingers\" (257). However, his actions aided and affected many people, and he was on the periphery of a number of significant arctic discoveries at the turn of the twentieth century.\n• What are your thoughts on the book as a whole?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recSmUCl42Ci92IOe&6J82c=recR2zzVvOxrxm37f",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recIVGK6O1dXsQXub&term=3&week=34",
+              "links": [
+                {
+                  "text": "Darrell, Hubert - Dictionary of Canadian Biography",
+                  "url": "https://www.biographi.ca/en/bio/darrell_hubert_13E.html"
+                }
+              ]
             },
             {
               "lessonId": "recMDcP15RyVf51Cd",

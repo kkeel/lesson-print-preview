@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recW7Ozpg6YpDopUs",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recW7Ozpg6YpDopUs",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recxrwoGczFf3qr6y-general-science-grade-3.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recW7Ozpg6YpDopUs",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -172,7 +172,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recxrwoGczFf3qr6y",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recW7Ozpg6YpDopUs",
           "groups": [
             {
               "title": "Related Course Quick Links",

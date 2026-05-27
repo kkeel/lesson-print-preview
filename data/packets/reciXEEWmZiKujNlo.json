@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recUsu8pR1gAT6SmN",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reciXEEWmZiKujNlo-grammar-comp-grade-8.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUsu8pR1gAT6SmN",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -141,7 +141,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUsu8pR1gAT6SmN",
           "groups": [
             {
               "title": "Grammar/Comp: Grade 8",
