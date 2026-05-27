@@ -131,6 +131,11 @@
   flex: 0 1 2.2in;
   margin-right: 0.2in;
   text-align: right;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
 }
 
 .ml-topic-meta .ml-topic-label {
@@ -151,7 +156,7 @@
 
 .ml-lesson-links-url {
   display: inline-block;
-  margin-top: 6px;
+  margin-top: 0;
   color: #596e5e;
   font-size: 11px;
   font-weight: 700;
@@ -163,7 +168,7 @@
   display: block;
   width: 0.72in;
   height: 0.72in;
-  margin: 6px 0 0 auto;
+  margin: 4px 0 0 auto;
 }
 
 .ml-lesson-title-line {
