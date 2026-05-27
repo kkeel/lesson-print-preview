@@ -10,6 +10,7 @@ const PACKET_DIR = "./data/packets";
 
 const COURSE_PICKER_DIR = "./course-picker";
 const OUTPUT_ROOT = `${COURSE_PICKER_DIR}/pdf/modern-language`;
+const MANIFEST_PATH = `${OUTPUT_ROOT}/ml-pdf-manifest.json`;
 
 const BASE_PRINT_URL =
   "https://kkeel.github.io/lesson-print-preview/preview/print.html";
@@ -33,6 +34,10 @@ function getPacketJsonPath(packetId) {
 
 function loadJson(filepath) {
   return JSON.parse(fs.readFileSync(filepath, "utf8"));
+}
+
+function saveJson(filepath, value) {
+  fs.writeFileSync(filepath, JSON.stringify(value, null, 2));
 }
 
 function slugify(text) {
@@ -59,6 +64,14 @@ function getModernLanguageSection(packet) {
 
 function isModernLanguagePacket(packet) {
   return Boolean(getModernLanguageSection(packet));
+}
+
+function loadManifest() {
+  if (!fs.existsSync(MANIFEST_PATH)) {
+    return {};
+  }
+
+  return loadJson(MANIFEST_PATH);
 }
 
 async function getPdfPageCount(pdfPath) {
@@ -167,7 +180,7 @@ function getIndividualLessonJobs(packet, mlSection) {
 function getPacketRenderJobs(packet) {
   const mlSection = getModernLanguageSection(packet);
 
-  const jobs = [
+  return [
     {
       key: `${packet.id}:full-course`,
       type: "fullCourse",
@@ -199,8 +212,43 @@ function getPacketRenderJobs(packet) {
     ...getTopicRenderJobs(packet, mlSection),
     ...getIndividualLessonJobs(packet, mlSection)
   ];
+}
 
-  return jobs;
+function commitCoursePickerChanges(renderedCount) {
+  if (renderedCount === 0) {
+    console.log("No Modern Language PDFs changed. Skipping commit.");
+    return;
+  }
+
+  execSync(`git -C ${COURSE_PICKER_DIR} config user.name "github-actions[bot]"`, {
+    stdio: "inherit"
+  });
+
+  execSync(
+    `git -C ${COURSE_PICKER_DIR} config user.email "41898282+github-actions[bot]@users.noreply.github.com"`,
+    { stdio: "inherit" }
+  );
+
+  execSync(`git -C ${COURSE_PICKER_DIR} add pdf/modern-language`, {
+    stdio: "inherit"
+  });
+
+  const status = execSync(`git -C ${COURSE_PICKER_DIR} status --porcelain`, {
+    encoding: "utf8"
+  }).trim();
+
+  if (!status) {
+    console.log("No course-picker changes to commit.");
+    return;
+  }
+
+  execSync(`git -C ${COURSE_PICKER_DIR} commit -m "Update modern language PDFs"`, {
+    stdio: "inherit"
+  });
+
+  execSync(`git -C ${COURSE_PICKER_DIR} push`, {
+    stdio: "inherit"
+  });
 }
 
 async function main() {
@@ -208,7 +256,16 @@ async function main() {
     throw new Error(`Missing ${INDEX_PATH}`);
   }
 
+  if (!fs.existsSync(COURSE_PICKER_DIR)) {
+    throw new Error(
+      `Missing ${COURSE_PICKER_DIR}. Make sure the workflow checks out course-picker into ./course-picker.`
+    );
+  }
+
+  console.log(`Modern Language render mode: ${RENDER_MODE}`);
+
   const index = loadJson(INDEX_PATH);
+  const manifest = loadManifest();
   const jobs = [];
 
   for (const record of index) {
@@ -230,13 +287,45 @@ async function main() {
   console.log(`Modern Language render jobs found: ${jobs.length}`);
 
   let renderedCount = 0;
+  let skippedCount = 0;
 
   for (const job of jobs) {
-    await renderPdf(job);
+    const currentHash = hashObject(job.hashSource);
+    const previousHash = manifest[job.key]?.hash;
+
+    const shouldRender =
+      RENDER_MODE === "all" ||
+      currentHash !== previousHash ||
+      !fs.existsSync(job.outputPath);
+
+    if (!shouldRender) {
+      console.log(`Skipping unchanged: ${job.key}`);
+      skippedCount++;
+      continue;
+    }
+
+    const pageCount = await renderPdf(job);
+
+    manifest[job.key] = {
+      hash: currentHash,
+      type: job.type,
+      packetId: job.packetId,
+      outputPath: job.outputPath.replace(`${COURSE_PICKER_DIR}/`, ""),
+      pageCount,
+      updatedAt: new Date().toISOString()
+    };
+
     renderedCount++;
   }
 
+  saveJson(MANIFEST_PATH, manifest);
+
   console.log(`Rendered Modern Language PDFs: ${renderedCount}`);
+  console.log(`Skipped unchanged Modern Language PDFs: ${skippedCount}`);
+
+  commitCoursePickerChanges(renderedCount);
+
+  console.log("Done rendering Modern Language PDFs.");
 }
 
 main();
