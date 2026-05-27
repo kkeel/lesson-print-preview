@@ -180,6 +180,8 @@ function renderMLWeeklyLessons(section) {
         <div class="ml-week-list">
           ${(section.weeklyLessons || []).map(week => renderMLWeek(week)).join("")}
         </div>
+
+        ${renderMLAppendices(section.appendices)}
       </section>
     </div>
   `;
