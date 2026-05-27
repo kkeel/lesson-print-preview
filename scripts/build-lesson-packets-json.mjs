@@ -181,7 +181,8 @@ const ML_LESSON_PLAN_SET_FIELDS = [
   "perWeek",
   "Weeks_Total",
   "Mod. Lang. Lessons",
-  "Lesson Plan Sets"
+  "Lesson Plan Sets",
+  "Vocab Glossary Connection"
 ];
 
 const ML_LESSON_FIELDS = [
@@ -1616,16 +1617,32 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
             text: item.songText,
             translation: item.songTranslation
           })),
-    
-        storylines: subtitleResources
+      
+        stories: subtitleResources
           .filter(item => item.storyLessonSetIds.includes(mlSetRecord.id))
           .map(item => ({
             id: item.id,
             title: item.title,
-            storylineLabels: item.storylineLabels
+            storylineIds: item.storylineLabels
           })),
-    
-        glossary: []
+      
+        glossary: normalizeArray(sf["Vocab Glossary Connection"])
+          .map(id => mlVocabById.get(id))
+          .filter(Boolean)
+          .map(record => {
+            const vf = record.fields || {};
+      
+            return {
+              id: record.id,
+              text: normalizeText(vf["Vocab/Example"]),
+              translation: normalizeText(vf["English Translation"]),
+              language: normalizeText(vf["Language"]),
+              type: normalizeText(vf["Type"]),
+              sequence: Number(normalizeText(vf["Sequence"]) || 0),
+              label: normalizeText(vf["Vocab Label"]),
+              set: normalizeText(vf["Set"])
+            };
+          })
       }
     });
   }
