@@ -192,7 +192,7 @@
 }
 
 .ml-text-block {
-  white-space: pre-line;
+  white-space: normal;
 }
 
 .ml-lesson-notes {
@@ -333,16 +333,23 @@
 
 .ml-grammar-heading {
   color: inherit;
-  font-weight: 700;
+  font-weight: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 .ml-grammar-instructions {
-  white-space: pre-line;
+  white-space: normal;
+  font-weight: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
-.ml-grammar-instructions strong:first-child,
-.ml-grammar-heading strong:first-child {
+.ml-grammar-instructions strong,
+.ml-grammar-heading strong {
   color: inherit;
+  font-weight: inherit;
+  font-size: inherit;
 }
 
 .ml-grammar-table {
