@@ -458,7 +458,7 @@ function shouldExportCourse(record) {
   );
 }
 
-function buildCourseRow(record, headerLookup, lessonDetailsById) {
+function buildCourseRow(record, headerLookup, lessonDetailsById, packet = null) {
   const fields = record.fields || {};
 
   const setId = normalizeText(fields.setID) || record.id;
@@ -467,8 +467,12 @@ function buildCourseRow(record, headerLookup, lessonDetailsById) {
 
   const defaultDays = inferDefaultDays(fields);
 
-  const trackerTemplate = normalizeRichText(fields["Syllabird Tracker Template"]);
+  const trackerTemplate =
+    normalizeRichText(fields["Syllabird Tracker Template"]) ||
+    normalizeRichText(packet?.syllabird?.trackerTemplate);
+  
   const trackerPerWeek =
+    Number(packet?.syllabird?.perWeek || 0) ||
     Number(normalizeText(fields["perWeek"]) || 0) ||
     countActiveDays(defaultDays);
   
@@ -505,10 +509,20 @@ async function ensureDir(dirPath) {
   await fs.mkdir(dirPath, { recursive: true });
 }
 
+async function readJsonIfExists(filePath) {
+  try {
+    const raw = await fs.readFile(filePath, "utf8");
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
   const repoRoot = process.cwd();
   const exportDir = path.join(repoRoot, "exports", "syllabird");
   const outputPath = path.join(exportDir, "courses.csv");
+  const packetsDir = path.join(repoRoot, "data", "packets");
 
   await ensureDir(exportDir);
 
@@ -547,9 +561,17 @@ async function main() {
       );
     });
 
-  const rows = exportableRecords.map(record =>
-    buildCourseRow(record, headerLookup, lessonDetailsById)
-  );
+  const rows = [];
+
+  for (const record of exportableRecords) {
+    const packet = await readJsonIfExists(
+      path.join(packetsDir, `${record.id}.json`)
+    );
+  
+    rows.push(
+      buildCourseRow(record, headerLookup, lessonDetailsById, packet)
+    );
+  }
 
   await fs.writeFile(outputPath, toCsv(rows), "utf8");
 
