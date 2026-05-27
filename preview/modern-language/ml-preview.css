@@ -105,12 +105,14 @@
 
 .ml-lesson-main {
   min-width: 0;
+  align-self: flex-start;
 }
 
 .ml-lesson-heading-row {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  align-self: flex-start;
   gap: 26px;
   margin-bottom: 8px;
 }
