@@ -32,19 +32,19 @@
     gap: 20px;
   }
 
-     .ml-topic-meta {
-       gap: 7px;
-     }
-   
-     .ml-lesson-links-url {
-       font-size: 10px;
-     }
-   
-     .ml-lesson-links-qr {
-       width: 0.62in;
-       height: 0.62in;
-       margin-top: 7px;
-     }
+  .ml-topic-meta {
+    gap: 2px;
+  }
+
+  .ml-lesson-links-url {
+    font-size: 10px;
+  }
+
+  .ml-lesson-links-qr {
+    width: 0.62in;
+    height: 0.62in;
+    margin-top: 12px;
+  }
 
   .ml-lesson-card {
     break-inside: auto;
