@@ -363,7 +363,7 @@
               "lessonLabel": "Lesson 8",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 8",
-              "body": "Wind Faeries\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 4 Wind Faeries\n\n➜ WRITE: \nCompose 5 questions and/or 5 reflections about the chapter.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
+              "body": "Wind Faeries\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 4 Wind Faeries\n\n➜ WRITE: \nThe Missouri has been radically transformed — dammed, channelized, diked. Is this river still \"the Missouri\"? What makes a river a river?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recrvRGeUGhliPICg",
               "lessonLinksUrl": "",
@@ -395,11 +395,16 @@
               "lessonLabel": "Lesson 10",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 10",
-              "body": "Gates of the Prairie\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 5 Gates of the Prairie\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
+              "body": "Gates of the Prairie\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 5 Gates of the Prairie\n\n➜ READ\n ∞ Article Link: Plant and Animal Discoveries\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=rec1u8HKZwROLRiIS",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recxTqmYbsfzqrSFv&term=1&week=5",
+              "links": [
+                {
+                  "text": "Plant and Animal Discoveries",
+                  "url": "https://montanakids.com/history_and_prehistory/lewis_and_clark/plants_animals.htm"
+                }
+              ]
             },
             {
               "lessonId": "recZ6q1FrCN4UDQPl",
