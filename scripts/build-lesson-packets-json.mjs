@@ -126,6 +126,7 @@ const LESSON_DETAIL_FIELDS = [
   "Week:",
   "Lesson Sequence",
   "Lesson Label",
+  "Link Label",
   "Lesson Title",
   "Lesson Body",
   "Teacher Notes",
@@ -150,6 +151,7 @@ const COURSE_LESSON_FIELDS = [
   "Week Label",
   "Slot Order",
   "Lesson Sequence",
+  "Link Label",
   "Sort",
   "Lesson Title",
   "Lesson Body",
@@ -189,6 +191,7 @@ const ML_LESSON_FIELDS = [
   "Week*Label",
   "Lesson Sequence",
   "Lesson Lable",
+  "Link Label",
   "Lesson Instructions",
   "Mod. Lang. Lesson Plan Sets",
   "Subtitle",
@@ -215,7 +218,6 @@ const ML_LESSON_FIELDS = [
   "Text 3",
   "Text 4",
   "Text 5"
-];
 ];
 
 const ML_VOCAB_FIELDS = [
@@ -1294,6 +1296,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
           sequence: Number(normalizeText(lf["Lesson Sequence"]) || 0),
           sort: Number(normalizeText(lf["Sort"]) || 0),
           lessonLabel: "",
+          linkLabel: normalizeText(lf["Link Label"]),
           title: normalizeText(lf["Lesson Title"]),
           body: normalizeRichText(lf["Lesson Body"]),
           teacherNotes: normalizeRichText(lf["Teacher Notes"]),
@@ -1325,6 +1328,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
         weekLabel: normalizeText(lf["Week:"]),
         sequence: Number(normalizeText(lf["Lesson Sequence"]) || 0),
         lessonLabel: normalizeText(lf["Lesson Label"]),
+        linkLabel: normalizeText(lf["Link Label"]),
         title: normalizeText(lf["Lesson Title"]),
         body: normalizeRichText(lf["Lesson Body"]),
         teacherNotes: normalizeRichText(lf["Teacher Notes"]),
@@ -1464,6 +1468,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
           normalizeText(lf["Lesson Sequence"]) || 0
         ),
         lessonLabel: normalizeText(lf["Lesson Lable"]),
+        linkLabel: normalizeText(lf["Link Label"]),
         materials: normalizeLineBreakText(lf["Materials"]),
         prep: normalizeRichText(
           lf["Prep (from Lesson Instructions)"]
@@ -1680,6 +1685,10 @@ function slugifyAnchorPart(value) {
     .replace(/^-+|-+$/g, "");
 }
 
+function getLessonTopicTitle(lesson) {
+  return normalizeText(lesson.linkLabel);
+}
+
 function buildLessonAnchor(lesson) {
   const lessonPart = lesson.sequence || lesson.lessonLabel || lesson.lessonId;
 
@@ -1760,7 +1769,9 @@ function buildLinkPage(packet) {
         sequence: lesson.sequence,
         sort: lesson.sort || 0,
         lessonLabel: lesson.lessonLabel,
+        linkLabel: lesson.linkLabel,
         title: lesson.title,
+        topicTitle: getLessonTopicTitle(lesson),
         anchor,
         links
       });
@@ -1876,6 +1887,7 @@ function buildModernLanguageLinkPage(packet, modernLanguageSection) {
         sequence: lesson.sequence,
         sort: lesson.sequence || 0,
         lessonLabel: lesson.lessonLabel,
+        linkLabel: lesson.linkLabel,
         title: lesson.title,
         topicId: lessonSet.id,
         topicTitle: lessonSet.title,
