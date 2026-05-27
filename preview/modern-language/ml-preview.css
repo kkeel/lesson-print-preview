@@ -326,23 +326,23 @@
    ========================================================= */
 
 .ml-grammar-block {
-  margin-top: 10px;
-  border: 0.5px solid #d7ddd4;
-  break-inside: avoid;
+  border: 0;
+  padding: 0;
+  background: transparent;
 }
 
 .ml-grammar-heading {
-  padding: 7px 9px 3px;
-  color: #596e5e;
-  font-size: 15px;
+  color: inherit;
   font-weight: 700;
-  line-height: 1.3;
 }
 
 .ml-grammar-instructions {
-  padding: 2px 9px 8px;
-  font-size: 14px;
-  line-height: 1.45;
+  white-space: pre-line;
+}
+
+.ml-grammar-instructions strong:first-child,
+.ml-grammar-heading strong:first-child {
+  color: inherit;
 }
 
 .ml-grammar-table {
