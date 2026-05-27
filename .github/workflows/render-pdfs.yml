@@ -1,4 +1,4 @@
-name: Render PDFs
+name: Render PDFs & Link Pages
 
 on:
   workflow_dispatch:
