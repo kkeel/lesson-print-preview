@@ -2,6 +2,15 @@ name: Render Modern Language PDFs
 
 on:
   workflow_dispatch:
+    inputs:
+      render_mode:
+        description: "Render mode"
+        required: true
+        default: "changed"
+        type: choice
+        options:
+          - changed
+          - all
 
   schedule:
     - cron: "30 11 * * *"
@@ -10,19 +19,31 @@ jobs:
   render-modern-language-pdfs:
     runs-on: ubuntu-latest
 
+    env:
+      RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
     steps:
       - name: Checkout lesson-print-preview
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+
+      - name: Checkout course-picker repo
+        uses: actions/checkout@v6
+        with:
+          repository: kkeel/course-picker
+          token: ${{ secrets.COURSE_PICKER_PAT }}
+          path: course-picker
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Playwright
+      - name: Install Playwright Chromium
         run: npx playwright install chromium
 
       - name: Build lesson packet JSON
@@ -33,13 +54,9 @@ jobs:
 
       - name: Render Modern Language PDFs
         run: node scripts/render-modern-language-pdfs.js
-        env:
-          AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
-          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
-          COURSE_PICKER_PAT: ${{ secrets.COURSE_PICKER_PAT }}
 
       - name: Upload Modern Language PDFs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: modern-language-pdfs
           path: |
@@ -47,3 +64,4 @@ jobs:
             course-picker/pdf/modern-language/grades-1-3/*.pdf
             course-picker/pdf/modern-language/topics/*.pdf
             course-picker/pdf/modern-language/individual-lessons/*.pdf
+            course-picker/pdf/modern-language/ml-pdf-manifest.json
