@@ -415,3 +415,28 @@
   font-style: italic;
   line-height: 1.3;
 }
+
+/* =========================
+   Modern Language Appendices
+   ========================= */
+
+.ml-appendices {
+  margin-top: 0;
+}
+
+.ml-appendix-block {
+  break-before: page;
+  page-break-before: always;
+}
+
+.ml-appendix-block + .ml-appendix-block {
+  break-before: page;
+  page-break-before: always;
+}
+
+.ml-appendix-placeholder {
+  margin-top: 0.18in;
+  font-size: 13px;
+  line-height: 1.2;
+  color: #596e5e;
+}
