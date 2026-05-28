@@ -280,6 +280,7 @@ const ML_INSTRUCTION_FIELDS = [
 
 const ML_SUBTITLE_FIELDS = [
   "Formatted Subtitle",
+  "Sequence #",
   "Song/Rhyme Text",
   "Song/Rhyme Translation",
   "ML Lesson Plan Sets Connection (Songs)",
@@ -2409,6 +2410,7 @@ async function main() {
     const subtitleData = {
       id: record.id,
       title: normalizeText(fields["Formatted Subtitle"]),
+      sequence: Number(normalizeText(fields["Sequence #"]) || 0),
       songText: normalizeRichText(fields["Song/Rhyme Text"]),
       songTranslation: normalizeRichText(fields["Song/Rhyme Translation"]),
       songLessonSetIds: normalizeArray(fields["ML Lesson Plan Sets Connection (Songs)"]),
