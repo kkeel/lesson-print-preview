@@ -255,19 +255,29 @@ function renderMLByLessonSet(section) {
 }
 
 function renderMLStoryResource(story) {
+  const languageLabel = story.language || "Spanish/French";
+
   return `
     <article class="ml-story-resource">
-      <header class="ml-story-header">
-        <div class="ml-story-header-left">
-          <h1 class="ml-story-title">
-            ${escapeHtml(story.title || "")}
-          </h1>
+      <div class="ml-appendix-top-rule"></div>
 
-          <div class="ml-story-section-label">
-            Storylines
-          </div>
-        </div>
+      <header class="ml-story-header">
+        <h2 class="ml-story-title">
+          ${escapeHtml(story.title || "")}
+        </h2>
       </header>
+
+      <div class="ml-story-column-headings">
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">${escapeHtml(languageLabel)}</div>
+        </div>
+
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">English</div>
+        </div>
+      </div>
 
       <div class="ml-story-lines">
         ${(story.lines || [])
