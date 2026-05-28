@@ -197,10 +197,10 @@ function renderMLWeeklyLessons(section) {
         <div class="ml-week-list">
           ${(section.weeklyLessons || []).map(week => renderMLWeek(week)).join("")}
         </div>
-
-        ${renderMLAppendices(section.appendices)}
       </section>
     </div>
+
+    ${renderMLAppendices(section.appendices)}
   `;
 }
 
@@ -241,10 +241,10 @@ function renderMLByLessonSet(section) {
             </section>
           `).join("")}
         </div>
-
-        ${renderMLAppendices(section.appendices)}
       </section>
     </div>
+
+    ${renderMLAppendices(section.appendices)}
   `;
 }
 
@@ -280,13 +280,24 @@ function renderMLStoryResource(story) {
   `;
 }
 
+function formatMLStoryReference(line = {}) {
+  const setNumber = getMLSetNumber(line.set);
+  const lineNumber = Number(line.lineNumber || 0);
+
+  if (!setNumber || setNumber === 999 || !lineNumber) {
+    return line.reference || "";
+  }
+
+  return `S${setNumber}.L${lineNumber}`;
+}
+
 function renderMLStoryLine(line) {
   return `
     <div class="ml-story-line">
       <div class="ml-story-language-col">
         <div class="ml-story-line-inner">
           <div class="ml-story-reference">
-            ${escapeHtml(line.reference || "")}
+            ${escapeHtml(formatMLStoryReference(line))}
           </div>
 
           <div class="ml-story-text">
@@ -298,7 +309,7 @@ function renderMLStoryLine(line) {
       <div class="ml-story-translation-col">
         <div class="ml-story-line-inner">
           <div class="ml-story-reference">
-            ${escapeHtml(line.reference || "")}
+            ${escapeHtml(formatMLStoryReference(line))}
           </div>
 
           <div class="ml-story-text">
@@ -322,33 +333,37 @@ function renderMLAppendices(appendices = {}) {
   return `
     <section class="ml-appendices">
       ${hasStories ? `
-        <section class="ml-appendix-block ml-storylines-appendix">
-          <h1 class="lesson-page-title">Storylines</h1>
-      
-          <div class="ml-story-list">
-            ${(appendices.stories || []).map(renderMLStoryResource).join("")}
-          </div>
-        </section>
+        <div class="page-flow ml-appendix-page ml-appendix-storylines section-break" id="ml-appendix-storylines">
+          <section class="ml-appendix-block ml-storylines-appendix">
+            <div class="ml-story-list">
+              ${(appendices.stories || []).map(renderMLStoryResource).join("")}
+            </div>
+          </section>
+        </div>
       ` : ""}
 
       ${hasSongs ? `
-        <section class="ml-appendix-block">
-          <h1 class="lesson-page-title">Songs & Rhymes</h1>
+        <div class="page-flow ml-appendix-page ml-appendix-songs section-break" id="ml-appendix-songs">
+          <section class="ml-appendix-block">
+            <h1 class="lesson-page-title">Songs & Rhymes</h1>
 
-          <div class="ml-appendix-placeholder">
-            Songs & Rhymes rendering coming next
-          </div>
-        </section>
+            <div class="ml-appendix-placeholder">
+              Songs & Rhymes rendering coming next
+            </div>
+          </section>
+        </div>
       ` : ""}
 
       ${hasGlossary ? `
-        <section class="ml-appendix-block">
-          <h1 class="lesson-page-title">Vocabulary Glossary</h1>
+        <div class="page-flow ml-appendix-page ml-appendix-glossary section-break" id="ml-appendix-glossary">
+          <section class="ml-appendix-block">
+            <h1 class="lesson-page-title">Vocabulary Glossary</h1>
 
-          <div class="ml-appendix-placeholder">
-            Glossary rendering coming next
-          </div>
-        </section>
+            <div class="ml-appendix-placeholder">
+              Glossary rendering coming next
+            </div>
+          </section>
+        </div>
       ` : ""}
     </section>
   `;
