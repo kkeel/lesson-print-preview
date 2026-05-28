@@ -170,9 +170,64 @@
      page-break-before: always;
    }
 
-     .ml-glossary-resource,
-  .ml-glossary-row {
-    break-inside: avoid;
-    page-break-inside: avoid;
-  }
+   /* Appendix print page-break control */
+
+   /* Keep story/song title + headings with the beginning of the text */
+   .ml-story-resource,
+   .ml-song-resource {
+     break-inside: avoid;
+     page-break-inside: avoid;
+   }
+   
+   .ml-story-header,
+   .ml-story-column-headings {
+     break-after: avoid;
+     page-break-after: avoid;
+   }
+   
+   .ml-story-lines,
+   .ml-song-columns {
+     break-before: avoid;
+     page-break-before: avoid;
+   }
+   
+   /* Let long stories/songs split only when they truly need to */
+   .ml-story-resource,
+   .ml-song-resource {
+     break-inside: auto;
+     page-break-inside: auto;
+   }
+   
+   .ml-story-resource .ml-appendix-top-rule,
+   .ml-song-resource .ml-appendix-top-rule,
+   .ml-story-resource .ml-story-header,
+   .ml-song-resource .ml-story-header,
+   .ml-story-resource .ml-story-column-headings,
+   .ml-song-resource .ml-story-column-headings {
+     break-after: avoid;
+     page-break-after: avoid;
+   }
+   
+   /* Glossary: keep each set title with the start of its chart */
+   .ml-glossary-set-title {
+     break-after: avoid;
+     page-break-after: avoid;
+   }
+   
+   .ml-glossary-grid {
+     break-before: avoid;
+     page-break-before: avoid;
+   }
+   
+   /* Glossary charts may split across pages */
+   .ml-glossary-set,
+   .ml-glossary-grid {
+     break-inside: auto;
+     page-break-inside: auto;
+   }
+   
+   .ml-glossary-row {
+     break-inside: avoid;
+     page-break-inside: avoid;
+   }
 }
