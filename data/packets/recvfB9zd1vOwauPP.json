@@ -22337,7 +22337,11 @@
                   "rec7a6HRvbKFBuVEm",
                   "rec8qvWH8Ba4IwZqr",
                   "recvITMVFM6BJOX7D",
-                  "recCgRuRLj6lJpiZ3"
+                  "recCgRuRLj6lJpiZ3",
+                  "recoFdc89hocl3iRg",
+                  "recBelaY8bSb5FoCz",
+                  "recS4ibEbxYFm0TzF",
+                  "recKkjMH7jmn4ewN3"
                 ],
                 "lines": [
                   {
@@ -22508,6 +22512,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14"
+                  },
+                  {
+                    "id": "recoFdc89hocl3iRg",
+                    "reference": "Set 15 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "Yo también me habría asustado",
+                    "translation": "I would have been scared too.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recBelaY8bSb5FoCz",
+                    "reference": "Set 15 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "Si no hubiera escuchado tu voz.",
+                    "translation": "If I hadn't heard your voice.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recS4ibEbxYFm0TzF",
+                    "reference": "Set 15 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "Ningún disfraz puede ocultar",
+                    "translation": "No disguise can hide",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recKkjMH7jmn4ewN3",
+                    "reference": "Set 15 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "el verdadero carácter.",
+                    "translation": "true character.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
                   }
                 ]
               },
@@ -22526,7 +22582,11 @@
                   "recx06EF3x4NvguUf",
                   "rec3G8UGpSYqNCfLZ",
                   "recEEZYGWCTze6p6Y",
-                  "recJBKCVmIK2hkVsa"
+                  "recJBKCVmIK2hkVsa",
+                  "recycqp7Mgy3uBG4s",
+                  "recVeCIlA7ERRooZZ",
+                  "recua4IohMUBVKW8G",
+                  "recWVfVuwxVn88ESb"
                 ],
                 "lines": [
                   {
@@ -22684,6 +22744,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4"
+                  },
+                  {
+                    "id": "recycqp7Mgy3uBG4s",
+                    "reference": "Set 5 Line 13",
+                    "lineNumber": 13,
+                    "sentence": "estaban maduras, pero ahora veo",
+                    "translation": "They were ripe, but now I see",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recVeCIlA7ERRooZZ",
+                    "reference": "Set 5 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "que están bastante agrias.-",
+                    "translation": "which are quite sour.",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recua4IohMUBVKW8G",
+                    "reference": "Set 5 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "no se puede conseguir.",
+                    "translation": "cannot be obtained.",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recWVfVuwxVn88ESb",
+                    "reference": "Set 5 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "Es fácil despreciar lo que",
+                    "translation": "It's easy to despise what",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
                   }
                 ]
               },
@@ -22708,7 +22820,12 @@
                   "recMPfvs9kJEzEep2",
                   "rechajW3pjqzDyc2a",
                   "recXK2jUTXpy2bMl9",
-                  "recI2TNdZ9GbfE4Y6"
+                  "recI2TNdZ9GbfE4Y6",
+                  "rec3bWhROkFPn0zGR",
+                  "rec7ZzD1qfE7yvq5D",
+                  "recDUTmT3m70sdgUs",
+                  "recvpa8RYFsjBdQnI",
+                  "recX63xqF4TloIYqM"
                 ],
                 "lines": [
                   {
@@ -22944,6 +23061,71 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29"
+                  },
+                  {
+                    "id": "rec3bWhROkFPn0zGR",
+                    "reference": "Set 30 Line 19",
+                    "lineNumber": 19,
+                    "sentence": "-Bueno, de todos modo-dijo el lobo-,",
+                    "translation": "\"Well, anyway,\" said the wolf,",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "rec7ZzD1qfE7yvq5D",
+                    "reference": "Set 30 Line 20",
+                    "lineNumber": 20,
+                    "sentence": "no me quedaré sin mi cena.",
+                    "translation": "“I won't go without my dinner.”",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recDUTmT3m70sdgUs",
+                    "reference": "Set 30 Line 21",
+                    "lineNumber": 21,
+                    "sentence": "Se lanzó sobre el cordero",
+                    "translation": "He pounced on the lamb",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recvpa8RYFsjBdQnI",
+                    "reference": "Set 30 Line 22",
+                    "lineNumber": 22,
+                    "sentence": "y lo devoró ensequida.",
+                    "translation": "and devoured him right away.",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recX63xqF4TloIYqM",
+                    "reference": "Set 30 Line 23",
+                    "lineNumber": 23,
+                    "sentence": "Las palabras engañosas fácilmente salen a la luz.",
+                    "translation": "Deceptive words easily come to light.",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
                   }
                 ]
               },
@@ -22962,7 +23144,11 @@
                   "reck606Fs6xBzN3fG",
                   "recnjHgNb1BXslJtV",
                   "rec62wbMJOfGMcOtV",
-                  "recXuttKhfhRXmGDj"
+                  "recXuttKhfhRXmGDj",
+                  "rec7RIFyUCTaB2qgm",
+                  "recHaajSpljnNN7bL",
+                  "recjTZOCXw6giyJSi",
+                  "recGN1DKnXENefNvn"
                 ],
                 "lines": [
                   {
@@ -23120,6 +23306,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9"
+                  },
+                  {
+                    "id": "rec7RIFyUCTaB2qgm",
+                    "reference": "Set 10 Line 13",
+                    "lineNumber": 13,
+                    "sentence": "puso sus manos sobre el lobo y,",
+                    "translation": "He laid his hands on the wolf and,",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recHaajSpljnNN7bL",
+                    "reference": "Set 10 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "creyendo que era una oveja,",
+                    "translation": "believing it was a sheep,",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recjTZOCXw6giyJSi",
+                    "reference": "Set 10 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "sacó su cuchillo y lo mató en el acto.",
+                    "translation": "He pulled out his knife and killed him on the spot.",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recGN1DKnXENefNvn",
+                    "reference": "Set 10 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "El que daño busca, daño encuentra.",
+                    "translation": "He who seeks harm, finds harm.",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
                   }
                 ]
               },
@@ -23142,7 +23380,12 @@
                   "rec2pZTEdwqYNnlLN",
                   "recTDQlqzmmQ3ECVX",
                   "recHCDM52jtBFkWor",
-                  "recqGGjrOHp1zojz5"
+                  "recqGGjrOHp1zojz5",
+                  "recSTC4P3ixDONwB5",
+                  "reccH8EzvSDlMOrvM",
+                  "rec1KkhaG6GDEisM4",
+                  "recerhSpIIcwhJNkL",
+                  "recFqgQZQW37IU01t"
                 ],
                 "lines": [
                   {
@@ -23352,6 +23595,71 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24"
+                  },
+                  {
+                    "id": "recSTC4P3ixDONwB5",
+                    "reference": "Set 25 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "Ninguna quiso ceder el paso,",
+                    "translation": "Neither of them wanted to give way,",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "reccH8EzvSDlMOrvM",
+                    "reference": "Set 25 Line 18",
+                    "lineNumber": 18,
+                    "sentence": "y al final, ambas cayeron de",
+                    "translation": "and in the end, both fell",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "rec1KkhaG6GDEisM4",
+                    "reference": "Set 25 Line 19",
+                    "lineNumber": 19,
+                    "sentence": "cabeza a las rugientes aguas.",
+                    "translation": "headfirst into the roaring waters.",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "recerhSpIIcwhJNkL",
+                    "reference": "Set 25 Line 20",
+                    "lineNumber": 20,
+                    "sentence": "Es mejor ceder que caer en",
+                    "translation": "It is better to give in than to fall into",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "recFqgQZQW37IU01t",
+                    "reference": "Set 25 Line 21",
+                    "lineNumber": 21,
+                    "sentence": "la desgracia por terquedad.",
+                    "translation": "misfortune out of stubbornness.",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
                   }
                 ]
               },
@@ -23372,7 +23680,11 @@
                   "recWFZjySyuz3cVn9",
                   "recKJx0jZwFcZXxnB",
                   "recfFQUnEWnM5dvtr",
-                  "rec9kWJr3ikx5pDi7"
+                  "rec9kWJr3ikx5pDi7",
+                  "recdbFhtFjOwn584q",
+                  "recxqAXefaGJsbxoO",
+                  "recoAyftsHS8EcQ5b",
+                  "recbFWnTrHjhua5zF"
                 ],
                 "lines": [
                   {
@@ -23556,6 +23868,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19"
+                  },
+                  {
+                    "id": "recdbFhtFjOwn584q",
+                    "reference": "Set 20 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "la soltó y la desdichada tortuga",
+                    "translation": "He let go of her, and the unfortunate turtle...",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recxqAXefaGJsbxoO",
+                    "reference": "Set 20 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "cayó de cabeza al mar.",
+                    "translation": "He fell headfirst into the sea.",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recoAyftsHS8EcQ5b",
+                    "reference": "Set 20 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "Si los hombres obtuvieron todo lo",
+                    "translation": "If men got everything",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recbFWnTrHjhua5zF",
+                    "reference": "Set 20 Line 18",
+                    "lineNumber": 18,
+                    "sentence": "que desearan, a menudo se arruinarían.",
+                    "translation": "that they wished, they would quickly be ruined.",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
                   }
                 ]
               }
@@ -32939,7 +33303,11 @@
                   "rec7a6HRvbKFBuVEm",
                   "rec8qvWH8Ba4IwZqr",
                   "recvITMVFM6BJOX7D",
-                  "recCgRuRLj6lJpiZ3"
+                  "recCgRuRLj6lJpiZ3",
+                  "recoFdc89hocl3iRg",
+                  "recBelaY8bSb5FoCz",
+                  "recS4ibEbxYFm0TzF",
+                  "recKkjMH7jmn4ewN3"
                 ],
                 "lines": [
                   {
@@ -33110,6 +33478,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14"
+                  },
+                  {
+                    "id": "recoFdc89hocl3iRg",
+                    "reference": "Set 15 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "Yo también me habría asustado",
+                    "translation": "I would have been scared too.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recBelaY8bSb5FoCz",
+                    "reference": "Set 15 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "Si no hubiera escuchado tu voz.",
+                    "translation": "If I hadn't heard your voice.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recS4ibEbxYFm0TzF",
+                    "reference": "Set 15 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "Ningún disfraz puede ocultar",
+                    "translation": "No disguise can hide",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
+                  },
+                  {
+                    "id": "recKkjMH7jmn4ewN3",
+                    "reference": "Set 15 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "el verdadero carácter.",
+                    "translation": "true character.",
+                    "label": "Spanish Story Lines - Set 15",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 15"
                   }
                 ]
               },
@@ -33128,7 +33548,11 @@
                   "recx06EF3x4NvguUf",
                   "rec3G8UGpSYqNCfLZ",
                   "recEEZYGWCTze6p6Y",
-                  "recJBKCVmIK2hkVsa"
+                  "recJBKCVmIK2hkVsa",
+                  "recycqp7Mgy3uBG4s",
+                  "recVeCIlA7ERRooZZ",
+                  "recua4IohMUBVKW8G",
+                  "recWVfVuwxVn88ESb"
                 ],
                 "lines": [
                   {
@@ -33286,6 +33710,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4"
+                  },
+                  {
+                    "id": "recycqp7Mgy3uBG4s",
+                    "reference": "Set 5 Line 13",
+                    "lineNumber": 13,
+                    "sentence": "estaban maduras, pero ahora veo",
+                    "translation": "They were ripe, but now I see",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recVeCIlA7ERRooZZ",
+                    "reference": "Set 5 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "que están bastante agrias.-",
+                    "translation": "which are quite sour.",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recua4IohMUBVKW8G",
+                    "reference": "Set 5 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "no se puede conseguir.",
+                    "translation": "cannot be obtained.",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recWVfVuwxVn88ESb",
+                    "reference": "Set 5 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "Es fácil despreciar lo que",
+                    "translation": "It's easy to despise what",
+                    "label": "Spanish Story Lines - Set 5",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
                   }
                 ]
               },
@@ -33310,7 +33786,12 @@
                   "recMPfvs9kJEzEep2",
                   "rechajW3pjqzDyc2a",
                   "recXK2jUTXpy2bMl9",
-                  "recI2TNdZ9GbfE4Y6"
+                  "recI2TNdZ9GbfE4Y6",
+                  "rec3bWhROkFPn0zGR",
+                  "rec7ZzD1qfE7yvq5D",
+                  "recDUTmT3m70sdgUs",
+                  "recvpa8RYFsjBdQnI",
+                  "recX63xqF4TloIYqM"
                 ],
                 "lines": [
                   {
@@ -33546,6 +34027,71 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29"
+                  },
+                  {
+                    "id": "rec3bWhROkFPn0zGR",
+                    "reference": "Set 30 Line 19",
+                    "lineNumber": 19,
+                    "sentence": "-Bueno, de todos modo-dijo el lobo-,",
+                    "translation": "\"Well, anyway,\" said the wolf,",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "rec7ZzD1qfE7yvq5D",
+                    "reference": "Set 30 Line 20",
+                    "lineNumber": 20,
+                    "sentence": "no me quedaré sin mi cena.",
+                    "translation": "“I won't go without my dinner.”",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recDUTmT3m70sdgUs",
+                    "reference": "Set 30 Line 21",
+                    "lineNumber": 21,
+                    "sentence": "Se lanzó sobre el cordero",
+                    "translation": "He pounced on the lamb",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recvpa8RYFsjBdQnI",
+                    "reference": "Set 30 Line 22",
+                    "lineNumber": 22,
+                    "sentence": "y lo devoró ensequida.",
+                    "translation": "and devoured him right away.",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
+                  },
+                  {
+                    "id": "recX63xqF4TloIYqM",
+                    "reference": "Set 30 Line 23",
+                    "lineNumber": 23,
+                    "sentence": "Las palabras engañosas fácilmente salen a la luz.",
+                    "translation": "Deceptive words easily come to light.",
+                    "label": "Spanish Story Lines - Set 30",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 30"
                   }
                 ]
               },
@@ -33564,7 +34110,11 @@
                   "reck606Fs6xBzN3fG",
                   "recnjHgNb1BXslJtV",
                   "rec62wbMJOfGMcOtV",
-                  "recXuttKhfhRXmGDj"
+                  "recXuttKhfhRXmGDj",
+                  "rec7RIFyUCTaB2qgm",
+                  "recHaajSpljnNN7bL",
+                  "recjTZOCXw6giyJSi",
+                  "recGN1DKnXENefNvn"
                 ],
                 "lines": [
                   {
@@ -33722,6 +34272,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9"
+                  },
+                  {
+                    "id": "rec7RIFyUCTaB2qgm",
+                    "reference": "Set 10 Line 13",
+                    "lineNumber": 13,
+                    "sentence": "puso sus manos sobre el lobo y,",
+                    "translation": "He laid his hands on the wolf and,",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recHaajSpljnNN7bL",
+                    "reference": "Set 10 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "creyendo que era una oveja,",
+                    "translation": "believing it was a sheep,",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recjTZOCXw6giyJSi",
+                    "reference": "Set 10 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "sacó su cuchillo y lo mató en el acto.",
+                    "translation": "He pulled out his knife and killed him on the spot.",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
+                  },
+                  {
+                    "id": "recGN1DKnXENefNvn",
+                    "reference": "Set 10 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "El que daño busca, daño encuentra.",
+                    "translation": "He who seeks harm, finds harm.",
+                    "label": "Spanish Story Lines - Set 10",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 10"
                   }
                 ]
               },
@@ -33744,7 +34346,12 @@
                   "rec2pZTEdwqYNnlLN",
                   "recTDQlqzmmQ3ECVX",
                   "recHCDM52jtBFkWor",
-                  "recqGGjrOHp1zojz5"
+                  "recqGGjrOHp1zojz5",
+                  "recSTC4P3ixDONwB5",
+                  "reccH8EzvSDlMOrvM",
+                  "rec1KkhaG6GDEisM4",
+                  "recerhSpIIcwhJNkL",
+                  "recFqgQZQW37IU01t"
                 ],
                 "lines": [
                   {
@@ -33954,6 +34561,71 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24"
+                  },
+                  {
+                    "id": "recSTC4P3ixDONwB5",
+                    "reference": "Set 25 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "Ninguna quiso ceder el paso,",
+                    "translation": "Neither of them wanted to give way,",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "reccH8EzvSDlMOrvM",
+                    "reference": "Set 25 Line 18",
+                    "lineNumber": 18,
+                    "sentence": "y al final, ambas cayeron de",
+                    "translation": "and in the end, both fell",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "rec1KkhaG6GDEisM4",
+                    "reference": "Set 25 Line 19",
+                    "lineNumber": 19,
+                    "sentence": "cabeza a las rugientes aguas.",
+                    "translation": "headfirst into the roaring waters.",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "recerhSpIIcwhJNkL",
+                    "reference": "Set 25 Line 20",
+                    "lineNumber": 20,
+                    "sentence": "Es mejor ceder que caer en",
+                    "translation": "It is better to give in than to fall into",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
+                  },
+                  {
+                    "id": "recFqgQZQW37IU01t",
+                    "reference": "Set 25 Line 21",
+                    "lineNumber": 21,
+                    "sentence": "la desgracia por terquedad.",
+                    "translation": "misfortune out of stubbornness.",
+                    "label": "Spanish Story Lines - Set 25",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 25"
                   }
                 ]
               },
@@ -33974,7 +34646,11 @@
                   "recWFZjySyuz3cVn9",
                   "recKJx0jZwFcZXxnB",
                   "recfFQUnEWnM5dvtr",
-                  "rec9kWJr3ikx5pDi7"
+                  "rec9kWJr3ikx5pDi7",
+                  "recdbFhtFjOwn584q",
+                  "recxqAXefaGJsbxoO",
+                  "recoAyftsHS8EcQ5b",
+                  "recbFWnTrHjhua5zF"
                 ],
                 "lines": [
                   {
@@ -34158,6 +34834,58 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19"
+                  },
+                  {
+                    "id": "recdbFhtFjOwn584q",
+                    "reference": "Set 20 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "la soltó y la desdichada tortuga",
+                    "translation": "He let go of her, and the unfortunate turtle...",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recxqAXefaGJsbxoO",
+                    "reference": "Set 20 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "cayó de cabeza al mar.",
+                    "translation": "He fell headfirst into the sea.",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recoAyftsHS8EcQ5b",
+                    "reference": "Set 20 Line 17",
+                    "lineNumber": 17,
+                    "sentence": "Si los hombres obtuvieron todo lo",
+                    "translation": "If men got everything",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
+                  },
+                  {
+                    "id": "recbFWnTrHjhua5zF",
+                    "reference": "Set 20 Line 18",
+                    "lineNumber": 18,
+                    "sentence": "que desearan, a menudo se arruinarían.",
+                    "translation": "that they wished, they would quickly be ruined.",
+                    "label": "Spanish Story Lines - Set 20",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 20"
                   }
                 ]
               }

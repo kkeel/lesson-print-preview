@@ -33,7 +33,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T09:38:15.418Z",
+  "updatedAt": "2026-05-28T12:09:20.516Z",
   "terms": [
     {
       "termNumber": 1,
@@ -350,6 +350,32 @@
                 {
                   "text": "Childhood Home of Woodrow Wilson",
                   "url": "https://wilsonboyhoodhome.org/wp-content/uploads/2022/12/slider6.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 17,
+          "weekLabel": "Week 5",
+          "lessons": [
+            {
+              "lessonId": "recM2P9vI5oI8BaoO",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 17,
+              "sort": 0,
+              "lessonLabel": "Lesson 17",
+              "linkLabel": "History",
+              "title": "20m History: Grades 2-3 (U.S.) - Lesson 17",
+              "topicTitle": "History",
+              "anchor": "term-2-week-17-lesson-17",
+              "links": [
+                {
+                  "text": "Video: Robert E. Lee",
+                  "url": "https://www.youtube.com/watch?v=XWTwah5pRtg"
                 }
               ]
             }
