@@ -496,8 +496,8 @@
 
 .ml-story-line-inner {
   display: grid;
-  grid-template-columns: 0.9in 1fr;
-  gap: 0.12in;
+  grid-template-columns: 0.42in 1fr;
+  gap: 0.1in;
   align-items: start;
 }
 
