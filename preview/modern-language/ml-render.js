@@ -287,6 +287,11 @@ function renderMLStoryResource(story) {
 
             if (aSet !== bSet) return aSet - bSet;
 
+            const aSequence = Number(a.sequence || 0);
+            const bSequence = Number(b.sequence || 0);
+            
+            if (aSequence !== bSequence) return aSequence - bSequence;
+            
             return Number(a.lineNumber || 0) - Number(b.lineNumber || 0);
           })
           .map(renderMLStoryLine)
