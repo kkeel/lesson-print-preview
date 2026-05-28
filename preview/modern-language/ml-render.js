@@ -351,6 +351,10 @@ function renderMLAppendices(appendices = {}) {
       ${hasStories ? `
         <div class="page-flow ml-appendix-page ml-appendix-storylines section-break" id="ml-appendix-storylines">
           <section class="ml-appendix-block ml-storylines-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Storylines
+            </h1>
+          
             <div class="ml-story-list">
               ${(appendices.stories || []).map(renderMLStoryResource).join("")}
             </div>
