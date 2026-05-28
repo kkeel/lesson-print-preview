@@ -169,4 +169,10 @@
      break-before: page;
      page-break-before: always;
    }
+
+     .ml-glossary-resource,
+  .ml-glossary-row {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
 }
