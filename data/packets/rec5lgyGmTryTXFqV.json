@@ -4468,8 +4468,19 @@
                 },
                 {
                   "id": "recKHC9FMidx9g6gP",
-                  "sentence": "",
-                  "translation": "",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
                   "label": "French Narration Sentences - Set 10",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4516,6 +4527,96 @@
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 10",
                   "set": "Set 10"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
                 }
               ],
               "sentences": [
@@ -4523,6 +4624,39 @@
                   "id": "reczRQAoj5gmtE38o",
                   "sentence": "Je m'assois sur un banc devant les tableaux.",
                   "translation": "I sit on a bench in front of the paintings.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
                   "label": "French Narration Sentences - Set 10",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4577,6 +4711,96 @@
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 10",
                   "set": "Set 10"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
                 }
               ],
               "sentences": [
@@ -4634,6 +4858,39 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 9"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
                 }
               ],
               "grammarCharts": []
@@ -4667,8 +4924,98 @@
               "vocab": [
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4679,8 +5026,41 @@
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4720,8 +5100,98 @@
               "vocab": [
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4732,8 +5202,41 @@
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4773,8 +5276,98 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4785,8 +5378,41 @@
               "sentences": [
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4826,8 +5452,98 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4838,8 +5554,41 @@
               "sentences": [
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4883,8 +5632,8 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4893,20 +5642,200 @@
                 },
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 11",
                   "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
                 }
               ],
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4916,8 +5845,74 @@
                 },
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -4967,8 +5962,8 @@
                 },
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -4977,8 +5972,278 @@
                 },
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -5011,8 +6276,8 @@
                 },
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -5022,8 +6287,8 @@
                 },
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -5063,6 +6328,105 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 9"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
                 }
               ],
               "grammarCharts": []
@@ -7553,6 +8917,796 @@
                 "set": "Set 10"
               },
               {
+                "id": "recNY9rmOsLv2aHTN",
+                "text": "un banc",
+                "translation": "a bench",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recodaBOcxXgE3KXA",
+                "text": "les poissons",
+                "translation": "the fish",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec2jhdZEcxCszQIq",
+                "text": "le ciel",
+                "translation": "the sky",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recmO0WEAsP8DlKfw",
+                "text": "devant",
+                "translation": "in front of",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "reczxTwqPzO7fK0MJ",
+                "text": "blanc",
+                "translation": "white",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec9w7WKXUk2xsqCa",
+                "text": "noir",
+                "translation": "black",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recoh845b48squoEI",
+                "text": "bleu",
+                "translation": "blue",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recSYC2xdMaTLbnuA",
+                "text": "rose",
+                "translation": "rose",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recRaW7OMmCNuEXiC",
+                "text": "gris",
+                "translation": "grey",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recMtUI8P59fx8wKz",
+                "text": "je m'assois",
+                "translation": "I sit",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recNY9rmOsLv2aHTN",
+                "text": "un banc",
+                "translation": "a bench",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recodaBOcxXgE3KXA",
+                "text": "les poissons",
+                "translation": "the fish",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec2jhdZEcxCszQIq",
+                "text": "le ciel",
+                "translation": "the sky",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recmO0WEAsP8DlKfw",
+                "text": "devant",
+                "translation": "in front of",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "reczxTwqPzO7fK0MJ",
+                "text": "blanc",
+                "translation": "white",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec9w7WKXUk2xsqCa",
+                "text": "noir",
+                "translation": "black",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recoh845b48squoEI",
+                "text": "bleu",
+                "translation": "blue",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recSYC2xdMaTLbnuA",
+                "text": "rose",
+                "translation": "rose",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recRaW7OMmCNuEXiC",
+                "text": "gris",
+                "translation": "grey",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec97o8eh7KgypGMz",
+                "text": "On prend le train.",
+                "translation": "We take the train.",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec4O8Wa7VLm0fWhh",
+                "text": "la gare",
+                "translation": "train station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recvtnfPITKc3pDLd",
+                "text": "la rivière",
+                "translation": "the river",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec2JSjaC7PvUOXI7",
+                "text": "à la station",
+                "translation": "at the station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "reca3oJIqQB0gZQ6S",
+                "text": "le journal",
+                "translation": "the newspaper",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recpDKyTtu6xtcFNu",
+                "text": "à huit (8) heures",
+                "translation": "at 8 o'clock",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recEAxsJHLyO74bTI",
+                "text": "le sac",
+                "translation": "the bag",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recdhx8fAPPBPIjKj",
+                "text": "il y a",
+                "translation": "there is",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recBXfH3EB9mqVz9T",
+                "text": "la nourriture",
+                "translation": "the food",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recNNUEwJMRjJeEiS",
+                "text": "il lit",
+                "translation": "he reads",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec97o8eh7KgypGMz",
+                "text": "On prend le train.",
+                "translation": "We take the train.",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec4O8Wa7VLm0fWhh",
+                "text": "la gare",
+                "translation": "train station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recvtnfPITKc3pDLd",
+                "text": "la rivière",
+                "translation": "the river",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec2JSjaC7PvUOXI7",
+                "text": "à la station",
+                "translation": "at the station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "reca3oJIqQB0gZQ6S",
+                "text": "le journal",
+                "translation": "the newspaper",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recpDKyTtu6xtcFNu",
+                "text": "à huit (8) heures",
+                "translation": "at 8 o'clock",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recEAxsJHLyO74bTI",
+                "text": "le sac",
+                "translation": "the bag",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recdhx8fAPPBPIjKj",
+                "text": "il y a",
+                "translation": "there is",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recBXfH3EB9mqVz9T",
+                "text": "la nourriture",
+                "translation": "the food",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recNNUEwJMRjJeEiS",
+                "text": "il lit",
+                "translation": "he reads",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recBz7qHp9tDjAbGS",
+                "text": "à la boulangerie",
+                "translation": "at the bakery",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recQBiDcTgam0hVhA",
+                "text": "une baguette",
+                "translation": "a baguette",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recuFafVxLkM9Q19d",
+                "text": "manger",
+                "translation": "to eat",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recODoy8evSo0VnE4",
+                "text": "on fait un pique-nique",
+                "translation": "we have a picnic",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "reci9yuzAcjI3JHGE",
+                "text": "je prends/il prends",
+                "translation": "i take/he takes",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rechLTvLexGZobKk3",
+                "text": "à la compagne",
+                "translation": "in the countryside",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWjvMFYrygEPG3Y",
+                "text": "la maison",
+                "translation": "the house",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rec8vTDFEiKecXgMu",
+                "text": "du paté",
+                "translation": "paté",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWmbiUaIWnwJbm3",
+                "text": "du cidre",
+                "translation": "cider",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recDiKCWaVcJBRJNA",
+                "text": "du fromage",
+                "translation": "cheese",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recBz7qHp9tDjAbGS",
+                "text": "à la boulangerie",
+                "translation": "at the bakery",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recQBiDcTgam0hVhA",
+                "text": "une baguette",
+                "translation": "a baguette",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recuFafVxLkM9Q19d",
+                "text": "manger",
+                "translation": "to eat",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recODoy8evSo0VnE4",
+                "text": "on fait un pique-nique",
+                "translation": "we have a picnic",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "reci9yuzAcjI3JHGE",
+                "text": "je prends/il prends",
+                "translation": "i take/he takes",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWjvMFYrygEPG3Y",
+                "text": "la maison",
+                "translation": "the house",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rechLTvLexGZobKk3",
+                "text": "à la compagne",
+                "translation": "in the countryside",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rec8vTDFEiKecXgMu",
+                "text": "du paté",
+                "translation": "paté",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWmbiUaIWnwJbm3",
+                "text": "du cidre",
+                "translation": "cider",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recDiKCWaVcJBRJNA",
+                "text": "du fromage",
+                "translation": "cheese",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recBz7qHp9tDjAbGS",
+                "text": "à la boulangerie",
+                "translation": "at the bakery",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rec97o8eh7KgypGMz",
+                "text": "On prend le train.",
+                "translation": "We take the train.",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec4O8Wa7VLm0fWhh",
+                "text": "la gare",
+                "translation": "train station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recvtnfPITKc3pDLd",
+                "text": "la rivière",
+                "translation": "the river",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec2JSjaC7PvUOXI7",
+                "text": "à la station",
+                "translation": "at the station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "reca3oJIqQB0gZQ6S",
+                "text": "le journal",
+                "translation": "the newspaper",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recpDKyTtu6xtcFNu",
+                "text": "à huit (8) heures",
+                "translation": "at 8 o'clock",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recEAxsJHLyO74bTI",
+                "text": "le sac",
+                "translation": "the bag",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recdhx8fAPPBPIjKj",
+                "text": "il y a",
+                "translation": "there is",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recBXfH3EB9mqVz9T",
+                "text": "la nourriture",
+                "translation": "the food",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recNNUEwJMRjJeEiS",
+                "text": "il lit",
+                "translation": "he reads",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recQBiDcTgam0hVhA",
+                "text": "une baguette",
+                "translation": "a baguette",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recuFafVxLkM9Q19d",
+                "text": "manger",
+                "translation": "to eat",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recODoy8evSo0VnE4",
+                "text": "on fait un pique-nique",
+                "translation": "we have a picnic",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "reci9yuzAcjI3JHGE",
+                "text": "je prends/il prends",
+                "translation": "i take/he takes",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWjvMFYrygEPG3Y",
+                "text": "la maison",
+                "translation": "the house",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rechLTvLexGZobKk3",
+                "text": "à la compagne",
+                "translation": "in the countryside",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rec8vTDFEiKecXgMu",
+                "text": "du paté",
+                "translation": "paté",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWmbiUaIWnwJbm3",
+                "text": "du cidre",
+                "translation": "cider",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recDiKCWaVcJBRJNA",
+                "text": "du fromage",
+                "translation": "cheese",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
                 "id": "recMtUI8P59fx8wKz",
                 "text": "je m'assois",
                 "translation": "I sit",
@@ -7564,18 +9718,8 @@
               },
               {
                 "id": "rec97o8eh7KgypGMz",
-                "text": "Pic Study Vocab Set 11",
-                "translation": "",
-                "language": "French",
-                "type": "Picture Study",
-                "sequence": 0,
-                "label": "French Picture Study Vocab - Set 11",
-                "set": "Set 11"
-              },
-              {
-                "id": "rec97o8eh7KgypGMz",
-                "text": "Pic Study Vocab Set 11",
-                "translation": "",
+                "text": "On prend le train.",
+                "translation": "We take the train.",
                 "language": "French",
                 "type": "Picture Study",
                 "sequence": 0,
@@ -7584,8 +9728,8 @@
               },
               {
                 "id": "recBz7qHp9tDjAbGS",
-                "text": "Pic Study Vocab Set 12",
-                "translation": "",
+                "text": "à la boulangerie",
+                "translation": "at the bakery",
                 "language": "French",
                 "type": "Picture Study",
                 "sequence": 0,
@@ -7593,39 +9737,9 @@
                 "set": "Set 12"
               },
               {
-                "id": "recBz7qHp9tDjAbGS",
-                "text": "Pic Study Vocab Set 12",
-                "translation": "",
-                "language": "French",
-                "type": "Picture Study",
-                "sequence": 0,
-                "label": "French Picture Study Vocab - Set 12",
-                "set": "Set 12"
-              },
-              {
-                "id": "recBz7qHp9tDjAbGS",
-                "text": "Pic Study Vocab Set 12",
-                "translation": "",
-                "language": "French",
-                "type": "Picture Study",
-                "sequence": 0,
-                "label": "French Picture Study Vocab - Set 12",
-                "set": "Set 12"
-              },
-              {
-                "id": "rec97o8eh7KgypGMz",
-                "text": "Pic Study Vocab Set 11",
-                "translation": "",
-                "language": "French",
-                "type": "Picture Study",
-                "sequence": 0,
-                "label": "French Picture Study Vocab - Set 11",
-                "set": "Set 11"
-              },
-              {
-                "id": "recMtUI8P59fx8wKz",
-                "text": "je m'assois",
-                "translation": "I sit",
+                "id": "recNY9rmOsLv2aHTN",
+                "text": "un banc",
+                "translation": "a bench",
                 "language": "French",
                 "type": "Picture Study",
                 "sequence": 0,
@@ -7633,9 +9747,89 @@
                 "set": "Set 10"
               },
               {
-                "id": "rec97o8eh7KgypGMz",
-                "text": "Pic Study Vocab Set 11",
-                "translation": "",
+                "id": "recodaBOcxXgE3KXA",
+                "text": "les poissons",
+                "translation": "the fish",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec2jhdZEcxCszQIq",
+                "text": "le ciel",
+                "translation": "the sky",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recmO0WEAsP8DlKfw",
+                "text": "devant",
+                "translation": "in front of",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "reczxTwqPzO7fK0MJ",
+                "text": "blanc",
+                "translation": "white",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec9w7WKXUk2xsqCa",
+                "text": "noir",
+                "translation": "black",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recoh845b48squoEI",
+                "text": "bleu",
+                "translation": "blue",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recSYC2xdMaTLbnuA",
+                "text": "rose",
+                "translation": "rose",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "recRaW7OMmCNuEXiC",
+                "text": "gris",
+                "translation": "grey",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 10",
+                "set": "Set 10"
+              },
+              {
+                "id": "rec4O8Wa7VLm0fWhh",
+                "text": "la gare",
+                "translation": "train station",
                 "language": "French",
                 "type": "Picture Study",
                 "sequence": 0,
@@ -7643,9 +9837,169 @@
                 "set": "Set 11"
               },
               {
-                "id": "recBz7qHp9tDjAbGS",
-                "text": "Pic Study Vocab Set 12",
-                "translation": "",
+                "id": "recvtnfPITKc3pDLd",
+                "text": "la rivière",
+                "translation": "the river",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "rec2JSjaC7PvUOXI7",
+                "text": "à la station",
+                "translation": "at the station",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "reca3oJIqQB0gZQ6S",
+                "text": "le journal",
+                "translation": "the newspaper",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recpDKyTtu6xtcFNu",
+                "text": "à huit (8) heures",
+                "translation": "at 8 o'clock",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recEAxsJHLyO74bTI",
+                "text": "le sac",
+                "translation": "the bag",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recdhx8fAPPBPIjKj",
+                "text": "il y a",
+                "translation": "there is",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recBXfH3EB9mqVz9T",
+                "text": "la nourriture",
+                "translation": "the food",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recNNUEwJMRjJeEiS",
+                "text": "il lit",
+                "translation": "he reads",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 11",
+                "set": "Set 11"
+              },
+              {
+                "id": "recQBiDcTgam0hVhA",
+                "text": "une baguette",
+                "translation": "a baguette",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recuFafVxLkM9Q19d",
+                "text": "manger",
+                "translation": "to eat",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recODoy8evSo0VnE4",
+                "text": "on fait un pique-nique",
+                "translation": "we have a picnic",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "reci9yuzAcjI3JHGE",
+                "text": "je prends/il prends",
+                "translation": "i take/he takes",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWjvMFYrygEPG3Y",
+                "text": "la maison",
+                "translation": "the house",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rechLTvLexGZobKk3",
+                "text": "à la compagne",
+                "translation": "in the countryside",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "rec8vTDFEiKecXgMu",
+                "text": "du paté",
+                "translation": "paté",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recWmbiUaIWnwJbm3",
+                "text": "du cidre",
+                "translation": "cider",
+                "language": "French",
+                "type": "Picture Study",
+                "sequence": 0,
+                "label": "French Picture Study Vocab - Set 12",
+                "set": "Set 12"
+              },
+              {
+                "id": "recDiKCWaVcJBRJNA",
+                "text": "du fromage",
+                "translation": "cheese",
                 "language": "French",
                 "type": "Picture Study",
                 "sequence": 0,
@@ -34197,8 +36551,19 @@
                 },
                 {
                   "id": "recKHC9FMidx9g6gP",
-                  "sentence": "",
-                  "translation": "",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
                   "label": "French Narration Sentences - Set 10",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -34534,6 +36899,96 @@
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 10",
                   "set": "Set 10"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
                 }
               ],
               "sentences": [
@@ -34541,6 +36996,39 @@
                   "id": "reczRQAoj5gmtE38o",
                   "sentence": "Je m'assois sur un banc devant les tableaux.",
                   "translation": "I sit on a bench in front of the paintings.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
                   "label": "French Narration Sentences - Set 10",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -34884,6 +37372,96 @@
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 10",
                   "set": "Set 10"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
                 }
               ],
               "sentences": [
@@ -34941,6 +37519,39 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 9"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
                 }
               ],
               "grammarCharts": [],
@@ -35382,8 +37993,98 @@
               "vocab": [
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -35394,8 +38095,41 @@
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -35724,8 +38458,98 @@
               "vocab": [
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -35736,8 +38560,41 @@
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -36066,8 +38923,98 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -36078,8 +39025,41 @@
               "sentences": [
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -36408,8 +39388,98 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -36420,8 +39490,41 @@
               "sentences": [
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -36754,8 +39857,8 @@
               "vocab": [
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -36764,20 +39867,200 @@
                 },
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
                   "label": "French Picture Study Vocab - Set 11",
                   "set": "Set 11"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
                 }
               ],
               "sentences": [
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -36787,8 +40070,74 @@
                 },
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -37246,8 +40595,8 @@
                 },
                 {
                   "id": "rec97o8eh7KgypGMz",
-                  "text": "Pic Study Vocab Set 11",
-                  "translation": "",
+                  "text": "On prend le train.",
+                  "translation": "We take the train.",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -37256,8 +40605,278 @@
                 },
                 {
                   "id": "recBz7qHp9tDjAbGS",
-                  "text": "Pic Study Vocab Set 12",
-                  "translation": "",
+                  "text": "à la boulangerie",
+                  "translation": "at the bakery",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNY9rmOsLv2aHTN",
+                  "text": "un banc",
+                  "translation": "a bench",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recodaBOcxXgE3KXA",
+                  "text": "les poissons",
+                  "translation": "the fish",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2jhdZEcxCszQIq",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recmO0WEAsP8DlKfw",
+                  "text": "devant",
+                  "translation": "in front of",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "reczxTwqPzO7fK0MJ",
+                  "text": "blanc",
+                  "translation": "white",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec9w7WKXUk2xsqCa",
+                  "text": "noir",
+                  "translation": "black",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recoh845b48squoEI",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recSYC2xdMaTLbnuA",
+                  "text": "rose",
+                  "translation": "rose",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recRaW7OMmCNuEXiC",
+                  "text": "gris",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 10",
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec4O8Wa7VLm0fWhh",
+                  "text": "la gare",
+                  "translation": "train station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recvtnfPITKc3pDLd",
+                  "text": "la rivière",
+                  "translation": "the river",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rec2JSjaC7PvUOXI7",
+                  "text": "à la station",
+                  "translation": "at the station",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "reca3oJIqQB0gZQ6S",
+                  "text": "le journal",
+                  "translation": "the newspaper",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recpDKyTtu6xtcFNu",
+                  "text": "à huit (8) heures",
+                  "translation": "at 8 o'clock",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recEAxsJHLyO74bTI",
+                  "text": "le sac",
+                  "translation": "the bag",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recdhx8fAPPBPIjKj",
+                  "text": "il y a",
+                  "translation": "there is",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recBXfH3EB9mqVz9T",
+                  "text": "la nourriture",
+                  "translation": "the food",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recNNUEwJMRjJeEiS",
+                  "text": "il lit",
+                  "translation": "he reads",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 11",
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recQBiDcTgam0hVhA",
+                  "text": "une baguette",
+                  "translation": "a baguette",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recuFafVxLkM9Q19d",
+                  "text": "manger",
+                  "translation": "to eat",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recODoy8evSo0VnE4",
+                  "text": "on fait un pique-nique",
+                  "translation": "we have a picnic",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "reci9yuzAcjI3JHGE",
+                  "text": "je prends/il prends",
+                  "translation": "i take/he takes",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWjvMFYrygEPG3Y",
+                  "text": "la maison",
+                  "translation": "the house",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rechLTvLexGZobKk3",
+                  "text": "à la compagne",
+                  "translation": "in the countryside",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "rec8vTDFEiKecXgMu",
+                  "text": "du paté",
+                  "translation": "paté",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recWmbiUaIWnwJbm3",
+                  "text": "du cidre",
+                  "translation": "cider",
+                  "language": "French",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "label": "French Picture Study Vocab - Set 12",
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recDiKCWaVcJBRJNA",
+                  "text": "du fromage",
+                  "translation": "cheese",
                   "language": "French",
                   "type": "Picture Study",
                   "sequence": 0,
@@ -37290,8 +40909,8 @@
                 },
                 {
                   "id": "recFN8hPcIMen9jCv",
-                  "sentence": "Narration Set 11",
-                  "translation": "",
+                  "sentence": "On prend le métro et le train.",
+                  "translation": "We take the metro and the train.",
                   "label": "French Narration Sentences - Set 11",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -37301,8 +40920,8 @@
                 },
                 {
                   "id": "recoVTY8YAX1HCVuh",
-                  "sentence": "Narration Set 12",
-                  "translation": "",
+                  "sentence": "On est allés à la boulangerie.",
+                  "translation": "We went to the bakery.",
                   "label": "French Narration Sentences - Set 12",
                   "language": "French",
                   "sentenceType": "Narration Sentences",
@@ -37342,6 +40961,105 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 9"
+                },
+                {
+                  "id": "rec1DPSHzyfsUAikN",
+                  "sentence": "Les poissons nagent dans le tableau.",
+                  "translation": "The fish swim in the painting.",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "recKHC9FMidx9g6gP",
+                  "sentence": "Est-ce que le bateau est toujours là ?",
+                  "translation": "Is the boat still there?",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rece9f4pnMIDO7RzX",
+                  "sentence": "Le lever du soleil est magnifique !",
+                  "translation": "The sunrise is magnificent!",
+                  "label": "French Narration Sentences - Set 10",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec2GROEX2XY8WRli",
+                  "sentence": "Le train est parti à huit heures.",
+                  "translation": "The train left at 8 o'clock.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recjL59P6Iy7lMQjx",
+                  "sentence": "Le train suit la Seine, une rivière.",
+                  "translation": "The train follows the Seine, a river.",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "recmKfDBNDo8vhhHT",
+                  "sentence": "M. Bloom lit le journal dans le train.",
+                  "translation": "Mr. Bloom reads the newspaper on the train",
+                  "label": "French Narration Sentences - Set 11",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 11"
+                },
+                {
+                  "id": "rectwldGavBHXUr4Q",
+                  "sentence": "On veut manger...",
+                  "translation": "We want to eat...",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recNLQcfPbA39Lpeb",
+                  "sentence": "Je bois du cidre et de l'eau.",
+                  "translation": "I drink cider and water.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
+                },
+                {
+                  "id": "recdP3NeOSosvWNIb",
+                  "sentence": "La maison est petite et rose.",
+                  "translation": "The house is small and pink.",
+                  "label": "French Narration Sentences - Set 12",
+                  "language": "French",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
                 }
               ],
               "grammarCharts": [],

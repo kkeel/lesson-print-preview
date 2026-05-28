@@ -57,7 +57,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T13:23:34.511Z",
+  "updatedAt": "2026-05-28T16:43:13.048Z",
   "terms": [
     {
       "termNumber": 1,
@@ -838,6 +838,26 @@
                 {
                   "text": "Europe 200 AD Map",
                   "url": "https://timemaps.com/history/italy-200ad/"
+                }
+              ]
+            },
+            {
+              "lessonId": "recIpiDa0XsKgAD3L",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 25,
+              "weekLabel": "Week 1",
+              "sequence": 50,
+              "sort": 302504,
+              "lessonLabel": "",
+              "linkLabel": "Canadian History",
+              "title": "30m Canadian History: Grades 7-8 - Lesson 50",
+              "topicTitle": "Canadian History",
+              "anchor": "term-3-week-25-lesson-50",
+              "links": [
+                {
+                  "text": "Buxton School House Tour",
+                  "url": "https://www.youtube.com/watch?v=-lTzbYF4VFg"
                 }
               ]
             }

@@ -33,7 +33,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T13:23:34.487Z",
+  "updatedAt": "2026-05-28T16:43:13.025Z",
   "terms": [
     {
       "termNumber": 1,
@@ -376,6 +376,32 @@
                 {
                   "text": "Video: Robert E. Lee",
                   "url": "https://www.youtube.com/watch?v=XWTwah5pRtg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 19,
+          "weekLabel": "Week 7",
+          "lessons": [
+            {
+              "lessonId": "recKfe6eUVKN24Dwm",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 19,
+              "sort": 0,
+              "lessonLabel": "Lesson 19",
+              "linkLabel": "History",
+              "title": "20m History: Grades 2-3 (U.S.) - Lesson 19",
+              "topicTitle": "History",
+              "anchor": "term-2-week-19-lesson-19",
+              "links": [
+                {
+                  "text": "Gravesite of Jonathan Walker",
+                  "url": "https://substackcdn.com/image/fetch/$s_!LL2f!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F611a5658-1fe7-4d19-a5eb-9b0c5782c818_1536x2048.jpeg"
                 }
               ]
             }

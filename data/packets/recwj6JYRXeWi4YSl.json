@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec0zdroSI7QgJY6v",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recwj6JYRXeWi4YSl-mythology-grade-2.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec0zdroSI7QgJY6v",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -129,7 +129,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recwj6JYRXeWi4YSl",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec0zdroSI7QgJY6v",
           "groups": [
             {
               "title": "Related Course Quick Links",
