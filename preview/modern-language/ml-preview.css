@@ -458,12 +458,12 @@
 .ml-story-column-headings {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.38in;
+  gap: 0.3in;
   margin: 0.2in 0 0.12in;
 }
 
 .ml-story-column-headings > div:nth-child(2) {
-  padding-left: 0.38in;
+  padding-left: 0.3in;
 }
 
 .ml-story-column-rule {
@@ -493,10 +493,10 @@
 }
 
 .ml-story-title {
-  font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 30px;
-  line-height: 0.98;
-  font-weight: 400;
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 26px;
+  line-height: 1.06;
+  font-weight: 700;
   color: #596e5e;
   margin: 0;
   max-width: 7.2in;
@@ -531,26 +531,27 @@
 
 .ml-story-line-inner {
   display: grid;
-  grid-template-columns: 0.34in 1fr;
-  gap: 0.1in;
+  grid-template-columns: 0.28in 1fr;
+  gap: 0.08in;
   align-items: start;
 }
 
 .ml-story-translation-col {
   border-left: 1px solid #c7d0bd;
-  padding-left: 0.38in;
+  padding-left: 0.3in;
 }
 
 .ml-story-reference {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 8px;
+  font-size: 7px;
   line-height: 1;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #adb58f;
-  padding-top: 0.03in;
+  padding-top: 0.04in;
   white-space: nowrap;
+  opacity: 0.9;
 }
 
 .ml-story-text {
