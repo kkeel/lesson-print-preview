@@ -94,7 +94,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T12:09:20.674Z",
+  "updatedAt": "2026-05-28T13:23:34.658Z",
   "terms": [
     {
       "termNumber": 1,
@@ -3991,6 +3991,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reciBrjiNmcTY7sYR.pdf"
+                },
+                {
+                  "text": "La baguette",
+                  "url": "https://www.youtube.com/watch?v=KURH-UeAN8A"
                 }
               ]
             },
