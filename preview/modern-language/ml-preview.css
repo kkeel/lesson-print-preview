@@ -449,6 +449,10 @@
    ML Storylines
    ========================= */
 
+.ml-appendix-title {
+  margin-bottom: 0.38in;
+}
+
 .ml-appendix-top-rule {
   height: 2px;
   background: #adb58f;
