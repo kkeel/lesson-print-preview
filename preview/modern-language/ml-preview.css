@@ -593,3 +593,45 @@
   border-left: 1px solid #c7d0bd;
   padding-left: 0.3in;
 }
+
+/* =========================
+   ML Vocabulary Glossary
+   ========================= */
+
+.ml-glossary-resource {
+  margin-top: 0.65in;
+}
+
+.ml-glossary-resource:first-child {
+  margin-top: 0;
+}
+
+.ml-glossary-grid {
+  margin-top: 0.16in;
+  border-top: 1px solid #d7ddd4;
+}
+
+.ml-glossary-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.3in;
+  border-bottom: 1px solid #d7ddd4;
+}
+
+.ml-glossary-language,
+.ml-glossary-translation {
+  padding: 10px 0;
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.3;
+}
+
+.ml-glossary-language {
+  font-weight: 700;
+}
+
+.ml-glossary-translation {
+  border-left: 1px solid #c7d0bd;
+  padding-left: 0.3in;
+  font-style: italic;
+}
