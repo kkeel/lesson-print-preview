@@ -449,23 +449,6 @@ function renderMLGlossarySection(section) {
           ${escapeHtml(section.type || "Vocabulary")} Vocabulary
         </h2>
       </header>
-
-      <div class="ml-story-column-headings">
-        <div>
-          <div class="ml-story-column-rule"></div>
-          <div class="ml-story-column-label">
-            ${escapeHtml(languageLabel)}
-          </div>
-        </div>
-
-        <div>
-          <div class="ml-story-column-rule"></div>
-          <div class="ml-story-column-label">
-            English
-          </div>
-        </div>
-      </div>
-
       <div class="ml-glossary-set-list">
         ${sets.map(renderMLGlossarySet).join("")}
       </div>
