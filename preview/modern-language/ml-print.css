@@ -172,13 +172,15 @@
 
    /* Appendix print page-break control */
 
-   /* Keep story/song title + headings with the beginning of the text */
+   /* Story/song: keep title + column headings with the start of content */
    .ml-story-resource,
    .ml-song-resource {
      break-inside: avoid;
      page-break-inside: avoid;
    }
    
+   .ml-story-resource .ml-appendix-top-rule,
+   .ml-song-resource .ml-appendix-top-rule,
    .ml-story-header,
    .ml-story-column-headings {
      break-after: avoid;
@@ -191,24 +193,30 @@
      page-break-before: avoid;
    }
    
-   /* Let long stories/songs split only when they truly need to */
-   .ml-story-resource,
-   .ml-song-resource {
+   /* If a story/song is too long, allow it to split rather than forcing huge blanks */
+   .ml-storylines-appendix .ml-story-resource,
+   .ml-songs-appendix .ml-song-resource {
      break-inside: auto;
      page-break-inside: auto;
    }
    
-   .ml-story-resource .ml-appendix-top-rule,
-   .ml-song-resource .ml-appendix-top-rule,
-   .ml-story-resource .ml-story-header,
-   .ml-song-resource .ml-story-header,
-   .ml-story-resource .ml-story-column-headings,
-   .ml-song-resource .ml-story-column-headings {
+   /* But never leave only the title/header stranded */
+   .ml-storylines-appendix .ml-appendix-top-rule,
+   .ml-storylines-appendix .ml-story-header,
+   .ml-storylines-appendix .ml-story-column-headings,
+   .ml-songs-appendix .ml-appendix-top-rule,
+   .ml-songs-appendix .ml-story-header,
+   .ml-songs-appendix .ml-story-column-headings {
      break-after: avoid;
      page-break-after: avoid;
    }
    
-   /* Glossary: keep each set title with the start of its chart */
+   /* Glossary: compact chart layout and keep each set together */
+   .ml-glossary-set {
+     break-inside: avoid;
+     page-break-inside: avoid;
+   }
+   
    .ml-glossary-set-title {
      break-after: avoid;
      page-break-after: avoid;
@@ -219,15 +227,9 @@
      page-break-before: avoid;
    }
    
-   /* Glossary charts may split across pages */
-   .ml-glossary-set,
-   .ml-glossary-grid {
-     break-inside: auto;
-     page-break-inside: auto;
-   }
-   
    .ml-glossary-row {
      break-inside: avoid;
      page-break-inside: avoid;
    }
-}
+
+  }
