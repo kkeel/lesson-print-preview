@@ -30,7 +30,7 @@ function renderCoverSection(section, packetData) {
 }
 
 function renderHeaderSection(section, packetData) {
-  let html = `<div class="page-flow header-section">`;
+  let html = `<div class="page-flow header-section" id="ml-section-headers">`;
   const headerEditUrl = section.editUrl || "";
 
   html += renderHeaderIntro(packetData);
@@ -410,7 +410,10 @@ function renderHeaderItem(item, headerEditUrl = "") {
 
 function renderHowToSection(section) {
   return (section.pages || []).map((page, pageIndex) => `
-    <div class="page-flow howto-section section-break">
+    <div
+      class="page-flow howto-section section-break"
+      id="${pageIndex === 0 ? "ml-section-howto" : ""}"
+    >
       <section class="flow-block howto-page-header">
         <h1 class="howto-page-title">${escapeHtml(page.title || "")}</h1>
         <div class="howto-page-subtitle">${escapeHtml(page.subtitle || "How To Teach")}</div>
