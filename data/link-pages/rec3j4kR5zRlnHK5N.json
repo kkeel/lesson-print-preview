@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T16:43:13.124Z",
+  "updatedAt": "2026-05-28T18:36:38.895Z",
   "terms": [
     {
       "termNumber": 1,
@@ -765,6 +765,36 @@
                 {
                   "text": "Introduction to Virgil's Aeneid",
                   "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=21348&printable=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 21,
+          "weekLabel": "Week 9",
+          "lessons": [
+            {
+              "lessonId": "recsYFT3H13NaSFui",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 21,
+              "sort": 202101,
+              "lessonLabel": "",
+              "linkLabel": "History of Lit",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 21",
+              "topicTitle": "History of Lit",
+              "anchor": "term-2-week-21-lesson-21",
+              "links": [
+                {
+                  "text": "Christina Rossetti: A Woman for All Seasons",
+                  "url": "https://www.acton.org/religion-liberty/volume-33-number-3/christina-rossetti-woman-all-seasons"
+                },
+                {
+                  "text": "In the Bleak Midwinter",
+                  "url": "https://www.youtube.com/watch?v=xAzQIS4-MpY"
                 }
               ]
             }
