@@ -389,6 +389,97 @@ function renderMLSongResource(song) {
   `;
 }
 
+function renderMLGlossaryResources(items = []) {
+  if (!items.length) return "";
+
+  const grouped = new Map();
+
+  items.forEach(item => {
+    const key = [
+      item.lessonSetTitle || "",
+      item.type || "",
+      item.set || ""
+    ].join("||");
+
+    if (!grouped.has(key)) {
+      grouped.set(key, {
+        lessonSetTitle: item.lessonSetTitle,
+        type: item.type,
+        set: item.set,
+        language: item.language,
+        items: []
+      });
+    }
+
+    grouped.get(key).items.push(item);
+  });
+
+  return [...grouped.values()]
+    .sort((a, b) => {
+      const aSet = getMLSetNumber(a.set);
+      const bSet = getMLSetNumber(b.set);
+
+      if (aSet !== bSet) return aSet - bSet;
+
+      return String(a.type || "").localeCompare(String(b.type || ""));
+    })
+    .map(renderMLGlossaryGroup)
+    .join("");
+}
+
+function renderMLGlossaryGroup(group) {
+  const languageLabel = group.language || "Spanish/French";
+
+  return `
+    <article class="ml-glossary-resource">
+      <div class="ml-appendix-top-rule"></div>
+
+      <header class="ml-story-header">
+        <h2 class="ml-story-title">
+          ${escapeHtml(
+            [
+              group.type,
+              group.set
+            ].filter(Boolean).join(" — ")
+          )}
+        </h2>
+      </header>
+
+      <div class="ml-story-column-headings">
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">
+            ${escapeHtml(languageLabel)}
+          </div>
+        </div>
+
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">
+            English
+          </div>
+        </div>
+      </div>
+
+      <div class="ml-glossary-grid">
+        ${(group.items || [])
+          .sort((a, b) => Number(a.sequence || 0) - Number(b.sequence || 0))
+          .map(item => `
+            <div class="ml-glossary-row">
+              <div class="ml-glossary-language">
+                ${escapeHtml(item.text || "")}
+              </div>
+
+              <div class="ml-glossary-translation">
+                ${escapeHtml(item.translation || "")}
+              </div>
+            </div>
+          `).join("")}
+      </div>
+    </article>
+  `;
+}
+
 function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
@@ -430,11 +521,13 @@ function renderMLAppendices(appendices = {}) {
 
       ${hasGlossary ? `
         <div class="page-flow ml-appendix-page ml-appendix-glossary section-break" id="ml-appendix-glossary">
-          <section class="ml-appendix-block">
-            <h1 class="lesson-page-title">Vocabulary Glossary</h1>
-
-            <div class="ml-appendix-placeholder">
-              Glossary rendering coming next
+          <section class="ml-appendix-block ml-glossary-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Vocabulary Glossary
+            </h1>
+      
+            <div class="ml-glossary-list">
+              ${renderMLGlossaryResources(appendices.glossary || [])}
             </div>
           </section>
         </div>
