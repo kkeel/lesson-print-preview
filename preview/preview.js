@@ -136,6 +136,33 @@ function renderMLPreviewControls(data) {
       </select>
     </div>
 
+        <div class="ml-preview-control-group">
+          <label for="ml-jump-section">Section</label>
+    
+          <select id="ml-jump-section">
+            <option value="">Choose section...</option>
+    
+            <option value="ml-section-headers">Header Pages</option>
+            <option value="ml-section-howto">How To Pages</option>
+            <option value="ml-section-lessons">Lessons</option>
+    
+            ${(mlSection.appendices?.stories || []).length
+              ? `<option value="ml-appendix-storylines">Storylines</option>`
+              : ""
+            }
+    
+            ${(mlSection.appendices?.songsRhymes || []).length
+              ? `<option value="ml-appendix-songs">Songs & Rhymes</option>`
+              : ""
+            }
+    
+            ${(mlSection.appendices?.glossary || []).length
+              ? `<option value="ml-appendix-glossary">Vocabulary Glossary</option>`
+              : ""
+            }
+          </select>
+        </div>
+
     ${mlViewMode === "course" ? `
       <div class="ml-preview-control-group">
         <label for="ml-jump-week">Week</label>
@@ -167,6 +194,10 @@ function renderMLPreviewControls(data) {
 
   document.getElementById("ml-jump-topic")?.addEventListener("change", event => {
     updateMLTopicModeLessonOptions(mlSection);
+    jumpToPreviewAnchor(event.target.value);
+  });
+
+  document.getElementById("ml-jump-section")?.addEventListener("change", event => {
     jumpToPreviewAnchor(event.target.value);
   });
 
