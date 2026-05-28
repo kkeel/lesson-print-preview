@@ -190,7 +190,10 @@ function sortMLWeeklyLessons(a = {}, b = {}) {
 
 function renderMLWeeklyLessons(section) {
   return `
-    <div class="page-flow ml-lessons-section section-break">
+    <div
+      class="page-flow ml-lessons-section section-break"
+      id="ml-section-lessons"
+    >
       <section class="flow-block">
         <h1 class="lesson-page-title">${escapeHtml(section.title || "")}</h1>
 
@@ -230,7 +233,10 @@ function renderMLWeek(week) {
 
 function renderMLByLessonSet(section) {
   return `
-    <div class="page-flow ml-lessons-section section-break">
+    <div
+      class="page-flow ml-lessons-section section-break"
+      id="ml-section-lessons"
+    >
       <section class="flow-block">
         <div class="ml-lesson-sets">
           ${(section.lessonSets || []).map(lessonSet => `
