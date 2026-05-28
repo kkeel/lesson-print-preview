@@ -756,12 +756,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 1\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Paris\nParis, France is one of the most visited cities. Enjoy the linked video to discover interesting facts about \"The City of Light\". This virtual tour will take you around some famous landmarks such as the Eiffel Tower, the Louvre, the Arc de Triomphe, and Notre Dame Cathedral. \n\n∞ Video Link: [Paris](https://www.youtube.com/watch?v=CGeI9lfV2kA)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=5",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoOLoCYvLqQbXXT.pdf"
+                },
+                {
+                  "text": "Let's Travel to Paris",
+                  "url": "https://www.youtube.com/watch?v=CGeI9lfV2kA"
                 }
               ],
               "vocab": [
@@ -1385,12 +1389,20 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 2\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Haussmann Architecture\nWalking through Paris, one takes notice of the buildings lining many of the streets. Tall, rectangular buildings, built with beige stone and iron balconies were created by George-Eugène Haussmann in the latter half of the 1800s. Dive deeper into how and why this renovation happened. \n\n\n∞ Video Link: [George-Eugène Haussmann - Architecture](https://classroom.ricksteves.com/videos/paris-haussmann-buildings-and-grand-boulevards) \n∞ Video Link : [George-Eugène Haussmann - Life History](https://www.youtube.com/watch?v=xUcvsqcD7ww)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=10",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rectv8Z58XuxQMuvj.pdf"
+                },
+                {
+                  "text": "George-Eugène Haussmann - Architecture",
+                  "url": "https://classroom.ricksteves.com/videos/paris-haussmann-buildings-and-grand-boulevards"
+                },
+                {
+                  "text": "George-Eugène Haussmann - Life History",
+                  "url": "https://www.youtube.com/watch?v=xUcvsqcD7ww"
                 }
               ],
               "vocab": [
@@ -2496,12 +2508,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 3\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Le Cathedral de Notre Dame\nCathedrals are found all over Europe. Notre Dame Cathedral is one of the most well known cathedrals in the world. Discover more about Notre Dame's rich history and how it almost came to no longer exist. \n\n∞ Video Link: [Notre Dame](https://www.youtube.com/watch?v=3GYjonocO0g)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=17",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recyDmFQJ0wq6aHSC.pdf"
+                },
+                {
+                  "text": "Notre Dame",
+                  "url": "https://www.youtube.com/watch?v=3GYjonocO0g"
                 }
               ],
               "vocab": [
@@ -3134,17 +3150,6 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 8"
-                },
-                {
-                  "id": "recpHaxUVQERx9cmn",
-                  "sentence": "de loin",
-                  "translation": "from far away",
-                  "label": "French Narration Sentences - Set 8",
-                  "language": "French",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 8"
                 }
               ],
               "grammarCharts": []
@@ -3290,12 +3295,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 4\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Au métro\nDiscover how Parisiens travel efficiently throughout Paris - au métro! Join our French guide, Loïc, as he takes us through how to the métro came to be, how to use it, how to pay for it, and more!\n \n∞ Video Link: [Au métro](https://www.youtube.com/watch?v=NUMx6taaOws&t=918s)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=22",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZlpJpOtc147B00.pdf"
+                },
+                {
+                  "text": "Au métro",
+                  "url": "https://www.youtube.com/watch?v=NUMx6taaOws&t=918s"
                 }
               ],
               "vocab": [
@@ -4214,6 +4223,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recCumje8rnWtYnx8.pdf"
+                },
+                {
+                  "text": "What is Impressionism?",
+                  "url": "https://www.youtube.com/watch?v=nesTk_6j-0c"
+                },
+                {
+                  "text": "Art History for Kids: Impressionism",
+                  "url": "https://www.youtube.com/watch?v=sb4nkOdBarY&t=224s"
                 }
               ],
               "vocab": [
@@ -22116,12 +22133,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 1\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Paris\nParis, France is one of the most visited cities. Enjoy the linked video to discover interesting facts about \"The City of Light\". This virtual tour will take you around some famous landmarks such as the Eiffel Tower, the Louvre, the Arc de Triomphe, and Notre Dame Cathedral. \n\n∞ Video Link: [Paris](https://www.youtube.com/watch?v=CGeI9lfV2kA)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=5",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoOLoCYvLqQbXXT.pdf"
+                },
+                {
+                  "text": "Let's Travel to Paris",
+                  "url": "https://www.youtube.com/watch?v=CGeI9lfV2kA"
                 }
               ],
               "vocab": [
@@ -24309,12 +24330,20 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 2\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Haussmann Architecture\nWalking through Paris, one takes notice of the buildings lining many of the streets. Tall, rectangular buildings, built with beige stone and iron balconies were created by George-Eugène Haussmann in the latter half of the 1800s. Dive deeper into how and why this renovation happened. \n\n\n∞ Video Link: [George-Eugène Haussmann - Architecture](https://classroom.ricksteves.com/videos/paris-haussmann-buildings-and-grand-boulevards) \n∞ Video Link : [George-Eugène Haussmann - Life History](https://www.youtube.com/watch?v=xUcvsqcD7ww)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=10",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rectv8Z58XuxQMuvj.pdf"
+                },
+                {
+                  "text": "George-Eugène Haussmann - Architecture",
+                  "url": "https://classroom.ricksteves.com/videos/paris-haussmann-buildings-and-grand-boulevards"
+                },
+                {
+                  "text": "George-Eugène Haussmann - Life History",
+                  "url": "https://www.youtube.com/watch?v=xUcvsqcD7ww"
                 }
               ],
               "vocab": [
@@ -27970,12 +27999,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 3\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Le Cathedral de Notre Dame\nCathedrals are found all over Europe. Notre Dame Cathedral is one of the most well known cathedrals in the world. Discover more about Notre Dame's rich history and how it almost came to no longer exist. \n\n∞ Video Link: [Notre Dame](https://www.youtube.com/watch?v=3GYjonocO0g)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=17",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recyDmFQJ0wq6aHSC.pdf"
+                },
+                {
+                  "text": "Notre Dame",
+                  "url": "https://www.youtube.com/watch?v=3GYjonocO0g"
                 }
               ],
               "vocab": [
@@ -29594,17 +29627,6 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 8"
-                },
-                {
-                  "id": "recpHaxUVQERx9cmn",
-                  "sentence": "de loin",
-                  "translation": "from far away",
-                  "label": "French Narration Sentences - Set 8",
-                  "language": "French",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 8"
                 }
               ],
               "grammarCharts": [],
@@ -30328,12 +30350,16 @@
               "instructions": "➜ LESSON \n ⬚ Review Picture Study Vocabulary using gestures/pointing (TPR).\t\n      Have students point to the images in the Picture Book as they say the \n      coordinating vocab words. \n  ⬚ Review Picture Study Narration Sentences  \n  ⬚ Read Cultural Study Introduction\n  ⬚ View, Narrate & Discuss Cultural Videos",
               "grammarInstructions": "",
               "practiceInstructions": "",
-              "cctBlock": "➜ CULTURAL TOPIC\n⬚ French Topic 4\n\n∞ Video Link:",
+              "cctBlock": "➜ CULTURAL TOPIC - Au métro\nDiscover how Parisiens travel efficiently throughout Paris - au métro! Join our French guide, Loïc, as he takes us through how to the métro came to be, how to use it, how to pay for it, and more!\n \n∞ Video Link: [Au métro](https://www.youtube.com/watch?v=NUMx6taaOws&t=918s)",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=22",
               "links": [
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZlpJpOtc147B00.pdf"
+                },
+                {
+                  "text": "Au métro",
+                  "url": "https://www.youtube.com/watch?v=NUMx6taaOws&t=918s"
                 }
               ],
               "vocab": [
@@ -33802,6 +33828,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recCumje8rnWtYnx8.pdf"
+                },
+                {
+                  "text": "What is Impressionism?",
+                  "url": "https://www.youtube.com/watch?v=nesTk_6j-0c"
+                },
+                {
+                  "text": "Art History for Kids: Impressionism",
+                  "url": "https://www.youtube.com/watch?v=sb4nkOdBarY&t=224s"
                 }
               ],
               "vocab": [
