@@ -1678,6 +1678,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
           .map(item => ({
             id: item.id,
             title: item.title,
+            sequence: item.sequence,
             text: item.songText,
             translation: item.songTranslation
           })),
