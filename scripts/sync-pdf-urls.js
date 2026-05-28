@@ -8,6 +8,7 @@ const PDF_FIELD_NAME = "PDF Link URL";
 const PUBLIC_PDF_BASE_URL = "https://planning.alveary.org/pdf/lesson-plans";
 
 const INDEX_PATH = "./data/packet-index.json";
+const PACKET_DIR = "./data/packets";
 
 if (!AIRTABLE_TOKEN) throw new Error("Missing AIRTABLE_TOKEN");
 if (!AIRTABLE_BASE_ID) throw new Error("Missing AIRTABLE_BASE_ID");
@@ -20,6 +21,16 @@ function slugify(text) {
     .replace(/^-+|-+$/g, "")
     .replace(/-+/g, "-")
     .slice(0, 80);
+}
+
+function getPacketJsonPath(recordId) {
+  return `${PACKET_DIR}/${recordId}.json`;
+}
+
+function isModernLanguagePacket(packetData) {
+  return (packetData.sections || []).some(
+    section => section.type === "modern-language-lessons"
+  );
 }
 
 function chunkArray(array, size) {
@@ -53,18 +64,37 @@ async function updateBatch(records) {
 async function main() {
   const packets = JSON.parse(fs.readFileSync(INDEX_PATH, "utf8"));
 
-  const records = packets.map(packet => {
-    const slug = slugify(packet.lessonSetName || packet.title || packet.id);
-    const filename = `${packet.id}-${slug}.pdf`;
-    const pdfUrl = `${PUBLIC_PDF_BASE_URL}/${filename}`;
-
-    return {
-      id: packet.id,
-      fields: {
-        [PDF_FIELD_NAME]: pdfUrl
+  const records = packets
+    .filter(packet => {
+      const packetPath = getPacketJsonPath(packet.id);
+  
+      if (!fs.existsSync(packetPath)) {
+        return false;
       }
-    };
-  });
+  
+      const packetData = JSON.parse(
+        fs.readFileSync(packetPath, "utf8")
+      );
+  
+      if (isModernLanguagePacket(packetData)) {
+        console.log(`Skipping ML packet URL sync: ${packet.id}`);
+        return false;
+      }
+  
+      return true;
+    })
+    .map(packet => {
+      const slug = slugify(packet.lessonSetName || packet.title || packet.id);
+      const filename = `${packet.id}-${slug}.pdf`;
+      const pdfUrl = `${PUBLIC_PDF_BASE_URL}/${filename}`;
+  
+      return {
+        id: packet.id,
+        fields: {
+          [PDF_FIELD_NAME]: pdfUrl
+        }
+      };
+    });
 
   const batches = chunkArray(records, 10);
 
