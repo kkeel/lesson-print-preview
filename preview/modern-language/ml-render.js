@@ -392,56 +392,61 @@ function renderMLSongResource(song) {
 function renderMLGlossaryResources(items = []) {
   if (!items.length) return "";
 
-  const grouped = new Map();
+  const sections = new Map();
 
   items.forEach(item => {
-    const key = [
-      item.lessonSetTitle || "",
-      item.type || "",
-      item.set || ""
-    ].join("||");
+    const sectionKey = item.type || "Vocabulary";
+    const setKey = item.set || "Set";
 
-    if (!grouped.has(key)) {
-      grouped.set(key, {
-        lessonSetTitle: item.lessonSetTitle,
-        type: item.type,
-        set: item.set,
+    if (!sections.has(sectionKey)) {
+      sections.set(sectionKey, {
+        type: sectionKey,
         language: item.language,
+        sets: new Map()
+      });
+    }
+
+    const section = sections.get(sectionKey);
+
+    if (!section.sets.has(setKey)) {
+      section.sets.set(setKey, {
+        set: setKey,
         items: []
       });
     }
 
-    grouped.get(key).items.push(item);
+    section.sets.get(setKey).items.push(item);
   });
 
-  return [...grouped.values()]
-    .sort((a, b) => {
-      const aSet = getMLSetNumber(a.set);
-      const bSet = getMLSetNumber(b.set);
-
-      if (aSet !== bSet) return aSet - bSet;
-
-      return String(a.type || "").localeCompare(String(b.type || ""));
-    })
-    .map(renderMLGlossaryGroup)
+  return [...sections.values()]
+    .sort((a, b) => sortMLGlossaryType(a.type) - sortMLGlossaryType(b.type))
+    .map(renderMLGlossarySection)
     .join("");
 }
 
-function renderMLGlossaryGroup(group) {
-  const languageLabel = group.language || "Spanish/French";
+function sortMLGlossaryType(type = "") {
+  const value = String(type || "").toLowerCase();
+
+  if (value.includes("picture")) return 1;
+  if (value.includes("literature")) return 2;
+  if (value.includes("grammar")) return 3;
+
+  return 999;
+}
+
+function renderMLGlossarySection(section) {
+  const languageLabel = section.language || "Spanish/French";
+
+  const sets = [...section.sets.values()]
+    .sort((a, b) => getMLSetNumber(a.set) - getMLSetNumber(b.set));
 
   return `
-    <article class="ml-glossary-resource">
+    <article class="ml-glossary-section">
       <div class="ml-appendix-top-rule"></div>
 
       <header class="ml-story-header">
         <h2 class="ml-story-title">
-          ${escapeHtml(
-            [
-              group.type,
-              group.set
-            ].filter(Boolean).join(" — ")
-          )}
+          ${escapeHtml(section.type || "Vocabulary")} Vocabulary
         </h2>
       </header>
 
@@ -461,8 +466,22 @@ function renderMLGlossaryGroup(group) {
         </div>
       </div>
 
+      <div class="ml-glossary-set-list">
+        ${sets.map(renderMLGlossarySet).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function renderMLGlossarySet(setGroup) {
+  return `
+    <section class="ml-glossary-set">
+      <h3 class="ml-glossary-set-title">
+        ${escapeHtml(setGroup.set || "Set")}
+      </h3>
+
       <div class="ml-glossary-grid">
-        ${(group.items || [])
+        ${(setGroup.items || [])
           .sort((a, b) => Number(a.sequence || 0) - Number(b.sequence || 0))
           .map(item => `
             <div class="ml-glossary-row">
@@ -476,7 +495,7 @@ function renderMLGlossaryGroup(group) {
             </div>
           `).join("")}
       </div>
-    </article>
+    </section>
   `;
 }
 
