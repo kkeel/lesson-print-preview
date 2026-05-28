@@ -26,7 +26,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T18:36:38.793Z",
+  "updatedAt": "2026-05-28T21:12:07.573Z",
   "terms": [
     {
       "termNumber": 1,
@@ -521,6 +521,32 @@
           ]
         },
         {
+          "weekNumber": 18,
+          "weekLabel": "Week 6",
+          "lessons": [
+            {
+              "lessonId": "recBJuG6FZqPDxK9X",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 36,
+              "sort": 0,
+              "lessonLabel": "Lesson 36",
+              "linkLabel": "Geography",
+              "title": "30m Geography: Grade 9 - Lesson 36",
+              "topicTitle": "Geography",
+              "anchor": "term-2-week-18-lesson-36",
+              "links": [
+                {
+                  "text": "Mandan, Hidatsa, and Arikara Histories of Sacagawea",
+                  "url": "https://www.nps.gov/articles/000/mandan-hidatsa-and-arikara-histories-of-sacagawea.htm"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "weekNumber": 19,
           "weekLabel": "Week 7",
           "lessons": [
@@ -541,6 +567,30 @@
                 {
                   "text": "What is the Strait of Hormuz and why is it important?",
                   "url": "https://youtu.be/7dVRH9YgtWA?si=ASPU1eqcRjqc2Y_I"
+                }
+              ]
+            },
+            {
+              "lessonId": "recs2G9p8UEUxZrko",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 19,
+              "weekLabel": "Week 7",
+              "sequence": 38,
+              "sort": 0,
+              "lessonLabel": "Lesson 38",
+              "linkLabel": "Geography",
+              "title": "30m Geography: Grade 9 - Lesson 38",
+              "topicTitle": "Geography",
+              "anchor": "term-2-week-19-lesson-38",
+              "links": [
+                {
+                  "text": "Knife River Indian Villages",
+                  "url": "https://www.nps.gov/knri/learn/historyculture/index.htm"
+                },
+                {
+                  "text": "Fort Clark State Historic Site",
+                  "url": "https://www.history.nd.gov/historicsites/clark/clarkhistory.html"
                 }
               ]
             }
@@ -705,6 +755,36 @@
                 {
                   "text": "Blank Map of Latin America",
                   "url": "https://www.worldatlas.com/webimage/countrys/namerica/printpage/latinout.htm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 31,
+          "weekLabel": "Week 7",
+          "lessons": [
+            {
+              "lessonId": "rec4p0YAakkMwn6ER",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 31,
+              "weekLabel": "Week 7",
+              "sequence": 62,
+              "sort": 0,
+              "lessonLabel": "Lesson 62",
+              "linkLabel": "Geography",
+              "title": "30m Geography: Grade 9 - Lesson 62",
+              "topicTitle": "Geography",
+              "anchor": "term-3-week-31-lesson-62",
+              "links": [
+                {
+                  "text": "Knife River Indian Villages",
+                  "url": "https://www.nps.gov/knri/learn/historyculture/index.htm"
+                },
+                {
+                  "text": "Fort Clark State Historic Site",
+                  "url": "https://www.history.nd.gov/historicsites/clark/clarkhistory.html"
                 }
               ]
             }

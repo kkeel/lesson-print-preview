@@ -168,7 +168,7 @@
             },
             {
               "prompt": "Map Work",
-              "text": "• Each week, you will be looking at maps, constructing your own, locating places, and filling in the details of your map. Keep your map and atlas near you as you read.\n\n• These lessons refer to a 'rough sketch' method that Charlotte Mason employed in which the rough shape of the map is sketched through observation and then memory. The rough sketch is not intended to be precise or detailed. Examples are linked to the first lesson.\n\n• If an alternative to a physical sketch is needed, you may trace or use the mental sketching described in the first lesson throughout the course. You may also experiment with different methods for interest or to see which method helps you best.\n            \n• One way to personalize interest and challenge in this course is to adjust the amount and type of locations included in Mapwork. If the number of locations listed is too numerous for you to think about and remember, then map fewer, choosing locations that seem interesting and relevant to the point of the book. If the number of locations listed leaves you wanting more, then add more.",
+              "text": "• Each week, you will be looking at maps, constructing your own, locating places, and filling in the details of your map. Keep your map and atlas near you as you read.\n\n• These lessons refer to a 'rough sketch' method that Charlotte Mason employed, in which the rough shape of the map is sketched through observation and then memory. The rough sketch is not intended to be precise or detailed. Examples are linked to the first lesson.\n\n• If an alternative to a physical sketch is needed, you may trace or use the mental sketching described in the first lesson throughout the course. You may also experiment with different methods for interest or to see which method helps you best.\n            \n• One way to personalize interest and challenge in this course is to adjust the amount and type of locations included in Mapwork. If the number of locations listed is too numerous for you to think about and remember, then map fewer, choosing locations that seem interesting and relevant to the point of the book. If the number of locations listed leaves you wanting more, then add more.",
               "imageId": "recOhz0yF0cWoc5sJ",
               "image": "../images/howto_images/recOhz0yF0cWoc5sJ.webp"
             },
@@ -180,7 +180,7 @@
             },
             {
               "prompt": "Narrate",
-              "text": "• You will narrate orally or silently to yourself using your map to help you connect what you are reading to your map as well as to interact with and think about the ideas discussed in the chapter. \n\n• For the book All Over the Map, you will come up with questions or comments about the maps you are looking at and reading about.",
+              "text": "• You will narrate orally or silently to yourself using your map to help you connect what you are reading to your map, as well as to interact with and think about the ideas discussed in the chapter. \n\n• For the book All Over the Map, you will come up with questions or comments about the maps you are looking at and reading about.",
               "imageId": "recIUhyVu1Y1l6aP9",
               "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
             },
@@ -636,7 +636,7 @@
               "lessonLabel": "Lesson 17",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 17",
-              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nCahokia (10th)",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nCahokia (10th)\nThe Selkirk Settlers (11th)\nHistory of Vancouver (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recPpqYvX6xRR87DE",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recxTqmYbsfzqrSFv&term=1&week=9",
@@ -646,8 +646,12 @@
                   "url": "https://www.youtube.com/watch?v=ruWuAas8T7Y&t=125s"
                 },
                 {
-                  "text": "The Selkirk Settlers",
+                  "text": "The Selkirk Settlers (11th)",
                   "url": "https://www.youtube.com/watch?v=q5es68RFzN0"
+                },
+                {
+                  "text": "History of Vancouver (12th)",
+                  "url": "https://www.youtube.com/watch?v=xHEwPNnRmuM"
                 }
               ]
             },
@@ -682,11 +686,24 @@
               "lessonLabel": "Lesson 19",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 19",
-              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\n Across This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\n Across This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nKarst in the Ozarks (10th)\nNebraska Stories (11th)\nRoots of El Pueblo (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recooHJkrgMfULbZy",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recxTqmYbsfzqrSFv&term=1&week=10",
+              "links": [
+                {
+                  "text": "Karst in the Ozarks (10th)",
+                  "url": "https://www.youtube.com/watch?v=BB7a5KReUmE"
+                },
+                {
+                  "text": "Nebraska Stories (11th)",
+                  "url": "https://www.youtube.com/watch?v=MPabTAMrWME"
+                },
+                {
+                  "text": "Roots of El Pueblo (12th)",
+                  "url": "https://www.youtube.com/watch?v=0-jFL40GrOM&t=74s"
+                }
+              ]
             },
             {
               "lessonId": "rec8pCNYF6DoCFYBK",
@@ -723,11 +740,32 @@
               "lessonLabel": "Lesson 21",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 21",
-              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nGullah Traditions (10th)\nThe Great Dismal Swamp (10th)\nYellowstone National Park (11th)\nLakota Empire (11th)\nFinal Sugar Harvest (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recYAfUMMg3RdPcQB",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recxTqmYbsfzqrSFv&term=1&week=11",
+              "links": [
+                {
+                  "text": "Gullah Traditions (10th)",
+                  "url": "https://www.youtube.com/watch?v=zSO5pcPfhnk"
+                },
+                {
+                  "text": "The Great Dismal Swamp (10th)",
+                  "url": "https://www.youtube.com/watch?v=0_zaVMNsD7c"
+                },
+                {
+                  "text": "Yellowstone National Park (11th)",
+                  "url": "https://www.youtube.com/watch?v=RCYSEDqPv4o"
+                },
+                {
+                  "text": "Lakota Empire (11th)",
+                  "url": "https://www.youtube.com/watch?v=C-fQo8zmiPQ"
+                },
+                {
+                  "text": "Final Sugar Harvest (12th)",
+                  "url": "https://www.youtube.com/watch?v=tXEdZMIc5v0"
+                }
+              ]
             },
             {
               "lessonId": "reckdRYKBwjKwMzZ3",
@@ -755,7 +793,7 @@
               "lessonLabel": "Lesson 23",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 23",
-              "body": "⍞ Materials: \n\n➜ Answer question(s) related to course.",
+              "body": "➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nAcross This Land",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recb89bdbxNU91ikr",
               "lessonLinksUrl": "",
@@ -771,7 +809,7 @@
               "lessonLabel": "Lesson 24",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 24",
-              "body": "⍞ Materials: \n\n➜ Answer question(s) related to course.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nFive Months on the Missouri River",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=receNe3KOzO19ljg0",
               "lessonLinksUrl": "",
@@ -809,7 +847,7 @@
               "lessonLabel": "Lesson 26",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 26",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ\nStart on p.x1 \"To the Reader\" and read ~23 pages of Sufferings in Africa or what you can read in 30 minutes.  \n\n➜ MAP WORK\nLook at the map of Africa that was included with the book when it was published in 1817. Compare the 1817 map to a current map.  Familiarize yourself in general with where the events will take place.\n\n★ Original manuscript of the book\n★ Map included in the book \n★ Current map of the region\n\n➜ NARRATE\nConsider creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ\nStart on p.x1 \"To the Reader\" and read ~23 pages of Sufferings in Africa or what you can read in 30 minutes.  \n\n➜ MAP WORK\nLook at the map of Africa that was included with the book when it was published in 1817. Compare the 1817 map to a current map.  Familiarize yourself in general with where the events will take place.\n\n∞ Book Link: Original manuscript of the book\n∞ Image Link: Map included in the original book\n∞ Map Link: Current map of the region\n\n➜ NARRATE\nConsider creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recojwg48IBOa9Sam",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recxTqmYbsfzqrSFv&term=2&week=13",
@@ -886,7 +924,7 @@
               "lessonLabel": "Lesson 30",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 30",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recciz5SwnfbHl856",
               "lessonLinksUrl": "",
@@ -918,7 +956,7 @@
               "lessonLabel": "Lesson 32",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 32",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recfwUh20Gu9AqCvH",
               "lessonLinksUrl": "",
@@ -950,7 +988,7 @@
               "lessonLabel": "Lesson 34",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 34",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recP1RP5z72aLZ6Bn",
               "lessonLinksUrl": "",
@@ -987,7 +1025,7 @@
               "lessonLabel": "Lesson 36",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 36",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recaCFEz7rYsV4kaw",
               "lessonLinksUrl": "",
@@ -1028,7 +1066,7 @@
               "lessonLabel": "Lesson 38",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 38",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recWJv5QXfJxwqpAx",
               "lessonLinksUrl": "",
@@ -1060,7 +1098,7 @@
               "lessonLabel": "Lesson 40",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 40",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=rechmFWkvRBpgVk9q",
               "lessonLinksUrl": "",
@@ -1092,7 +1130,7 @@
               "lessonLabel": "Lesson 42",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 42",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages\n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recmc2aEWT0ACOqSg",
               "lessonLinksUrl": "",
@@ -1124,7 +1162,7 @@
               "lessonLabel": "Lesson 44",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 44",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages  \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recSpOwsZ8O4znlpm",
               "lessonLinksUrl": "",
@@ -1156,7 +1194,7 @@
               "lessonLabel": "Lesson 46",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 46",
-              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages of Sufferings in Africa \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=rec1r296ITXsQEsXX",
               "lessonLinksUrl": "",
@@ -1172,7 +1210,7 @@
               "lessonLabel": "Lesson 47",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 47",
-              "body": "⍞ Materials: \n\n➜ Answer question(s) related to course.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nFive Months on the Missouri River",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recGRLXdVNbA4m4DO",
               "lessonLinksUrl": "",
@@ -1188,7 +1226,7 @@
               "lessonLabel": "Lesson 48",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 48",
-              "body": "⍞ Materials: \n➜ Answer question(s) related to course.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nSufferings in Africa",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recM2Ojj7M3y4Vyy9",
               "lessonLinksUrl": "",
@@ -1567,7 +1605,7 @@
               "lessonLabel": "Lesson 71",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 71",
-              "body": "⍞ Materials: \n➜ Answer question(s) related to course.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from: All Over the Map",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recXwG0dkZEwtUwFQ",
               "lessonLinksUrl": "",
@@ -1583,7 +1621,7 @@
               "lessonLabel": "Lesson 72",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 10-11 - Lesson 72",
-              "body": "⍞ Materials: \n➜ Answer question(s) related to course.",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nFive Months on the Missouri River",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recxTqmYbsfzqrSFv&6J82c=recQ8C0C9dY2Skrs4",
               "lessonLinksUrl": "",

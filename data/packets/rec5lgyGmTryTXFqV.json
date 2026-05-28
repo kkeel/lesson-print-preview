@@ -15396,8 +15396,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15408,8 +15458,30 @@
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
+                  "label": "French Story Lines - Set 1",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recYel5aNQZIa0ARh",
+                  "sentence": "magnifiques grappes de raisins",
+                  "translation": "fine bunches of Grapes",
+                  "label": "French Story Lines - Set 1",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 1"
+                },
+                {
+                  "id": "reckz5kWNLk5eYMUJ",
+                  "sentence": "pendant d'une vigne qui était",
+                  "translation": "hanging from a vine that was",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -15449,8 +15521,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15462,7 +15584,29 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
+                  "label": "French Story Lines - Set 2",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recdyvHaIJsWfM6Nz",
+                  "sentence": "",
+                  "translation": "and did his best to reach them",
+                  "label": "French Story Lines - Set 2",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recdyZYmSKDfO3BRN",
+                  "sentence": "",
+                  "translation": "by jumping as high",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -15502,8 +15646,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15515,7 +15709,29 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
+                  "label": "French Story Lines - Set 3",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reckV4iPAuV8Jhems",
+                  "sentence": "",
+                  "translation": "but it was all in vain,",
+                  "label": "French Story Lines - Set 3",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reczyvCSenxlyUo9Z",
+                  "sentence": "",
+                  "translation": "for they were just out of reach.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -15555,8 +15771,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15568,7 +15834,29 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
+                  "label": "French Story Lines - Set 4",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "rec0l8rh40ejXPag3",
+                  "sentence": "",
+                  "translation": "and walked away with an air",
+                  "label": "French Story Lines - Set 4",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "recfXpCZrjA9qBQLV",
+                  "sentence": "",
+                  "translation": "of dignity and unconcern,",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -15608,8 +15896,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15618,8 +15906,108 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15631,7 +16019,40 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recsCaL367Xr2Mdqf",
+                  "sentence": "",
+                  "translation": "those Grapes were ripe,",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "reccUzqFXqMuV9v2O",
+                  "sentence": "",
+                  "translation": "but I see now",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recCIDVrRXhNRB7Lm",
+                  "sentence": "",
+                  "translation": "they are quite sour.\"",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -15671,8 +16092,58 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "rec0FPqEhzi5OTtno",
+                  "text": "des pierres",
+                  "translation": "rocks",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "rechC8lzIbzrUnPIO",
+                  "text": "un berger",
+                  "translation": "a sheperd",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reclio1tE2G60QvXP",
+                  "text": "",
+                  "translation": "wool",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recxd3MkaGE6rWdjq",
+                  "text": "",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recqLNbcWQsg3uppa",
+                  "text": "",
+                  "translation": "eyes",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15724,8 +16195,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15883,8 +16354,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15946,8 +16417,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15956,8 +16427,8 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15966,8 +16437,8 @@
                 },
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -15983,13 +16454,113 @@
                   "sequence": 0,
                   "label": "French Literature Vocab - Set 4",
                   "set": "Set 4"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
                 }
               ],
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -16000,7 +16571,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -16011,7 +16582,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -16022,7 +16593,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -16033,7 +16604,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -17740,18 +18311,55 @@
                 "title": "\"Fable 1\"",
                 "storylineIds": [
                   "recku5YBHl6WptYNV",
+                  "recYel5aNQZIa0ARh",
+                  "reckz5kWNLk5eYMUJ",
                   "recT9bJB8yycbfOQQ",
+                  "recdyvHaIJsWfM6Nz",
+                  "recdyZYmSKDfO3BRN",
                   "recA8r79s3Fq4erPO",
+                  "reckV4iPAuV8Jhems",
+                  "reczyvCSenxlyUo9Z",
                   "recDOWEycMw8ScKJf",
-                  "recwQLKpxWeS7IfhB"
+                  "rec0l8rh40ejXPag3",
+                  "recfXpCZrjA9qBQLV",
+                  "recwQLKpxWeS7IfhB",
+                  "recsCaL367Xr2Mdqf",
+                  "reccUzqFXqMuV9v2O",
+                  "recCIDVrRXhNRB7Lm"
                 ],
                 "lines": [
                   {
                     "id": "recku5YBHl6WptYNV",
                     "reference": "Set 1 Line 1",
                     "lineNumber": 1,
-                    "sentence": "French Story Lines - Set 1",
-                    "translation": "",
+                    "sentence": "Un renard affamé a vu des",
+                    "translation": "A hungry fox saw some",
+                    "label": "French Story Lines - Set 1",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 1"
+                  },
+                  {
+                    "id": "recYel5aNQZIa0ARh",
+                    "reference": "Set 1 Line 2",
+                    "lineNumber": 2,
+                    "sentence": "magnifiques grappes de raisins",
+                    "translation": "fine bunches of Grapes",
+                    "label": "French Story Lines - Set 1",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 1"
+                  },
+                  {
+                    "id": "reckz5kWNLk5eYMUJ",
+                    "reference": "Set 1 Line 3",
+                    "lineNumber": 3,
+                    "sentence": "pendant d'une vigne qui était",
+                    "translation": "hanging from a vine that was",
                     "label": "French Story Lines - Set 1",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -17761,10 +18369,36 @@
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
-                    "reference": "Set 2 Line 2",
-                    "lineNumber": 2,
+                    "reference": "Set 2 Line 4",
+                    "lineNumber": 4,
                     "sentence": "French Story Lines - Set 2",
-                    "translation": "",
+                    "translation": "trained along a high tree,",
+                    "label": "French Story Lines - Set 2",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 2"
+                  },
+                  {
+                    "id": "recdyvHaIJsWfM6Nz",
+                    "reference": "Set 2 Line 5",
+                    "lineNumber": 5,
+                    "sentence": "",
+                    "translation": "and did his best to reach them",
+                    "label": "French Story Lines - Set 2",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 2"
+                  },
+                  {
+                    "id": "recdyZYmSKDfO3BRN",
+                    "reference": "Set 2 Line 6",
+                    "lineNumber": 6,
+                    "sentence": "",
+                    "translation": "by jumping as high",
                     "label": "French Story Lines - Set 2",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -17774,10 +18408,36 @@
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
-                    "reference": "Set 3 Line 3",
-                    "lineNumber": 3,
+                    "reference": "Set 3 Line 7",
+                    "lineNumber": 7,
                     "sentence": "French Story Lines - Set 3",
-                    "translation": "",
+                    "translation": "as high as he could into the air.",
+                    "label": "French Story Lines - Set 3",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 3"
+                  },
+                  {
+                    "id": "reckV4iPAuV8Jhems",
+                    "reference": "Set 3 Line 8",
+                    "lineNumber": 8,
+                    "sentence": "",
+                    "translation": "but it was all in vain,",
+                    "label": "French Story Lines - Set 3",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 3"
+                  },
+                  {
+                    "id": "reczyvCSenxlyUo9Z",
+                    "reference": "Set 3 Line 9",
+                    "lineNumber": 9,
+                    "sentence": "",
+                    "translation": "for they were just out of reach.",
                     "label": "French Story Lines - Set 3",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -17787,10 +18447,36 @@
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
-                    "reference": "Set 4 Line 4",
-                    "lineNumber": 4,
+                    "reference": "Set 4 Line 10",
+                    "lineNumber": 10,
                     "sentence": "French Story Lines - Set 4",
-                    "translation": "",
+                    "translation": "So he gave up trying",
+                    "label": "French Story Lines - Set 4",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 4"
+                  },
+                  {
+                    "id": "rec0l8rh40ejXPag3",
+                    "reference": "Set 4 Line 11",
+                    "lineNumber": 11,
+                    "sentence": "",
+                    "translation": "and walked away with an air",
+                    "label": "French Story Lines - Set 4",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 4"
+                  },
+                  {
+                    "id": "recfXpCZrjA9qBQLV",
+                    "reference": "Set 4 Line 12",
+                    "lineNumber": 12,
+                    "sentence": "",
+                    "translation": "of dignity and unconcern,",
                     "label": "French Story Lines - Set 4",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -17800,10 +18486,49 @@
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
-                    "reference": "Set 5 Line 5",
-                    "lineNumber": 5,
+                    "reference": "Set 5 Line 13",
+                    "lineNumber": 13,
                     "sentence": "French Story Lines - Set 5",
-                    "translation": "",
+                    "translation": "remarking, \"I thought",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recsCaL367Xr2Mdqf",
+                    "reference": "Set 5 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "",
+                    "translation": "those Grapes were ripe,",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "reccUzqFXqMuV9v2O",
+                    "reference": "Set 5 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "",
+                    "translation": "but I see now",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recCIDVrRXhNRB7Lm",
+                    "reference": "Set 5 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "",
+                    "translation": "they are quite sour.\"",
                     "label": "French Story Lines - Set 5",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -18129,8 +18854,58 @@
             "glossary": [
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18139,8 +18914,58 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18149,8 +18974,58 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18159,8 +19034,58 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18169,8 +19094,8 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18179,8 +19104,108 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18189,8 +19214,58 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 3",
+                "set": "Set 3"
+              },
+              {
+                "id": "rec0FPqEhzi5OTtno",
+                "text": "des pierres",
+                "translation": "rocks",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 3",
+                "set": "Set 3"
+              },
+              {
+                "id": "rechC8lzIbzrUnPIO",
+                "text": "un berger",
+                "translation": "a sheperd",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 3",
+                "set": "Set 3"
+              },
+              {
+                "id": "reclio1tE2G60QvXP",
+                "text": "",
+                "translation": "wool",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 3",
+                "set": "Set 3"
+              },
+              {
+                "id": "recxd3MkaGE6rWdjq",
+                "text": "",
+                "translation": "grey",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 3",
+                "set": "Set 3"
+              },
+              {
+                "id": "recqLNbcWQsg3uppa",
+                "text": "",
+                "translation": "eyes",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18199,8 +19274,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18229,8 +19304,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18249,8 +19324,8 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18259,8 +19334,8 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18269,8 +19344,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -18286,6 +19361,106 @@
                 "sequence": 0,
                 "label": "French Literature Vocab - Set 4",
                 "set": "Set 4"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
@@ -18646,8 +19821,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18658,8 +19883,8 @@
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -18699,8 +19924,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18712,7 +19987,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -18752,8 +20027,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18765,7 +20090,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -18805,8 +20130,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18818,7 +20193,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -18858,8 +20233,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18868,8 +20243,108 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18881,7 +20356,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -18921,8 +20396,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18974,8 +20449,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19133,8 +20608,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19196,8 +20671,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19206,8 +20681,8 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19216,8 +20691,8 @@
                 },
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19233,13 +20708,113 @@
                   "sequence": 0,
                   "label": "French Literature Vocab - Set 4",
                   "set": "Set 4"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
                 }
               ],
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -19250,7 +20825,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -19261,7 +20836,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -19272,7 +20847,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -19283,7 +20858,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -20990,18 +22565,55 @@
                 "title": "\"Fable 1\"",
                 "storylineIds": [
                   "recku5YBHl6WptYNV",
+                  "recYel5aNQZIa0ARh",
+                  "reckz5kWNLk5eYMUJ",
                   "recT9bJB8yycbfOQQ",
+                  "recdyvHaIJsWfM6Nz",
+                  "recdyZYmSKDfO3BRN",
                   "recA8r79s3Fq4erPO",
+                  "reckV4iPAuV8Jhems",
+                  "reczyvCSenxlyUo9Z",
                   "recDOWEycMw8ScKJf",
-                  "recwQLKpxWeS7IfhB"
+                  "rec0l8rh40ejXPag3",
+                  "recfXpCZrjA9qBQLV",
+                  "recwQLKpxWeS7IfhB",
+                  "recsCaL367Xr2Mdqf",
+                  "reccUzqFXqMuV9v2O",
+                  "recCIDVrRXhNRB7Lm"
                 ],
                 "lines": [
                   {
                     "id": "recku5YBHl6WptYNV",
                     "reference": "Set 1 Line 1",
                     "lineNumber": 1,
-                    "sentence": "French Story Lines - Set 1",
-                    "translation": "",
+                    "sentence": "Un renard affamé a vu des",
+                    "translation": "A hungry fox saw some",
+                    "label": "French Story Lines - Set 1",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 1"
+                  },
+                  {
+                    "id": "recYel5aNQZIa0ARh",
+                    "reference": "Set 1 Line 2",
+                    "lineNumber": 2,
+                    "sentence": "magnifiques grappes de raisins",
+                    "translation": "fine bunches of Grapes",
+                    "label": "French Story Lines - Set 1",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 1"
+                  },
+                  {
+                    "id": "reckz5kWNLk5eYMUJ",
+                    "reference": "Set 1 Line 3",
+                    "lineNumber": 3,
+                    "sentence": "pendant d'une vigne qui était",
+                    "translation": "hanging from a vine that was",
                     "label": "French Story Lines - Set 1",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -21011,10 +22623,36 @@
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
-                    "reference": "Set 2 Line 2",
-                    "lineNumber": 2,
+                    "reference": "Set 2 Line 4",
+                    "lineNumber": 4,
                     "sentence": "French Story Lines - Set 2",
-                    "translation": "",
+                    "translation": "trained along a high tree,",
+                    "label": "French Story Lines - Set 2",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 2"
+                  },
+                  {
+                    "id": "recdyvHaIJsWfM6Nz",
+                    "reference": "Set 2 Line 5",
+                    "lineNumber": 5,
+                    "sentence": "",
+                    "translation": "and did his best to reach them",
+                    "label": "French Story Lines - Set 2",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 2"
+                  },
+                  {
+                    "id": "recdyZYmSKDfO3BRN",
+                    "reference": "Set 2 Line 6",
+                    "lineNumber": 6,
+                    "sentence": "",
+                    "translation": "by jumping as high",
                     "label": "French Story Lines - Set 2",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -21024,10 +22662,36 @@
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
-                    "reference": "Set 3 Line 3",
-                    "lineNumber": 3,
+                    "reference": "Set 3 Line 7",
+                    "lineNumber": 7,
                     "sentence": "French Story Lines - Set 3",
-                    "translation": "",
+                    "translation": "as high as he could into the air.",
+                    "label": "French Story Lines - Set 3",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 3"
+                  },
+                  {
+                    "id": "reckV4iPAuV8Jhems",
+                    "reference": "Set 3 Line 8",
+                    "lineNumber": 8,
+                    "sentence": "",
+                    "translation": "but it was all in vain,",
+                    "label": "French Story Lines - Set 3",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 3"
+                  },
+                  {
+                    "id": "reczyvCSenxlyUo9Z",
+                    "reference": "Set 3 Line 9",
+                    "lineNumber": 9,
+                    "sentence": "",
+                    "translation": "for they were just out of reach.",
                     "label": "French Story Lines - Set 3",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -21037,10 +22701,36 @@
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
-                    "reference": "Set 4 Line 4",
-                    "lineNumber": 4,
+                    "reference": "Set 4 Line 10",
+                    "lineNumber": 10,
                     "sentence": "French Story Lines - Set 4",
-                    "translation": "",
+                    "translation": "So he gave up trying",
+                    "label": "French Story Lines - Set 4",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 4"
+                  },
+                  {
+                    "id": "rec0l8rh40ejXPag3",
+                    "reference": "Set 4 Line 11",
+                    "lineNumber": 11,
+                    "sentence": "",
+                    "translation": "and walked away with an air",
+                    "label": "French Story Lines - Set 4",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 4"
+                  },
+                  {
+                    "id": "recfXpCZrjA9qBQLV",
+                    "reference": "Set 4 Line 12",
+                    "lineNumber": 12,
+                    "sentence": "",
+                    "translation": "of dignity and unconcern,",
                     "label": "French Story Lines - Set 4",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -21050,10 +22740,49 @@
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
-                    "reference": "Set 5 Line 5",
-                    "lineNumber": 5,
+                    "reference": "Set 5 Line 13",
+                    "lineNumber": 13,
                     "sentence": "French Story Lines - Set 5",
-                    "translation": "",
+                    "translation": "remarking, \"I thought",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recsCaL367Xr2Mdqf",
+                    "reference": "Set 5 Line 14",
+                    "lineNumber": 14,
+                    "sentence": "",
+                    "translation": "those Grapes were ripe,",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "reccUzqFXqMuV9v2O",
+                    "reference": "Set 5 Line 15",
+                    "lineNumber": 15,
+                    "sentence": "",
+                    "translation": "but I see now",
+                    "label": "French Story Lines - Set 5",
+                    "language": "French",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 0,
+                    "set": "Set 5"
+                  },
+                  {
+                    "id": "recCIDVrRXhNRB7Lm",
+                    "reference": "Set 5 Line 16",
+                    "lineNumber": 16,
+                    "sentence": "",
+                    "translation": "they are quite sour.\"",
                     "label": "French Story Lines - Set 5",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -21379,8 +23108,58 @@
             "glossary": [
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21389,8 +23168,58 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21399,8 +23228,58 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21409,8 +23288,58 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21419,8 +23348,8 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21429,8 +23358,108 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21439,8 +23468,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21449,8 +23478,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21479,8 +23508,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21499,8 +23528,8 @@
               },
               {
                 "id": "recXTTBdhr65ONmfC",
-                "text": "Lit Vocab Set 1",
-                "translation": "",
+                "text": "un renard",
+                "translation": "a fox",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21509,8 +23538,8 @@
               },
               {
                 "id": "recs7W7wiISXwOKzY",
-                "text": "Lit Vocab Set 2",
-                "translation": "",
+                "text": "les feuilles",
+                "translation": "the leaves",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21519,8 +23548,8 @@
               },
               {
                 "id": "recE3A94Mc3o6zwFK",
-                "text": "Lit Vocab Set 3",
-                "translation": "",
+                "text": "un agneau",
+                "translation": "a lamb",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -21536,6 +23565,106 @@
                 "sequence": 0,
                 "label": "French Literature Vocab - Set 4",
                 "set": "Set 4"
+              },
+              {
+                "id": "recrsQmiWpMs3wE6u",
+                "text": "les raisins",
+                "translation": "the grapes",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recampx05EFSMOfrw",
+                "text": "la vigne",
+                "translation": "the vine",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec8PAOXYzcPx8u0c",
+                "text": "l'ombre",
+                "translation": "the shadow",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recXdzeMl4Q1EfYlp",
+                "text": "le tronc d'arbre",
+                "translation": "the tree trunk",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "rec9xSvolRpcswipn",
+                "text": "les brindilles",
+                "translation": "the twigs",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 1",
+                "set": "Set 1"
+              },
+              {
+                "id": "recnLyMUQB1WMvHFo",
+                "text": "le chemin",
+                "translation": "the path",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recrEY2Se95tmlSUJ",
+                "text": "un rang",
+                "translation": "a row",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recNRjITJaubCfjuk",
+                "text": "une fable",
+                "translation": "a tale",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "recGJVctqS6oyRI9a",
+                "text": "les dents",
+                "translation": "the teeth",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
+              },
+              {
+                "id": "rec4RwrfTUwhgh6Uc",
+                "text": "la coline",
+                "translation": "the hill",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 2",
+                "set": "Set 2"
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
@@ -23514,36 +25643,42 @@
               {
                 "id": "rec6RRu1bJcjHg5MB",
                 "title": "Title 5",
+                "sequence": 5,
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recL6IALF18OY636c",
                 "title": "Title 2",
+                "sequence": 2,
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recNMFjNwPCQqLYVP",
                 "title": "Title 4",
+                "sequence": 4,
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recUYLIJ68obQr09i",
                 "title": "Title 1",
+                "sequence": 1,
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recdlAkOmWMaI5En0",
                 "title": "Title 3",
+                "sequence": 3,
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recneZaMsrwZx0TAH",
                 "title": "Title 6",
+                "sequence": 6,
                 "text": "",
                 "translation": ""
               }
@@ -23827,8 +25962,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -23839,8 +26024,30 @@
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
+                  "label": "French Story Lines - Set 1",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recYel5aNQZIa0ARh",
+                  "sentence": "magnifiques grappes de raisins",
+                  "translation": "fine bunches of Grapes",
+                  "label": "French Story Lines - Set 1",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 1"
+                },
+                {
+                  "id": "reckz5kWNLk5eYMUJ",
+                  "sentence": "pendant d'une vigne qui était",
+                  "translation": "hanging from a vine that was",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -23883,8 +26090,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -23895,8 +26152,8 @@
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -24230,8 +26487,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -24243,7 +26550,29 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
+                  "label": "French Story Lines - Set 2",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recdyvHaIJsWfM6Nz",
+                  "sentence": "",
+                  "translation": "and did his best to reach them",
+                  "label": "French Story Lines - Set 2",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recdyZYmSKDfO3BRN",
+                  "sentence": "",
+                  "translation": "by jumping as high",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -24286,8 +26615,58 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -24299,7 +26678,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -24633,8 +27012,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -24646,7 +27075,29 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
+                  "label": "French Story Lines - Set 3",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reckV4iPAuV8Jhems",
+                  "sentence": "",
+                  "translation": "but it was all in vain,",
+                  "label": "French Story Lines - Set 3",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reczyvCSenxlyUo9Z",
+                  "sentence": "",
+                  "translation": "for they were just out of reach.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -24689,8 +27140,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -24702,7 +27203,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -25036,8 +27537,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25049,7 +27600,29 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
+                  "label": "French Story Lines - Set 4",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "rec0l8rh40ejXPag3",
+                  "sentence": "",
+                  "translation": "and walked away with an air",
+                  "label": "French Story Lines - Set 4",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "recfXpCZrjA9qBQLV",
+                  "sentence": "",
+                  "translation": "of dignity and unconcern,",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -25092,8 +27665,58 @@
               "vocab": [
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25105,7 +27728,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -25613,8 +28236,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25623,8 +28246,108 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25636,7 +28359,40 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recsCaL367Xr2Mdqf",
+                  "sentence": "",
+                  "translation": "those Grapes were ripe,",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "reccUzqFXqMuV9v2O",
+                  "sentence": "",
+                  "translation": "but I see now",
+                  "label": "French Story Lines - Set 5",
+                  "language": "French",
+                  "sentenceType": "Story Lines",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recCIDVrRXhNRB7Lm",
+                  "sentence": "",
+                  "translation": "they are quite sour.\"",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -25679,8 +28435,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25689,8 +28445,108 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25702,7 +28558,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -26047,8 +28903,58 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "rec0FPqEhzi5OTtno",
+                  "text": "des pierres",
+                  "translation": "rocks",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "rechC8lzIbzrUnPIO",
+                  "text": "un berger",
+                  "translation": "a sheperd",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "reclio1tE2G60QvXP",
+                  "text": "",
+                  "translation": "wool",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recxd3MkaGE6rWdjq",
+                  "text": "",
+                  "translation": "grey",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 3",
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recqLNbcWQsg3uppa",
+                  "text": "",
+                  "translation": "eyes",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -26103,8 +29009,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -26450,8 +29356,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -26506,8 +29412,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -27792,8 +30698,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -27858,8 +30764,8 @@
               "vocab": [
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28714,8 +31620,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28724,8 +31630,8 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28734,8 +31640,8 @@
                 },
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28751,13 +31657,113 @@
                   "sequence": 0,
                   "label": "French Literature Vocab - Set 4",
                   "set": "Set 4"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
                 }
               ],
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28768,7 +31774,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28779,7 +31785,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28790,7 +31796,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28801,7 +31807,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28899,8 +31905,8 @@
               "vocab": [
                 {
                   "id": "recXTTBdhr65ONmfC",
-                  "text": "Lit Vocab Set 1",
-                  "translation": "",
+                  "text": "un renard",
+                  "translation": "a fox",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28909,8 +31915,8 @@
                 },
                 {
                   "id": "recs7W7wiISXwOKzY",
-                  "text": "Lit Vocab Set 2",
-                  "translation": "",
+                  "text": "les feuilles",
+                  "translation": "the leaves",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28919,8 +31925,8 @@
                 },
                 {
                   "id": "recE3A94Mc3o6zwFK",
-                  "text": "Lit Vocab Set 3",
-                  "translation": "",
+                  "text": "un agneau",
+                  "translation": "a lamb",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -28936,13 +31942,113 @@
                   "sequence": 0,
                   "label": "French Literature Vocab - Set 4",
                   "set": "Set 4"
+                },
+                {
+                  "id": "recrsQmiWpMs3wE6u",
+                  "text": "les raisins",
+                  "translation": "the grapes",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recampx05EFSMOfrw",
+                  "text": "la vigne",
+                  "translation": "the vine",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec8PAOXYzcPx8u0c",
+                  "text": "l'ombre",
+                  "translation": "the shadow",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recXdzeMl4Q1EfYlp",
+                  "text": "le tronc d'arbre",
+                  "translation": "the tree trunk",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "rec9xSvolRpcswipn",
+                  "text": "les brindilles",
+                  "translation": "the twigs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 1",
+                  "set": "Set 1"
+                },
+                {
+                  "id": "recnLyMUQB1WMvHFo",
+                  "text": "le chemin",
+                  "translation": "the path",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recrEY2Se95tmlSUJ",
+                  "text": "un rang",
+                  "translation": "a row",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recNRjITJaubCfjuk",
+                  "text": "une fable",
+                  "translation": "a tale",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "recGJVctqS6oyRI9a",
+                  "text": "les dents",
+                  "translation": "the teeth",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
+                },
+                {
+                  "id": "rec4RwrfTUwhgh6Uc",
+                  "text": "la coline",
+                  "translation": "the hill",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 2",
+                  "set": "Set 2"
                 }
               ],
               "sentences": [
                 {
                   "id": "recku5YBHl6WptYNV",
-                  "sentence": "French Story Lines - Set 1",
-                  "translation": "",
+                  "sentence": "Un renard affamé a vu des",
+                  "translation": "A hungry fox saw some",
                   "label": "French Story Lines - Set 1",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28953,7 +32059,7 @@
                 {
                   "id": "recT9bJB8yycbfOQQ",
                   "sentence": "French Story Lines - Set 2",
-                  "translation": "",
+                  "translation": "trained along a high tree,",
                   "label": "French Story Lines - Set 2",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28964,7 +32070,7 @@
                 {
                   "id": "recA8r79s3Fq4erPO",
                   "sentence": "French Story Lines - Set 3",
-                  "translation": "",
+                  "translation": "as high as he could into the air.",
                   "label": "French Story Lines - Set 3",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28975,7 +32081,7 @@
                 {
                   "id": "recDOWEycMw8ScKJf",
                   "sentence": "French Story Lines - Set 4",
-                  "translation": "",
+                  "translation": "So he gave up trying",
                   "label": "French Story Lines - Set 4",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -28986,7 +32092,7 @@
                 {
                   "id": "recwQLKpxWeS7IfhB",
                   "sentence": "French Story Lines - Set 5",
-                  "translation": "",
+                  "translation": "remarking, \"I thought",
                   "label": "French Story Lines - Set 5",
                   "language": "French",
                   "sentenceType": "Story Lines",

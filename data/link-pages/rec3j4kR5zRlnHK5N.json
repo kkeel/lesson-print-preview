@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T18:36:38.895Z",
+  "updatedAt": "2026-05-28T21:12:07.675Z",
   "terms": [
     {
       "termNumber": 1,
@@ -799,6 +799,40 @@
               ]
             }
           ]
+        },
+        {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "lessons": [
+            {
+              "lessonId": "recsHXcokS06OZ7zy",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 22,
+              "weekLabel": "Week 10",
+              "sequence": 22,
+              "sort": 202201,
+              "lessonLabel": "",
+              "linkLabel": "History of Lit",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 22",
+              "topicTitle": "History of Lit",
+              "anchor": "term-2-week-22-lesson-22",
+              "links": [
+                {
+                  "text": "Biography of Matthew Arnold",
+                  "url": "https://poets.org/poet/matthew-arnold"
+                },
+                {
+                  "text": "Dover Beach",
+                  "url": "https://www.poetryfoundation.org/poems/43588/dover-beach"
+                },
+                {
+                  "text": "The Study of Poetry",
+                  "url": "https://www.poetryfoundation.org/articles/69374/the-study-of-poetry"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -864,6 +898,26 @@
           "weekNumber": 26,
           "weekLabel": "Week 2",
           "lessons": [
+            {
+              "lessonId": "recLJSOgZVWhtoYAc",
+              "termNumber": 3,
+              "termLabel": "Term 3",
+              "weekNumber": 26,
+              "weekLabel": "Week 2",
+              "sequence": 26,
+              "sort": 302601,
+              "lessonLabel": "",
+              "linkLabel": "History of Lit",
+              "title": "30m History of Lit: Grades 9-12 - Lesson 26",
+              "topicTitle": "History of Lit",
+              "anchor": "term-3-week-26-lesson-26",
+              "links": [
+                {
+                  "text": "The Early Nineteenth-Century Newspaper Boom",
+                  "url": "https://collections.americanantiquarian.org/earlyamericannewsmedia/exhibits/show/news-in-antebellum-america/the-newspaper-boom"
+                }
+              ]
+            },
             {
               "lessonId": "rec1Ylqk8My7aQnoU",
               "termNumber": 3,

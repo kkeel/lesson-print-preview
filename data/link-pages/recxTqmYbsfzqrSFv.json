@@ -26,7 +26,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T18:36:38.794Z",
+  "updatedAt": "2026-05-28T21:12:07.576Z",
   "terms": [
     {
       "termNumber": 1,
@@ -459,8 +459,12 @@
                   "url": "https://www.youtube.com/watch?v=ruWuAas8T7Y&t=125s"
                 },
                 {
-                  "text": "The Selkirk Settlers",
+                  "text": "The Selkirk Settlers (11th)",
                   "url": "https://www.youtube.com/watch?v=q5es68RFzN0"
+                },
+                {
+                  "text": "History of Vancouver (12th)",
+                  "url": "https://www.youtube.com/watch?v=xHEwPNnRmuM"
                 }
               ]
             },
@@ -491,6 +495,34 @@
           "weekLabel": "Week 10",
           "lessons": [
             {
+              "lessonId": "recooHJkrgMfULbZy",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 10,
+              "weekLabel": "Week 10",
+              "sequence": 19,
+              "sort": 0,
+              "lessonLabel": "Lesson 19",
+              "linkLabel": "Geography",
+              "title": "40m Geography: Grade 10-11 - Lesson 19",
+              "topicTitle": "Geography",
+              "anchor": "term-1-week-10-lesson-19",
+              "links": [
+                {
+                  "text": "Karst in the Ozarks (10th)",
+                  "url": "https://www.youtube.com/watch?v=BB7a5KReUmE"
+                },
+                {
+                  "text": "Nebraska Stories (11th)",
+                  "url": "https://www.youtube.com/watch?v=MPabTAMrWME"
+                },
+                {
+                  "text": "Roots of El Pueblo (12th)",
+                  "url": "https://www.youtube.com/watch?v=0-jFL40GrOM&t=74s"
+                }
+              ]
+            },
+            {
               "lessonId": "rec8pCNYF6DoCFYBK",
               "termNumber": 1,
               "termLabel": "Term 1",
@@ -511,6 +543,48 @@
                 {
                   "text": "What is a Coulee?",
                   "url": "https://biologyinsights.com/what-is-a-coulee-in-montana-and-how-are-they-formed/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNumber": 11,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "recYAfUMMg3RdPcQB",
+              "termNumber": 1,
+              "termLabel": "Term 1",
+              "weekNumber": 11,
+              "weekLabel": "Week 11",
+              "sequence": 21,
+              "sort": 0,
+              "lessonLabel": "Lesson 21",
+              "linkLabel": "Geography",
+              "title": "40m Geography: Grade 10-11 - Lesson 21",
+              "topicTitle": "Geography",
+              "anchor": "term-1-week-11-lesson-21",
+              "links": [
+                {
+                  "text": "Gullah Traditions (10th)",
+                  "url": "https://www.youtube.com/watch?v=zSO5pcPfhnk"
+                },
+                {
+                  "text": "The Great Dismal Swamp (10th)",
+                  "url": "https://www.youtube.com/watch?v=0_zaVMNsD7c"
+                },
+                {
+                  "text": "Yellowstone National Park (11th)",
+                  "url": "https://www.youtube.com/watch?v=RCYSEDqPv4o"
+                },
+                {
+                  "text": "Lakota Empire (11th)",
+                  "url": "https://www.youtube.com/watch?v=C-fQo8zmiPQ"
+                },
+                {
+                  "text": "Final Sugar Harvest (12th)",
+                  "url": "https://www.youtube.com/watch?v=tXEdZMIc5v0"
                 }
               ]
             }

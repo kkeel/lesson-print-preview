@@ -168,7 +168,7 @@
             },
             {
               "prompt": "Map Work",
-              "text": "• Each week, you will be looking at maps, constructing your own, locating places, and filling in the details of your map. Keep your map and atlas near you as you read.\n\n• These lessons refer to a 'rough sketch' method that Charlotte Mason employed in which the rough shape of the map is sketched through observation and then memory. The rough sketch is not intended to be precise or detailed. Examples are linked to the first lesson.\n\n• If an alternative to a physical sketch is needed, you may trace or use the mental sketching described in the first lesson throughout the course. You may also experiment with different methods for interest or to see which method helps you best.\n            \n• One way to personalize interest and challenge in this course is to adjust the amount and type of locations included in Mapwork. If the number of locations listed is too numerous for you to think about and remember, then map fewer, choosing locations that seem interesting and relevant to the point of the book. If the number of locations listed leaves you wanting more, then add more.",
+              "text": "• Each week, you will be looking at maps, constructing your own, locating places, and filling in the details of your map. Keep your map and atlas near you as you read.\n\n• These lessons refer to a 'rough sketch' method that Charlotte Mason employed, in which the rough shape of the map is sketched through observation and then memory. The rough sketch is not intended to be precise or detailed. Examples are linked to the first lesson.\n\n• If an alternative to a physical sketch is needed, you may trace or use the mental sketching described in the first lesson throughout the course. You may also experiment with different methods for interest or to see which method helps you best.\n            \n• One way to personalize interest and challenge in this course is to adjust the amount and type of locations included in Mapwork. If the number of locations listed is too numerous for you to think about and remember, then map fewer, choosing locations that seem interesting and relevant to the point of the book. If the number of locations listed leaves you wanting more, then add more.",
               "imageId": "recOhz0yF0cWoc5sJ",
               "image": "../images/howto_images/recOhz0yF0cWoc5sJ.webp"
             },
@@ -180,7 +180,7 @@
             },
             {
               "prompt": "Narrate",
-              "text": "• You will narrate orally or silently to yourself using your map to help you connect what you are reading to your map as well as to interact with and think about the ideas discussed in the chapter. \n\n• For the book All Over the Map, you will come up with questions or comments about the maps you are looking at and reading about.",
+              "text": "• You will narrate orally or silently to yourself using your map to help you connect what you are reading to your map, as well as to interact with and think about the ideas discussed in the chapter. \n\n• For the book All Over the Map, you will come up with questions or comments about the maps you are looking at and reading about.",
               "imageId": "recIUhyVu1Y1l6aP9",
               "image": "../images/howto_images/recIUhyVu1Y1l6aP9.webp"
             },
@@ -219,14 +219,22 @@
               "lessonLabel": "Lesson 1",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 1",
-              "body": "⍞ Materials: Across This Land\n\nPREP: Sketch or print the following blank map for today.\n∞ Map Link: Blank Map\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \nCopy Map P1 from page xvi from the Preface.\n\n➜ MAPWORK\nCreate one map, adding interesting details from each reading as you go along. \n \nIf interested:    \n∞ Article Link: Idaho Batholith",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Across This Land, blank map, notebook\n\n➜ INTRO\nAcross This Land is a regional study of the United States and Canada. The author's purpose is to tell the story of the people who have lived in each region including what the region is like and how they have interacted with the land over time. This book will be read over three years.  In 10th grade you will read Ch.1-10, in 11th grade you will read Ch.11-18, and in 12th grade you will read Ch.19-27.  If you are new to the Alveary and in 11th or 12th grade, you can start at the beginning of the book or you can start in the middle and follow the plans for your grade. There will be video links listed under Extra Helpings to help you \"see\" the region and bring the reading to life. Enjoy your travels!  \n\n➜ PREP\n• Sketch or print a blank map of North America (10th), or find your map from last year (11th, 12th)\n∞ Map Link: Blank Map\n• Copy Map P1 on p.xvi from the Preface into your notebook. (10th)\n\n➜ READ & NARRATE\nRead about 15 pages a week.  (11th,12th graders should pick up from where you left off at the end of last school year)\nAs this book has a lot of detail, stop at various times throughout the reading and narrate briefly to yourself what you just read.  \n\n➜ MAP WORK\nThink through the whole reading and decide what details to add to your map. Create one map, adding interesting details from each reading as you go along.",
+              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: Chasing the Capelin (10th)\n∞ Video Link: Everglades (11th)\n∞ Article Link: Idaho Batholith (12th)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recK6wcutoUPEXZjG",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=1",
               "links": [
                 {
                   "text": "Blank Map",
                   "url": "https://mapchart.net/usa-and-canada.html"
+                },
+                {
+                  "text": "Chasing the Capelin",
+                  "url": "https://www.mtpr.org/post/batholiths-born-earths-giant-slow-motion-lava-lamps"
+                },
+                {
+                  "text": "Everglades",
+                  "url": "https://www.youtube.com/watch?v=pdod51ErdeE"
                 },
                 {
                   "text": "Idaho Batholith",
@@ -244,7 +252,7 @@
               "lessonLabel": "Lesson 2",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 2",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 1 Genesis of a Dream\n\nNarrate silently, which means to go over in your mind what you read. You are narrating to yourself instead of in writing or orally.  Start at the beginning and ask yourself what came next until you have gone over the chapter.  It may seem strange at first, but you will quickly get used to it.  \n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.  \n\nIf interested:\n∞ Video Link: Carving the Canoe",
+              "body": "Genesis of a Dream\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ INTRO\nThis book started from a series of weekly newspaper columns Elpel wrote as the expedition progressed in 2019. Travel along with Lewis and Clark who first went up the river and the modern crew as they explore down the Missouri River!\n\n➜ READ & NARRATE\nChapter 1 Genesis of a Dream\nNarrate silently, which means to go over in your mind what you read. Or, if it is easier, talk quietly to yourself if your setting allows. You are narrating to yourself instead of in writing or orally.  Start at the beginning and ask yourself what came next until you have gone over the chapter.  It may seem strange at first, but you will quickly get used to it. This allows you time to do other things in the lesson such as mapwork or reflection writing.\n\n➜ WRITE & DISCUSS (if time and setting allow)\nCompose 5 reflections about the chapter or choose from one of these questions:\n• How do you think the act of making a tool by hand (like carving a canoe) changes your relationship to the journey it enables?\n• Churchill Clark participated in building a canoe that echoed his ancestor's journey. What does it mean to carry family history in your hands literally? What do we owe to those who came before us? What skills, abilities, or knowledge do you have that has been handed down to you?\n\n➜ VIEW\n∞ Video Link: Carving the Canoe \nWatch what you have time for now and finish later if desired.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recXyT4oG4P63UmCC",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=1",
@@ -265,11 +273,32 @@
               "lessonLabel": "Lesson 3",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 3",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\nFocus your narrations on what is unique or stands out to you about the people, history, or resources in the region you are reading about today as that will help you in deciding what to add to your map.\n\n➜ MAP WORK\nAdd to your map\n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nCanadian Geography (10th)\nFur Trade (10th)\nSeaports of the Gulf Coast (11th)\nEastern Snake River Plain Aquifer (12th)\nThe Hemlock Dam Removal Story (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recGfvU1eou5E7sg4",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=2",
+              "links": [
+                {
+                  "text": "Canadian Geography (10th)",
+                  "url": "https://www.youtube.com/watch?v=5Ba1JtVoegU"
+                },
+                {
+                  "text": "Fur Trade (10th)",
+                  "url": "https://www.youtube.com/watch?v=6oEqvuhQfUI&t=253s"
+                },
+                {
+                  "text": "Seaports of the Gulf Coast (11th)",
+                  "url": "https://www.youtube.com/watch?v=IICXwNxgbS8&t=427s"
+                },
+                {
+                  "text": "Eastern Snake River Plain Aquifer (12th)",
+                  "url": "https://www.youtube.com/watch?v=YuYI07Yryfw"
+                },
+                {
+                  "text": "The Hemlock Dam Removal Story (12th)",
+                  "url": "https://youtu.be/H9wJOAtSk6s"
+                }
+              ]
             },
             {
               "lessonId": "recADBuRMHntp01VR",
@@ -281,11 +310,16 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 4",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 2 The Journey Begins\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "The Journey Begins\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 2 The Journey Begins\nNarrate silently to yourself.\n\n➜ MAP WORK\nRoughly copy by hand the map on p.12 into your notebook to orient you to the adventures ahead and to refer back to as you read. Sketch a series of more zoomed in maps as you travel down the river to add places, items of interest, or events that happen in each chapter.\n\n➜ RESEARCH\nIf you have time left in the lesson, research something interesting in the chapter that you want to know more about such as wild foraging in your area or maybe Thomas P. Howard, a member of the original expedition. See the link below for information about Howard and to read more about the Lewis and Clark Expedition.\n∞ Website Link: Thomas Howard",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recADBuRMHntp01VR",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=2",
+              "links": [
+                {
+                  "text": "Thomas Howard",
+                  "url": "https://lewis-clark.org/members/thomas-howard/#:~:text=In%201808%20he%20married%20a"
+                }
+              ]
             },
             {
               "lessonId": "recwZY5ez6WplAbxg",
@@ -297,11 +331,28 @@
               "lessonLabel": "Lesson 5",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 5",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\n Across This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nAll in a Day's Work: Lumbering in NB (10th)\nHistory of Engineering Old River (11th)\n\"The Land That God Had Forsaken\" (12th)\nSonoran Desert (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recwZY5ez6WplAbxg",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=3",
+              "links": [
+                {
+                  "text": "All in a Day's Work: Lumbering in NB (10th)",
+                  "url": "https://www.youtube.com/watch?v=kLlypiw0x_k"
+                },
+                {
+                  "text": "History of Engineering Old River (11th)",
+                  "url": "https://www.youtube.com/watch?v=sgf987hlR_c"
+                },
+                {
+                  "text": "\"The Land That God Had Forsaken\" (12th)",
+                  "url": "https://youtu.be/y7qwO6Yd6nA"
+                },
+                {
+                  "text": "Sonoran Desert (12th)",
+                  "url": "https://youtu.be/nwiRTjunCJA?t=228"
+                }
+              ]
             },
             {
               "lessonId": "rec2iCyTPcaM0X4hI",
@@ -313,7 +364,7 @@
               "lessonLabel": "Lesson 6",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 6",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 3 Botanizing the River\n\n➜ WRITE \nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Botanizing the River\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 3 Botanizing the River\nNarrate silently to yourself.\n\n➜ WRITE: \nDiscuss Elpel's quote on p.19, \"We yearn to connect with nature, and not knowing how to do that, we treat nature as an adversary more than a dance partner. We pit human endurance against nature and seek to overcome her. We bask in the glory of our accomplishment while missing nearly everything along the way.\"  How does developing a relationship with nature via nature study, nature walks, and nature journalling play into the discussion?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec2iCyTPcaM0X4hI",
               "lessonLinksUrl": "",
@@ -329,11 +380,28 @@
               "lessonLabel": "Lesson 7",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 7",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nMassachusetts Mill Workers (10th)\nKing Corn (11th)\nThe Legacy of Copper Mining in Arizona (12th)\nConflicted Over Copper (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recnJ2MgGsQsEHpeP",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=4",
+              "links": [
+                {
+                  "text": "Massachusetts Mill Workers (10th)",
+                  "url": "https://www.youtube.com/watch?v=zSVk6axNHkQ"
+                },
+                {
+                  "text": "King Corn (11th)",
+                  "url": "https://www.youtube.com/watch?v=tbRHGHYMGpU"
+                },
+                {
+                  "text": "The Legacy of Copper Mining in Arizona (12th)",
+                  "url": "https://www.youtube.com/watch?v=BucmR-kWwmo"
+                },
+                {
+                  "text": "Conflicted Over Copper (12th)",
+                  "url": "https://youtu.be/1w5ca5A9lIY"
+                }
+              ]
             },
             {
               "lessonId": "recwY8NbOy2XSOusB",
@@ -345,7 +413,7 @@
               "lessonLabel": "Lesson 8",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 8",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 4 Wind Faeries\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Wind Faeries\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 4 Wind Faeries\n\n➜ WRITE: \nThe Missouri has been radically transformed — dammed, channelized, diked. Is this river still \"the Missouri\"? What makes a river a river?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recwY8NbOy2XSOusB",
               "lessonLinksUrl": "",
@@ -361,11 +429,24 @@
               "lessonLabel": "Lesson 9",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 9",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\n200 Years on the Erie Canal (10th)\nThe Loess Hills (11th)\nCanada's Boreal Forest (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recwFkhvYeUSq07XV",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=5",
+              "links": [
+                {
+                  "text": "200 Years on the Erie Canal (10th)",
+                  "url": "https://www.youtube.com/watch?v=iLfGSXuHu5g&list=PLK0MbxEjduONa_OhxIqIhLdk8ZMblQK2A&index=5"
+                },
+                {
+                  "text": "The Loess Hills (11th)",
+                  "url": "https://youtu.be/nUzcmqcA-T0"
+                },
+                {
+                  "text": "Canada's Boreal Forest (12th)",
+                  "url": "https://www.youtube.com/watch?v=uhe5FHbmpbc"
+                }
+              ]
             },
             {
               "lessonId": "recEHB5zAXaqriKXL",
@@ -377,11 +458,24 @@
               "lessonLabel": "Lesson 10",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 10",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 5 Gates of the Praire\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Gates of the Prairie\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 5 Gates of the Prairie\n\n➜ READ\n ∞ Article Link: Plant and Animal Discoveries\n ∞ Article Link: A Modern Lewis and Clark Survey\n∞ Article Link: Lewis and Clark Expedition (scroll down for more of the quote that started the reading today)\n\n➜ WRITE\nDiscuss the Lewis quote or the two articles about wildlife discovery.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recEHB5zAXaqriKXL",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=5",
+              "links": [
+                {
+                  "text": "Plant and Animal Discoveries",
+                  "url": "https://montanakids.com/history_and_prehistory/lewis_and_clark/plants_animals.htm"
+                },
+                {
+                  "text": "A Modern Lewis and Clark Survey",
+                  "url": "https://drive.google.com/file/d/1X2DwpBMeVeRzdX5Zw7-QyQYD4vFfJj5B/view"
+                },
+                {
+                  "text": "Lewis and Clark Expedition",
+                  "url": "https://gatesofthemountains.com/about/area-history/"
+                }
+              ]
             },
             {
               "lessonId": "recgAGEe1Yz9WAcNK",
@@ -393,11 +487,24 @@
               "lessonLabel": "Lesson 11",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 11",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n ~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nLife in New Sweden (10th)\nThe Driftless Area (11th)\nCree Documentary Trailer (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recgAGEe1Yz9WAcNK",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=6",
+              "links": [
+                {
+                  "text": "Life in New Sweden (10th)",
+                  "url": "https://www.youtube.com/watch?v=cZSIZzYL2oo"
+                },
+                {
+                  "text": "The Driftless Area (11th)",
+                  "url": "https://www.youtube.com/watch?v=R22RTkcpp-c"
+                },
+                {
+                  "text": "Cree Documentary Trailer (12th)",
+                  "url": "https://www.youtube.com/watch?v=HoxJ9zwCIhA"
+                }
+              ]
             },
             {
               "lessonId": "recoHQ6Zu6Ak6TkO1",
@@ -409,11 +516,16 @@
               "lessonLabel": "Lesson 12",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 12",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 6 Ghosts of the Tower\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Ghosts of the Tower\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 6 Ghosts of the Tower\n\n➜ VIEW\n ∞ Video Link: Montana (the first 8.5 minutes)\n\n➜ WRITE\nExplain the Buffalo Jump.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recoHQ6Zu6Ak6TkO1",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=6",
+              "links": [
+                {
+                  "text": "First People's Buffalo Jump",
+                  "url": "https://www.youtube.com/watch?v=kdqoezMbBHY&t=526s"
+                }
+              ]
             },
             {
               "lessonId": "recEuArrbI5vganux",
@@ -425,11 +537,24 @@
               "lessonLabel": "Lesson 13",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 13",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nContinents Collide (10th)\n\"This is the City Oil Built\" (11th)\nInuit History and Culture (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recEuArrbI5vganux",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=7",
+              "links": [
+                {
+                  "text": "Continents Collide (10th)",
+                  "url": "https://www.youtube.com/watch?v=mR8n1vkF9lU"
+                },
+                {
+                  "text": "\"This is the City Oil Built\" (11th)",
+                  "url": "https://www.youtube.com/watch?v=p9uGIT5xaGw&t=26s"
+                },
+                {
+                  "text": "Inuit History and Culture (12th)",
+                  "url": "https://www.youtube.com/watch?v=mzyr7W_QDqI"
+                }
+              ]
             },
             {
               "lessonId": "recWuxGXe3gXFWWps",
@@ -441,11 +566,20 @@
               "lessonLabel": "Lesson 14",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 14",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapters 7 and 8 A Hail of a Portage and Tools and Provisions\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "A Hail of a Portage and Tools and Provisions\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapters 7 and 8 A Hail of a Portage and Tools and Provisions\n\n➜ READ\n ∞ Article Link: June 29,1805\n\n➜ WRITE/DRAW/PAINT\nCombine the 5 versions of the events of that day into one account indicating what happened to each mentioned member of the expedition. Or draw/paint multiple scenes of that day's adventures for Lewis and Clark and the others.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recWuxGXe3gXFWWps",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=7",
+              "links": [
+                {
+                  "text": "June 29, 1805",
+                  "url": "https://lewisandclarkjournals.unl.edu/item/lc.jrn.1805-06-29#lc.jrn.1805-06-29.03"
+                },
+                {
+                  "text": "Giant Springs State Park",
+                  "url": "https://www.youtube.com/watch?v=4Q2iMHXPup0"
+                }
+              ]
             },
             {
               "lessonId": "rec5c5rz9pLeUOjQJ",
@@ -457,11 +591,24 @@
               "lessonLabel": "Lesson 15",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 15",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nHenry Ford, Muscle Shoals Alabama and the TVA (10th)\nThe Great Plains (11th)\nMendenhall Glacier (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec5c5rz9pLeUOjQJ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=8",
+              "links": [
+                {
+                  "text": "Henry Ford, Muscle Shoals Alabama and the TVA (10th)",
+                  "url": "https://www.youtube.com/watch?v=s8lg3lIHgsk"
+                },
+                {
+                  "text": "The Great Plains (11th)",
+                  "url": "https://www.youtube.com/watch?v=4MJPBpY3y8k"
+                },
+                {
+                  "text": "Mendenhall Glacier (12th)",
+                  "url": "https://youtu.be/OTEtXnc9owk"
+                }
+              ]
             },
             {
               "lessonId": "recgKwIOpC35CYz1M",
@@ -473,7 +620,7 @@
               "lessonLabel": "Lesson 16",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 16",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 9 Decisions of Leadership\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Decisions of Leadership\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 9 Decisions of Leadership\n\n➜ WRITE \nAfter hearing about how Lewis and Clark and Elpel choose their group members, how would you choose a group to go with you on an epic adventure through the wilderness?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recgKwIOpC35CYz1M",
               "lessonLinksUrl": "",
@@ -489,11 +636,24 @@
               "lessonLabel": "Lesson 17",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 17",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nCahokia (10th)\nThe Selkirk Settlers (11th)\nHistory of Vancouver (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec5S8RmkgHnEv0DO",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=9",
+              "links": [
+                {
+                  "text": "Cahokia (10th)",
+                  "url": "https://www.youtube.com/watch?v=ruWuAas8T7Y&t=125s"
+                },
+                {
+                  "text": "The Selkirk Settlers (11th)",
+                  "url": "https://www.youtube.com/watch?v=q5es68RFzN0"
+                },
+                {
+                  "text": "History of Vancouver (12th)",
+                  "url": "https://www.youtube.com/watch?v=xHEwPNnRmuM"
+                }
+              ]
             },
             {
               "lessonId": "recV0Xa7Sxu6xKD2d",
@@ -505,11 +665,16 @@
               "lessonLabel": "Lesson 18",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 18",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 10 Visionary Inchantment\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Visionary Enchantment\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 10 Visionary Enchantment\n\n➜ VIEW\n ∞ Video Link: Upper Missouri River Breaks\n\n➜ WRITE\nTry writing a poem capturing the beauty of the land paddled through in this reading.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recV0Xa7Sxu6xKD2d",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=9",
+              "links": [
+                {
+                  "text": "Upper Missouri River Breaks",
+                  "url": "https://www.youtube.com/watch?v=Evz6R4h-rbM"
+                }
+              ]
             },
             {
               "lessonId": "recEYquWS8QGtenjL",
@@ -521,11 +686,24 @@
               "lessonLabel": "Lesson 19",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 19",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\n Across This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nKarst in the Ozarks (10th)\nNebraska Stories (11th)\nRoots of El Pueblo (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recEYquWS8QGtenjL",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=10",
+              "links": [
+                {
+                  "text": "Karst in the Ozarks (10th)",
+                  "url": "https://www.youtube.com/watch?v=BB7a5KReUmE"
+                },
+                {
+                  "text": "Nebraska Stories (11th)",
+                  "url": "https://www.youtube.com/watch?v=MPabTAMrWME"
+                },
+                {
+                  "text": "Roots of El Pueblo (12th)",
+                  "url": "https://www.youtube.com/watch?v=0-jFL40GrOM&t=74s"
+                }
+              ]
             },
             {
               "lessonId": "recmr59NNrZZRSTha",
@@ -537,11 +715,20 @@
               "lessonLabel": "Lesson 20",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 20",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 11 Crossroads in History\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Crossroads in History\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 11 Crossroads in History\n\n➜ READ\n ∞ Article Link: A Gallery of Concretions\n ∞ Article Link: What is a Coulee?\n\n➜ WRITE\nWrite about concretions, coulees, or something else in the reading that interested you.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recmr59NNrZZRSTha",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=10",
+              "links": [
+                {
+                  "text": "A Gallery of Concretions",
+                  "url": "https://www.thoughtco.com/gallery-of-concretions-4122853"
+                },
+                {
+                  "text": "What is a Coulee?",
+                  "url": "https://biologyinsights.com/what-is-a-coulee-in-montana-and-how-are-they-formed/"
+                }
+              ]
             },
             {
               "lessonId": "recEZW3ZCtLG19wRP",
@@ -553,11 +740,32 @@
               "lessonLabel": "Lesson 21",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 21",
-              "body": "⍞ Materials: Across This Land\n\n➜ READ, NARRATE, & DISCUSS\n~15 pages.  \n\n➜ MAPWORK\nAdd to your map.",
+              "body": "⍞ Materials: Across This Land, map, notebook\n\n➜ READ & NARRATE\nAcross This Land ~15 pages\n\n➜ MAP WORK\nAdd to your map. \n\n➜ EXTRA HELPING \nIf interested or find your own:\n∞ Video Link:\nGullah Traditions (10th)\nThe Great Dismal Swamp (10th)\nYellowstone National Park (11th)\nLakota Empire (11th)\nFinal Sugar Harvest (12th)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recEZW3ZCtLG19wRP",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=11",
+              "links": [
+                {
+                  "text": "Gullah Traditions (10th)",
+                  "url": "https://www.youtube.com/watch?v=zSO5pcPfhnk"
+                },
+                {
+                  "text": "The Great Dismal Swamp (10th)",
+                  "url": "https://www.youtube.com/watch?v=0_zaVMNsD7c"
+                },
+                {
+                  "text": "Yellowstone National Park (11th)",
+                  "url": "https://www.youtube.com/watch?v=RCYSEDqPv4o"
+                },
+                {
+                  "text": "Lakota Empire (11th)",
+                  "url": "https://www.youtube.com/watch?v=C-fQo8zmiPQ"
+                },
+                {
+                  "text": "Final Sugar Harvest (12th)",
+                  "url": "https://www.youtube.com/watch?v=tXEdZMIc5v0"
+                }
+              ]
             },
             {
               "lessonId": "recW6W6luyxHen2HJ",
@@ -569,7 +777,7 @@
               "lessonLabel": "Lesson 22",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 22",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 12 Roaming and Rambling\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Roaming and Rambling\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 12 Roaming and Rambling\n\n➜ WRITE\nElpel states, \"Freedom to roam is critical to inspire a new generation of thinkers, doers, and leaders.\" What do you think about that?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recW6W6luyxHen2HJ",
               "lessonLinksUrl": "",
@@ -623,7 +831,7 @@
               "lessonLabel": "Lesson 25",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 25",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ\nStart on p.x1 \"To the Reader\" and read ~23 pages or what you can read in 30 minutes.  \n\n➜ MAPWORK\nLook at the map of Africa that was included with the book when it was published in 1817. Compare the 1817 map to a current map.  Familiarize yourself in general with where the events will take place.\n\n∞ Book Link: Original manuscript of the book\n∞ Image Link: Map included in the original book\n∞ Map Link: Current map of the region\n\n➜ NARRATE: Consider creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
+              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ\nStart on p.x1 \"To the Reader\" and read ~23 pages or what you can read in 30 minutes.  \n\n➜ MAP WORK\nLook at the map of Africa that was included with the book when it was published in 1817. Compare the 1817 map to a current map.  Familiarize yourself in general with where the events will take place.\n\n∞ Book Link: Original manuscript of the book\n∞ Image Link: Map included in the original book\n∞ Map Link: Current map of the region\n\n➜ NARRATE: \nConsider creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=reczhVJjiwjFdkSXy",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=2&week=13",
@@ -652,7 +860,7 @@
               "lessonLabel": "Lesson 26",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 26",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 13 Swiss Cheese and Bison\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Swiss Cheese and Bison\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 13 Swiss Cheese and Bison\n\n➜ WRITE\nWrite a paragraph in support of the ranchers and another in support of the American Prairie Reserve.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recPCCr522yyj2Qt5",
               "lessonLinksUrl": "",
@@ -668,7 +876,7 @@
               "lessonLabel": "Lesson 27",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 27",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec6LOlR6xUGPQm6i",
               "lessonLinksUrl": "",
@@ -684,7 +892,7 @@
               "lessonLabel": "Lesson 28",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 28",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS\nChapter 14 The Lakeness Monster\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "The Lakeness Monster\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 14 The Lakeness Monster\n\n➜ WRITE\nThe dams transformed this section of the wild Missouri into a series of lakes. What is lost when a river is tamed? What is gained?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recc6BWhncHbJ8SPC",
               "lessonLinksUrl": "",
@@ -700,7 +908,7 @@
               "lessonLabel": "Lesson 29",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 29",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages  \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recLZGzYnkizhTGuC",
               "lessonLinksUrl": "",
@@ -716,7 +924,7 @@
               "lessonLabel": "Lesson 30",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 30",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 15 Name Games\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Name Games\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 15 Name Games\n\n➜ WRITE\nHave you ever named any natural features, trees, or areas in your yard or around where you live? If so, write about them.  If not, think about what you could name around you. Sometimes naming is tied to claiming, but this naming is just for fun and to show relationship.  For example, a bench in the yard surrounded by some trees might be named Reader's Corner. Write about what you are naming and why.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recAhTSNK0wcaUb26",
               "lessonLinksUrl": "",
@@ -732,7 +940,7 @@
               "lessonLabel": "Lesson 31",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 31",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ\n~23 pages \n\n➜ NARRATE & MAP WORK\nContinue creating a journal entry from Captain Riley of the reading's events and sketch a simple map to go with it.  Or, come up with another creative way to narrate the readings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=reciOz3ya1XZ4jd2M",
               "lessonLinksUrl": "",
@@ -748,7 +956,7 @@
               "lessonLabel": "Lesson 32",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 32",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 16 Creatures of the Mud\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Creatures of the Mud\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 16 Creatures of the Mud\n\n➜ WRITE\nTry writing a poem about living with so much mud.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rectunZBN0BZa12Xc",
               "lessonLinksUrl": "",
@@ -764,7 +972,7 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 33",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recj6SoKie83JwC95",
               "lessonLinksUrl": "",
@@ -780,7 +988,7 @@
               "lessonLabel": "Lesson 34",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 34",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapters 17-19 Confluence, Bones and Oil, Angels\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Confluence, Bones and Oil, Angels\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapters 17-19 Confluence, Bones and Oil, Angels\n\n➜ WRITE\nWrite about the issue of bison meat and natural gas both not having a way to get to market and thus being wasted.  Any creative solutions for then or now?\n\n➜ MAP WORK\nCopy the map on p.119.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=reckNPhBX3enHn95v",
               "lessonLinksUrl": "",
@@ -796,7 +1004,7 @@
               "lessonLabel": "Lesson 35",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 35",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recKFWPmd59Jnrrq0",
               "lessonLinksUrl": "",
@@ -812,11 +1020,16 @@
               "lessonLabel": "Lesson 36",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 36",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 20 Chronicles of the Contraption\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Chronicles of the Contraption\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 20 Chronicles of the Contraption\n\n➜ READ\n ∞ Article Link: Mandan, Hidatsa, and Arikara Histories of Sacagawea\n\n➜ WRITE\nWrite about some of the reasons that various history stories emerge about a single person or event.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recG2X9hrlzjl3634",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=2&week=18",
+              "links": [
+                {
+                  "text": "Mandan, Hidatsa, and Arikara Histories of Sacagawea",
+                  "url": "https://www.nps.gov/articles/000/mandan-hidatsa-and-arikara-histories-of-sacagawea.htm"
+                }
+              ]
             },
             {
               "lessonId": "recH5nshFkhJbpey8",
@@ -844,11 +1057,20 @@
               "lessonLabel": "Lesson 38",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 38",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 21 Forts and Villages\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Forts and Villages\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 21 Forts and Villages\n\n➜ READ \n∞ Article Link: Knife River Indian Villages\n∞ Article Link: Fort Clark State Historic Site\n\n➜ WRITE\nWrite about what interested you most from the reading and articles.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec8kIFgdxjhS5en9",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=2&week=19",
+              "links": [
+                {
+                  "text": "Knife River Indian Villages",
+                  "url": "https://www.nps.gov/knri/learn/historyculture/index.htm"
+                },
+                {
+                  "text": "Fort Clark State Historic Site",
+                  "url": "https://www.history.nd.gov/historicsites/clark/clarkhistory.html"
+                }
+              ]
             },
             {
               "lessonId": "recjbcDptdiVhKXpp",
@@ -876,7 +1098,7 @@
               "lessonLabel": "Lesson 40",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 40",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 22 Aloha and Oahe!\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the  chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Aloha and Oahe!\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 22 Aloha and Oahe!\n\n➜ WRITE\n Write your thoughts about the pipeline issue.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recBWVjxV8mmUGnAa",
               "lessonLinksUrl": "",
@@ -892,7 +1114,7 @@
               "lessonLabel": "Lesson 41",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 41",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recuacU6ksQrbQ2qw",
               "lessonLinksUrl": "",
@@ -908,7 +1130,7 @@
               "lessonLabel": "Lesson 42",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 42",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 23 The Hunted\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "The Hunted\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 23 The Hunted\n\n➜ WRITE\nDescribe the different flora and fauna that the crew is seeing now as well as the different scenery compared with the early days of the trip.\n\n➜ MAP WORK\nCopy the map on p.163",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recyjqpXaqj4qNW2M",
               "lessonLinksUrl": "",
@@ -924,7 +1146,7 @@
               "lessonLabel": "Lesson 43",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 43",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recHMAyyI3uQOfTtv",
               "lessonLinksUrl": "",
@@ -940,7 +1162,7 @@
               "lessonLabel": "Lesson 44",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 44",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 24 The Good River Encounter\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "The Good River Encounter\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 24 The Good River Encounter\n\n➜ WRITE\nWrite about what interested you in this reading.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recd7c3X9wfGRjc1X",
               "lessonLinksUrl": "",
@@ -956,7 +1178,7 @@
               "lessonLabel": "Lesson 45",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 45",
-              "body": "⍞ Materials: Sufferings in Africa\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
+              "body": "⍞ Materials: Sufferings in Africa, notebook\n\n➜ READ, NARRATE, & DISCUSS\n~23 pages.   \n\nNarrate in writing and add to your sketch map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recS3hBlVgCSl8gxo",
               "lessonLinksUrl": "",
@@ -972,7 +1194,7 @@
               "lessonLabel": "Lesson 46",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 46",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 25 Layover\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Layover\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 25 Layover\n\n➜ WRITE\nWhat do you think were the reasons behind the idea of not allowing the students at the boarding school to speak their native language?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recqQhMLvI75ZrTVH",
               "lessonLinksUrl": "",
@@ -1042,7 +1264,7 @@
               "lessonLabel": "Lesson 50",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 50",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 26 Sour Grapes\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Sour Grapes\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 26 Sour Grapes\n\n➜ WRITE\nHow well would you survive being on your own for days in the wilderness?\n\n➜ MAP WORK\nCopy the map on p.195.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recAVKl3DgrtGfIr9",
               "lessonLinksUrl": "",
@@ -1074,7 +1296,7 @@
               "lessonLabel": "Lesson 52",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 52",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 27 Throwing Sand\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Throwing Sand\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 27 Throwing Sand\n\n➜ WRITE\nDescribe the journey at this point.  What are the current challenges?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recrvF7w7uunrz0JT",
               "lessonLinksUrl": "",
@@ -1106,7 +1328,7 @@
               "lessonLabel": "Lesson 54",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 54",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 28 Channeling Floyd\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Channeling Floyd\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 28 Channeling Floyd\n\n➜ WRITE\nThoughts on the costs of dying these days compared to the past?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recMWVH8J1QfcW38Q",
               "lessonLinksUrl": "",
@@ -1138,7 +1360,7 @@
               "lessonLabel": "Lesson 56",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 56",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 29 Fish Stories\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Fish Stories\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 29 Fish Stories\n\n➜ WRITE\nWhy do you suppose carp is considered a delicacy in other parts of the world but not here?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recVQnJYNay3qWmqo",
               "lessonLinksUrl": "",
@@ -1170,7 +1392,7 @@
               "lessonLabel": "Lesson 58",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 58",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 30 Water World\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Water World\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 30 Water World\n\n➜ WRITE\nElpel and the group eat paw paws.  Do these grow in your area? What regional fruits and vegetable grow in your area? You might need to do some research to find out.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recJe8KLSI7GoLZeN",
               "lessonLinksUrl": "",
@@ -1202,7 +1424,7 @@
               "lessonLabel": "Lesson 60",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 60",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS  \nChapter 31 Cold Front\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Cold Front\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 31 Cold Front\n\n➜ WRITE\nWhy would it be important to read accounts of wars from both the winner and the loser's perspective?\n\n➜ MAP WORK\nCopy the map on p.232.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recyGVlMss0Hpr7hB",
               "lessonLinksUrl": "",
@@ -1234,11 +1456,16 @@
               "lessonLabel": "Lesson 62",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 62",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 32 Sawyers\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Sawyers\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE\nChapter 32 Sawyers\n\n➜ READ\n∞ Article Link: Missouri RIver\n\n➜ WRITE\nThe Army Corps of Engineers straightened and narrowed the Missouri in the 20th century to improve navigation and prevent floods. What values drive the decision to tame a wild river? Who benefits and who bears the costs? What about the pros and cons of channelization?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recjWPLyPhVf3zq00",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=3&week=31",
+              "links": [
+                {
+                  "text": "Missouri River",
+                  "url": "https://www.americanrivers.org/river/missouri-river/"
+                }
+              ]
             },
             {
               "lessonId": "recb5SKdSiRckLQ8q",
@@ -1266,7 +1493,7 @@
               "lessonLabel": "Lesson 64",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 64",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 33 Taste of Freedom\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Taste of Freedom\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 33 Taste of Freedom\n\n➜ WRITE\nWould you enjoy an historic trip like this for this long? Why or why not?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recJoHaYnLUSVnJXo",
               "lessonLinksUrl": "",
@@ -1298,7 +1525,7 @@
               "lessonLabel": "Lesson 66",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 66",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 34 A River Relieved\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "A River Relieved\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 34 A River Relieved\n\n➜ WRITE\nThoughts about the litter problem? What are practical ways that we can help?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recDJ8ElLnKaWwvHQ",
               "lessonLinksUrl": "",
@@ -1330,7 +1557,7 @@
               "lessonLabel": "Lesson 68",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 68",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS \nChapter 35 Advance to St. Charles\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Advance to St. Charles\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 35 Advance to St. Charles\n\n➜ WRITE\nThoughts on funding adventures? \n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=reczgMZphdkDQS9kJ",
               "lessonLinksUrl": "",
@@ -1362,7 +1589,7 @@
               "lessonLabel": "Lesson 70",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 70",
-              "body": "⍞ Materials: Five Months on the Missouri River\n\n➜ READ, NARRATE, & DISCUSS  \nChapter 36 Gateway\n\n➜ WRITE\nCompose 5 questions and/or 5 reflections about the chapter.\nCreate or sketch a map as you travel down the river. Add places or items of interest to your map.",
+              "body": "Gateway\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 36 Gateway\n\n➜ WRITE\nHow would you imagine ending a 5-month paddling trip down the Missouri? What sort of celebration would you plan?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=rec3XhuoNW84WmFHc",
               "lessonLinksUrl": "",
