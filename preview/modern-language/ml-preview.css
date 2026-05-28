@@ -564,3 +564,32 @@
   line-height: 1.28;
   color: #111111;
 }
+
+/* =========================
+   ML Songs & Rhymes
+   ========================= */
+
+.ml-song-resource {
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.ml-song-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.3in;
+  margin-top: 0.14in;
+}
+
+.ml-song-text {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.34;
+  color: #111111;
+  white-space: normal;
+}
+
+.ml-song-translation {
+  border-left: 1px solid #c7d0bd;
+  padding-left: 0.3in;
+}
