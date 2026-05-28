@@ -116,6 +116,15 @@ function buildMLAppendices(lessonSets = [], options = {}) {
   
     return String(a.title || "").localeCompare(String(b.title || ""));
   });
+
+  songsRhymes.sort((a, b) => {
+    const aSequence = Number(a.sequence || 0);
+    const bSequence = Number(b.sequence || 0);
+  
+    if (aSequence !== bSequence) return aSequence - bSequence;
+  
+    return String(a.title || "").localeCompare(String(b.title || ""));
+  });
   
   return {
     stories,
@@ -342,6 +351,44 @@ function renderMLStoryLine(line) {
   `;
 }
 
+function renderMLSongResource(song) {
+  const languageLabel = song.language || "Spanish/French";
+
+  return `
+    <article class="ml-story-resource ml-song-resource">
+      <div class="ml-appendix-top-rule"></div>
+
+      <header class="ml-story-header">
+        <h2 class="ml-story-title">
+          ${escapeHtml(song.title || "")}
+        </h2>
+      </header>
+
+      <div class="ml-story-column-headings">
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">${escapeHtml(languageLabel)}</div>
+        </div>
+
+        <div>
+          <div class="ml-story-column-rule"></div>
+          <div class="ml-story-column-label">English</div>
+        </div>
+      </div>
+
+      <div class="ml-song-columns">
+        <div class="ml-song-text">
+          ${formatInlineRichText(song.text || "").replace(/\n/g, "<br>")}
+        </div>
+
+        <div class="ml-song-text ml-song-translation">
+          ${formatInlineRichText(song.translation || "").replace(/\n/g, "<br>")}
+        </div>
+      </div>
+    </article>
+  `;
+}
+
 function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
@@ -369,11 +416,13 @@ function renderMLAppendices(appendices = {}) {
 
       ${hasSongs ? `
         <div class="page-flow ml-appendix-page ml-appendix-songs section-break" id="ml-appendix-songs">
-          <section class="ml-appendix-block">
-            <h1 class="lesson-page-title">Songs & Rhymes</h1>
-
-            <div class="ml-appendix-placeholder">
-              Songs & Rhymes rendering coming next
+          <section class="ml-appendix-block ml-songs-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Songs & Rhymes
+            </h1>
+      
+            <div class="ml-song-list">
+              ${(appendices.songsRhymes || []).map(renderMLSongResource).join("")}
             </div>
           </section>
         </div>
