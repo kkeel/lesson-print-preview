@@ -128,14 +128,6 @@ function renderMLPreviewControls(data) {
       </div>
     ` : ""}
 
-    <div class="ml-preview-control-group">
-      <label for="ml-jump-term">Term</label>
-      <select id="ml-jump-term">
-        <option value="">Choose term...</option>
-        ${buildMLTermOptions(mlSection)}
-      </select>
-    </div>
-
         <div class="ml-preview-control-group">
           <label for="ml-jump-section">Section</label>
     
@@ -146,22 +138,30 @@ function renderMLPreviewControls(data) {
             <option value="ml-section-howto">How To Pages</option>
             <option value="ml-section-lessons">Lessons</option>
     
-            ${(mlSection.appendices?.stories || []).length
+            ${hasMLResourceType(mlSection, "stories")
               ? `<option value="ml-appendix-storylines">Storylines</option>`
               : ""
             }
     
-            ${(mlSection.appendices?.songsRhymes || []).length
+            ${hasMLResourceType(mlSection, "songsRhymes")
               ? `<option value="ml-appendix-songs">Songs & Rhymes</option>`
               : ""
             }
     
-            ${(mlSection.appendices?.glossary || []).length
+            ${hasMLResourceType(mlSection, "glossary")
               ? `<option value="ml-appendix-glossary">Vocabulary Glossary</option>`
               : ""
             }
           </select>
         </div>
+        
+    <div class="ml-preview-control-group">
+      <label for="ml-jump-term">Term</label>
+      <select id="ml-jump-term">
+        <option value="">Choose term...</option>
+        ${buildMLTermOptions(mlSection)}
+      </select>
+    </div>
 
     ${mlViewMode === "course" ? `
       <div class="ml-preview-control-group">
@@ -222,6 +222,12 @@ function renderMLPreviewControls(data) {
   document.getElementById("ml-jump-lesson")?.addEventListener("change", event => {
     jumpToPreviewAnchor(event.target.value);
   });
+}
+
+function hasMLResourceType(section, resourceKey) {
+  return (section.lessonSets || []).some(lessonSet =>
+    (lessonSet.resources?.[resourceKey] || []).length
+  );
 }
 
 function buildMLTermOptions(section) {
