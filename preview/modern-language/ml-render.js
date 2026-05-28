@@ -108,11 +108,28 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     });
   });
 
+  stories.sort((a, b) => {
+    const aSet = getMLStoryFirstSet(a);
+    const bSet = getMLStoryFirstSet(b);
+  
+    if (aSet !== bSet) return aSet - bSet;
+  
+    return String(a.title || "").localeCompare(String(b.title || ""));
+  });
+  
   return {
     stories,
     songsRhymes,
     glossary
   };
+}
+
+function getMLStoryFirstSet(story = {}) {
+  const firstLine = (story.lines || [])[0];
+
+  if (!firstLine) return 999;
+
+  return getMLSetNumber(firstLine.set);
 }
 
 function buildMLWeeklyLessonsFromLessonSets(lessonSets = []) {
@@ -236,18 +253,28 @@ function renderMLStoryResource(story) {
     <article class="ml-story-resource">
       <header class="ml-story-header">
         <div class="ml-story-header-left">
-          <h2 class="ml-story-title">
+          <h1 class="ml-story-title">
             ${escapeHtml(story.title || "")}
-          </h2>
+          </h1>
 
-          <div class="ml-story-meta">
-            ${escapeHtml(story.lessonSetTitle || "")}
+          <div class="ml-story-section-label">
+            Storylines
           </div>
         </div>
       </header>
 
       <div class="ml-story-lines">
-        ${(story.lines || []).map(renderMLStoryLine).join("")}
+        ${(story.lines || [])
+          .sort((a, b) => {
+            const aSet = getMLSetNumber(a.set);
+            const bSet = getMLSetNumber(b.set);
+
+            if (aSet !== bSet) return aSet - bSet;
+
+            return Number(a.lineNumber || 0) - Number(b.lineNumber || 0);
+          })
+          .map(renderMLStoryLine)
+          .join("")}
       </div>
     </article>
   `;
@@ -257,22 +284,26 @@ function renderMLStoryLine(line) {
   return `
     <div class="ml-story-line">
       <div class="ml-story-language-col">
-        <div class="ml-story-reference">
-          ${escapeHtml(line.reference || "")}
-        </div>
+        <div class="ml-story-line-inner">
+          <div class="ml-story-reference">
+            ${escapeHtml(line.reference || "")}
+          </div>
 
-        <div class="ml-story-text">
-          ${escapeHtml(line.sentence || "")}
+          <div class="ml-story-text">
+            ${escapeHtml(line.sentence || "")}
+          </div>
         </div>
       </div>
 
       <div class="ml-story-translation-col">
-        <div class="ml-story-reference">
-          ${escapeHtml(line.reference || "")}
-        </div>
+        <div class="ml-story-line-inner">
+          <div class="ml-story-reference">
+            ${escapeHtml(line.reference || "")}
+          </div>
 
-        <div class="ml-story-text">
-          ${escapeHtml(line.translation || "")}
+          <div class="ml-story-text">
+            ${escapeHtml(line.translation || "")}
+          </div>
         </div>
       </div>
     </div>
