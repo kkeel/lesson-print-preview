@@ -336,7 +336,24 @@ function renderHeaderItem(item, headerEditUrl = "") {
     if (item.kind === "quick-links") {
       const iconSrc = "../images/header_icons/Quick Links.png";
       const linkPageUrl = item.linkPageUrl || "#";
-      const groups = item.groups || [];
+      const extraHelpingsUrl = item.extraHelpingsUrl || "";
+      const extraHelpingsLink = extraHelpingsUrl
+        ? [{
+            id: "extra-helpings",
+            label: "Extra Helpings",
+            url: extraHelpingsUrl,
+            sort: "-1",
+            sourceTitle: "Extra Helpings"
+          }]
+        : [];
+      
+      const groups = (item.groups || []).map((group, index) => ({
+        ...group,
+        links: index === 0
+          ? [...extraHelpingsLink, ...(group.links || [])]
+          : (group.links || [])
+      }));
+      
       const hasLinks = groups.some(group => (group.links || []).length);
   
       return `
