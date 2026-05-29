@@ -214,8 +214,25 @@ function getAssignmentType(packet, lesson) {
   return "Lesson";
 }
 
+function getPacketLinkPageUrl(packet) {
+  const lessonsSection = getLessonsSection(packet);
+
+  if (lessonsSection?.linkPageUrl) {
+    return lessonsSection.linkPageUrl;
+  }
+
+  const headerSection = (packet.sections || []).find(section => section.type === "header");
+  const quickLinksItem = (headerSection?.items || []).find(item => item.kind === "quick-links");
+
+  return quickLinksItem?.linkPageUrl || "";
+}
+
 function buildTrackerRowsForPacket(packet) {
   const tracker = packet.syllabird || {};
+  const trackerLinksUrl =
+    packet.hidePdf === "Do Not Show PDF"
+      ? ""
+      : getPacketLinkPageUrl(packet);
 
   if (!tracker.trackerTemplate) return [];
 
@@ -260,7 +277,7 @@ function buildTrackerRowsForPacket(packet) {
         assignment_teachersNote:
           textToHtml(examContent),
 
-        assignment_linksUrl: "",
+        assignment_linksUrl: trackerLinksUrl,
 
         assignment_type:
           isExamWeek ? "Exam" : "Lesson",
