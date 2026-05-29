@@ -1855,6 +1855,70 @@ function flattenAdditionalQuickLinks(packet) {
   return uniqueQuickLinks(additional);
 }
 
+function getLessonPdfQuickLink(packet) {
+  const hidePdf = normalizeText(packet.hidePdf);
+  const pdfUrl = normalizeText(packet.pdfLinkUrl);
+
+  if (hidePdf === "Do Not Show PDF") {
+    return {
+      url: "",
+      status: "none",
+      label: "No Lesson PDF"
+    };
+  }
+
+  if (hidePdf === "Delay PDF") {
+    return {
+      url: "",
+      status: "coming-soon",
+      label: "Lesson PDF Coming Soon"
+    };
+  }
+
+  if (!pdfUrl) {
+    return {
+      url: "",
+      status: "none",
+      label: "No Lesson PDF"
+    };
+  }
+
+  return {
+    url: pdfUrl,
+    status: "active",
+    label: "Lesson PDF"
+  };
+}
+
+function buildLinkPageQuickLinks(packet) {
+  const lessonPdf = getLessonPdfQuickLink(packet);
+
+  return {
+    extraHelpingsUrl: normalizeText(packet.extraHelpingsUrl),
+    bookListUrl: normalizeText(packet.bookListUrl),
+    supplyListUrl: normalizeText(packet.supplyListUrl),
+    basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
+    lessonPdfUrl: lessonPdf.url,
+    lessonPdfStatus: lessonPdf.status,
+    lessonPdfLabel: lessonPdf.label,
+    additional: flattenAdditionalQuickLinks(packet)
+  };
+}
+
+function shouldBuildHeaderOnlyLinkPage(packet) {
+  const lessonPdf = getLessonPdfQuickLink(packet);
+  const quickLinks = buildLinkPageQuickLinks(packet);
+
+  return (
+    lessonPdf.status === "active" ||
+    lessonPdf.status === "coming-soon" ||
+    quickLinks.extraHelpingsUrl ||
+    quickLinks.bookListUrl ||
+    quickLinks.supplyListUrl ||
+    quickLinks.additional.length > 0
+  );
+}
+
 function buildLinkPage(packet) {
   const standardLessonSection = (packet.sections || []).find(section => section.type === "lessons");
   const modernLanguageSection = (packet.sections || []).find(section => section.type === "modern-language-lessons");
@@ -1863,7 +1927,28 @@ function buildLinkPage(packet) {
     return buildModernLanguageLinkPage(packet, modernLanguageSection);
   }
 
-  if (!standardLessonSection) return null;
+  if (!standardLessonSection) {
+    if (!shouldBuildHeaderOnlyLinkPage(packet)) return null;
+
+    return {
+      id: packet.id,
+      title: packet.title,
+      lessonSetName: packet.lessonSetName,
+      subject: packet.subject,
+      gradeText: packet.gradeText,
+      sortId: packet.sortId,
+      rowType: packet.rowType,
+      hasTopics: packet.hasTopics,
+      isStandaloneCourse: packet.isStandaloneCourse,
+      courseConnectionNames: packet.courseConnectionNames || [],
+      topicConnectionNames: packet.topicConnectionNames || [],
+
+      quickLinks: buildLinkPageQuickLinks(packet),
+
+      updatedAt: new Date().toISOString(),
+      terms: []
+    };
+  }
 
   const terms = [];
 
@@ -1940,14 +2025,7 @@ function buildLinkPage(packet) {
     courseConnectionNames: packet.courseConnectionNames || [],
     topicConnectionNames: packet.topicConnectionNames || [],
   
-    quickLinks: {
-      extraHelpingsUrl: normalizeText(packet.extraHelpingsUrl),
-      bookListUrl: normalizeText(packet.bookListUrl),
-      supplyListUrl: normalizeText(packet.supplyListUrl),
-      basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
-      lessonPdfUrl: normalizeText(packet.pdfLinkUrl),
-      additional: flattenAdditionalQuickLinks(packet)
-    },
+    quickLinks: buildLinkPageQuickLinks(packet),
   
     updatedAt: new Date().toISOString(),
     terms
@@ -2057,14 +2135,7 @@ function buildModernLanguageLinkPage(packet, modernLanguageSection) {
     topicConnectionNames: packet.topicConnectionNames || [],
     topics,
 
-    quickLinks: {
-      extraHelpingsUrl: normalizeText(packet.extraHelpingsUrl),
-      bookListUrl: normalizeText(packet.bookListUrl),
-      supplyListUrl: normalizeText(packet.supplyListUrl),
-      basicSuppliesUrl: "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
-      lessonPdfUrl: normalizeText(packet.pdfLinkUrl),
-      additional: flattenAdditionalQuickLinks(packet)
-    },
+    quickLinks: buildLinkPageQuickLinks(packet),
 
     updatedAt: new Date().toISOString(),
     terms
