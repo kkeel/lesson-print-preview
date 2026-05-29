@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recydvGZUJZVjPvQy",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recydvGZUJZVjPvQy",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec9lkHl3pKY5QBnE-geography-grade-3-u-s.pdf",
-  "extraHelpingsUrl": "",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recydvGZUJZVjPvQy",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -156,7 +156,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec9lkHl3pKY5QBnE",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recydvGZUJZVjPvQy",
           "groups": [
             {
               "title": "Geography: Grade 3 (U.S.)",

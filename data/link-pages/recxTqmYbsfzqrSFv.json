@@ -26,7 +26,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-28T21:12:07.576Z",
+  "updatedAt": "2026-05-29T09:00:05.399Z",
   "terms": [
     {
       "termNumber": 1,
@@ -61,10 +61,6 @@
                 {
                   "text": "Everglades",
                   "url": "https://www.youtube.com/watch?v=pdod51ErdeE"
-                },
-                {
-                  "text": "Idaho Batholith",
-                  "url": "https://www.mtpr.org/post/batholiths-born-earths-giant-slow-motion-lava-lamps"
                 }
               ]
             },
@@ -119,14 +115,6 @@
                 {
                   "text": "Seaports of the Gulf Coast (11th)",
                   "url": "https://www.youtube.com/watch?v=IICXwNxgbS8&t=427s"
-                },
-                {
-                  "text": "Eastern Snake River Plain Aquifer (12th)",
-                  "url": "https://www.youtube.com/watch?v=YuYI07Yryfw"
-                },
-                {
-                  "text": "The Hemlock Dam Removal Story (12th)",
-                  "url": "https://youtu.be/H9wJOAtSk6s"
                 }
               ]
             },
@@ -177,14 +165,6 @@
                 {
                   "text": "History of Engineering Old River (11th)",
                   "url": "https://www.youtube.com/watch?v=sgf987hlR_c"
-                },
-                {
-                  "text": "\"The Land That God Had Forsaken\" (12th)",
-                  "url": "https://youtu.be/y7qwO6Yd6nA"
-                },
-                {
-                  "text": "Sonoran Desert (12th)",
-                  "url": "https://youtu.be/nwiRTjunCJA?t=228"
                 }
               ]
             }
@@ -215,14 +195,6 @@
                 {
                   "text": "King Corn (11th)",
                   "url": "https://www.youtube.com/watch?v=tbRHGHYMGpU"
-                },
-                {
-                  "text": "The Legacy of Copper Mining in Arizona (12th)",
-                  "url": "https://www.youtube.com/watch?v=BucmR-kWwmo"
-                },
-                {
-                  "text": "Conflicted Over Copper (12th)",
-                  "url": "https://youtu.be/1w5ca5A9lIY"
                 }
               ]
             }
@@ -253,10 +225,6 @@
                 {
                   "text": "The Loess Hills (11th)",
                   "url": "https://youtu.be/nUzcmqcA-T0"
-                },
-                {
-                  "text": "Canada's Boreal Forest (12th)",
-                  "url": "https://www.youtube.com/watch?v=uhe5FHbmpbc"
                 }
               ]
             },
@@ -315,10 +283,6 @@
                 {
                   "text": "The Driftless Area (11th)",
                   "url": "https://www.youtube.com/watch?v=R22RTkcpp-c"
-                },
-                {
-                  "text": "Cree Documentary Trailer (12th)",
-                  "url": "https://www.youtube.com/watch?v=HoxJ9zwCIhA"
                 }
               ]
             },
@@ -338,7 +302,7 @@
               "links": [
                 {
                   "text": "First People's Buffalo Jump",
-                  "url": "https://www.youtube.com/watch?v=kdqoezMbBHY&t=526s"
+                  "url": "https://youtu.be/kdqoezMbBHY?si=fv1OPWrSH8t8WoHN"
                 }
               ]
             }
@@ -369,10 +333,6 @@
                 {
                   "text": "\"This is the City Oil Built\" (11th)",
                   "url": "https://www.youtube.com/watch?v=p9uGIT5xaGw&t=26s"
-                },
-                {
-                  "text": "Inuit History and Culture (12th)",
-                  "url": "https://www.youtube.com/watch?v=mzyr7W_QDqI"
                 }
               ]
             },
@@ -427,10 +387,6 @@
                 {
                   "text": "The Great Plains (11th)",
                   "url": "https://www.youtube.com/watch?v=4MJPBpY3y8k"
-                },
-                {
-                  "text": "Mendenhall Glacier (12th)",
-                  "url": "https://youtu.be/OTEtXnc9owk"
                 }
               ]
             }
@@ -461,10 +417,6 @@
                 {
                   "text": "The Selkirk Settlers (11th)",
                   "url": "https://www.youtube.com/watch?v=q5es68RFzN0"
-                },
-                {
-                  "text": "History of Vancouver (12th)",
-                  "url": "https://www.youtube.com/watch?v=xHEwPNnRmuM"
                 }
               ]
             },
@@ -515,10 +467,6 @@
                 {
                   "text": "Nebraska Stories (11th)",
                   "url": "https://www.youtube.com/watch?v=MPabTAMrWME"
-                },
-                {
-                  "text": "Roots of El Pueblo (12th)",
-                  "url": "https://www.youtube.com/watch?v=0-jFL40GrOM&t=74s"
                 }
               ]
             },
@@ -581,10 +529,6 @@
                 {
                   "text": "Lakota Empire (11th)",
                   "url": "https://www.youtube.com/watch?v=C-fQo8zmiPQ"
-                },
-                {
-                  "text": "Final Sugar Harvest (12th)",
-                  "url": "https://www.youtube.com/watch?v=tXEdZMIc5v0"
                 }
               ]
             }
