@@ -269,8 +269,11 @@ async function main() {
 
       const filename = `${record.id}-${slug}.pdf`;
 
+      const pdfPrintingStatus = String(record.pdfPrintingStatus || "").trim().toLowerCase();
+
       const shouldRender =
         RENDER_MODE === "all" ||
+        pdfPrintingStatus === "needs update" ||
         currentHash !== previousHash;
 
       if (!shouldRender) {
