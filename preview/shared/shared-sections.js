@@ -129,57 +129,60 @@ function renderHeaderItem(item, headerEditUrl = "") {
   if (item.kind === "books-resources") {
     const iconSrc = "../images/header_icons/Books & Resources.png";
     const linkUrl = item.linkUrl || "";
+    const hasBookGroups = (item.groups || []).some(group => (group.books || []).length);
   
-    return `
-      <section class="flow-block header-block header-group-block">
-        ${headerEditUrl ? `
-          <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
-        ` : ""}
-        <div class="header-panel">
-          <div class="header-panel-icon-col">
-            <img src="${iconSrc}" alt="Books & Resources" class="header-panel-icon" />
-          </div>
-  
-          <div class="header-panel-content books-resources-content">
-            <h3 class="header-entry-title">Books & Resources</h3>
-  
-            <p class="books-resources-intro">
-              For book rationales and purchase options, click the Book List link or<br>
-              scan the QR code below.
-            </p>
-  
-            ${linkUrl ? `
-              <p class="books-resources-link-line">
-                ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
-              </p>
-            ` : `
-              <p class="books-resources-empty">(No Books Assigned)</p>
-            `}
-  
-            <div class="books-resources-list">
-              ${(item.groups || []).map(group => `
-                <div class="books-resource-group ${group.type === "course" ? "books-resource-course" : "books-resource-topic"}">
-                  <h4>${escapeHtml(group.title || "")}</h4>
-  
-                  ${(group.books || []).map(book => {
-                    const title = typeof book === "string" ? book : book.title;
-                    const resourceId = typeof book === "string" ? "" : book.resourceId;
-                    const imgSrc = resourceId ? `../images/resource_covers/${escapeHtml(resourceId)}.webp` : "";
-                  
-                    return `
-                      <div class="books-resource-book">
-                        ${imgSrc ? `<img src="${imgSrc}" alt="" class="books-resource-cover" />` : `<div class="books-resource-cover-placeholder"></div>`}
-                        <div class="books-resource-title">${escapeHtml(title || "")}</div>
+        return `
+          <section class="flow-block header-block header-group-block">
+            ${headerEditUrl ? `
+              <a href="${escapeHtml(headerEditUrl)}" target="_blank" class="preview-only edit-button header-margin-edit">Edit</a>
+            ` : ""}
+            <div class="header-panel">
+              <div class="header-panel-icon-col">
+                <img src="${iconSrc}" alt="Books & Resources" class="header-panel-icon" />
+              </div>
+      
+              <div class="header-panel-content books-resources-content">
+                <h3 class="header-entry-title">Books & Resources</h3>
+      
+                <p class="books-resources-intro">
+                  For book rationales and purchase options, click the Book List link or<br>
+                  scan the QR code below.
+                </p>
+      
+                ${hasBookGroups && linkUrl ? `
+                  <p class="books-resources-link-line">
+                    ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
+                  </p>
+                ` : `
+                  <p class="books-resources-empty">(No Books Assigned)</p>
+                `}
+      
+                ${hasBookGroups ? `
+                  <div class="books-resources-list">
+                    ${(item.groups || []).map(group => `
+                      <div class="books-resource-group ${group.type === "course" ? "books-resource-course" : "books-resource-topic"}">
+                        <h4>${escapeHtml(group.title || "")}</h4>
+        
+                        ${(group.books || []).map(book => {
+                          const title = typeof book === "string" ? book : book.title;
+                          const resourceId = typeof book === "string" ? "" : book.resourceId;
+                          const imgSrc = resourceId ? `../images/resource_covers/${escapeHtml(resourceId)}.webp` : "";
+                        
+                          return `
+                            <div class="books-resource-book">
+                              ${imgSrc ? `<img src="${imgSrc}" alt="" class="books-resource-cover" />` : `<div class="books-resource-cover-placeholder"></div>`}
+                              <div class="books-resource-title">${escapeHtml(title || "")}</div>
+                            </div>
+                          `;
+                        }).join("")}
                       </div>
-                    `;
-                  }).join("")}
-                </div>
-              `).join("")}
+                    `).join("")}
+                  </div>
+                ` : ""}
+              </div>
             </div>
-          </div>
-        </div>
-      </section>
-    `;
+          </section>
+        `;
   }
 
     if (item.kind === "supplies-resources") {
