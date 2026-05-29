@@ -20,6 +20,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recTGr2FHIhXq8nqX-literature-grade-3.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Transitioning from Oral to Written Narration",
@@ -44,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.559Z",
+  "updatedAt": "2026-05-29T19:28:41.942Z",
   "terms": [
     {
       "termNumber": 3,

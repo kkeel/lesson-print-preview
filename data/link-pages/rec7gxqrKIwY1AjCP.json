@@ -21,6 +21,8 @@
     "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recmbtUVxlW0bO2jV",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/rec7gxqrKIwY1AjCP-science-microbiology.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Nature Journal Connection",
@@ -66,7 +68,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.848Z",
+  "updatedAt": "2026-05-29T19:28:42.216Z",
   "terms": [
     {
       "termNumber": 1,

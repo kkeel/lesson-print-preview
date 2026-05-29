@@ -18,6 +18,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recdHlNASa21NJDa3-bible-history-grade-9.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Foundations (See Section 6: Bible)",
@@ -28,7 +30,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.355Z",
+  "updatedAt": "2026-05-29T19:28:41.715Z",
   "terms": [
     {
       "termNumber": 3,

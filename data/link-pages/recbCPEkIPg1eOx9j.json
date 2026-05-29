@@ -20,6 +20,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recbCPEkIPg1eOx9j-citizenship-grade-5.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Community Read Alouds",
@@ -93,7 +95,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.365Z",
+  "updatedAt": "2026-05-29T19:28:41.738Z",
   "terms": [
     {
       "termNumber": 1,

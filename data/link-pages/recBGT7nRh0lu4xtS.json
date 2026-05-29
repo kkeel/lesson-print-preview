@@ -16,6 +16,8 @@
     "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recgESzLLnd2ZR8cn",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recBGT7nRh0lu4xtS-sloyd-level-4.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Sloyd Introduction Video",
@@ -33,7 +35,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.543Z",
+  "updatedAt": "2026-05-29T19:28:41.927Z",
   "terms": [
     {
       "termNumber": 1,

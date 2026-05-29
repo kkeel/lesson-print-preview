@@ -21,6 +21,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recEEarcmNuLNtGHh-bible-grades-7-8.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Video overviews of Bible books from Bible Project",
@@ -52,7 +54,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.348Z",
+  "updatedAt": "2026-05-29T19:28:41.708Z",
   "terms": [
     {
       "termNumber": 1,

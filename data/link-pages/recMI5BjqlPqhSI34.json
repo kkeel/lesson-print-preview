@@ -19,6 +19,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recMI5BjqlPqhSI34-folk-dancing.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "SoundCloud Song Playlist",
@@ -43,7 +45,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.727Z",
+  "updatedAt": "2026-05-29T19:28:42.115Z",
   "terms": [
     {
       "termNumber": 1,

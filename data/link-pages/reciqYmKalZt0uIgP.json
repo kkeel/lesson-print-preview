@@ -21,6 +21,8 @@
     "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recd3Rk2unWYZgixW",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/reciqYmKalZt0uIgP-science-grade-1.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Foundations (See Section 13: Science)",
@@ -59,7 +61,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.735Z",
+  "updatedAt": "2026-05-29T19:28:42.124Z",
   "terms": [
     {
       "termNumber": 1,

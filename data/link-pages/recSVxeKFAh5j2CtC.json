@@ -20,6 +20,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recSVxeKFAh5j2CtC-history-grade-10-canada.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Foundations (See Section 15: History)",
@@ -30,7 +32,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.526Z",
+  "updatedAt": "2026-05-29T19:28:41.907Z",
   "terms": [
     {
       "termNumber": 1,

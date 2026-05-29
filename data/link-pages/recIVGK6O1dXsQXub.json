@@ -20,6 +20,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recIVGK6O1dXsQXub-history-grade-9-canada.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "History Charts & Timelines Scope & Sample",
@@ -44,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.518Z",
+  "updatedAt": "2026-05-29T19:28:41.901Z",
   "terms": [
     {
       "termNumber": 1,

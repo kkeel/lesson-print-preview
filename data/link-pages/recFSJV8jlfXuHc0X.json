@@ -16,6 +16,8 @@
     "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recpmAVPZE4aoIEGv",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recFSJV8jlfXuHc0X-picture-study.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Art Print Set",
@@ -40,7 +42,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.327Z",
+  "updatedAt": "2026-05-29T19:28:41.687Z",
   "terms": [
     {
       "termNumber": 1,

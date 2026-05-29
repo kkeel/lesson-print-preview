@@ -18,9 +18,11 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recwsiRVhKWADoRcy-poetry-study-grade-7.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-05-29T18:49:32.602Z",
+  "updatedAt": "2026-05-29T19:28:41.984Z",
   "terms": [
     {
       "termNumber": 1,

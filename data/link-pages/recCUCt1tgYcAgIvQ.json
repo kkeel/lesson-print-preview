@@ -20,6 +20,8 @@
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
     "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/recCUCt1tgYcAgIvQ-language-study-grade-8.pdf",
+    "lessonPdfStatus": "active",
+    "lessonPdfLabel": "Lesson PDF",
     "additional": [
       {
         "label": "Grammar Voyage Teacher Manual",
@@ -51,7 +53,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T18:49:32.437Z",
+  "updatedAt": "2026-05-29T19:28:41.814Z",
   "terms": [
     {
       "termNumber": 1,
