@@ -26,7 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec3N3kFIZxbpKFYW",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recWjMKdkAcXHiShJ-poetry-reading-grades-9-12.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -888,11 +888,16 @@
               "lessonLabel": "Lesson 32",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 32",
-              "body": "",
+              "body": "Walt Whitman\n\n➜ INTRO \nIf you are taking the History of Literature course, you will have already met Walt Whitman this week, an unconventional poet influenced by Transcendentalist ideas who wrote in a style all his own.\n\n➜ READ, NARRATE, & DISCUSS\n∞ PDF Link: Walt Whitman Poems\nYou will have more time next class to read whichever poems you do not have time to read today. Be sure to look at the discussion questions on the last page.\n\n• What themes do you recognize in Whitman's poems? Which one did you enjoy the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recbjYVIgPA0jlDhL",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=2&week=16",
+              "links": [
+                {
+                  "text": "Walt Whitman Poems",
+                  "url": "https://drive.google.com/file/d/1lTlTpF1TJVwMa5zPuIQKxwIJwQmaJCxs/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recQtGVQlHsaL9koX",
@@ -904,11 +909,20 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 33",
-              "body": "",
+              "body": "Walt Whitman, cont.\n\n➜ RECAP\nWhich Whitman poem from last class do you remember the best?\n\n➜ INTRO\nHave you come across the term \"elegy\" in your study of poetry so far? An elegy is a melancholy, reflective lyric poem written to commemorate the death of a person or any other type of loss. Typically, these poems contain lament, praise, and then often turn to consolation. \"When Lilacs Last in the Dooryard Bloom’d\" is an elegy written by Whitman after the death of Abraham Lincoln. After Lincoln's assassination, his body travelled the 1600 miles from Washington, DC to Illinois.\n\n➜ READ, NARRATE, & DISCUSS\n∞ Link: When Lilacs Last in the Dooryard Bloom’d\n\n• What elements of elegy do you recognize in this poem? How is the poem structured? Can you trace the themes that develop over the sixteen sections?\n\nContinue reading any of the poems from the collection last class.\n∞ PDF Link: Walt Whitman Poems\n\n• What themes do you recognize in Whitman's poems? Which one did you enjoy the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recQtGVQlHsaL9koX",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=2&week=17",
+              "links": [
+                {
+                  "text": "When Lilacs Last in the Dooryard Bloom’d",
+                  "url": "https://www.poetryfoundation.org/poems/45480/when-lilacs-last-in-the-dooryard-bloomd"
+                },
+                {
+                  "text": "Walt Whitman Poems",
+                  "url": "https://drive.google.com/file/d/1lTlTpF1TJVwMa5zPuIQKxwIJwQmaJCxs/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recG85Vu2zQq1ZMK3",
@@ -920,7 +934,7 @@
               "lessonLabel": "Lesson 34",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 34",
-              "body": "",
+              "body": "Emily Dickinson\n\n➜ INTRO\nIf you are taking the History of Literature course, you will have met Emily Dickinson this week, who was largely unknown and \n\n➜ READ, NARRATE, & DISCUSS\n∞ PDF Link: Walt Whitman Poems\nYou will have more time next class to read whichever poems you do not have time to read today. Be sure to look at the discussion questions on the last page.\n\n• What themes do you recognize in Whitman's poems? Which one did you enjoy the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recG85Vu2zQq1ZMK3",
               "lessonLinksUrl": "",
@@ -936,7 +950,7 @@
               "lessonLabel": "Lesson 35",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 35",
-              "body": "",
+              "body": "Dickinson",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recAjhsSMA0M4ddyw",
               "lessonLinksUrl": "",
@@ -952,11 +966,16 @@
               "lessonLabel": "Lesson 36",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 36",
-              "body": "",
+              "body": "The Aeneid - Preparation\n\n➜ INTRO\nBefore you begin reading The Aeneid next class, spend today getting acquainted with the text. Look at the glossary of characters at the back, which you will refer to often. Begin reading the first thirty lines or so to get a feel for the language.\n\n➜ READ, NARRATE, & DISCUSS\nThis helpful introduction to the Aeneid should give you a clear overview of the context of the epic and the general plot before we dive into the poem itself. You can read it today (skip the three exercises), and refer to it as you are reading the poem if you feel stuck.\n∞ Link: Introduction to Virgil's Aeneid",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recknZtlUYYBobkDM",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=2&week=18",
+              "links": [
+                {
+                  "text": "Introduction to Virgil's Aeneid",
+                  "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=21348&printable=1"
+                }
+              ]
             },
             {
               "lessonId": "recyrgMcA50qTN6Jn",
@@ -968,14 +987,14 @@
               "lessonLabel": "Lesson 37",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 37",
-              "body": "The Aeneid - Introduction\n⍞ Materials: The Aeneid\n\n➜ INTRO\nWhat do you know about an \"epic\" – what are the connotations of the word more broadly, and what do you know about epics in literature? Name any you have read and what you remember about epic conventions.\nVirgil's Aeneid is an epic that owes much to Homer's two books, The Iliad and the Odyssey, which you may have already read in part or as a retelling. Chronologically, the story of The Aeneid picks up where the Iliad left off - with the fall of Troy - but Virgil lived 700-800 years after Homer, in a very different world. During Virgil's lifetime, the Roman Republic was coming to an - at times violent - end, and amid this uncertainly, Virgil looked backwards and chose the founding of Rome as his epic subject: following the Trojan Aeneas from the destruction of Troy to the founding of a new city.\nC.S. Lewis, in his Preface to Paradise Lost, saw epics like the Iliad, the Odyssey, and Beowulf, as \"Primary Epics\": they are works written down after a long tradition of oral storytelling, and tell the story of heroic deeds in order that such deeds may be remembered. They are myth-making stories, far more concerned with the life of one hero - Achilles, Odysseus, Beowulf - than with the wider historical context.\nHowever, Lewis argues that something new happens with Virgil, and the Aeneid is the earliest example of a \"Secondary Epic\": \"one of the most important revolutions in the history of poetry.\" In The Aeneid, Lewis writes, Virgil \"decides to take one single national legend and treat it in such a way that we feel the vaster theme to be somehow implicit in it. He has to tell a comparatively short story and give us the illusion of having lived through a great space of time. He has to deal with a limited number of personages and make us feel as if national, or almost cosmic, issues are involved. He must locate his action in a legendary past and yet make us feel the present, and the intervening centuries, already foreshadowed.\"\n\n➜ READ, NARRATE, & DISCUSS\n1\\. This helpful introduction to the Aeneid should give you a clear overview of the context of the epic and the general plot before we dive into the poem itself. You can read some of it today (skip the three exercises), or refer to it as you are reading the poem if you feel stuck.\n∞ Link: Introduction to Virgil's Aeneid\n\n2\\. Book 1, lines 1-96 \"Wars and a man I sing\" - \"King of Cloudbursts.\"\n• Today is a short reading to allow you time to look up characters in the Pronouncing Glossary (p.424-484) and begin to make a character list, if you would find that helpful.",
+              "body": "The Aeneid - Introduction\n⍞ Materials: The Aeneid\n\n➜ INTRO\nWhat do you know about an \"epic\" – what are the connotations of the word more broadly, and what do you know about epics in literature? Name any you have read and what you remember about epic conventions.\nVirgil's Aeneid is an epic that owes much to Homer's two books, The Iliad and the Odyssey, which you may have already read in part or as a retelling. Chronologically, the story of The Aeneid picks up where the Iliad left off - with the fall of Troy - but Virgil lived 700-800 years after Homer, in a very different world. During Virgil's lifetime, the Roman Republic was coming to an - at times violent - end, and amid this uncertainly, Virgil looked backwards and chose the founding of Rome as his epic subject: following the Trojan Aeneas from the destruction of Troy to the founding of a new city.\nC.S. Lewis, in his Preface to Paradise Lost, saw epics like the Iliad, the Odyssey, and Beowulf, as \"Primary Epics\": they are works written down after a long tradition of oral storytelling, and tell the story of heroic deeds in order that such deeds may be remembered. They are myth-making stories, far more concerned with the life of one hero - Achilles, Odysseus, Beowulf - than with the wider historical context.\nHowever, Lewis argues that something new happens with Virgil, and the Aeneid is the earliest example of a \"Secondary Epic\": \"one of the most important revolutions in the history of poetry.\" In The Aeneid, Lewis writes, Virgil \"decides to take one single national legend and treat it in such a way that we feel the vaster theme to be somehow implicit in it. He has to tell a comparatively short story and give us the illusion of having lived through a great space of time. He has to deal with a limited number of personages and make us feel as if national, or almost cosmic, issues are involved. He must locate his action in a legendary past and yet make us feel the present, and the intervening centuries, already foreshadowed.\"\n\n➜ READ, NARRATE, & DISCUSS\nBook 1, lines 1-96 \"Wars and a man I sing\" - \"King of Cloudbursts.\"\n\n• Today is a short reading to allow you time to look up characters in the Pronouncing Glossary (p.424-484) and begin to make a character list, if you would find that helpful.",
               "teacherNotes": "• COMPOSITION - Compare/Contrast\nCompare The Aeneid's opening Invocation to the Muse (lines 1-13) to the openings of The Iliad and The Odyssey.\n∞ PDF Link: Iliad Opening Lines\n∞PDF Link: Odyssey Opening Lines\n• How is Virgil both imitating Homer and also doing something very new?",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recyrgMcA50qTN6Jn",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recWjMKdkAcXHiShJ&term=2&week=19",
               "links": [
                 {
-                  "text": "Introduction to Virgil's Aeneid",
-                  "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=21348&printable=1"
+                  "text": "Iliad Opening Lines",
+                  "url": "https://drive.google.com/file/d/1xGDJZVV0ku1aP9B8k-1n2BNL5uk3Jtbd/view?usp=drive_link"
                 }
               ]
             },
@@ -1581,6 +1600,10 @@
         {
           "term": "Term 1",
           "content": "· Describe the themes and style of the Romantic poets. Either make reference to and compare several of the poets you read this term, or do a deeper reflection on one individual poet.\n\n· Reflect on your reading of Rabindranath Tagore this term. What are some of the major themes in The Crescent Moon? How would you describe his poetry style? Can you compare his work to other poetry you read this term?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· George Herbert Palmer wrote that \"we get used to things and how dull things then become! . . . The genuine poet never grows used to anything.\" Support or refute this statement with reference to some of the poetry you have read this term."
         }
       ]
     }

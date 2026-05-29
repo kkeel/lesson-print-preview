@@ -20,8 +20,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recm2gFfuHCv4GF4r",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recOVUsATXEDrO4bB-general-lit-grade-4.pdf",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recm2gFfuHCv4GF4r",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -138,7 +138,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recOVUsATXEDrO4bB",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recm2gFfuHCv4GF4r",
           "groups": [
             {
               "title": "Related Course Quick Links",

@@ -57,7 +57,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T16:29:20.175Z",
+  "updatedAt": "2026-05-29T17:47:50.705Z",
   "terms": [
     {
       "termNumber": 1,
@@ -268,12 +268,12 @@
               "anchor": "term-1-week-4-lesson-8",
               "links": [
                 {
-                  "text": "Blank Great Lakes Map",
-                  "url": "https://www.d-maps.com/carte.php?num_car=167231&lang=en"
-                },
-                {
                   "text": "The American War | 1812 Virtual Exhibition",
                   "url": "https://www.warmuseum.ca/war-of-1812/explore-history/the-american-war/"
+                },
+                {
+                  "text": "Blank Great Lakes Map",
+                  "url": "https://www.d-maps.com/carte.php?num_car=167231&lang=en"
                 }
               ]
             }
