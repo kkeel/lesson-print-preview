@@ -860,13 +860,14 @@ function buildBooksResources(packetRecord, allLessonRecordsById) {
     }
   }
 
-    return {
-      kind: "books-resources",
-      title: "Books & Resources",
-      linkUrl,
-      hasBookList: Boolean(linkUrl),
-      groups
-    };
+      if (!groups.length && !linkUrl) return null;
+
+      return {
+        kind: "books-resources",
+        title: "Books & Resources",
+        linkUrl,
+        groups
+      };
 }
 
 function splitSupplies(value) {
