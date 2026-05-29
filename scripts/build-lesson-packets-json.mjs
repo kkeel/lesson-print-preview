@@ -73,6 +73,7 @@ const LESSON_FIELDS = [
   "Supply List Link",
   "PDF Link URL",
   "PDF Printing Status",
+  "Hide PDF",
   "Extra Helpings Link",
   "Link Page",
   "SS Row Lables",
@@ -2107,6 +2108,7 @@ function buildPacket(record, headerLookup) {
   const supplyListUrl = normalizeText(fields["Supply List Link"]);
   const pdfLinkUrl = normalizeText(fields["PDF Link URL"]);
   const pdfPrintingStatus = normalizeText(fields["PDF Printing Status"]);
+  const hidePdf = normalizeText(fields["Hide PDF"]);
   const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
@@ -2155,6 +2157,7 @@ function buildPacket(record, headerLookup) {
     pdfLinkUrl,
     pdfPrintingStatus,
     extraHelpingsUrl,
+    hidePdf,
 
     syllabird: {
       status: normalizeText(fields["Syllabird Status"]),
