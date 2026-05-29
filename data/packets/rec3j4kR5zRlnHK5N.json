@@ -26,6 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec6vgxAyalXbH09U",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec3j4kR5zRlnHK5N-literature-grade-12.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Do Not Import",
@@ -279,7 +280,7 @@
                   "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
+                  "sort": "3",
                   "sourceTitle": "Literature: Grade 12"
                 }
               ]

@@ -32,6 +32,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recqPFlXwOkzzE9g5",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recZGHKsN28hjbXRy-current-events-grades-9-12.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -237,7 +238,7 @@
                 {
                   "id": "recb0bwWGjfqzTwCb",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "1",
                   "sourceTitle": "Citizenship: Grade 12"
                 },

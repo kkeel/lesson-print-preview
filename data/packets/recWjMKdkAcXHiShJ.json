@@ -26,6 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec3N3kFIZxbpKFYW",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recWjMKdkAcXHiShJ-poetry-reading-grades-9-12.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -187,7 +188,7 @@
                   "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
+                  "sort": "3",
                   "sourceTitle": "Literature: Grade 11"
                 }
               ]

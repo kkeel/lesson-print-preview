@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec7jlz4INbdwK5bW",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recd6XCeHV3xyL0Dw-classic-lit-grade-2.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -138,15 +139,15 @@
                 {
                   "id": "recjhvxb6QyZbA4Ec",
                   "label": "Community Read Alouds",
-                  "url": "#",
-                  "sort": "",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
+                  "sort": "1",
                   "sourceTitle": "Literature: Grade 2"
                 },
                 {
                   "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
+                  "sort": "3",
                   "sourceTitle": "Literature: Grade 2"
                 }
               ]

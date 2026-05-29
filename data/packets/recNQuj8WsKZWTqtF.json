@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recDoQA8wNGbAHwcV",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recNQuj8WsKZWTqtF-lit-mythology-grade-3.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -149,7 +150,7 @@
                 {
                   "id": "recAaOfUwMqX45G3u",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "2",
                   "sourceTitle": "Literature: Grade 3"
                 },
@@ -157,7 +158,7 @@
                   "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
+                  "sort": "3",
                   "sourceTitle": "Literature: Grade 3"
                 }
               ]

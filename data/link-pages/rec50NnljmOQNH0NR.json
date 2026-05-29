@@ -33,13 +33,13 @@
       {
         "label": "Foundations (See Section 9: Literature)",
         "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-        "sort": "",
+        "sort": "3",
         "groupTitle": "Literature: Grade 9",
         "groupType": "course"
       }
     ]
   },
-  "updatedAt": "2026-05-29T09:00:05.482Z",
+  "updatedAt": "2026-05-29T14:01:16.923Z",
   "terms": [
     {
       "termNumber": 1,

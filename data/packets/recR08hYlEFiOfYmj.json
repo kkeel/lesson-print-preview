@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recWWEU1EbV3tOF7z",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recR08hYlEFiOfYmj-econ-civics-grade-11-canada.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -142,7 +143,7 @@
                 {
                   "id": "recHA23HSsHsjjk5o",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "1",
                   "sourceTitle": "Citizenship: Grade 11 (Canada)"
                 },

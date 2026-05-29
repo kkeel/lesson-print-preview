@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec8rP4OZOxbQrWlK",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recIjTaWJviBZTIrd-canadian-gov-economics-grade-8.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -146,7 +147,7 @@
                 {
                   "id": "recKER2ltjeeaRcx9",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "1",
                   "sourceTitle": "Citizenship: Grade 8 (Canada)"
                 },

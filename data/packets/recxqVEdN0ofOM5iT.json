@@ -26,6 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec1S72WsvvGUak6E",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recxqVEdN0ofOM5iT-citizenship-grade-10-u-s.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Do Not Import",
@@ -198,7 +199,7 @@
                 {
                   "id": "recG1EnjCnbgL7XKV",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "1",
                   "sourceTitle": "Citizenship: Grade 10 (U.S.)"
                 },

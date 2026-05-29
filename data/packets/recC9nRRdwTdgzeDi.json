@@ -16,12 +16,13 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recKq3xS167wy1MJd",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recC9nRRdwTdgzeDi-written-narration-grade-7.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
-    "trackerTemplate": "",
-    "trackerTitleTemplate": "",
-    "perWeek": 0
+    "trackerTemplate": "➜ WRITTEN NARRATION\nComplete six written narrations this week. The rest will be oral narrations to yourself or your teacher. See the intro pages of the lesson plans for ideas on how to keep narrations varied and interesting!\n\n★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations and compositions regularly.",
+    "trackerTitleTemplate": "m Written Narration: Grade 7",
+    "perWeek": 6
   },
   "sections": [
     {

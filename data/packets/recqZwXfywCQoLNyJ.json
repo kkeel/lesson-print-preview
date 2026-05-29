@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rechdAl8LV3A6ohAz",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recqZwXfywCQoLNyJ-tall-tales-fables.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rechdAl8LV3A6ohAz",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -146,15 +147,15 @@
                 {
                   "id": "recXdZbVKVaMvcJ8u",
                   "label": "Community Read Alouds",
-                  "url": "#",
-                  "sort": "",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
+                  "sort": "1",
                   "sourceTitle": "Literature: Grade 1"
                 },
                 {
                   "id": "rec2bGFGKgRMuARuy",
                   "label": "Foundations (See Section 9: Literature)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
+                  "sort": "3",
                   "sourceTitle": "Literature: Grade 1"
                 }
               ]

@@ -16,12 +16,13 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reccQ7zHRgX1vfMIm",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recw3n8hXdAPGodOM-written-narration-grade-8.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
-    "trackerTemplate": "",
-    "trackerTitleTemplate": "",
-    "perWeek": 0
+    "trackerTemplate": "➜ WRITTEN NARRATION TRACKER\nComplete eight written narrations this week. The rest will be oral narrations to yourself or your teacher. See the intro pages of the lesson plans for ideas on how to keep narrations varied and interesting!\n\n★ TEACHER TIP\nMake sure students are practicing typing skills, and typing narrations and compositions regularly.",
+    "trackerTitleTemplate": "m Written Narration: Grade 8",
+    "perWeek": 8
   },
   "sections": [
     {

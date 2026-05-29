@@ -20,6 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rechwXMNqSazZ5Jib",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rech5WsJGtkFMro6Z-econ-civics-grade-10-canada.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -138,7 +139,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rech5WsJGtkFMro6Z",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recDekTcUZAaPPhjN",
+                  "label": "Community Read Alouds",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
+                  "sort": "",
+                  "sourceTitle": "Citizenship: Grade 10 (Canada)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

@@ -52,6 +52,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recV3I4tm3VgoAEO0",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recdlpC8UnGxOhpSZ-community-read-alouds-grades-1-12.pdf",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -307,11 +308,11 @@
               "type": "course",
               "links": [
                 {
-                  "id": "recnZdScgHW6Z6pjp",
+                  "id": "recjhcLMysikrJrT9",
                   "label": "Community Read Alouds",
-                  "url": "#",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
                   "sort": "1",
-                  "sourceTitle": "Citizenship: Grade 7 (U.S.)"
+                  "sourceTitle": "Citizenship: Grade 4"
                 },
                 {
                   "id": "rec83PcqCvh49yqa1",
@@ -321,6 +322,13 @@
                   "sourceTitle": "Literature: Grade 3"
                 },
                 {
+                  "id": "rec4vC7RBhG08PRRF",
+                  "label": "Foundations (See Section 7: Citizenship)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 4"
+                },
+                {
                   "id": "recsfJiCF7hzidhHY",
                   "label": "Setting Up a Citizenship Notebook",
                   "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
@@ -328,25 +336,18 @@
                   "sourceTitle": "Citizenship: Grade 7 (U.S.)"
                 },
                 {
+                  "id": "rec2bGFGKgRMuARuy",
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "3",
+                  "sourceTitle": "Literature: Grade 1"
+                },
+                {
                   "id": "reccc29cxCm45lxUV",
                   "label": "Video: How to Teach Plutarch (see Citizenship: Section 7)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
                   "sort": "3",
                   "sourceTitle": "Citizenship: Grade 5"
-                },
-                {
-                  "id": "rec4vC7RBhG08PRRF",
-                  "label": "Foundations (See Section 7: Citizenship)",
-                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
-                  "sourceTitle": "Citizenship: Grade 4"
-                },
-                {
-                  "id": "rec2bGFGKgRMuARuy",
-                  "label": "Foundations (See Section 9: Literature)",
-                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "",
-                  "sourceTitle": "Literature: Grade 1"
                 }
               ]
             }
