@@ -132,6 +132,7 @@ function getTopicRenderJobs(packet, mlSection) {
       key: `${packet.id}:topic:${topicSlug}`,
       type: "topic",
       packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
       outputPath: path.join(
         OUTPUT_PATHS.topics,
         `${packet.id}-${topicSlug}.pdf`
@@ -158,6 +159,7 @@ function getIndividualLessonJobs(packet, mlSection) {
         key: `${packet.id}:lesson:${lesson.id}`,
         type: "individualLesson",
         packetId: packet.id,
+        pdfPrintingStatus: packet.pdfPrintingStatus,
         outputPath: path.join(
           OUTPUT_PATHS.individualLessons,
           `${lesson.id}.pdf`
@@ -185,6 +187,7 @@ function getPacketRenderJobs(packet) {
       key: `${packet.id}:full-course`,
       type: "fullCourse",
       packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
       outputPath: path.join(
         OUTPUT_PATHS.fullCourse,
         `${packet.id}-full.pdf`
@@ -196,6 +199,7 @@ function getPacketRenderJobs(packet) {
       key: `${packet.id}:g1-3`,
       type: "grades13",
       packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
       outputPath: path.join(
         OUTPUT_PATHS.grades13,
         `${packet.id}-g1-3.pdf`
@@ -205,6 +209,7 @@ function getPacketRenderJobs(packet) {
       }),
       hashSource: {
         packetId: packet.id,
+        pdfPrintingStatus: packet.pdfPrintingStatus,
         variant: "g1-3",
         packet
       }
@@ -294,7 +299,7 @@ async function main() {
     const previousHash = manifest[job.key]?.hash;
 
     const pdfPrintingStatus =
-      String(record.pdfPrintingStatus || "")
+      String(job.pdfPrintingStatus || "")
         .trim()
         .toLowerCase();
     
