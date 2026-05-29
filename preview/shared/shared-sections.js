@@ -152,7 +152,9 @@ function renderHeaderItem(item, headerEditUrl = "") {
               <p class="books-resources-link-line">
                 ∞ <a href="${escapeHtml(linkUrl)}" target="_blank">View Book List Details</a>
               </p>
-            ` : ""}
+            ` : `
+              <p class="books-resources-empty">(No Books Assigned)</p>
+            `}
   
             <div class="books-resources-list">
               ${(item.groups || []).map(group => `
