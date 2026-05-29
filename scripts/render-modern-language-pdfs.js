@@ -293,8 +293,14 @@ async function main() {
     const currentHash = hashObject(job.hashSource);
     const previousHash = manifest[job.key]?.hash;
 
+    const pdfPrintingStatus =
+      String(record.pdfPrintingStatus || "")
+        .trim()
+        .toLowerCase();
+    
     const shouldRender =
       RENDER_MODE === "all" ||
+      pdfPrintingStatus === "needs update" ||
       currentHash !== previousHash ||
       !fs.existsSync(job.outputPath);
 
