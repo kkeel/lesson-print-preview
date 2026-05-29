@@ -20,8 +20,9 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recCQuj3cZ8Hd8QF8",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recrSWSoC0yNwPHrT-lit-mythology-grades-7-8.pdf",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recCQuj3cZ8Hd8QF8",
+  "hidePdf": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -142,7 +143,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recrSWSoC0yNwPHrT",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recCQuj3cZ8Hd8QF8",
           "groups": [
             {
               "title": "Related Course Quick Links",

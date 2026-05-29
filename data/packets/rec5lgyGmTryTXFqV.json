@@ -18,6 +18,7 @@
   "pdfLinkUrl": "https://planning.alveary.org/pdf/modern-language/full-course/rec5lgyGmTryTXFqV-full.pdf",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
+  "hidePdf": "Delay PDF",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

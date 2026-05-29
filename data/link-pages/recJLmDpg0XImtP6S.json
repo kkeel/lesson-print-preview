@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T17:47:50.775Z",
+  "updatedAt": "2026-05-29T18:40:49.233Z",
   "terms": [
     {
       "termNumber": 1,
@@ -876,6 +876,30 @@
                   "url": "https://drive.google.com/file/d/1lTlTpF1TJVwMa5zPuIQKxwIJwQmaJCxs/view?usp=drive_link"
                 }
               ]
+            },
+            {
+              "lessonId": "recSE11uZ1Pdm9HxM",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 17,
+              "weekLabel": "Week 5",
+              "sequence": 34,
+              "sort": 201704,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 34",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-17-lesson-34",
+              "links": [
+                {
+                  "text": "Emily Dickinson Poems",
+                  "url": "https://www.poetryfoundation.org/poets/emily-dickinson#tab-poems"
+                },
+                {
+                  "text": "Tips for Reading Emily Dickinson",
+                  "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/tips-for-reading/"
+                }
+              ]
             }
           ]
         },
@@ -883,6 +907,42 @@
           "weekNumber": 18,
           "weekLabel": "Week 6",
           "lessons": [
+            {
+              "lessonId": "recVtkHy1D7uXkb9a",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 18,
+              "weekLabel": "Week 6",
+              "sequence": 35,
+              "sort": 201802,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 35",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-18-lesson-35",
+              "links": [
+                {
+                  "text": "Poems by Emily Dickinson",
+                  "url": "https://poets.org/poet/emily-dickinson#tabbed-content"
+                },
+                {
+                  "text": "I Dwell in Possibility",
+                  "url": "https://poets.org/poem/i-dwell-possibility-30"
+                },
+                {
+                  "text": "A Bird Came Down the Walk",
+                  "url": "https://poets.org/poem/bird-came-down-walk-328"
+                },
+                {
+                  "text": "Hope is the Thing with Feathers",
+                  "url": "https://poets.org/poem/hope-thing-feathers-254"
+                },
+                {
+                  "text": "There is no Frigate like a Book",
+                  "url": "https://poets.org/poem/there-no-frigate-book-1263"
+                }
+              ]
+            },
             {
               "lessonId": "rec7HyCdX3R5MTaEB",
               "termNumber": 2,
@@ -976,6 +1036,42 @@
                 {
                   "text": "In the Bleak Midwinter",
                   "url": "https://www.youtube.com/watch?v=xAzQIS4-MpY"
+                }
+              ]
+            },
+            {
+              "lessonId": "recRVNQcs9sGhNUX0",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 21,
+              "weekLabel": "Week 9",
+              "sequence": 42,
+              "sort": 202104,
+              "lessonLabel": "",
+              "linkLabel": "Poetry Reading",
+              "title": "15m Poetry Reading: Grades 9-12 - Lesson 42",
+              "topicTitle": "Poetry Reading",
+              "anchor": "term-2-week-21-lesson-42",
+              "links": [
+                {
+                  "text": "Christina Rossetti poems",
+                  "url": "https://www.poetryfoundation.org/poets/christina-rossetti#tab-poems"
+                },
+                {
+                  "text": "Caterpillar",
+                  "url": "www.poetryfoundation.org/poems/1583829/caterpillar"
+                },
+                {
+                  "text": "Who Has Seen the Wind?",
+                  "url": "https://www.poetryfoundation.org/poems/43197/who-has-seen-the-wind"
+                },
+                {
+                  "text": "Remember",
+                  "url": "https://www.poetryfoundation.org/poems/45000/remember-56d224509b7ae"
+                },
+                {
+                  "text": "Echo",
+                  "url": "https://www.poetryfoundation.org/poems/50289/echo-56d22d3f77136"
                 }
               ]
             }

@@ -30,6 +30,7 @@
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec50NnljmOQNH0NR-literature-grade-9.pdf",
   "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
+  "hidePdf": "",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -3009,11 +3010,20 @@
               "lessonLabel": "",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 34",
-              "body": "Emily Dickinson\n\n➜ INTRO\nIf you are taking the History of Literature course, you will have met Emily Dickinson this week, who was largely unknown in her own time period, since little of he\n\n➜ READ, NARRATE, & DISCUSS\n∞ PDF Link: Walt Whitman Poems\nYou will have more time next class to read whichever poems you do not have time to read today. Be sure to look at the discussion questions on the last page.\n\n• What themes do you recognize in Whitman's poems? Which one did you enjoy the most?",
-              "teacherNotes": "",
+              "body": "Emily Dickinson\n\n➜ INTRO\nIf you are taking the History of Literature course, you will have met Emily Dickinson this week, who was largely unknown in her own time period, since little of her work was published, but she has become widely read and respected since the publication of her work after her death.\n\n➜ READ, NARRATE, & DISCUSS\n∞ Link: Emily Dickinson Poems\nChoose some poems by Dickinson to read today. If you get stuck, there are helpful tips for reading in Extra Helpings.\n\n• What themes do you recognize in Dickinson's poems? Which one did you enjoy the most?",
+              "teacherNotes": "• EXTRA HELPING\nTips for Reading Emily Dickinson's Poetry",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recG85Vu2zQq1ZMK3",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec50NnljmOQNH0NR&term=2&week=17",
+              "links": [
+                {
+                  "text": "Emily Dickinson Poems",
+                  "url": "https://www.poetryfoundation.org/poets/emily-dickinson#tab-poems"
+                },
+                {
+                  "text": "Tips for Reading Emily Dickinson",
+                  "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/tips-for-reading/"
+                }
+              ]
             },
             {
               "lessonId": "recdaPc0BcpNacIW2",
@@ -3111,11 +3121,32 @@
               "lessonLabel": "",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 35",
-              "body": "Dickinson",
+              "body": "Emily Dickinson, cont.\n\n➜ RECAP\nWhich of Dickinson's poems that you read last class did you enjoy the most?\n\n➜ READ, NARRATE, & DISCUSS\nChoose some other poems by Dickinson to read today from a different online resource. There are links below to some of her most well-known poems.\n∞ Link: Poems by Emily Dickinson\n\n∞ Link: I Dwell in Possibility\n∞ Link: A Bird Came Down the Walk\n∞ Link: Hope is the Thing with Feathers\n∞ Link: There is no Frigate like a Book\n\n• What themes do you recognize in Dickinson's poems? Which one did you enjoy the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recAjhsSMA0M4ddyw",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec50NnljmOQNH0NR&term=2&week=18",
+              "links": [
+                {
+                  "text": "Poems by Emily Dickinson",
+                  "url": "https://poets.org/poet/emily-dickinson#tabbed-content"
+                },
+                {
+                  "text": "I Dwell in Possibility",
+                  "url": "https://poets.org/poem/i-dwell-possibility-30"
+                },
+                {
+                  "text": "A Bird Came Down the Walk",
+                  "url": "https://poets.org/poem/bird-came-down-walk-328"
+                },
+                {
+                  "text": "Hope is the Thing with Feathers",
+                  "url": "https://poets.org/poem/hope-thing-feathers-254"
+                },
+                {
+                  "text": "There is no Frigate like a Book",
+                  "url": "https://poets.org/poem/there-no-frigate-book-1263"
+                }
+              ]
             },
             {
               "lessonId": "recoEipwGCn5v8Gj5",
@@ -3599,11 +3630,32 @@
               "lessonLabel": "",
               "linkLabel": "Poetry Reading",
               "title": "15m Poetry Reading: Grades 9-12 - Lesson 42",
-              "body": "",
+              "body": "Christina Rossetti\n\n➜ INTRO\nIf you are taking the History of Literature course, you will have met the English writer Christina Rossetti this week, who wrote devotional, lyrical, and romantic poetry, and who is closely associated with the Pre-Raphaelites, a school of artists and writers with Christina's brother Dante as one of its central members.\n\n➜ READ, NARRATE, & DISCUSS\n∞ Link: Christina Rossetti poems\nChoose some poems by Rossetti to read today.  Some suggestions:\n\n∞ Link: Caterpillar\n∞ Link: Who Has Seen the Wind?\n∞ Link: Remember\n∞ Link: Echo\n\n• What themes do you recognize in Rossetti's poems? Do they remind you of anything else you've read this term? Which one did you enjoy the most?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recWjMKdkAcXHiShJ&6J82c=recXoF0NioTl9IWyP",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec50NnljmOQNH0NR&term=2&week=21",
+              "links": [
+                {
+                  "text": "Christina Rossetti poems",
+                  "url": "https://www.poetryfoundation.org/poets/christina-rossetti#tab-poems"
+                },
+                {
+                  "text": "Caterpillar",
+                  "url": "www.poetryfoundation.org/poems/1583829/caterpillar"
+                },
+                {
+                  "text": "Who Has Seen the Wind?",
+                  "url": "https://www.poetryfoundation.org/poems/43197/who-has-seen-the-wind"
+                },
+                {
+                  "text": "Remember",
+                  "url": "https://www.poetryfoundation.org/poems/45000/remember-56d224509b7ae"
+                },
+                {
+                  "text": "Echo",
+                  "url": "https://www.poetryfoundation.org/poems/50289/echo-56d22d3f77136"
+                }
+              ]
             },
             {
               "lessonId": "recG06LpkIEcHu6Ly",
