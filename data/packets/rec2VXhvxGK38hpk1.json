@@ -20,7 +20,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recjxhOtJDBXK35Pc",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec2VXhvxGK38hpk1-u-s-history-grades-7-8.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recjxhOtJDBXK35Pc",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -287,8 +287,8 @@
               "lessonLabel": "Lesson 2",
               "linkLabel": "U.S. History",
               "title": "30m U.S. History: Grades 7-8 - Lesson 2",
-              "body": "Main Idea/Subtitle\n⍞ Materials: Sacajawea\n\n➜ INTRO\n\n\n➜ READ, NARRATE, & DISCUSS\nBegin with the \"Author's Note\", p.195-199. Read the Prologue, Ch. 1.\n\n•",
-              "teacherNotes": "",
+              "body": "The Beginning of the story\n⍞ Materials: Sacajawea\n\n➜ INTRO\nBy the age of 16, Sacajawea had been kidnapped from her tribe, gambled away to be a man's second wife, and was pregnant with that man's baby. That's when she would join the journey of Meriwether Lewis and William Clark down the Mississippi River and to the Pacific Ocean. But, where did her story begin? Joseph Bruchac, will explore the early life of Sacajawea as well as recounting her journey with Lewis and Clark which became one of the most famous expediitions to take place in American History. While it is well researched and Joseph Bruchac uses primary sources like the journals of Le  \n\n➜ READ, NARRATE, & DISCUSS\nBegin with the \"Author's Note\", p.195-199. Read the Prologue, Ch. 1.\n• How different Sacajawea's life would have been if she had stayed amongst her people?",
+              "teacherNotes": "• TERMINOLOGY\n\nThe Minnatree tribe were also known as the Hidatsa tribe. Hidatsa is the more common name.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec2VXhvxGK38hpk1&6J82c=recnxetHiNtRwaKeA",
               "lessonLinksUrl": "",
               "links": []
@@ -319,11 +319,16 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "U.S. History",
               "title": "30m U.S. History: Grades 7-8 - Lesson 4",
-              "body": "⍞ Materials: Sacajawea\n\n➜ RECAP\nWhat did you read last time?\n\n➜ INTRO\nInformation\n\n➜ READ, NARRATE, & DISCUSS\nCh.2-3\n\n• Discussion Question Idea",
+              "body": "⍞ Materials: Sacajawea\n\n➜ INTRO\nIn the election of 1800, Thomas Jefferson was announced as the third president of the United States. Arguably, one of his greatest actions as president came to be known as the Louisiana Purchase. Around summer of 1803, after the Louisiana purchase, Thomas Jefferson would choose a group of people including William Clark and  Meriwether Lewis to explore the newly acquired land. They would be called the Corps of Discovery. \n\n➜ VIEW\n∞ Link: Louisiana Purchase, 1803\nRead through the page and view the map for more information about the Louisiana purchase. \n\n➜ READ, NARRATE, & DISCUSS\nCh.2-3\n\n• How did Clark react when Lewis reached out to him about the exploration?\n• How did Sacajawea describe her time with the Minnetaree people?",
               "teacherNotes": "DEFINITIONS\nensign (p.9)-a junior officer in the military",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec2VXhvxGK38hpk1&6J82c=recbTFNC5iL2sNieO",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec2VXhvxGK38hpk1&term=1&week=2",
+              "links": [
+                {
+                  "text": "Louisiana Purchase, 1803",
+                  "url": "https://history.state.gov/milestones/1801-1829/louisiana-purchase"
+                }
+              ]
             },
             {
               "lessonId": "recAhR3ko1Fae5wHD",

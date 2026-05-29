@@ -17,7 +17,7 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recIhQ4iiPW6WWI3p",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recCADGKnoorm51Q6-nature-notebook-grade-7.pdf",
   "pdfPrintingStatus": "Current",
@@ -105,12 +105,6 @@
               "content": "Science: Grade 7\nEncourage students to choose their own special topic and to notice its ecological relationships. What or who are they curious about or interested in getting to know better? Teachers can choose their own special study, too!\n\n☐ Learn a few of your local species or varieties in connection with special topics."
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recIhQ4iiPW6WWI3p",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

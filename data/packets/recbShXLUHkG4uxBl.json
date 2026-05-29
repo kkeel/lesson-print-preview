@@ -27,10 +27,10 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recKONDSThlDgo2sF",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recbShXLUHkG4uxBl-current-events-grades-5-8.pdf",
-  "pdfPrintingStatus": "Needs Update",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recKONDSThlDgo2sF",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -151,12 +151,6 @@
               "content": "☐ Make sure your student sets up a Citizenship Notebook. They will need a 3-ring binder, lined notebook paper, and 5 Tabbed Dividers. You can read more about how to set one up and suggestions for various sections in the document in Quick Links. \n\n☐ As desired, plan for a read aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible.\n\n☐ Make a Calendar of Events for Current Events lessons by drawing a calendar grid in a notebook (or print a blank calendar from the internet).☐ Make sure your student sets up a Citizenship Notebook. They will need a 3-ring binder, lined notebook paper, and 5 Tabbed Dividers. You can read more about how to set one up and suggestions for various sections in the document in Quick Links. \n\n☐ As desired, plan for a read-aloud time. Suggestions are provided in the Community Read Aloud Quick Link, but local favorites are highly recommended whenever possible.\n\n☐ Make a Calendar of Events for Current Events lessons by drawing a calendar grid in a notebook (or print a blank calendar from the internet)."
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recKONDSThlDgo2sF",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

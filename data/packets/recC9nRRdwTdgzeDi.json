@@ -13,7 +13,7 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recKq3xS167wy1MJd",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recC9nRRdwTdgzeDi-written-narration-grade-7.pdf",
   "pdfPrintingStatus": "Current",
@@ -105,7 +105,7 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recKq3xS167wy1MJd",
+          "linkUrl": "",
           "groups": [
             {
               "title": "Written Narration: Grade 7",

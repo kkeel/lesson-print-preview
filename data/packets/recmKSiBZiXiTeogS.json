@@ -17,14 +17,14 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec3wjqqrVBFzE4u0",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recmKSiBZiXiTeogS-dictation-grade-9.pdf",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "syllabird": {
     "status": "Needs Initial Import",
-    "trackerTemplate": "➜ LESSON\nComplete the next lesson.",
+    "trackerTemplate": "➜ DICTATE\nRotate through different books from your weekly readings to use for dictation. Check the lesson plan PDF for extra tips!",
     "trackerTitleTemplate": "20m Dictation: Grade 9",
     "perWeek": 1
   },
@@ -97,12 +97,6 @@
               "content": "Permission to print for non-commercial use. See Alveary group use policy to use lessons\nin a group context.\n\nLINKS: Click text or scan the QR code in the top corner of the lesson plan pages to view\nonline resources associated with the lessons.\n\nResponsibility for previewing all links rests with the teacher. All links were checked at the\ntime of publication; however, websites change frequently and may contain objectionable\ncontent. Please report broken links by contacting us through our website."
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec3wjqqrVBFzE4u0",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

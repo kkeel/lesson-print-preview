@@ -17,7 +17,7 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recQ3HXhu03p6uenW",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reckE0OR0ILeJX6TV-written-narration-grade-3.pdf",
   "pdfPrintingStatus": "Current",
@@ -101,12 +101,6 @@
               "content": "Written Narration: Grade 3\n☐ Aim to complete one written narration every week by the end of the year, but start with one every few weeks or every other week."
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recQ3HXhu03p6uenW",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

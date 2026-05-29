@@ -22,8 +22,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recGNjSnBxsRpw0L2",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recVRo4PZirdeIAkg-literature-grades-7-8.pdf",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recGNjSnBxsRpw0L2",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -180,7 +180,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recVRo4PZirdeIAkg",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recGNjSnBxsRpw0L2",
           "groups": [
             {
               "title": "Literature: Grades 7-8",

@@ -26,7 +26,7 @@
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recGxKOwi4E5amNPe",
-  "supplyListUrl": "",
+  "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recGxKOwi4E5amNPe",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recbxa7tAimxQiAER-music-intro.pdf",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recGxKOwi4E5amNPe",
@@ -213,7 +213,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recGxKOwi4E5amNPe",
           "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {

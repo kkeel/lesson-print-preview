@@ -19,7 +19,7 @@
     "Community Read Alouds: Grades 1-12"
   ],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec3ENdR6OOp4bNWw",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recK8yvTqP3qOQR56-citizenship-grade-12.pdf",
   "pdfPrintingStatus": "Current",
@@ -104,7 +104,7 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec3ENdR6OOp4bNWw",
+          "linkUrl": "",
           "groups": [
             {
               "title": "Citizenship: Grade 12",

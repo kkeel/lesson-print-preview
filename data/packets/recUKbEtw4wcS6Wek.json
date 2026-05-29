@@ -17,7 +17,7 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recCpyNoxymutvRzW",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recUKbEtw4wcS6Wek-physics-labs.pdf",
   "pdfPrintingStatus": "Current",
@@ -91,12 +91,6 @@
               "content": "Physics Labs\n☐ Preview science labs and purchase materials as indicated on the supply list. Print or shortcut any links, as desired."
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recCpyNoxymutvRzW",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

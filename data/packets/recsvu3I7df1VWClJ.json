@@ -17,7 +17,7 @@
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reck5xlGIru6FdJGO",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recsvu3I7df1VWClJ-nature-notebook-grade-6.pdf",
   "pdfPrintingStatus": "Current",
@@ -109,12 +109,6 @@
               "content": "Science: Grade 6\nObject lesson prompts are woven into the lessons, as appropriate, but teachers are encouraged to read corresponding Handbook of Nature Study (HoNS) selections each term and/or any that support special topics chosen by students:"
             }
           ]
-        },
-        {
-          "kind": "books-resources",
-          "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reck5xlGIru6FdJGO",
-          "groups": []
         },
         {
           "kind": "supplies-resources",

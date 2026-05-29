@@ -13,7 +13,7 @@
   "courseConnectionNames": [],
   "topicConnectionNames": [],
   "templateType": "standard",
-  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec9lmWtXdrU3jSHO",
+  "bookListUrl": "",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rech2GA4NRK0pGrqO-technology.pdf",
   "pdfPrintingStatus": "Current",
@@ -101,7 +101,7 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec9lmWtXdrU3jSHO",
+          "linkUrl": "",
           "groups": [
             {
               "title": "Technology",

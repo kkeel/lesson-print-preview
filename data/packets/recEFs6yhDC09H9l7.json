@@ -26,7 +26,7 @@
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recSKUZb0ksqYDJc1",
-  "supplyListUrl": "",
+  "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recSKUZb0ksqYDJc1",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recEFs6yhDC09H9l7-music-level-4.pdf",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
@@ -225,7 +225,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recSKUZb0ksqYDJc1",
           "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {

@@ -24,7 +24,7 @@
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=reciqxXCmGbHxO5Yi",
-  "supplyListUrl": "",
+  "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=reciqxXCmGbHxO5Yi",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec4PSJe5DvdQBNkI-science-grade-2.pdf",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reciqxXCmGbHxO5Yi",
@@ -192,7 +192,7 @@
         {
           "kind": "supplies-resources",
           "title": "Supplies",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/supply-details.html?view=course&id=reciqxXCmGbHxO5Yi",
           "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
           "groups": [
             {
