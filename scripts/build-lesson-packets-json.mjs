@@ -72,6 +72,7 @@ const LESSON_FIELDS = [
   "Supply IDs",
   "Supply List Link",
   "PDF Link URL",
+  "PDF Printing Status",
   "Extra Helpings Link",
   "Link Page",
   "SS Row Lables",
@@ -2105,6 +2106,7 @@ function buildPacket(record, headerLookup) {
   const bookListUrl = normalizeText(fields["Book List Link"]);
   const supplyListUrl = normalizeText(fields["Supply List Link"]);
   const pdfLinkUrl = normalizeText(fields["PDF Link URL"]);
+  const pdfPrintingStatus = normalizeText(fields["PDF Printing Status"]);
   const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
   const coverSubtitle = normalizeText(fields["Cover Subtitle"]);
@@ -2151,6 +2153,7 @@ function buildPacket(record, headerLookup) {
     bookListUrl,
     supplyListUrl,
     pdfLinkUrl,
+    pdfPrintingStatus,
     extraHelpingsUrl,
 
     syllabird: {
@@ -2219,7 +2222,8 @@ function buildIndexItem(packet) {
     isStandaloneCourse: !!packet.isStandaloneCourse,
     courseConnectionNames: packet.courseConnectionNames || [],
     topicConnectionNames: packet.topicConnectionNames || [],
-    previewUrl: `./preview/index.html?id=${encodeURIComponent(packet.id)}`
+    previewUrl: `./preview/index.html?id=${encodeURIComponent(packet.id)}`,
+    pdfPrintingStatus: packet.pdfPrintingStatus || "",
   };
 }
 
