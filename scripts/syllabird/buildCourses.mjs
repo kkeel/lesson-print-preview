@@ -38,6 +38,7 @@ const COURSE_FIELDS = [
   "Grade Filter",
   "Link Page",
   "Books",
+  "Book List Link",
   "Supplies",
   "Supply List Link",
   "Syllabird Status",
@@ -76,6 +77,9 @@ const CSV_HEADERS = [
   "course_description",
   "course_introduction"
 ];
+
+const BASIC_SUPPLIES_URL =
+  "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY";
 
 if (!AIRTABLE_TOKEN) {
   throw new Error("Missing AIRTABLE_TOKEN environment variable.");
@@ -290,28 +294,24 @@ function buildCourseIntroduction(headerRecords, courseFields) {
 
   return [
     htmlSection("Planning & Prep", joinNonEmptyBlocks(planningBlocks)),
-  
+
     buildChecklistHtml(
       "Books & Resources",
       courseFields["Books"],
-      courseFields["Link Page"]
+      courseFields["Book List Link"],
+      "(No books assigned)"
     ),
-  
-    buildChecklistHtml(
-      "Supplies",
-      courseFields["Supplies"],
-      courseFields["Supply List Link"]
-    ),
-  
+
+    buildSuppliesHtml(courseFields),
+
     buildQuickLinksHtml(courseFields)
-  
+
   ].filter(Boolean).join("");
 }
 
-function buildChecklistHtml(title, value, linkUrl = "") {
+function buildChecklistHtml(title, value, linkUrl = "", emptyMessage = "") {
   const items = normalizeArray(value);
-
-  if (!items.length && !linkUrl) return "";
+  const safeLinkUrl = normalizeText(linkUrl);
 
   const checklist = items.length
     ? `<ul>${items.map(item =>
@@ -319,14 +319,46 @@ function buildChecklistHtml(title, value, linkUrl = "") {
       ).join("")}</ul>`
     : "";
 
-  const linkHtml = linkUrl
-    ? `<p><a href="${escapeHtml(linkUrl)}">Click this text for full ${escapeHtml(title)} details</a></p>`
+  const linkHtml = safeLinkUrl
+    ? `<p><a href="${escapeHtml(safeLinkUrl)}">Click this text for full ${escapeHtml(title)} details</a></p>`
+    : "";
+
+  const emptyHtml = !items.length && emptyMessage
+    ? `<p>${escapeHtml(emptyMessage)}</p>`
     : "";
 
   return `
     <h2>${escapeHtml(title)}</h2>
     ${linkHtml}
     ${checklist}
+    ${emptyHtml}
+  `;
+}
+
+function buildSuppliesHtml(courseFields) {
+  const items = normalizeArray(courseFields["Supplies"]);
+  const supplyListLink = normalizeText(courseFields["Supply List Link"]);
+
+  const checklist = items.length
+    ? `<ul>${items.map(item =>
+        `<li>☐ ${escapeHtml(item)}</li>`
+      ).join("")}</ul>`
+    : "";
+
+  const subjectSuppliesHtml = supplyListLink
+    ? `<p><a href="${escapeHtml(supplyListLink)}">Click this text for full Supplies details</a></p>`
+    : "";
+
+  const emptyHtml = !items.length
+    ? `<p>(No subject supplies assigned)</p>`
+    : "";
+
+  return `
+    <h2>Supplies</h2>
+    <p><a href="${escapeHtml(BASIC_SUPPLIES_URL)}">Click this text for Basic Supplies</a></p>
+    ${subjectSuppliesHtml}
+    ${checklist}
+    ${emptyHtml}
   `;
 }
 
