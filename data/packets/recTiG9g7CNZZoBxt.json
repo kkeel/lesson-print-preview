@@ -20,8 +20,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recyJEQ4vVSOi8L6a",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recTiG9g7CNZZoBxt-mythology-hist-fiction-grade-4.pdf",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recyJEQ4vVSOi8L6a",
   "hidePdf": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -147,7 +147,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recTiG9g7CNZZoBxt",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recyJEQ4vVSOi8L6a",
           "groups": [
             {
               "title": "Related Course Quick Links",

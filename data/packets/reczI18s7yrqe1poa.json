@@ -30,8 +30,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recd3yaMAQJpdn7CR",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reczI18s7yrqe1poa-hymns-spirituals.pdf",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recd3yaMAQJpdn7CR",
   "hidePdf": "",
   "syllabird": {
     "status": "Needs Initial Import",
@@ -205,7 +205,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=reczI18s7yrqe1poa",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recd3yaMAQJpdn7CR",
           "groups": [
             {
               "title": "Hymns & Spirituals",
