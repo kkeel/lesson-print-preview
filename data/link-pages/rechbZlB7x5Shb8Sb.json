@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-31T08:31:17.840Z",
+  "updatedAt": "2026-05-31T14:22:00.298Z",
   "terms": [
     {
       "termNumber": 1,
@@ -400,10 +400,6 @@
                 {
                   "text": "Ephesians Summary",
                   "url": "https://bibleproject.com/view-resource/258/"
-                },
-                {
-                  "text": "Book of Ephesians Guide",
-                  "url": "https://bibleproject.com/guides/book-of-ephesians/"
                 }
               ]
             }
@@ -434,10 +430,6 @@
                 {
                   "text": "Hebrews Summary",
                   "url": "https://bibleproject.com/view-resource/266/"
-                },
-                {
-                  "text": "Book of Hebrews Guide",
-                  "url": "https://bibleproject.com/guides/book-of-hebrews/"
                 }
               ]
             }
