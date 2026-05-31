@@ -16,7 +16,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recJIxZb1XZli9xOn",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reczpuW6rvOyzzblj-history-grades-2-3-u-s.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recJIxZb1XZli9xOn",
   "hidePdf": "",
   "syllabird": {
@@ -67,7 +67,7 @@
               "label": "History: Grades 2-3 (U.S.)",
               "grade": "2-3",
               "scheduleInfo": "History: Grades 2-3 (U.S.)\n1 time/week 20 min",
-              "books": "Escape by Night: A Civil War Adventure||Dandelions||Buffalo Bird Girl: A Hidatsa Story||Coolies||Abraham Lincoln: An Initial Biography"
+              "books": "Escape by Night: A Civil War Adventure||Dandelions||Buffalo Bird Girl: A Hidatsa Story||Coolies||Abraham Lincoln: An Initial Biography||United States Atlas 7th Ed."
             }
           ],
           "weeklyView": {
@@ -123,6 +123,10 @@
                 {
                   "title": "Abraham Lincoln: An Initial Biography",
                   "resourceId": "recSAOpEMyKMiYvzx"
+                },
+                {
+                  "title": "United States Atlas 7th Ed.",
+                  "resourceId": "reczH8uwlnf97SywN"
                 }
               ]
             }
@@ -232,7 +236,7 @@
               "lessonLabel": "Lesson 1",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 1",
-              "body": "Kentucky\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nHave you heard the name Abraham Lincoln? What do you know about him? He was the 16th President of the United States. However, no one would have assumed a boy born in a log cabin and who barely went to school would grow up to become the President. This is the story of his life.\n\n➜ VIEW\n∞ Image Link: Replica of log cabin\nThis is a replica, or copy, of the one-room log cabin that Abraham Lincoln was born in. What would be hard about living there with your family? You can see the inside of a cabin in your book. \n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas p.14-15\nFind Kentucky. This is where Abraham Lincoln was born. \n\n➜ READ, NARRATE, & DISCUSS\np.5-14 \"It was a\" - \"was only seven.\"\n\n• How is Abraham's life different from yours?\n• How was life harder back then in the 1800s?\n\n➜ VIEW\n∞ Image Link: Photograph of Abraham Lincoln\nYou can use this for your wall timeline.",
+              "body": "Kentucky\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ INTRO\nHave you heard the name Abraham Lincoln? What do you know about him? He was the 16th President of the United States. However, no one would have assumed a boy born in a log cabin and who barely went to school would grow up to become the President. This is the story of his life.\n\n➜ VIEW\n∞ Image Link: Replica of log cabin\nThis is a replica, or copy, of the one-room log cabin where Abraham Lincoln was born. What would be hard about living there with your family? You can see the inside of a cabin in your book. \n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas p.14-15\nFind Kentucky. This is where Abraham Lincoln was born. \n\n➜ READ, NARRATE, & DISCUSS\np.5-14 \"It was a\" - \"was only seven.\"\n\n• How is Abraham's life different from yours?\n• How was life harder back then in the 1800s?\n\n➜ VIEW\n∞ Image Link: Photograph of Abraham Lincoln\nYou can use this for your wall timeline.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recypnrsotpPGbStj",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=1",
@@ -257,7 +261,7 @@
               "lessonLabel": "Lesson 2",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 2",
-              "body": "Indiana, His Good Stepmother\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ RECAP\nWhat have you learned about Abe Lincoln so far?\n\n➜ LOCATE\n⍞ Map Resource: US Atlas \n1.p.14-15 Find Indiana. They are moving to another state. Which direction is Indiana from Kentucky?\n2.p.91 What river makes up the border between Kentucky and Ohio? (Ohio River)\n\n➜ INTRO\nHow did people cross rivers in those days when there weren't many bridges? One way is a log raft ferry similar to the one in the picture. \n∞ Image Link: Log raft ferry\n\n➜ READ, NARRATE, & DISCUSS\np.15-26 \"Summer days went\" - \" school start up.\"\n• What kinds of hardships has Abe already faced when he was just a boy?\n• What signs of hope was there in his life?\n\n➜ VIEW\nDescribe the kind of work that is going on in the picture on p.18-19. Would you enjoy doing that kind of work in order to live?",
+              "body": "Indiana, His Good Stepmother\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ RECAP\nWhat have you learned about Abe Lincoln so far?\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas \n1\\. p.14-15 Find Indiana. They are moving to another state. Which direction is Indiana from Kentucky?\n2\\. p.91 What river makes up the border between Kentucky and Ohio? (Ohio River)\n\n➜ INTRO\nHow did people cross rivers in those days when there weren't many bridges? One way is a log raft ferry similar to the one in the picture. \n∞ Image Link: Log raft ferry\n\n➜ READ, NARRATE, & DISCUSS\np.15-26 \"Summer days went\" - \" school start up.\"\n\n• What kinds of hardships has Abe already faced when he was just a boy?\n• What signs of hope were there in his life?\n\n➜ VIEW\nDescribe the kind of work that is going on in the picture on p.18-19. Would you enjoy doing that kind of work in order to live?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recKu2UuoOKJAt9oQ",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=2",
@@ -278,13 +282,13 @@
               "lessonLabel": "Lesson 3",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 3",
-              "body": "His Good Stepmother, The River and the Law\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nWhy do you think as many people didn't know how to read back then? (few schools, books are hard to find, busy trying to survive)What advantage would someone have who knew how to read? \n\n➜ LOCATE\n⍞ Map Resource: US Atlas p.10-11\nIn the last chapter, we read about Abe and his family crossing the Ohio River. Now Abe is going to travel on the Mississippi. Trace the route from the Ohio River in Indiana to where the Mississippi River flows into the ocean. Do you know what city and state it flows through? (see p.14-15-New Orleans, Louisiana) You will find out more about that city in this chapter. \n\n➜ READ, NARRATE, & DISCUSS\nCh.26-35 \"The winter Abe\" - \"about moving again.\" (You may want to stop throughout the reading to have your student narrate)\n• Why do you think Abe was so interested in reading?\n\n➜ VIEW\n∞ Image Link: Painting of a steamboat",
+              "body": "His Good Stepmother, The River and the Law\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ INTRO\nWhy do you think so many people didn't know how to read back then? (few schools, books are hard to find, busy trying to survive) What advantage would someone have who knew how to read? \n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas p.10-11\nIn the last chapter, we read about Abe and his family crossing the Ohio River. Now Abe is going to travel on the Mississippi. Trace the route from the Ohio River in Indiana to where the Mississippi River flows into the ocean. Do you know what city and state it flows through? (see p.14-15, New Orleans, Louisiana) You will find out more about that city in this chapter. \n\n➜ READ, NARRATE, & DISCUSS\np.26-35 \"The winter Abe\" - \"about moving again.\" (You may want to stop throughout the reading to have your student narrate.)\n\n• Why do you think Abe was so interested in reading?\n\n➜ VIEW\n∞ Image Link: Painting of a steamboat",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recYji22GJvA0U2Zx",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=3",
               "links": [
                 {
-                  "text": "Painting of a Steamboat",
+                  "text": "Painting of a steamboat",
                   "url": "https://steamboats.com/jpgs/Pittsburgh1870s.jpg"
                 }
               ]
@@ -299,7 +303,7 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 4",
-              "body": "1830\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ LOCATE\n⍞ Map Resource: US Atlas\n1.p.14-15 Find Springfield, Illinois. Abe and his family are moving around that area.\n2.Which direction are they traveling from Indiana?\n\n➜ READ, NARRATE, & DISCUSS\np.37-46 \"February 12\" - \"mastered the rules.\"\n• What do you think would be the hardest part of moving to a new area and starting again?\n• What do you think Mr. Rutledge meant, \"All he lacks is culture to reach a high place in life?\"\n\n➜ VIEW\n∞ Image Link: Prairies of Illinois",
+              "body": "1830\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas\n1\\. p.14-15 Find Springfield, Illinois. Abe and his family are moving around that area.\n2\\. In which direction are they traveling from Indiana?\n\n➜ READ, NARRATE, & DISCUSS\np.37-46 \"February 12\" - \"mastered the rules.\"\n\n• What do you think would be the hardest part of moving to a new area and starting again?\n• What do you think Mr. Rutledge meant by \"All he lacks is culture to reach a high place in life\"?\n\n➜ VIEW\n∞ Image Link: Prairies of Illinois",
               "teacherNotes": "• DEFINITIONS\nunwieldy: not easy to manage or control (p.38)\n\nyarns: a tall tale (p.38)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recw1PgMToPwPsBu7",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=4",
@@ -320,8 +324,8 @@
               "lessonLabel": "Lesson 5",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 5",
-              "body": "1830, Mary Todd\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nIf you don't know how to do something or don't know much about a subject, what steps would you take to learn about it? When Abe didn't know about something, he read a book about it. And that was at a time when it was hard to find books. If you remember, he didn't even finish one year of formal school. \n\n➜ READ, NARRATE, & DISCUSS\np.46-56 \"By spring\" - \"the Edwards' house.\"\n• What stands out to you about the character of Abe?\n• What characteristics seem to set him apart from other people?",
-              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: This video shows the New Salem historical site where they reconstructed the town where Abe lived in the 1830s.",
+              "body": "1830, Mary Todd\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nIf you don't know how to do something or don't know much about a subject, what steps would you take to learn about it? When Abe didn't know about something, he read a book about it. And that was at a time when it was hard to find books. If you remember, he didn't even finish one year of formal school. \n\n➜ READ, NARRATE, & DISCUSS\np.46-56 \"By spring\" - \"the Edwards' house.\"\n\n• What stands out to you about the character of Abe?\n• What characteristics seem to set him apart from other people?",
+              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: New Salem Historic Site\nThis video shows the New Salem historical site, where they reconstructed the town where Abe lived in the 1830s.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recVFMBXXoVvKQFeg",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=5",
               "links": [
@@ -341,7 +345,7 @@
               "lessonLabel": "Lesson 6",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 6",
-              "body": "Mary Todd, Lawyer\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nWhen we think of famous people from the past we often think that everything just went well for them and they went straight to the top. But as we can see with Lincoln, there are a lot of setbacks and discouragements along the way. Some people might give up, but Lincoln persevered. \n\n➜ READ, NARRATE, & DISCUSS\np.56-67 \"November 4\" - \"his own state.\"\n• Discuss some of the challenges and obstacles Abe faced and how he responded to them. \n\n➜ VIEW\n∞ Image Link: Home of Lincoln and Mary that they lived in from 1844 to 1861, when he became President. It is a historic site you can visit.",
+              "body": "Mary Todd, Lawyer\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nWhen we think of famous people from the past, we often think that everything just went well for them and they went straight to the top. But as we can see with Lincoln, there were a lot of setbacks and discouragements along the way. Some people might give up, but Lincoln persevered. \n\n➜ READ, NARRATE, & DISCUSS\np.56-67 \"November 4\" - \"his own state.\"\n\n• Discuss some of the challenges and obstacles Abe faced and how he responded to them. \n\n➜ VIEW\n∞ Image Link: Home of Lincoln and Mary \nAbe and Mary Lincoln lived in this home from 1844 to 1861, when he became President. It is a historic site you can visit.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recAh9mSZdQ1xBcN9",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=6",
@@ -362,13 +366,13 @@
               "lessonLabel": "Lesson 7",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 7",
-              "body": "President\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ LOCATE\n∞ Map Link:Map of US in 1854\n1.Look at the map key. What does orange mean? What does green mean? \n2.Where are most of the states that allow slavery located? Why do you think that is the case?\nWe will read about a series of debates between Lincoln and Stephen Douglas that made Lincoln a household name across the country. Here is the question they were discussing: How do the new states decide if they will allow slavery or be a free state? These debates were very exciting for the people of Illinois. It was like a sporting event with crowds, music and souvenirs. \n\n➜ READ, NARRATE, & DISCUSS\np.68-75 \"One spring day\" - \"into the fog.\"\n• What are some of the differences between Lincoln and Douglas?\n• Do you think Douglas was surprised that Lincoln did so well in the debates? What do you think prepared him for these moments?\n\n➜ VIEW\n1.∞ Image Link: Life-size bronze statues of Lincoln and Douglas at their 8th debate in Alton, Illinois.\n2.Did you catch the name they gave to Lincoln during his campaign—Honest Abe, the Rail Splitter? Even though he was now a lawyer, he had split rails in his youth, and this image of him showing hard work and self-reliance was something many voters could relate to. This is a color reproduction of an 1858 painting.",
-              "teacherNotes": "• DEFINITIONS\nsecede:to separate from a nation or state and become independent",
+              "body": "President\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ LOCATE\n∞ Map Link: Map of U.S. in 1854\n1\\. Look at the map key. What does orange mean? What does green mean? \n2\\. Where are most of the states that allow slavery located? Why do you think that is the case?\n\nWe will read about a series of debates between Lincoln and Stephen Douglas that made Lincoln a household name across the country. Here is the question they were discussing: How do the new states decide if they will allow slavery or be a free state? These debates were very exciting for the people of Illinois. It was like a sporting event with crowds, music, and souvenirs. \n\n➜ READ, NARRATE, & DISCUSS\np.68-75 \"One spring day\" - \"into the fog.\"\n\n• What are some of the differences between Lincoln and Douglas?\n• Do you think Douglas was surprised that Lincoln did so well in the debates? What do you think prepared him for these moments?\n\n➜ VIEW\n1\\. ∞ Image Link: Statues of debate\nThese are life-size bronze statues of Lincoln and Douglas at their 8th debate in Alton, Illinois.\n2\\. ∞ Image Link: Railsplitter painting\nDid you catch the name they gave to Lincoln during his campaign—Honest Abe, the Rail Splitter? Even though he was now a lawyer, he had split rails in his youth, and this image of him showing hard work and self-reliance was something many voters could relate to. This is a color reproduction of an 1858 painting.",
+              "teacherNotes": "• DEFINITIONS\nsecede: to separate from a nation or state and become independent",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec7YkiEVC8F1aBio",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=7",
               "links": [
                 {
-                  "text": "Map of US in 1854",
+                  "text": "Map of U.S. in 1854",
                   "url": "https://famous-trials.com/images/ftrials/DredScott/mapksneb.jpeg"
                 },
                 {
@@ -391,13 +395,13 @@
               "lessonLabel": "Lesson 8",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 8",
-              "body": "1861\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nDo you think it would be fun to be a child in the White House? Two of President Lincoln's sons lived in the White House. William was 11 and Tad was 8 when their dad became President. Tad was known for his antics around the White House.  He once discovered how to make all of the White House bells ring at the same time—much to the surprise of the entire staff and residents of the building!\n\n➜ LOCATE\n⍞ Map Resource: US Atlas p.14-15\nFind Washington, DC. This is where Lincoln is going to now that he is President. Which direction is it from Springfield, Illinois?\n\n➜ READ, NARRATE, & DISCUSS\np.77-86 \"February,1861\" - \"the White House.\"\n• Do you think being President of the US is a hard or easy job? Why or why not?\n\n➜ VIEW\n∞ Image Link: Confederate flag from 1861 housed in the Smithsonian",
+              "body": "1861\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ INTRO\nDo you think it would be fun to be a child in the White House? Two of President Lincoln's sons lived in the White House. William was 11, and Tad was 8, when their dad became President. Tad was known for his antics around the White House. He once discovered how to make all of the White House bells ring at the same time—much to the surprise of the entire staff and residents of the building!\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas p.14-15\nFind Washington, D.C. This is where Lincoln is going, now that he is President. Which direction is it from Springfield, Illinois?\n\n➜ READ, NARRATE, & DISCUSS\np.77-86 \"February,1861\" - \"the White House.\"\n\n• Do you think being President of the U.S. is a hard or easy job? Why or why not?\n\n➜ VIEW\n∞ Image Link: Confederate flag  \nThis is the Confederate flag from 1861, housed in the Smithsonian.",
               "teacherNotes": "• EXTRA HELPING\nThis is a short video about the beginning of the war at Fort Sumter.\n∞ Video Link: Fort Sumter",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recDW10yqxT8WOTDU",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=8",
               "links": [
                 {
-                  "text": "Video about Fort Sumter",
+                  "text": "Fort Sumter",
                   "url": "https://www.youtube.com/watch?v=xsbEmWkit9Y"
                 },
                 {
@@ -416,13 +420,13 @@
               "lessonLabel": "Lesson 9",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 9",
-              "body": "Emancipation\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nAbraham Lincoln is considered by many to be the greatest US President. In this chapter, we will read about one of the things he did that makes him so admired. \n\n➜ READ, NARRATE, & DISCUSS\n1.p.87-93 \"Freeing of the\" - \"Pursuit of Happiness.\"\n2.Read the first paragraph of the Emancipation Proclamation. (Emancipation means freeing from bondage. Proclamation is an official statement or announcement made by the government.\n“That on the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free; and the Executive Government of the United States, including the military and naval authority thereof, will recognize and maintain the freedom of such persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom.\"",
-              "teacherNotes": "• EXTRA HELPING\nThis chapter mentioned the telegraph office. This video tells the history of the telegraph.\n∞ Video Link: History of telegraph",
+              "body": "Emancipation\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ INTRO\nAbraham Lincoln is considered by many to be the greatest U.S. President. In this chapter, we will read about one of the things he did that makes him so admired. \n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.87-93 \"Freeing of the\" - \"Pursuit of Happiness.\"\n2\\. Read the first paragraph of the Emancipation Proclamation. (Emancipation means freeing from bondage. Proclamation is an official statement or announcement made by the government.)\n“That on the first day of January, in the year of our Lord one thousand eight hundred and sixty-three, all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free; and the Executive Government of the United States, including the military and naval authority thereof, will recognize and maintain the freedom of such persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom.\"",
+              "teacherNotes": "• EXTRA HELPING\nThis chapter mentioned the telegraph office. This video tells the history of the telegraph.\n∞ Video Link: History of the telegraph",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recbPVUGDxF5AEnxA",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=9",
               "links": [
                 {
-                  "text": "Video about telegraph",
+                  "text": "History of the telegraph",
                   "url": "https://www.youtube.com/watch?v=tzP7QOOAt4I"
                 }
               ]
@@ -437,7 +441,7 @@
               "lessonLabel": "Lesson 10",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 10",
-              "body": "At Gettysburg\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ LOCATE\n⍞ Map Resource: US Atlas\n1.p.14-15 Find Pennsylvania. Where is it in relation to Washington, DC?\n2.p.47 This is just a map of Pennsylvania. Find Gettysburg right over the southern border of the state. This area became a national cemetery for many soldiers that died and it was the place is where an important speech was given by President Lincoln called The Gettysburg Address. It begins with the famous lines, \"Four score and seven years ago.\" Score means 20. So he is referring to 87 years ago when the United States became its own country in 1776.\n\n➜ READ, NARRATE, & DISCUSS\np.94-103 \"Only one of\" - \"feel any easier.\"\n• Is there anything we can do to honor those who sacrificed their lives for the freedom of our country?\n\n➜ VIEW\n∞ Image Link: Gettysburg National Military Park where the battle took place.",
+              "body": "At Gettysburg\n⍞ Materials: Abraham Lincoln: An Initial Biography, U.S. Atlas\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas\n1\\. p.14-15 Find Pennsylvania. Where is it in relation to Washington, D.C.?\n2\\. p.47 This is a map of just Pennsylvania. Find Gettysburg, right over the southern border of the state. This area became a national cemetery for many soldiers who died, and it was the place where an important speech was given by President Lincoln called The Gettysburg Address. It begins with the famous lines, \"Four score and seven years ago.\" Score means 20. So he is referring to 87 years ago when the United States became its own country in 1776.\n\n➜ READ, NARRATE, & DISCUSS\np.94-103 \"Only one of\" - \"feel any easier.\"\n\n• Is there anything we can do to honor those who sacrificed their lives for the freedom of our country?\n\n➜ VIEW\n∞ Image Link: Gettysburg National Military Park \nThis is where the battle took place.",
               "teacherNotes": "• DEFINITIONS\norator: a person who makes speeches and is very good at making them (p.94)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recCGnYmm4AUdFJVu",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=10",
@@ -458,11 +462,16 @@
               "lessonLabel": "Lesson 11",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 11",
-              "body": "The Last Day\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ RECAP\nWhat happened last time?\n\n➜ READ, NARRATE, & DISCUSS\np. 104-109 \"Friday, April 14,\" - \"from the earth.\"\n• What did you admire about President Lincoln?\n• If you could ask him any questions, what would you ask?\n\n➜ VIEW\n∞ Image Link: Statue of Lincoln at the Lincoln Memorial in Washington, DC.",
-              "teacherNotes": "• DEFINITIONS\nmalice: desire to cause pain, injury, or distress to another(p.105)\n\ncharity: love or kindness (p.105)\n\n• ILLUSTRATE - Draw a scene from the book using watercolor or another medium such as chalk, pastels, or crayons.",
+              "body": "The Last Day\n⍞ Materials: Abraham Lincoln: An Initial Biography\n\n➜ RECAP\nWhat happened last time?\n\n➜ READ, NARRATE, & DISCUSS\np.104-109 \"Friday, April 14,\" - \"from the earth.\"\n\n• What did you admire about President Lincoln?\n• If you could ask him any questions, what would you ask?\n\n➜ VIEW\n∞ Image Link: Statue of Lincoln at the Lincoln Memorial in Washington, D.C.",
+              "teacherNotes": "• DEFINITIONS\nmalice: desire to cause pain, injury, or distress to another (p.105)\n\ncharity: love or kindness (p.105)\n\n• ILLUSTRATE - Draw a scene from the book using watercolor or another medium such as chalk, pastels, or crayons.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec8qyMQnJLwMUpDw",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=1&week=11",
+              "links": [
+                {
+                  "text": "Statue of Lincoln",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lincoln_statue%2C_Lincoln_Memorial.jpg/960px-Lincoln_statue%2C_Lincoln_Memorial.jpg"
+                }
+              ]
             },
             {
               "lessonId": "recSKwW2LPTAUWzbw",
@@ -474,7 +483,7 @@
               "lessonLabel": "Lesson 12",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 12",
-              "body": "➜ EXAMS Answer question(s) related to course.  Questions will come from: Abraham Lincoln: An Initial Biography",
+              "body": "Exam Week\n\n➜ EXAMS \nAnswer question(s) related to course.  \n\nQuestions will come from: \nAbraham Lincoln: An Initial Biography",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recSKwW2LPTAUWzbw",
               "lessonLinksUrl": "",
@@ -496,17 +505,17 @@
               "lessonLabel": "Lesson 13",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 13",
-              "body": "The Book\n⍞ Materials: Escape By Night\n\nPREP: You may want to read this article and share some of the content. It talks about the church in Augusta where President Woodrow Wilson's father pastored and how the church was used for a hospital. It was the inspiration for this book. \n∞ Article Link: First Presbyterian Church of Augusta\n\n➜ INTRO\nThis book is historical fiction, which means it is a fictional (not true) story set during real events from history. This takes place during the Civil War. The year was 1863. We don't always know what inspired an author to write a book, but in this case we do know. Read the Author's Note on p.116-119.\n\n➜  LOCATE\n⍞ Map Resource: US Atlas \n1.p.14-15 Find Georgia. What part of the country is that? Is that a free state or a slave state? \n2.p.65 Now find Augusta, Georgia. (D6) Is is right across the border from what state? (South Carolina)\n\n➜ READ, NARRATE, & DISCUSS\nCh.1 p.3-11\n• How has the war changed daily life for families?\n\n➜ VIEW\nThis is how the church and house looks today. You can visit it. \n∞ Image Links: First Presbyterian Church, Childhood Home of Woodrow Wilson",
+              "body": "The Book\n⍞ Materials: Escape By Night, U.S. Atlas\n\nPREP: You may want to read this article and share some of the content. It talks about the church in Augusta, where President Woodrow Wilson's father pastored, and how the church was used for a hospital. It was the inspiration for this book. \n∞ Article Link: First Presbyterian Church of Augusta\n\n➜ INTRO\nThis book is historical fiction, which means it is a fictional (not true) story set during real events from history. This takes place during the Civil War. The year was 1863. We don't always know what inspired an author to write a book, but in this case, we do know. Read the Author's Note on p.116-119.\n\n➜  LOCATE\n⍞ Map Resource: U.S. Atlas \n1\\. p.14-15 Find Georgia. What part of the country is that? Is that a free state or a slave state? \n2\\. p.65 Now find Augusta, Georgia. (D6) It is right across the border from what state? (South Carolina)\n\n➜ READ, NARRATE, & DISCUSS\nCh.1 p.3-11\n\n• How has the war changed daily life for families?\n\n➜ VIEW\nSee how the church and house look today. You can visit them. \n∞ Image Links: First Presbyterian Church, Childhood Home of Woodrow Wilson",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recZFM0EkiMjJp60N",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=2&week=13",
               "links": [
                 {
-                  "text": "Article: First Presbyterian Church of Augusta",
+                  "text": "First Presbyterian Church of Augusta",
                   "url": "https://www.exploresouthernhistory.com/augustapresbyterian.html"
                 },
                 {
-                  "text": "Image of First Presbyterian Church",
+                  "text": "First Presbyterian Church",
                   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/First_Presbyterian_Church_%28Augusta%2C_Georgia%29_May_2017.jpg/1920px-First_Presbyterian_Church_%28Augusta%2C_Georgia%29_May_2017.jpg"
                 },
                 {
@@ -525,7 +534,7 @@
               "lessonLabel": "Lesson 14",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 14",
-              "body": "The One-Armed Soldier\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the first chapter?\n\n➜ INTRO\nDo you know what kinds of transportation were available in the 1860s? (horses, carriages, steamboats, trains)\n\n➜ LOCATE\n1.Look at the map at the beginning of the book. Find Presbyterian Church. It is on the corner of which streets?\n2.Find Tommy's house. Where is it located?\n3.Find the railroad depot. How many blocks from Tommy's house is it located?\n\n➜ READ, NARRATE, & DISCUSS\nCh.2 p.12-18\n• Why do you think Tommy thought it was so important to find the man who lost the book?",
+              "body": "The One-Armed Soldier\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the first chapter?\n\n➜ INTRO\nDo you know what kinds of transportation were available in the 1860s? (horses, carriages, steamboats, trains)\n\n➜ LOCATE\n1\\. Look at the map at the beginning of the book. Find the First Presbyterian Church. It is on the corner of which streets?\n2\\. Find Tommy's house. Where is it located?\n3\\. Find the railroad depot. How many blocks from Tommy's house is it located?\n\n➜ READ, NARRATE, & DISCUSS\nCh.2 p.12-18\n\n• Why do you think Tommy thought it was so important to find the man who lost the book?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recJpNQNIJ87RpQwu",
               "lessonLinksUrl": "",
@@ -541,7 +550,7 @@
               "lessonLabel": "Lesson 15",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 15",
-              "body": "A Commonplace Book\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the last chapter?\n\n➜ INTRO\nWhat is the title of this chapter? Do you know what that is? You will find out if you don't already know!\n\n➜ READ, NARRATE, & DISCUSS\nCh.3 p.19-26\n• Did you figure out what a commonplace book is? It normally a book to put in quotes or poems from books you are reading, but in this case, the soldier also put in his own poem. You will probably use a commonplace book when you get older to record quotes and poems that you enjoy.",
+              "body": "A Commonplace Book\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the last chapter?\n\n➜ INTRO\nWhat is the title of this chapter? Do you know what that is? You will find out if you don't already know!\n\n➜ READ, NARRATE, & DISCUSS\nCh.3 p.19-26\n\n• Did you figure out what a commonplace book is? It is normally a book to put in quotes or poems from books you are reading, but in this case, the soldier also put in his own poem. You will probably use a commonplace book when you get older to record quotes and poems that you enjoy.",
               "teacherNotes": "• DEFINITIONS\nsovereign: in control over all creation (p.23)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recGTRUvZBFH7Vo9J",
               "lessonLinksUrl": "",
@@ -557,8 +566,8 @@
               "lessonLabel": "Lesson 16",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 16",
-              "body": "Big Steve, Blessed Are the Peacemakers\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the last chapter?\n\n➜ INTRO\nIt is important to understand some of the terms used in this book. A Yankee is a term for someone from the North, while a Confederate soldier was someone from the South.  The Union is the federal government and the loyal states while the Confederacy was the group of southern states that broke away or seceded.\n\n➜ READ, NARRATE, & DISCUSS\nCh.4-5 p.27-38\n• Do you think Tommy might be right about the soldier being a Yankee?\n• What would that mean if that was true?",
-              "teacherNotes": "• DEFINITIONS\nchaplain: a religious leader who performs religious services for a military group (such as the army) or for a prison, hospital, etc.(p.32)",
+              "body": "Big Steve, Blessed Are the Peacemakers\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat happened in the last chapter?\n\n➜ INTRO\nIt is important to understand some of the terms used in this book. A Yankee is a term for someone from the North, while a Confederate soldier is someone from the South. The Union is the federal government and the loyal states, while the Confederacy was the group of southern states that broke away, or seceded.\n\n➜ READ, NARRATE, & DISCUSS\nCh.4-5 p.27-38\n\n• Do you think Tommy might be right about the soldier being a Yankee?\n• What would that mean if that were true?",
+              "teacherNotes": "• DEFINITIONS\nchaplain: a religious leader who performs religious services for a military group (such as the army) or for a prison, hospital, etc. (p.32)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec48MkUC2MeVe5s8",
               "lessonLinksUrl": "",
               "links": []
@@ -573,13 +582,13 @@
               "lessonLabel": "Lesson 17",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 17",
-              "body": "Troubled, A Dream\n⍞ Materials: Escape By Night\n\n➜ RECAP\nTell briefly what happened last time.\n\n➜ READ, NARRATE, & DISCUSS\nCh.6-7 p.39-53\n• What do you think about Tommy's statement, \"Some slaves are happy?\" (p.53)\n• What do you think Tommy will do now that he knows Red is a Yankee soldier?",
-              "teacherNotes": "• DEFINITIONS\nrefugee: someone who has been forced to leave a country because of war or for religious or political reasons (p.40)\n\n• EXTRA HELPING\nThis video briefly tells about Robert E. Lee who was mentioned in this chapter. \n∞ Video Link: Robert E. Lee (stop at 1:50)",
+              "body": "Troubled, A Dream\n⍞ Materials: Escape By Night\n\n➜ RECAP\nTell briefly what happened last time.\n\n➜ READ, NARRATE, & DISCUSS\nCh.6-7 p.39-53\n\n• What do you think about Tommy's statement, \"Some slaves are happy\"? (p.53)\n• What do you think Tommy will do now that he knows Red is a Yankee soldier?",
+              "teacherNotes": "• DEFINITIONS\nrefugee: someone who has been forced to leave a country because of war or for religious or political reasons (p.40)\n\n• EXTRA HELPING\nThis video briefly tells about Robert E. Lee, who was mentioned in this chapter. \n∞ Video Link: Robert E. Lee (stop at 1:50)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recM2P9vI5oI8BaoO",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=2&week=17",
               "links": [
                 {
-                  "text": "Video: Robert E. Lee",
+                  "text": "Robert E. Lee",
                   "url": "https://www.youtube.com/watch?v=XWTwah5pRtg"
                 }
               ]
@@ -594,7 +603,7 @@
               "lessonLabel": "Lesson 18",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 18",
-              "body": "Great Power, The Deal\n⍞ Materials: Escape By Night\n\n➜ RECAP\nTell briefly what happened last time.\n\n➜ READ, NARRATE, & DISCUSS\nCh.8-9 p.54-66\n• What do you think Tommy should do? Why would it be a hard decision? What risks does Tommy face?",
+              "body": "Great Power, The Deal\n⍞ Materials: Escape By Night\n\n➜ RECAP\nTell briefly what happened last time.\n\n➜ READ, NARRATE, & DISCUSS\nCh.8-9 p.54-66\n\n• What do you think Tommy should do? Why would it be a hard decision? What risks does Tommy face?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recDVcupA5H8ni9wr",
               "lessonLinksUrl": "",
@@ -610,7 +619,7 @@
               "lessonLabel": "Lesson 19",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 19",
-              "body": "Streams of Mercy, The Branded Hand\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.10-11 p.67-79\n•A good quote for a commonplace book was mentioned at the beginning of the chapter 10. \"The heaviest burden in the world is a burden carried alone.\" What do you think that means?\n• The SS branded on Jonathan Walker's hand was for slave stealer. Did you notice what in the poem what John Greenleaf Whittier said SS stands for?\n• Why do you think Tommy decided to help Red escape?\n\n➜ VIEW\n∞ Image Link: Gravesite of Jonathan Walker in Muskegon, Michigan. Did you notice what is on it?",
+              "body": "Streams of Mercy, The Branded Hand\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.10-11 p.67-79\n\n• A good quote for a commonplace book was mentioned at the beginning of the chapter 10. \"The heaviest burden in the world is a burden carried alone.\" What do you think that means?\n• The SS branded on Jonathan Walker's hand was for slave stealer. Did you notice in the poem what John Greenleaf Whittier said SS stands for?\n• Why do you think Tommy decided to help Red escape?\n\n➜ VIEW\n∞ Image Link: Gravesite of Jonathan Walker \nJonathan Walker's gravesite is in Muskegon, Michigan. Did you notice what is on it?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recKfe6eUVKN24Dwm",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=2&week=19",
@@ -631,7 +640,7 @@
               "lessonLabel": "Lesson 20",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 20",
-              "body": "The Escape, Hunting a Slave\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ INTRO\nIt is time for Tommy to execute his plan to help Red. Look at the map at the beginning of the book to trace his route. He needs to head towards Saint Paul's Episcopal church. Where is that located? What river is by the church?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12-13 p.80-91\n• Do you think Tommy is courageous or do you have another word you would use to describe his actions?",
+              "body": "The Escape, Hunting a Slave\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ INTRO\nIt is time for Tommy to execute his plan to help Red. Look at the map at the beginning of the book to trace his route. He needs to head towards Saint Paul's Episcopal church. Where is that located? What river is by the church?\n\n➜ READ, NARRATE, & DISCUSS\nCh.12-13 p.80-91\n\n• Do you think Tommy is courageous, or do you have another word you would use to describe his actions?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=reclnVFt9FGhEmL3n",
               "lessonLinksUrl": "",
@@ -647,8 +656,8 @@
               "lessonLabel": "Lesson 21",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 21",
-              "body": "The Diversion, The Jubilant Bell\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ LOCATE\n⍞ Map Resource:US Atlas\n1.p.65 Find Augusta, Georgia where Tommy lives. What river is on the border of the state? (Savannah River) What state is on the other side of the river? (South Carolina). \n2.p.14-15 Find Ohio. That were Red needs to go. Which direction is it from Georgia? (north)\n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15\n• What kind of emotions to you think Tommy was feeling at the end of the chapter?\n• What do you think his dad would say if he found out?",
-              "teacherNotes": "• DEFINITIONS\nknell: a stroke or sound of a bell especially when rung slowly (p.104)",
+              "body": "The Diversion, The Jubilant Bell\n⍞ Materials: Escape By Night, U.S. Atlas\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas\n1\\. p.65 Find Augusta, Georgia, where Tommy lives. What river is on the border of the state? (Savannah River) What state is on the other side of the river? (South Carolina)\n2\\. p.14-15 Find Ohio. That is where Red needs to go. Which direction is it from Georgia? (north)\n\n➜ READ, NARRATE, & DISCUSS\nCh.14-15 p.92-104\n\n• What kind of emotions do you think Tommy was feeling at the end of the chapter?\n• What do you think his dad would say if he found out?",
+              "teacherNotes": "• DEFINITIONS\nknell: a stroke or sound of a bell, especially when rung slowly (p.104)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rectIwI8Md8jatYJE",
               "lessonLinksUrl": "",
               "links": []
@@ -663,7 +672,7 @@
               "lessonLabel": "Lesson 22",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 22",
-              "body": "Farewell\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.16-Epilogue\n• How has Tommy changed from the beginning of the story to the end?\n• What do you think about the statement that Tommy's dad made, \" I admire a person with the courage to follow the leading of God whether I agree or not\"?",
+              "body": "Farewell\n⍞ Materials: Escape By Night\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\nCh.16-Epilogue p.105-115\n\n• How has Tommy changed from the beginning of the story to the end?\n• What do you think about the statement that Tommy's dad made, \"I admire a person with the courage to follow the leading of God, whether I agree or not\"?",
               "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rec6lisOj15iLjBwa",
               "lessonLinksUrl": "",
@@ -679,7 +688,7 @@
               "lessonLabel": "Lesson 23",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 23",
-              "body": "➜ CATCH UP \nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "body": "Catch-Up Day\n\n➜ CATCH UP \nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recSNjgA51pobRwfR",
               "lessonLinksUrl": "",
@@ -695,7 +704,7 @@
               "lessonLabel": "Lesson 24",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 24",
-              "body": "➜ EXAMS Answer question(s) related to course.  Questions will come from: Escape by Night",
+              "body": "Exam Week\n\n➜ EXAMS \nAnswer question(s) related to course.  \n\nQuestions will come from: \nEscape by Night",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recm6OgVA0xOwvaOZ",
               "lessonLinksUrl": "",
@@ -717,8 +726,8 @@
               "lessonLabel": "Lesson 25",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 25",
-              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ INTRO\nThis book is based on the life of a woman who was a member of the Hidatsa people who lived in the Great Plains of North Dakota. Her name was Waheenee-wea, known as Buffalo Bird Woman, and she lived from 1839-1932. In the early 1900's a man named Gilbert Wilson visited the reservation that Buffalo Bird Woman lived at to write a book about her and tell the stories of the Hidatsa way of life that no longer existed. Her stories were written  in two different books. The author of this book took those stories to create a book for children so they can learn what life was like for that tribe in the 1800s. \n\n➜ LOCATE\n⍞ Map Resource: US Atlas, map in book\n1.p.14-15 Find North Dakota. What borders that state? (Canada to the north, Minnesota to the east, South Dakota to the south and Montana to the west. \n2.Now look at the map in the beginning of the book. \na.Find the Great Plains. How would you describe that kind of area? Plains are large, flat area of land that has few changes in elevation. \nb.What rivers are flowing through this area? (Missouri, Little Missouri, Knife, Heart)\nc.Read the key at the top of the page and find those places on the map. \n\n➜ READ, NARRATE, & DISCUSS\n1.p.2-15 \n2.Go back and look at the pictures and read the captions.\n• Read the quote at the beginning of the book that begins with \"This earth is alive..\" What did you notice about what the Hidatsa believe? How is that different from what you believe? \n• How do the Hidatsa use the resources of the earth in their daily lives?\n\n➜ VIEW\n∞ Image Link: Buffalo Bird Woman\nYou may want to print this out and use it for your wall timeline.",
-              "teacherNotes": "• DEFINITIONS\nsmallpox:  serious disease that causes fever and a rash, boils on the skin and often death (p.3)\n\nimmunity: a condition of being able to resist a particular disease (p.3)\n\nalliance: a union between people, groups, countries, etc. : a relationship in which people agree to work together (p.5)",
+              "body": "⍞ Materials: Buffalo Bird Girl, U.S. Atlas\n\n➜ INTRO\nThis book is based on the life of a woman who was a member of the Hidatsa people who lived in the Great Plains of North Dakota. Her name was Waheenee-wea, known as Buffalo Bird Woman, and she lived from 1839-1932. In the early 1900s, a man named Gilbert Wilson visited the reservation where Buffalo Bird Woman lived to write a book about her and tell the stories of the Hidatsa way of life that no longer existed. Her stories were written in two different books. The author of this book took those stories to create a book for children so they can learn what life was like for that tribe in the 1800s. \n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas, map in book\n1\\. p.14-15 Find North Dakota. What borders that state? (Canada to the north, Minnesota to the east, South Dakota to the south, and Montana to the west)\n2\\. Now look at the map at the beginning of the book. \na. Find the Great Plains. How would you describe that kind of area? Plains are large, flat areas of land that have few changes in elevation. \nb. What rivers are flowing through this area? (Missouri, Little Missouri, Knife, Heart)\nc. Read the key at the top of the page and find those places on the map. \n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.2-15 \n2\\. Go back and look at the pictures and read the captions.\n\n• Read the quote at the beginning of the book that begins with \"This earth is alive...\" What did you notice about what the Hidatsa believe? How is that different from what you believe? \n• How do the Hidatsa use the resources of the earth in their daily lives?\n\n➜ VIEW\n∞ Image Link: Photo of Buffalo Bird Woman\nYou may want to print this out and use it for your wall timeline.",
+              "teacherNotes": "• DEFINITIONS\nsmallpox: serious disease that causes fever and a rash, boils on the skin, and often death (p.3)\n\nimmunity: a condition of being able to resist a particular disease (p.3)\n\nalliance: a union between people, groups, countries, etc.: a relationship in which people agree to work together (p.5)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recqaOfBpF2ZCrnR1",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=25",
               "links": [
@@ -738,7 +747,7 @@
               "lessonLabel": "Lesson 26",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 26",
-              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ RECAP\nWhat do you know about Buffalo Bird girl so far?\n\n➜ LOCATE\n1.Turn to the map at the beginning of the book. Find Fort Berthold on the map. It was a trading post for white traders and natives. Do you know what kind of items were traded?  Do you remember where Buffalo Bird Girl lived? (Like-a-Fishhook Village) How do you think traders got to that area? (Steamship up the river). You will find out more about trading in today's reading.  \n\n➜ READ, NARRATE, & DISCUSS\n1.p.16-25\n2.Go back to look at the pictures and read the captions.\n• Were any of the children's activities similar to what you might play?\n• How are the lives of the Hidatsa children different from yours?",
+              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ RECAP\nWhat do you know about Buffalo Bird girl so far?\n\n➜ LOCATE\nTurn to the map at the beginning of the book. Find Fort Berthold on the map. It was a trading post for white traders and natives. Do you know what kind of items were traded? Do you remember where Buffalo Bird Girl lived? (Like-a-Fishhook Village) How do you think traders got to that area? (steamship up the river) You will find out more about trading in today's reading.  \n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.16-25\n2\\. Go back to look at the pictures and read the captions.\n\n• Were any of the children's activities similar to what you might play?\n• How are the lives of the Hidatsa children different from yours?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recfqWIkzchzpQVSr",
               "lessonLinksUrl": "",
@@ -754,8 +763,8 @@
               "lessonLabel": "Lesson 27",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 27",
-              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ LOCATE\n⍞ Map Resource: US Atlas,p.10-11\nFind North Dakota. What climate zone is it? (cold and wet) lt has ong, cold winters and warm, short summers. How do you think that would affect the Hidatsa?\n\n➜ INTRO\nImagine you didn't have electricity and grocery stores. What kind of things would you have to figure out in order to have food?\nThe Hidatsa had methods for growing, harvesting and storing food.\n\n➜ READ, NARRATE, & DISCUSS\np.26-37\n• How did routines and daily life change according to the seasons?",
-              "teacherNotes": "• DEFINITIONS\nimmunity: \n\nalliance",
+              "body": "⍞ Materials: Buffalo Bird Girl, U.S. Atlas\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas p.10-11\nFind North Dakota. What climate zone is it? (cold and wet) It has long, cold winters and warm, short summers. How do you think that would affect the Hidatsa?\n\n➜ INTRO\nImagine you didn't have electricity or grocery stores. What kind of things would you have to figure out in order to have food?\nThe Hidatsa had methods for growing, harvesting, and storing food.\n\n➜ READ, NARRATE, & DISCUSS\np.26-37\n\n• How did routines and daily life change according to the seasons?\n\n➜ VIEW\n∞ Image Link: Earth Lodge",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recJbeZcLGWjP8Ppb",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=27",
               "links": [
@@ -775,13 +784,13 @@
               "lessonLabel": "Lesson 28",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 28",
-              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ INTRO\nBy the late 1800s, the way of life for the Hidatsa and other tribes across the United States, changed forever. They were forced to live on designated lands called reservations. There are approximately 326 Indian land areas in the U.S. administered as federal Indian reservations. The largest is the 16 million-acre Navajo Nation Reservation located in Arizona, New Mexico, and Utah. The smallest is a 1.32-acre parcel in California where the Pit River Tribe’s cemetery is located. Many of the smaller reservations are less than 1,000 acres. Now 70% of Native Americans don't live in reservations. \n\n➜ LOCATE\nThis map shows the Indian reservations in the US. Can you find Fort Berthold in North Dakota?\n∞ Map Link: Indian Lands in the US\n\n➜ READ, NARRATE, & DISCUSS\n1.p.38-40\n2.Author's Note p.42-44: My Story, The Hidatsa Story, The Traditional Way, Today and the Future\n• What is different about your life and the life of Buffalo Bird Girl?\n• If you could have asked Buffalo Bird Girl a question about her life, what would you ask her?",
+              "body": "⍞ Materials: Buffalo Bird Girl\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ INTRO\nBy the late 1800s, the way of life for the Hidatsa and other tribes across the United States had changed forever. They were forced to live on designated lands called reservations. There are approximately 326 Indian land areas in the U.S., administered as federal Indian reservations. The largest is the 16 million-acre Navajo Nation Reservation located in Arizona, New Mexico, and Utah. The smallest is a 1.32-acre parcel in California where the Pit River Tribe’s cemetery is located. Many of the smaller reservations are less than 1,000 acres. Now, 70% of Native Americans don't live on reservations. \n\n➜ LOCATE\nThis map shows the Indian reservations in the U.S. Can you find Fort Berthold in North Dakota?\n∞ Map Link: Indian Lands in the U.S.\n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.38-40\n2\\. Author's Note p.42-44: My Story, The Hidatsa Story, The Traditional Way, Today and the Future\n\n• What is different about your life and the life of Buffalo Bird Girl?\n• If you could have asked Buffalo Bird Girl a question about her life, what would you ask her?",
               "teacherNotes": "• ILLUSTRATE - Draw a scene from the story using watercolor or another medium such as chalk, pastels, or crayons.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=rechVZXtNeOJDNjri",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=28",
               "links": [
                 {
-                  "text": "Map of Indian Lands in US",
+                  "text": "Indian Lands in the U.S.",
                   "url": "https://www.bia.gov/sites/default/files/dup/assets/bia/ots/webteam/pdf/idc1-028635.pdf"
                 }
               ]
@@ -796,13 +805,13 @@
               "lessonLabel": "Lesson 29",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 29",
-              "body": "⍞ Materials: Coolies\n\nPREP: You may want to read the Author's Note on p.38 to have more context for the story. You want to number the pages starting with p.1 as the beginning of the story.\n\n➜ INTRO\nWe might not travel in horses and carriages anymore, but there is one mode of transportation that we still use just like the people in the 1800s. What do you think that is? (train) There are still train tracks all across the country that  take goods and people from east to west and north to south. Have you thought about how those tracks were laid down? We will read about some of the people who came a very long way to do that hard, dangerous work.\n\n➜ LOCATE\n⍞ Map Resource: Globe or wall map, US Atlas\n1.Find China. How do you get to the US from there? (on a ship across the Pacific Ocean) What part of the country would you sail to from China? (west coast) We will read about people from China who came all the way to the US to help build the railroad.\n2.Using the US Atlas p.128-129, find the San Francisco Bay. That is where the two brothers in the story docked after months at sea. \n3.Find Sacramento. This is where the brothers started their work.\n\n➜ READ, NARRATE, & DISCUSS\n1.p.1-14 Read the narrative\n2.Go back and look at the pictures and discuss what you see.\n\n• Why did people call American \"the land of opportunity\"?\n• Why would it be hard to move to a new country?\n\n∞ Image Link: Transcontinental railroad\nYou may want to print this out and use it for your wall timeline.",
-              "teacherNotes": "• DEFINITIONS\nkowtow: (to kneel and touch the forehead to the ground in token of homage, worship, or deep respect (p.1)\n\nancestors: one from whom a person is descended (p.1)\n\n★ TEACHER NOTE\nYou may want to discuss the practiced mentioned on p.1. China has a grand tradition of ancestral worship that has been carried forward through the ages. It is based on the belief that the souls of the deceased have power and influence of the lives of the living.",
+              "body": "⍞ Materials: Coolies; globe or wall map; U.S. Atlas\n\nPREP: You may want to read the Author's Note on p.38 to have more context for the story. You want to number the pages starting with p.1 as the beginning of the story.\n\n➜ INTRO\nWe might not travel by horses and carriages anymore, but there is one mode of transportation that we still use just like the people in the 1800s. What do you think that is? (train) There are still train tracks all across the country that take goods and people from east to west and north to south. Have you thought about how those tracks were laid down? We will read about some of the people who came a very long way to do that hard, dangerous work.\n\n➜ LOCATE\n⍞ Map Resource: globe or wall map, U.S. Atlas\n1\\. Find China. How do you get to the U.S. from there? (on a ship across the Pacific Ocean) What part of the country would you sail to from China? (west coast) We will read about people from China who came all the way to the U.S. to help build the railroad.\n2\\. Using the U.S. Atlas p.128-129, find the San Francisco Bay. That is where the two brothers in the story docked after months at sea. \n3\\. Find Sacramento. This is where the brothers started their work.\n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.1-14 Read the narrative.\n2\\. Go back and look at the pictures and discuss what you see.\n\n• Why did people call America \"the land of opportunity\"?\n• Why would it be hard to move to a new country?\n\n∞ Image Link: Transcontinental railroad\nYou may want to print this out and use it for your wall timeline.",
+              "teacherNotes": "• DEFINITIONS\nkowtow: to kneel and touch the forehead to the ground in token of homage, worship, or deep respect (p.1)\n\nancestors: one from whom a person is descended (p.1)\n\n★ TEACHER NOTE\nYou may want to discuss the practice mentioned on p.1. China has a grand tradition of ancestral worship that has been carried forward through the ages. It is based on the belief that the souls of the deceased have power and influence over the lives of the living.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recZn2SSaHSpBFXDM",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=29",
               "links": [
                 {
-                  "text": "Image of transcontinental railroad",
+                  "text": "Transcontinental railroad",
                   "url": "https://ramonamckean.com/wp-content/uploads/2015/09/Chinese-CPR-rail-workers-bc-1889-rogers-pass-700x605-109kb.jpg"
                 }
               ]
@@ -817,7 +826,7 @@
               "lessonLabel": "Lesson 30",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 30",
-              "body": "⍞ Materials: Coolies\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ MAP QUESTIONS\n∞ Image Link:\nLook at the map of the transcontinental railroad. \"Trans\" means across. It is going across the continent. \n1.Where does it begin in the west? (Sacramento, California) \n2.Where does it begin in the east? (Omaha, Nebraska)\n3.Where will they meet in the. middle? (Promontory, Utah)\n4.What challenging geographical features do they need to cross? (mountains, rivers,desert)\n\n➜ READ, NARRATE, & DISCUSS\n1.p.15-26 Read the narrative\n2.Go back and look at the pictures and discuss what you see.\n• What do you think would have been the most difficult part of working on the railroad?\n• Why do you think the Chinese workers were not treated fairly?",
+              "body": "⍞ Materials: Coolies\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ MAP QUESTIONS\n∞ Image Link: Map of Transcontinental Railroad\nLook at the map of the transcontinental railroad. \"Trans\" means across. It is going across the continent. \n1\\. Where does it begin in the west? (Sacramento, California) \n2\\. Where does it begin in the east? (Omaha, Nebraska)\n3\\. Where will they meet in the middle? (Promontory, Utah)\n4\\. What challenging geographical features do they need to cross? (mountains, rivers, desert)\n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.15-26 Read the narrative.\n2\\. Go back and look at the pictures and discuss what you see.\n\n• What do you think would have been the most difficult part of working on the railroad?\n• Why do you think the Chinese workers were not treated fairly?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recnNj4ZM9n7sRnCj",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=30",
@@ -838,13 +847,13 @@
               "lessonLabel": "Lesson 31",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 31",
-              "body": "⍞ Materials: Coolies\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ READ, NARRATE, & DISCUSS\n1.p.27-37 Read the narrative.\n2.Go back and look at the pictures and discuss what you see\n• Why do you think the brothers decided to stay in America?\n\n➜ VIEW (Optional is there is time)\n∞ Video Link: Transcontinental Railroad and the American West",
+              "body": "⍞ Materials: Coolies\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ READ, NARRATE, & DISCUSS\n1\\. p.27-37 Read the narrative.\n2\\. Go back and look at the pictures and discuss what you see.\n\n• Why do you think the brothers decided to stay in America?\n\n➜ VIEW (Optional, if there is time)\n∞ Video Link: Transcontinental Railroad and the American West",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=reclsPlkfmdYtTtZ1",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=31",
               "links": [
                 {
-                  "text": "Video: Transcontinental Railroad and the American West",
+                  "text": "Transcontinental Railroad and the American West",
                   "url": "https://www.youtube.com/watch?v=0CdAzizWiyI"
                 }
               ]
@@ -859,7 +868,7 @@
               "lessonLabel": "Lesson 32",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 32",
-              "body": "⍞ Materials: Dandelions\n\n➜ INTRO\nIn the 1800s many people decided to head west and begin a new life.  They put all their belongings in a covered wagon, known as a prairie schooner ready for adventure. This book tells you about Zoe and her family as they head out west. Imagine what life was like for people at that time. Even though things were very different, they still had the same desires as anyone—freedom, success, and happiness.\n\n➜ LOCATE\n1.p.84-85 Find Illinois. That is where Zoe and her family came from.\n2.Now find Nebraska. During the time of the story it was not yet a state; it was a territory. That is where they were going. It might not seem that far to us, but when you are riding in a wagon and there are no paved roads, it is a hard journey. \n\n➜ READ, NARRATE, & DISCUSS\np.1-14\n• Why do you think Papa seemed excited when they reached their land, but Mama seemed sad?\n\n➜ VIEW\n∞ Image Link: Sod house\nHow was a sod house built? Many of the pioneer settlers made large, heavy bricks of layers of sod. One brick could weigh about 50 pounds.They were about two feet  long. The bricks blended together and formed sturdy walls. But these houses’ walls curved instead of being straight up and down. Like an igloo made of snow bricks, sod houses were a bit wider at the bottom so they could hold all the weight of the bricks. Building a house from sod bricks was hard work and time consuming, but it didn’t cost anything. (from wildercompanion.com)",
+              "body": "⍞ Materials: Dandelions, U.S. Atlas\n\n➜ INTRO\nIn the 1800s, many people decided to head west and begin a new life. They put all their belongings in a covered wagon, known as a prairie schooner, ready for adventure. This book tells you about Zoe and her family as they head out west. Imagine what life was like for people at that time. Even though things were very different, they still had the same desires as anyone—freedom, success, and happiness.\n\n➜ LOCATE\n⍞ Map Resource: U.S. Atlas\n1\\. p.84-85 Find Illinois. That is where Zoe and her family came from.\n2\\. Now find Nebraska. During the time of the story, it was not yet a state; it was a territory. That is where they were going. It might not seem that far to us, but when you are riding in a wagon, and there are no paved roads, it is a hard journey. \n\n➜ READ, NARRATE, & DISCUSS\np.1-14\n\n• Why do you think Papa seemed excited when they reached their land, but Mama seemed sad?\n\n➜ VIEW\n∞ Image Link: Sod house\nHow was a sod house built? Many of the pioneer settlers made large, heavy bricks of layers of sod. One brick could weigh about 50 pounds. They were about two feet long. The bricks blended together and formed sturdy walls. But these houses’ walls curved instead of being straight up and down. Like an igloo made of snow bricks, sod houses were a bit wider at the bottom so they could hold all the weight of the bricks. Building a house from sod bricks was hard work and time-consuming, but it didn’t cost anything. (from wildercompanion.com)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recsQOu9GqZHRwzEm",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=32",
@@ -880,13 +889,13 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 33",
-              "body": "⍞ Materials: Dandelions\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\np.15-26\n• How was life for pioneer families different from your life?\n• What would be especially hard about moving to a new place like the Kansas territory? \n\n➜ VIEW\nWhat kind of chores do you think pioneer children helped with? With no electricity and running water, chores were a lot harder to do. You will learn how children helped with the laundry.\n∞ Video Link: Pioneer Children's Chores (just watch 1:15-4:50)",
+              "body": "⍞ Materials: Dandelions\n\n➜ RECAP\nWhat did you read about last time?\n\n➜ READ, NARRATE, & DISCUSS\np.15-26\n\n• How was life for pioneer families different from your life?\n• What would be especially hard about moving to a new place like the Kansas territory? \n\n➜ VIEW\nWhat kind of chores do you think pioneer children helped with? With no electricity and running water, chores were a lot harder to do. You will learn how children helped with the laundry.\n∞ Video Link: Pioneer Children's Chores (just watch 1:15-4:50)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recFJP4YjYpvc7nr5",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=33",
               "links": [
                 {
-                  "text": "Video: Pioneer Children's Chores",
+                  "text": "Pioneer Children's Chores",
                   "url": "https://www.youtube.com/watch?v=hai-k3Ouax0&t=660s"
                 }
               ]
@@ -901,13 +910,13 @@
               "lessonLabel": "Lesson 34",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 34",
-              "body": "⍞ Materials: Dandelions\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ READ, NARRATE, & DISCUSS\np.27-42\n• Why did Zoe think the dandelions would be a good present for mom?\n\n➜ VIEW\nThere were always chores for the family to do. Now let's watch the section about cleaning the rugs, gardening, and chopping wood.\n∞ Video Link: Pioneer Children's Chores (11:07-14:05)",
+              "body": "⍞ Materials: Dandelions\n\n➜ RECAP\nWhat do you remember about the last reading?\n\n➜ READ, NARRATE, & DISCUSS\np.27-42\n\n• Why did Zoe think the dandelions would be a good present for Mom?\n\n➜ VIEW\nThere were always chores for the family to do. Now let's watch the section about cleaning the rugs, gardening, and chopping wood.\n∞ Video Link: Pioneer Children's Chores (11:07-14:05)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recjTw5DmKvTpQLmm",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reczpuW6rvOyzzblj&term=3&week=34",
               "links": [
                 {
-                  "text": "Video: Pioneer Children's Chores",
+                  "text": "Pioneer Children's Chores",
                   "url": "https://www.youtube.com/watch?v=hai-k3Ouax0&t=660s"
                 }
               ]
@@ -922,7 +931,7 @@
               "lessonLabel": "Lesson 35",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 35",
-              "body": "➜ CATCH UP Use this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "body": "Catch-Up Day\n\n➜ CATCH UP \nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recXKOOIH36Gacfh3",
               "lessonLinksUrl": "",
@@ -938,7 +947,7 @@
               "lessonLabel": "Lesson 36",
               "linkLabel": "History",
               "title": "20m History: Grades 2-3 (U.S.) - Lesson 36",
-              "body": "",
+              "body": "Exam Week\n\n➜ EXAMS \nAnswer question(s) related to course.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reczpuW6rvOyzzblj&6J82c=recQD1caRSPqgzEJM",
               "lessonLinksUrl": "",
@@ -955,7 +964,7 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "· Abraham Lincoln: An Initial Biography\nTell all you know about the story of Abraham Lincoln’s journey from his childhood to becoming president during the Civil War."
+          "content": "· Abraham Lincoln: An Initial Biography: Tell all you know about the story of Abraham Lincoln’s journey from his childhood to becoming president during the Civil War."
         }
       ]
     }

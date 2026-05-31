@@ -17,9 +17,9 @@
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recj36OQrkZkYtxM6",
     "supplyListUrl": "",
     "basicSuppliesUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec02PG0uJRjfJewY",
-    "lessonPdfUrl": "https://planning.alveary.org/pdf/lesson-plans/reczytoRRePjtWqL0-physics-lessons.pdf",
-    "lessonPdfStatus": "active",
-    "lessonPdfLabel": "Lesson PDF",
+    "lessonPdfUrl": "",
+    "lessonPdfStatus": "none",
+    "lessonPdfLabel": "No Lesson PDF",
     "additional": [
       {
         "label": "Lab Notebook Examples",
@@ -93,7 +93,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-30T14:18:11.930Z",
+  "updatedAt": "2026-05-31T08:31:18.300Z",
   "terms": [
     {
       "termNumber": 1,

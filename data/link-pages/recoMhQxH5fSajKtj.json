@@ -30,7 +30,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-30T14:18:11.545Z",
+  "updatedAt": "2026-05-31T08:31:17.833Z",
   "terms": [
     {
       "termNumber": 1,
@@ -247,6 +247,36 @@
               ]
             }
           ]
+        },
+        {
+          "weekNumber": 23,
+          "weekLabel": "Week 11",
+          "lessons": [
+            {
+              "lessonId": "rec4sQqbpviGCIbIW",
+              "termNumber": 2,
+              "termLabel": "Term 2",
+              "weekNumber": 23,
+              "weekLabel": "Week 11",
+              "sequence": 23,
+              "sort": 0,
+              "lessonLabel": "Lesson 23",
+              "linkLabel": "New Testament",
+              "title": "30m New Testament: Grade 9 - Lesson 23",
+              "topicTitle": "New Testament",
+              "anchor": "term-2-week-23-lesson-23",
+              "links": [
+                {
+                  "text": "Intro to Philippians",
+                  "url": "https://bibleproject.com/explore/video/philippians/"
+                },
+                {
+                  "text": "Philippians Summary",
+                  "url": "https://bibleproject.com/view-resource/259/"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -279,10 +309,6 @@
                 {
                   "text": "Colossians Summary",
                   "url": "https://bibleproject.com/view-resource/260/"
-                },
-                {
-                  "text": "Book of Colossians Guide",
-                  "url": "https://bibleproject.com/guides/book-of-colossians/"
                 }
               ]
             }

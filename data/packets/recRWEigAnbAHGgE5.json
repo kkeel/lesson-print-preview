@@ -28,7 +28,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recSybgW92Wd2KXg9",
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recSybgW92Wd2KXg9",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recRWEigAnbAHGgE5-music-level-3.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recSybgW92Wd2KXg9",
   "hidePdf": "",
   "syllabird": {
@@ -142,11 +142,7 @@
             },
             {
               "title": "",
-              "content": "Hymns & Spirituals\n☐ Bookmark the Alveary hymns, spirituals, and folk song playlist for the year, or create your own YouTube, Spotify, or Amazon playlist if desired.\n\nComposer Study\n• Charlotte Mason often included more music in the program than could be covered in the lesson time. While we choose segments that fit the length of the lesson, students will develop a relationship with the term’s music insofar as it is a part of their daily atmosphere. \n• The YouTube playlist contains nearly the whole year's music, though lessons will occasionally have extra links to historical or musical information. Feel free to create your own playlist if you prefer other platforms to YouTube; though videos are often chosen for visual and sometimes historical interest, the crucial element is the music itself. \n• Use the year's playlist to listen to previous and current pieces in the afternoons, and explore the Extra Helpings as interested (ideas which relate directly to a lesson are usually included nearby, while more general resources and activities are listed on the Extra Helpings page). Grade 5+ extensions are also usually appropriate as Extra Helpings for interested younger students. \n\nSol-fa: Level 3\n☐ Bookmark Sol-fa playlists (see Quick Links). If you create a free account on the SoundCloud app, the Sol-Fa lessons become downloadable for offline use."
-            },
-            {
-              "title": "Term Prep & Teacher Tips",
-              "content": "Composer Study\n☐ Lessons on Handel's Messiah are scheduled at the beginning of Term 2, so many students will reach them around the Christmas holidays. However, depending on how you schedule your year, this may not fit. Feel free to complete the lessons whenever suits your schedule. The Messiah is as much (or more) an Easter piece as a Christmas one, so you could even bump it to Term 3!"
+              "content": "Hymns & Spirituals\n☐ Bookmark the Alveary hymns, spirituals, and folk song playlist for the year, or create your own YouTube, Spotify, or Amazon playlist if desired.\n\nComposer Study\n• Charlotte Mason often included more music in the program than could be covered in the lesson time. While we choose segments that fit the length of the lesson, students will develop a relationship with the term’s music insofar as it is a part of their daily atmosphere. \n• The YouTube playlist contains nearly the whole year's music, though lessons will occasionally have extra links to historical or musical information. This playlist is mostly used in the lessons as videos are often chosen for visual and sometimes historical interest. You will also find a spotify playlist of the term's music in Quick Links for easy afternoon listening. \n• Use the year's playlist to listen to previous and current pieces in the afternoons, and explore the Extra Helpings as interested (ideas which relate directly to a lesson are usually included nearby, while more general resources and activities are listed on the Extra Helpings page). Grade 5+ extensions are also usually appropriate as Extra Helpings for interested younger students. \n\nSol-fa: Level 3\n☐ Bookmark Sol-fa playlists (see Quick Links). If you create a free account on the SoundCloud app, the Sol-Fa lessons become downloadable for offline use."
             }
           ]
         },
@@ -335,23 +331,30 @@
                 },
                 {
                   "id": "recGnqhk22abwX7b9",
-                  "label": "Composer Study Playlist",
-                  "url": "#",
+                  "label": "Composer Study Playlist (YouTube)",
+                  "url": "https://youtube.com/playlist?list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&si=ZX8dezRCvOY6NAt2",
                   "sort": "2",
+                  "sourceTitle": "Composer Study"
+                },
+                {
+                  "id": "rec0wQrpW03GEX0Sh",
+                  "label": "Composer Study Playlist (Spotify)",
+                  "url": "#",
+                  "sort": "3",
                   "sourceTitle": "Composer Study"
                 },
                 {
                   "id": "recd4NCuNZeQPpRqI",
                   "label": "Apppendix: Musical Vocabulary",
                   "url": "#",
-                  "sort": "3",
+                  "sort": "4",
                   "sourceTitle": "Composer Study"
                 },
                 {
                   "id": "recZUnvRrtmIHJuwy",
                   "label": "Foundations (See Section 12: Music)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
-                  "sort": "4",
+                  "sort": "5",
                   "sourceTitle": "Composer Study"
                 }
               ]
@@ -547,11 +550,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 1",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Music in the 19th Century\n\n➜ INTRO\n• What (if anything) comes to mind when you think about the 1800s and particularly music in the 1800s? Jot down any notes in your notebook or share with a friend.\n\n• In term 1, we'll explore some instruments that characterized this century and then get to know a few particular composers and musicians in later terms.\n\n➜ LISTEN & DISCUSS\nOne instrument that spans all cultures and times is the human voice, but each time and place features it in different ways. Opera became particularly popular in the 1800s, and some became huge productions that showcased the flexibility, beauty, and power of the voice in various ways. Today's piece is an aria from an opera called \"La Donna del Lago\" or \"The Lady of the Lake\" by Gioachino Rossini, which was based on a poem by Sir Walter Scott. Even though the words are in Italian, see if you can guess the emotion of the piece as you listen in this lesson and over the week on your own time.\n\n∞ Video Link (YouTube): Tanti Affetti\nTime Marker: 0:0-5:06 or whole piece if time allows\n\n• What kind of feeling do you think this piece communicates? Why?\n• How does this piece show off the beauty, power, or flexibility of the human voice?\n\n➜ (Grade 5+) READ & NARRATE\n∞ Article Link: 19th Century Classical Music",
+              "teacherNotes": "★ TEACHER TIPS\nMusical terms are defined throughout the lessons, but an appendix with all the terms and definitions for the year is also provided in Quick Links for your convenience. Reference as desired.\n\nInstruments are ideal for Book of Century, History Chart, or music notebook sketches. Encourage students to add to their notebooks as desired. Dates for key people and events are also provided throughout the plans.\n\n• IMPORTANT DATES\nLa Donna del Lago first performed (Italy, 1819AD)\n\n• EXTRA HELPINGS\n∞ Video Link: How Vocal Chords Work",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec3DOznxLHVKEIl2",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=1",
+              "links": [
+                {
+                  "text": "Tanti Affetti",
+                  "url": "https://www.youtube.com/watch?v=P6rcV1ltrNo&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=41&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "How Vocal Chords Work",
+                  "url": "https://youtu.be/wcReVyTuB54?si=nLCNm3KjIuPhegyM"
+                },
+                {
+                  "text": "Nineteenth Century Music",
+                  "url": "https://www.metmuseum.org/essays/nineteenth-century-classical-music"
+                }
+              ]
             },
             {
               "lessonId": "recGY81dZj1tKANLI",
@@ -662,11 +678,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 2",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Different Types of Vocal Poetry\n\nPREP: Notebooking sound can be a little tricky. Listen to John Muir Laws talk about capturing birdsong in his notebook to give students ideas on how to sketch some of what they hear in today's musical piece(s) and others throughout the year.\n∞ Video Link: Birdsong in your nature journal\n\n➜ RECAP\nDescribe the piece we started listening to last lesson.\n\n➜ INTRO\nMusical performances in the 19th century became both larger and smaller. Operas and other theatrical performances became more accessible to the middle class and not just the wealthy, but so did the private musical performances in homes or smaller venues. Arias like Tanti Affetti showcased the voice on the large stages, while intimate songs, setting a poem to music with just a piano and voice, explored the power of the human voice to express emotion in these smaller settings. In Germany, several composers wrote so many of this second type of song that they created their own genre of song (called \"lieder\") and became the standard that others followed. \n\n➜ LISTEN & DISCUSS\nNotice any musical features common in bel canto operas, such as trills, melismas, coloratura passages, and even appoggiaturas as you listen to the vocal fireworks that end this aria. You may want to pause the video periodically to jot down what you notice/hear in your notebook. Don't feel like you need to capture the whole aria - just a few key moments that strike you as great!\n\n∞ Video Link (YouTube): Tanti Affetti\nTime Marker: 5:06-end\n\n• What did you notice?\n\n➜ LISTEN & DISCUSS\n∞ Video Link (YouTube): Über allen Gipfeln ist Ruh\nTime Marker: 0:00-1:52\n\n• (Grades 5+) Discuss or sketch the differences in mood, sound quality, and anything else you notice about these two pieces.",
+              "teacherNotes": "• TERMINOLOGY\nBel canto opera:  literally \"beautiful singing\" and a style of opera featuring the voice, which focuses on conveying the emotion of a piece through the singing rather than simply moving the plot forward. \n\nColoratura: literally \"colorful\" singing with fast-moving passages, trills, and vocal leaps.\n\nTrills: moving between two notes very fast.\n\nMelisma: multiple notes sung on one syllable.\n\nAdvanced Listening: Appoggiatura, Chromatic scales\n∞ Video Link: What is appoggiatura?\n\nLieder: German art songs usually featuring piano and voice, where the pianist and singer are equal partners working to interpret and showcase the emotion of the poetry.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recvRq5JceyeUgkZi",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=2",
+              "links": [
+                {
+                  "text": "Birdsong in your Nature Journal",
+                  "url": "https://www.youtube.com/watch?v=qCzabBSix9A&t=290s"
+                },
+                {
+                  "text": "Tanti Affetti",
+                  "url": "https://www.youtube.com/watch?v=P6rcV1ltrNo&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=41&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Über allen Gipfeln ist Ruh",
+                  "url": "https://www.youtube.com/watch?v=ubc5ouQ-SYU&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=42"
+                },
+                {
+                  "text": "What is Appoggiatura?",
+                  "url": "https://www.youtube.com/shorts/jhBm-1TXCxI"
+                }
+              ]
             },
             {
               "lessonId": "recBoKLPzjvdUBYHZ",
@@ -765,11 +798,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 3",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Vocal Poetry cont.\n\n➜ RECAP\nRecall any new musical terms you learned last lesson.\n\n➜ READ & NARRATE\nLet's learn a bit more about the person who composed the song we started learning last lesson. \n∞ Article Link: All About Fanny Mendelssohn\n\n➜ LISTEN & DISCUSS\n\"Goethe’s Wandrers Nachtlied II (Über allen Gipfeln) is considered by many to be the most perfect lyric in the German language. The poet is supposed to have written the poem on the evening of 6 September 1780 onto the wall of a lodge on top of the Kickelhahn Mountain near Ilmenau, where he supposedly spent the night\" (Interlude article)\n\nEnglish Translation: \n\"Over all summits\nIs peace,\nIn all treetops\nYou feel\nHardly a breath:\nThe birds are silent in the woods.\nOnly wait, soon\nYou too shall rest\"\n\nThink of these lyrics as you listen again to Fanny's lied (pronounced \"leed\"). \n\n∞ Video Link (YouTube): Über allen Gipfeln ist Ruh\n∞ Reference Link: About Goethe's poem (explore the other lieder based on this poem as desired).\n\n• How do you hear the music trying to paint a sound picture of the poetry? Think about the dynamics (loud/soft, smooth/rough), melody, and rhythm.\n\n➜ LISTEN & DISCUSS (Optional Grades 1-4)\n• Across the world from Germany, musicians were setting poetry to song in India as well. These songs were called \"kritis\" and are renowned for the same things as lieder: the balance of melody, rhythm, and poetry in their use of the human voice as an instrument. \n• Begin listening to this famous kritis from the early 19th century, saving a minute or two for discussion.\n• Optional: As you listen, sketch a veena in your music notebook. In the same way the piano accompanies the voice in German lider, the veena is the main instrument accompanying the voice in Carnatic music.\n\n∞ Image Link: Veena\n∞ Video Link (YouTube): Soundararajam by Dikshitar\n\n• What similarities and differences do you hear in the way the voice is featured?",
+              "teacherNotes": "★ TEACHER NOTE\nIf your students are having a hard time connecting with Über allen Gipfeln, feel free to spend the whole lessons with Soundararajam, the second piece.\n\n• AFTERNOON LISTENING\nAssigned selections fit in the lesson, but students will develop a relationship with the term's music insofar as it is a part of their daily atmosphere. Use the year's playlist YouTube and/or Spotify playlists to listen to previous and current pieces in the afternoons.\n\n• EXTRA HELPINGS\nExplore more lieder and more about Carnactic music and Muttuswami Dikshitar in extra helpings.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recGFAbGaKQaEzVa9",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=3",
+              "links": [
+                {
+                  "text": "All About Fanny Mendelssohn",
+                  "url": "https://aconyc.org/all-about-fanny-mendelssohn/"
+                },
+                {
+                  "text": "Über allen Gipfeln ist Ruh",
+                  "url": "https://www.youtube.com/watch?v=ubc5ouQ-SYU&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=42"
+                },
+                {
+                  "text": "About Goethe's poem",
+                  "url": "https://interlude.hk/music-of-poetry-johann-wolfgang-von-goethe-uber-allen-gipfeln/"
+                },
+                {
+                  "text": "Soundararajam",
+                  "url": "https://open.spotify.com/track/5tnuN9ZNDErU5mWyHQw3IE?si=99e5843c3f7a4b53"
+                },
+                {
+                  "text": "Veena",
+                  "url": "https://www.britannica.com/art/veena#/media/1/629307/336520"
+                }
+              ]
             },
             {
               "lessonId": "rec1aL2jZl7wu8WHk",
@@ -864,11 +918,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 4",
-              "body": "",
-              "teacherNotes": "",
+              "body": "⍞ Materials: Globe/Atlas\nParents and Cousins of the Guitar\n\n➜ MAPWORK\nLocate the following places in your atlas and (for older students) consider making a page of your music notebook a map and labeling the instruments for each location.\n\n• Scotland (where Sir Walter Scott lived, who wrote the poem which inspired Rossini's opera)\n• Naples, Italy (where Tanti Affetti was first performed)\n• Germany (where Fanny Mendelssohn Hensel and other composers who made the lied famous lived)\n• Southern India (homeplace of Muthuswami Dikshitar, who wrote the kritis from the last lesson)\n\n➜ INTRO\nToday, information can travel the world in milliseconds because of the internet. In the 19th century, people and ideas traveled more slowly but inventions such as instruments did travel and change through both time and place to give us new types of sounds and instruments. For instance, the violin traveled from Europe to India and took on new sounds as it was worked into the compositions of composers such as Dikshitar and others. Another instrument that rose to new prominence in a variety of places was the guitar (and its cousins). \n\nMany trace the origins of the guitar back to the oud from North Africa and Persia. It traveled to Europe in medieval times and gave birth to the lute. A version of the lute called the vihuela de mano traveled to South America with the Spanish and, in the early 1800s, the charango was created. Another version of the lute or oud seems to have influenced the West African folk lute called the akonting, which traveled with enslaved Africans to the Caribbean and Americas and became the banjo in the 1830s. Meanwhile, back in Europe, the lute had given birth to the baroque guitar, which kept undergoing slight changes throughout the 19th and 20th centuries until we arrive at the modern guitar. \n\nStart exploring the sounds of some of these instruments today with the rest of the lesson time.\n\n➜ READ/LISTEN & DISCUSS\n∞ Article Link: Charango\n∞ Video Link: Charango de los Andes\n\n∞ Video Link: Guitars 200 years ago\nTime Marker: 0:0-2:30\n\n∞ Video Link: Cripple Creek (Banjo tune)\n\n➜ (Grades 1-4) DRAW\nSketch a charango, a banjo, or a guitar in your music notebook.\n \n➜ (Grades 5+) LISTEN & DISCUSS\n∞ Video Link: Minstrel Banjo",
+              "teacherNotes": "• MUSICAL CONNECTION\nIf you did Alveary Composer lessons in Rotation 1, you'll remember learning about the oud and European lutes!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec2YZk8QJyqGmVj5",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=4",
+              "links": [
+                {
+                  "text": "Charango",
+                  "url": "https://sites.duke.edu/dumic/instruments/strings/central-and-south-america/charango/"
+                },
+                {
+                  "text": "Charango de los andes",
+                  "url": "https://www.youtube.com/watch?v=JU19N_jNw_o&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=4&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Guitars 200 years ago",
+                  "url": "https://www.youtube.com/watch?v=hpnMPFCqHV8&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=2&t=33s"
+                },
+                {
+                  "text": "Cripple Creek",
+                  "url": "https://www.youtube.com/watch?v=aQkcPSpWWCo&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=44&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Minstrel Banjo",
+                  "url": "https://www.youtube.com/watch?v=N7SWUCpHme8&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=43&t=220s&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "recOveArXK5cqKDVu",
@@ -967,11 +1042,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 5",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Pedro Ximénez Abril Tirado\n⍞ Materials: Globe/Atlas\n\nPREP: Print off a blank world map to label if desired. \n∞ Map Link: Blank World Map\n\n➜ RECAP\nWhat do you remember about the guitar's ancestors and cousins? Add the locations (or add arrows showing the way instruments traveled) to your map in your notebook if desired.\n\n➜ LISTEN & DISCUSS\nToday's guitar piece is by a significant Peruvian composer named Pedro Ximénez Abril Tirado, who spent a lot of time in Bolivia. He was influenced by European music as well as local traditions, and some of his most famous works are for the guitar. Perhaps local musicians also played his works on the popular charangos as well! \n∞ Video Link: Minuet #95\n\n• Describe this piece in five words or less.\n• How does it sound similar or different from the voice pieces we've heard so far this term?\n\n➜ (Grade 5+) READ, NARRATE, & DISCUSS\n∞ Article Link: Tirado bio",
+              "teacherNotes": "• MAPWORK OPTIONS\nEurope: guitar (from Persian oud -> lute)\n\nCaribbean/North America: banjo (from oud (?) -> West African akonting)\n\nBolivia: Charango (from oud (?) -> Spanish lute)\n\n• EXTRA HELPINGS\n∞ Minuets #2 & #15\n\n• IMPORTANT DATE\nPedro Ximénez Abril Tirado (Perú & Bolivia, 1784-1856AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recDj0grnOqIDaFOW",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=5",
+              "links": [
+                {
+                  "text": "World Map",
+                  "url": "https://www.freeworldmaps.net/printable/printable-world-map-hd.jpg"
+                },
+                {
+                  "text": "Minuet #95",
+                  "url": "https://www.youtube.com/watch?v=zCohaWNsBFM&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=9&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Tirdao Bio",
+                  "url": "https://tecla.com/pedro-ximenez-abrill-tirado-by-jose-manuel-izquierdo-konig/"
+                },
+                {
+                  "text": "Minutes #2 & #15",
+                  "url": "https://www.youtube.com/watch?v=t7XuFxLMwWk&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=44&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "recR7Dqepg9C9AB0G",
@@ -1078,11 +1170,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 6",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Father of Classical Guitar\n\n➜ RECAP & MAPWORK\nAdd Pedro Ximénez Abril Tirado to Peru on your map. \n\n➜ INTRO\nJust a few years before Pedro Abril Tirado died, a baby was born in Spain who would bring the guitar even further into the musical spotlight. Francisco Tárrega studied both the piano and the guitar growing up, and then studied music theory and composition. He is called the father of classical guitar because he showed how the guitar could be a solo instrument like the piano, voice, or violin, and create expressive melodies. (Before Tárrega, some thought the guitar was only good for folk songs and accompanying singers.) \n\n➜ LISTEN & DISCUSS\nToday's piece is possibly Tárrega's most famous work. Pay attention to how fast the guitarist's fingers are moving to create the tremolo you hear!\n∞ Video Link: Recuerdos de la Alhambra\n\n• Which guitar piece has been your favorite over the last few lessons?\n\n➜ (Grade 5+) READ, NARRATE, & DISCUSS\n∞ Article Link: Tárrega bio",
+              "teacherNotes": "• IMPORTANT DATE\nFrancisco Tárrega (Spain, 1852-1909 AD)\n\n• AFTERNOON LISTENING\nExplore a few other pieces by Tárrega in the YouTube playlist in the afternoons. Plus, enjoy a violin rendition of Recuerdos de Alhambra!\n\n• TERMINOLOGY\nTremelo: quickly plucking the strings on the guitar to create the sense of a continuous shimmering sound.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recn9oJKtVcKvjkct",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=6",
+              "links": [
+                {
+                  "text": "Recuerdos de la Alhambra",
+                  "url": "https://www.youtube.com/watch?v=R-5weyHVC2U&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=42"
+                },
+                {
+                  "text": "Francisco Bio",
+                  "url": "https://learnavel.com/blogs/classical-guitar/francisco-tarrega-father-of-classical-guitar"
+                },
+                {
+                  "text": "Antonio Torres bio",
+                  "url": "https://classicalguitarmagazine.com/from-the-archives-a-200th-birthday-appreciation-of-luthier-antonio-de-torres/"
+                }
+              ]
             },
             {
               "lessonId": "rec3qBNoDxIpSyGkE",
@@ -1181,11 +1286,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 7",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Valved Brass\n\n➜ RECAP\n• Who was Francisco Tárrega? \n• Add his name to your map near Spain.\n• Can you hum a tune from his Recuerdos de la Alhambra?\n\n➜ INTRO\nOur next instrument is the horn! Horns have been around for a very long time, but it's only since the 19th century that they could easily play a lot of different notes. Horns make sound based on the length of space the air has to vibrate in their brass tubes. As long as the tube length stays the same, there is a limited number of notes a musician can play because of the way sound waves work. But if you change the length of the space the air has to vibrate in the tubes, you can play more notes. Before the 19th century, musicians would change the length of tubing by adding additional sections or inserting their hand into their horn. This was not very convenient for musicians, so when the idea occurred to instrument makers to add valves that opened and closed extra sections of tubing, it revolutionized horn music.\n\n➜ LISTEN & DISCUSS\nAt the beginning of the term, we talked about how the 19th century is famous for music, both on a large scale and in smaller settings. Horns are instruments that composers love to use when they want to create a big sound! John Phillip Sousa was an American composer who was nicknamed the march king. Listen for all the horns in the march we're listening to today!\n∞ Video Link: The Stars & Stripes Forever\n\n• Did you hear the horns? \n\n➜ DRAW\nSketch a valved brass trumpet in your music journal and/or Book of Centuries.\n∞ Image Link: Valved horn\n\n➜ (Grade 5+) LISTEN & DISCUSS\nYou will not be able to finish the video during the lesson, so just listen with the remaining time, and you will finish it next week.\n∞ Video Link: Harmonics Explained",
+              "teacherNotes": "★ TEACHER TIPS\nEncourage students to listen actively to the music. For some, this may mean moving while they listen. Others might want to continue notebooking what they hear while they listen. Encourage students to try different ideas.\n\n\n• EXTRA HELPINGS\n∞ Video Link: Understanding Period Instruments\n\n• IMPORTANT DATE\nJohn Phillip Sousa (US, 1854-1932)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recJjS20iJFHfagHW",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=7",
+              "links": [
+                {
+                  "text": "The Stars & Stripes Forever",
+                  "url": "https://www.youtube.com/watch?v=a-7XWhyvIpE&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=36&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Valved Horn",
+                  "url": "https://www.metmuseum.org/art/collection/search/503893"
+                },
+                {
+                  "text": "Harmonics Explained",
+                  "url": "https://www.youtube.com/watch?si=K-uYU49YlhgDly7N&v=Qzvp4_igvyw&feature=youtu.be"
+                },
+                {
+                  "text": "Understanding Period Instruments",
+                  "url": "https://www.youtube.com/watch?v=WnOP8ug73m4&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=42&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "recn6jEO5n3GOLA4I",
@@ -1280,11 +1402,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 8",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Stars and Stripes Forever\n\n➜ RECAP\nWhat is a \"valved brass\" instrument, and how is it different from the brass instruments that people used before it?  \n\n➜ INTRO\nA lot of wars and revolutions occurred in the 1800s, which made marches exceptionally popular.\n\n➜ LISTEN & DISCUSS\nMarch while you listen to the music. \n∞ Video Link: The Stars & Stripes Forever\n\n• What makes this music so good for marching?\n• Name as many instruments as you can that you see in the video.\n\n➜ (Grade 5+) LISTEN & DISCUSS\nFinish the video on harmonics that you began last lesson. \n∞ Video Link: Harmonics Explained",
+              "teacherNotes": "• EXTRA HELPINGS\nFunny article and bio of Sousa as well as along bio with extra details on the structure and history of the Stars & Stripes forever.\n∞ Article Link: Marching with John\n∞ Article Link: Stars & Stripes Extended History",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recMzpBmEG1crNljU",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=8",
+              "links": [
+                {
+                  "text": "The Stars & Stripes Forever",
+                  "url": "https://www.youtube.com/watch?v=a-7XWhyvIpE&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=36&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Harmonics Explained",
+                  "url": "https://www.youtube.com/watch?si=K-uYU49YlhgDly7N&v=Qzvp4_igvyw&feature=youtu.be"
+                },
+                {
+                  "text": "Marching with John",
+                  "url": "https://interlude.hk/marching-with-john/"
+                },
+                {
+                  "text": "Stars & Stripes Extended History",
+                  "url": "https://human.libretexts.org/Bookshelves/Music/Ethnomusicology/Resonances_-_Engaging_Music_in_its_Cultural_Context_(Morgan-Ellis_Ed.)/05%3A_Functional_Music/12%3A_Music_for_Moving/12.03%3A_John_Philip_Sousa_-_The_Stars_and_Stripes_Forever"
+                }
+              ]
             },
             {
               "lessonId": "recSP3qsXRPQ8rXkH",
@@ -1387,11 +1526,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 9",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Saxophone\n\n➜ RECAP\nDescribe the Stars and Stripes Forever. Add John Phillip Sousa to your map (the US). \n\n➜ INTRO\nYou may remember hearing about the saxophone if you've used the Alveary lessons on Jazz, but the instrument was invented in the early 1800s and used in classical repertoire before it took off into the world of jazz and blues. Adolphe Sax patented the instrument and displayed it at the 1844 Paris Exhibition, and his instruments won a competition with other manufacturers and were adopted by the French military band! Adolphe's friend Jean Baptiste Singelee composed some of the first pieces of published music for the new instrument.\n\n➜ LISTEN & DISCUSS\nThe recording below lets you see the instrument live, but the following recording in the playlist uses an actual saxophone created by Adolphe Sax! So be sure to listen to that one over the week as well!\n∞ Video Link: Septième Solo de Concert \n\n• Describe the sound of the saxophone. What other instruments does it remind you of?\n\n➜ VIEW & DISCUSS (Grades 1-4)\nHistory & Making of the Saxophone\nTime Marker 0:0-2:00\n\n➜ (Grade 5+) VIEW & DISCUSS\nUse the remaining time to learn more about Sax and the saxophone. \n∞ Video Link: Murder & Saxophones",
+              "teacherNotes": "• IMPORTANT DATE\nAdolphe Sax (Belgium/France, 1814-1894AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recgne1CVe9YJLljJ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=9",
+              "links": [
+                {
+                  "text": "Septieme Solo de Concert",
+                  "url": "https://www.youtube.com/watch?v=I89PFDpfOhk&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=39&pp=iAQB8AUB0gcJCQoLAYcqIYzvsAgC"
+                },
+                {
+                  "text": "History & Making of the Saxophone",
+                  "url": "https://www.youtube.com/watch?v=z-GDrCxcV80&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=44&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Murder & Saxophones",
+                  "url": "https://www.youtube.com/watch?v=BmJpwT_jcrU&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=45&t=901s&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "reczBV8t0D66Hd5Em",
@@ -1510,11 +1662,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 10",
-              "body": "",
+              "body": "Saxophone\n\n➜ RECAP\nWhat new instrument did we start learning about last lesson? Add the saxophone/Adophe Sax to your map in Belgium (where Sax was from) or France (where he mostly lived and worked).\n\n➜ DRAW, LISTEN & DISCUSS\nThe saxophone is considered a woodwind instrument even though it has some similarities with brass horns. Sketch a picture of a saxophone in your notebook as you listen.\n∞ Image Link: Picture of a saxophone\n∞ Video Link: Septieme Solo de Concert (same as you heard last lesson)\nOR\n∞ Video Link: Fantaisie for Saxophone (if you want to hear a new saxophone piece)\n\n• Do you think the saxophone fits best in an intimate, smaller setting (like the voice & piano lieder we heard) or a large musical setting (like the horns)?\n\n➜ (Grade 5+) DISCUSS\nAdolphe Sax created a new instrument by looking at other instruments like the clarinet and ophicleide (kind of like a tuba) and then creating an instrument with elements of both. Think about instruments you know and imagine what a new instrument you could create. What two instruments would you try to combine? Sketch out possibilities for your new instrument!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recgf8HcW7WtAEPjE",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=10",
+              "links": [
+                {
+                  "text": "Septieme Solo de Concert",
+                  "url": "https://www.youtube.com/watch?v=I89PFDpfOhk&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=39&pp=iAQB8AUB0gcJCQoLAYcqIYzvsAgC"
+                },
+                {
+                  "text": "Fantaisie for Saxophone",
+                  "url": "https://www.youtube.com/watch?v=i0P-1zBpD58&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=47&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Picture of a Saxophone",
+                  "url": "https://nationalsaxophonemuseum.com/adolphe-sax-alto-10663.html"
+                }
+              ]
             },
             {
               "lessonId": "rectTSfJiof3rSOqc",
@@ -1608,11 +1773,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 11",
-              "body": "",
-              "teacherNotes": "",
+              "body": "The Paris World Fair\n\nPREP: If teaching youner students, read today's article and mark sections to share with students. Older students will enjoy reading the article directly and can explore extra links and videos on the page on their own time or over exam week. \n\n➜ RECAP\nName as many pieces and/or instruments as you can that we've listened to this term.\n\n➜ INTRO\nAs you've heard over the term, many \"new\" instruments in the 19th century were not actually new. But they came into the public eye in fresh ways, whether because they were optimized (the horns), reimagined (saxophones), repositioned (guitars), used in fresh ways (the voice), or introduced in new contexts. The 1889 World's Fair in Paris, celebrating 100 years since the French Revolution, featured an example of this last category when Claude Debussy and several other French composers heard Javanese gamelan orchestras play for the first time. Javanese Gamelan orchestras and their instruments are not at all new, but it was one of the first times the Western world was exposed to their sounds.\n\n➜ READ, LISTEN & DISCUSS\nLearn about gamelan orchestras and some of the key instruments, and then begin listening to the piece at the end of the page.\n∞ Article & Video Link:  Link: Gong-chime orchestra\n\n• Sketch one of the instruments in the article as you listen.\n• How would you describe the sound of the orchestra to a friend?",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Article Link: Photos of the World Fair",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recFbxYdBVgt141R3",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=1&week=11",
+              "links": [
+                {
+                  "text": "About Gamelan orchestras",
+                  "url": "https://fraryguitar.com/history_frary73/Romantic06.htm"
+                },
+                {
+                  "text": "Photos of the World's Fair",
+                  "url": "https://rarehistoricalphotos.com/paris-exposition-universelle-in-rare-pictures-1899/"
+                }
+              ]
             },
             {
               "lessonId": "recWxUmFVY4d8hWPE",
@@ -1676,7 +1850,7 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 12",
-              "body": "",
+              "body": "Exams\n\n➜ EXAMS \nAnswer question(s) related to course.\n\nQuestions will come from:\nComposer Study",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recbjhxhyMFNbgWcq",
               "lessonLinksUrl": "",
@@ -1793,11 +1967,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 13",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Meet Edvard Grieg\n⍞ Materials: Globe/World atlas\n\n➜ INTRO & MAPWORK\n• Our composer this term is a famous Norwegian composer named Edvard Grieg. One fun fact about him is that he was only 5' tall! Spend a few minutes getting to know a bit more about him.\n∞ Audio Link: About Grieg\n\n• Locate Norway, Germany, and Denmark in your atlas/globe. Can you find the Norwegian cities of Bergen (where Grieg was born) and Oslo? Copenhagen, Denmark? Leipzig, Germany (where Grieg studied)?\n\n➜ (Grade 5+) VIEW & DISCUSS\nScan the list of Grieg's compositions. What stands out to you? Any wonderings? Any guesses on how his music might compare to other composers you've met?\n∞ Article Link: List of Compositions\n\n➜ LISTEN & DISCUSS\nOur first piece by Grieg is his piano concerto in A minor which was one of his earliest compositions and his last. First published in 1868 when he was only 24 years old, he continued to revise the work up until the end of his life. The last version which he finished only weeks before his death is the one most performed today. The first movement is too long for the lesson so just start listening to the piece with remaining lesson time and continue listening to the rest of the concerto in the afternoon. The very first notes of the piece are some of the most famous.\n\n∞ Video Link: Concerto in A minor",
+              "teacherNotes": "★ STUDENT (G9+)/TEACHER RESOURCE\n∞ Podcast Link: More about Edvard Grieg\n\n• IMPORTANT DATE\nEdvard Grieg (1843-1907AD, Norway)\n\nPiano Concerto in A minor written (1868AD)\n\n• TERMINOLOGY\nConcerto: A large musical composition (usually comprising three movements) featuring a solo instrument accompanied by orchestra; often features one or more cadenzas.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec2CMtnSvUYzekD6",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=13",
+              "links": [
+                {
+                  "text": "List of Works",
+                  "url": "https://en.wikipedia.org/wiki/List_of_compositions_by_Edvard_Grieg"
+                },
+                {
+                  "text": "About Grieg",
+                  "url": "https://www.classicsforkids.com/podcast/edvard-grieg-1-about-edvard-grieg/"
+                },
+                {
+                  "text": "Piano Concerto in A minor",
+                  "url": "https://www.youtube.com/watch?v=I1Yoyz6_Los&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=54&t=223s&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "More about Edvard Grieg",
+                  "url": "https://shows.acast.com/62666225d66a880012621edb/episodes/677cea83172a299f31efa72b?"
+                }
+              ]
             },
             {
               "lessonId": "rec6GnUJecyxEzqNo",
@@ -1896,11 +2087,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 14",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Concerto in A Minor\n\n➜ RECAP\nTell what you remember about Edvard Grieg.\n\n➜ LISTEN & DISCUSS\nRead/share from the note in the YouTube description to learn more about our concerto. For older students, consider watching the score as you listen. Notice that the second movement is marked as \"Adagio\" which means \"at ease\" and generally tells musicians to play at a slow, relaxed pace. Pay attention to other terms you see on the score and reference your vocabulary appendix or guess at the meaning based on what you hear. \n∞ Video Link (YouTube): Concerto in A minor\nTime Marker: 12:51 - 20:15\n\n• How does this second movement sound different from the first or third?\n\n• Grieg's concerto is often compared to Robert Schumanns concerto which premierred only a few years earlier. Both composers completed only one concerto, both in the key of A minor, and both now very famous. Listen to just the first few seconds of Schumann's concerto and then the opening of Grieg's concerto and discuss any similarities you hear and explore further on your own time.\n∞ Video Link: Schumann Concerto\n\n• Fun fact: Grieg's third movement begins with a tune that was likely influenced by a Norwegian folk dance called Halling. Learn more about halling in extra helpings if interested!\n\n➜ (Grade 5+) LISTEN & DISCUSS\nFranz Liszt was one of the 19th centuries most famous pianists. Hear the story of his meeting with Grieg and reaction to the concerto.\n∞ Video Link: When Liszt Played Grieg\nTime Marker: 5:34-end",
+              "teacherNotes": "• EXTRA HELPING ACTIVITY\nAdvanced challenge: Diagram Grieg's concerto by looking at the score (see link in extra helpings) and listening to the music. Start with the three movements and then use the dynamic markings and the \"A\" or \"B\" markings in the score to help you see how Grieg divides each movement.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec006My7rDhODyH7",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=14",
+              "links": [
+                {
+                  "text": "Piano Concerto V2",
+                  "url": "https://www.youtube.com/watch?v=KDYvF6D6axc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=26&t=1001s&pp=iAQB8AUB0gcJCQ0LAYcqIYzvsAgC"
+                },
+                {
+                  "text": "Schumann Concerto",
+                  "url": "https://www.youtube.com/watch?v=Ynky7qoPnUU&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=55&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "When Liszt played Grieg",
+                  "url": "https://www.youtube.com/watch?v=sutOHXfD7kw"
+                }
+              ]
             },
             {
               "lessonId": "rec41qKfWE4pfdEuM",
@@ -2003,11 +2207,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 15",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Holberg Suite\n\n➜ RECAP\nDo you remember any melodies from the Concerto in A minor? Try humming one!\n\n➜ INTRO\nGrieg produced some of his most famous pieces in the 1880s. Today's piece is a suite (a series of dances) in honor of the playwright Ludvig Holberg who is considered the father of Norwegian literature (or Danish literature, depending on who you ask). Holberg (1684-1754AD) lived nearly the same time that J.S. Bach lived (1685-1750), so when Grieg went to compose a piece honoring the centenary of his death, he worked to create a piece that sounded a bit like music from Holberg's time. He composed the piece first for the piano and then added the stringed version a few months later. Read/share a bit more from the article below.\n\n∞ Article Link: Translating the Past to Today\n\n➜ LISTEN & DISCUSS\nToday's piece is just the opening prelude to the suite for both piano and strings. You'll find other recordings of the full suite in the playlist to listen to in the afternoons. Keep your notebook out and try to sketch the sound of at least the opening minute or two in your notebook.\n∞ Video Link: Holberg Suite (Prelude)\n∞ Video Link: Holberg Suite (Prelude-Piano)\n\n• If you wrote a piece of music honoring someone from the past, who would it be?\n• Which version of the piece do you prefer?\n\n➜ (Grade 5+) LISTEN & DISCUSS\nContinue listening to the next dance in the suite!\n∞ Video Link: Holberg Suite (Gavotte)",
+              "teacherNotes": "• EXTRA HELPINGS\n∞ Article Link: About Holberg\n\n• IMPORTANT DATE\nHolberg Suite composed (1884AD)\n\n• AFTERNOON LISTENING\nBe sure to listen to the full suite in the afternoons (either the piano or orchestra version).",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recLpTsveLQgtkuLK",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=15",
+              "links": [
+                {
+                  "text": "Translating the Past to Today",
+                  "url": "https://interlude.hk/translating-the-past-to-today-griegs-holberg-suite/"
+                },
+                {
+                  "text": "Holberg's Suite: Prelude",
+                  "url": "https://www.youtube.com/watch?v=a3p3cna7J6Q&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=28"
+                },
+                {
+                  "text": "Holberg's Suite (Prelude - Piano)",
+                  "url": "https://www.youtube.com/watch?v=sjHsTANn5Ew&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "About Holberg",
+                  "url": "https://voicemap.me/tour/bergen/pocket-bergen-walking-tour-a-guide-to-the-city-s-landmarks-and-history/sites/the-statue-of-ludvig-holberg-2"
+                },
+                {
+                  "text": "Holberg's Suite: Gavotte",
+                  "url": "https://www.youtube.com/watch?v=kJ6AaBArhRw&t=381s"
+                }
+              ]
             },
             {
               "lessonId": "recreA11BRVm6KBbq",
@@ -2118,11 +2343,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 16",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Holberg Suite cont.\n\n➜ RECAP\n• What instruments did you see in Holberg's Suite?\n• Describe the opening prelude in three words. \n\n➜ INTRO\n• If you wanted to write a song that reminded you of a particular place, what would you do? Can you think of a song or piece of music which captures the essence of a place somehow?\n\n• As the article from last lesson mentioned, Grieg wanted to create music that sounded Norwegian. In his 20s, Grieg spent a summer with Ole Bull, a famous Norwegian violinist. Bull and other Norwegian musicians inspired Grieg to use Norwegian folk songs and melodies as the inspiration for his music. Some people thought that he wasn't a \"serious\" composer because of this, but Grieg and many other 19th century composers who used folk songs in their music disagreed! \n\n➜ LISTEN & DISCUSS\n• Notice that all of the musicians in this performance are playing from memory! Watch how the musicians communicate with each other to draw out the melodies in the piece. Watch and hear the violins talking together as well!\n• Listen for big shifts in dynamics (soft, loud, choppy, smooth).\n\n∞ Video Link: Holberg Suite (Air + Rigaudon)\nTime Marker: 9:35 - 16:40 (or end if time allows)\n\n• Did you notice that the viola players occasionally use their fingers to play? This is called pizzicato, which is a fun word to say.\n \n➜ (Grade 5+) READ & NARRATE\n∞ Article Link: Romanticism in Music \"What is Romanticism\" & \"Topics of Romanticism\"",
+              "teacherNotes": "• EXTRA HELPINGS\nA modern composer reflects on the Holberg Suite. \n∞ Video Link: Holberg Reflections",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec3kMzsVrMDI12xe",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=16",
+              "links": [
+                {
+                  "text": "Holberg's Suite (staring at Air)",
+                  "url": "https://www.youtube.com/watch?v=kJ6AaBArhRw&t=575s"
+                },
+                {
+                  "text": "Romanticism in Music",
+                  "url": "https://www.libertyparkmusic.com/the-romantic-period/"
+                },
+                {
+                  "text": "Holberg Reflections",
+                  "url": "https://youtu.be/R8Nc7lKm7D8?si=XJVq1MNVNlfoaqXW"
+                }
+              ]
             },
             {
               "lessonId": "recMWiQfZXxcsp94z",
@@ -2221,11 +2459,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 17",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Peer Gynt Suite\n\n➜ RECAP\n• One author described the Holberg Suite like this: \"Originally written for piano, Grieg jazzed it up with strings, giving us five movements that prance around like a Baroque dance party. And the opening 'Praeludium' is like a caffeinated squirrel sprinting through a fjord\" (Hermione Lai, Interlude.hk). Do you agree?\n• If you had to finish the sentence, \"the opening movement is like ____\" or \"the last movement is like ___\" what would you say?\n\n➜ INTRO\nIf Grieg's suite to honor Holberg blended older forms of music with fresh ideas and Norwegian folk songs, his collaboration with a living playwright, Henrik Isben, produced a suite which was even more quintissentially Norwegian. Partially because of all the wars and revolutions in the 1800s, many people wanted to create a sense of national pride and identity to show how they were different from other places. In addition to using folk songs and melodies in their music, composers like Grieg did this by creating new musical forms or breaking the rules of older forms.\n\nPeer Gynt is a play written in verse by the Norwegian playwright Henrik Isben. It's the story of an anti-hero, Peery Gynt, who makes a series of horrible life choices and eventually is faced with the consequences and has a chance to repent at the end. Grieg's task was to write incidental music to go along with the play - the equivalent of modern day film scores. He had a horrible time with the project and wrote in a letter: \n\n\"With Peer Gynt, things are progressing very slowly, and finishing by Autumn is out of the question. It is a terribly unruly subject, certain places excluded, such as, e.g. where Solveig sings; I have completed all of that, too. And, also, I have made something for In the Hall of the Mountain King, which I literally cannot bear to listen to; that's how much it sounds of cow pats, of Norwegian-Norwegian-ness and self-satisfaction! But I also expect the irony to be felt\" (fib.no/en/news/2024/griegs-gynt).\n\nThe full set of music for the play was 26 pieces long! But not long after he finished the music, Grieg rearranged several of the pieces from different sections of the play into two suites of four pieces each. These suites are what made Grieg famous, and you may even recognize some of the melodies as they have remained popular today.\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Morning Mood\nTime Marker 0:0-4:55\n\n• If you illustrated a picture to go with this piece, what would you draw?\n• What instruments do you hear? [Flutes come in first and then oboes and start the main tune]. \n• Can you hum a piece of the main tune?\n\n➜ (Grade 5+) ILLUSTRATE\nSketch or paint your illutration!",
+              "teacherNotes": "• EXTRA HELPINGS\nShort overview of the story of Peer Gynt. \n∞ Audio Link: The Story of PG\n\n• TERMINOLOGY\nincidental music: music composed to go along with a play.\n\n• AFTERNOON LISTENING\nBe sure to listen to the rest of the Peer Gynt Suite No. 1 in the afternoons!\n\n• IMPORTANT DATE\nPeer Gynt composed (1875 for the full play and then rearranged and published in 1888 as the Peer Gynt Suite No. 1 and No. 2)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recxSLl1IVmClvRRr",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=17",
+              "links": [
+                {
+                  "text": "Morning Mood",
+                  "url": "https://www.youtube.com/watch?v=nkBti3oSdlA&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=32"
+                },
+                {
+                  "text": "Story of PG",
+                  "url": "https://www.classicsforkids.com/podcast/edvard-grieg-2-the-story-of-peer-gynt/"
+                }
+              ]
             },
             {
               "lessonId": "rec9TikyzucUJaH0c",
@@ -2336,11 +2583,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 18",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Death of Ase\n\n➜ RECAP\nWhat was the illustration that came to mind when you listened to Morning Mood? In the play, Morning Mood depicts the sun rising over the Moroccan desert surrounded by palm trees after his friends left him there. Is that what the piece sounds like to you?\n\n➜ LISTEN & DISCUSS \nThe next piece in the suite was written to go along with a part of the play where Peer Gynt is sitting with his dying mother. Grieg and many composers in the 1800s were particularly good at showing emotion in music. To create a quiet, subdued sound, Grieg wrote this piece for muted strings.\n∞ Video Link: Death of Ase\nTime Marker: 4:55-10:45\n \n• What emotions does this piece evoke? What features of the music help create this feeling?\n\n➜ (Grade 5+) LISTEN & DISCUSS\nContinue listening to the next movement in the suite: Anitra's dance (stop at 14:10). Listen for the pizzicato in this piece as well!",
+              "teacherNotes": "• ILLUSTRATE\nAs you listen or on your own time, create a series of illustrations to go with each piece of the Peer Gynt Suites!\n\n• EXTRA HELPINGS\nSome think that the sound of Morning Mood is patterned after the tone of the Hardanger fiddle, a unique Norwegian type of violin. \n∞ Article Link: Hardanger Fiddler",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec9duy49fTKPZ12b",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=18",
+              "links": [
+                {
+                  "text": "Death of Ase",
+                  "url": "https://www.youtube.com/watch?v=nkBti3oSdlA&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=32"
+                },
+                {
+                  "text": "Hardanger Fiddle",
+                  "url": "https://stringsmagazine.com/a-trip-to-norway-an-introduction-to-the-hardanger-fiddle-and-how-one-learns-to-make-them/"
+                }
+              ]
             },
             {
               "lessonId": "recscvHwV0FO88JeX",
@@ -2443,11 +2699,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 19",
-              "body": "",
-              "teacherNotes": "",
+              "body": "In the Hall of the Mountain King & Solveig's Sang\n\n➜ RECAP\nIf you had to pick a color to represent Morning Mood and another for the Death of Ase, what would they be?\n\n➜ LISTEN & DISCUSS\nToday we're listening to the final piece in the Peer Gynt No. 1 Suite and a particularly famous song from the second suite which Grieg and his wife Nina used to perform together. Nina was a soprano singer and Grieg once said that she was the best interpreter of his work.  \n\n∞ Video Link: In the Hall of the Mountain King\n∞ Video Link: Solveig's Sang\n\n• Guess what Grieg is depicting musically in \"In the Hall of the Mountain King\"? [Peer Gynt is chased by angry mountain trolls!]\n• Describe the mood of Solveig's Sang. [Context to give after initial discussion of the mood: Solveig is the woman who falls in love with Peer Gynt in the play and she sings this while she waits for him to come back to her from all his wanderings.]\n\n➜ (Grade 7+) READ, NARRATE, & (optional)\n∞ Article Link: About Nina Grieg",
+              "teacherNotes": "★ TEACHER NOTE\nIf time is tight, feel free to omit Solveig's Sang in the lesson and assign it for afternoon listening.\n\n• AFTERNOON LISTENING\nListen to the full Peer Gynt Suite No.2 as interested!\n\n• EXTRA HELPINGS\nRecording from 1889 of Nina Grieg singing Solveig's Sang.\n∞ Article Link: Nina Sings Solveig's Sang",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recvKfiTQe4Nk58J7",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=19",
+              "links": [
+                {
+                  "text": "In the Hall of the Mountain King",
+                  "url": "https://www.youtube.com/watch?v=nkBti3oSdlA&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=32&t=850s"
+                },
+                {
+                  "text": "Solveig's Sang",
+                  "url": "https://www.youtube.com/watch?v=3TUhk00H86g&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=47&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Suite No. 2",
+                  "url": "https://www.youtube.com/watch?v=laG3duylj_I&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=33"
+                },
+                {
+                  "text": "Nina Sings Solveig's Sang",
+                  "url": "https://classicalmusic101blog.wordpress.com/2019/11/18/peer-gynt-op-23-solvejgs-sang-performed-by-nina-grieg-1889-edvard-grieg/"
+                },
+                {
+                  "text": "About Nina Grieg",
+                  "url": "https://www.norwegianamerican.com/norwegian-american-women-of-distinction-nina-hagerup-grieg/"
+                }
+              ]
             },
             {
               "lessonId": "recGqo8COUbMj5Igy",
@@ -2550,11 +2827,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 20",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Children's Songs\n\n➜ RECAP\nHum a tune from the Peer Gynt suite. \n\n➜ INTRO\nGrieg composed a series of songs for children which paint many pictures of everyday Norwegian life. Grieg's and other 19th century composers' were often interested in using music to express emotion and depict the natural world. \n\n➜ LISTEN & DISCUSS\nRead more about the songs and pick a few songs to listen to today.\n∞ Article Link: Children's Song Description & Translation\n∞ Video Link: Seven Children's Songs\n\n• How does Grieg paint a picture with his music?\n\n➜ ILLUSTRATE (optional Grades 1-4)\nSketch or paint an illustration or two to go with the song(s) you listened to this lesson.",
+              "teacherNotes": "• IMPORTANT DATE\nChildren's Songs composed (1894)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec5MxvoMAwDaQlz4",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=20",
+              "links": [
+                {
+                  "text": "Seven Children's Songs",
+                  "url": "https://www.youtube.com/watch?v=LqhzOjXHtwg&list=PLO9FsKeaaDxUg1JP1Robvn-qUKWn6ZLgb&index=6"
+                },
+                {
+                  "text": "Children's Song Description & Translation",
+                  "url": "https://www.collavoce.com/zoo/item/two-grieg-children-s-songs-vol-1-15-95019"
+                }
+              ]
             },
             {
               "lessonId": "rec29jRTp3QEsVLvL",
@@ -2649,11 +2935,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 21",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Wedding Day at Troldhaugen\n\n➜ RECAP\nWhich of the Children's songs by Grieg were your favorite?\n\n➜ VIEW\nEdvard & Nina's house.\n∞ Image Link: Pictures of Troldhaugen\n\n➜ INTRO\nAs mentioned a few lessons ago, Edvard often composed voice pieces with his wife in mind, but he also composed some pieces for her. He wrote several books of short piano pieces (called lyrics pieces), and one is called Wedding Day at Troldhaugen which he originally wrote in 1896 to commemorate his 25th wedding anniversary.  Edvard and Nina knew each other as children and then remet as young adults. Initially both their parents opposed their engagement, but they eventually agreed to the marriage and Edvard and Nina were married. They supported each other in their musical endeavors and were each others' partners in many ways. But their marriage also suffered after their little daughter died and at one point it looked like they might separate for good. With the help of friends, they decided to reconcile, however, and it seems they were happy together in their later years at their beloved home, Troldhaugen.\n\n➜ LISTEN & DISCUSS\nEnjoy this lively piano piece and explore the recording by Grieg himself if interested.\n∞ Video Link: Wedding Day at Troldhaugen\n∞ Audio Link: Grieg Plays Wedding Day (listen to as much as desired)\n\n• Edvard and Nina Grieg lived just recently enough that we have a few early recordings of their work. Discuss how this changes our ability to understand a composer's life and music to have audio (and now video) recordings of their lives and work.\n\n➜ (Grade 5-8) READ & NARRATE\n∞ Article Link: About Wedding Day at Troldhaugen\n\n➜ (Grade 9-12) READ & NARRATE\nStart reading the longer bio of the Griegs, mark where you end in your notebook (you'll continue next lessons), and leave a minute or two to narrate.\n∞ Article Link: More about the Griegs",
+              "teacherNotes": "• IMPORTANT DATE\nWedding Day at Troldhaugen composed (1895AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recPPtXUusKbmIQwv",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=21",
+              "links": [
+                {
+                  "text": "Wedding Day at Troldhaugen",
+                  "url": "https://www.youtube.com/watch?v=7PzsyZR6Jt4&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=35&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Pictures of Troldhaugen",
+                  "url": "https://www.google.com/search?sca_esv=422503223facc176&cs=0&output=search&kgmid=/m/05px1l&q=Troldhaugen&shem=dlvsc,rimspwouoe&shndl=30&source=sh/x/loc/uni/m1/1&kgs=a94f279c560be8de&utm_source=dlvsc,rimspwouoe,sh/x/loc/uni/m1/1#lpg=cid:CgIgAQ%3D%3D"
+                },
+                {
+                  "text": "Grieg Plays Wedding Day ",
+                  "url": "https://www.youtube.com/@theoshow2"
+                },
+                {
+                  "text": "About Wedding Day at Troldhaugen",
+                  "url": "https://interlude.hk/silver-memories-grieg-wedding-day-at-troldhaugen/"
+                },
+                {
+                  "text": "More about the Griegs",
+                  "url": "https://www.uudb.org/grieg-edvard-and-nina/"
+                }
+              ]
             },
             {
               "lessonId": "recjuVaYOOqtwxqSf",
@@ -2756,11 +3063,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 22",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Wedding Day at Troldhaugen cont.\n\n➜ RECAP\nCan you hum the main theme of Wedding Day at Troldhaugen? One aspect of Grieg's brilliance is how many memorable and singable melodies he managed to create.\n\n➜ INTRO \nView pictures of Edvard and Nina Grieg. \n∞ Image Links: Pictures of the Griegs.\n\n➜ LISTEN & DISCUSS\nAlthough Grieg did not arrange Wedding Day at Troldhaugen for orchestra, others have. Listen to the orchestra rendition or a version for saxophone quartet and see which one you prefer out of the three.\n∞ Video Link: Wedding Day Orchestra\n∞ Video Link: Wedding Day Saxophone\n\n• Do you prefer the piano rendition or the other one you heard?\n\n➜ (Grade 5+) ILLUSTRATE\nPaint or sketch an illustration to go with this piece.\n\n➜ (Grade 9-12) READ & NARRATE\nContinue reading the longer bio of the Griegs, mark where you end in your notebook (you'll continue next lessons), and leave a minute or two to narrate.\n∞ Article Link: More about the Griegs",
+              "teacherNotes": "• COMPOSITION (Grades 7+)\nWrite a series of similes describing several of Grieg's pieces or movements within pieces that you've heard this year.\n\nRemember this example from earlier in the term describing the Holberg Suite's opening movement \"like a caffeinated squirrel sprinting through a fjord\" (Hermione Lai, Interlude.hk).",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recPVbPNBuwwTpkYx",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=22",
+              "links": [
+                {
+                  "text": "Wedding Day Orchestra",
+                  "url": "https://www.youtube.com/watch?v=f4oMxrgJSLQ&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=45&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Wedding Day Saxophone",
+                  "url": "https://www.youtube.com/watch?v=6_f-oash5Fg&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=37&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Pictures of the Griegs",
+                  "url": "https://www.flickr.com/photos/bergen_public_library/albums/72157622624863896/with/5852241573"
+                },
+                {
+                  "text": "More about the Griegs",
+                  "url": "https://www.uudb.org/grieg-edvard-and-nina/"
+                }
+              ]
             },
             {
               "lessonId": "recUD2aq5UCKeWKPw",
@@ -2855,11 +3179,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 23",
-              "body": "",
+              "body": "Fire Salmer/Four Psalms\n\n➜ RECAP\nWhat questions would you ask Edvard Grieg if you met him?\n\n➜ LISTEN & DISCUSS\nAlthough raised in the Lutheran church, the Griegs, especially Edvard, rejected much of what they were taught while young. However, they continued to wrestle with how to understand the meaning of life and life after death. Some of Grieg's last work, just a year before his death, was a series of four musical Psalms. Enjoy the last in the collection during the lesson and explore others over the week. \n\n∞ Translation Link: In Heaven's Hall\n∞ Video Link: Himmelen\n\n➜ (Grade 5+) LISTEN & DISCUSS\nExplore the lyrics to the other psalms Grieg composed and listen to the others during the afternoons this week.\n\n➜ (Grade 9-12) READ & NARRATE\nIf not done yet, finish reading the longer bio of the Griegs, mark where you end in your notebook (you'll continue next lessons), and leave a minute or two to narrate.\n∞ Article Link: More about the Griegs",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rectPWKXxGyTKFmbi",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=2&week=23",
+              "links": [
+                {
+                  "text": "Himmelen",
+                  "url": "https://www.youtube.com/watch?v=2TIEFDUa9o8&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "In Heaven's Hall",
+                  "url": "https://oxfordsong.org/song/i-himmelen-i-himmelen"
+                },
+                {
+                  "text": "All Lyrics",
+                  "url": "https://oxfordsong.org/song/fire-salmer-four-psalms"
+                },
+                {
+                  "text": "More about the Griegs",
+                  "url": "https://www.uudb.org/grieg-edvard-and-nina/"
+                }
+              ]
             },
             {
               "lessonId": "recHLgbsPZkvmvk5x",
@@ -2923,7 +3264,7 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 24",
-              "body": "",
+              "body": "Exams\n\n➜ EXAMS \nAnswer question(s) related to course.\n\nQuestions will come from:\nComposer Study",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recDesTq4Esbmred5",
               "lessonLinksUrl": "",
@@ -3036,11 +3377,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 25",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Thomas Wiggins OR Modest Mussorgsky\n⍞ Materials: Song in a Rainstorm OR Mussorgsky's Pictures at an Exhibition\n\n➜ INTRO  (Option 1 & 2)\n• We'll get to know a few different musicans this term. Depending on your choice, you'll spend a few lessons with either Thomas Wiggins or Modest Mussorgsky and then finish the term with the work of W.S. Gilbert & Arthur Sullivan. \n\n• Before we dive in, spend a few minutes thinking about what you know that was happening in the 1800s. Think about wars, events, inventions, writers, scientists, and anything else that comes to mind. Then think about what you know about music in the 1800s as well. None of the composers or musicians we'll learn about this term lived in isolation. Their music was composed against the backdrop of slavery and the Civil War in America (Thomas Wiggins), Russian nationalist movement (Modest Mussorgsky), and a public looking for musical entertainment (Gilbert & Sullivan). \n\n➜ READ, NARRATE, & DISCUSS (Option 1: Thomas Wiggins)\nSong in a Rainstorm p.1-10 \"Baby Tom was different\" - \"continued without them.\"\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Rainstorm\n\n• Describe or (option for older students) do a comic strip sketch the story of the storm that you hear in the piece.\n______________\n\n➜ READ & NARRATE (Option 2: Modest Mussorgsky)\nPictures at an Exhibition p.1-8 \"St. Petersburg\" - \"leave me alone.\"\n\n➜ LISTEN & DISCUSS\nYou'll learn more about the backstory of Mussorgsky's work over the next few weeks. All you need to know for now is that we'll be listening to a musical depiction of an art exhibition. Today's piece is the opening theme which recurs throughout the series of pieces, guiding us through the exhibition. Mussorgsky composed the piece as a piano suite but a orchestra version by another composer (Maurice Ravel) became even more famous. We'll listen to both today and you can decide for yourself which you like better.\n\n∞ Video Link: Promenade (Piano)\nTime Marker: 0:0-1:47\n\n∞ Video Link: Promenade (Orchestra)\nTime Marker: 0:00-2:16\n\n• What do you think this art exhibition will be like?",
+              "teacherNotes": "★ TEACHER RESOURCE\nThis will be assigned for older students later in the term but gives helpful context to begin with as well.\n∞ Article Link: Confounded Enigma\n\n• IMPORTANT DATES\nThomas Wiggins (US, 1841-1908AD)\n\nModest Mussorgsky (Russia, 1839-1881AD)\n\n• EXTRA HELPINGS\nListen to a rock version of Pictures at an Exhibition created in 1971.\n∞ Video Link: Pictures at an Exhibition (Rock)\nTime Marker: 0:0-1:57",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=rec2wdTsUgPRMi2B3",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=25",
+              "links": [
+                {
+                  "text": "The Rainstorm",
+                  "url": "https://www.youtube.com/watch?v=U8k3g4icEv0&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=48&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Confounded Enigma",
+                  "url": "https://blackpast.org/african-american-history/confounded-enigma-blind-tom-wiggins/"
+                },
+                {
+                  "text": "Promenade (Piano)",
+                  "url": "https://www.youtube.com/watch?v=rH_Rsl7fjok&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Orchestra)",
+                  "url": "https://www.youtube.com/watch?v=yUfSstK3MOc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=49&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Pictures at an Exhibition (Rock)",
+                  "url": "https://www.youtube.com/watch?v=vIL7LONVn-k"
+                }
+              ]
             },
             {
               "lessonId": "recYuVp6EWc9SFBa6",
@@ -3139,11 +3501,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 26",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Thomas Wiggins OR Modest Mussorgsky\n⍞ Materials: Song in a Rainstorm OR Mussorgsky's Pictures at an Exhibition\n\n➜ RECAP\nWhat do you rememer about our first piece this term?\n\n➜ READ & NARRATE\nSong in a Rainstorm p.11-20 \"Four-year-old Tom\" - \"professional musician.\"\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Water in the Moonlight\n\n• How do you hear Thomas Wiggins creating \"water in the moonlight\" with his piece?\n\n➜ (Grade 5+) DISCUSS\nHow would you describe the sound of Thomas Wiggins' pieces so far? Compare it with the sound of Grieg's pieces from last term.\n______________\n\nPREP: Look over the Promenade Activity below and decide what (if any) aspects to do with your students. \n\n➜ INTRO (Option 2: Modest Mussorgsky)\nAlthough he was familiar with many European forms of music, Mussorgksy had less musical training than many of his peers. But in some ways he saw this as a strength because he, like Grieg and other composers in the 1800s, wanted to create a new kind of music. He wanted to create a new Russian sound that was not like the music in Europe. Some philosophers believe that the desire many of us feel today to be unique started in the 1800s partially because of composers like Mussorgsky or Grieg and other poets like Wordsworth or artists like Vincent Van Gogh.\n\n➜ READ & NARRATE\nPictures at an Exhibition p.9-18 \"For the next few\" - \"happily behind him.\"\n\n➜ LISTEN & DISCUSS\nYou'll listen to the Promenade again from last week, the first picture of the exhibition (a Gnome), and then a fresh version of the promenade as you move to a new part of the exhibition. If you listen to the orchestra version, watch for another instance of pizzicato!  \n\n∞ Video Link: Pictures at an Exhibition (Piano)\nTime Marker: 0:35-5:08 (Gnome begins at 1:47)\nand/or\n∞ Video Link: Pictures at an Exhibition (Orchestra)\nTime Marker: 0:37-5:56 (Ghome begins at 2:16)\n\n• How would you describe the Gnome? What kind of picture do you think the music creates? How?\n\n➜ ACTIVITY (Optional: Grades 1-4)\n∞ PDF Link: Promenade Activity\nOR\nUnfortunately the original picture of the gnome which Mussorgsky based his composition on has been lost. Try sketching your own version based on the music.",
+              "teacherNotes": "★ OLDER STUDENT/TEACHER NOTE (Mussorgsky)\nIf interested, read/share more context and musical detail from others who have listened to the gnome movement as part of the discussion after listening. \n\n\"Although the original Hartmann painting has been lost, it is known to have depicted a grotesque nutcracker with large teeth. It was undoubtedly disturbing. Mussorgsky captured the image in sound using a variety of techniques. “The Gnome” begins with a sequence of abrupt, angular melodic fragments. They are unpredictable and unpleasing, lurching about in a way that mimetically capture the motions of the creature they portray. A second, contrasting section contains an uneven descending melody with a dissonant, oscillating accompaniment. A third section vacillates ominously between low and high pitches, while a final section is loud and threatening. Fragments of the first section interrupt when least expected. Throughout, “The Gnome” is characterized by contrast and surprise, and it concludes with a frightening rush to the final cadence. The listener never knows what is going to happen next and is not given the opportunity to relax.\" \n∞ Reference Link",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recUqJftnCztD3nWP",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=26",
+              "links": [
+                {
+                  "text": "Water in the Moonlight",
+                  "url": "https://www.youtube.com/watch?v=t4ZmwXd_dJg&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=44&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Piano)",
+                  "url": "https://www.youtube.com/watch?v=rH_Rsl7fjok&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Orchestra)",
+                  "url": "https://www.youtube.com/watch?v=yUfSstK3MOc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=49&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Reference",
+                  "url": "https://human.libretexts.org/Bookshelves/Music/Ethnomusicology/Resonances_-_Engaging_Music_in_its_Cultural_Context_%28Morgan-Ellis_Ed.%29/02%3A_Music_for_Storytelling/06%3A_Stories_without_Words/6.03%3A_Modest_Mussorgsky_-_Pictures_at_an_Exhibition"
+                },
+                {
+                  "text": "Promenade Activity",
+                  "url": "https://s3-eu-west-1.amazonaws.com/philharmonia-assets/uploads/2020/04/22074523/Mussorgsky-activity.pdf"
+                }
+              ]
             },
             {
               "lessonId": "recqPFsgVG27DQbhd",
@@ -3238,11 +3621,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 27",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Thomas Wiggins OR Modest Mussorgsky\n⍞ Materials: Song in a Rainstorm OR Mussorgsky's Pictures at an Exhibition\n\nPREP: For younger students, read and mark sections of the article to share with students curious for more about Thomas Wiggins.\n∞ Article Link: The Enigma of Blind Tom Wiggins\n\n➜ RECAP\nWhat do you think will happen next in Song in a Rainstorm?\n\n➜ READ & NARRATE\nSong in a Rainstorm p.21-end \"Billed as 'Blind Tom'\" - end.\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Battle of Manassas\n\n• How does the piece depict a battle musically? What other ways have you heard music depict a battle or what other ways would you depict a battle musically?\n\n➜ (Grade 5+) READ & DISCUSS\n∞ Article Link: The Enigma of Blind Tom Wiggins\n__________________\n\n➜ RECAP (Option 2: Modest Mussorgsky)\nCan you hum the opening tune of the promenade?\n\n➜ READ & NARRATE\nPictures at an Exhibition p.19-28 \"Modest went straight\" - \"Modest Mussorgksy.\"\n\n➜ LISTEN & DISCUSS\n• The next part of the exhibition we'll see is an Old Castle. Then we'll walk (to the Promenade again) to another picture depicting children quarrelling after a game! We actually do have a picture of the Castle that inspired Mussorgsky. \n∞ Image Link: The Old Castle\n\n• Listen for the promenade so you know when Mussorgky is done showing you the castle and taking you to the next picture. If you're short on time, you can stop listening when you hear the promenade begin.\n• Keep an eye out for more pizzicato and the sound of a saxophone if you're listening to the orchestral version!\n\n∞ Video Link: Pictures at an Exhibition (Piano)\nTime Marker: 5:08-11:40\nand/or\n∞ Video Link: Pictures at an Exhibition (Orchestra)\nTime Marker: 5:56-12:13",
+              "teacherNotes": "• EXTRA HELPINGS (Option 1)\nThe famous author of the Nutcracker, Pyotr Tchaikovsky,  also composed a well-known \"war\" piece called the 1812 overture commemorating Russia's victorious defense against the French in 1812. See the extra helpings link to listen to a recording...with canons!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recV9KANQdhre8USx",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=27",
+              "links": [
+                {
+                  "text": "Battle of Manassas",
+                  "url": "https://www.youtube.com/watch?v=T6vLl-55szE&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=43&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "The Enigma of Blind Tom Wiggins",
+                  "url": "https://blackpast.org/african-american-history/confounded-enigma-blind-tom-wiggins/"
+                },
+                {
+                  "text": "Promenade (Piano)",
+                  "url": "https://www.youtube.com/watch?v=rH_Rsl7fjok&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Orchestra)",
+                  "url": "https://www.youtube.com/watch?v=yUfSstK3MOc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=49&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "The Old Castle",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Viktor_Hartmann_-_The_castle_at_Chermomor.jpg"
+                }
+              ]
             },
             {
               "lessonId": "recOH55lWACwEZOtN",
@@ -3333,11 +3737,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 28",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Thomas Wiggins OR Modest Mussorgsky\n⍞ Materials: Song in a Rainstorm OR Mussorgsky's Pictures at an Exhibition\n\n➜ RECAP\nTell the story of Wiggin's Battle of Mannassas\n\n➜ LISTEN & DISCUSS\nMove as you listen to the music. \n∞ Video Link: March Timpani\n\n• Does this piece remind you of any other music that you've heard? If you read the description beneath the YouTube video above, you'll see that the piece is designed to honor Thomas Wiggin's teacher. To honor him, Wiggins quotes a famous waltz by another Polish composers, Frederick Chopin. \n\n• Listen to the very first notes of Wiggins piece again and then the first notes of Chopin's Waltz. Can you hear the similarity?\n∞ Video Link: Chopin's Waltz\n\n• What do you think our composers such as Grieg or Thomas Wiggins from this year would think of the phrase \"imitation is the sincerest form of flattery?\"\n\n➜ (Grade 5+) READ & DISCUSS\nSong in a Rainstorm \"Author's Note\" (at end of book)\n______________\n\n➜ INTRO (Option 2: Modest Mussorgsky)\n• The next part of the exhibition we'll see is a peasant with a cow. Then we'll walk (to the Promenade again) to another picture depicting a sketch of a costume for a ballet of children dressed up as unhatched chicks. If you think that's a funny idea, Mussorgsky thought so too! \n\n• View the sketch and listen for the chirping and clucking of little chicks and lots of musical trills.\n∞ Image Link: Unhatched Chicks\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Pictures at an Exhibition (Piano)\nTime Marker: 11:40-16:27\nand/or\n∞ Video Link: Pictures at an Exhibition (Orchestra)\nTime Marker: 12:13-16:59\n\n➜ READ & DISCUSS (Grades 5+)\nPictures at an Exhibition \"Author's Note\" (at end of book)",
+              "teacherNotes": "• AFTERNOON LISTENING\nBe sure to listen to your composer study pieces in the afternoons! Especially if you're listening to Pictures at an Exhibition, you'll want to put the piece on at other times so you can listen to the whole thing since we don't have time to listen to every picture during lessons.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=reco5gIonEwV7tcFT",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=28",
+              "links": [
+                {
+                  "text": "March Timpani",
+                  "url": "https://www.youtube.com/watch?v=-JK6NCOsWZU&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46"
+                },
+                {
+                  "text": "Chopin's Waltz",
+                  "url": "https://www.youtube.com/watch?v=MS5pov3xu94&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=50&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Unhatched Chicks Image",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hartmann_Chicks_sketch_for_Trilby_ballet.jpg"
+                },
+                {
+                  "text": "Promenade (Piano)",
+                  "url": "https://www.youtube.com/watch?v=rH_Rsl7fjok&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Orchestra)",
+                  "url": "https://www.youtube.com/watch?v=yUfSstK3MOc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=49&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "recYeQjPoG6EUkPlG",
@@ -3428,11 +3853,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 29",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Thomas Wiggins OR Modest Mussorgsky\n\n➜ RECAP\nWhat has been your favorite piece from the term so far?\n\n➜ LISTEN & DISCUSS\n∞ Video Link: The Sewing Song\n\n➜ (Grades 7+) EXPLORE\nRead one of the newspapers from the time about Thomas Wiggins. Keep in mind that these articles reflect the perspective of the time.\n∞ Website Link: Primary Sources\n\n• What do you find more surprising or interesting?\n______________\n\n➜ INTRO\nWe're skiping to the end of the exhibition to one of it's most famous parts: \"The Great Gate of Kiev.\" Unfortunately, this gate does not actually exist. Harmann drew the picture as part of a contest commemorating a failed assasination attempt of Tsar Alexander II. Hartmann won the contest and the gate was supposed to have been built, but for some reason it never was. \n∞ Image Link: Plan for the City Gate\n\n➜ LISTEN & DISCUSS\n∞ Video Link: Pictures at an Exhibition (Piano)\nTime Marker: 28:56-end\nand/or\n∞ Video Link: Pictures at an Exhibition (Orchestra)\nTime Marker: 28:12-end\n\n➜ DRAW (optional Grades 1-4)\nLook at the image of the gate and draw your own sketch of it in your notebook.",
+              "teacherNotes": "• EXTRA HELPINGS (Option 2)\nSome years after Modest Mussorgsky died, 20th century Russian artist Wassily Kandinsky created an interactive art display based on Mussorgky's work and Victor Harmann's paintings! See link in extra helpings.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recdhZp0m6xrrBtvK",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=29",
+              "links": [
+                {
+                  "text": "The Sewing Song",
+                  "url": "https://www.youtube.com/watch?v=V-Qq0o1S4vo&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=47"
+                },
+                {
+                  "text": "Wiggins Primary Sources",
+                  "url": "https://digitalarchives.columbusstate.edu/collections/show/2"
+                },
+                {
+                  "text": "Plan for the City Gate",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hartmann_--_Plan_for_a_City_Gate.jpg"
+                },
+                {
+                  "text": "Promenade (Piano)",
+                  "url": "https://www.youtube.com/watch?v=rH_Rsl7fjok&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Promenade (Orchestra)",
+                  "url": "https://www.youtube.com/watch?v=yUfSstK3MOc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=49&pp=iAQB8AUBsAgC"
+                }
+              ]
             },
             {
               "lessonId": "recVtKqzXdxCXKThC",
@@ -3547,11 +3993,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 30",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Gilbert & Sullivan\n\n➜ RECAP\nDo you recall what music is called when it is written to go along with a play?\n\n➜ INTRO\nYou've heard over the year how composers in the 1800s like to create large musical spectacles. Our last composer of the year liked to make fun of many aspects of, especially British, society and musical excess. His name was Arthur Sullivan, and he worked closesly with an author named W.S. Gilbert to produce a number of funny operettas in England toward the end of the 1800s, about the same time Grieg was composing in Norway, Blind Tom was performing in the US, and Modest Mussorgsky was composing in Russia! Although he is most famous for the operettas, Sullivan did compose a number of other musical pieces, and one of his very first was incidental music for Shakespeare's Tempest when he was only 25.\n\n➜ LISTEN & DISCUSS\nThis movement of Sullivan's work musically illustrates the beginning of Act IV in the Tempest. Listen to the whole suite in the afternoons!\n∞ Video Link: The Tempest, Dance of the Nymphs\nTime Marker: 16:15-20:25\n\n• Describe the mood of this piece.\n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nCh.XV p.97-99 \"The bandmaster\" - \"by nature\"",
+              "teacherNotes": "• IMPORTANT DATES\nArthur Sullivan (England, 1842-1900AD)\n\nWilliam Schwenck Gilbert (England, 1836-1911AD)\n\nThe Tempest (1861AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recs2P5of9vVvWvvD",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=30",
+              "links": [
+                {
+                  "text": "Tempest",
+                  "url": "https://www.youtube.com/watch?v=Q3x84kju_hc&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=55&t=1052s&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Complete Book of Great Musicians",
+                  "url": "https://archive.org/details/completebookofgr00scho_0/page/n301/mode/2up"
+                }
+              ]
             },
             {
               "lessonId": "recimfVIBMXQC3Sdg",
@@ -3670,11 +4125,28 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 31",
-              "body": "",
-              "teacherNotes": "",
+              "body": "H.M.S Pinafore\n\n➜ INTRO\nOne of Gilbert & Sullivan's most famous comic operettas was called the H.M.S. Pinafore. Although this sounds like a very official ship name, a \"pinafore\" is a kitchen apron. And \"H.M.S.\" stands for \"Her Majesty's Ship.\" Strike you as a little funny? This is just the beginning of the musical ways Gilbert & Sullivan poke fun at many British traditions.\n\n➜ LISTEN & DISCUSS\nFollow along in the Libretto as desired.\n∞ PDF Link: HMS Pinafore Libretto\n∞ Video Link: Overture & I am the Captain of the Pinafore (next in the playlist)\n\n• What are your first impressions of this operetta? Compare the sound and style to what you remember from Tanti Affetti from Term 1 (look back at the first song in the playlist if you want to refresh your memory!)\n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nCh.XV p.99-101 \"Once Sullivan\" - \"every year.\"\n\n• Did you catch that Sullivan met our friend Edvard Grieg in school? Also, we didn't spend much time with him, but do you remember Tanti Affetti from the very beginning of the year? Rossinni, the operetta composer who was writing the birthday song for his dog, is the same composer who wrote Tanti Affetti!\n\n• Discuss the quote: \"In music, or anything else, there is a sense in which nobody can teach us anything.\"",
+              "teacherNotes": "★ TEACHER NOTE\nAs we get into Gilbert & Sullivan's operettas, be sure to preview any of the full operettas (some listed in Extra Helpings) before watching. Gilbert and Sullivan were men of their time and some of their plays have problematic staging and thematic content. However, it is important to note and help students recognize the satire which runs throughout their songs, as much of their work did critique British culture and the problems they saw in society around them. \nArticle Link: More on G&S and Satire\n\n• TERMINOLOGY\nOverture: opening to a larger musical piece such an operetta\n\n• IMPORTANT DATE\nH.M.S Pinafore first performed (1878AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=reciZO8XBjQlpLuF0",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=31",
+              "links": [
+                {
+                  "text": "Overture & Captain's Song",
+                  "url": "https://www.youtube.com/watch?v=q5yj4gISc4I&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=57&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Complete Book of Great Musicians",
+                  "url": "https://archive.org/details/completebookofgr00scho_0/page/n303/mode/2up"
+                },
+                {
+                  "text": "HMS Pinafore Libretto",
+                  "url": "https://gsarchive.net/pinafore/pf_lib.pdf"
+                },
+                {
+                  "text": "More on G&S and Satire",
+                  "url": "https://www.classical-music.com/articles/why-dont-people-take-gilbert-and-sullivan-seriously"
+                }
+              ]
             },
             {
               "lessonId": "recWub95BN8xR7fSM",
@@ -3781,11 +4253,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 32",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Modern Major General\n\n➜ INTRO\nWhat makes a good army general? More generally, what makes anyone in a position of authority qualified for their job?\n\n➜ LISTEN & DISCUSS\nYou may want to follow along in the pdf to keep up with the words! This famous song is from another of Gilbert & Sullivan's operettas called \"The Pirates of Penzance.\"\n∞ PDF Link: I am the model lyrics\n∞ Video Link: I am the very model\n\n• What makes this song silly?\n• What do you think Gilbert & Sullivan are making fun of in this song?\n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nCh.XV p.101-103 \"Soon Sullivan\" - \"very early.\"",
+              "teacherNotes": "• IMPORTANT DATES\nPirates of Penzance first performed (1879AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=reci3krR8dNwu3L1Q",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=32",
+              "links": [
+                {
+                  "text": "I am the very model",
+                  "url": "https://www.youtube.com/watch?v=FOAr-_vk4tM&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=55&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "I am the model lyrics",
+                  "url": "https://operahollandpark.com/wp-content/uploads/2020/05/Modern-Major-General-song-text.pdf"
+                },
+                {
+                  "text": "Complete Book of Great Musicians",
+                  "url": "https://archive.org/details/completebookofgr00scho_0/page/n305/mode/2up"
+                }
+              ]
             },
             {
               "lessonId": "recv5xwtrTqPG7zAP",
@@ -3880,11 +4365,24 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 33",
-              "body": "",
-              "teacherNotes": "",
+              "body": "More Modern Major Generals\n\n➜ RECAP\nCan you hum a tune by Sullivan yet?\n\n➜ LISTEN & DISCUSS\nThe Modern Major General is a prime example of Sullivan's genius with rhythm and Gilbert's witty words. The song has inspired composers and songwriters to this day and references to the lyrics have appeared in Hamilton and Star Wars! One of the most famous parodies is called \"The Elements,\" which you'll hear today.\n∞ Video Link: I am the very model\n∞ Video Link: The Elements\n\n• If you used this rhythm and melody to write your own song, what would you write about?\n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nExplore transcriptions of some interviews with Arthur Sullivan!\n∞ Article Link: Interviews with Arthur",
+              "teacherNotes": "• EXTRA HELPINGS\nWrite your own Modern Major General parody!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recGjtDIRG7aYNvtA",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=33",
+              "links": [
+                {
+                  "text": "I am the very model",
+                  "url": "https://www.youtube.com/watch?v=FOAr-_vk4tM&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=55&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "The Elements",
+                  "url": "https://www.youtube.com/watch?v=AcS3NOQnsQM&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=53&pp=iAQB8AUBsAgC"
+                },
+                {
+                  "text": "Interviews with Arthur",
+                  "url": "https://www.gsarchive.net/sullivan/interviews/index.html"
+                }
+              ]
             },
             {
               "lessonId": "recJLkU2YxGPzlGBd",
@@ -3979,11 +4477,32 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 34",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Tit Willow\n\n➜ RECAP\nCan you sing any of Modern Major General?\n\n➜ INTRO\nToday's song is about unrequited love and comes famous from another operetta by our pair. Enjoy this personal recollection about the song from a musical colleague of Gilbert & Sullivan's! \n\n\"At a private musical rehearsal of the Mikado at Sir Arthur's house (the principal singers and actors only) I became depressed at the now famous song 'Tit Willow.' I thought, as far as Gilbert was concerned, that the first verse was so much more taking than the last, which was reversing the order of things. When Sullivan played the tune on his piano, it sounded like 'Easy Pianoforte Pieces for Children.'\n\nSeeing my abject look, Sullivan lighted another cigarette, and said: 'I see you don't care for it, but it is a question for the general public!'\n\nHe was quite right, and I never regret having sung 'Tit Willow,' which I must have done with encores about two thousand times at the Savoy Theatre\" (∞ From a Personal Recollection).\n\n➜ LISTEN & DISCUSS\nEnjoy the main version of the song and then listen to a version which appeared in pop culture.\n∞ Audio Link: Tit Willow\n∞ Video Link: Muppet Tit Willow\n\n• What do you think about the idea that performers or authors can sometimes have one opinion about a piece of music (or many different things) that the audience doesn't share? \n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nLearn more about W.S. Gilbert! There are a number of resources on this page to explore. The short bio is a good place to begin.\n∞ Website Link: About W.S. Gilbert",
+              "teacherNotes": "★ TEACHER NOTE\nToday's song is from the Mikado, which is one of Gilbert & Sullivan's most famous operettas. However, even while its authors were still alive, it was temporarily banned for its charicatures of Japanese culture. Read the article below for more on the context of the Mikado and the debate about whether there is any way to leave the problematic elements of the work behind without discontinuing the whole thing. One way to do this might be to focus on performances of individual pieces from the operetta, as we are doing here, rather than full theatre productions.\n∞ Article Link: Cultural Appropriation & the Mikado\n\n• IMPORTANT DATE\nThe Mikado first performed (1885AD)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recOdjCevAvrHAKG7",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=34",
+              "links": [
+                {
+                  "text": "Tit Willow",
+                  "url": "https://open.spotify.com/track/1tL2Izzv8lHRlRdmXq0i3q?si=352b4b195fa14d3c"
+                },
+                {
+                  "text": "Muppet Tit Willow",
+                  "url": "https://www.youtube.com/watch?v=ueuA-9pqRok"
+                },
+                {
+                  "text": "About W.S. Gilbert",
+                  "url": "https://www.gsarchive.net/gilbert/gilbert_home.html"
+                },
+                {
+                  "text": "Cultural Appropriation & the Mikado",
+                  "url": "https://review.gale.com/2019/11/22/the-mikado-cultural-appropriation-or-satire/"
+                },
+                {
+                  "text": "Personal Recollection",
+                  "url": "http://gsarchive.net/sullivan/html/grossmith.html)"
+                }
+              ]
             },
             {
               "lessonId": "rec4QNaScGA5r4qk9",
@@ -4073,11 +4592,20 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 35",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Golden Legend\n\n➜ RECAP\nCan you hum anything of Tit Willow?\n\n➜ LISTEN & DISCUSS\nToday's piece is known as one of Sullivan's \"serious\" works. It is called \"The Golden Legend\" and is based on a long narrative poem by Henry Wadsworth Longfellow from just a year after The Mikado (where Tit Willow is from) was first performed (1886AD). It is a dramatic cantata, so is half a play and half a long vocal work. This beautiful hymn is one of the most famous pieces from it.\n∞ Audio Link: O Gladsome Light\n\n➜ READ, NARRATE, & DISCUSS (Optional Grades 1-4)\nSkim as much as you like of the article published in the papers after Sullivan's death. Note especially the interesting disagreement that is recorded at the end of the page.\n∞ Article Link: From the Times at Sullivan's Death\n\n• What do you think makes \"great\" music?",
+              "teacherNotes": "• LYRICS\nO gladsome Light\nOf the Father immortal,\nAnd of the celestial\nSacred and blessed\nJesus our Saviour!\n\nNow to the sunset\nAgain hast Thou brought us,\nAnd, seeing the evening\nTwilight, we bless Thee,\nPraise Thee, adore Thee.\n\nFather Omnipotent!\nSon, the Life-giver!\nSpirit, the Comforter!\nWorthy at all times\nOf worship and wonder!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recFAHO0QmKiPRsf1",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recRWEigAnbAHGgE5&term=3&week=35",
+              "links": [
+                {
+                  "text": "O Gladsome Light",
+                  "url": "https://open.spotify.com/track/608hsTpsQHEnyXFlRbn199?si=54a2c8ac135c44f7"
+                },
+                {
+                  "text": "From the Times at Sullivan's Death",
+                  "url": "https://www.gsarchive.net/sullivan/html/obit.html"
+                }
+              ]
             },
             {
               "lessonId": "recRrPyeuIX2oxJrj",
@@ -4141,7 +4669,7 @@
               "lessonLabel": "",
               "linkLabel": "Composer Study",
               "title": "15m Composer Study - Lesson 36",
-              "body": "",
+              "body": "Exams\n\n➜ EXAMS \nAnswer question(s) related to course.\n\nQuestions will come from:\nComposer Study",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec4XnBqT5hGzgekf&6J82c=recuLHa6JqOnqbHY5",
               "lessonLinksUrl": "",
@@ -4158,15 +4686,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Hymns & Spirituals\n· Sing \"Children of the Heavenly Father\" and tell what you know about the life and times of Carolina Berg. \n\nFolk Songs\n· Tell the names and what you remember about the two folk songs you learned this term. Then pick one and sing it!\n\nSol-fa: Level 3\n· Sing the last exercise you completed.\n\n· Sing, with hand signs: do, re, mi, so, fa, la, so, mi, re, do, so, re, do"
+          "content": "Hymns & Spirituals\n· Sing \"Children of the Heavenly Father\" and tell what you know about the life and times of Carolina Berg. \n\nFolk Songs\n· Tell the names and what you remember about the two folk songs you learned this term. Then pick one and sing it!\n\nComposer Study\n· Tell or write about some of the sounds and instruments of the 19th century. \n\nSol-fa: Level 3\n· Sing the last exercise you completed.\n\n· Sing, with hand signs: do, re, mi, so, fa, la, so, mi, re, do, so, re, do"
         },
         {
           "term": "Term 2",
-          "content": "Hymns & Spirituals\n· Sing \"Angels We Have Heard on High\" OR Draw or paint a new illustration to go with one of your hymns from this term. Underneath your work, write the line or verse from the hymn that your illustration reflects and write or tell why you chose the passage to illustrate.\n\nFolk Songs\n· Sing Bebi Notsa OR your national anthem. \n\nSol-fa: Level 3\n· Sing the last exercise you completed.\n\n· Sing (do is low) do-fa, do-so, and do-la"
+          "content": "Hymns & Spirituals\n· Sing \"Angels We Have Heard on High\" OR Draw or paint a new illustration to go with one of your hymns from this term. Underneath your work, write the line or verse from the hymn that your illustration reflects and write or tell why you chose the passage to illustrate.\n\nFolk Songs\n· Sing Bebi Notsa OR your national anthem. \n\nComposer Study\n· (GRADE 1-3) Tell all you can about one of the pieces you heard this term. Can you hum a melody from it?\n\n· (GRADE 4-6) Tell what you remember about Edvard Grieg and one of the pieces he wrote. Can you hum a melody from it?\n\n\n· (GRADE 7-12) Choose one:\n• Write a letter to a friend describing Grieg and his music\n• Write a news article or blog about the composer and his music\n• Create a powerpoint introducing Grieg and his music\n• Create a mood board (digitally or physically) for Grieg's pieces from the term. Feel free to look back at your music notebook for inspiration.\n\nSol-fa: Level 3\n· Sing the last exercise you completed.\n\n· Sing (do is low) do-fa, do-so, and do-la"
         },
         {
           "term": "Term 3",
-          "content": "Hymns & Spirituals\n· Sing \"When Morning Gilds the Skies\" and tell which verse is your favorite (or least favorite) and why.\n\nFolk Songs\n· Sing Aloha 'Oe OR The San Juan Pig and tell the story behind one of the songs.\n\nSol-fa: Level 3\n· Draw an “F-sharp” and a “B-flat” in your music notebook. How does a sharp change the note you sing? How does a flat change the note you sing?\n\n· Sing the last sol-fa exercise you completed."
+          "content": "Hymns & Spirituals\n· Sing \"When Morning Gilds the Skies\" and tell which verse is your favorite (or least favorite) and why.\n\nFolk Songs\n· Sing Aloha 'Oe OR The San Juan Pig and tell the story behind one of the songs.\n\nComposer Study\n· Tell, write, or sketch the story of Blind Tom or Pictures at an Exhibition and hum a tune from one of your favorite pieces this term.\n\n· (GRADE 7-12) Engage with some of Arthur Sullivan's critics by reflecting on what counts as \"serious\" music. How would you define \"serious music\"? Is this a helpful category? If so, how? Think about all the music you've listened to over the year (or just the term if you like) and give your own opinion.\n\nSol-fa: Level 3\n· Draw an “F-sharp” and a “B-flat” in your music notebook. How does a sharp change the note you sing? How does a flat change the note you sing?\n\n· Sing the last sol-fa exercise you completed."
         }
       ]
     }
