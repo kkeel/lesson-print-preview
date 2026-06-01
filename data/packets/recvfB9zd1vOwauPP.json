@@ -2077,50 +2077,6 @@
                   "set": "Set 1"
                 },
                 {
-                  "id": "recU3VYvbwdB8eZ13",
-                  "sentence": "El árbol tiene muchas naranjas y hojas verdes.",
-                  "translation": "The tree has many oranges and green leaves.",
-                  "label": "Spanish Narration Sentences - Set 3",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 3"
-                },
-                {
-                  "id": "recT8fCuPg1zYqIr9",
-                  "sentence": "La ropa está en el tendedero.",
-                  "translation": "The clothes are on the clothsline.",
-                  "label": "Spanish Narration Sentences - Set 4",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 4"
-                },
-                {
-                  "id": "recLEPxVMtqufgo0S",
-                  "sentence": "Los niños recogen las naranjas con sus manos.",
-                  "translation": "The children pick up the oranges with their hands.",
-                  "label": "Spanish Narration Sentences - Set 3",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 3"
-                },
-                {
-                  "id": "rec6ujBvQxNXQ7Uy3",
-                  "sentence": "Hay seis perros cerca del árbol.",
-                  "translation": "There are six dogs near the tree.",
-                  "label": "Spanish Narration Sentences - Set 4",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 4"
-                },
-                {
                   "id": "recn6425gcTsobNfM",
                   "sentence": "La gente compra muñecas y comida.",
                   "translation": "The people buy dolls and food.",
@@ -2152,6 +2108,50 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 2"
+                },
+                {
+                  "id": "recU3VYvbwdB8eZ13",
+                  "sentence": "El árbol tiene muchas naranjas y hojas verdes.",
+                  "translation": "The tree has many oranges and green leaves.",
+                  "label": "Spanish Narration Sentences - Set 3",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recLEPxVMtqufgo0S",
+                  "sentence": "Los niños recogen las naranjas con sus manos.",
+                  "translation": "The children pick up the oranges with their hands.",
+                  "label": "Spanish Narration Sentences - Set 3",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recT8fCuPg1zYqIr9",
+                  "sentence": "La ropa está en el tendedero.",
+                  "translation": "The clothes are on the clothsline.",
+                  "label": "Spanish Narration Sentences - Set 4",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "rec6ujBvQxNXQ7Uy3",
+                  "sentence": "Hay seis perros cerca del árbol.",
+                  "translation": "There are six dogs near the tree.",
+                  "label": "Spanish Narration Sentences - Set 4",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 4"
                 }
               ],
               "grammarCharts": []
@@ -4192,9 +4192,31 @@
                   "set": "Set 5"
                 },
                 {
+                  "id": "recuQnqp4JS6wxy0f",
+                  "sentence": "Hay un gato y un perro en el patio.",
+                  "translation": "There is a cat and a dog in the yard.",
+                  "label": "Spanish Narration Sentences - Set 5",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
                   "id": "recc8U4P9tj9ACfsI",
                   "sentence": "La niña lleva el vestido azul.",
                   "translation": "The girl is wearing a blue dress.",
+                  "label": "Spanish Narration Sentences - Set 6",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 6"
+                },
+                {
+                  "id": "rec9HrmlXMl5UPnrH",
+                  "sentence": "Los niños comen conos de raspados.",
+                  "translation": "The children are eating shaved ice cones.",
                   "label": "Spanish Narration Sentences - Set 6",
                   "language": "Spanish",
                   "sentenceType": "Narration Sentences",
@@ -4214,39 +4236,6 @@
                   "set": "Set 7"
                 },
                 {
-                  "id": "recdhKuXBr4GUgi0G",
-                  "sentence": "La mamá carga al bebé.",
-                  "translation": "The mom carries the baby.",
-                  "label": "Spanish Narration Sentences - Set 8",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 8"
-                },
-                {
-                  "id": "recuQnqp4JS6wxy0f",
-                  "sentence": "Hay un gato y un perro en el patio.",
-                  "translation": "There is a cat and a dog in the yard.",
-                  "label": "Spanish Narration Sentences - Set 5",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 5"
-                },
-                {
-                  "id": "rec9HrmlXMl5UPnrH",
-                  "sentence": "Los niños comen conos de raspados.",
-                  "translation": "The children are eating shaved ice cones.",
-                  "label": "Spanish Narration Sentences - Set 6",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 6"
-                },
-                {
                   "id": "recwi56QYEaWkcDmF",
                   "sentence": "Hay un pastel en la mesa.",
                   "translation": "There is a cake on the table.",
@@ -4256,6 +4245,17 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 7"
+                },
+                {
+                  "id": "recdhKuXBr4GUgi0G",
+                  "sentence": "La mamá carga al bebé.",
+                  "translation": "The mom carries the baby.",
+                  "label": "Spanish Narration Sentences - Set 8",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 8"
                 },
                 {
                   "id": "recBY5882FsIvAVj8",
@@ -6627,9 +6627,31 @@
                   "set": "Set 9"
                 },
                 {
+                  "id": "recHd8DybtqJS10VP",
+                  "sentence": "Los amigos escuchan la música de los discos.",
+                  "translation": "The friends listen to music from records.",
+                  "label": "Spanish Narration Sentences - Set 9",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 9"
+                },
+                {
                   "id": "recjs8lfMEo8JHkSh",
                   "sentence": "La tienda tiene una ventana grande.",
                   "translation": "The store has a large window.",
+                  "label": "Spanish Narration Sentences - Set 10",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec226KeIRhVW8mZH",
+                  "sentence": "Los niños juegan con el trompo y las canicas.",
+                  "translation": "The children are playing with the spinning top and marbles.",
                   "label": "Spanish Narration Sentences - Set 10",
                   "language": "Spanish",
                   "sentenceType": "Narration Sentences",
@@ -6649,39 +6671,6 @@
                   "set": "Set 11"
                 },
                 {
-                  "id": "recL0S1QHOS2CnlVN",
-                  "sentence": "La hija tiene cabello negro.",
-                  "translation": "The daughter has black hair.",
-                  "label": "Spanish Narration Sentences - Set 12",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 12"
-                },
-                {
-                  "id": "recHd8DybtqJS10VP",
-                  "sentence": "Los amigos escuchan la música de los discos.",
-                  "translation": "The friends listen to music from records.",
-                  "label": "Spanish Narration Sentences - Set 9",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 9"
-                },
-                {
-                  "id": "rec226KeIRhVW8mZH",
-                  "sentence": "Los niños juegan con el trompo y las canicas.",
-                  "translation": "The children are playing with the spinning top and marbles.",
-                  "label": "Spanish Narration Sentences - Set 10",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 10"
-                },
-                {
                   "id": "recgKdFgvoV1tCJxM",
                   "sentence": "El nieto está en el bosque con su familia.",
                   "translation": "The grandson is in the woods with his family.",
@@ -6691,6 +6680,17 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 11"
+                },
+                {
+                  "id": "recL0S1QHOS2CnlVN",
+                  "sentence": "La hija tiene cabello negro.",
+                  "translation": "The daughter has black hair.",
+                  "label": "Spanish Narration Sentences - Set 12",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
                 },
                 {
                   "id": "recYYNiXW07QtKpHr",
@@ -49438,50 +49438,6 @@
                   "set": "Set 1"
                 },
                 {
-                  "id": "recU3VYvbwdB8eZ13",
-                  "sentence": "El árbol tiene muchas naranjas y hojas verdes.",
-                  "translation": "The tree has many oranges and green leaves.",
-                  "label": "Spanish Narration Sentences - Set 3",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 3"
-                },
-                {
-                  "id": "recT8fCuPg1zYqIr9",
-                  "sentence": "La ropa está en el tendedero.",
-                  "translation": "The clothes are on the clothsline.",
-                  "label": "Spanish Narration Sentences - Set 4",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 4"
-                },
-                {
-                  "id": "recLEPxVMtqufgo0S",
-                  "sentence": "Los niños recogen las naranjas con sus manos.",
-                  "translation": "The children pick up the oranges with their hands.",
-                  "label": "Spanish Narration Sentences - Set 3",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 3"
-                },
-                {
-                  "id": "rec6ujBvQxNXQ7Uy3",
-                  "sentence": "Hay seis perros cerca del árbol.",
-                  "translation": "There are six dogs near the tree.",
-                  "label": "Spanish Narration Sentences - Set 4",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 4"
-                },
-                {
                   "id": "recn6425gcTsobNfM",
                   "sentence": "La gente compra muñecas y comida.",
                   "translation": "The people buy dolls and food.",
@@ -49513,6 +49469,50 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 2"
+                },
+                {
+                  "id": "recU3VYvbwdB8eZ13",
+                  "sentence": "El árbol tiene muchas naranjas y hojas verdes.",
+                  "translation": "The tree has many oranges and green leaves.",
+                  "label": "Spanish Narration Sentences - Set 3",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recLEPxVMtqufgo0S",
+                  "sentence": "Los niños recogen las naranjas con sus manos.",
+                  "translation": "The children pick up the oranges with their hands.",
+                  "label": "Spanish Narration Sentences - Set 3",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 3"
+                },
+                {
+                  "id": "recT8fCuPg1zYqIr9",
+                  "sentence": "La ropa está en el tendedero.",
+                  "translation": "The clothes are on the clothsline.",
+                  "label": "Spanish Narration Sentences - Set 4",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 4"
+                },
+                {
+                  "id": "rec6ujBvQxNXQ7Uy3",
+                  "sentence": "Hay seis perros cerca del árbol.",
+                  "translation": "There are six dogs near the tree.",
+                  "label": "Spanish Narration Sentences - Set 4",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 4"
                 }
               ],
               "grammarCharts": [],
@@ -58719,9 +58719,31 @@
                   "set": "Set 5"
                 },
                 {
+                  "id": "recuQnqp4JS6wxy0f",
+                  "sentence": "Hay un gato y un perro en el patio.",
+                  "translation": "There is a cat and a dog in the yard.",
+                  "label": "Spanish Narration Sentences - Set 5",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 5"
+                },
+                {
                   "id": "recc8U4P9tj9ACfsI",
                   "sentence": "La niña lleva el vestido azul.",
                   "translation": "The girl is wearing a blue dress.",
+                  "label": "Spanish Narration Sentences - Set 6",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 6"
+                },
+                {
+                  "id": "rec9HrmlXMl5UPnrH",
+                  "sentence": "Los niños comen conos de raspados.",
+                  "translation": "The children are eating shaved ice cones.",
                   "label": "Spanish Narration Sentences - Set 6",
                   "language": "Spanish",
                   "sentenceType": "Narration Sentences",
@@ -58741,39 +58763,6 @@
                   "set": "Set 7"
                 },
                 {
-                  "id": "recdhKuXBr4GUgi0G",
-                  "sentence": "La mamá carga al bebé.",
-                  "translation": "The mom carries the baby.",
-                  "label": "Spanish Narration Sentences - Set 8",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 8"
-                },
-                {
-                  "id": "recuQnqp4JS6wxy0f",
-                  "sentence": "Hay un gato y un perro en el patio.",
-                  "translation": "There is a cat and a dog in the yard.",
-                  "label": "Spanish Narration Sentences - Set 5",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 5"
-                },
-                {
-                  "id": "rec9HrmlXMl5UPnrH",
-                  "sentence": "Los niños comen conos de raspados.",
-                  "translation": "The children are eating shaved ice cones.",
-                  "label": "Spanish Narration Sentences - Set 6",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 6"
-                },
-                {
                   "id": "recwi56QYEaWkcDmF",
                   "sentence": "Hay un pastel en la mesa.",
                   "translation": "There is a cake on the table.",
@@ -58783,6 +58772,17 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 7"
+                },
+                {
+                  "id": "recdhKuXBr4GUgi0G",
+                  "sentence": "La mamá carga al bebé.",
+                  "translation": "The mom carries the baby.",
+                  "label": "Spanish Narration Sentences - Set 8",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 8"
                 },
                 {
                   "id": "recBY5882FsIvAVj8",
@@ -68716,9 +68716,31 @@
                   "set": "Set 9"
                 },
                 {
+                  "id": "recHd8DybtqJS10VP",
+                  "sentence": "Los amigos escuchan la música de los discos.",
+                  "translation": "The friends listen to music from records.",
+                  "label": "Spanish Narration Sentences - Set 9",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 9"
+                },
+                {
                   "id": "recjs8lfMEo8JHkSh",
                   "sentence": "La tienda tiene una ventana grande.",
                   "translation": "The store has a large window.",
+                  "label": "Spanish Narration Sentences - Set 10",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 10"
+                },
+                {
+                  "id": "rec226KeIRhVW8mZH",
+                  "sentence": "Los niños juegan con el trompo y las canicas.",
+                  "translation": "The children are playing with the spinning top and marbles.",
                   "label": "Spanish Narration Sentences - Set 10",
                   "language": "Spanish",
                   "sentenceType": "Narration Sentences",
@@ -68738,39 +68760,6 @@
                   "set": "Set 11"
                 },
                 {
-                  "id": "recL0S1QHOS2CnlVN",
-                  "sentence": "La hija tiene cabello negro.",
-                  "translation": "The daughter has black hair.",
-                  "label": "Spanish Narration Sentences - Set 12",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 12"
-                },
-                {
-                  "id": "recHd8DybtqJS10VP",
-                  "sentence": "Los amigos escuchan la música de los discos.",
-                  "translation": "The friends listen to music from records.",
-                  "label": "Spanish Narration Sentences - Set 9",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 9"
-                },
-                {
-                  "id": "rec226KeIRhVW8mZH",
-                  "sentence": "Los niños juegan con el trompo y las canicas.",
-                  "translation": "The children are playing with the spinning top and marbles.",
-                  "label": "Spanish Narration Sentences - Set 10",
-                  "language": "Spanish",
-                  "sentenceType": "Narration Sentences",
-                  "type": "Picture Study",
-                  "sequence": 0,
-                  "set": "Set 10"
-                },
-                {
                   "id": "recgKdFgvoV1tCJxM",
                   "sentence": "El nieto está en el bosque con su familia.",
                   "translation": "The grandson is in the woods with his family.",
@@ -68780,6 +68769,17 @@
                   "type": "Picture Study",
                   "sequence": 0,
                   "set": "Set 11"
+                },
+                {
+                  "id": "recL0S1QHOS2CnlVN",
+                  "sentence": "La hija tiene cabello negro.",
+                  "translation": "The daughter has black hair.",
+                  "label": "Spanish Narration Sentences - Set 12",
+                  "language": "Spanish",
+                  "sentenceType": "Narration Sentences",
+                  "type": "Picture Study",
+                  "sequence": 0,
+                  "set": "Set 12"
                 },
                 {
                   "id": "recYYNiXW07QtKpHr",

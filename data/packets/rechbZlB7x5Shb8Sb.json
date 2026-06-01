@@ -25,7 +25,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rechbZlB7x5Shb8Sb-bible-grade-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
   "syllabird": {
@@ -528,7 +528,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 5",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1. OT Today p.19 \"Confidence in the Results\" - \"hermeneutics are insufficient.\"\n∞ Video Link: Defective Views of God\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1. OT Today p.19-21 \"Confidence in the Results\" - \"hermeneutics are insufficient.\"\n∞ Video Link: Defective Views of God\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recxx4xFnWuVNQucq",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=3",
@@ -818,7 +818,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 11",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 19-20",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1.OT Today p.180-181 (The Power of Story)\n2.∞ Video Link: Understanding God's Sovereignty \n\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 19-20",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recdMMazeYqfTtLEd",
               "lessonLinksUrl": "",
@@ -861,11 +861,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 12",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 21:1-22:25",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: Differences between Ancient and Modern Worldviews\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 21:1-22:25",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recs8BKfogKwkzhtD",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=6",
+              "links": [
+                {
+                  "text": "Video: Differences between Ancient and Modern Worldviews",
+                  "url": "https://vimeo.com/1172620635/cd6df0bc68"
+                }
+              ]
             },
             {
               "lessonId": "rec4gBe3NEw5uAbOu",
@@ -1252,7 +1257,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 21",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\n1.OT Today p.352-354 \"While we enjoy\" - \"to the pit,\"\n2.Psalms 11-14; 16-17",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\n1.OT Today p.352-354 \"While we enjoy\" - \"to the pit.\"\n2.Psalms 11-14; 16-17",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recuuJ435qj6znjVe",
               "lessonLinksUrl": "",
@@ -1467,11 +1472,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 26",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 35-36",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n➜ VIEW\nPrayer is Telling Our Story to God\n\n➜ READ, NARRATE, & RESPOND\n∞ Video Link: Psalms 35-36",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recNZFgM1fBNSOCBC",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=2&week=13",
+              "links": [
+                {
+                  "text": "Prayer is Telling Our Story to God",
+                  "url": "https://vimeo.com/1172677941/ed581ede0e"
+                }
+              ]
             },
             {
               "lessonId": "recOpaznaPTAyfNpL",
@@ -2564,7 +2574,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 50",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\nRead OT Today p.330 Section titled \"All the Wisdom of the East.\"\n∞ Video Link: Proverbs\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\nRead OT Today p.330 Section titled \"All the Wisdom of the East\"\n∞ Video Link: Proverbs\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rech1grzFHoM2jbly",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=25",
@@ -2620,14 +2630,14 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 51",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.343-346 \"To bridge the\" - \"is not true.\"\n2.∞ Video Link: Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.343-346 \"To bridge the\" - \"is not true.\"\n2.∞ Video Link: Theme of Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recuv6M7dWSqOmnOb",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=26",
               "links": [
                 {
-                  "text": "Video: Order",
-                  "url": "https://vimeo.com/1172680036/30f89bf6f4"
+                  "text": "Video: Theme of Order",
+                  "url": "https://vimeo.com/1172680273/bf5ca78211"
                 }
               ]
             },
@@ -2659,14 +2669,14 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 52",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.346-348 \"Even a casual\" - \"creation more accurately.\"\n2.∞ Video Link: Theme of Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.346-348 \"Even a casual\" - \"creation more accurately.\"\n2.∞ Video Link: How Can the Idea of Order Help us Discern God's Will \n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rectq0mMnnPiKMHzg",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=26",
               "links": [
                 {
-                  "text": "Video: Theme of Order",
-                  "url": "https://vimeo.com/1172680273/bf5ca78211"
+                  "text": "Video: How Can the Idea of Order Help us Discern God's Will ",
+                  "url": "https://vimeo.com/1172680036/30f89bf6f4"
                 }
               ]
             },

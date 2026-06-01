@@ -27,7 +27,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rechXdCXhNqQQLmle-bible-grade-9.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
   "syllabird": {
@@ -572,7 +572,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 5",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1. OT Today p.19 \"Confidence in the Results\" - \"hermeneutics are insufficient.\"\n∞ Video Link: Defective Views of God\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1. OT Today p.19-21 \"Confidence in the Results\" - \"hermeneutics are insufficient.\"\n∞ Video Link: Defective Views of God\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recxx4xFnWuVNQucq",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=1&week=3",
@@ -901,7 +901,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 11",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 19-20",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1.OT Today p.180-181 (The Power of Story)\n2.∞ Video Link: Understanding God's Sovereignty \n\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 19-20",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recdMMazeYqfTtLEd",
               "lessonLinksUrl": "",
@@ -944,11 +944,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 12",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 21:1-22:25",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: Differences between Ancient and Modern Worldviews\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 21:1-22:25",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recs8BKfogKwkzhtD",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=1&week=6",
+              "links": [
+                {
+                  "text": "Video: Differences between Ancient and Modern Worldviews",
+                  "url": "https://vimeo.com/1172620635/cd6df0bc68"
+                }
+              ]
             },
             {
               "lessonId": "reclxiUGxFLGKRVAa",
@@ -1384,7 +1389,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 21",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\n1.OT Today p.352-354 \"While we enjoy\" - \"to the pit,\"\n2.Psalms 11-14; 16-17",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\n1.OT Today p.352-354 \"While we enjoy\" - \"to the pit.\"\n2.Psalms 11-14; 16-17",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recuuJ435qj6znjVe",
               "lessonLinksUrl": "",
@@ -1599,11 +1604,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 26",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 35-36",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n➜ VIEW\nPrayer is Telling Our Story to God\n\n➜ READ, NARRATE, & RESPOND\n∞ Video Link: Psalms 35-36",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recNZFgM1fBNSOCBC",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=2&week=13",
+              "links": [
+                {
+                  "text": "Prayer is Telling Our Story to God",
+                  "url": "https://vimeo.com/1172677941/ed581ede0e"
+                }
+              ]
             },
             {
               "lessonId": "recCJOz7ukVtbKvGp",
@@ -2690,7 +2700,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 50",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\nRead OT Today p.330 Section titled \"All the Wisdom of the East.\"\n∞ Video Link: Proverbs\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\nRead OT Today p.330 Section titled \"All the Wisdom of the East\"\n∞ Video Link: Proverbs\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rech1grzFHoM2jbly",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=3&week=25",
@@ -2746,14 +2756,14 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 51",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.343-346 \"To bridge the\" - \"is not true.\"\n2.∞ Video Link: Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.343-346 \"To bridge the\" - \"is not true.\"\n2.∞ Video Link: Theme of Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recuv6M7dWSqOmnOb",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=3&week=26",
               "links": [
                 {
-                  "text": "Video: Order",
-                  "url": "https://vimeo.com/1172680036/30f89bf6f4"
+                  "text": "Video: Theme of Order",
+                  "url": "https://vimeo.com/1172680273/bf5ca78211"
                 }
               ]
             },
@@ -2785,14 +2795,14 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 52",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.346-348 \"Even a casual\" - \"creation more accurately.\"\n2.∞ Video Link: Theme of Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ & VIEW\n1. Read OT Today p.346-348 \"Even a casual\" - \"creation more accurately.\"\n2.∞ Video Link: How Can the Idea of Order Help us Discern God's Will \n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rectq0mMnnPiKMHzg",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechXdCXhNqQQLmle&term=3&week=26",
               "links": [
                 {
-                  "text": "Video: Theme of Order",
-                  "url": "https://vimeo.com/1172680273/bf5ca78211"
+                  "text": "Video: How Can the Idea of Order Help us Discern God's Will ",
+                  "url": "https://vimeo.com/1172680036/30f89bf6f4"
                 }
               ]
             },
@@ -3767,15 +3777,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\nChurch History: Grades 7-9\n· Renewal: The Church that Expands Outward: Tell all you know about a person from church history that you read about this term and how their life and mission impacted others.\n\n\nNew Testament: Grade 9\n· Luke: Choose two and write a few paragraphs on each:\na) Tell the story of the foretelling and birth of John the Baptist.\nb) Tell a few of the stories you read about when Jesus heals someone.\nc) Give an account of one of the parables of Jesus.\nd) Tell the story of one of the miracles of Jesus.\nThen, write a paragraph telling about what was most significant to you in Luke.\n\nBible History: Grade 9\n· God's Big Picture: Choose one: \na) What does the author mean by “God's people, God's place, and God's rule and blessing”?\nb) List the Old Testament covenants and explain how God's grace is shown through them AND Tell what you know about the \"new covenant\"\nc) Create The Kingdom of God Chart for “The pattern of the kingdom, The perished kingdom, and The promised kingdom.”"
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?Tell about the events in Israelite history you read about this term and what we learn about the character of God.\n\nChurch History: Grades 7-9\n· Renewal: The Church that Expands Outward: Tell all you know about a person from church history that you read about this term and how their life and mission impacted others.\n\n\nNew Testament: Grade 9\n· Luke: Choose two and write a few paragraphs on each:\na) Tell the story of the foretelling and birth of John the Baptist.\nb) Tell a few of the stories you read about when Jesus heals someone.\nc) Give an account of one of the parables of Jesus.\nd) Tell the story of one of the miracles of Jesus.\nThen, write a paragraph telling about what was most significant to you in Luke.\n\nBible History: Grade 9\n· God's Big Picture: Choose one: \na) What does the author mean by “God's people, God's place, and God's rule and blessing”?\nb) List the Old Testament covenants and explain how God's grace is shown through them AND Tell what you know about the \"new covenant\"\nc) Create The Kingdom of God Chart for “The pattern of the kingdom, The perished kingdom, and The promised kingdom.”"
         },
         {
           "term": "Term 2",
-          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\nChurch History: Grades 7-9\n· Spurgeon: A Biography: Tell about what you have learned of Charles Spurgeon's life and ministry over this term of reading.\n\nNew Testament: Grade 9\n· Galatians: Choose one:\na) Tell how Paul addresses the believers in Galatia regarding faith and law. What are some ways the Gospel was being undermined? \nb) What is meant by “It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery” (Gal. 5:1). \nc) Discuss Paul's claim to authority to explain the Gospel.\nAdd any insights or new thoughts of God you have gained from Galatians.\n\nBible History: Grade 9\n· God's Big Picture: How is \"God's promise of the kingdom partially fulfilled in the history of Israel\"?\nOR\nDiscuss Figure 28 (p.110), \"The End of the Old Testament\" telling what you know of God's people, God's place, and God's rule and blessing as it relates to the time periods depicted."
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?Tell about any insights you learned from the Psalms or the kinds of Psalms that make up the Psalter OR Tell about the events that happened in Israelite history and what they show about the character of God.\n\nChurch History: Grades 7-9\n· Spurgeon: A Biography: Tell about what you have learned of Charles Spurgeon's life and ministry over this term of reading.\n\nNew Testament: Grade 9\n· Galatians: Choose one:\na) Tell how Paul addresses the believers in Galatia regarding faith and law. What are some ways the Gospel was being undermined? \nb) What is meant by “It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery” (Gal. 5:1). \nc) Discuss Paul's claim to authority to explain the Gospel.\nAdd any insights or new thoughts of God you have gained from Galatians.\n\nBible History: Grade 9\n· God's Big Picture: How is \"God's promise of the kingdom partially fulfilled in the history of Israel\"?\nOR\nDiscuss Figure 28 (p.110), \"The End of the Old Testament\" telling what you know of God's people, God's place, and God's rule and blessing as it relates to the time periods depicted."
         },
         {
           "term": "Term 3",
-          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\nChurch History: Grades 7-9\n· An Honorable Heritage: The Pandita Ramabai Story in Her Own Words: Tell all you know about Pandita's journey from being born into a Hindu family to later becoming a Christian. How did her beliefs and life change when she put her faith in Christ?\n\nNew Testament: Grade 9\n· Philippians: Discuss one of the themes of Incarnation, Humility, Suffering, or Fellowship. Add anything else you would like about insights you have gained from Philippians.\n\n· Colossians: What does Paul have to say in his letter to the Colossians about “God’s dear Son...in whom we have redemption” OR \"new life in the risen Christ?\" Add anything else you would like about insights you have gained from Colossians.\n\nBible History: Grade 9\n· God's Big Picture: If you had to answer someone's question about what the Bible was all about, how would you do it using the framework of God's Big Picture as your model?"
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?Tell what you learned about the wisdom literature of Proverbs and Ecclesiastes.\n\nChurch History: Grades 7-9\n· An Honorable Heritage: The Pandita Ramabai Story in Her Own Words: Tell all you know about Pandita's journey from being born into a Hindu family to later becoming a Christian. How did her beliefs and life change when she put her faith in Christ?\n\nNew Testament: Grade 9\n· Philippians: Discuss one of the themes of Incarnation, Humility, Suffering, or Fellowship. Add anything else you would like about insights you have gained from Philippians.\n\n· Colossians: What does Paul have to say in his letter to the Colossians about “God’s dear Son...in whom we have redemption” OR \"new life in the risen Christ?\" Add anything else you would like about insights you have gained from Colossians.\n\nBible History: Grade 9\n· God's Big Picture: If you had to answer someone's question about what the Bible was all about, how would you do it using the framework of God's Big Picture as your model?"
         }
       ]
     }
