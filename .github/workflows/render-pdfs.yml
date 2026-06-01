@@ -86,6 +86,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          git pull --rebase origin main
+
           git add pdf/lesson-plans
           git add link-pages
           git add link-page-index.json
@@ -96,7 +98,6 @@ jobs:
           fi
 
           git commit -m "Update lesson plan PDFs and link pages"
-          git pull --rebase origin main
           git push
 
       - name: Sync PDF URLs to Airtable
