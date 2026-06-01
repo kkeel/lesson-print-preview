@@ -24,7 +24,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=reciJStPWnMeY7ku4",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec1mNFS0CpoTiiY1-language-study-grade-10.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reciJStPWnMeY7ku4",
   "hidePdf": "",
   "syllabird": {
@@ -469,7 +469,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 8",
-              "body": "Point of View\n\n➜ WRITE\nWrite a narration as if you are inside the story and telling a first-hand account of what you're seeing! For instance, perhaps you're walking alongside Judge Dee, observing all the happenings in Paradise Lost, looking for Longitude with John Harrison, or visiting another character in history. You can write it as a diary entry and tell your thoughts as you walk around inside the story. Or you could write it as a travel memoir and focus on describing what is going on to your audience. In either case, tell things from your first-person perspective.",
+              "body": "Point of View\n\n➜ WRITE\nWrite a narration as if you are inside the story and telling a first-hand account of what you're seeing! For instance, perhaps you're walking alongside Wordsworth, sailing in the Arctic with Robert Walton, traveling with Lewis & Clark, or visiting another character in history. You can write it as a diary entry and tell your thoughts as you walk around inside the story. Or you could write it as a travel memoir and focus on describing what is going on to your audience. In either case, tell things from your first-person perspective.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=rectbRHrejKNOfLAM",
               "lessonLinksUrl": "",
@@ -619,8 +619,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 14",
-              "body": "Scene Writing\n\n➜ INTRO\nLook at a Shakespeare play or another play that you have read and note the punctuation and formatting for writing a scene.  \n  \n➜ WRITE\nWrite a scene for a play based on the Celebrated Cases of Judge Dee OR The Scarlet Letter. The beginning might be the easiest section to use, but feel free to choose any section you like. You may want to use some of the actual dialogue in the book in your scene!\n\nBonus Idea: Give directions for any special effects (like music) that you would want as part of your scene.",
-              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Term 1)\nBook: Celebrated Cases of Judge Dee OR The Scarlet Letter",
+              "body": "Scene Writing\n\n➜ INTRO\nLook at a Shakespeare play or another play that you have read and note the punctuation and formatting for writing a scene.  \n  \n➜ WRITE\nWrite a scene for a play based on Frankenstein OR Narrative of the Life of Frederick Douglass/Up From Slavery. The beginning might be the easiest section to use, but feel free to choose any section you like. You may want to use some of the actual dialogue in the book in your scene, if possible!\n\nBonus Idea: Give directions for any special effects (like music) that you would want as part of your scene.",
+              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Term 1)\nBook: Frankenstein; Narrative/Up From Slavery",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recY0YHQnFKq3rOe5",
               "lessonLinksUrl": "",
               "links": []
@@ -747,14 +747,18 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 19",
-              "body": "Poetry\n\n➜ READ (10 min)\nReread the opening lines of Milton's Paradise Lost and then read John Dryden's take on Milton in his opening lines of \"State of Innocence,\" starting with Act 1, Scene 1. \n∞ Article Link: State of Innocence\n\n➜ WRITE\nStart writing your own poetic retelling of Milton's famous poem. Include any notes about why you chose to write it the way you did.",
-              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Term 1)\nHistory of Lit (Lesson 7)",
+              "body": "Poetry\n\n➜ READ (10 min)\nReread John Keats's poem \"Ode on a Grecian Urn.\" Remember that this poem is an example of ekphrasis: the poetic description of a work of art.\n\n∞ Link: Ode on a Grecian Urn\n∞ Link: Ekphrasis\n\n➜ WRITE\nThink of a piece of art you have really loved in Picture Study. With an image of the art in front of you, start writing your own ekphrastic poem about it. Include any notes about why you chose to write it the way you did. Work to keep your chosen meter/rhyme scheme consistent.",
+              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Lesson 12)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recEL9FQYTxiiAEpq",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=1&week=7",
               "links": [
                 {
-                  "text": "State of Innocence",
-                  "url": "https://jacklynch.net/Texts/stateinn.html"
+                  "text": "Ode on a Grecian Urn",
+                  "url": "https://www.poetryfoundation.org/poems/44477/ode-on-a-grecian-urn"
+                },
+                {
+                  "text": "Ekphrasis",
+                  "url": "https://poets.org/glossary/ekphrasis"
                 }
               ]
             },
@@ -769,8 +773,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 20",
-              "body": "Details\n\n➜ REFLECT\nIn addition to choosing sensory details to immerse their readers in a scene, authors have to choose which details (sensory and other) are most relevant to their story. As you read this week, notice the details authors include in their books and consider their significance. Sometimes small details lead to big conversations and insights. For instance, Matthew includes Rahab and Ruth in his genealogy leading up to Jesus's birth (Matthew 1). Most of the names he includes just move right from one to the next, but in a few places, such as this, Matthew pauses to give a bit more detail. Why?\n\n➜ WRITE\nDescribe a scene from Longitude or one of your history books (use 3rd person POV). Pay attention to the details you include. Work to help your reader envision the scene by including important sensory details (bonus if you can include details that reference all five senses—sight, sound, taste, touch, and smell). Write for the whole time.",
-              "teacherNotes": "• REFERENCE\nGeography: Grades 10-11\nBook: Longitude",
+              "body": "Details\n\n➜ REFLECT\nIn addition to choosing sensory details to immerse their readers in a scene, authors have to choose which details (sensory and other) are most relevant to their story. As you read this week, notice the details authors include in their books and consider their significance. Sometimes small details lead to big conversations and insights. For instance, Matthew includes Rahab and Ruth in his genealogy leading up to Jesus's birth (Matthew 1). Most of the names he includes just move right from one to the next, but in a few places, such as this, Matthew pauses to give a bit more detail. Why?\n\n➜ WRITE\nContinue to work on your writing assignment in Geography where you are combining the 5 versions of the events of a day from the Lewis and Clark expedition into one account indicating what happened to each mentioned member of the expedition. Use 3rd person POV and pay attention to the details you include. Work to help your reader envision the scene by including important sensory details (bonus if you can include details that reference all five senses - sight, sound, taste, touch, and smell)! Write for the whole time.\n\nIf you are not taking the Geography course, write a descriptive paragraph inspired by an episode from one of your books this week, taking care to include specific, intentional detail.",
+              "teacherNotes": "• REFERENCE \nGeography: Grade 10-11 (Lesson 14) \nBook: Five Months on the Missouri River",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=rec4OzaedMvTnz9Xj",
               "lessonLinksUrl": "",
               "links": []
@@ -846,7 +850,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 23",
-              "body": "Revision\n\n➜ REVISE\nGo back to your descriptive scene from Longitude or a history book (Lesson 20) and revise. \n\nBig-Picture Revision\n1. If you didn't type your description before, do that now so you have a digital version to edit.\n2. Are there other details you've learned more recently that you'd like to add to your description? Do that now.\n3. Look at your paragraphs. Are they indented and focused around one idea each (Perhaps you have a paragraph focused just on sight, another on sound, etc., or perhaps you organize your paragraphs spatially and describe the immediate surroundings, the nature, the weather, etc.)? Describe the main focus of the paragraph in one sentence and consider making that the first sentence (topic sentence) of your paragraph.\n4. Consider the flow of your description. Try organizing your paragraphs a few different ways and decide what you like best.\n\nSentence-Level Revision\n1. Read your paper aloud and fix any grammar errors you hear and see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Give your description a title and put it at the top.\n4. Look for wordiness. Are there any unnecessary words? Do you have any long sentences that would be better written as two shorter ones? \n5. Look at each of your sentences (pull them out individually if that helps). Are they complete thoughts and not fragments? Do they have clear characters and actions?\n6. Remove any unhelpful nominalizations.\n7. For this assignment, make sure your description is consistently in 3rd person.\n\nTurn in your revised description!",
+              "body": "Revision\n\n➜ REVISE\nGo back to your descriptive scene (Lesson 20) and revise. \n\nBig-Picture Revision\n1. If you didn't type your description before, do that now so you have a digital version to edit.\n2. Are there other details you've learned more recently that you'd like to add to your description? Do that now.\n3. Look at your paragraphs. Are they indented and focused around one idea each (Perhaps you have a paragraph focused just on sight, another on sound, etc., or perhaps you organize your paragraphs spatially and describe the immediate surroundings, the nature, the weather, etc.)? Describe the main focus of the paragraph in one sentence and consider making that the first sentence (topic sentence) of your paragraph.\n4. Consider the flow of your description. Try organizing your paragraphs a few different ways and decide what you like best.\n\nSentence-Level Revision\n1. Read your paper aloud and fix any grammar errors you hear and see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Give your description a title and put it at the top.\n4. Look for wordiness. Are there any unnecessary words? Do you have any long sentences that would be better written as two shorter ones? \n5. Look at each of your sentences (pull them out individually if that helps). Are they complete thoughts and not fragments? Do they have clear characters and actions?\n6. Remove any unhelpful nominalizations.\n7. For this assignment, make sure your description is consistently in 3rd person.\n\nTurn in your revised description!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recJvjjcFnFu5I1ci",
               "lessonLinksUrl": "",
@@ -906,8 +910,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 25",
-              "body": "Plot\n\n➜ INTRO\nHow do authors keep you interested in a story or movie? Name as many ways as you can think of.\n\n➜ REFLECT\nReread the opening paragraphs of Ch.10 in The Scarlet Letter. What development in Chillingworth's character is described in the first paragraph? How does Nathaniel Hawthorne use this new information to move the story along? What questions or suspicions does he raise in you, the reader, with this intro?\n\nNow look at the concluding paragraphs of Ch.10. How does Hawthorne build the suspense of the novel with the conclusion of the chapter as well?\n\n➜ READ & WRITE\nRead the article on suspense and look for ways authors hold your interest and move their story forward as you continue reading The Scarlet Letter and your other books!\n∞ Article Link: Building Suspense",
-              "teacherNotes": "• REFERENCE\nGeneral Literature (Lesson 11)\nBook: The Scarlet Letter",
+              "body": "Plot\n\n➜ INTRO\nHow do authors keep you interested in a story or movie? Name as many ways as you can think of.\n\n➜ REFLECT\nReread the opening paragraphs of Ch.9 in The Count of Monte Cristo. What are the stages Dantès passes through at the beginning of the chapter? How does the \"faint noise\" disrupt these stages and give him hope? What questions or expectations does this raise in you, the reader?\n\nNow look at the concluding paragraphs of Ch.9. How does Dumas build the suspense of the novel with the conclusion of the chapter as well?\n\n➜ READ & WRITE\nRead the article on suspense and look for ways authors hold your interest and move their story forward as you continue reading Scarlet Letter and your other books!\n∞ Article Link: Building Suspense",
+              "teacherNotes": "• REFERENCE\nGeneral Literature (Lesson 11)\nThe Count of Monte Cristo",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recgL2wRb2dBlGxbR",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=1&week=9",
               "links": [
@@ -928,11 +932,16 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 26",
-              "body": "Character sketch or Expository essay\n\n➜ WRITE\nDescribe the ideal Chinese judge based on what you've read in Celebrated Cases of Judge Dee; include some examples from the book.\nOR\nDevelop your discussion from the lesson and describe what you've noticed about medieval Chinese culture and customs from this book.\n\nWhen giving examples from Celebrated Cases, give the page number you are quoting.\n\n*The author shows Judge Dee as the ideal judge by highlighting his deliberate investigation. For instance, although Judge Dee does not think Koong looks like a murderer, he knows that he cannot make a decision \"on the statement of this man alone\" (p.11).*",
-              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10\nBook: Celebrated Cases of Judge Dee",
+              "body": "Paraphrase\n\nParaphrase all (or the rest) of \"Children of the Heavenly Father\" in prose (or feel free to write a poetic paraphrase!)",
+              "teacherNotes": "• REFERENCE\nHymn, Spirituals, & Folk PDF p.9 (Lesson 8)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recFWQqBHmPIc3tkN",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=1&week=9",
+              "links": [
+                {
+                  "text": "Music Selections",
+                  "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view"
+                }
+              ]
             },
             {
               "lessonId": "recK6PlR5hD3LGC7K",
@@ -979,8 +988,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 28",
-              "body": "Essay\n\n➜ WRITE\nDevelop your thoughts from the lesson. What are the different meanings of the chapter title \"A Flood of Sunshine\"? How does the imagery in the chapter support this idea? \nOR\nWhose view of sin and repentance is right, Hester's or Dimmsdale's? (First describe each of their perspectives on sin and repentance.)",
-              "teacherNotes": "• REFERENCE\nGeneral Lit (Lesson 19)\nBook: The Scarlet Letter, Reflection Questions",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on writing assignments that you haven't had a chance to finish in this course.",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recczz4mcPmPykd8h",
               "lessonLinksUrl": "",
               "links": []
@@ -996,7 +1005,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 29",
-              "body": "Dialogue\n\n➜ WRITE\nMake up two characters (or pick two characters from the same or different books) and write a conversation including dialogue between the two of them. Here are some options:\n• Have Judge Dee talk to Hester. \n• Rewrite Adam & Eve's conversation in Book IX of Paradise Lost in modern-day English.\n\nSave a few minutes at the end of the lesson and read your composition aloud. Does the dialogue sound natural? \n\n➜ A NOTE ON DIALOGUE\nWhat makes dialogue move forward? Professor Lowry Pei gives this insight: \"When people communicate perfectly, understand each other fully, agree on what must be done – conversation naturally ends. It is the imperfect understanding, the unfinished communication, the disagreement, the mismatch, the unfulfilled wish that keeps a dialogue going....While you’re writing what the characters do say, be aware of what they don’t say, but are thinking and feeling.\"\n\n➜ REVISE\nSave a few minutes at the end of your lesson to quickly revise your work. Make sure to indent dialogue appropriately, read your writing aloud, and see if your dialogue sounds natural. Change it if it doesn't! And pay attention to dialogue in your books as you read!",
+              "body": "Dialogue\n\n➜ WRITE\nMake up two characters (or pick two characters from the same or different books) and write a conversation including dialogue between the two of them. Here are some options:\n• Have Rabindranath Tagore talk to Gertrudis Gómez de Avellaneda.\n• Write dialogue between Dantès and Mercédès.\n\n➜ A NOTE ON DIALOGUE\nWhat makes dialogue move forward? Professor Lowry Pei gives this insight: \"When people communicate perfectly, understand each other fully, agree on what must be done – conversation naturally ends. It is the imperfect understanding, the unfinished communication, the disagreement, the mismatch, the unfulfilled wish that keeps a dialogue going....While you’re writing what the characters do say, be aware of what they don’t say, but are thinking and feeling.\"\n\n➜ REVISE\nSave a few minutes at the end of your lesson to quickly revise your work. Make sure to indent dialogue appropriately, read your writing aloud and see if your dialogue sounds natural. Change it if it doesn't! And pay attention to dialogue in your books as you read!",
               "teacherNotes": "• DIALOGUE\nWhen writing dialogue, \"keep your words and sentences short. Break up the speeches with the other person’s questions, gestures, or thoughts. Start a new paragraph whenever the next person speaks, does something, or thinks. Short bursts of speech seem natural to the reader. Just as long speech paragraphs seem unnatural, so do long speech sentences. and so do long words\" (from Writing Magic by Gail Levine).\n\n• REFERENCE\nExamples given from General Literature and Poetry Reading (Lesson 20).",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recq6QkIuHPb55vnr",
               "lessonLinksUrl": "",
@@ -1013,7 +1022,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 30",
-              "body": "➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "body": "Style\n \n➜ WRITE\nWrite about something you've read, experienced, or imagined in the style of another author (living or dead). Read your work to someone and see if they can guess the author you're trying to imitate!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recgMMYiHKiQaUwUJ",
               "lessonLinksUrl": "",
@@ -1056,8 +1065,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 31",
-              "body": "Poetry OR Illustration\n\n➜ WRITE\nWrite a narrative poem OR create a graphic novel style telling the story of \"The Scarlet Letter.\"\n\nBonus Idea: If you write a poem, try including an epic simile!",
-              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10\nBook: The Scarlet Letter",
+              "body": "Poetry OR Illustration\n\n➜ WRITE\nWrite a narrative poem OR create a graphic novel style telling the story of Frankenstein.\n\nBonus Idea: If you write a poem, try including an epic simile!",
+              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10\nBook: Frankenstein",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=rec3iJ6Tcp1pLoCP5",
               "lessonLinksUrl": "",
               "links": []
@@ -1090,7 +1099,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 33",
-              "body": "Catch Up Day\n\n➜ CATCH UP\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on writing assignments that you haven't had a chance to finish in this course.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recuMyx5Hll20xRZd",
               "lessonLinksUrl": "",
@@ -1352,11 +1361,20 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 43",
-              "body": "Tone\n\n➜ WRITE\nHave you noticed any mannerisms in the authors you've read this year (in school or on your own time)? Try writing (or rewriting) a narration the way one of your favorite authors would. When you're done, read your narration aloud to someone else and see if they can guess the author you're imitating!",
-              "teacherNotes": "",
+              "body": "Literature Connection & Composition\n\nW.E.B Du Bois (who you might have read more about in Literature lessons) wrote a parody of My Country 'Tis of Thee. Read his poem and the original lyrics and then write a paragraph explaining how W.E.B. Du Bois's poem critiques the original.\n∞ Link: My Country 'Tis of Thee by W.E.B. Du Bois\n\nOR\nCompare W.E.B. Du Bois's poem to Frederick Douglass's \"What to the Slave is the Fourth of July?\" speech. \n∞ Link: What to the Slave Is the 4th of July?",
+              "teacherNotes": "REFERENCE\nFolk Songs (Lesson 15)\nGeneral Literature",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=reconPonPF1DFLUBn",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=2&week=15",
+              "links": [
+                {
+                  "text": "My Country 'Tis of Thee",
+                  "url": "https://www.poetryfoundation.org/poems/43026/my-country-tis-of-thee"
+                },
+                {
+                  "text": "What to the Slave Is the 4th of July?",
+                  "url": "https://teachingamericanhistory.org/document/what-to-the-slave-is-the-fourth-of-july-2/"
+                }
+              ]
             },
             {
               "lessonId": "recGBbQYsVe7SeL2t",
@@ -1429,8 +1447,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 46",
-              "body": "Compare & Contrast\n\n➜ WRITE\nClaudio and Hero are foils to Benedick and Beatrice, which means that readers can learn about each of them by seeing how they contrast with each other. Explain how the couples are different (include specific lines from the play to show the contrast).\n\nWrite in 3rd person. \n\n➜ REVIEW\n• After you finish comparing and contrasting the two couples, write a thesis that sums up your analysis and put it at the beginning of your assignment.\n• Read your writing aloud and fix any spelling or grammar errors you find.\n\nTip: If you're struggling to keep your writing in the 3rd person. Take out any times that you accidentally added an \"I think\" in your sentences to keep your writing from slipping into a 1st person point of view. The sentence will usually become a 3rd person POV sentence automatically if you simply delete the phrase \"I think\" from the beginning.",
-              "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Term 2)\nBook: Much Ado About Nothing",
+              "body": "Retelling\n\nWrite your own retelling of the angels' and shepherds' meeting from Luke 2. You can write it as a poem/carol like Angels We Have Heard on High or as a play, a picture book, or a short story. \n\nUse a commentary or other study helps from Bible lessons to read more about shepherds in NT times and other aspects of Luke's narrative. Work to incorporate these details into your composition as you imagine what that meeting between angels and shepherds was like for those there.",
+              "teacherNotes": "• REFERENCE\nHymns & Spirituals (Lesson 15)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recQj2xil17O9X4aL",
               "lessonLinksUrl": "",
               "links": []
@@ -1502,8 +1520,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 49",
-              "body": "Point of View\n\n➜ WRITE\nMy Brother Sam is Dead is written from Tim's perspective (a 1st person POV). Retell Ch.V, VII, or another section from a different character's perspective. Then, retell the same selection from a 3rd person (outside) POV. Here are examples to get you started: \n\n1st Person POV (Tim's perspective): \"I looked at my father.\"\n1st Person POV (Tim's father's perspective): \"Tim looked at me.\" \n3rd person POV: (Narrator's perspective): \"Tim looked at his father.\"",
-              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Lesson 31,33) \nBook: My Brother Sam is Dead",
+              "body": "Point of View\n\n➜ WRITE\nFrankenstein is written from several character's perspectives, but they are all 1st person POV. Retell Ch.XVII or another section from a different character's perspective. Then, retell the same selection from a 3rd person (outside) POV. Here are examples to get you started: \n\n1st Person POV (Frankenstein's perspective): \"I looked at the creature.\"\n1st Person POV (The creature's perspective): \"Frankenstein looked at me.\" \n3rd person POV: (Narrator's perspective): \"Frankenstein looked at the creature.\"",
+              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Lesson 31) \nBook: Frankenstein",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recOE0p07GuDqFG1X",
               "lessonLinksUrl": "",
               "links": []
@@ -1519,8 +1537,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 50",
-              "body": "Satire/Travel Writing\n\nOption 1: Gulliver's Travels\n➜ DISCUSS\nRemember that satire \"mocks vice (wickedness) and folly (foolishness) in order to correct both” (Karen Swallow Prior in her introduction to Sense & Sensibility). What aspects of British culture does Jonathan Swift make fun of? Give one or two examples.\n\n➜ REFLECT\nWhat are aspects of our culture today that you think need reform? Jot down any ideas you have for how you could write a satirical scene showing the ridiculousness of something today. (Note: it's easy to poke fun at things in a mean way; try to think of ways you could show the problem for what it is without meanness.)\n\nOption 2: Travel Writing\nThink back on some travels (short or long, near or far) that you took and write your own travel account. Think about the descriptions you include. Can you make your account vivid and memorable for your readers?",
-              "teacherNotes": "• REFERENCE\nGeneral Lit (Term 2, Weeks 1-5)\nBook: Gulliver's Travels\nOR\nHistory of Lit (Lesson 17)\nBook: Travel Writings (students do not need to have completed this lesson to use the prompt)",
+              "body": "Travel Writing\n\nThink back on some travels (short or long, near or far) that you took and write your own travel account. Think about the descriptions you include. Can you make your account vivid and memorable for your readers?",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=reci47Vig0Ad94DIm",
               "lessonLinksUrl": "",
               "links": []
@@ -1579,8 +1597,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 52",
-              "body": "Essay-genre analysis\n\n➜ READ & WRITE\nDating back to Aristotle, many authors and playwrights visualize the shape of a story or play in five parts. Read about or review this 5-part structure, then think (and look) back over what you've read in Much Ado About Nothing. Is the play following this general arc? Where would you identify the introduction, rising action, and climax? Explain.\n\n∞ Article Link: Five-Act Structure\n∞ Article Link: Five-Act Opt. 2\n\n➜ NOTE\nRemember when you learned that many pieces of writing are focused around a question? Notice how your entire piece today is focused around the question \"Is the play following the general 5-part structure arc of a play?\" That is your large question. Then notice the smaller questions that will help you answer that larger one: Where do you identify the introduction, rising action, and climax? You'll have another lesson time to work on this essay. There are many ways you could proceed, but here is one possibility (a classic five-paragraph essay): \n\n• Introduction: Introduce the main question and write your answer in one sentence (your thesis). \n• Paragraph: Where/do you see the standard features of an \"introduction\" in Much Ado About Nothing?\n• Paragraph: Where/do you see the standard features of \"rising action\"?\n• Paragraph: Where/do you see the standard features of a \"climax\"?\n• Conclusion: Summarize your main points and give any additional thoughts about how the assignment helped you understand the play better, any additional questions you have, etc.",
-              "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Lesson 18)\nBook: Much Ado About Nothing",
+              "body": "Essay-genre analysis\n\n➜ READ & WRITE\nDating back to Aristotle, many authors and playwrights visualize the shape of a story or play in five parts. Read about or review this 5-part structure, then think (and look) back over what you've read in The Tempest last term. Is the play following this general arc? Where would you identify the introduction, rising action, and climax? Explain.\n\n∞ Article Link: Five-Act Structure\n∞ Article Link: Five-Act Opt. 2\n\n➜ NOTE\nRemember when you learned that many pieces of writing are focused around a question? Notice how your entire piece today is focused around the question \"Is the play following the general 5-part structure arc of a play?\" That is your large question. Then notice the smaller questions that will help you answer that larger one: Where do you identify the introduction, rising action, and climax? You'll have another lesson time to work on this essay. There are many ways you could proceed, but here is one possibility (a classic five-paragraph essay): \n\n• Introduction: Introduce the main question and write your answer in one sentence (your thesis). \n• Paragraph: Where/do you see the standard features of an \"introduction\" in The Tempest?\n• Paragraph: Where/do you see the standard features of \"rising action\"?\n• Paragraph: Where/do you see the standard features of a \"climax\"?\n• Conclusion: Summarize your main points and give any additional thoughts about how the assignment helped you understand the play better, any additional questions you have, etc.",
+              "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Term 1)\nBook: The Tempest",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recOflrlp5m2RTNI5",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=2&week=18",
               "links": [
@@ -1605,8 +1623,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 53",
-              "body": "Poetry writing\n\n➜ WRITE\nTry writing a poem about one of your readings (or rewrite a narration) in dactylic hexameter (Longfellow's meter).",
-              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Term 2)\nBook: Hiawatha or The Courtship of Miles Standish",
+              "body": "Poetry\n\n➜ WRITE\nTry writing a poem about one of your readings (or rewrite a narration) in Short Meter (four-line stanzas with a 6-6-8-6 syllable pattern). This is a common meter for hymns, and a favorite one of Emily Dickinson (See \"A Bird came down the Walk\").",
+              "teacherNotes": "• REFERENCE\nHistory of Literature (Lesson 17) \nEmily Dickinson",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recbjzxvxgLwbu7w6",
               "lessonLinksUrl": "",
               "links": []
@@ -1673,7 +1691,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 56",
-              "body": "Scene writing/ dialogue\n\n➜ INTRO\nIt's hard to get dialogue in a book to sound natural. Read these thoughts on writing dialogue. \n∞ Article Link: Thoughts on Dialogue (stop at \"other than stage direction.\")\n\n➜ WRITE\nWrite a scene for a play from The Sand Reckoner, Jonathan Edwards' Bio, a Bible passage, Chasing Venus/The Race to Save the Lord God Bird, or another reading. Don't forget the instructions for the stage setup and any props! Feel free to look back at a Shakespeare play to remind yourself how to format/write a scene.",
+              "body": "Scene writing/ dialogue\n\n➜ INTRO\nIt's hard to get dialogue in a book to sound natural. Read these thoughts on writing dialogue. \n∞ Article Link: Thoughts on Dialogue (stop at \"other than stage direction.\")\n\n➜ WRITE\nWrite a scene for a play from The Count of Monte Cristo, Jane Eyre or James, a Bible passage, or another reading. Don't forget the instructions for the stage setup and any props! Feel free to look back at a Shakespeare play to remind yourself how to format/write a scene.",
               "teacherNotes": "• REFERENCE\nAncient History: Grades 10-12\nChurch History: Grades 10-12 \nGeography: Grades 10-11\nBible",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recUB8I3SKci45Qr2",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=2&week=19",
@@ -1738,7 +1756,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 58",
-              "body": "Poetry\n\n➜ WRITE\nWrite a narration (or pick a previous narration to rewrite) in blank verse. Remember that this is Milton's preferred style for Paradise Lost!",
+              "body": "Poetry\n\n➜ WRITE\nWrite a narration (or pick a previous narration to rewrite) in blank verse (unrhymed iambic pentameter).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recqiajSFsHDM4YPT",
               "lessonLinksUrl": "",
@@ -1755,8 +1773,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 59",
-              "body": "Revision\n\n➜ WRITE\nContinue working on your essay on Much Ado About Nothing from Lesson 52. Finish drafting your essay if it's still in process. (Look back at the play since you'll likely have fresh ideas now that you're a little further along!)\n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your essay? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your body paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?",
-              "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Term 2)\nBook: Much Ado About Nothing",
+              "body": "Revision\n\n➜ WRITE\nContinue working on your essay on The Tempest from Lesson 52. Finish drafting your essay if it's still in process. (Look back at the play since you'll likely have fresh ideas now that you're a little further along!)\n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your essay? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your body paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?",
+              "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Term 1)\nThe Tempest",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recHwh5acpwb3zGZQ",
               "lessonLinksUrl": "",
               "links": []
@@ -1815,8 +1833,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 61",
-              "body": "Tracing Character\n\n➜ WRITE\nHow has Tim changed throughout My Brother Sam is Dead? Look back at your book and see if you can identify a few concrete examples showing how Tim has changed in his actions and/or thoughts. What was he like at the beginning of the book? What is he like now? Then write up your findings. Be sure to make the first sentence of each paragraph your topic sentence and give supporting details in the others.",
-              "teacherNotes": "• REFERENCE\nGeneral Lit: Grades 9-10\nBook: My Brother Sam is Dead",
+              "body": "Tracing Character\n\n➜ WRITE\nHow has Victor Frankenstein changed throughout Frankenstein? Look back at your book and see if you can identify a few concrete examples showing how he has changed in his actions and/or thoughts. What was he like at the beginning of the book? What is he like now? Then write up your findings. Be sure to make the first sentence of each paragraph your topic sentence and give supporting details in the others.",
+              "teacherNotes": "• REFERENCE\nGeneral Lit: Grades 9-10\nBook: Frankenstein",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recFQiFMAEdSZuALe",
               "lessonLinksUrl": "",
               "links": []
@@ -1832,18 +1850,18 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 62",
-              "body": "Outline & Comparison/Description\n\n➜ WRITE\nCompare and contrast the Declaration of Independence with the Declaration of the Rights of Man. Jot down a list of similarities and a list of differences.\n\n∞ Article Link: Declaration of the Rights of Man\n∞ Article Link: Declaration of Independence",
-              "teacherNotes": "• REFERENCE\nGeneral Lit (Lesson 40)",
+              "body": "Compare/Contrast\n\n➜ WRITE\nWrite a well-organized paragraph or two comparing The Aeneid's opening Invocation to the Muse (lines 1-13) to the openings of The Iliad and The Odyssey.\n∞ PDF Link: Iliad Opening Lines\n∞PDF Link: Odyssey Opening Lines\n• How is Virgil both imitating Homer and also doing something very new?",
+              "teacherNotes": "REFERENCE \nPoetry Reading 11-12 (Lesson 37)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=receo0PZiIAiMXaJi",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=2&week=21",
               "links": [
                 {
-                  "text": "Declaration of the Rights of Man",
-                  "url": "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen"
+                  "text": "Iliad Opening Lines",
+                  "url": "https://drive.google.com/file/d/1xGDJZVV0ku1aP9B8k-1n2BNL5uk3Jtbd/view?usp=drive_link"
                 },
                 {
-                  "text": "Declaration of Indepdenence",
-                  "url": "https://www.archives.gov/founding-docs/declaration-transcript"
+                  "text": "Odyssey Opening Lines",
+                  "url": "https://drive.google.com/file/d/1x2jJTLASu34oiH-6_kDZkmC_uzWi5c-I/view?usp=drive_link"
                 }
               ]
             },
@@ -1901,7 +1919,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 64",
-              "body": "Compare & Contrast\n\n➜ WRITE\nPick two or three different aspects to compare and contrast in a few of these different worlds: Archimedes' world, British North America, Indigenous North America, 17th-18th century Europe, or 17th century Korea. You will have two lessons to work on your comparison and contrast. Feel free to look back at your books as you develop your ideas!\n\nAfter you finish comparing and contrasting, write a thesis for your paper summarizing your main points and argument.",
+              "body": "Compare & Contrast\n\n➜ WRITE\nPick two or three different aspects to compare and contrast in a few of these different worlds: Roman World, British North America, Indigenous North America, 19th century Europe, or Civil War-era America. \n\nAfter you finish comparing and contrasting, write a thesis for your paper summarizing your main points and argument.",
               "teacherNotes": "• REFERENCE\nHistory Topics",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recFVGRzYL3s12OIc",
               "lessonLinksUrl": "",
@@ -1969,7 +1987,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 67",
-              "body": "Summarize & Opinion\n\n➜ WRITE\nSummarize Sam's argument for the Patriot cause and Mr. Meeker's argument against it. List several key spots in the book showing their perspectives and cite the page number as you learned in Essay Voyage. Focus on this part today.\n\nNext Lesson: Now that you're almost at the end of the book, what is your opinion? Do you think the war was worth it? Can you imagine another way the United States could have achieved freedom?",
+              "body": "Summarize & Opinion\n\n➜ WRITE\n\nOR",
               "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10\nBook: My Brother Sam is Dead",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=reck8ifKPA95cLmIL",
               "lessonLinksUrl": "",
@@ -2120,8 +2138,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 73",
-              "body": "Essay\n\n➜ WRITE\nWhat are some big ideas or themes that you have seen consistently across your readings in Turning Points and/or Jonathan Edwards' bio for Church history?",
-              "teacherNotes": "• REFERENCE\nChurch History: Grades 10-12\nBook: Turning Points/Jonathan Edwards' Bio",
+              "body": "Essay\n\n➜ WRITE\nWhat are some big ideas or themes that you have seen consistently across your readings in Church History or Citizenship?",
+              "teacherNotes": "• REFERENCE\nChurch History: Grades 10-12\nCitizenship",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recg0zRFMCS0BUx01",
               "lessonLinksUrl": "",
               "links": []
@@ -2137,16 +2155,11 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 74",
-              "body": "Compare & Contrast\n\n➜ WRITE\nPick one or two specific passages or verses from your Bible reading in the gospels. Look up the same passage in at least three different translations of the Bible. Then write an essay comparing and contrasting the different translations. Explain the different imagery and how the emphases come out differently. Biblegateway.com is a good online resource to use to compare translations if you do not have three different physical translations in your house.\nOR\nCompare and contrast the beginnings of the Iliad, Odyssey, and Paradise Lost. Think about the fact that Milton claimed he was writing a more \"epic\" epic than Homer.\n∞ PDF Link: Iliad Selections PDF",
-              "teacherNotes": "• REFERENCE\nNew Testament\nBook: NIV Cultural Backgrounds Study Bible, any other translations you like!\n\nPoetry Reading: Grades 9-12 (Term 1 & Term 3)\nBook: Paradise Lost, The Odyssey",
+              "body": "Compare & Contrast\n\n➜ WRITE\nPick one or two specific passages or verses from your Bible reading in the gospels. Look up the same passage in at least three different translations of the Bible. Then write an essay comparing and contrasting the different translations. Explain the different imagery and how the emphases come out differently. Biblegateway.com is a good online resource to use to compare translations if you do not have three different physical translations in your house.",
+              "teacherNotes": "• REFERENCE\nNew Testament\nBook: NIV Cultural Backgrounds Study Bible, any other translations you like!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recVtfBXMilo4CnHB",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=3&week=25",
-              "links": [
-                {
-                  "text": "Iliad Selections PDF",
-                  "url": "https://griersmusings.wordpress.com/wp-content/uploads/2018/10/homer_the_iliad_penguin_classics_deluxe_edition-robert-fagles.pdf"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "rec2j3lO4U5Dw20FS",
@@ -2193,8 +2206,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 76",
-              "body": "Scene Writing\n\n➜ WRITE\nWrite a section from Pride & Prejudice, A Tale of Two Cities, or The Odyssey (or another book of your choice) as a short play. You'll have two lesson periods to focus on this. Today, focus on sketching out the big picture. How many scenes will you include? (Remember, scenes can be short.) What will you focus on in each scene? What extra characters will you invent? Look at one of Shakespeare's plays or another play you've read to remind yourself how to format your writing.\n\nOnce you have a general idea of how you want your play to go (of course, you'll tweak things as you go), start writing!\n\nHere is one example of how someone else turned part of Pride & Prejudice into a play. Only read if you're ok with spoilers though!\n∞ PDF Link: Scenes by Pertwee",
-              "teacherNotes": "• REFERENCE\nGeneral Lit (Term 3) \nBook: Pride & Prejudice or A Tale of Two Cities\n\nPoetry Reading (Term 3)\nBook: The Odyssey",
+              "body": "Scene Writing\n\n➜ WRITE\nWrite a section from Things Fall Apart, The Celebrated Jumping Frog of Calaveras County, The Gift of the Magi, The Aeneid (or another book of your choice) as a short play. You'll have two lesson periods to focus on this. Today, focus on sketching out the big picture. How many scenes will you include? (Remember, scenes can be short.) What will you focus on in each scene? What extra characters will you invent? Look at one of Shakespeare's plays or another play you've read to remind yourself how to format your writing.\n\nOnce you have a general idea of how you want your play to go (of course you'll tweak things as you go), start writing!\n\nHere is one example of how someone else turned part of Pride & Prejudice into a play.\n∞ PDF Link: Scenes by Pertwee",
+              "teacherNotes": "• REFERENCE\nGeneral Lit (Term 3) \nAll books and short stories \nPoetry Reading (Term 3) \nBook: The Aeneid",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recumKXK8mb9eLGhw",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=3&week=26",
               "links": [
@@ -2216,7 +2229,7 @@
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 77",
               "body": "Playwriting and revision\n\n➜ WRITE & REVISE\nContinue writing your play. Save at least 10 minutes at the end to review and edit. \n\n1. Check punctuation, grammar, and spelling with your own eyes and a spell checker.\n2. Read your dialogue aloud and revise. Does it sound natural? Remember that we tend to speak in shorter sentences and fragments.\n3. Add instructions for props as desired.\n4. Make sure you indicate the setting for each scene (i.e., the front yard of a house, a boat, etc.).\n5. Write a summary of each scene (if you have multiple), describing what happens in it. \n6. Make a plan to have some friends perform your play!",
-              "teacherNotes": "• REFERENCE\nGeneral Lit (Term 3) \nBook: Pride & Prejudice or A Tale of Two Cities\n\nPoetry Reading (Term 3)\nBook: The Odyssey",
+              "teacherNotes": "• REFERENCE \nGeneral Lit (Term 3) \nAll books and short stories \nPoetry Reading (Term 3) \nBook: The Aeneid",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recHeQZNHal6BnNcg",
               "lessonLinksUrl": "",
               "links": []
@@ -2292,7 +2305,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 80",
-              "body": "Technology/visual\n\n➜ INTRO\nHave you incorporated visual sketches into your narrations at all this year? There are so many ways to see words and stories with colors, shapes, and pictures, in addition to just reading words on a page (think of picture books!). Depending on the topic, one way of communicating might be better than another. A birthday party invitation looks much better on a colorful poster than written as a paragraph. On the flip side, paragraphs are essential to a longer book or story. \n\n➜ CREATE\nMake a poster, infographic, a mind map, or any other sort of visual from your reading that you'd like to see another way. Use one of the ideas below or come up with your own. Draw or model it in 3-D by hand first, if desired, and if there is time left, try creating it with Canva.\n\n• Events in Jesus' life from your reading in the gospels \n• Character map from Pride & Prejudice, Shakespeare, or another reading\n• Something from Science\n• Connections between different books you've read this year\n• Structure of Colossians\n• Something from History or Geography",
+              "body": "Technology/visual\n\n➜ INTRO\nHave you incorporated visual sketches into your narrations at all this year? There are so many ways to see words and stories with colors, shapes, and pictures, in addition to just reading words on a page (think of picture books!). Depending on the topic, one way of communicating might be better than another. A birthday party invitation looks much better on a colorful poster than written as a paragraph. On the flip side, paragraphs are essential to a longer book or story. \n\n➜ CREATE\nMake a poster, infographic, a mind map, or any other sort of visual from your reading that you'd like to see another way. Use one of the ideas below or come up with your own. Draw or model it in 3-D by hand first, if desired, and if there is time left, try creating it with Canva.\n\n• Events in Jesus' life from your reading in the gospels \n• Character map from Silas Marner, Shakespeare, or another reading\n• Something from Science\n• Connections between different books you've read this year\n• Structure of an Epistle from the Bible\n• Something from History or Geography",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recSon5zvx84W1Exr",
               "lessonLinksUrl": "",
@@ -2420,8 +2433,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 85",
-              "body": "Essay\n\n➜ WRITE\nWrite a character sketch of Cato or Hal in Henry IV based on Shakespeare's depiction of him so far. Who is he, and what are some of his key motivations and characteristics? Use examples from the play to show your thoughts.\nOR\nWrite an essay on hospitality in the Odyssey so far. Give specific examples (and the line numbers) from the story to show your point.",
-              "teacherNotes": "• REFERENCE\nPlays: Grades 9-12/Shakespeare (Lesson 29)\nBook: Cato or Henry IV Part 1\nOR\nPoetry Reading: Grades 9-12 (Lesson 55)",
+              "body": "Newspaper Article\n\nCreate a newspaper article about one of the entertainers or sports you've read about in American History: Volume 2.\n\nOR\nCreate a newspaper article about another event you have read about recently in another History course.",
+              "teacherNotes": "REFERENCE \nU.S. History 9-12 (Lesson 55) \nBook: US History: Volume 2",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=rec4YuOS4BvyopHWW",
               "lessonLinksUrl": "",
               "links": []
@@ -2437,8 +2450,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 86",
-              "body": "Outline\n\n➜ WRITE\nOutline a couple of the chapters you have read so far in Turning Points (Church History) or one of your Citizenship readings. (Remember, an outline is just a list of the key points from each chapter. It is often done in a bullet-point format.)",
-              "teacherNotes": "• REFERENCE\nChurch History\nBook: Turning Points\nOR\nCitizenship",
+              "body": "Outline\n\n➜ WRITE\nOutline a couple of the chapters you have read so far in one of your Church History or Citizenship readings. (Remember, an outline is just a list of the key points from each chapter. It is often done in a bullet-point format.)",
+              "teacherNotes": "• REFERENCE\nChurch History\nOR\nCitizenship",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recuSak1OrvablmZy",
               "lessonLinksUrl": "",
               "links": []
@@ -2587,16 +2600,11 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 92",
-              "body": "Sentence Structure\n\n➜ READ & REFLECT\nLearn about how Jane Austen uses sentence structure and then look at Pride & Prejudice and a few other books. Jot down your findings. Can you see any patterns in how the characters talk in Pride & Prejudice? How would you describe the sentence style of other writers you look at? Do they tend to write long or short sentences? Use a lot of descriptive words? Notice any other examples of dialogue. Continue paying attention to sentence structure as you read.\n∞ Article Link: Sentence Structure\n\n➜ WRITE\nWith remaining time, write a dialogue between two characters and try to show what they are like through your sentence structure.",
+              "body": "Catch-Up Day\n\n➜ CATCH UP\nUse this time to catch up on writing assignments that you haven't had a chance to finish in this course.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recC6wWFouY9RjFe0",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec1mNFS0CpoTiiY1&term=3&week=31",
-              "links": [
-                {
-                  "text": "Sentence Structure",
-                  "url": "https://www.rookwoodediting.com/post/sentence-structure-characterization-in-persuasion"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "recew89FTLm53MWNv",
@@ -2648,8 +2656,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 94",
-              "body": "Essay - Characterization\n\n➜ WRITE\nDo you think Odysseus changes after his misadventures? Give reasons from your reading and cite line numbers.",
-              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Lesson 63)\nBook: The Odyssey",
+              "body": "Essay - Characterization\n\n➜ WRITE\nDo you think Aeneas is in charge of his own actions, or is he being controlled by fate and the gods. Give reasons from your reading and cite line numbers.",
+              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Lesson 64)\nBook: The Aeneid",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recJ9l4LRvU6JpwXB",
               "lessonLinksUrl": "",
               "links": []
@@ -2665,8 +2673,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 95",
-              "body": "POV - 1st Person\n\n➜ WRITE\nPretend you are Mr. Darcy and write a diary entry describing the Netherfield ball. \nOR \nImagine you are Mr. Collins and write a diary entry describing your proposal to Elizabeth.",
-              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Term 3)\nBook: Pride & Prejudice",
+              "body": "POV - 1st Person\n\n➜ WRITE\nPretend you are Eppie and write a diary entry describing the your plans for the future. \nOR \nImagine you are Godfrey Cass and write a diary entry defending your choice to keep your secret.",
+              "teacherNotes": "• REFERENCE\nGeneral Literature: Grades 9-10 (Term 3)\nBook: Silas Marner",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recQagfLRhBJSArZb",
               "lessonLinksUrl": "",
               "links": []
@@ -2725,7 +2733,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 97",
-              "body": "Revision\n\n➜ REVISE\nPick a previous narration or writing assignment that is at least two paragraphs long to revise and turn into a longer essay. Your character sketch on Richard Hal or Cato would be a good option.\n\nBig-Picture Writing & Revision\n• If you have not already typed your narration, do that now so you have a digital version to edit.\n• Plan out your outline for your intro, body, and conclusion. Reread sections of the book you're drawing from to identify any additional examples you'd like to use.",
+              "body": "Revision\n\n➜ REVISE\nPick a previous narration or writing assignment that is at least two paragraphs long to revise and turn into a longer essay. \n\nBig-Picture Writing & Revision\n• If you have not already typed your narration, do that now so you have a digital version to edit.\n• Plan out your outline for your intro, body, and conclusion. Reread sections of the book you're drawing from to identify any additional examples you'd like to use.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recCikmlaP9ZDdF4y",
               "lessonLinksUrl": "",
@@ -2870,8 +2878,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 103",
-              "body": "Essay - Character Sketch/Opinion\n\n➜ WRITE\nWhat do you think makes a true hero according to Homer? Do you agree with him?\nOR\nWrite a character sketch of Odysseus. What is he like? What are his chief characteristics?",
-              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Term 3)\nBook: The Odyssey",
+              "body": "Essay - Character\n\n➜ WRITE\nWhat do you think makes a true hero according to Virgil? Do you agree with him?\nOR\nWrite a character sketch of Aeneas or Godfrey Cass from Silas Marner. What is he like? What are his chief characteristics?",
+              "teacherNotes": "• REFERENCE\nPoetry Reading: Grades 9-12 (Term 3) \nBook: The Aeneid\nGeneral Literature: Grades 9-10 (Term 3)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=recb7InEyHLMK5SjW",
               "lessonLinksUrl": "",
               "links": []
@@ -2887,7 +2895,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 10 - Lesson 104",
-              "body": "Revision\n\n➜ REVISE\nRevise and edit your character sketch on Hal or Cato. \n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your narration? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?\n4. Consider formatting your character sketch as an essay with an intro, body, and conclusion (not required).\n\nSentence-Level Revision\n1. Read your narration aloud and fix any grammar or spelling errors you hear or see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Make main characters the subjects of sentences and important actions verbs where possible.\n4. How well do your sentences flow? Put old information before new information in your sentences. \n5. Delete unnecessary words and change negatives to affirmatives.\n6. Read your work aloud again and revise to improve the shape and structure of your sentences.\n\nShare your revised character sketch assignment with someone.",
+              "body": "Revision\n\n➜ REVISE\nRevise and edit your character sketch. \n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your narration? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?\n4. Consider formatting your character sketch as an essay with an intro, body, and conclusion (not required).\n\nSentence-Level Revision\n1. Read your narration aloud and fix any grammar or spelling errors you hear or see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Make main characters the subjects of sentences and important actions verbs where possible.\n4. How well do your sentences flow? Put old information before new information in your sentences. \n5. Delete unnecessary words and change negatives to affirmatives.\n6. Read your work aloud again and revise to improve the shape and structure of your sentences.\n\nShare your revised character sketch assignment with someone.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rectAFVrB2YrnSWYZ&6J82c=rec3TKV2Ot1UBCdIP",
               "lessonLinksUrl": "",

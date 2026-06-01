@@ -26,7 +26,7 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recDsXNT5aQL6hJr6",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recOUpJF18JdVLMQz-citizenship-grade-11-u-s.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "syllabird": {
@@ -919,7 +919,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 12",
-              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from: The Art of Asking Better Questions",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from: The Art of Asking Better Questions",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=rec9iENxqbMtu0ssZ",
               "lessonLinksUrl": "",
@@ -976,11 +976,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 13",
-              "body": "",
-              "teacherNotes": "",
+              "body": "A Young Nation: American Government from 1800 to 1900\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nWelcome back to American Government! Last year, you learned about the formation of the American Government and the reasoning behind why the Constitution and Bill of Rights were drafted and negotiated as they were. This year, we move forward to the period from 1800 to 1900 and study the way in which the new government began to take action and shape the first hundred years of our country’s history. \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 1 \nWith any time that you have remaining, read your summary statements and skim any written narrations from the last two years of American Government. Your summary statements should cover the time periods from Rotation 1 (800 CE - 1650 CE) and Rotation 2 (1650 CE - 1800 CE). \n\n➜ REFLECT\nTalk about the summary statements you have reviewed with your teacher or classmates. What did you remember? What had you forgotten? Did anything come to mind as you were reviewing that you had not thought about before?",
+              "teacherNotes": "★ TEACHER NOTE\nOne week is built in at the end of this term for “catch-up” reading, in case you miss a week or a reading takes you longer than your allotted time to complete. Please do not skip ahead if you have not completed the lesson from the week before – work through the weeks chronologically and use the catch-up week (Week 11) as necessary.  \n\nOptional Activity: Guide students in creating a bulleted list of keywords that they noticed while reading their summary statements or during their discussion. Keywords can be words that were repeated frequently, or that stood out to the student for any particular reason (there is no “right” set of keywords). This activity is optional because it requires students to exercise a higher-level analysis and might not be a useful reflective tool for all students.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recn9LWa8RdCxUnZa",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=13",
+              "links": [
+                {
+                  "text": "Reading PDF Part 1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recBi0kPq3TzMUEhk",
@@ -1027,11 +1032,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 14",
-              "body": "",
+              "body": "Western Expansion and the Missouri Compromise (1820)\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nThe United States nearly doubled in size following the purchase of the Louisiana Territory from France. As new states began to petition Congress for entry to the country, the issue of slavery began to divide the nation. In 1820, Congress passed the Missouri Compromise, defining geographical boundaries that would determine whether slavery would be legal in new states. The Compromise would be followed by a series of legislative acts that together attempted to bind the new country together in the face of rapid land expansion and deep divides over slavery. \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 2\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=reciSe2hSS9xO0X2U",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=14",
+              "links": [
+                {
+                  "text": "Reading PDF Part 1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recIA0JW7RrGr6sTz",
@@ -1078,11 +1088,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 15",
-              "body": "",
+              "body": "Western Expansion and the Compromise of 1850\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nAlthough the Missouri Compromise remained in effect, the acquisition of the western territory from Texas to modern-day California following the Mexican-American War reignited the question of whether new states formed from this territory would be admitted as slave states or free states. To maintain a tentative balance of slave to free states across the nation, Congress passed the Compromise of 1850 after efforts to ban slavery entirely from the new territory failed. \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 3\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recwS8KYyS8lwlPGQ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=15",
+              "links": [
+                {
+                  "text": "Reading PDF Part 1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "rec5QL7syJwtj6Kya",
@@ -1129,11 +1144,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 16",
-              "body": "",
+              "body": "Western Expansion and the Kansas-Nebraska Act\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nThe Kansas-Nebraska Act of 1854 repealed the Missouri Compromise in its entirety and allowed the new territories of Kansas and Nebraska to decide the question of whether slavery would be allowed in the territories by popular sovereignty – by a vote of the people of the territories. Violence stemming from pro-slavery and abolitionist clashes in Kansas and in Washington, D.C., earned the nickname “Bleeding Kansas” and foreshadowed the start of the Civil War. \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 4\n\n➜ REFLECT\nConsider the three major pieces of Congressional legislation that you have studied over the last three weeks: the Missouri Compromise, the Compromise of 1850, and the Kansas-Nebraska Act. Why do you think that Representatives and Senators in Congress increasingly decided to turn the slavery question over to popular vote? What benefits are there to a popular vote? What drawbacks or dangers might there be to a popular vote? \n\n• Write a summary statement or short narration explaining your thoughts in response to these questions.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recaIaJROOHwEfRM9",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=16",
+              "links": [
+                {
+                  "text": "Reading PDF Part 1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recFrcgf39ZmQNLmo",
@@ -1180,11 +1200,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 17",
-              "body": "",
+              "body": "Treaties and the Removal of Tribal Nations (Part I)\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nTreaties are a tool that the Constitution allows the President to use in order to make formal agreements between the United States and another nation. Over the first four decades of the 19th century, the United States began to engage in treaty-making with American Indian Tribes, located in what are now the southern states of Tennessee, Alabama, Georgia, Florida, and Mississippi, with the goal of removing these Tribes from the south and relocating them west of the Mississippi River. \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 5\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=receF3n1181Pmr7az",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=17",
+              "links": [
+                {
+                  "text": "Reading PDF Parţ1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recHCqFhe2a3dqTzO",
@@ -1231,11 +1256,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 18",
-              "body": "",
+              "body": "Treaties and the Removal of Tribal Nations (Part II)\n⍞ Materials: Reading PDF Part 1\n\n➜ INTRO\nWith the Indian Removal Act of 1830, Congress indicated its support for the removal of tribes, specifically authorizing then-President Andrew Jackson to use treaties to effect land exchanges, trading land west of the Mississippi to tribes in exchange for tribal land in the south. But was the Indian Removal Act constitutional, and were the treaties themselves enforceable? We will explore the Act and its impact further in this week’s reading.  \n\n➜ READ\n∞ Link: Reading PDF Part 1\nWeek 6\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recmAUUhODGhRqVNu",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=18",
+              "links": [
+                {
+                  "text": "Reading PDF Part 1",
+                  "url": "https://drive.google.com/file/d/1q6f0tcxOdxOqJadf98_O9k_86uAadBKU/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recfAJn7UTv6Intx3",
@@ -1282,11 +1312,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 19",
-              "body": "",
+              "body": "Tribal Nations before the Supreme Court\n⍞ Materials: Reading PDF Part 2\n\n➜ INTRO\nWhile President Jackson and Congress worked to remove Tribes from the South by means of treaties and federal legislation, the Cherokee Nation sought to enforce its treaty rights before the Supreme Court. Over the course of two decisions within the span of the same number of years, the Supreme Court set precedent that would define the rights and status of Tribes into the modern day, and by extension, undermined the integrity of the federal government’s treaty-making with these Tribes. The Indian Appropriations Act, passed in 1871 by Congress, would end treaty-making with Tribes altogether. \n\n➜ READ\n∞ Link: Reading PDF Part 2\nWeek 7\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=reciZh49oR0kIw4MW",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=19",
+              "links": [
+                {
+                  "text": "Reading PDF Part 2",
+                  "url": "https://drive.google.com/file/d/1jZKOFsIBxpkmc-lt8ULb2nTumMp7I-q-/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recWQVfK8U88qZ3bd",
@@ -1333,11 +1368,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 20",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Congress & Southern Secession\n⍞ Materials: Reading PDF Part 2\n\n➜ INTRO\nOn December 20, 1860, South Carolina seceded from the United States. Over the next seven months, ten more states would follow suit. Four of these states drafted formal Declarations of Causes that set forth their justifications for secession. This week, we will explore these Declarations in more detail and consider the impact that Southern secession had on the federal Congress and the states left behind.\n\n➜ READ\n∞ Link: Reading PDF Part 2\nWeek 8\n\n➜ REFLECT\nConsider how the various southern secession documents compare or contrast with the Declaration of Independence. What strikes you as similar or different? Among other things, you want to think about the organization or length of the documents, the reasons given for separation, and the historical events ongoing at the time that each document was signed. \n\n• Write a summary statement or short narration describing the main ideas from this week’s reading.",
+              "teacherNotes": "★ TEACHER NOTE\nIf you have a group of students, pose this question for group discussion as an alternative to traditional narration. If you are the only student in your class, jot down some of the similarities or differences that you think of.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recVifSDqGbLq7BSI",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=20",
+              "links": [
+                {
+                  "text": "Reading PDF Part 2",
+                  "url": "https://drive.google.com/file/d/1jZKOFsIBxpkmc-lt8ULb2nTumMp7I-q-/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recVA3F3hluHdt39w",
@@ -1384,11 +1424,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 21",
-              "body": "",
+              "body": "Congress & the Reconstruction Acts\n⍞ Materials: Reading PDF Part 2\n\n➜ INTRO\nFollowing the end of the Civil War and preliminary reconstruction efforts by President Johnson, Congress exerted control over the Reconstruction project by passing a series of acts now known as the Reconstruction Acts. These Acts, passed over a presidential veto by Johnson, established military control in southern states that had seceded and established strict standards for readmission to the Union. \n\n➜ READ\n∞ Link: Reading PDF Part 2\nWeek 9\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recXh4jgtCwTMVD97",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=21",
+              "links": [
+                {
+                  "text": "Reading PDF Part 2",
+                  "url": "https://drive.google.com/file/d/1jZKOFsIBxpkmc-lt8ULb2nTumMp7I-q-/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "recxmv3s4qm4Ug7nW",
@@ -1435,11 +1480,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 22",
-              "body": "",
+              "body": "“Defective from the Start”: The Constitution, Slavery, & the Civil War Amendments\n⍞ Materials: Reading PDF Part 2\n\n➜ INTRO\nIn addition to taking control of Reconstruction following the close of the Civil War, Congress also proposed three amendments to the Constitution. These amendments, now known as the Civil War Amendments, banned slavery and established a series of protections and rights that are now foundational to how we think about citizenship in the United States. It would be five years before these amendments were fully ratified by the states, and it would be nearly a hundred more years until the Civil Rights Movement would take up the vision for justice and equality that these amendments had begun to advance.\n\n➜ READ\n∞ Link: Reading PDF Parţ 2\nWeek 10\n\n➜ REFLECT\nNarrate. Write a summary statement or short narration describing the main ideas from this week’s reading.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recluoqzuaH3TuAVK",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=22",
+              "links": [
+                {
+                  "text": "Reading PDF Part 2",
+                  "url": "https://drive.google.com/file/d/1jZKOFsIBxpkmc-lt8ULb2nTumMp7I-q-/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "rec9gfY7sb1rYZag0",
@@ -1486,11 +1536,16 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 23",
-              "body": "",
+              "body": "Catch-Up Day\n⍞ Materials: Reading PDF Part 2\n\n➜ CATCH UP\nCatch up on any reading you have not completed for this term. \nReview your summary statements in chronological order so that you have a complete picture of how our readings relate to each other.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recUJm7hc2jasAJNZ",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=2&week=23",
+              "links": [
+                {
+                  "text": "Reading PDF Part 2",
+                  "url": "https://drive.google.com/file/d/1jZKOFsIBxpkmc-lt8ULb2nTumMp7I-q-/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "rec53AbRuMgbQbA1q",
@@ -1537,7 +1592,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 24",
-              "body": "",
+              "body": "Exam Week\n\n➜ EXAMS \nAnswer question(s) related to the course.  \n\nQuestions will come from: Reading PDF",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recY8PPVuNXmdm0Lp",
               "lessonLinksUrl": "",
@@ -1594,7 +1649,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 25",
-              "body": "⍞ Materials: What Would Keynes Do?, link, and notebook\n\n➜ NOTE\nPart 2 lessons cover Ch.5, sections of Ch.3, and Ch.4.\n\n➜INTRO\nSkim back over the sections to remind yourself of the topics from Part 1; remember that you encountered several economists and their approaches/positions on the specific issue being covered. Focus on theory and positions rather than trying to memorize names. \n\nDEFINITIONS: The marginal tax rate is the amount of additional tax paid for every additional dollar earned as income. The average tax rate is the total tax paid divided by the total income earned. If you want to know more, see the expanded definition from TaxEDU.\n\n➜ VIEW\n∞ Link: Marginal Tax Rate (TaxEDU)\n\n➜ RECAP        \nOpportunity cost = the next best alternative you forgo (p.45)\n\nDeadweight welfare = money spent is greater than utility gained, leading to an inefficient allocation of resources (p.71)\n\nIncome effect = higher wages mean we can gain our target income through working less and enjoying more leisure time (p.93)\n\n➜ READ \np.150-157\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n\"There is no such thing as a tax cut without an opportunity cost\" (p.153).  If discussing these lessons with someone is not an option, write down your thoughts about the quote.",
+              "body": "⍞ Materials: What Would Keynes Do?, link, and notebook\n\n➜ NOTE\nPart 2 lessons cover Ch.5, sections of Ch.3, and Ch.4.\n\n➜INTRO\nSkim back over the sections to remind yourself of the topics from Part 1; remember that you encountered several economists and their approaches/positions on the specific issue being covered. Focus on theory and positions rather than trying to memorize names. \n\n➜ DEFINITIONS\n• The marginal tax rate is the amount of additional tax paid for every additional dollar earned as income. \n• The average tax rate is the total tax paid divided by the total income earned. \n** If you want to know more, see the expanded definition from TaxEDU.\n\n➜ VIEW\n∞ Link: Marginal Tax Rate (TaxEDU)\n\n➜ RECAP        \n• Opportunity cost = the next best alternative you forgo (p.45)\n\n• Deadweight welfare = money spent is greater than utility gained, leading to an inefficient allocation of resources (p.71)\n\n• Income effect = higher wages mean we can gain our target income through working less and enjoying more leisure time (p.93)\n\n➜ READ \np.150-157\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• \"There is no such thing as a tax cut without an opportunity cost\" (p.153).  If discussing these lessons with someone is not an option, write down your thoughts about the quote.",
               "teacherNotes": "TEACHER TIP:\nDiscussion of these lessons adds a lot to the study of economics.\n\n• COMPOSITION\nWrite an essay on the economic positions of \"sweatshops.\" Be sure to include your position and support your answer with the text and/or other sources.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recYyvJHiEH05m28B",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=3&week=25",
@@ -1650,7 +1705,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 26",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\nDEFINITIONS: A subsidy is a direct or indirect payment by a government to help an industry or business, or to aid individuals and households.  Economies of scale refer to the cost reduction when a company increases production, thus spreading the cost over a broader area. \n\n➜ READ \np.158-164\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nDiscuss Noma's \"nuanced\" approach toward government intervention in declining industries (p.158-159). Why does he support it?\nDescribe Ricardo's theory of comparative advantage. Give an example.",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ DEFINITIONS\n• A subsidy is a direct or indirect payment by a government to help an industry or business, or to aid individuals and households.  \n• Economies of scale refer to the cost reduction when a company increases production, thus spreading the cost over a broader area. \n\n➜ READ \np.158-164\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• Discuss Noma's \"nuanced\" approach toward government intervention in declining industries (p.158-159). Why does he support it?\n• Describe Ricardo's theory of comparative advantage. Give an example.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recZ2bKJLcnyLALJm",
               "lessonLinksUrl": "",
@@ -1701,7 +1756,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 27",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\nDEFINITIONS: Critical mass is an amount large enough to produce a particular result.\n\n➜ READ \np.165-172\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nWhat are the \"social costs\" of imposing parking charges?",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜DEFINITIONS\n• Critical mass is an amount large enough to produce a particular result.\n\n➜ READ \np.165-172\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• What are the \"social costs\" of imposing parking charges?",
               "teacherNotes": "• COMPOSITION - Letter\nWrite a letter to someone discussing the legalization of drugs. Using your Economics text (and other sources if you'd like), take a stance on the topic and support your position.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recwCNwIEG0ZWZfjw",
               "lessonLinksUrl": "",
@@ -1752,7 +1807,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 28",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\nDEFINITIONS:\nAusterity, in economics, refers to a government policy of reducing debt and curtailing spending. Think about liquidity as the ability to have cash quickly.\n\nMarginal utility = the economics as a basis for maximization of personal satisfaction/happiness - maximize pleasure and minimize pain (p.19).\n\n➜ READ\np.173-179\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nIs government debt positive, negative, or in between? Discuss the different economists' views on government debt.\nContrast the perspectives of Sowell and Pigou on welfare programs.",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ DEFINITIONS\n• Austerity, in economics, refers to a government policy of reducing debt and curtailing spending. \n• Think about liquidity as the ability to have cash quickly.\n• Marginal utility = the economics as a basis for maximization of personal satisfaction/happiness - maximize pleasure and minimize pain (p.19).\n\n➜ READ\np.173-179\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• Is government debt positive, negative, or in between? Discuss the different economists' views on government debt.\n• Contrast the perspectives of Sowell and Pigou on welfare programs.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recSXQlqSlaRILjev",
               "lessonLinksUrl": "",
@@ -1803,7 +1858,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 29",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ INTRO\nFor your second reading and moving forward, you will jump back to Chapter 3, \"Work,\" and Chapter 4, \"Finance,\" to finish the Part 2 lessons.\n\n➜ READ\np.180-183; 86-90\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nDiscuss the positions of private and public healthcare options.\nDiscuss the theory of human capital as it relates to educational choices.",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ INTRO\nFor your second reading and moving forward, you will jump back to Chapter 3, \"Work,\" and Chapter 4, \"Finance,\" to finish the Part 2 lessons.\n\n➜ READ\np.180-183; 86-90\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• Discuss the positions of private and public healthcare options.\n• Discuss the theory of human capital as it relates to educational choices.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recHAdH9Vv9SMGati",
               "lessonLinksUrl": "",
@@ -1854,7 +1909,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 30",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ INTRO\nLessons now jump back to Chapter 3, \"Work,\" and Chapter 4, \"Finance,\" to finish the Part 2 lessons.\n\n➜ READ\np.91-98\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nReflect on the idea of diminishing marginal utility and happiness economics. Where do you find true happiness?\nDiscuss the economic theory \"that places emphasis on financial incentives to motivate workers,\" along with the idea of non-financial incentives shown in Maslow's hierarchy of needs. (p.96-97).",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ INTRO\nLessons now jump back to Chapter 3, \"Work,\" and Chapter 4, \"Finance,\" to finish the Part 2 lessons.\n\n➜ READ\np.91-98\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• Reflect on the idea of diminishing marginal utility and happiness economics. Where do you find true happiness?\n• Discuss the economic theory \"that places emphasis on financial incentives to motivate workers,\" along with the idea of non-financial incentives shown in Maslow's hierarchy of needs. (p.96-97).",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recwwZfbfP4C5a1PD",
               "lessonLinksUrl": "",
@@ -1905,7 +1960,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 31",
-              "body": "⍞ Materials: What Would Keynes Do?, link, and notebook\n\nDEFINITIONS:\nLibertarianism - a political philosophy that strongly values individual freedom and minimal government involvement\n\nWelfare state - a concept of government in which the state plays a key role in the economic and social well-being of its citizens\n\n➜ RECAP        \nGDP = Gross Domestic Product, the national income of a country (p.78).\n\n➜ READ\np.99-102\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/ or WRITE\nDiscuss the charts on p.101 as they relate to immigration and supply and demand for labor.\n\n➜ INTRO\nEntrepreneurship is essential to the economy. Two twentieth-century economists, Joseph Schumpeter and Israel Kirzner, contribute more to the conversation. In Chapter 2, you read how Kirzner suggests that entrepreneurs (and consumers) find ways around problems (p.55), and Schumpeter talks about creative destruction (p.158) - more on that in the finance section. Innovation brings about change, and entrepreneurs are change agents. \n\nIn the non-profit sector, innovation is about supporting a mission-driven vision that provides a product or service to supply a need. Think about this in the context of social needs or religious ministry; the organizations that support these areas can be for-profit or non-profit. Non-profit organizations also have business structures. Since the lesson discusses the idea of being employed by a business vs. setting up your own business, now is a good time to take a quick look at what that might mean for an entrepreneur in the ministry sector. Let's take a look at basic finance for nonprofits by watching a short video as an introduction to accounting and business practices.\n\n➜ READ\np.104-107 \n\n➜ DISCUSS and/or WRITE\nDiscuss the idea of self-employment. Write a brief pro/con list for working for a company vs. being your own boss. What are the \"trade-offs\"?\n\n➜ VIEW\nWatch the section on non-profit accounting. This is a short clip made for a specific software platform, but the fundamental ideas are all explained well.\n∞ Video Link: What is Accounting? (Aplos)",
+              "body": "⍞ Materials: What Would Keynes Do?, link, and notebook\n\n➜ DEFINITIONS:\n• Libertarianism - a political philosophy that strongly values individual freedom and minimal government involvement\n\n• Welfare state - a concept of government in which the state plays a key role in the economic and social well-being of its citizens\n\n➜ RECAP        \nGDP = Gross Domestic Product, the national income of a country (p.78).\n\n➜ READ\np.99-102\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/ or WRITE\n• Discuss the charts on p.101 as they relate to immigration and supply and demand for labor.\n\n➜ INTRO\nEntrepreneurship is essential to the economy. Two twentieth-century economists, Joseph Schumpeter and Israel Kirzner, contribute more to the conversation. In Chapter 2, you read how Kirzner suggests that entrepreneurs (and consumers) find ways around problems (p.55), and Schumpeter talks about creative destruction (p.158) - more on that in the finance section. Innovation brings about change, and entrepreneurs are change agents. \n\nIn the non-profit sector, innovation is about supporting a mission-driven vision that provides a product or service to supply a need. Think about this in the context of social needs or religious ministry; the organizations that support these areas can be for-profit or non-profit. Non-profit organizations also have business structures. Since the lesson discusses the idea of being employed by a business vs. setting up your own business, now is a good time to take a quick look at what that might mean for an entrepreneur in the ministry sector. Let's take a look at basic finance for nonprofits by watching a short video as an introduction to accounting and business practices.\n\n➜ READ\np.104-107 \n\n➜ DISCUSS and/or WRITE\n• Discuss the idea of self-employment. Write a brief pro/con list for working for a company vs. being your own boss. What are the \"trade-offs\"?\n\n➜ VIEW\nWatch the section on non-profit accounting. This is a short clip made for a specific software platform, but the fundamental ideas are all explained well.\n∞ Video Link: What is Accounting? (Aplos)",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recSOmBIzTeImt1G0",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recOUpJF18JdVLMQz&term=3&week=31",
@@ -1961,7 +2016,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 32",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.108-115 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE \nWhat are the different potential positive and negative outcomes from each approach to a pay raise?\nWhat type of boss would you like to have? What type of boss do you think it would make sense to be?",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.108-115 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE \n• What are the different potential positive and negative outcomes from each approach to a pay raise?\n• What type of boss would you like to have? What type of boss do you think it would make sense to be?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recknpCmxJbItb1wc",
               "lessonLinksUrl": "",
@@ -2012,7 +2067,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 33",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.116-119; p.122-125 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nCan you think of more pros and cons to maximizing profit vs. focusing on something else as the primary goal?\nBased on the few views presented about how to beat the market, what would you choose to do?  Why?",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.116-119; p.122-125 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• Can you think of more pros and cons to maximizing profit vs. focusing on something else as the primary goal?\n• Based on the few views presented about how to beat the market, what would you choose to do?  Why?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=rectMJYhObsb1FRNK",
               "lessonLinksUrl": "",
@@ -2063,7 +2118,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 34",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.126-135 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nWhat are some factors to consider when threats of high inflation loom on the horizon?\nWhat are your thoughts about how to make a business more profitable?",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.126-135 \n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• What are some factors to consider when threats of high inflation loom on the horizon?\n• What are your thoughts about how to make a business more profitable?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recgyMhMVaXgJgOQw",
               "lessonLinksUrl": "",
@@ -2114,7 +2169,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 35",
-              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.136-147\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\nWhat are your thoughts on saving? What are some things to consider when trying to avoid financial bubbles? Is any type of debt a good idea? Why or why not?",
+              "body": "⍞ Materials: What Would Keynes Do?, notebook\n\n➜ READ\np.136-147\n\n➜ NARRATE\nTake a moment to narrate silently or aloud the main ideas of the reading.\n\n➜ DISCUSS and/or WRITE\n• What are your thoughts on saving? \n• What are some things to consider when trying to avoid financial bubbles? \n• Is any type of debt a good idea? Why or why not?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=recTR7rTBVHWrdxWi",
               "lessonLinksUrl": "",
@@ -2165,7 +2220,7 @@
               "lessonLabel": "",
               "linkLabel": "Econ/Civics",
               "title": "40m Econ/Civics: Grade 11 (U.S.) - Lesson 36",
-              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to course.\n\nQuestions will come from:\nWhat Would Keynes Do?",
+              "body": "Exam Week\n\n➜ EXAMS\nAnswer question(s) related to the course.\n\nQuestions will come from:\nWhat Would Keynes Do?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recmjBBn6nJNI30QX&6J82c=rec7Udu3jJkiRcXMs",
               "lessonLinksUrl": "",

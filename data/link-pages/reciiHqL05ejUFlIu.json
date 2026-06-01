@@ -37,7 +37,7 @@
       }
     ]
   },
-  "updatedAt": "2026-05-31T14:22:00.298Z",
+  "updatedAt": "2026-06-01T11:02:07.500Z",
   "terms": [
     {
       "termNumber": 1,
@@ -222,8 +222,8 @@
                   "url": "https://bibleproject.com/explore/video/romans-1-4/"
                 },
                 {
-                  "text": "Romans Summary",
-                  "url": "https://bibleproject.com/view-resource/254/"
+                  "text": "Romans Summary Poster",
+                  "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Posters%20Download/50_Romans.jpg"
                 }
               ]
             }
@@ -304,8 +304,8 @@
                   "url": "https://bibleproject.com/explore/video/ephesians/"
                 },
                 {
-                  "text": "Ephesians Summary",
-                  "url": "https://bibleproject.com/view-resource/258/"
+                  "text": "Ephesians Summary Poster",
+                  "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Posters%20Download/55-Ephesians-FNL.jpg"
                 }
               ]
             }
@@ -334,8 +334,8 @@
                   "url": "https://bibleproject.com/explore/video/hebrews/"
                 },
                 {
-                  "text": "Hebrews Summary",
-                  "url": "https://bibleproject.com/view-resource/266/"
+                  "text": "Hebrews Summary Poster",
+                  "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Posters%20Download/63-Hebrews-FNL.jpeg"
                 }
               ]
             }
@@ -396,12 +396,8 @@
                   "url": "https://bibleproject.com/explore/video/revelation/"
                 },
                 {
-                  "text": "Revelation Summary",
-                  "url": "https://bibleproject.com/view-resource/272/"
-                },
-                {
-                  "text": "Book of Revelation Guide",
-                  "url": "https://bibleproject.com/guides/book-of-revelation/"
+                  "text": "Revelation Summary Poster",
+                  "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Posters%20Download/69-70-Revelation-FNL.jpg"
                 }
               ]
             }
