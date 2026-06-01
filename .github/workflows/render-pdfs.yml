@@ -96,6 +96,7 @@ jobs:
           fi
 
           git commit -m "Update lesson plan PDFs and link pages"
+          git pull --rebase origin main
           git push
 
       - name: Sync PDF URLs to Airtable
