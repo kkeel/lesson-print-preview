@@ -72,6 +72,7 @@ const LESSON_FIELDS = [
   "Supply IDs",
   "Supply List Link",
   "PDF Link URL",
+  "Manual PDF Link",
   "PDF Printing Status",
   "Hide PDF",
   "Extra Helpings Link",
@@ -2178,6 +2179,7 @@ function buildPacket(record, headerLookup) {
   const bookListUrl = normalizeText(fields["Book List Link"]);
   const supplyListUrl = normalizeText(fields["Supply List Link"]);
   const pdfLinkUrl = normalizeText(fields["PDF Link URL"]);
+  const manualPdfUrl = normalizeText(fields["Manual PDF Link"]);
   const pdfPrintingStatus = normalizeText(fields["PDF Printing Status"]);
   const hidePdf = normalizeText(fields["Hide PDF"]);
   const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
@@ -2226,6 +2228,7 @@ function buildPacket(record, headerLookup) {
     bookListUrl,
     supplyListUrl,
     pdfLinkUrl,
+    manualPdfUrl,
     pdfPrintingStatus,
     extraHelpingsUrl,
     hidePdf,
