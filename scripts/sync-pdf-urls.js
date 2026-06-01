@@ -75,12 +75,17 @@ async function main() {
       const packetData = JSON.parse(
         fs.readFileSync(packetPath, "utf8")
       );
-  
+
       if (isModernLanguagePacket(packetData)) {
         console.log(`Skipping ML packet URL sync: ${packet.id}`);
         return false;
       }
-  
+      
+      if (packetData.manualPdfUrl) {
+        console.log(`Skipping manual PDF packet URL sync: ${packet.id}`);
+        return false;
+      }
+      
       return true;
     })
     .map(packet => {
