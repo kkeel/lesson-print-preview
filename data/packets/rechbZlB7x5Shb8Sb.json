@@ -26,7 +26,7 @@
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rechbZlB7x5Shb8Sb-bible-grade-12.pdf",
   "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
-  "hidePdf": "",
+  "hidePdf": "Delay PDF",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
@@ -298,7 +298,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 1",
-              "body": "⍞ Materials: Old Testament Today, notebook\n➜ INTRO (For Grades 7-12)\nThis year you will be reading 2 Samuel, I Kings, I & 2 Chronicles, selections of Psalms, Proverbs and Ecclesiastes. You will be reading the passages chronologically or in the order of the events. \"The goal of studying the Bible chronologically is not to replace the time-honored canonical arrangement, but instead to honor time as a setting in which the biblical record appeared. Readers who study the Bible this way will return to their traditional Bibles better equipped to read them. Acquiring a sense of the flow of the Bible's story will put flesh and blood on its message\" (from Chronological Guide to the Bible).\n1. Your ESV Concise Study Bible (Grades 7-8) or Cultural Backgrounds Study Bible (Grade 9-12) will have maps, articles, and notes to help you\nalong the way. If you have a question about a specific verse, see if there is a note about that verse below the text.\n2. Use your Student Bible Atlas or atlas in your Bible to locate places as needed.\n3. We will also utilize Old Testament Today and the Bible Project website  as a handbook for helping us understand the background information we \nneed in order to be informed readers.\n\n➜ VIEW\n1. Throughout the year, you will watch short videos of Dr. John Walton, the co-author of OT Today. The videos were created specifically for Alveary\nstudents. We hope they help you understand the Bible better. \n2. You will be reading selections from the Psalms throughout the year. Watch this video to learn more about the Psalms. \n∞ Video Link: Overview of the Psalms\n\n➜ PRINT\nYou may want to print out the summary of the book to reference as you read selections from Psalms.\n∞ Image Link: Psalms Overview Poster\n\n➜ READ, NARRATE & RESPOND\nPsalms 79-82\n\n• The psalms are difficult to tie to a specific historical context. They are the worship songs of Israel and are intended to apply to the needs of all worshippers across time. Some psalms do have historical superscriptions that make it possible to associate them with specific events, but these make up only about 10% of all the psalms. Another criterion is to place the psalms ascribed to David (or Solomon or Moses) during the life of that person. A second criterion is to place pslams according to their type (from Chronological Guide to the Bible)",
+              "body": "⍞ Materials: Old Testament Today, notebook\n➜ INTRO (For Grades 7-12)\nThis year you will be reading 2 Samuel, I Kings, I & 2 Chronicles, selections of Psalms, Proverbs and Ecclesiastes. You will be reading the passages chronologically or in the order of the events. \"The goal of studying the Bible chronologically is not to replace the time-honored canonical arrangement, but instead to honor time as a setting in which the biblical record appeared. Readers who study the Bible this way will return to their traditional Bibles better equipped to read them. Acquiring a sense of the flow of the Bible's story will put flesh and blood on its message\" (from Chronological Guide to the Bible).\n1. Your ESV Concise Study Bible (Grades 7-8) or Cultural Backgrounds Study Bible (Grade 9-12) will have maps, articles, and notes to help you\nalong the way. If you have a question about a specific verse, see if there is a note about that verse below the text.\n2. Use your Student Bible Atlas or atlas in your Bible to locate places as needed.\n3. We will also utilize Old Testament Today and the Bible Project website as a handbook for helping us understand the background information we \nneed in order to be informed readers.  Look up the chapter of the Bible book you are reading in OT Today for any interesting sections you have not read before. Similarly, do a search at the Bible Project Website for the book you are reading and see what interesting articles or videos they have available when you have time in a lesson.\n\n➜ VIEW\n1. Throughout the year, you will watch short videos of Dr. John Walton, the co-author of OT Today. The videos were created specifically for Alveary\nstudents. We hope they help you understand the Bible better. \n2. You will be reading selections from the Psalms throughout the year. Watch this video to learn more about the Psalms. \n∞ Video Link: Overview of the Psalms\n\n➜ PRINT\nYou may want to print out the summary of the book to reference as you read selections from Psalms.\n∞ Image Link: Psalms Overview Poster\n\n➜ READ, NARRATE & RESPOND\nPsalms 79-82\n\n• The psalms are difficult to tie to a specific historical context. They are the worship songs of Israel and are intended to apply to the needs of all worshippers across time. Some psalms do have historical superscriptions that make it possible to associate them with specific events, but these make up only about 10% of all the psalms. Another criterion is to place the psalms ascribed to David (or Solomon or Moses) during the life of that person. A second criterion is to place pslams according to their type (from Chronological Guide to the Bible)",
               "teacherNotes": "• EXTRA HELPING\nVideo: Bible Project Overview of the Psalms",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recGZpz6VOeASTYVF",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=1",
@@ -306,6 +306,14 @@
                 {
                   "text": "Video: Overview of the Psalms",
                   "url": "https://vimeo.com/1172683714/9c9b0fb4b7"
+                },
+                {
+                  "text": "Psalms Overview Poster",
+                  "url": "https://d1bsmz3sdihplr.cloudfront.net/media/Posters%20Download/18-Psalms-FNL.jpg"
+                },
+                {
+                  "text": "Bible Project Overview of the Psalms",
+                  "url": "https://bibleproject.com/videos/psalms/"
                 }
               ]
             },
@@ -350,11 +358,20 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 2",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ INTRO\nLast year we read read through I Chronicles 16.  \n\n➜ VIEW\n∞ Video Link: Plans and Purposes\n\n➜ READ, NARRATE, & RESPOND\n1.Read about 1-2 Chronicles p.223-224 in OT Today\n2.Psalm 83\n3.I Chronicles 17",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms last time?\n\n➜ INTRO\nLast year we read through I Chronicles 16.  Today we will keep moving forward chronologically.\n\n➜ VIEW\n∞ Video Link: Davidic Covenant\n\n➜ READ, NARRATE, & RESPOND\n1.Read about 1-2 Chronicles p.223-224 in OT Today\n2.Psalm 83\n3.I Chronicles 17",
               "teacherNotes": "• EXTRA HELPING\nWatch this summary of the whole OT in under 13 minutes.\n∞ Video Link: OT Summary",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recoXzJxIPd2S98Pl",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=1",
+              "links": [
+                {
+                  "text": "Video:  Davidic Covenant",
+                  "url": "https://vimeo.com/1172620524/92f69879eb"
+                },
+                {
+                  "text": "Video Link: OT Summary",
+                  "url": "https://bibleproject.com/videos/old-testament-tanak/"
+                }
+              ]
             },
             {
               "lessonId": "recAs2hWKtkApPpIS",
@@ -407,7 +424,7 @@
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=2",
               "links": [
                 {
-                  "text": "Differences Between Two Accounts of Israelite History\n\n",
+                  "text": "Video: Differences Between Two Accounts of Israelite History\n\n",
                   "url": "https://vimeo.com/1172620728/3039c50cac"
                 }
               ]
@@ -449,11 +466,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 4",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: Big Ideas and Plot Lines to Keep in Mind\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 10-11",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ READ & VIEW\n1.OT Today p.12-15 \"A plotline traces\" - \"these three terms.\"\n∞ Video Link: Big Ideas and Plotlines\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 10-11",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rec3MhWYzDlluA2HN",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=2",
+              "links": [
+                {
+                  "text": "Video: Big Ideas and Plotlines",
+                  "url": "https://vimeo.com/1172687176/e4a713822e"
+                }
+              ]
             },
             {
               "lessonId": "rec27XsShQRZqckSO",
@@ -505,11 +527,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 5",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1.Read p.9-12 \"Most people come\" - \"the Old Testament.\"\n∞ Video Link: Tapestry Illustration\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ & VIEW\n1.OT Today p.19 \"Confidence in the Results\" - \"hermeneutics are insufficient.\"\n2.∞ Video Link: Defective Views of God\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 12\nPsalm 51",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recxx4xFnWuVNQucq",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=3",
+              "links": [
+                {
+                  "text": "Video: Defective Views of God",
+                  "url": "https://vimeo.com/1172620578/2d904f10c8"
+                }
+              ]
             },
             {
               "lessonId": "rec9CEZXK30Cto90T",
@@ -544,11 +571,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 6",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: \n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 13",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ READ & VIEW\n1.Read OT Today p.9-12 \"Most people come\" - \"the Old Testament.\"\n2.∞ Video Link: Tapestry Illustration\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 13",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recBXmBPeD3P6GoYN",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=3",
+              "links": [
+                {
+                  "text": "Video Link: Tapestry Illustration\n\n",
+                  "url": "https://vimeo.com/1172678304/adb0a7b876"
+                }
+              ]
             },
             {
               "lessonId": "rectDgojQo8svl22z",
@@ -595,11 +627,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 7",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n➜ VIEW\n∞ Video Link: \n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 14:1-15:12",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: Bible Characters\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 14:1-15:12",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recSPFIqUuV0WxL7i",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=4",
+              "links": [
+                {
+                  "text": "Video Link: Bible Characters",
+                  "url": "https://vimeo.com/1172682042/34dafbaf8a"
+                }
+              ]
             },
             {
               "lessonId": "recmIjTEEMsbwaAMn",
@@ -629,11 +666,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 8",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 15:13-37\nPsalm 3\n2 Samuel 16",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: Moralistic Lessons\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 15:13-37\nPsalm 3\n2 Samuel 16",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recaFLq9F64ZSPc5I",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=4",
+              "links": [
+                {
+                  "text": "Video: Moralistic Lessons",
+                  "url": "https://vimeo.com/1120171125/ce2206b83a"
+                }
+              ]
             },
             {
               "lessonId": "recGAUX1rEXekshcz",
@@ -680,11 +722,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 9",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalm 7\n2 Samuel 17",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: God's Track Record\n\n➜ READ, NARRATE, & RESPOND\nPsalm 7\n2 Samuel 17",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recjlKnFZKEDtWUic",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=5",
+              "links": [
+                {
+                  "text": "Video: God's Track Record\n\n",
+                  "url": "https://vimeo.com/1183471824/18e5330126"
+                }
+              ]
             },
             {
               "lessonId": "recXOBhWLuGkIk6ET",
@@ -714,11 +761,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 10",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 18",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in the Psalms and 2 Samuel last time?\n\n➜ VIEW\n∞ Video Link: God's Attributes\n\n➜ READ, NARRATE, & RESPOND\n2 Samuel 18",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recikw3VtVHmvdyfv",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=1&week=5",
+              "links": [
+                {
+                  "text": "Video: God's Attributes",
+                  "url": "https://vimeo.com/1183471797/ed75105068"
+                }
+              ]
             },
             {
               "lessonId": "recIns6ieZuFpupeR",
@@ -1375,11 +1427,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 25",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 26-28; 31",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ VIEW\n∞ Video Link: Prayer\n\n➜ RECAP\nWhat do you recall about your reading last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 26-28; 31",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recF53YgiVxWYjhIn",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=2&week=13",
+              "links": [
+                {
+                  "text": "Video: Prayer",
+                  "url": "https://vimeo.com/1172677941/ed581ede0e"
+                }
+              ]
             },
             {
               "lessonId": "recrpHYh6hlcQ6vom",
@@ -2277,7 +2334,7 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 45",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n******SHANNON********* PLEASE DOUBLECHECK\nFor the reading today - can you look at the Chron Guide and see if Psalm 144 is listed??? It should be- but in one place, I have it, in the next cell I do not have it... \n***************\n\n➜ RECAP\nWhat do you recall about your reading in Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 99; 101; 110; 144",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Psalms last time?\n\n➜ READ, NARRATE, & RESPOND\nPsalms 99; 101; 110; 144",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rec93cLNTILVKJONq",
               "lessonLinksUrl": "",
@@ -2462,11 +2519,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 49",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in I Kings last time?\n\n➜ READ, NARRATE, & RESPOND\nProverbs 1-2",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in I Kings last time?\n\n➜ READ & VIEW\n1. OT Today p.324-328 \"The wisdom literature\" - assumed of Job.\" (Can skip\n2. ∞ Video Link: Wisdom Literature\n\n➜ READ, NARRATE, & RESPOND\nProverbs 1-2",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recmvn5PHvjycwRiR",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=25",
+              "links": [
+                {
+                  "text": "Video: Wisdom Literature",
+                  "url": "https://vimeo.com/1172682367/52d8e7fa8f"
+                }
+              ]
             },
             {
               "lessonId": "rec2LbabjOCtEGFLn",
@@ -2501,11 +2563,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 50",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ VIEW\n∞ Video Link: Proverbs\n\n➜ READ, NARRATE, & RESPOND\nProverbs 3-4",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rech1grzFHoM2jbly",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=25",
+              "links": [
+                {
+                  "text": "Video: Proverbs",
+                  "url": "https://vimeo.com/1172687968/02e42a478e"
+                }
+              ]
             },
             {
               "lessonId": "reche5Bsxnj5xGyyJ",
@@ -2552,11 +2619,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 51",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ VIEW\n∞ Video Link: Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 5-6",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recuv6M7dWSqOmnOb",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=26",
+              "links": [
+                {
+                  "text": "Video: Order",
+                  "url": "https://vimeo.com/1172680036/30f89bf6f4"
+                }
+              ]
             },
             {
               "lessonId": "recSSftb4l1M2Ak01",
@@ -2586,11 +2658,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 52",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ VIEW\n∞ Video Link: Theme of Order\n\n➜ READ, NARRATE, & RESPOND\nProverbs 7-8",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=rectq0mMnnPiKMHzg",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=26",
+              "links": [
+                {
+                  "text": "Video: Theme of Order",
+                  "url": "https://vimeo.com/1172680273/bf5ca78211"
+                }
+              ]
             },
             {
               "lessonId": "recaR4hjQPQ7rojP3",
@@ -2770,11 +2847,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 56",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ READ, NARRATE, & RESPOND\nProverbs 15-16",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in Proverbs last time?\n\n➜ VIEW\n∞ Video Link: Application and Relevance\n\n➜ READ, NARRATE, & RESPOND\nProverbs 15-16",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recLM3IBIR5jpYf2o",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=28",
+              "links": [
+                {
+                  "text": "Video: Application and Relevance",
+                  "url": "https://vimeo.com/1172677315/4151fbe563"
+                }
+              ]
             },
             {
               "lessonId": "recHeFzDQaq5wnKey",
@@ -3125,11 +3207,16 @@
               "lessonLabel": "",
               "linkLabel": "Old Testament",
               "title": "30m Old Testament: Grades 7-12 - Lesson 64",
-              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in I Kings last time?\n\n➜ READ, NARRATE, & RESPOND\nEcclesiastes 1-2",
+              "body": "⍞ Materials: Bible, OT Today, notebook\n\n➜ RECAP\nWhat do you recall about your reading in I Kings last time?\n\n➜ VIEW\n∞ Video Link: Ecclesiastes\n\n➜ READ, NARRATE, & RESPOND\nEcclesiastes 1-2",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec7uZOhGTkCcJ1MV&6J82c=recSpxOwFOAbavRSa",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rechbZlB7x5Shb8Sb&term=3&week=32",
+              "links": [
+                {
+                  "text": " Video: Ecclesiastes",
+                  "url": "https://vimeo.com/1172680844/93a194a2e7"
+                }
+              ]
             },
             {
               "lessonId": "recxfwuTRUnbbIjrV",

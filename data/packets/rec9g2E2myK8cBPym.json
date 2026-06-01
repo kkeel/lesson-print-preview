@@ -232,7 +232,7 @@
                 },
                 {
                   "text": "Chasing the Capelin",
-                  "url": "https://www.mtpr.org/post/batholiths-born-earths-giant-slow-motion-lava-lamps"
+                  "url": "https://www.youtube.com/watch?v=WGsgYqICxMI&list=PLVGFVYO2PrDyx-KbmGCUpneHjBA90DySZ&index=2"
                 },
                 {
                   "text": "Everglades",
@@ -569,7 +569,7 @@
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 14",
               "body": "A Hail of a Portage and Tools and Provisions\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapters 7 and 8 A Hail of a Portage and Tools and Provisions\n\n➜ READ\n ∞ Article Link: June 29, 1805\n\n➜ WRITE/DRAW/PAINT\nCombine the 5 versions of the events of that day into one account, indicating what happened to each member of the expedition mentioned. Or draw/paint multiple scenes of that day's adventures for Lewis and Clark and the others.\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
-              "teacherNotes": "",
+              "teacherNotes": "• EXTRA HELPING\n∞ Video Link: Giant Springs State Park",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recWuxGXe3gXFWWps",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec9g2E2myK8cBPym&term=1&week=7",
               "links": [
@@ -1330,7 +1330,7 @@
               "lessonLabel": "Lesson 54",
               "linkLabel": "Geography",
               "title": "40m Geography: Grade 12 - Lesson 54",
-              "body": "Channeling Floyd\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 28 Channeling Floyd\n\n➜ WRITE\nThoughts on the costs of dying these days compared to the past?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
+              "body": "Channeling Floyd\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 28 Channeling Floyd\n\n➜ WRITE\nWhat are your thoughts on the costs of dying these days compared to the past?\n\n➜ MAP WORK\nAdd places or items of interest to your map.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec9g2E2myK8cBPym&6J82c=recMWVH8J1QfcW38Q",
               "lessonLinksUrl": "",
@@ -1639,8 +1639,16 @@
       "hasExams": true,
       "terms": [
         {
+          "term": "Term 1",
+          "content": "· World Geography\nFrom Across this Land, write about one of the regions you studied this term.\n\n· Historical Geography\n• Five Months on the Missouri River: Write about the aspects of the trip down the Missouri River so far that have stood out to you. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path?"
+        },
+        {
+          "term": "Term 2",
+          "content": "· World Geography \n•  From Sufferings in Africa, write multiple paragraphs about Riley's adventures. Include a simple sketch map.\n\n· Historical Geography\n• Five Months on the Missouri River: Write about the aspects of this last term of the trip. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path? What has been of interest to you?"
+        },
+        {
           "term": "Term 3",
-          "content": "· • A Brief History of the World in 47 Borders: Describe two of the border stories that you read about this term with as much detail as you can. Include sketches."
+          "content": "· World Geography\n• A Brief History of the World in 47 Borders: Describe two of the border stories that you read about this term with as much detail as you can. Include sketches.\n\n· Historical Geography\n• Five Months on the Missouri River: Write about the aspects of this last term of the trip. What have you seen? What thoughts have come to mind about what it must have been like for Lewis and Clark and crew to travel this same path? What has been of interest to you?"
         }
       ]
     }

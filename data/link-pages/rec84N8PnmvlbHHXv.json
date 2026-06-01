@@ -54,7 +54,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-01T11:02:07.722Z",
+  "updatedAt": "2026-06-01T16:11:54.504Z",
   "terms": [
     {
       "termNumber": 1,
@@ -599,10 +599,6 @@
               "anchor": "term-1-week-7-lesson-7",
               "links": [
                 {
-                  "text": "Tempest Reporter",
-                  "url": "https://docs.google.com/document/d/1o7_SnOKtWov6xeFGlB0SdxtPi2FWxlK3PXnu1B_YSSo/edit?tab=t.0#heading=h.h8ohadt1axg"
-                },
-                {
                   "text": "Act 3, Scene 2",
                   "url": "https://www.youtube.com/watch?v=lSxb0X-Bxh0"
                 }
@@ -846,7 +842,7 @@
                 },
                 {
                   "text": "Tempest Shapes",
-                  "url": "https://docs.google.com/document/d/1w9aN6rntQjIkZE0w9Xpb5TCv69aNnj4YFIqPEgjHpRM/edit?tab=t.0"
+                  "url": "https://drive.google.com/file/d/1DoUQBv2fHkM1mJaceQEl9V0_799V03kk/view?usp=drive_link"
                 }
               ]
             }
@@ -1890,10 +1886,10 @@
               "links": [
                 {
                   "text": "Paul Laurence Dunbar bio",
-                  "url": "https://www.poetryfoundation.org/poets/paul-laurence-dunbarhttps://www.poetryfoundation.org/poets/paul-laurence-dunbar"
+                  "url": "https://www.poetryfoundation.org/poets/paul-laurence-dunbar"
                 },
                 {
-                  "text": "Fifth Massachusetts Colored Calvary",
+                  "text": "Fifth Massachusetts Colored Cavalry",
                   "url": "https://samepassage.org/the-5th-regiment-massachusetts-colored-volunteer-cavalry/"
                 }
               ]

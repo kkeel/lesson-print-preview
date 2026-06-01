@@ -20,9 +20,9 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recUsu8pR1gAT6SmN",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reciXEEWmZiKujNlo-grammar-comp-grade-8.pdf",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUsu8pR1gAT6SmN",
-  "hidePdf": "",
+  "hidePdf": "Delay PDF",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "",
@@ -48,7 +48,7 @@
           "entries": [
             {
               "title": "About the Course",
-              "content": "Students spend two lessons each week deepening their understanding of the parts of speech. During the other two lessons, students grow their writing skills with composition assignments from their books. Throughout the year they explore literary concepts such as point of view and experiment with multiple forms of writing, including letters, descriptions, short accounts, and poetry.\n\nThis topic is included in the following course(s): Language Study: Grade 8\n\nGrammar/Comp: Grade 8\nThese lessons, combined with the writing practice students continue to gain through written narrations and additional composition assignments (see the Written Narration/Composition Tracker and assignments), reinforce concepts and build fluency with various types of written forms."
+              "content": "Students spend two lessons each week deepening their understanding of the parts of speech. During the other two lessons, students grow their writing skills with composition assignments from their books. Throughout the year they explore literary concepts such as point of view and experiment with multiple forms of writing, including letters, descriptions, short accounts, and poetry.\n\nThis topic is included in the following course(s): Language Study: Grade 8\n\nGrammar/Comp: Grade 8\nThese lessons, combined with the writing practice students continue to gain through written narrations, reinforce concepts and build fluency with various types of written forms.\n\nNARRATION vs. COMPOSITION\nAs students begin to have more formal composition assignments in addition to written narrations, it's important to consider the difference between the two. Both narrations and compositions build students' skills in writing. The focus in narrations is on building written fluency by \"telling back\" the reading in written/typed form (and students are free to experiment with various ways to do this or not, as interested). The focus in composition assignments is to give them accountability and structure to practice specific skills in one or more types of writing. \n\nSometimes this means that a composition prompt assigns a specific type of \"telling back\" (such as retelling a reading as a poem, which a student may or may not have already experimented with of their own accord in their narrations). Additionally, compositions move beyond narration and variations of \"telling back\" to assignments which ask students to direct their attention to specific ideas within or across their readings (such as comparing and contrasting characters or texts) and other types of reflection which they previously have mainly practiced discussing orally or briefly in writing after reading and narrating in their lessons. Finally, especially as students enter high school, composition assignments merge with grammar assignments to help students understand the writing process more globally and consider aspects of style, editing, revision, research, and the ethics of communication."
             }
           ]
         },
@@ -251,8 +251,8 @@
               "lessonLabel": "Lesson 1",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 1",
-              "body": "➜ NOTE TO STUDENTS\nOne purpose of composition lessons is to encourage you, the student, to dig deeper, reflect on your readings, explore the different ways words work, and learn how to ask good questions of yourself and your readings. Set your timer and use the whole time allotted for a composition assignment. If you finish an assignment with extra time, explore another perspective, ask further questions, or take a bit more time to see if any other thoughts come to mind. Alternatively, if you find yourself stuck, you may want to take a short break and come back later! Growth, not frustration, is the goal.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Summary/Reflection\nWrite a brief summary of a current event. \nOR\nTell of a time when your desire for society was met. How did that experience impact/affect you?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nDescribe what you know about the Roman Republic\n\n• Note: Start by giving all the details you can remember from your readings. Then you may look back at your book to refresh your memory on more details to add.",
-              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations and compositions regularly. \n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 1)\nBook: Ourselves\n\nComp #2\nPoetry Reading: Grade 8 (Lessons 3-4)\nBook: Evangeline\nOR \nAncient History (G7-9) \n(Lesson 1)",
+              "body": "➜ NOTE TO STUDENTS\nOne purpose of composition lessons is to encourage you, the student, to dig deeper, reflect on your readings, explore the different ways words work, and learn how to ask good questions of yourself and your readings. Set your timer and use the whole time allotted for a composition assignment. If you finish an assignment with extra time, explore another perspective, ask further questions, or take a bit more time to see if any other thoughts come to mind. Alternatively, if you find yourself stuck, you may want to take a short break and come back later! Growth, not frustration, is the goal.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Summary/Reflection\nWrite a brief summary of a current event. \nOR\nTell of a time when your desire for society was met. How did that experience impact/affect you?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Letter\nWrite a letter to a family member, friend, or imaginary character about one of your favorite books so far this year. Tell them what you think the book is about and why you like it so far, and then send the letter if you like!",
+              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations and compositions regularly. \n\nThere are two designated lessons each week to work on the Composition prompts. All prompts will be listed in those lessons, so students can choose which prompts to work on.\n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 1)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec2NbT94wLCmPimP",
               "lessonLinksUrl": "",
               "links": []
@@ -299,8 +299,8 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 4",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ NOTE TO STUDENTS\nOne purpose of composition lessons is to encourage you, the student, to dig deeper, reflect on your readings, explore the different ways words work, and learn how to ask good questions of yourself and your readings. Set your timer and use the whole time allotted for a composition assignment. If you finish an assignment with extra time, explore another perspective, ask further questions, or take a bit more time to see if any other thoughts come to mind. Alternatively, if you find yourself stuck, you may want to take a short break and come back later! Growth, not frustration, is the goal.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Summary/Reflection\nWrite a brief summary of a current event. \nOR\nTell of a time when your desire for society was met. How did that experience impact/affect you?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Letter\nWrite a letter to a family member, friend, or imaginary character about one of your favorite books so far this year. Tell them what you think the book is about and why you like it so far, and then send the letter if you like!",
+              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations and compositions regularly. \n\nThere are two designated lessons each week to work on the Composition prompts. All prompts will be listed in those lessons, so students can choose which prompts to work on.\n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 1)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recJ2RLBRbNCHcL3P",
               "lessonLinksUrl": "",
               "links": []
@@ -315,8 +315,8 @@
               "lessonLabel": "Lesson 5",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 5",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository\nTell of a time when you took a \"share in the interests of the great world\" by listening with all your heart to someone who shared about a profession, skill, subject, or experience with which you were unfamiliar.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Letter\nWrite a letter to a family member, friend, or imaginary character about one of your favorite books so far this year. Tell them what you think the book is about and why you like it so far, and then send the letter if you like!",
-              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 2)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository\nTell of a time when you took a \"share in the interests of the great world\" by listening with all your heart to someone who shared about a profession, skill, subject, or experience with which you were unfamiliar.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nFrom your reading in Ancient History, write a page long interview for Sulla. What questions would you ask him?",
+              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 2)\nBook: Ourselves\n\nComp #2\nAncient History (G7-9) \n(Lesson 1)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recBEYQv5rIfzS9be",
               "lessonLinksUrl": "",
               "links": []
@@ -363,8 +363,8 @@
               "lessonLabel": "Lesson 8",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 8",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository\nTell of a time when you took a \"share in the interests of the great world\" by listening with all your heart to someone who shared about a profession, skill, subject, or experience with which you were unfamiliar.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nFrom your reading in Ancient History, write a page long interview for Sulla. What questions would you ask him?",
+              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 2)\nBook: Ourselves\n\nComp #2\nAncient History (G7-9) \n(Lesson 1)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recwWpt7ExNLgzfKU",
               "lessonLinksUrl": "",
               "links": []
@@ -379,8 +379,8 @@
               "lessonLabel": "Lesson 9",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 9",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository/Research\nFrom your reading in Ourselves, compare and contrast the desire for knowledge and curiosity.\nOR\n(Canadian Students) Hudson Bay Company recently filed for creditor protection and began closing and liquidating (selling off the assets) of all its stores, effectively closing the business. There is currently (April 2025) a debate over whether or not the company should be allowed to auction off the charter to recoup some funds. This is a great opportunity to think about how events of long-ago history can continue to be felt in the present day. With a parent's supervision, research what has happened to the charter since April 2025 and decide which side of the debate you would support.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Opinion\nFrom your reading in current events, what do you think are some issues our country has to deal with today? Why?\nOR\n(Canadian Students Only) Building on Assignment #1, prepare a list of statements supporting your position on the Hudson Bay Charter debate.",
-              "teacherNotes": "★ TEACHER TIP\nProvide opportunities for students to explore other ways of narrating using technology with applications such as PowerPoint or design software such as Canva.\n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 3)\nBook: Ourselves\nOR\nCanadian History (G7-8)\n(Lesson 6)\nBook: Hudson's Bay Company Adventures",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository/Research\nFrom your reading in Ourselves, compare and contrast the desire for knowledge and curiosity.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Opinion\nFrom your reading in current events, what do you think are some issues your country has to deal with today? Why?",
+              "teacherNotes": "★ TEACHER TIP\nProvide opportunities for students to explore other ways of narrating using technology with applications such as PowerPoint or design software such as Canva.\n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 3)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recC8s2MDAsTXAUQu",
               "lessonLinksUrl": "",
               "links": []
@@ -427,8 +427,8 @@
               "lessonLabel": "Lesson 12",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 12",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository/Research\nFrom your reading in Ourselves, compare and contrast the desire for knowledge and curiosity.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Opinion\nFrom your reading in current events, what do you think are some issues your country has to deal with today? Why?",
+              "teacherNotes": "★ TEACHER TIP\nProvide opportunities for students to explore other ways of narrating using technology with applications such as PowerPoint or design software such as Canva.\n\n• REFERENCES\nComp #1\nEthics: Part 2 (Lesson 3)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=reclOSrjNc55AJKAA",
               "lessonLinksUrl": "",
               "links": []
@@ -443,8 +443,8 @@
               "lessonLabel": "Lesson 13",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 13",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Short Account\nFrom your reading in Ourselves, explain how the love of knowledge is smothered by emulation. Include \"marks\" and \"places\" in your examples.\nOR\nFrom your reading in Ancient History, write a page long interview for Spartacus. What questions would you ask him?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPretend you are Miriam and write a diary entry telling about recent events in Calico Captive.",
-              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 4)\nBook: A Short History of Ancient Rome\nOR\nEthics: Part 2 (Lesson 4)\nBook: Ourselves\n\nComp #2\nGeneral Literature (G7-8, Lesson 4)\nBook: Calico Captive",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Short Account\nFrom your reading in Ourselves, explain how the love of knowledge is smothered by emulation. Include \"marks\" and \"places\" in your examples.\nOR\nFrom your reading in Ancient History, write a page long interview for Spartacus. What questions would you ask him?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPretend you are a character in Little Women or Sir Gibbie and write a diary entry telling about recent events.",
+              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 4)\nBook: A Short History of Ancient Rome\nOR\nEthics: Part 2 (Lesson 4)\nBook: Ourselves\n\nComp #2\nGeneral Literature (G7-8, Lesson 4)\nBook: Little Women/Sir Gibbie",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec8gOghY2jvjzI0U",
               "lessonLinksUrl": "",
               "links": []
@@ -491,8 +491,8 @@
               "lessonLabel": "Lesson 16",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 16",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Short Account\nFrom your reading in Ourselves, explain how the love of knowledge is smothered by emulation. Include \"marks\" and \"places\" in your examples.\nOR\nFrom your reading in Ancient History, write a page long interview for Spartacus. What questions would you ask him?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPretend you are a character in Little Women or Sir Gibbie and write a diary entry telling about recent events.",
+              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 4)\nBook: A Short History of Ancient Rome\nOR\nEthics: Part 2 (Lesson 4)\nBook: Ourselves\n\nComp #2\nGeneral Literature (G7-8, Lesson 4)\nBook: Little Women/Sir Gibbie",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recaCKeF7eNEihLyG",
               "lessonLinksUrl": "",
               "links": []
@@ -507,8 +507,8 @@
               "lessonLabel": "Lesson 17",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 17",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Letter\n(Canadian Students) Write a letter from Pierre-Esprit Radisson back to his French fur-trade backers from La Compagnie du Nord, describing what has taken place.\nRemember that by now, Radisson and des Groseilliers had switched their allegiance from England back to France.\nOR\nWrite a letter from Macbeth to a distant and trusted friend telling what has happened so far.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Visual/Poetry\nRetell a favorite chapter or scene in one of your readings by creating a comic-strip style retelling of it, OR by retelling it as a poem.\n\n• Alternate Option: Tell of a time when you have thrown yourself into your work, and it was a delight to you. OR Tell of a character in a book who has done so, and the result was joy.",
-              "teacherNotes": "• REFERENCES\nComp #1\nCanadian History (G7-8, Lesson 9)\nBook: Hudson's Bay Company Adventures\nOR\nShakespeare\nBook: Macbeth\n\nComp #2\nAlternate Option\nEthics: Part 2 (Lesson 5)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Report\nWrite a new report from Naples describing the loss of the ship with King Alonso on board from The Tempest.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Visual/Poetry\nRetell a favorite chapter or scene in one of your readings by creating a comic-strip style retelling of it, OR by retelling it as a poem.\n\n• Alternate Option: Tell of a time when you have thrown yourself into your work, and it was a delight to you. OR Tell of a character in a book who has done so, and the result was joy.",
+              "teacherNotes": "• REFERENCE\nComp #1\nShakespeare\nBook: The Tempest\n\nComp #2\nAlternate Option\nEthics: Part 2 (Lesson 5)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recetEhWLII36sh2m",
               "lessonLinksUrl": "",
               "links": []
@@ -555,8 +555,8 @@
               "lessonLabel": "Lesson 20",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 20",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Report\nWrite a new report from Naples describing the loss of the ship with King Alonso on board from The Tempest.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Visual/Poetry\nRetell a favorite chapter or scene in one of your readings by creating a comic-strip style retelling of it, OR by retelling it as a poem.\n\n• Alternate Option: Tell of a time when you have thrown yourself into your work, and it was a delight to you. OR Tell of a character in a book who has done so, and the result was joy.",
+              "teacherNotes": "• REFERENCE\nComp #1\nShakespeare\nBook: The Tempest\n\n\nComp #2\nAlternate Option\nEthics: Part 2 (Lesson 5)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec6XFDylyjj5IDp2",
               "lessonLinksUrl": "",
               "links": []
@@ -635,8 +635,8 @@
               "lessonLabel": "Lesson 25",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 25",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 Short Account/Poem\nDescribe the Spartan way of life. What do you think of it?\nOR\nExplain the four ways in which a person is able to recognize authentic love.\nOR\nWrite a poem about selfless love using your own examples patterned after soldiers, mothers, nurses, missionaries, etc.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - News Report\nTell about an event in a book, a recent life experience you had, or a current event you read about as if you were a reporter for the news.",
-              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 7)\nBook: Ancient Greek World\nOR\nEthics: Part 2 (Lesson 6 or 7)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 Short Account/Poem\nDescribe Lorenzo and Estaban's exprience in the cell. Has a misunderstanding ever landed you in trouble?\nOR\nExplain the four ways in which a person is able to recognize authentic love.\nOR\nWrite a poem about selfless love using your own examples patterned after soldiers, mothers, nurses, missionaries, etc.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - News Report\nTell about an event in a book, a recent life experience you had, or a current event you read about as if you were a reporter for the news.",
+              "teacherNotes": "• REFERENCES\nComp #1\nWorld History (G7-8 Lesson 7)\nBook: In the Shadow of the Alamo\n\nOR\nEthics: Part 2 (Lesson 6 or 7)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=reccnoSg09ocJCEsc",
               "lessonLinksUrl": "",
               "links": []
@@ -683,8 +683,8 @@
               "lessonLabel": "Lesson 28",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 28",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 Short Account/Poem\nDescribe Lorenzo and Estaban's exprience in the cell. Has a misunderstanding ever landed you in trouble?\nOR\nExplain the four ways in which a person is able to recognize authentic love.\nOR\nWrite a poem about selfless love using your own examples patterned after soldiers, mothers, nurses, missionaries, etc.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - News Report\nTell about an event in a book, a recent life experience you had, or a current event you read about as if you were a reporter for the news.",
+              "teacherNotes": "• REFERENCES\nComp #1\nWorld History (G7-8 Lesson 7)\nBook: In the Shadow of the Alamo\n\nOR\nEthics: Part 2 (Lesson 6 or 7)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec5bd1h7M5w6s5uj",
               "lessonLinksUrl": "",
               "links": []
@@ -699,8 +699,8 @@
               "lessonLabel": "Lesson 29",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 29",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Creative Narration/Story\nPretend you are Pierre and write a diary entry from him about his and Miriam's conversation in Ch.16-17.\nOR\nRetell something you read recently as a poem or as a scene in a play.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Description Review\nChoose a place to sit outside. Write 5-10 sentences describing what you see, starting from your left to your right. Then write another paragraph describing the same place a different way (right to left, top to bottom, bottom to top, near to far, or another way). Which description do you like better? As you run across descriptive scenes in books or describe things yourself in science or any other subject, think about how the description is organized.",
-              "teacherNotes": "• REFERENCE\nComp #1\nGeneral Lit (G7-8, Lesson 8)\nBook: Calico Captive",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Compare and Contrast\nFrom your reading in the Ancient History, compare Caesar’s reign with Octavian’s. \nOR\nRetell something you read recently as a poem or as a scene in a play.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Description Review\nChoose a place to sit outside. Write 5-10 sentences describing what you see, starting from your left to your right. Then write another paragraph describing the same place a different way (right to left, top to bottom, bottom to top, near to far, or another way). Which description do you like better? As you run across descriptive scenes in books or describe things yourself in science or any other subject, think about how the description is organized.",
+              "teacherNotes": "• REFERENCE\nComp #1\nAncient History (G7-8, Lesson 8)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec1OyURfrHZgjM2z",
               "lessonLinksUrl": "",
               "links": []
@@ -747,8 +747,8 @@
               "lessonLabel": "Lesson 32",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 32",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Compare and Contrast\nFrom your reading in the Ancient History, compare Caesar’s reign with Octavian’s. \nOR\nRetell something you read recently as a poem or as a scene in a play.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Description Review\nChoose a place to sit outside. Write 5-10 sentences describing what you see, starting from your left to your right. Then write another paragraph describing the same place a different way (right to left, top to bottom, bottom to top, near to far, or another way). Which description do you like better? As you run across descriptive scenes in books or describe things yourself in science or any other subject, think about how the description is organized.",
+              "teacherNotes": "• REFERENCE\nComp #1\nAncient History (G7-8, Lesson 8)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recYuUZX1ldMPPOfv",
               "lessonLinksUrl": "",
               "links": []
@@ -763,11 +763,16 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 33",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Letter/Story\n(Canadian Students) Write a newspaper article or a letter from Samuel Hearne describing the discovery of artifacts on Marble Island.\nOR \nWrite a fable-type short story in which a character's self-pity is exposed, and he overcomes it.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPick a favorite scene or part of a book you've read recently (for school or on your own time) and pretend that somehow that section of the book has been ripped out and lost. Rewrite it yourself as if you are the author,",
-              "teacherNotes": "• REFERENCES \nComp #1\nCanadian History (G7-8, Lesson 17)\nBook: Hudson's Bay Company Adventures\nOR\nEthics: Part 2 (Lesson 9)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Paraphrase\nParaphrase all (or the rest) of \"Children of the Heavenly Father\" in prose (or feel free to write a poetic paraphrase!) \n∞ Link: Hymn, Spirituals, & Folk PDF p.9\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPick a favorite scene or part of a book you've read recently (for school or on your own time) and pretend that somehow that section of the book has been ripped out and lost. Rewrite it yourself as if you are the author,",
+              "teacherNotes": "REFERENCES\nComp #1\nHymns & Spirituals (Lesson 8)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recbuIr7dC2w6u4k9",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=1&week=9",
+              "links": [
+                {
+                  "text": "∞ Link: Hymn, Spirituals, & Folk PDF p.9",
+                  "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view"
+                }
+              ]
             },
             {
               "lessonId": "recVuLmANLtMrkmv2",
@@ -811,11 +816,16 @@
               "lessonLabel": "Lesson 36",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 36",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Paraphrase\nParaphrase all (or the rest) of \"Children of the Heavenly Father\" in prose (or feel free to write a poetic paraphrase!) \n∞ Link: Hymn, Spirituals, & Folk PDF p.9\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View\nPick a favorite scene or part of a book you've read recently (for school or on your own time) and pretend that somehow that section of the book has been ripped out and lost. Rewrite it yourself as if you are the author,",
+              "teacherNotes": "REFERENCES\nComp #1\nHymns & Spirituals (Lesson 8)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recjxnls1l3cUREj4",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=1&week=9",
+              "links": [
+                {
+                  "text": "∞ Link: Hymn, Spirituals, & Folk PDF p.9",
+                  "url": "https://drive.google.com/file/d/19IRILSASZkT5Wx-K39AgnoZTFpiE5LQp/view"
+                }
+              ]
             },
             {
               "lessonId": "receDrSk9XJuk2vST",
@@ -827,8 +837,8 @@
               "lessonLabel": "Lesson 37",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 37",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Dialogue/Diary\nWrite dialogue paragraphs where the Greek scientists discuss some of their new ideas with each other. Aim to make it about a page long.\nOR\nWrite a diary entry by Mrs. Sergeant or Mrs. Maurice about recent happenings.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nDescribe something you've noticed outside recently in nature study. Include as many details as you can and think about how you organize your description (think of its smell, sight, sound, taste, and touch!)",
-              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 10)\nBook: Ancient Greek World\nOR\nCanadian History (G7-8, Lesson 19) \nBook: Hudson's Bay Company Adventures",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Dialogue/Diary\nDialogue/Diary\nWrite a diary entry as a Roman citizen reacting to the news of Nero's demise.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nDescribe something you've noticed outside recently in nature study. Include as many details as you can (think of its smell, sight, sound, taste, and touch!)",
+              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 10)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=receDrSk9XJuk2vST",
               "lessonLinksUrl": "",
               "links": []
@@ -875,8 +885,8 @@
               "lessonLabel": "Lesson 40",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 40",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Dialogue/Diary\nDialogue/Diary\nWrite a diary entry as a Roman citizen reacting to the news of Nero's demise.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Descriptive\nDescribe something you've noticed outside recently in nature study. Include as many details as you can (think of its smell, sight, sound, taste, and touch!)",
+              "teacherNotes": "• REFERENCES\nComp #1\nAncient History (G7-9, Lesson 10)\nBook: A Short History of Ancient Rome",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recxY0vJ5SYvTD1wS",
               "lessonLinksUrl": "",
               "links": []
@@ -891,16 +901,11 @@
               "lessonLabel": "Lesson 41",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 41",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Compare/Contrast\nWrite a comparison paragraph comparing Pierre to Phineas. How are they similar and different?\nOR\nWrite a comparison paragraph comparing ancient Greek education to modern education. What similarities and differences do you see?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Analysis\nRead the beginning and ending paragraphs of Black Ships Before Troy. Then read the first several and last several lines of the direct translation of the Iliad. What do you notice about the different ways the authors begin and end the story? What would you think each story was about if you just read those opening and closing lines? Jot down your thoughts.\n∞ PDF Link: Iliad Selections PDF",
-              "teacherNotes": "• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 11)\nBook: Calico Captive\nOR\nAncient History (G7-9, Lesson 11)\nBook: Ancient Greek World\n\nComp #2 \nLit/Mythology (G7-8, Term 1)\nBook: Black Ships Before Troy",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Descriptive\nWrite as if you are Sacajawea and you are encountering Fort Mandan for the first time.\nOR\nWrite a brief family history of the Mallory family and their military history.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Expository\nWrite up your idea you discussed in General Literature Lesson 9 about Little Women! Compose an advertisement, article, or poem for the Pickwick Portfolio. You can retell a scene from Little Women or choose something from another book or even your personal experience to write about. One idea: write a newspaper entry about the admission of \"Sam Weller\" into the club.\nOR\nRetell a scene from another book you are reading as if it were local news.",
+              "teacherNotes": "• REFERENCES\nComp #1\nUS History (G7-9, Lesson 11)\nBook: Sacajawea\nOR\nCanadian History (7-8, Lesson 21)\nBook: Sophie's Rebellion\n\nComp #2\nGeneral Literature (G7-8, Lesson 9)\nBook: Little Women",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recbdG7eD4rj81omc",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=1&week=11",
-              "links": [
-                {
-                  "text": "Iliad Selections PDF",
-                  "url": "https://griersmusings.wordpress.com/wp-content/uploads/2018/10/homer_the_iliad_penguin_classics_deluxe_edition-robert-fagles.pdf"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "reciPR3LlpUXGOSSo",
@@ -944,8 +949,8 @@
               "lessonLabel": "Lesson 44",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 44",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Descriptive\nWrite as if you are Sacajawea and you are encountering Fort Mandan for the first time.\nOR\nWrite a brief family history of the Mallory family and their military history.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Expository\nWrite up your idea you discussed in General Literature Lesson 9 about Little Women! Compose an advertisement, article, or poem for the Pickwick Portfolio. You can retell a scene from Little Women or choose something from another book or even your personal experience to write about. One idea: write a newspaper entry about the admission of \"Sam Weller\" into the club.\nOR\nRetell a scene from another book you are reading as if it were local news.",
+              "teacherNotes": "• REFERENCES\nComp #1\nUS History (G7-9, Lesson 11)\nBook: Sacajawea\nOR\nCanadian History (7-8, Lesson 21)\nBook: Sophie's Rebellion\n\nComp #2\nGeneral Literature (G7-8, Lesson 9)\nBook: Little Women",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recNg6dD0dKxlGJEI",
               "lessonLinksUrl": "",
               "links": []
@@ -1008,7 +1013,7 @@
               "lessonLabel": "Lesson 48",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 48",
-              "body": "",
+              "body": "Exam Week\n\nThere are no exams for this course.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec1fFbKvhHRR22Eq",
               "lessonLinksUrl": "",
@@ -1078,8 +1083,8 @@
               "lessonLabel": "Lesson 52",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 52",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Letter\nShow sympathy to someone you know by writing them a letter and sharing your interest in music, poetry, art, or anything that gives you joy.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Revision\nRevision and editing is an important aspect of writing, especially when sharing it with others.\n\nChoose a narration or composition assignment from last term that is about a page long. As you read, use different colored pencils to underline sentences by topic. Did you write a separate paragraph for each topic? If not, type a second draft. Ensure each paragraph only deals with one topic, and the sentences follow a logical order.",
+              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations regularly.\n\n• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 13)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recd58YRbBIopYn8R",
               "lessonLinksUrl": "",
               "links": []
@@ -1206,8 +1211,8 @@
               "lessonLabel": "Lesson 60",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 60",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Digging Deeper\nPick a written narration from this week that you typed and add to it. You can fill in additional details you didn't have time to include, add a section giving your thoughts on the chapter, write a series of questions you wish you could ask the author about the story, add a section telling about the events from a different character's perspective, or anything else. Narrations you do after your reading are extremely important to help you understand and think about what you read, but there is always more to discuss and learn!\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Sequence\nHow is egotism a foe of Sympathy? Include examples.\nOR \nTell what you did yesterday in order (you can write out your day with short sentences or bullet points, or design a visual flow chart or series of sketches by hand or with software such as Canva if desired).",
+              "teacherNotes": "★ TEACHER TIP\nProvide opportunities for students to explore other ways of narrating with technology, with applications such as PowerPoint or design software such as Canva.\n\n• REFERENCE\nComp #2\nEthics: Part 2 (Lesson 15) \nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recGnNi8JV9dFMvHa",
               "lessonLinksUrl": "",
               "links": []
@@ -1222,14 +1227,14 @@
               "lessonLabel": "Lesson 61",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 61",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Letter/Analysis\n(Canadian Students) Imagine you are interested in applying for a job with the HBC. Write an application letter in response to the advertisement.\nOR\nRead Proverbs 6 and reread Ben Franklin's Wit and Wisdom on Diligence & Sloth (p.7). Do you think Ben Franklin has the same perspective on sloth as God does in the Bible? Why or why not? Feel free to mention any other verses that you think of that relate.\n∞ Link: Proverbs 6:1-19\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View/Expository\n(Canadian Students) Rewrite a short scene from the perspective of one of the other characters.\nOR\nBuilding on your reflection from the lesson, write on whether Rip changed after his nap. Give any examples from the book you can find or think of to show why or why not.",
-              "teacherNotes": "• REFERENCES\nComp #1\nCanadian History (G7-8, Lesson 31)\nBook: Hudson's Bay Company Adventures\nOR\nPoetry Reading: Grade 8 (Lesson 63)\nBook: Wit & Wisdom\n\nComp #2\nCanadian History (G7-8, Lesson 32)\nBook: A Land Divided\nOR\nLit/Mythology (G7-8, Lesson 16)\nBook: Rip Van Winkle",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Retelling\nWrite your own retelling of the angels' and shepherds' meeting from Luke 2. You can write it as a poem/carol like Angels We Have Heard on High or as a play, a picture book, or a short story. \n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View/Comparison\nRewrite a short scene from a reading this week from the perspective of one of the other characters.\nOR\nPick 3-5 national anthems, read their English translations, and discuss the similarities and differences you find (think about the ideas, structure, sound (if you want to look up the tune as well), etc.)\n∞ National Anthem lyrics",
+              "teacherNotes": "• REFERENCE\nComp #1\nHymns & Spirituals (Lesson 15)\n\nComp #2\nFolk Songs (Lesson 15)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recuB5229WhRke12e",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=2&week=16",
               "links": [
                 {
-                  "text": "Proverbs 6:1-19",
-                  "url": "https://www.biblegateway.com/passage/?search=Proverbs%206%3A%201-19&version=ESV"
+                  "text": "∞ National Anthem lyrics",
+                  "url": "https://lyricstranslate.com/en/national-anthems-lyrics.html"
                 }
               ]
             },
@@ -1275,11 +1280,16 @@
               "lessonLabel": "Lesson 64",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 64",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Retelling\nWrite your own retelling of the angels' and shepherds' meeting from Luke 2. You can write it as a poem/carol like Angels We Have Heard on High or as a play, a picture book, or a short story. \n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Point of View/Comparison\nRewrite a short scene from a reading this week from the perspective of one of the other characters.\nOR\nPick 3-5 national anthems, read their English translations, and discuss the similarities and differences you find (think about the ideas, structure, sound (if you want to look up the tune as well), etc.)\n∞ National Anthem lyrics",
+              "teacherNotes": "• REFERENCE\nComp #1\nHymns & Spirituals (Lesson 15)\n\nComp #2\nFolk Songs (Lesson 15)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recKDYKUHXOpJ55hc",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=2&week=16",
+              "links": [
+                {
+                  "text": "National Anthem lyrics",
+                  "url": "https://lyricstranslate.com/en/national-anthems-lyrics.html"
+                }
+              ]
             },
             {
               "lessonId": "rec98HfE8ITpky4uF",
@@ -1355,15 +1365,11 @@
               "lessonLabel": "Lesson 69",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 69",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Story\nWrite a story (or even create a short picture book for children!) based on an event in or the overarching story of Scarlatti's life. (Refer to the bio and make up the details we don't know!)\n∞ Article Link: Scarlatti Bio\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Research\nWhat does the Bible have to say about Friendship & Folly? Look up verses in Proverbs (or elsewhere) on friendship (10 minutes). Then jot down any initial thoughts you have (5 min) on how Benjamin Franklin's thoughts on Friendship & Folly are similar or different (see Wit and Wisdom, \"Friendship\" p.14).",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Story\nWrite a story (or even create a short picture book for children!) based on a musical piece by Edvard Grieg or an event in his life. Feel free to make up details!\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Research\nWhat does the Bible have to say about Friendship & Folly? Look up verses in Proverbs (or elsewhere) on friendship (10 minutes). Then jot down any initial thoughts you have (5 min) on how Benjamin Franklin's thoughts on Friendship & Folly are similar or different (see Wit and Wisdom, \"Friendship\" p.14).",
               "teacherNotes": "• REFERENCES\nComp #1 \nComposer Study (Term 2)\n\nComp #2\nPoetry Reading (Lesson 70)\nBook: Wit & Wisdom from Poor Richard\n\n• EXTRA HELPINGS\nHere is a fun book about writing picture books!\nBook Link: Writing Picture Books",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recS4j7pxplZiMijK",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=2&week=18",
               "links": [
-                {
-                  "text": "Scarlatti Bio",
-                  "url": "https://www.baroquemusic.org/biodscarlatti.html"
-                },
                 {
                   "text": "Writing Picture Books",
                   "url": "https://www.amazon.com/Writing-Picture-Revised-Expanded-Hands/dp/1440353751/"
@@ -1428,8 +1434,8 @@
               "lessonLabel": "Lesson 73",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 73",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Outline\nMake a timeline of 6-8 significant movements in history.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poetry\nIf you want a challenge, consider writing a few of your own proverbs about happiness in the style of Benjamin Franklin, based on your own observations. What is true happiness?\nOR\nWrite a poem telling about something you've experienced in your life or read recently in a book.",
-              "teacherNotes": "• REFERENCES\nEthics: Part 2 (Lesson 19)\nBook: Ourselves\n\nPoetry Reading: Grade 8 (Lesson 75)\nBook: Wit & Wisdom from Poor Richard",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Outline\nMake a timeline of 6-8 significant movements in history.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poetry\nWrite a poem telling about something you've experienced in your life or read recently in a book.",
+              "teacherNotes": "• REFERENCES\nEthics: Part 2 (Lesson 19)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recU2kHp9uqg89zvy",
               "lessonLinksUrl": "",
               "links": []
@@ -1476,8 +1482,8 @@
               "lessonLabel": "Lesson 76",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 76",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Outline\nMake a timeline of 6-8 significant movements in history.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poetry\nWrite a poem telling about something you've experienced in your life or read recently in a book.",
+              "teacherNotes": "• REFERENCES\nEthics: Part 2 (Lesson 19)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recBKjnD3gpDwT0Wg",
               "lessonLinksUrl": "",
               "links": []
@@ -1604,8 +1610,8 @@
               "lessonLabel": "Lesson 84",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 84",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Expository & Opinion\nOutline the three false notions that prevent generosity.\nOR\nOpen one of your history or science books to the beginning of a chapter. Look at the first sentence of each paragraph. Does it fit what you've learned about topic sentences? Jot down your thoughts on how topic sentences might be different depending on what type of book you are reading.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Dialogue\nImagine two different characters from your books meeting each other and write a conversation between them. Remember to begin a new paragraph each time a new character speaks. Notice whether dialogue in your books is always separated into paragraphs. If not, why do you think the author might have chosen not to follow this pattern?",
+              "teacherNotes": "• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 21)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recWXvpD9ybnWDOzl",
               "lessonLinksUrl": "",
               "links": []
@@ -1668,8 +1674,8 @@
               "lessonLabel": "Lesson 88",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 88",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1\nWrite a letter to a family member or friend about something you've read this term. Try to help them understand and imagine the book by using concrete details and vivid language. \nOR\nWrite a letter to a relative or friend from whom you have received double joys. Acknowledge and thank them for at least three kindnesses.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2\nChoose a discussion question from one of your lessons and write on it today. Before you start writing, think about how you want to organize your thoughts, OR draft your ideas, and then think about whether they might make more sense in a different order.",
+              "teacherNotes": "• REFERENCE\nEthics: Part 2 (Lesson 22) \nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recsTZaBOfGuWoJ45",
               "lessonLinksUrl": "",
               "links": []
@@ -1796,7 +1802,7 @@
               "lessonLabel": "Lesson 96",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 96",
-              "body": "",
+              "body": "Exam Week\n\nThere are no exams for this course.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=reclagiA92ucjvtGR",
               "lessonLinksUrl": "",
@@ -1818,8 +1824,8 @@
               "lessonLabel": "Lesson 97",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 97",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1\nWrite a news report/interview with Judge Dee on the murder so far. \nOR\nWrite a news report/interview on something that happened in your family recently.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2\nTell how we are able to \"take the present without any fearful looking forward.\" Provide three examples.",
-              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations regularly.\n\n• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 25)\nBook: Celebrated Cases of Judge Dee\n\nComp #2\nEthics: Part 2 (Lesson 25) \nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Interview\nWrite an interview with Frederick Douglass on what he remembers from his early childhood, or choose another character from one of your books to interview. \n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2\nTell how we are able to \"take the present without any fearful looking forward.\" Provide three examples.",
+              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations regularly.\n\n• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 25)\nBook: The Narrative of the Life of Frederick Douglass\n\nComp #2\nEthics: Part 2 (Lesson 25) \nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec58yx8b9fr7xWqi",
               "lessonLinksUrl": "",
               "links": []
@@ -1866,8 +1872,8 @@
               "lessonLabel": "Lesson 100",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 100",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Interview\nWrite an interview with Frederick Douglass on what he remembers from his early childhood, or choose another character from one of your books to interview.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2\nTell how we are able to \"take the present without any fearful looking forward.\" Provide three examples.",
+              "teacherNotes": "★ TEACHER TIP\nMake sure students are practicing typing skills and typing narrations regularly.\n\n• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 25)\nBook: The Narrative of the Life of Frederick Douglass\n\nComp #2\nEthics: Part 2 (Lesson 25) \nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recHrNCOOTIhqlMUj",
               "lessonLinksUrl": "",
               "links": []
@@ -1882,8 +1888,8 @@
               "lessonLabel": "Lesson 101",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 101",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Scene\nTurn the first part of Treasure Island, Celebrated Cases of Judge Dee, or another book of your choice into a scene for a play! Look at one of Shakespeare's plays to see how to set up your scene. Remember that plays essentially rely on dialogue and stage directions to work. So it may even help to try acting it out or imagining how you'd set it up in a room first. Feel free to look back at your books and use excerpts of dialogue from the book as you work on your scene.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Questions\nContinue working on your scene for a play.\nOR\nWrite as many questions as you can about one of your readings. We can use the same questions for books that you might use for nature study to make observations about books and generate more questions: \"What do you notice?\" \"What do you wonder?\" and \"What does it remind you of?\" Don't worry if you think of a lot of questions and then draw a blank. Give yourself some time and keep thinking, and you'll probably come up with some new questions!",
-              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nGeneral Lit (G7-8, Term 3)\nBook: Celebrated Cases, Treasure Island, or Book of Choice",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Scene\nTurn the first part of Gold Mountain, Elijah of Buxton, The Celebrated Jumping Frog of Calaveras County, or another book of your choice into a scene for a play! Look at one of Shakespeare's plays to see how to set up your scene. Remember that plays essentially rely on dialogue and stage directions to work. So it may even help to try acting it out or imagining how you'd set it up in a room first. Feel free to look back at your books and use excerpts of dialogue from the book as you work on your scene.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Questions\nContinue working on your scene for a play.\nOR\nWrite as many questions as you can about one of your readings. We can use the same questions for books that you might use for nature study to make observations about books and generate more questions: \"What do you notice?\" \"What do you wonder?\" and \"What does it remind you of?\" Don't worry if you think of a lot of questions and then draw a blank. Give yourself some time and keep thinking, and you'll probably come up with some new questions!",
+              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nHistory or Literature\nBook: Gold Mountain, Elijah of Buxton, The Celebrated Jumping Frog of Calaveras County, or Book of Choice",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recyU9zMn9e5yWFHD",
               "lessonLinksUrl": "",
               "links": []
@@ -1930,8 +1936,8 @@
               "lessonLabel": "Lesson 104",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 104",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Scene\nTurn the first part of Gold Mountain, Elijah of Buxton, The Celebrated Jumping Frog of Calaveras County, or another book of your choice into a scene for a play! Look at one of Shakespeare's plays to see how to set up your scene. Remember that plays essentially rely on dialogue and stage directions to work. So it may even help to try acting it out or imagining how you'd set it up in a room first. Feel free to look back at your books and use excerpts of dialogue from the book as you work on your scene.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Questions\nContinue working on your scene for a play.\nOR\nWrite as many questions as you can about one of your readings. We can use the same questions for books that you might use for nature study to make observations about books and generate more questions: \"What do you notice?\" \"What do you wonder?\" and \"What does it remind you of?\" Don't worry if you think of a lot of questions and then draw a blank. Give yourself some time and keep thinking, and you'll probably come up with some new questions!",
+              "teacherNotes": "★ TEACHER TIP\nSome students may find it helpful to use external supports before writing, such as index cards that can be arranged and re-ordered. You can also encourage students to talk aloud as they write or use speech-to-text and then edit. \n\n• REFERENCE\nHistory or Literature\nBook: Gold Mountain, Elijah of Buxton, The Celebrated Jumping Frog of Calaveras County, or Book of Choice",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recaP4gfQXv9OUbMN",
               "lessonLinksUrl": "",
               "links": []
@@ -1994,8 +2000,8 @@
               "lessonLabel": "Lesson 108",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 108",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Editing\nRevise one of your narrations or composition assignments from this term or last term into a second draft. Make sure that each paragraph only has one topic, that all the sentences in each paragraph support that topic, and that there are good connections between paragraphs. \n\n(Bump this to the next assignment if needed.) Check each sentence for structure, wordiness, clarity, and impact. Edit for spelling and mechanics. \n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Summary\nContinue editing and revising from Comp #1 if needed. \nOR\nShow that intellectual panic is responsible for many failures. Give three examples.",
+              "teacherNotes": "★ TEACHER TIP\nProvide opportunities for students to explore other ways of narrating with technology, with applications such as PowerPoint or design software such as Canva.\n\n• REFERENCE\nEthics: Part 2 (Lesson 27)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rec964W0qrkGlrGTh",
               "lessonLinksUrl": "",
               "links": []
@@ -2010,8 +2016,8 @@
               "lessonLabel": "Lesson 109",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 109",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Character Sketch\n What kind of man do you think Silver is? Support your answer with at least two examples from the text.\nOR \nWhat kind of man is Judge Dee? What does the book show or tell us about him?\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Debate\nAre we free to choose our loyalties? Give reasons why some might say yes and others no. Then give your opinion.",
-              "teacherNotes": "• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 28)\nBook: Treasure Island OR Celebrated Cases\n\nComp #2\nEthics: Part 2 (Lesson 28)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Character Sketch\nHow does Douglass teach himself to read and write? What obstacles does he face, and what does he learn about his own situation from what he reads?\nOR \nWrite a character sketch of someone you've met in another book this term.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Debate\nAre we free to choose our loyalties? Give reasons why some might say yes and others no. Then give your opinion.",
+              "teacherNotes": "• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 28)\nBook: The Narrative of the Life of Frederick Douglass\n\nComp #2\nEthics: Part 2 (Lesson 28)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recR2HtnVGEgNgktE",
               "lessonLinksUrl": "",
               "links": []
@@ -2058,8 +2064,8 @@
               "lessonLabel": "Lesson 112",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 112",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Character Sketch\nHow does Douglass teach himself to read and write? What obstacles does he face, and what does he learn about his own situation from what he reads?\nOR \nWrite a character sketch of someone you've met in another book this term.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Debate\nAre we free to choose our loyalties? Give reasons why some might say yes and others no. Then give your opinion.",
+              "teacherNotes": "• REFERENCES\nComp #1\nGeneral Lit (G7-8, Lesson 28)\nBook: The Narrative of the Life of Frederick Douglass\n\nComp #2\nEthics: Part 2 (Lesson 28)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recuhVV1Jl7m3yrK8",
               "lessonLinksUrl": "",
               "links": []
@@ -2122,7 +2128,7 @@
               "lessonLabel": "Lesson 116",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 116",
-              "body": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Opinion\nPick a discussion question from a recent lesson and write your thoughts on it. Try to write one or two well-constructed paragraphs answering the question. Include connection words between them, showing how your thoughts are related to each other.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poem/Sketch\nWrite a poem about a favorite scene in one of your books, OR draw/sketch a comic-strip style retelling of the same section.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=reczA8ye9fFtoWgVC",
               "lessonLinksUrl": "",
@@ -2138,22 +2144,14 @@
               "lessonLabel": "Lesson 117",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 117",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Found Verse Annotation\nPREP: Print the PDF Excerpt from Equiano's Narrative and/or plan to have your student use Google Docs for this lesson.\n∞ PDF Link: From the Interesting Narrative\nOR\n∞ Link: Google Doc Template\n\nRead the section at the end of \"Nearer My Freedom\" about how the authors created the poetry in the book (or use the link below if not using the book, and click on the image which tells about how the authors created the verse).\n∞ Article Link: Found Verse\n\n• Today, read through the excerpt from Equiano's life (in the PDF or on Google Docs) and highlight the words and phrases you feel are particularly important to painting the scene and understanding the story. You might want to read the excerpt through once and then go back and read it again while highlighting/underlining. Next lesson, you'll use these to create your own found verse.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Found Verse Construction\nContinue with your found verse project today, either by hand or online, by taking the words and phrases you underlined or highlighted and putting them onto a separate piece of paper or a separate Google Doc. Play with the words to make your own found verse version of Equiano's chapter. Experiment with different line breaks and feel free to get rid of a phrase you had initially underlined or add a new one in. Read your work aloud to check if it flows logically and makes sense. Then read it to someone else and see what they think!",
-              "teacherNotes": "• REFERENCE\nLit/Mythology (G7-8, Lesson 18)\nBook: Nearer My Freedom*\n\n*Students do not need to be using the Lit/Mythology lesson plans to complete this assignment.",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Poetry - Found Verse\n\n➜ INTRO\nHave you ever heard of \"found poetry\"? Learn more with the article below.\n∞ Article Link: Found Poetry\n\n➜ WRITE\nPoets have used historical texts like William Bradford's History of Plimoth Plantation, newspapers, novels, and more to create found poems. The act of rearranging words, pulling words from different places together, and thinking about key images in a text is essentially a way to think more deeply about what you have read. For this assignment, just pick one passage from one of your favorite books as your source text. Use Little Women/Sir Gibbie if there isn't another book that comes to mind.\n\n• Decide your selected passage (keep it short - no more than 1-2 pages).\n• Highlight words or phrases you particularly like and/or which seem particularly important to the passage.\n• Type or write those words on a separate piece of paper and use them to write a poem.\n• You may choose whether to limit yourself to ONLY words found in your text or whether you want to add some of your own words as well.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Found Verse Construction\nContinue with your found verse project today, either by hand or online, by taking the words and phrases you underlined or highlighted and putting them onto a separate piece of paper or a separate Google Doc. Play with the words to make your own found verse version of the passage you chose. Experiment with different line breaks and feel free to get rid of a phrase you had initially underlined or add a new one in. Read your work aloud to check if it flows logically and makes sense. Then read it to someone else and see what they think!",
+              "teacherNotes": "• REFERENCE\nLiterature Reading Selections",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recIGpPfeA3qpmoNp",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=3&week=30",
               "links": [
                 {
-                  "text": "From the Interesting Narrative",
-                  "url": "https://www.dropbox.com/scl/fi/wxbg1kvf7c8rzo0cyk2r1/From-The-Interesting-Life-of-the-Life-of-Olaudah-Equiano-by-Himself.pdf?rlkey=m033hjqm6wfw743lk6ee3z8e5&st=v61260uq&dl=0"
-                },
-                {
-                  "text": "Google Doc Template",
-                  "url": "https://docs.google.com/document/d/1QrTppTAQXWzAfmCgY5l_eW6jGErDuLnCqcKFLjNTMHI/template/preview"
-                },
-                {
-                  "text": "Found Verse",
-                  "url": "https://lernerbooks.blog/2023/05/nearer-my-freedom-cover-design-historic-topic-contemporary-cover.html"
+                  "text": "Found Poetry",
+                  "url": "https://writenow.nwp.org/with-an-ear-to-the-ground-create-a-found-poem-3a18ad33e3e5"
                 }
               ]
             },
@@ -2199,11 +2197,16 @@
               "lessonLabel": "Lesson 120",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 120",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Poetry - Found Verse\n\n➜ INTRO\nHave you ever heard of \"found poetry\"? Learn more with the article below.\n∞ Article Link: Found Poetry\n\n➜ WRITE\nPoets have used historical texts like William Bradford's History of Plimoth Plantation, newspapers, novels, and more to create found poems. The act of rearranging words, pulling words from different places together, and thinking about key images in a text is essentially a way to think more deeply about what you have read. For this assignment, just pick one passage from one of your favorite books as your source text. Use Little Women/Sir Gibbie if there isn't another book that comes to mind.\n\n• Decide your selected passage (keep it short - no more than 1-2 pages).\n• Highlight words or phrases you particularly like and/or which seem particularly important to the passage.\n• Type or write those words on a separate piece of paper and use them to write a poem.\n• You may choose whether to limit yourself to ONLY words found in your text or whether you want to add some of your own words as well.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Found Verse Construction\nContinue with your found verse project today, either by hand or online, by taking the words and phrases you underlined or highlighted and putting them onto a separate piece of paper or a separate Google Doc. Play with the words to make your own found verse version of the passage you chose. Experiment with different line breaks and feel free to get rid of a phrase you had initially underlined or add a new one in. Read your work aloud to check if it flows logically and makes sense. Then read it to someone else and see what they think!",
+              "teacherNotes": "• REFERENCE\nLiterature Reading Selections",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recqA5ATnDxgG9Ygq",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=3&week=30",
+              "links": [
+                {
+                  "text": "Found Poetry",
+                  "url": "https://writenow.nwp.org/with-an-ear-to-the-ground-create-a-found-poem-3a18ad33e3e5"
+                }
+              ]
             },
             {
               "lessonId": "recONAwaBe8FKIzZG",
@@ -2215,8 +2218,8 @@
               "lessonLabel": "Lesson 121",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 121",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Point of View\nFrom your reading in Plutarch, write a composition from the point of view of the goddess Fortune, explaining her role in the story.\nOR\nPretend you are Jim and write a diary entry of the day's events in Ch.13-15.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poem/Expository\nCompose your own poem about a current event today (if you do, you'll be like Phillis Wheatley composing a poem about the Boston Massacre!).\nOR\nWrite about three causes of disloyalty (what loyalty forbids) and their effects. Give an example of each.",
-              "teacherNotes": "• REFERENCES\nComp #1\nPlutarch (Lesson 31)\nOR\nGeneral Lit (G7-8, Lesson 31)\nBook: Treasure Island\n\nComp #2\nEthics: Part 1 (Lesson 31)\nBook: Ourselves",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Point of View\nYou are Gaius Gracchus. Your brother is dead, his friends were executed, and you have just had a dream where Tiberius tells you, \"Brother, why dost thou prolong time...we were both predestined to one manner of life and death\" (p.191). How do you feel about the dream?\nOR\nChoose a character from a novel you have read this week and write a diary entry in their voice.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poem/Expository\nCompose your own poem about a current event today.\nOR\nWrite about three causes of disloyalty (what loyalty forbids) and their effects. Give an example of each.",
+              "teacherNotes": "• REFERENCES\nComp #1\nPlutarch (Lesson 31)\n\nComp #2\nEthics: Part 1 (Lesson 31)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recONAwaBe8FKIzZG",
               "lessonLinksUrl": "",
               "links": []
@@ -2263,8 +2266,8 @@
               "lessonLabel": "Lesson 124",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 124",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Point of View\nYou are Gaius Gracchus. Your brother is dead, his friends were executed, and you have just had a dream where Tiberius tells you, \"Brother, why dost thou prolong time...we were both predestined to one manner of life and death\" (p.191). How do you feel about the dream?\nOR\nChoose a character from a novel you have read this week and write a diary entry in their voice.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Poem/Expository\nCompose your own poem about a current event today.\nOR\nWrite about three causes of disloyalty (what loyalty forbids) and their effects. Give an example of each.",
+              "teacherNotes": "• REFERENCES\nComp #1\nPlutarch (Lesson 31)\n\nComp #2\nEthics: Part 1 (Lesson 31)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recE1ejUlGb0doW9J",
               "lessonLinksUrl": "",
               "links": []
@@ -2327,7 +2330,7 @@
               "lessonLabel": "Lesson 128",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 128",
-              "body": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Draft Descriptive Paragraph\nWrite a descriptive paragraph about something you observed in a science lab, a nature walk, a building you studied in Architecture, or a scene from one of your other books. Focus today on writing as many details as possible. Next assignment, you'll have time to edit and revise. It's often hard to think about grammar and style ideas while also trying to get details down on paper, so we'll separate that process into two different steps, as many writers do.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Revise Descriptive Paragraph\nRevise your work from Comp Assignment #1.\n• Type your work if you haven't already. \n• Look at your paragraph and see if you can improve its structure and content. Does it need a topic sentence, connecting words, another sentence or two added, a sentence taken away, or moved to a different place in the paragraph? Do you have enough concrete details that someone can imagine what you're describing? Add more if not!\n• Read your work aloud and check grammar and spelling.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=rech3Bo1SSjeCU1eI",
               "lessonLinksUrl": "",
@@ -2391,8 +2394,8 @@
               "lessonLabel": "Lesson 132",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 132",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Point of View\nImagine you are a parent who is trying to help your teen recognize and overcome Pride. What advice would you give your teen? Name 10 actions you would recommend to your teen to get away from the thought of himself or herself.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Creative Narration\nWrite a letter to a family member or a real or imaginary friend telling them about a book you read this year and why you liked it. Give them a brief overview of what the book is about, and then tell why you enjoyed it.\nOR \nRetell a scene from a recent reading as a poem, a scene from a play, or a comic strip.",
+              "teacherNotes": "• REFERENCE\nComp #1\nEthics: Part 2 (Lesson 33)\nBook: Ourselves",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recQe1ZCHomLK2JhG",
               "lessonLinksUrl": "",
               "links": []
@@ -2476,8 +2479,8 @@
               "lessonLabel": "Lesson 137",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 137",
-              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Tracing Argument\nSummarize Equiano's argument against slavery at the end of his book. What are his main points? Feel free to use the chapter in Nearer My Freedom as well as the fuller linked excerpt. \n∞ Article Link: Nearer My Freedom\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Catch Up Lesson\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
-              "teacherNotes": "• REFERENCE\nComp #1\nLit/Mythology (G7-8, Lesson 35)\nBook: Nearer My Freedom*\n\n*Students do not need to be up to date on lessons or using the Lit/Mythology lessons to complete this assignment.",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Cause and Effect\nOutline Douglas's story and the circumstances that prompt him to begin speaking and working as an abolitionist.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Catch Up Lesson\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": "• REFERENCE\nComp #1\nGeneral Lit (G7-8, Lesson 35)\nBook: Narrative of the Life of Frederick Douglass",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recFvr2SfdaVnRvPE",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciXEEWmZiKujNlo&term=3&week=35",
               "links": [
@@ -2529,8 +2532,8 @@
               "lessonLabel": "Lesson 140",
               "linkLabel": "Grammar/Comp",
               "title": "20m Grammar/Comp: Grade 8 - Lesson 140",
-              "body": "",
-              "teacherNotes": "",
+              "body": "➜ ⬚ 15m COMPOSITION ASSIGNMENT #1 - Cause and Effect\nOutline Douglas's story and the circumstances that prompt him to begin speaking and working as an abolitionist.\n\n➜ ⬚ 15m COMPOSITION ASSIGNMENT #2 - Catch Up Lesson\nUse this time to catch up on lessons in this or another course, or explore Extra Helpings.",
+              "teacherNotes": "• REFERENCE\nComp #1\nGeneral Lit (G7-8, Lesson 35)\nBook: Narrative of the Life of Frederick Douglass",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=reciXEEWmZiKujNlo&6J82c=recxk1cxOvh5s94A4",
               "lessonLinksUrl": "",
               "links": []
