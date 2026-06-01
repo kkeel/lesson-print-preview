@@ -21,7 +21,7 @@
   "extraHelpingsUrl": "",
   "hidePdf": "Do Not Show PDF",
   "syllabird": {
-    "status": "Needs Initial Import",
+    "status": "Do Not Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",
     "trackerTitleTemplate": "45m Latin 1 (Video Course)",
     "perWeek": 2
