@@ -24,7 +24,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recETS60so3nNTlXI",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recySQ1y12NNSPQww-bible-grades-4-6.pdf",
-  "pdfPrintingStatus": "Needs Update",
+  "manualPdfUrl": "",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "syllabird": {

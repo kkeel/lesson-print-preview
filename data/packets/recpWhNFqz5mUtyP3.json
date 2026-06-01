@@ -15,10 +15,11 @@
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recV53md70EJ7GRxT",
   "supplyListUrl": "",
-  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recpWhNFqz5mUtyP3-upper-spanish-level-2.pdf",
+  "pdfLinkUrl": "https://drive.google.com/file/d/1XcIu1C7zE6661lqDiI5_hEZc73ZPGnvy/view",
+  "manualPdfUrl": "https://drive.google.com/file/d/1XcIu1C7zE6661lqDiI5_hEZc73ZPGnvy/view",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

@@ -15,10 +15,11 @@
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec0LHKkuctt5GP2E",
   "supplyListUrl": "",
-  "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recTfLdszcLawcxSD-upper-spanish-level-4.pdf",
+  "pdfLinkUrl": "https://drive.google.com/file/d/16AtS738gQsndKrfDk3A6FRYEEcwEISbg/view",
+  "manualPdfUrl": "https://drive.google.com/file/d/16AtS738gQsndKrfDk3A6FRYEEcwEISbg/view",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "syllabird": {
     "status": "Needs Initial Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

@@ -20,7 +20,8 @@
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recqfjmCMc7Y12W6X",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recmjBBn6nJNI30QX-econ-civics-grade-11-u-s.pdf",
-  "pdfPrintingStatus": "Needs Update",
+  "manualPdfUrl": "",
+  "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "syllabird": {
@@ -898,7 +899,7 @@
         },
         {
           "term": "Term 2",
-          "content": "· Tell about the expansion of the United States into the southeast and the relocation of Tribal Nations. What actions did Congress, the President, and/or the Supreme Court take with regard to Removal? How did tribes respond to Removal efforts?\n\nOR\n\nTell about southern secession and the actions that Congress took in response to the outbreak of the Civil War and as part of reconstruction following the Civil War. Bonus: How many branches of government became involved in the reconstruction work, and what role did those branches play?"
+          "content": "· Reading PDF: Tell about the expansion of the United States into the southeast and the relocation of Tribal Nations. What actions did Congress, the President, and/or the Supreme Court take with regard to Removal? How did tribes respond to Removal efforts? \n                                                 OR \nTell about the Southern secession and the actions that Congress took in response to the outbreak of the Civil War and as part of Reconstruction following the Civil War. Bonus: How many branches of government became involved in the reconstruction work, and what role did those branches play?"
         },
         {
           "term": "Term 3",

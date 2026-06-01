@@ -60,7 +60,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-01T16:11:54.345Z",
+  "updatedAt": "2026-06-01T17:22:52.125Z",
   "terms": [
     {
       "termNumber": 1,
@@ -263,32 +263,6 @@
                 {
                   "text": "Example of a Venn Diagram",
                   "url": "https://cosmikegg.files.wordpress.com/2020/05/image-2.png"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "weekNumber": 35,
-          "weekLabel": "Week 11",
-          "lessons": [
-            {
-              "lessonId": "rec6NTakOdsCj1xwN",
-              "termNumber": 3,
-              "termLabel": "Term 3",
-              "weekNumber": 35,
-              "weekLabel": "Week 11",
-              "sequence": 137,
-              "sort": 303504,
-              "lessonLabel": "",
-              "linkLabel": "Grammar/Comp",
-              "title": "20m Grammar/Comp: Grade 8 - Lesson 137",
-              "topicTitle": "Grammar/Comp",
-              "anchor": "term-3-week-35-lesson-137",
-              "links": [
-                {
-                  "text": "Nearer My Freedom",
-                  "url": "https://brycchancarey.com/equiano/extract5.htm"
                 }
               ]
             }
