@@ -23,7 +23,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recvV8ooKSmahdrY7-language-study-grade-11.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recYI0GeDsrusfcUg",
   "hidePdf": "",
   "syllabird": {
@@ -1027,7 +1027,7 @@
                 },
                 {
                   "text": "Wix for Tomorrow",
-                  "url": "https://www.wix.com/tomorrow/classroom"
+                  "url": "https://www.wix.com/tomorrow"
                 }
               ]
             },
@@ -1184,7 +1184,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 52",
-              "body": "⍞ Materials: Advanced Academic Writing II\nEditing\n\n➜ REVISE\nTake your current event report from Lesson 51 and revise it. Work in this order: \n\n1. Global revisions (structure, transitions, content to add or change)\n2. Sentence-level revisions\n3. Formatting revisions\n\nFor this project, follow these formatting guidelines (adapted from Advanced Academic Writing II p.8-9. See sample paper on p.9 for a visual): \n\n• Set your font to Times New Roman, size 12.\n• Set a one-inch margin on all four sides.\n• Set all text to double-spaced.\n• Indent all paragraphs.\n• Left-justify the text (usually the default).\n• Put your name, your teacher's name, the course name (Composition: Grade 11), and the date on separate lines at the beginning of your paper. \n• Center the title of your paper (come up with one if you haven't yet).\n• Instead of in-text citations, link to the article you are referencing directly in your paper.",
+              "body": "⍞ Materials: Advanced Academic Writing II\nEditing\n\n➜ REVISE\nTake your current event report from Lesson 51 and revise it. Work in this order: \n\n1. Global revisions (structure, transitions, content to add or change)\n2. Sentence-level revisions\n3. Formatting revisions\n\nFor this project, follow these formatting guidelines (adapted from Advanced Academic Writing II, p.8-9- See sample paper on p.9 for a visual)\n\n• Set your font to Times New Roman, size 12.\n• Set a one-inch margin on all four sides.\n• Set all text to double-spaced.\n• Indent all paragraphs.\n• Left-justify the text (usually the default).\n• Put your name, your teacher's name, the course name (Composition: Grade 11), and the date on separate lines at the beginning of your paper. \n• Center the title of your paper (come up with one if you haven't yet).\n• Instead of in-text citations, link to the article you are referencing directly in your paper.",
               "teacherNotes": "★ STUDENT NOTE\nDepending on whether you like details, revision lessons are probably either your favorite or least favorite type of writing lesson. This is 100% normal. Most writers like some aspects of writing more (or less) than others. For instance, some famous authors, including Jane Austen, Albert Einstein, and Winston Churchill, struggled with spelling and grammar!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recXSKq4hCPRvxPoD",
               "lessonLinksUrl": "",
@@ -1326,7 +1326,7 @@
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 60",
               "body": "Tone/Imitation\n\n➜ WRITE\nHave you noticed any mannerisms in the authors you've read this year (in school or on your own time)? Try writing (or re-writing) a narration the way one of your favorite authors would. When you're done, read your narration aloud to someone else and see if they can guess the author you're imitating!\nOR\nWrite a 2-3 page manual of your own (following Christians Reading Classics).",
-              "teacherNotes": "REFERENCE\nAncient History (Lesson 29)",
+              "teacherNotes": "• REFERENCE\nAncient History (Lesson 29)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recsMBgsXCyXBiOpM",
               "lessonLinksUrl": "",
               "links": []
@@ -1359,14 +1359,18 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 62",
-              "body": "Literature Connection & Composition\n\nW.E.B Du Bois (who you might have read more about in Literature lessons) wrote a parody of My Country 'Tis of Thee. Read his poem and the original lyrics and then write a paragraph explaining how W.E.B. Du Bois's poem critiques the original.\n∞ Link: My Country 'Tis of Thee by W.E.B. Du Bois\n\nOR\nCompare W.E.B. Du Bois's poem to Frederick Douglass's \"What to the Slave is the Fourth of July?\" speech. \n∞ Link: What to the Slave Is the 4th of July?",
-              "teacherNotes": "REFERENCE \nFolk Songs (Lesson 15) \nGeneral Literature",
+              "body": "Literature Connection & Composition\n\n➜ READ\nW.E.B Du Bois (who you might have read more about in Literature lessons) wrote a parody of My Country 'Tis of Thee. Read his poem and the original lyrics.\n∞ Link: My Country 'Tis of Thee by W.E.B. Du Bois\n∞ Video Link: My Country 'Tis of Thee\n\n➜ WRITE\nWrite a paragraph explaining how W.E.B. Du Bois's poem critiques the original.\nOR\nCompare W.E.B. Du Bois's poem to Frederick Douglass's \"What to the Slave is the Fourth of July?\" speech. \n∞ Link: What to the Slave Is the 4th of July?",
+              "teacherNotes": "• REFERENCE\nFolk Songs (Lesson 15) \nGeneral Literature",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=rec1LgdLeI3xe2buT",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=2&week=16",
               "links": [
                 {
                   "text": "My Country 'Tis of Thee by W.E.B. Du Bois",
                   "url": "https://www.poetryfoundation.org/poems/43026/my-country-tis-of-thee"
+                },
+                {
+                  "text": "My Country 'Tis of Thee",
+                  "url": "https://www.youtube.com/watch?v=VKj7FLg3WVA"
                 },
                 {
                   "text": "What to the Slave Is the 4th of July?",
@@ -1402,7 +1406,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 64",
-              "body": "Technology-PowerPoint/Google Slides\n\n➜ VIEW, NARRATE, & DISCUSS\n∞ Video Link: Data Visualization\n \n➜ CREATE\nKeep the ideas from the lecture you heard in mind, and begin creating PowerPoint using one of the options below. You'll have another lesson to revise and finish your work.\n\n• Three favorite things you've learned so far this year (and why they're you're favorite)\n• Why [Book] is your favorite \n• How a science lab you did worked/the process of the lab, and the results\n• Introduce 3 significant historical characters or events all happening at the same time in the world\n• A different way to visualize some data based on the lecture you heard!\n\nHave fun experimenting!",
+              "body": "Technology-PowerPoint/Google Slides\n\n➜ VIEW, NARRATE, & DISCUSS\n∞ Video Link: Data Visualization\n \n➜ CREATE\nKeep the ideas from the lecture you heard in mind, and begin creating a PowerPoint using one of the options below. You'll have another lesson to revise and finish your work.\n\n• Three favorite things you've learned so far this year (and why they're your favorite)\n• Why [Book] is your favorite \n• How a science lab you did worked/the process of the lab, and the results\n• Introduce 3 significant historical characters or events all happening at the same time in the world\n• A different way to visualize some data based on the lecture you heard\n\nHave fun experimenting!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recs5jnpTXaFM9uF5",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=2&week=16",
@@ -1509,7 +1513,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 70",
-              "body": "⍞ Materials: Advanced Academic Writing II\nEssay-genre analysis\n\n➜ READ\nDating back to Aristotle, many authors and playwrights visualize the shape of a story or play in five parts. Read about or review this 5-part structure, then think (and look) back over what you've read in The Tempest. Does the play follow this general arc? Where would you identify the introduction, rising action, and climax? Explain.\n\n∞ Article Link: Five-Act Structure\n∞ Article Link: Five-Act Opt. 2\n\n➜ WRITE\nFor today, write your initial thoughts on the question above and where you see the various aspects of a five-act structure in The Tempest. Then go to the actual play and re-read relevant scenes. Look for lines that demonstrate this arc (or push back against the idea) and collect them in a document (make sure to gather the references for them as well - see Academic Writing II p.72-73 for examples of how to cite Shakespeare).",
+              "body": "Essay-genre analysis\n⍞ Materials: Advanced Academic Writing II\n\n➜ READ\nDating back to Aristotle, many authors and playwrights visualize the shape of a story or play in five parts. Read about or review this 5-part structure, then think (and look) back over what you've read in The Tempest. Does the play follow this general arc? Where would you identify the introduction, rising action, and climax? Explain.\n∞ Article Link: Five-Act Structure\n∞ Article Link: Five-Act Opt. 2\n\n➜ WRITE\nFor today, write your initial thoughts on the question above and where you see the various aspects of a five-act structure in The Tempest. Then go to the actual play and re-read relevant scenes. Look for lines that demonstrate this arc (or push back against the idea) and collect them in a document (make sure to gather the references for them as well - see Academic Writing II p.72-73 for examples of how to cite Shakespeare).",
               "teacherNotes": "• REFERENCE\nPlays/Shakespeare (Term 1)\nBook: The Tempest",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=reci5M080fWwSbGKy",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=2&week=18",
@@ -1552,8 +1556,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 72",
-              "body": "Poetry/Scene\n\n➜ WRITE\nTry writing a poem about one of your readings (or rewrite a narration) in Short Meter (four-line stanzas with a 6-6-8-6 syllable pattern). This is a common meter for hymns, and a favorite one of Emily Dickinson (See \"A Bird came down the Walk\").\nOR\nWrite a scene for a play or tell it graphic novel/comic style.",
-              "teacherNotes": "REFERENCE \nHistory of Literature (Lesson 17) \nEmily Dickinson",
+              "body": "Poetry/Scene\n\n➜ WRITE\nTry writing a poem about one of your readings (or rewrite a narration) in Short Meter (four-line stanzas with a 6-6-8-6 syllable pattern). This is a common meter for hymns, and a favorite one of Emily Dickinson (See \"A Bird came down the Walk\").\nOR\nWrite a scene for a play or tell it in graphic novel/comic style.",
+              "teacherNotes": "• REFERENCE\nHistory of Literature (Lesson 17) \nEmily Dickinson",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recZs6NAtpHRMJKGY",
               "lessonLinksUrl": "",
               "links": []
@@ -1603,7 +1607,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 75",
-              "body": "⍞ Materials: Advanced Academic Writing II\nRevision\n\n➜ REVISE\nNow that your Shakespeare paper (Lesson 70-71) has rested, revise it with fresh eyes. \n\nWork through the following levels of revision. Look back at previous revision lessons if you need to review specific steps for each of the first two levels of revision.\n\n1. Global revisions (structure, transitions, content to add or change)\n2. Sentence-level revisions\n3. Formatting revisions\n\nFor this project, follow these formatting guidelines (adapted from Advanced Academic Writing II p.8-9. See the sample paper on p.9 for a visual.)\n\n• Set your font to Times New Roman, size 12. \n• Set a one-inch margin on all four sides.\n• Set all text to double-spaced.\n• Indent all paragraphs.\n• Left-justify the text (usually the default).\n• Put your name, your teacher's name, the course name (Composition: Grade 11), and the date on separate lines at the beginning of your paper. \n• Center the title of your paper (come up with one if you haven't yet).\n• See Academic Writing II p.72-73, for examples of how to cite Shakespeare.",
+              "body": "Revision\n⍞ Materials: Advanced Academic Writing II\n\n➜ REVISE\nNow that your Shakespeare paper (Lesson 70-71) has rested, revise it with fresh eyes. \n\nWork through the following levels of revision. Look back at previous revision lessons if you need to review specific steps for each of the first two levels of revision.\n\n1. Global revisions (structure, transitions, content to add or change)\n2. Sentence-level revisions\n3. Formatting revisions\n\nFor this project, follow these formatting guidelines (adapted from Advanced Academic Writing II, p.8-9- see the sample paper on p.9 for a visual)\n\n• Set your font to Times New Roman, size 12. \n• Set a one-inch margin on all four sides.\n• Set all text to double-spaced.\n• Indent all paragraphs.\n• Left-justify the text (usually the default).\n• Put your name, your teacher's name, the course name (Composition: Grade 11), and the date on separate lines at the beginning of your paper. \n• Center the title of your paper (come up with one if you haven't yet).\n• See Academic Writing II p.72-73, for examples of how to cite Shakespeare.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recGaAPrsWVxiCCv9",
               "lessonLinksUrl": "",
@@ -1727,8 +1731,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 82",
-              "body": "Compare/Contrast\n\n➜ WRITE\nWrite a well-organized paragraph or two comparing The Aeneid's opening Invocation to the Muse (lines 1-13) to the openings of The Iliad and The Odyssey.\n∞ PDF Link: Iliad Opening Lines\n∞PDF Link: Odyssey Opening Lines\n• How is Virgil both imitating Homer and also doing something very new?",
-              "teacherNotes": "REFERENCE \nPoetry Reading 11-12 (Lesson 37)",
+              "body": "Compare/Contrast\n\n➜ WRITE\nWrite a well-organized paragraph or two comparing The Aeneid's opening Invocation to the Muse (lines 1-13) to the openings of The Iliad and The Odyssey.\n∞ PDF Link: Iliad Opening Lines\n∞ PDF Link: Odyssey Opening Lines\n\n• How is Virgil both imitating Homer and also doing something very new?",
+              "teacherNotes": "• REFERENCE\nPoetry Reading 11-12 (Lesson 37)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=rec7uatlUQ5WncVQC",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=2&week=21",
               "links": [
@@ -1770,7 +1774,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 84",
-              "body": "Editing\n\n➜ REVISE\nRevise your found poem from two sources (Lesson 74) or another poem from this term. \n\n1. Revisit the rules of the form you're using (if applicable).\n2. Read your poem aloud. Are there any grammar or spelling errors to fix? \n3. Does your poem follow the rules of its form? (Rhyme, meter, etc.) If you are breaking any of the rules, decide if you are breaking them for a reason to make a point, or if you need to work on finding a different word to fit the rhyme scheme or meter. \n4. Re-read the works your poem is based on. Is there anything you didn't get into the poem the first time that you want to add? Delete?\n5. Think about the flow of the ideas and images in your poem. Is there a better way to organize them? Does your poem have a logical flow?\n6. Imagery and metaphor are important in nearly all poems. What images and comparisons does your poem use, and are there any others that might capture an image or idea even more vividly? Think of at least two other images or comparisons you could use and try them out. Decide which is best and keep that.\n7. Jot down a few things you want your reader to walk away thinking or feeling after hearing your poem. Go read your poem aloud to someone (or two!) and ask them what their initial impressions are. If they are completely different than what you intended, consider what you might want to alter so that your purpose comes through more clearly.",
+              "body": "Editing\n\n➜ REVISE\nRevise your found poem from two sources (Lesson 74) or another poem from this term. \n\n1. Revisit the rules of the form you're using (if applicable).\n2. Read your poem aloud. Are there any grammar or spelling errors to fix? \n3. Does your poem follow the rules of its form? (Rhyme, meter, etc.) If you are breaking any of the rules, decide if you are breaking them for a reason to make a point, or if you need to work on finding a different word to fit the rhyme scheme or meter. \n4. Re-read the works your poem is based on. Is there anything you didn't get into the poem the first time that you want to add? Delete?\n5. Think about the flow of the ideas and images in your poem. Is there a better way to organize them? Does your poem have a logical flow?\n6. Imagery and metaphor are important in nearly all poems. What images and comparisons does your poem use, and are there any others that might capture an image or idea even more vividly? Think of at least two other images or comparisons you could use and try them out. Decide which is best and keep that.\n7. Jot down a few things you want your reader to walk away thinking or feeling after hearing your poem. Read your poem aloud to someone (or two!) and ask them what their initial impressions are. If they are completely different than what you intended, consider what you might want to alter so that your purpose comes through more clearly.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recpzSnwDruDOk0k0",
               "lessonLinksUrl": "",
@@ -1906,7 +1910,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 92",
-              "body": "⍞ Materials: Advanced Academic Writing II\nRevision\n\n➜ REVISE\nAs you revise your comparison and contrast paper from Lessons 87-88, envision someone reading your paper who is somewhat familiar with your topic but hasn't read your books. Try to see your paper through their eyes, and think of what they might need to know to understand what you've written. For some, this revision process is their favorite part, and you love making your paper look sleek and smooth. for others, it seems tedious. Either way, remember that this is a way to be kind to your reader and to stretch yourself.\n\nBig-Picture/Global Revision\n1. Are there other ideas you've had more recently that you'd like to add to your current events essay? Do that now.\n2. Revise your thesis now that you have written the rest of your essay. Is it clear and concise? \n3. Does your introduction include the main question and topic you are trying to address in your essay?\n4. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n5. Do your paragraphs flow well? Experiment with moving your key comparisons/contrasts in a different order. Which makes the most sense? \n6. Does each of your paragraphs tie back to your thesis?\n\nSentence-Level Revision\n1. Read your paper aloud and fix any grammar errors you hear and see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Give your essay a title.\n4. Make the main characters the subjects of sentences and important action verbs where possible.\n5. How well do your sentences flow? Put old information before new information in your sentences. \n6. Delete unnecessary words and change negatives to affirmatives.\n7. Make sure your sentences are complete, not fragments.\n8. Make sure your essay is consistently in 3rd person.\n\nFormatting Revisions\n1. For this project, follow the formatting guidelines in Advanced Academic Writing II p.8-9.\n2. Set your font to Times New Roman, size 12. \n3. Be sure to add your Works Cited page as a separate page after your essay, and format it with hanging indents. Remember, you can look up anything online if you've forgotten how to double space your paper, etc.\n\n➜ REFERENCE\nAdvanced Academic Writing II p.16-39, includes some helpful information on common grammar and usage mistakes.",
+              "body": "Revision\n⍞ Materials: Advanced Academic Writing II\n\n➜ REVISE\nAs you revise your comparison and contrast paper from Lessons 87-88, envision someone reading your paper who is somewhat familiar with your topic but hasn't read your books. Try to see your paper through their eyes, and think of what they might need to know to understand what you've written. For some, this revision process is their favorite part, and you love making your paper look sleek and smooth. For others, it seems tedious. Either way, remember that this is a way to be kind to your reader and to stretch yourself.\n\nBig-Picture/Global Revision\n1. Are there other ideas you've had more recently that you'd like to add to your current events essay? Do that now.\n2. Revise your thesis now that you have written the rest of your essay. Is it clear and concise? \n3. Does your introduction include the main question and topic you are trying to address in your essay?\n4. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n5. Do your paragraphs flow well? Experiment with moving your key comparisons/contrasts in a different order. Which makes the most sense? \n6. Does each of your paragraphs tie back to your thesis?\n\nSentence-Level Revision\n1. Read your paper aloud and fix any grammar errors you hear and see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Give your essay a title.\n4. Make the main characters the subjects of sentences and use important action verbs where possible.\n5. How well do your sentences flow? Put old information before new information in your sentences. \n6. Delete unnecessary words and change negatives to affirmatives.\n7. Make sure your sentences are complete, not fragments.\n8. Make sure your essay is consistently in 3rd person.\n\nFormatting Revisions\n1. For this project, follow the formatting guidelines in Advanced Academic Writing II p.8-9.\n2. Set your font to Times New Roman, size 12. \n3. Be sure to add your Works Cited page as a separate page after your essay, and format it with hanging indents. Remember, you can look up anything online if you've forgotten how to double-space your paper, etc.\n\n➜ REFERENCE\nAdvanced Academic Writing II p.16-39, includes some helpful information on common grammar and usage mistakes.",
               "teacherNotes": "• CONCISION NOTE\nRemember the 6 rules of Concision from Style: Basics of Clarity and Grace: \n1. Delete words that mean little or nothing. \n2. Delete words that repeat the meaning of other words. \n3. Delete words implied by other words. \n4. Replace a phrase with a word.\n5. Change negatives to affirmatives. \n6. Delete useless adjectives and adverbs.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=rec2pFeHCDIkF8bwr",
               "lessonLinksUrl": "",
@@ -2034,13 +2038,8 @@
               "body": "➜ WRITE\nPick one or two specific passages or verses from your Bible reading in the gospels. Look up the same passage in at least three different translations of the Bible. Then write an essay comparing and contrasting the different translations. Explain the different imagery and how the emphases come out differently. Biblegateway.com is a good online resource to use to compare translations if you do not have three different physical translations in your house.",
               "teacherNotes": "• REFERENCE\nNew Testament\nBook: NIV Cultural Backgrounds Study Bible, any other translations you like!",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=rec2kKk7u3XMizxd8",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=3&week=25",
-              "links": [
-                {
-                  "text": "Iliad Selections PDF",
-                  "url": "https://griersmusings.wordpress.com/wp-content/uploads/2018/10/homer_the_iliad_penguin_classics_deluxe_edition-robert-fagles.pdf"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "recfqU9fjtzRXpRau",
@@ -2087,7 +2086,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 102",
-              "body": "⍞ Materials: Communicating with Grace and Virtue\n\n➜ NOTE\nEach chapter has several sidebars and text boxes with extra material relevant to the topic but should be read after each section. Read the main text first, then skim back over the extra information to see if you want to read it.\n\n➜ READ, NARRATE, & DISCUSS\nCh.1",
+              "body": "⍞ Materials: Communicating with Grace and Virtue\n\n➜ NOTE\nEach chapter has several sidebars and text boxes with extra material relevant to the topic, but they should be read after each section. Read the main text first, then skim back over the extra information to see if you want to read it.\n\n➜ READ, NARRATE, & DISCUSS\nCh.1",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recOAm5vaVx6pbT3p",
               "lessonLinksUrl": "",
@@ -2104,7 +2103,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 103",
-              "body": "Scene Writing\n\n➜ WRITE\nWrite a section from Things Fall Apart, The Celebrated Jumping Frog of Calaveras County, The Gift of the Magi, The Aeneid (or another book of your choice) as a short play. You'll have two lesson periods to focus on this. Today, focus on sketching out the big picture. How many scenes will you include? (Remember, scenes can be short.) What will you focus on in each scene? What extra characters will you invent? Look at one of Shakespeare's plays or another play you've read to remind yourself how to format your writing.\n\nOnce you have a general idea of how you want your play to go (of course you'll tweak things as you go), start writing!\n\nHere is one example of how someone else turned part of Pride & Prejudice into a play.\n∞ PDF Link: Scenes by Pertwee",
+              "body": "Scene Writing\n\n➜ WRITE\nWrite a section from Things Fall Apart, The Celebrated Jumping Frog of Calaveras County, The Gift of the Magi, The Aeneid, or another book of your choice as a short play. You'll have two lesson periods to focus on this. Today, focus on sketching out the big picture. How many scenes will you include? (Remember, scenes can be short.) What will you focus on in each scene? What extra characters will you invent? Look at one of Shakespeare's plays or another play you've read to remind yourself how to format your writing.\n\nOnce you have a general idea of how you want your play to go (of course, you'll tweak things as you go), start writing!\n\nHere is one example of how someone else turned part of Pride & Prejudice into a play.\n∞ PDF Link: Scenes by Pertwee",
               "teacherNotes": "• REFERENCE \nGeneral Lit (Term 3) All books and short stories \nPoetry Reading (Term 3) Book: The Aeneid",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recNyltysQHqOKPIv",
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recvV8ooKSmahdrY7&term=3&week=26",
@@ -2177,7 +2176,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 107",
-              "body": "Style\n \n➜ WRITE\nWrite or re-write a narration as a poem, play, or 1st person narrative.",
+              "body": "Style\n \n➜ WRITE\nWrite or rewrite a narration as a poem, play, or 1st person narrative.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recW5626JmdbnbxAR",
               "lessonLinksUrl": "",
@@ -2194,7 +2193,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 108",
-              "body": "Technology/visual\n\n➜ CREATE\nMake a poster, infographic, a mind map, or any other sort of visual from your reading that you'd like to see another way. Use one of the ideas below or come up with your own. Draw or model it in 3-D by hand if desired first and if there is time left, try creating it with Canva.\n\n• Events in Jesus' life from your reading in the gospels.\n• Character map from Things Fall Apart, Shakespeare, or another reading!\n• Something from Science.\n• Connections between different books you've read this year.\n• Structure of an Epistle from the Bible.\n• Something from History or Geography.",
+              "body": "Technology/visual\n\n➜ CREATE\nMake a poster, infographic, mind map, or any other sort of visual from your reading that you'd like to see another way. Use one of the ideas below or come up with your own. Draw or model it in 3-D by hand if desired first, and if there is time left, try creating it with Canva.\n\n• Events in Jesus' life from your reading in the gospels\n• Character map from Things Fall Apart, Shakespeare, or another reading\n• Something from Science\n• Connections between different books you've read this year\n• Structure of an Epistle from the Bible\n• Something from History or Geography",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recEGLfdu1HnO3NwM",
               "lessonLinksUrl": "",
@@ -2318,8 +2317,8 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 115",
-              "body": "Newspaper Article\n\nCreate a newspaper article about one of the entertainers or sports you've read about in American History: Volume 2.\n\nOR\nCreate a newspaper article about another event you have read about recently in another History course.",
-              "teacherNotes": "REFERENCE \nU.S. History 9-12 (Lesson 55) \nBook: US History: Volume 2",
+              "body": "Newspaper Article\n\n➜ WRITE\nCreate a newspaper article about one of the entertainers or sports you've read about in American History: Volume 2.\nOR\nCreate a newspaper article about another event you have read about recently in another History course.",
+              "teacherNotes": "• REFERENCE \nU.S. History 9-12 (Lesson 55) \nBook: US History: Volume 2",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recvZSLl7PI4LcUgF",
               "lessonLinksUrl": "",
               "links": []
@@ -2352,7 +2351,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 117",
-              "body": "⍞ Materials: Steering the Craft \n\n➜ READ\nCh.9, p.100-111\n\n➜ PRACTICE\nComplete Exercise Nine, Part 2.",
+              "body": "⍞ Materials: Steering the Craft \n\n➜ READ\nCh.9, p.100-111\n\n➜ PRACTICE\nComplete Exercise 9, Part 2.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recA84V3q7hhe5HVI",
               "lessonLinksUrl": "",
@@ -2493,7 +2492,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 125",
-              "body": "⍞ Materials: Steering the Craft\n\n➜ READ\nCh.9, p.113-116\n\n➜ PRACTICE\nComplete Exercise Nine, (NOT) Optional Exercises; choose one.",
+              "body": "⍞ Materials: Steering the Craft\n\n➜ READ\nCh.9, p.113-116\n\n➜ PRACTICE\nComplete Exercise 9, (NOT) Optional Exercises; choose one.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recclMvTRxDCPAjIO",
               "lessonLinksUrl": "",
@@ -2527,7 +2526,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 127",
-              "body": "Essay - Characterization\n\n➜ WRITE\nDo you think Aeneas is in charge of his own actions, or is he being controlled by fate and the gods. Give reasons from your reading and cite line numbers.",
+              "body": "Essay - Characterization\n\n➜ WRITE\nDo you think Aeneas is in charge of his own actions, or is he being controlled by fate and the gods? Give reasons from your reading and cite line numbers.",
               "teacherNotes": "• REFERENCE \nPoetry Reading: Grades 9-12 (Lesson 64)",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=rec7DEA4th0kzjK1D",
               "lessonLinksUrl": "",
@@ -2595,7 +2594,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 131",
-              "body": "Essay\n\n➜ WRITE\nContinue writing your essay that you started in Lesson 128.",
+              "body": "Essay\n\n➜ WRITE\nContinue writing the essay that you started in Lesson 128.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recKiy7ZUk0tATkGJ",
               "lessonLinksUrl": "",
@@ -2612,7 +2611,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 132",
-              "body": "Editing\n\n➜ WRITE & REVISE\nContinue writing your essay (from Lesson 128 and 131) and spend time revising it. Work through big picture, sentence-level, and formatting revisions. Be sure to format your paper according to MLA guidelines, and don't forget a Works Cited page!",
+              "body": "Editing\n\n➜ WRITE & REVISE\nContinue writing your essay (from Lessons 128 and 131), and spend time revising it. Work through big picture, sentence-level, and formatting revisions. Be sure to format your paper according to MLA guidelines, and don't forget a Works Cited page!",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recyWRf7ezKe5k4xM",
               "lessonLinksUrl": "",
@@ -2629,7 +2628,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 133",
-              "body": "⍞ Materials: Steering the Craft \n\n➜ READ \nCh.10\n\n➜ PRACTICE\nComplete Exercise Ten.",
+              "body": "⍞ Materials: Steering the Craft \n\n➜ READ \nCh.10\n\n➜ PRACTICE\nComplete Exercise 10.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recj2C343wEJ1C1an",
               "lessonLinksUrl": "",
@@ -2697,7 +2696,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 137",
-              "body": "⍞ Materials: Steering the Craft \n\n➜ READ & NARRATE\nAppendix  \n• Consider setting up a peer group if you are interested. How might a writing group be helpful in a writer's association or a college setting?\n\n➜ PRACTICE\nCh.10\n• Repeat Exercise Ten.",
+              "body": "⍞ Materials: Steering the Craft \n\n➜ READ & NARRATE\nAppendix  \n\n• Consider setting up a peer group if you are interested. How might a writing group be helpful in a writer's association or a college setting?\n\n➜ PRACTICE\nCh.10\nRepeat Exercise 10.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recxSzgv8eN7z30vZ",
               "lessonLinksUrl": "",
@@ -2748,7 +2747,7 @@
               "lessonLabel": "",
               "linkLabel": "Composition",
               "title": "40m Composition: Grade 11 - Lesson 140",
-              "body": "⍞ Materials: Advanced Academic Writing II\nRevision\n\n➜ REVISE\nRevise and edit your character sketch of Odysseus from the last lesson. \n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your narration? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?\n4. Consider formatting your character sketch as an essay with an intro, body, and conclusion (not required).\n\nSentence-Level Revision\n1. Read your narration aloud and fix any grammar or spelling errors you hear or see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Make the main characters the subjects of sentences and important action verbs as possible.\n4. How well do your sentences flow? Put old information before new information in your sentences. \n5. Delete unnecessary words and change negatives to affirmatives.\n6. Read your work aloud again and revise to improve the shape and structure of your sentences.\n\nFormatting Revisions\n1. For this project, follow the formatting guidelines in Advanced Academic Writing II p.8-9. \n2. Set your font to Times New Roman, size 12. \n3. Be sure to add your Works Cited page as a separate page after your essay, and format it with hanging indents. Remember, you can look up anything online if you've forgotten how to double-space your paper, etc.\n\n➜ REFERENCE\nAdvanced Academic Writing II p.16-39, includes some helpful information on common grammar and usage mistakes.",
+              "body": "Revision\n⍞ Materials: Advanced Academic Writing II\n\n➜ REVISE\nRevise and edit your character sketch of Odysseus from the last lesson. \n\nBig-Picture Revision\n1. Are there other ideas you've had more recently that you'd like to add to your narration? Do that now.\n2. Look at your paragraphs. Are they indented and focused around one idea each? Describe that main idea in one sentence and consider making that the first sentence of your paragraph.\n3. Try moving your paragraphs around in a different order. What order do you think might make the most sense to someone reading your words?\n4. Consider formatting your character sketch as an essay with an intro, body, and conclusion (not required).\n\nSentence-Level Revision\n1. Read your narration aloud and fix any grammar or spelling errors you hear or see.\n2. Use Grammarly or another spell checker to find any other punctuation or spelling issues and fix those.\n3. Make the main characters the subjects of sentences and use important action verbs as possible.\n4. How well do your sentences flow? Put old information before new information in your sentences. \n5. Delete unnecessary words and change negatives to affirmatives.\n6. Read your work aloud again and revise to improve the shape and structure of your sentences.\n\nFormatting Revisions\n1. For this project, follow the formatting guidelines in Advanced Academic Writing II p.8-9. \n2. Set your font to Times New Roman, size 12. \n3. Be sure to add your Works Cited page as a separate page after your essay, and format it with hanging indents. Remember, you can look up anything online if you've forgotten how to double-space your paper, etc.\n\n➜ REFERENCE\nAdvanced Academic Writing II, p.16-39, includes some helpful information on common grammar and usage mistakes.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recC9UFboe5SqAjFU&6J82c=recZcIdqHlRvX067h",
               "lessonLinksUrl": "",
@@ -2833,15 +2832,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Composition: Grade 11\n· Steering the Craft: What can you say about “the sound of your writing,” “punctuation and grammar,” or “sentence length and complex syntax”?\n\n\n· Steering the Craft: Explain the use of repetition, rhythm, and echoes (structural repetition) in writing.\n\n\n· Name three logical fallacies you learned this term and give examples of each."
+          "content": "Composition: Grade 11\n· Steering the Craft: What can you say about “the sound of your writing,” “punctuation and grammar,” or “sentence length and complex syntax”?\n\n· Steering the Craft: Explain the use of repetition, rhythm, and echoes (structural repetition) in writing.\n\n· Name three logical fallacies you learned this term and give examples of each."
         },
         {
           "term": "Term 2",
-          "content": "Composition: Grade 11\n· Steering the Craft: Tell why “the person and the tense of the verb matter.”\n\n· Steering the Craft: Explain the differences and use of point of view and voice in writing; give examples from this term's readings.\n\n\n· Why do citation systems exist? Explain plagiarism and how to avoid it."
+          "content": "Composition: Grade 11\n· Steering the Craft: Tell why “the person and the tense of the verb matter.”\n\n· Steering the Craft: Explain the differences and use of point of view and voice in writing; give examples from this term's readings.\n\n· Why do citation systems exist? Explain plagiarism and how to avoid it."
         },
         {
           "term": "Term 3",
-          "content": "Composition: Grade 11\n· Steering the Craft: Explain what Le Guin means by “the world is full of stories” and tell about “invisible exposition.”\n\n\n· Steering the Craft: Explain “Crowding and Leaping”.\n\n· Describe your favorite writing assignment from the term or year. Did you find that writing helped you think more deeply about your topic?"
+          "content": "Composition: Grade 11\n· Steering the Craft: Explain what Le Guin means by “the world is full of stories” and tell about “invisible exposition.”\n\n· Steering the Craft: Explain “Crowding and Leaping”.\n\n· Describe your favorite writing assignment from the term or year. Did you find that writing helped you think more deeply about your topic?"
         }
       ]
     }

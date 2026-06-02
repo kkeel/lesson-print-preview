@@ -5665,7 +5665,7 @@
               "id": "recCZZuqI6EPj1891",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recCZZuqI6EPj1891",
               "title": "20m French Picture Study – Lesson 32",
-              "subtitle": "Picture 9: a la compagne",
+              "subtitle": "Picture 9: à la campagne",
               "lessonType": "Picture Study - Intro",
               "term": "3",
               "week": "32",
@@ -5841,7 +5841,7 @@
               "id": "recvStgxhxzanqT1F",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recvStgxhxzanqT1F",
               "title": "20m French Picture Study – Lesson 33",
-              "subtitle": "Picture 9: a la compagne",
+              "subtitle": "Picture 9: à la campagne",
               "lessonType": "Picture Study - Practice",
               "term": "3",
               "week": "33",
@@ -6341,7 +6341,7 @@
               "id": "recJkm3lAOdNmLwgK",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recJkm3lAOdNmLwgK",
               "title": "20m French Picture Study – Lesson 35",
-              "subtitle": "Picture 7, 8, & 9: L'impressionnisme, le train, a la compagne",
+              "subtitle": "Picture 7, 8, & 9: L'impressionnisme, le train, à la campagne",
               "lessonType": "Term Review - Picture Study",
               "term": "3",
               "week": "35",
@@ -18234,8 +18234,58 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recwPRnPFTZzW6Fiq",
+                  "text": "les pattes",
+                  "translation": "legs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "rec0kf2qLCb3ZLMgZ",
+                  "text": "une butte",
+                  "translation": "a butte",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recARCrC2mtwXUZUx",
+                  "text": "la poussière",
+                  "translation": "the dust",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recSGj9rlGQxwpmdk",
+                  "text": "une montagne",
+                  "translation": "a mountain",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recWaQDJsjwtQxXKx",
+                  "text": "la terre",
+                  "translation": "the ground",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18309,8 +18359,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18384,8 +18434,58 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "rec2aWLBmP2IOG2Gi",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "recb3vsXY7wXT2EwP",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reckV3vleYtsOO6hs",
+                  "text": "clair",
+                  "translation": "clear",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reczFMYHHbZHSNKBz",
+                  "text": "une giraffe",
+                  "translation": "giraffe",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reclirHAlU4US7XSS",
+                  "text": "les moustaches",
+                  "translation": "whiskers",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18459,8 +18559,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18534,8 +18634,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -18544,8 +18644,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19037,8 +19137,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -19047,8 +19147,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -23187,8 +23287,58 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 5",
+                "set": "Set 5"
+              },
+              {
+                "id": "recwPRnPFTZzW6Fiq",
+                "text": "les pattes",
+                "translation": "legs",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 5",
+                "set": "Set 5"
+              },
+              {
+                "id": "rec0kf2qLCb3ZLMgZ",
+                "text": "une butte",
+                "translation": "a butte",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 5",
+                "set": "Set 5"
+              },
+              {
+                "id": "recARCrC2mtwXUZUx",
+                "text": "la poussière",
+                "translation": "the dust",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 5",
+                "set": "Set 5"
+              },
+              {
+                "id": "recSGj9rlGQxwpmdk",
+                "text": "une montagne",
+                "translation": "a mountain",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 5",
+                "set": "Set 5"
+              },
+              {
+                "id": "recWaQDJsjwtQxXKx",
+                "text": "la terre",
+                "translation": "the ground",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23197,8 +23347,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23207,8 +23357,58 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 6",
+                "set": "Set 6"
+              },
+              {
+                "id": "rec2aWLBmP2IOG2Gi",
+                "text": "le ciel",
+                "translation": "the sky",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 6",
+                "set": "Set 6"
+              },
+              {
+                "id": "recb3vsXY7wXT2EwP",
+                "text": "bleu",
+                "translation": "blue",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 6",
+                "set": "Set 6"
+              },
+              {
+                "id": "reckV3vleYtsOO6hs",
+                "text": "clair",
+                "translation": "clear",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 6",
+                "set": "Set 6"
+              },
+              {
+                "id": "reczFMYHHbZHSNKBz",
+                "text": "une giraffe",
+                "translation": "giraffe",
+                "language": "French",
+                "type": "Literature",
+                "sequence": 0,
+                "label": "French Literature Vocab - Set 6",
+                "set": "Set 6"
+              },
+              {
+                "id": "reclirHAlU4US7XSS",
+                "text": "les moustaches",
+                "translation": "whiskers",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23217,8 +23417,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23227,8 +23427,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23237,8 +23437,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23307,8 +23507,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -23317,8 +23517,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -25568,8 +25768,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25643,8 +25843,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25718,8 +25918,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25793,8 +25993,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25868,8 +26068,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -25878,8 +26078,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -26371,8 +26571,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -26381,8 +26581,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -30521,8 +30721,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30531,8 +30731,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30541,8 +30741,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30551,8 +30751,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30561,8 +30761,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30571,8 +30771,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30641,8 +30841,8 @@
               },
               {
                 "id": "recdXcB8ZMREJ4Qvs",
-                "text": "Lit Vocab Set 5",
-                "translation": "",
+                "text": "un âne",
+                "translation": "a donkey",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -30651,8 +30851,8 @@
               },
               {
                 "id": "receeGX6VU3832KXB",
-                "text": "Lit Vocab Set 6",
-                "translation": "",
+                "text": "un lion",
+                "translation": "a lion",
                 "language": "French",
                 "type": "Literature",
                 "sequence": 0,
@@ -41190,8 +41390,58 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recwPRnPFTZzW6Fiq",
+                  "text": "les pattes",
+                  "translation": "legs",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "rec0kf2qLCb3ZLMgZ",
+                  "text": "une butte",
+                  "translation": "a butte",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recARCrC2mtwXUZUx",
+                  "text": "la poussière",
+                  "translation": "the dust",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recSGj9rlGQxwpmdk",
+                  "text": "une montagne",
+                  "translation": "a mountain",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 5",
+                  "set": "Set 5"
+                },
+                {
+                  "id": "recWaQDJsjwtQxXKx",
+                  "text": "la terre",
+                  "translation": "the ground",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -41268,8 +41518,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -41668,8 +41918,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -41746,8 +41996,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -42168,8 +42418,58 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "rec2aWLBmP2IOG2Gi",
+                  "text": "le ciel",
+                  "translation": "the sky",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "recb3vsXY7wXT2EwP",
+                  "text": "bleu",
+                  "translation": "blue",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reckV3vleYtsOO6hs",
+                  "text": "clair",
+                  "translation": "clear",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reczFMYHHbZHSNKBz",
+                  "text": "une giraffe",
+                  "translation": "giraffe",
+                  "language": "French",
+                  "type": "Literature",
+                  "sequence": 0,
+                  "label": "French Literature Vocab - Set 6",
+                  "set": "Set 6"
+                },
+                {
+                  "id": "reclirHAlU4US7XSS",
+                  "text": "les moustaches",
+                  "translation": "whiskers",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -42246,8 +42546,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -42668,8 +42968,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -42746,8 +43046,8 @@
               "vocab": [
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -43373,8 +43673,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -43383,8 +43683,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -43461,8 +43761,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -43471,8 +43771,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -47199,8 +47499,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -47209,8 +47509,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -47637,8 +47937,8 @@
               "vocab": [
                 {
                   "id": "recdXcB8ZMREJ4Qvs",
-                  "text": "Lit Vocab Set 5",
-                  "translation": "",
+                  "text": "un âne",
+                  "translation": "a donkey",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -47647,8 +47947,8 @@
                 },
                 {
                   "id": "receeGX6VU3832KXB",
-                  "text": "Lit Vocab Set 6",
-                  "translation": "",
+                  "text": "un lion",
+                  "translation": "a lion",
                   "language": "French",
                   "type": "Literature",
                   "sequence": 0,
@@ -52251,7 +52551,7 @@
               "id": "recCZZuqI6EPj1891",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recCZZuqI6EPj1891",
               "title": "20m French Picture Study – Lesson 32",
-              "subtitle": "Picture 9: a la compagne",
+              "subtitle": "Picture 9: à la campagne",
               "lessonType": "Picture Study - Intro",
               "term": "3",
               "week": "32",
@@ -52760,7 +53060,7 @@
               "id": "recvStgxhxzanqT1F",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recvStgxhxzanqT1F",
               "title": "20m French Picture Study – Lesson 33",
-              "subtitle": "Picture 9: a la compagne",
+              "subtitle": "Picture 9: à la campagne",
               "lessonType": "Picture Study - Practice",
               "term": "3",
               "week": "33",
@@ -54045,7 +54345,7 @@
               "id": "recJkm3lAOdNmLwgK",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pag8NJhnDnNTMaeqj?gc0nn=recJkm3lAOdNmLwgK",
               "title": "20m French Picture Study – Lesson 35",
-              "subtitle": "Picture 7, 8, & 9: L'impressionnisme, le train, a la compagne",
+              "subtitle": "Picture 7, 8, & 9: L'impressionnisme, le train, à la campagne",
               "lessonType": "Term Review - Picture Study",
               "term": "3",
               "week": "35",

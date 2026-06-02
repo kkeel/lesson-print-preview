@@ -27,7 +27,7 @@
   "manualPdfUrl": "",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
