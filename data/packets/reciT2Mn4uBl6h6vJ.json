@@ -25,7 +25,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reciT2Mn4uBl6h6vJ-history-grades-11-12-canada.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
   "syllabird": {
@@ -307,11 +307,16 @@
               "lessonLabel": "",
               "linkLabel": "Canadian History",
               "title": "40m Canadian History: Grades 11-12 - Lesson 1",
-              "body": "",
-              "teacherNotes": "",
+              "body": "Introduction\n⍞ Materials: A History of Canada in Ten Maps\n\n✂ GATHER SUPPLIES: You will need a notebook for Canadian history where you will be writing and drawing. We recommend dot grid and blank notebooks, but any kind will do.\n\nPREP: Print a copy of the blank map of Canada without borders. You can use this together with your notebook to mark places and chart routes throughout this course.\n∞ Map Link: Printable Map of Canada without Borders\n\n➜ INTRO\nIn this course, we will learn about the history of Canada between 1650-1800. The five books are intended to work together to give a chronological overview of this historical period. The nineteenth century opened with \nMany of the readings for Canadian History this year describe different kinds of\nencounters: between Indigenous peoples and European explorers and\nsettlers, between explorers and uncharted areas of North America,\nbetween the French and the English, and between the British and\nAmericans.\n\n➜ DISCUSS\nWhat do you remember about Canadian History before 1800? What do you already know about the period between 1800-1900? Jot down a few notes for yourself of any people, places, or events that you think might be relevant. Also, write down any questions you might have about this period of Canadian history.\n\n➜ READ\np.1-19 \"Geographers. . .crowd into the edges\" - \"is an epic one.\"\n\n➜ NARRATE\nNarrate in a way that helps you interact with the ideas in the reading. For some, that might be narrating orally or silently to yourself, in writing, by drawing a map, a diagram or a picture, writing a diary/letter from the point of view of one of the characters, describing what happened, or writing a bulleted list of points and questions. For others, it might be helpful to make marks in the book as you read and then narrate as you look at what you marked in the chapter. Experiment and see what works well for you, and you can vary your approach week to week. Also, strive to make connections to ideas, events, and people you have come across in previous readings you have done.",
+              "teacherNotes": "• EXTRA HELPING\nIf you would like to watch a linear, narrative recounting of the historical events of 1800-1900 to supplement your studies this term, look for episodes of CBC's Canada: A People's History (2000-2001) at your local library or online. The following episodes cover the period of our history rotation this year:\nEpisode 5: A Question of Loyalties (1775-1815)\nEpisode 6: The Pathfinders (1670-1850)\nEpisode 7: Rebellion and Reform (1815-1850)\nEpisode 8: The Great Enterprise (1850-1867)\nEpisode 9: From Sea to Sea (1867-1873)\nEpisode 10: Taking the West (1873-1896)\n∞ Video Link: Canada: A People's History",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recVKX5urW9nTXPjR&6J82c=recw6t0ltvU4dFLSD",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=reciT2Mn4uBl6h6vJ&term=1&week=1",
+              "links": [
+                {
+                  "text": "Canada: A People's History",
+                  "url": "https://archive.org/details/canada-a-peoples-history-2000-2001/Canada%3A+A+People's+History+S01E05.mp4"
+                }
+              ]
             },
             {
               "lessonId": "recbY9f2hFxXC6L3u",
