@@ -126,11 +126,67 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     return String(a.title || "").localeCompare(String(b.title || ""));
   });
   
-  return {
+    return {
     stories,
     songsRhymes,
-    glossary
+    glossary,
+    studentLiteraturePages: buildMLStudentLiteraturePages(lessonSets)
   };
+}
+
+function buildMLStudentLiteraturePages(lessonSets = []) {
+  const pagesByKey = new Map();
+
+  lessonSets.forEach(lessonSet => {
+    const lessonSetTitle = String(lessonSet.title || "").toLowerCase();
+
+    if (!lessonSetTitle.includes("literature")) return;
+
+    (lessonSet.lessons || []).forEach(lesson => {
+      const lessonType = String(lesson.lessonType || "").toLowerCase();
+
+      if (lessonType.includes("exam")) return;
+
+      const storyLines = (lesson.sentences || [])
+        .filter(line =>
+          String(line.type || "").toLowerCase().includes("literature") ||
+          String(line.sentenceType || "").toLowerCase().includes("story")
+        )
+        .sort((a, b) => Number(a.sequence || 0) - Number(b.sequence || 0))
+        .slice(0, 6);
+
+      if (!storyLines.length) return;
+
+      const lessonNumber =
+        lesson.lessonLabel ||
+        (lesson.sequence ? `Lesson ${lesson.sequence}` : "Lesson");
+
+      const key = [
+        lesson.language || lessonSet.language || "",
+        lesson.term || "",
+        lesson.week || "",
+        lesson.subtitle || "",
+        storyLines.map(line => line.id || line.sentence).join("|")
+      ].join("::");
+
+      if (pagesByKey.has(key)) return;
+
+      pagesByKey.set(key, {
+        id: lesson.id,
+        lessonNumber,
+        title: lesson.title,
+        subtitle: lesson.subtitle,
+        language: lesson.language || lessonSet.language,
+        term: lesson.term,
+        week: lesson.week,
+        weekLabel: lesson.weekLabel,
+        lines: storyLines
+      });
+    });
+  });
+
+  return [...pagesByKey.values()]
+    .sort((a, b) => Number(a.week || 0) - Number(b.week || 0));
 }
 
 function getMLStoryFirstSet(story = {}) {
@@ -351,6 +407,77 @@ function renderMLStoryLine(line) {
   `;
 }
 
+function renderMLStudentLiteraturePages(pages = []) {
+  if (!pages.length) return "";
+
+  return `
+    <div
+      class="page-flow ml-appendix-page ml-student-literature-section section-break"
+      id="ml-student-literature-pages"
+    >
+      <section class="ml-student-notebook-section">
+        ${pages.map(page => `
+          <div class="ml-student-spread">
+            ${renderMLStoryboardPage(page)}
+            ${renderMLCopyworkPage(page)}
+          </div>
+        `).join("")}
+      </section>
+    </div>
+  `;
+}
+
+function renderMLStoryboardPage(page = {}) {
+  return `
+    <section class="ml-student-page ml-storyboard-page">
+      <header class="ml-student-page-header">
+        Literature – ${escapeHtml(page.lessonNumber || "Lesson")} Storyboard
+      </header>
+
+      <div class="ml-appendix-top-rule"></div>
+
+      <div class="ml-storyboard-boxes">
+        <div class="ml-storyboard-box"></div>
+        <div class="ml-storyboard-box"></div>
+        <div class="ml-storyboard-box"></div>
+      </div>
+    </section>
+  `;
+}
+
+function renderMLCopyworkPage(page = {}) {
+  const slots = Array.from({ length: 6 }, (_, index) =>
+    (page.lines || [])[index] || null
+  );
+
+  return `
+    <section class="ml-student-page ml-copywork-page">
+      <header class="ml-student-page-header">
+        Literature – ${escapeHtml(page.lessonNumber || "Lesson")} Copywork
+      </header>
+
+      <div class="ml-appendix-top-rule"></div>
+
+      <div class="ml-copywork-slots">
+        ${slots.map(renderMLCopyworkSlot).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function renderMLCopyworkSlot(line) {
+  return `
+    <div class="ml-copywork-slot">
+      <div class="ml-copywork-prompt">
+        ${line ? escapeHtml(line.sentence || "") : ""}
+      </div>
+
+      <div class="ml-copywork-guide-line"></div>
+      <div class="ml-copywork-write-line"></div>
+    </div>
+  `;
+}
+
 function renderMLSongResource(song) {
   const languageLabel = song.language || "Spanish/French";
 
@@ -483,11 +610,13 @@ function renderMLGlossarySet(setGroup) {
 }
 
 function renderMLAppendices(appendices = {}) {
+  function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
   const hasGlossary = (appendices.glossary || []).length;
+  const hasStudentLiteraturePages = (appendices.studentLiteraturePages || []).length;
 
-  if (!hasStories && !hasSongs && !hasGlossary) {
+  if (!hasStories && !hasSongs && !hasGlossary && !hasStudentLiteraturePages) {
     return "";
   }
 
@@ -533,6 +662,10 @@ function renderMLAppendices(appendices = {}) {
             </div>
           </section>
         </div>
+      ` : ""}
+
+      ${hasStudentLiteraturePages ? `
+        ${renderMLStudentLiteraturePages(appendices.studentLiteraturePages || [])}
       ` : ""}
     </section>
   `;
