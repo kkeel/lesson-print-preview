@@ -229,6 +229,12 @@ function renderMLPreviewControls(data) {
   });
 }
 
+function hasMLResourceType(section, resourceKey) {
+  return (section.lessonSets || []).some(lessonSet =>
+    (lessonSet.resources?.[resourceKey] || []).length
+  );
+}
+
 function hasMLStudentLiteraturePages(section) {
   return (section.lessonSets || []).some(lessonSet => {
     const lessonSetTitle = String(lessonSet.title || "").toLowerCase();
