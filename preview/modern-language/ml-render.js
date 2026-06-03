@@ -411,19 +411,19 @@ function renderMLStudentLiteraturePages(pages = []) {
   if (!pages.length) return "";
 
   return `
-    <div
-      class="page-flow ml-appendix-page ml-student-literature-section section-break"
-      id="ml-student-literature-pages"
-    >
-      <section class="ml-student-notebook-section">
-        ${pages.map(page => `
-          <div class="ml-student-spread">
+    <section class="ml-student-literature-section section-break" id="ml-student-literature-pages">
+      ${pages.map(page => `
+        <div class="ml-student-spread">
+          <div class="page-flow ml-student-page-flow ml-storyboard-page-flow">
             ${renderMLStoryboardPage(page)}
+          </div>
+
+          <div class="page-flow ml-student-page-flow ml-copywork-page-flow">
             ${renderMLCopyworkPage(page)}
           </div>
-        `).join("")}
-      </section>
-    </div>
+        </div>
+      `).join("")}
+    </section>
   `;
 }
 
@@ -446,9 +446,7 @@ function renderMLStoryboardPage(page = {}) {
 }
 
 function renderMLCopyworkPage(page = {}) {
-  const slots = Array.from({ length: 6 }, (_, index) =>
-    (page.lines || [])[index] || null
-  );
+  const slots = (page.lines || []).slice(0, 6);
 
   return `
     <section class="ml-student-page ml-copywork-page">
