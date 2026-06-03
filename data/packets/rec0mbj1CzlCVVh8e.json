@@ -19,7 +19,7 @@
   "manualPdfUrl": "https://drive.google.com/file/d/1gt_CofN2CWja5ngimAQ-VRjeIgyC00JZ/view",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",

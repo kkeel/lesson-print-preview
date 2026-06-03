@@ -159,6 +159,19 @@
           "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZ0DXfFP97QArDQ",
           "groups": [
             {
+              "title": "U.S. History: Grades 4-6",
+              "type": "topic",
+              "links": [
+                {
+                  "id": "recs9xNrO4b0YsAgh",
+                  "label": "U.S. History: Grades 4-6 Student Lessons (No Answers)",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "",
+                  "sourceTitle": "U.S. History: Grades 4-6"
+                }
+              ]
+            },
+            {
               "title": "Related Course Quick Links",
               "type": "course",
               "links": [

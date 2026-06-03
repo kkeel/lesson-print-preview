@@ -68,7 +68,7 @@
               "label": "Lower French: Grades 1-6",
               "grade": "1-6",
               "scheduleInfo": "Lower French: Grades 1-6\n3 times/week 20 min\n5 times/week 20 min",
-              "books": "French: Student Notebook||Linnea in Monet's Garden"
+              "books": "French: Student Notebook||Linnea in Monet's Garden||Aesop's Fables"
             }
           ],
           "weeklyView": {
@@ -112,6 +112,10 @@
                 {
                   "title": "Linnea in Monet's Garden",
                   "resourceId": "rec5EgFFy7cprp5gU"
+                },
+                {
+                  "title": "Aesop's Fables",
+                  "resourceId": "rec1PLwgnRIEyeMRE"
                 }
               ]
             }
@@ -18992,8 +18996,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -19189,7 +19193,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -19231,7 +19235,7 @@
               "sentences": [
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -19242,7 +19246,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -19253,7 +19257,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -19264,7 +19268,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -19325,7 +19329,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -19367,7 +19371,7 @@
               "sentences": [
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19378,7 +19382,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19389,7 +19393,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19400,7 +19404,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19521,7 +19525,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -19563,7 +19567,7 @@
               "sentences": [
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -19574,7 +19578,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -19585,7 +19589,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -19596,7 +19600,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -19837,7 +19841,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -19956,7 +19960,7 @@
                 },
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -19967,7 +19971,7 @@
                 },
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19978,7 +19982,7 @@
                 },
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -20033,8 +20037,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -20143,7 +20147,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -20154,7 +20158,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -20165,7 +20169,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -20176,7 +20180,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -20187,7 +20191,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -20198,7 +20202,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -20209,7 +20213,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -20220,7 +20224,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -20231,7 +20235,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -20364,7 +20368,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -20375,7 +20379,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -20386,7 +20390,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -20489,7 +20493,7 @@
               "sentences": [
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -20500,7 +20504,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -20511,7 +20515,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -20614,7 +20618,7 @@
               "sentences": [
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -20625,7 +20629,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -20636,7 +20640,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -20647,7 +20651,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -20750,7 +20754,7 @@
               "sentences": [
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -20761,7 +20765,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -20772,7 +20776,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -21969,7 +21973,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -21980,7 +21984,7 @@
                 },
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -21991,7 +21995,7 @@
                 },
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -22002,7 +22006,7 @@
                 },
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -22079,7 +22083,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -22090,7 +22094,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -22101,7 +22105,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -22112,7 +22116,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -22123,7 +22127,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -22134,7 +22138,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -22145,7 +22149,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -22156,7 +22160,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -22167,7 +22171,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -22867,7 +22871,7 @@
                     "id": "recOLsJ6Ja0sGDLSl",
                     "reference": "Set 21 Line 1",
                     "lineNumber": 1,
-                    "sentence": "French Story Lines - Set 21",
+                    "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                     "translation": "Two proud goats happened to meet",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -22880,7 +22884,7 @@
                     "id": "recfcPM5zbSEWO8ce",
                     "reference": "Set 21 Line 2",
                     "lineNumber": 2,
-                    "sentence": "",
+                    "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                     "translation": "on the opposite cliffs of a high mountain range",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -22893,7 +22897,7 @@
                     "id": "recbLj8XKfkqZHjnY",
                     "reference": "Set 21 Line 3",
                     "lineNumber": 3,
-                    "sentence": "",
+                    "sentence": "où une rivière impétueuse coulait en dessous",
                     "translation": "where a fierce river ran below",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -22906,7 +22910,7 @@
                     "id": "reczDbbMbn9nSIz7K",
                     "reference": "Set 22 Line 4",
                     "lineNumber": 4,
-                    "sentence": "French Story Lines - Set 22",
+                    "sentence": "à travers une vallée rocheuse.",
                     "translation": "through a rocky valley.",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -22919,7 +22923,7 @@
                     "id": "rec270JVpZa2vruFo",
                     "reference": "Set 22 Line 5",
                     "lineNumber": 5,
-                    "sentence": "",
+                    "sentence": "Le seul pont pour traverser le ravin",
                     "translation": "The only bridge across the chasm",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -22932,7 +22936,7 @@
                     "id": "recnSVIhOG6HUp4iG",
                     "reference": "Set 22 Line 6",
                     "lineNumber": 6,
-                    "sentence": "",
+                    "sentence": "était un arbre tombé si étroit",
                     "translation": "was a fallen tree so narrow",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -22945,7 +22949,7 @@
                     "id": "recNYKTmC6vN4l3rP",
                     "reference": "Set 23 Line 7",
                     "lineNumber": 7,
-                    "sentence": "French Story Lines - Set 23",
+                    "sentence": "au point d'effrayer deux souris qui se croisent",
                     "translation": "as to frighten two mice passing each other",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -22958,7 +22962,7 @@
                     "id": "rec2sr7zKsDNftJCq",
                     "reference": "Set 23 Line 8",
                     "lineNumber": 8,
-                    "sentence": "",
+                    "sentence": "en même temps.",
                     "translation": "at the same time.",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -22971,7 +22975,7 @@
                     "id": "recw6e9N8hH3UktVE",
                     "reference": "Set 23 Line 9",
                     "lineNumber": 9,
-                    "sentence": "",
+                    "sentence": "avaient l'impression d'avoir",
                     "translation": "felt that they had",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -22984,7 +22988,7 @@
                     "id": "recPdB0A7T0kfNg4v",
                     "reference": "Set 23 Line 10",
                     "lineNumber": 10,
-                    "sentence": "",
+                    "sentence": "Les deux chèvres têtues",
                     "translation": "Both stubborn Goats",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -22997,7 +23001,7 @@
                     "id": "recPzkGtfVo8K3mah",
                     "reference": "Set 24 Line 11",
                     "lineNumber": 11,
-                    "sentence": "French Story Lines - Set 24",
+                    "sentence": "le droit de traverser la rivière en permier;",
                     "translation": "the right to cross the river first;",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -23010,7 +23014,7 @@
                     "id": "recqzToW1useriU3y",
                     "reference": "Set 24 Line 12",
                     "lineNumber": 12,
-                    "sentence": "",
+                    "sentence": "en posant un sabot à la fois",
                     "translation": "so setting one hoof at a time",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -23023,7 +23027,7 @@
                     "id": "rech9Hcymf91xOKhb",
                     "reference": "Set 24 Line 13",
                     "lineNumber": 13,
-                    "sentence": "",
+                    "sentence": "sur le tronc",
                     "translation": "upon the slender log,",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -23358,8 +23362,8 @@
                     "id": "recXUlvDZey6yFWEN",
                     "reference": "Set 16 Line 2",
                     "lineNumber": 2,
-                    "sentence": "",
-                    "translation": "sa vie misérable et envieuse",
+                    "sentence": "sa vie misérable et envieuse",
+                    "translation": "a lowly life and envious",
                     "label": "French Story Lines - Set 16",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -23423,7 +23427,7 @@
                     "id": "recSPok8HMzBIztKO",
                     "reference": "Set 18 Line 7",
                     "lineNumber": 7,
-                    "sentence": "French Story Lines - Set 18",
+                    "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                     "translation": "The Eagle protested that it was idle for him to try,",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -23436,7 +23440,7 @@
                     "id": "recSidWzNkU4Uof16",
                     "reference": "Set 18 Line 8",
                     "lineNumber": 8,
-                    "sentence": "",
+                    "sentence": "comme la nature ne l'avait pas doté d'ailes",
                     "translation": "as nature had not provided him with wings;",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -23449,7 +23453,7 @@
                     "id": "recxO1CcVvpbLwu6r",
                     "reference": "Set 18 Line 9",
                     "lineNumber": 9,
-                    "sentence": "",
+                    "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                     "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -23462,7 +23466,7 @@
                     "id": "recOUPTZq7KkE1dOZ",
                     "reference": "Set 18 Line 10",
                     "lineNumber": 10,
-                    "sentence": "",
+                    "sentence": "en insistant que ce n'était qu'une question d'",
                     "translation": "insisting that it could only be a question of",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -23475,7 +23479,7 @@
                     "id": "reccnoAKfWOj885iA",
                     "reference": "Set 19 Line 11",
                     "lineNumber": 11,
-                    "sentence": "French Story Lines - Set 19",
+                    "sentence": "apprendre l'art du pilotage.",
                     "translation": "learning the craft of the air.",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -23488,7 +23492,7 @@
                     "id": "rec5vEk9HlvzS61LN",
                     "reference": "Set 19 Line 12",
                     "lineNumber": 12,
-                    "sentence": "",
+                    "sentence": "enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -23501,7 +23505,7 @@
                     "id": "recG6QYoMBdWU8P0C",
                     "reference": "Set 19 Line 13",
                     "lineNumber": 13,
-                    "sentence": "",
+                    "sentence": "à faire le mieux qu'il pourrait pour lui",
                     "translation": "to do the best he could for him",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -23514,7 +23518,7 @@
                     "id": "recWIBrDYfIrKO0xB",
                     "reference": "Set 19 Line 14",
                     "lineNumber": 14,
-                    "sentence": "",
+                    "sentence": "et l'a pris par ses serres.",
                     "translation": "and picked him up in his talons.",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -23527,7 +23531,7 @@
                     "id": "recL0DKvnUDHeqXbj",
                     "reference": "Set 20 Line 15",
                     "lineNumber": 15,
-                    "sentence": "French Story Lines - Set 20",
+                    "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                     "translation": "Soaring with him to a great height in the sky",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -23540,7 +23544,7 @@
                     "id": "recP6mU0whAN7Fdgx",
                     "reference": "Set 20 Line 16",
                     "lineNumber": 16,
-                    "sentence": "",
+                    "sentence": "puis il l'a laché",
                     "translation": "he then let him go,",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -23553,7 +23557,7 @@
                     "id": "recbRDFhCmPEIbjAp",
                     "reference": "Set 20 Line 17",
                     "lineNumber": 17,
-                    "sentence": "",
+                    "sentence": "et la miserable Tortue",
                     "translation": "and the wretched Tortoise",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -23566,7 +23570,7 @@
                     "id": "recHeHiMVVVzyDOvE",
                     "reference": "Set 20 Line 18",
                     "lineNumber": 18,
-                    "sentence": "",
+                    "sentence": "est tombée la tete la premiere dans la mer.",
                     "translation": "fell headlong into the sea.",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -25287,7 +25291,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -25347,7 +25351,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -25467,7 +25471,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -25707,7 +25711,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -29526,8 +29530,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -29723,7 +29727,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -29765,7 +29769,7 @@
               "sentences": [
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -29776,7 +29780,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -29787,7 +29791,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -29798,7 +29802,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -29859,7 +29863,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -29901,7 +29905,7 @@
               "sentences": [
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -29912,7 +29916,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -29923,7 +29927,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -29934,7 +29938,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30055,7 +30059,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -30097,7 +30101,7 @@
               "sentences": [
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30108,7 +30112,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30119,7 +30123,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30130,7 +30134,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30371,7 +30375,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -30490,7 +30494,7 @@
                 },
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -30501,7 +30505,7 @@
                 },
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30512,7 +30516,7 @@
                 },
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30567,8 +30571,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -30677,7 +30681,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -30688,7 +30692,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -30699,7 +30703,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -30710,7 +30714,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30721,7 +30725,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30732,7 +30736,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30743,7 +30747,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30754,7 +30758,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30765,7 +30769,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30898,7 +30902,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -30909,7 +30913,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -30920,7 +30924,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -31023,7 +31027,7 @@
               "sentences": [
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -31034,7 +31038,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -31045,7 +31049,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -31148,7 +31152,7 @@
               "sentences": [
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -31159,7 +31163,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -31170,7 +31174,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -31181,7 +31185,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -31284,7 +31288,7 @@
               "sentences": [
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -31295,7 +31299,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -31306,7 +31310,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -32503,7 +32507,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -32514,7 +32518,7 @@
                 },
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -32525,7 +32529,7 @@
                 },
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -32536,7 +32540,7 @@
                 },
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -32613,7 +32617,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -32624,7 +32628,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -32635,7 +32639,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -32646,7 +32650,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -32657,7 +32661,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -32668,7 +32672,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -32679,7 +32683,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -32690,7 +32694,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -32701,7 +32705,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -33401,7 +33405,7 @@
                     "id": "recOLsJ6Ja0sGDLSl",
                     "reference": "Set 21 Line 1",
                     "lineNumber": 1,
-                    "sentence": "French Story Lines - Set 21",
+                    "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                     "translation": "Two proud goats happened to meet",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -33414,7 +33418,7 @@
                     "id": "recfcPM5zbSEWO8ce",
                     "reference": "Set 21 Line 2",
                     "lineNumber": 2,
-                    "sentence": "",
+                    "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                     "translation": "on the opposite cliffs of a high mountain range",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -33427,7 +33431,7 @@
                     "id": "recbLj8XKfkqZHjnY",
                     "reference": "Set 21 Line 3",
                     "lineNumber": 3,
-                    "sentence": "",
+                    "sentence": "où une rivière impétueuse coulait en dessous",
                     "translation": "where a fierce river ran below",
                     "label": "French Story Lines - Set 21",
                     "language": "French",
@@ -33440,7 +33444,7 @@
                     "id": "reczDbbMbn9nSIz7K",
                     "reference": "Set 22 Line 4",
                     "lineNumber": 4,
-                    "sentence": "French Story Lines - Set 22",
+                    "sentence": "à travers une vallée rocheuse.",
                     "translation": "through a rocky valley.",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -33453,7 +33457,7 @@
                     "id": "rec270JVpZa2vruFo",
                     "reference": "Set 22 Line 5",
                     "lineNumber": 5,
-                    "sentence": "",
+                    "sentence": "Le seul pont pour traverser le ravin",
                     "translation": "The only bridge across the chasm",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -33466,7 +33470,7 @@
                     "id": "recnSVIhOG6HUp4iG",
                     "reference": "Set 22 Line 6",
                     "lineNumber": 6,
-                    "sentence": "",
+                    "sentence": "était un arbre tombé si étroit",
                     "translation": "was a fallen tree so narrow",
                     "label": "French Story Lines - Set 22",
                     "language": "French",
@@ -33479,7 +33483,7 @@
                     "id": "recNYKTmC6vN4l3rP",
                     "reference": "Set 23 Line 7",
                     "lineNumber": 7,
-                    "sentence": "French Story Lines - Set 23",
+                    "sentence": "au point d'effrayer deux souris qui se croisent",
                     "translation": "as to frighten two mice passing each other",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -33492,7 +33496,7 @@
                     "id": "rec2sr7zKsDNftJCq",
                     "reference": "Set 23 Line 8",
                     "lineNumber": 8,
-                    "sentence": "",
+                    "sentence": "en même temps.",
                     "translation": "at the same time.",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -33505,7 +33509,7 @@
                     "id": "recw6e9N8hH3UktVE",
                     "reference": "Set 23 Line 9",
                     "lineNumber": 9,
-                    "sentence": "",
+                    "sentence": "avaient l'impression d'avoir",
                     "translation": "felt that they had",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -33518,7 +33522,7 @@
                     "id": "recPdB0A7T0kfNg4v",
                     "reference": "Set 23 Line 10",
                     "lineNumber": 10,
-                    "sentence": "",
+                    "sentence": "Les deux chèvres têtues",
                     "translation": "Both stubborn Goats",
                     "label": "French Story Lines - Set 23",
                     "language": "French",
@@ -33531,7 +33535,7 @@
                     "id": "recPzkGtfVo8K3mah",
                     "reference": "Set 24 Line 11",
                     "lineNumber": 11,
-                    "sentence": "French Story Lines - Set 24",
+                    "sentence": "le droit de traverser la rivière en permier;",
                     "translation": "the right to cross the river first;",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -33544,7 +33548,7 @@
                     "id": "recqzToW1useriU3y",
                     "reference": "Set 24 Line 12",
                     "lineNumber": 12,
-                    "sentence": "",
+                    "sentence": "en posant un sabot à la fois",
                     "translation": "so setting one hoof at a time",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -33557,7 +33561,7 @@
                     "id": "rech9Hcymf91xOKhb",
                     "reference": "Set 24 Line 13",
                     "lineNumber": 13,
-                    "sentence": "",
+                    "sentence": "sur le tronc",
                     "translation": "upon the slender log,",
                     "label": "French Story Lines - Set 24",
                     "language": "French",
@@ -33892,8 +33896,8 @@
                     "id": "recXUlvDZey6yFWEN",
                     "reference": "Set 16 Line 2",
                     "lineNumber": 2,
-                    "sentence": "",
-                    "translation": "sa vie misérable et envieuse",
+                    "sentence": "sa vie misérable et envieuse",
+                    "translation": "a lowly life and envious",
                     "label": "French Story Lines - Set 16",
                     "language": "French",
                     "sentenceType": "Story Lines",
@@ -33957,7 +33961,7 @@
                     "id": "recSPok8HMzBIztKO",
                     "reference": "Set 18 Line 7",
                     "lineNumber": 7,
-                    "sentence": "French Story Lines - Set 18",
+                    "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                     "translation": "The Eagle protested that it was idle for him to try,",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -33970,7 +33974,7 @@
                     "id": "recSidWzNkU4Uof16",
                     "reference": "Set 18 Line 8",
                     "lineNumber": 8,
-                    "sentence": "",
+                    "sentence": "comme la nature ne l'avait pas doté d'ailes",
                     "translation": "as nature had not provided him with wings;",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -33983,7 +33987,7 @@
                     "id": "recxO1CcVvpbLwu6r",
                     "reference": "Set 18 Line 9",
                     "lineNumber": 9,
-                    "sentence": "",
+                    "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                     "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -33996,7 +34000,7 @@
                     "id": "recOUPTZq7KkE1dOZ",
                     "reference": "Set 18 Line 10",
                     "lineNumber": 10,
-                    "sentence": "",
+                    "sentence": "en insistant que ce n'était qu'une question d'",
                     "translation": "insisting that it could only be a question of",
                     "label": "French Story Lines - Set 18",
                     "language": "French",
@@ -34009,7 +34013,7 @@
                     "id": "reccnoAKfWOj885iA",
                     "reference": "Set 19 Line 11",
                     "lineNumber": 11,
-                    "sentence": "French Story Lines - Set 19",
+                    "sentence": "apprendre l'art du pilotage.",
                     "translation": "learning the craft of the air.",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -34022,7 +34026,7 @@
                     "id": "rec5vEk9HlvzS61LN",
                     "reference": "Set 19 Line 12",
                     "lineNumber": 12,
-                    "sentence": "",
+                    "sentence": "enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -34035,7 +34039,7 @@
                     "id": "recG6QYoMBdWU8P0C",
                     "reference": "Set 19 Line 13",
                     "lineNumber": 13,
-                    "sentence": "",
+                    "sentence": "à faire le mieux qu'il pourrait pour lui",
                     "translation": "to do the best he could for him",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -34048,7 +34052,7 @@
                     "id": "recWIBrDYfIrKO0xB",
                     "reference": "Set 19 Line 14",
                     "lineNumber": 14,
-                    "sentence": "",
+                    "sentence": "et l'a pris par ses serres.",
                     "translation": "and picked him up in his talons.",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -34061,7 +34065,7 @@
                     "id": "recL0DKvnUDHeqXbj",
                     "reference": "Set 20 Line 15",
                     "lineNumber": 15,
-                    "sentence": "French Story Lines - Set 20",
+                    "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                     "translation": "Soaring with him to a great height in the sky",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -34074,7 +34078,7 @@
                     "id": "recP6mU0whAN7Fdgx",
                     "reference": "Set 20 Line 16",
                     "lineNumber": 16,
-                    "sentence": "",
+                    "sentence": "puis il l'a laché",
                     "translation": "he then let him go,",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -34087,7 +34091,7 @@
                     "id": "recbRDFhCmPEIbjAp",
                     "reference": "Set 20 Line 17",
                     "lineNumber": 17,
-                    "sentence": "",
+                    "sentence": "et la miserable Tortue",
                     "translation": "and the wretched Tortoise",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -34100,7 +34104,7 @@
                     "id": "recHeHiMVVVzyDOvE",
                     "reference": "Set 20 Line 18",
                     "lineNumber": 18,
-                    "sentence": "",
+                    "sentence": "est tombée la tete la premiere dans la mer.",
                     "translation": "fell headlong into the sea.",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -35821,7 +35825,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -35881,7 +35885,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -36001,7 +36005,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -36241,7 +36245,7 @@
               },
               {
                 "id": "rec77bgCsvquqVJHG",
-                "text": "les talons",
+                "text": "les serres",
                 "translation": "the talons",
                 "language": "French",
                 "type": "Literature",
@@ -50955,8 +50959,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -51083,8 +51087,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -52058,7 +52062,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -52100,7 +52104,7 @@
               "sentences": [
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52111,7 +52115,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52122,7 +52126,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52133,7 +52137,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52197,7 +52201,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -52239,7 +52243,7 @@
               "sentences": [
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52250,7 +52254,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52261,7 +52265,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52272,7 +52276,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -52658,7 +52662,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -52700,7 +52704,7 @@
               "sentences": [
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52711,7 +52715,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52722,7 +52726,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52733,7 +52737,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52797,7 +52801,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -52839,7 +52843,7 @@
               "sentences": [
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52850,7 +52854,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52861,7 +52865,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -52872,7 +52876,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -53523,7 +53527,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -53565,7 +53569,7 @@
               "sentences": [
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53576,7 +53580,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53587,7 +53591,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53598,7 +53602,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53722,7 +53726,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -53764,7 +53768,7 @@
               "sentences": [
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53775,7 +53779,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53786,7 +53790,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -53797,7 +53801,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -54999,7 +55003,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -55118,7 +55122,7 @@
                 },
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55129,7 +55133,7 @@
                 },
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55140,7 +55144,7 @@
                 },
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -55195,8 +55199,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -55305,7 +55309,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55316,7 +55320,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55327,7 +55331,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55338,7 +55342,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55349,7 +55353,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55360,7 +55364,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55371,7 +55375,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -55382,7 +55386,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -55393,7 +55397,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -55637,7 +55641,7 @@
                 },
                 {
                   "id": "rec77bgCsvquqVJHG",
-                  "text": "les talons",
+                  "text": "les serres",
                   "translation": "the talons",
                   "language": "French",
                   "type": "Literature",
@@ -55756,7 +55760,7 @@
                 },
                 {
                   "id": "recSPok8HMzBIztKO",
-                  "sentence": "French Story Lines - Set 18",
+                  "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                   "translation": "The Eagle protested that it was idle for him to try,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55767,7 +55771,7 @@
                 },
                 {
                   "id": "reccnoAKfWOj885iA",
-                  "sentence": "French Story Lines - Set 19",
+                  "sentence": "apprendre l'art du pilotage.",
                   "translation": "learning the craft of the air.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55778,7 +55782,7 @@
                 },
                 {
                   "id": "recL0DKvnUDHeqXbj",
-                  "sentence": "French Story Lines - Set 20",
+                  "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                   "translation": "Soaring with him to a great height in the sky",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -55833,8 +55837,8 @@
                 },
                 {
                   "id": "recXUlvDZey6yFWEN",
-                  "sentence": "",
-                  "translation": "sa vie misérable et envieuse",
+                  "sentence": "sa vie misérable et envieuse",
+                  "translation": "a lowly life and envious",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
                   "sentenceType": "Story Lines",
@@ -55943,7 +55947,7 @@
                 },
                 {
                   "id": "recSidWzNkU4Uof16",
-                  "sentence": "",
+                  "sentence": "comme la nature ne l'avait pas doté d'ailes",
                   "translation": "as nature had not provided him with wings;",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55954,7 +55958,7 @@
                 },
                 {
                   "id": "recxO1CcVvpbLwu6r",
-                  "sentence": "",
+                  "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                   "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55965,7 +55969,7 @@
                 },
                 {
                   "id": "recOUPTZq7KkE1dOZ",
-                  "sentence": "",
+                  "sentence": "en insistant que ce n'était qu'une question d'",
                   "translation": "insisting that it could only be a question of",
                   "label": "French Story Lines - Set 18",
                   "language": "French",
@@ -55976,7 +55980,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "",
+                  "sentence": "enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55987,7 +55991,7 @@
                 },
                 {
                   "id": "recG6QYoMBdWU8P0C",
-                  "sentence": "",
+                  "sentence": "à faire le mieux qu'il pourrait pour lui",
                   "translation": "to do the best he could for him",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55998,7 +56002,7 @@
                 },
                 {
                   "id": "recWIBrDYfIrKO0xB",
-                  "sentence": "",
+                  "sentence": "et l'a pris par ses serres.",
                   "translation": "and picked him up in his talons.",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -56009,7 +56013,7 @@
                 },
                 {
                   "id": "recP6mU0whAN7Fdgx",
-                  "sentence": "",
+                  "sentence": "puis il l'a laché",
                   "translation": "he then let him go,",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -56020,7 +56024,7 @@
                 },
                 {
                   "id": "recbRDFhCmPEIbjAp",
-                  "sentence": "",
+                  "sentence": "et la miserable Tortue",
                   "translation": "and the wretched Tortoise",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -56031,7 +56035,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "",
+                  "sentence": "est tombée la tete la premiere dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -56695,7 +56699,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -56706,7 +56710,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -56717,7 +56721,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -56823,7 +56827,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -56834,7 +56838,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -56845,7 +56849,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -57304,7 +57308,7 @@
               "sentences": [
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57315,7 +57319,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57326,7 +57330,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57432,7 +57436,7 @@
               "sentences": [
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57443,7 +57447,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57454,7 +57458,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -57913,7 +57917,7 @@
               "sentences": [
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -57924,7 +57928,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -57935,7 +57939,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -57946,7 +57950,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -58052,7 +58056,7 @@
               "sentences": [
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -58063,7 +58067,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -58074,7 +58078,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -58085,7 +58089,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -58544,7 +58548,7 @@
               "sentences": [
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -58555,7 +58559,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -58566,7 +58570,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -58683,7 +58687,7 @@
               "sentences": [
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -58694,7 +58698,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -58705,7 +58709,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -64509,7 +64513,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -64520,7 +64524,7 @@
                 },
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -64531,7 +64535,7 @@
                 },
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -64542,7 +64546,7 @@
                 },
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -64619,7 +64623,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -64630,7 +64634,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -64641,7 +64645,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -64652,7 +64656,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -64663,7 +64667,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -64674,7 +64678,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -64685,7 +64689,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -64696,7 +64700,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -64707,7 +64711,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -65169,7 +65173,7 @@
               "sentences": [
                 {
                   "id": "recOLsJ6Ja0sGDLSl",
-                  "sentence": "French Story Lines - Set 21",
+                  "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                   "translation": "Two proud goats happened to meet",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -65180,7 +65184,7 @@
                 },
                 {
                   "id": "reczDbbMbn9nSIz7K",
-                  "sentence": "French Story Lines - Set 22",
+                  "sentence": "à travers une vallée rocheuse.",
                   "translation": "through a rocky valley.",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -65191,7 +65195,7 @@
                 },
                 {
                   "id": "recNYKTmC6vN4l3rP",
-                  "sentence": "French Story Lines - Set 23",
+                  "sentence": "au point d'effrayer deux souris qui se croisent",
                   "translation": "as to frighten two mice passing each other",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -65202,7 +65206,7 @@
                 },
                 {
                   "id": "recPzkGtfVo8K3mah",
-                  "sentence": "French Story Lines - Set 24",
+                  "sentence": "le droit de traverser la rivière en permier;",
                   "translation": "the right to cross the river first;",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -65279,7 +65283,7 @@
                 },
                 {
                   "id": "recfcPM5zbSEWO8ce",
-                  "sentence": "",
+                  "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                   "translation": "on the opposite cliffs of a high mountain range",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -65290,7 +65294,7 @@
                 },
                 {
                   "id": "recbLj8XKfkqZHjnY",
-                  "sentence": "",
+                  "sentence": "où une rivière impétueuse coulait en dessous",
                   "translation": "where a fierce river ran below",
                   "label": "French Story Lines - Set 21",
                   "language": "French",
@@ -65301,7 +65305,7 @@
                 },
                 {
                   "id": "rec270JVpZa2vruFo",
-                  "sentence": "",
+                  "sentence": "Le seul pont pour traverser le ravin",
                   "translation": "The only bridge across the chasm",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -65312,7 +65316,7 @@
                 },
                 {
                   "id": "recnSVIhOG6HUp4iG",
-                  "sentence": "",
+                  "sentence": "était un arbre tombé si étroit",
                   "translation": "was a fallen tree so narrow",
                   "label": "French Story Lines - Set 22",
                   "language": "French",
@@ -65323,7 +65327,7 @@
                 },
                 {
                   "id": "rec2sr7zKsDNftJCq",
-                  "sentence": "",
+                  "sentence": "en même temps.",
                   "translation": "at the same time.",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -65334,7 +65338,7 @@
                 },
                 {
                   "id": "recPdB0A7T0kfNg4v",
-                  "sentence": "",
+                  "sentence": "Les deux chèvres têtues",
                   "translation": "Both stubborn Goats",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -65345,7 +65349,7 @@
                 },
                 {
                   "id": "recw6e9N8hH3UktVE",
-                  "sentence": "",
+                  "sentence": "avaient l'impression d'avoir",
                   "translation": "felt that they had",
                   "label": "French Story Lines - Set 23",
                   "language": "French",
@@ -65356,7 +65360,7 @@
                 },
                 {
                   "id": "recqzToW1useriU3y",
-                  "sentence": "",
+                  "sentence": "en posant un sabot à la fois",
                   "translation": "so setting one hoof at a time",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
@@ -65367,7 +65371,7 @@
                 },
                 {
                   "id": "rech9Hcymf91xOKhb",
-                  "sentence": "",
+                  "sentence": "sur le tronc",
                   "translation": "upon the slender log,",
                   "label": "French Story Lines - Set 24",
                   "language": "French",
