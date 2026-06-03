@@ -610,7 +610,6 @@ function renderMLGlossarySet(setGroup) {
 }
 
 function renderMLAppendices(appendices = {}) {
-  function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
   const hasGlossary = (appendices.glossary || []).length;
