@@ -27,8 +27,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec3j4kR5zRlnHK5N-literature-grade-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec6vgxAyalXbH09U",
   "hidePdf": "",
   "syllabird": {
     "status": "Do Not Import",
@@ -272,7 +272,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec3j4kR5zRlnHK5N",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec6vgxAyalXbH09U",
           "groups": [
             {
               "title": "Literature: Grade 12",

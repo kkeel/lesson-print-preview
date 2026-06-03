@@ -21,8 +21,8 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recAuJptpZmgrYS9m",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rechldKYJ1ONHghSw-playground-songs-rhymes.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recAuJptpZmgrYS9m",
   "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
@@ -133,7 +133,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rechldKYJ1ONHghSw",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recAuJptpZmgrYS9m",
           "groups": [
             {
               "title": "Related Course Quick Links",

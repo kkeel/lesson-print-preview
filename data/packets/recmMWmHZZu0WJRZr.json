@@ -27,8 +27,8 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=rec0hzDU71YgsZgiR",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recmMWmHZZu0WJRZr-pe-grades-4-6.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec0hzDU71YgsZgiR",
   "hidePdf": "",
   "syllabird": {
     "status": "Do Not Import",
@@ -274,7 +274,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recmMWmHZZu0WJRZr",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec0hzDU71YgsZgiR",
           "groups": [
             {
               "title": "PE: Grades 4-6",

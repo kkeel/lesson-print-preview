@@ -23,8 +23,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recr2688p8npaWI6Y-new-testament-grades-3-6.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8fMADfpLzUlCnb",
   "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
@@ -148,7 +148,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recr2688p8npaWI6Y",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8fMADfpLzUlCnb",
           "groups": [
             {
               "title": "Related Course Quick Links",

@@ -29,8 +29,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recJLmDpg0XImtP6S-literature-grade-10.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8HrI9KDOPONv8f",
   "hidePdf": "",
   "syllabird": {
     "status": "Do Not Import",
@@ -287,7 +287,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recJLmDpg0XImtP6S",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8HrI9KDOPONv8f",
           "groups": [
             {
               "title": "Literature: Grade 10",

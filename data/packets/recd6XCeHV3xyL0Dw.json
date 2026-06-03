@@ -21,8 +21,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recd6XCeHV3xyL0Dw-classic-lit-grade-2.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec7jlz4INbdwK5bW",
   "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
@@ -132,7 +132,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recd6XCeHV3xyL0Dw",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec7jlz4INbdwK5bW",
           "groups": [
             {
               "title": "Related Course Quick Links",
