@@ -152,6 +152,11 @@ function renderMLPreviewControls(data) {
               ? `<option value="ml-appendix-glossary">Vocabulary Glossary</option>`
               : ""
             }
+
+            ${hasMLStudentLiteraturePages(mlSection)
+              ? `<option value="ml-student-literature-pages">Storyboard / Copywork</option>`
+              : ""
+            }
           </select>
         </div>
         
@@ -224,10 +229,16 @@ function renderMLPreviewControls(data) {
   });
 }
 
-function hasMLResourceType(section, resourceKey) {
-  return (section.lessonSets || []).some(lessonSet =>
-    (lessonSet.resources?.[resourceKey] || []).length
-  );
+function hasMLStudentLiteraturePages(section) {
+  return (section.lessonSets || []).some(lessonSet => {
+    const lessonSetTitle = String(lessonSet.title || "").toLowerCase();
+
+    if (!lessonSetTitle.includes("literature")) return false;
+
+    return (lessonSet.lessons || []).some(lesson =>
+      (lesson.sentences || []).length
+    );
+  });
 }
 
 function buildMLTermOptions(section) {
