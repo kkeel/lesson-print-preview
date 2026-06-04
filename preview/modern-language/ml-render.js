@@ -470,8 +470,15 @@ function renderMLCopyworkSlot(line) {
         ${line ? escapeHtml(line.sentence || "") : ""}
       </div>
 
-      <div class="ml-copywork-guide-line"></div>
-      <div class="ml-copywork-write-line"></div>
+      <div class="ml-copywork-line-row">
+        <div class="ml-copywork-guide-line"></div>
+        <div class="ml-copywork-write-line"></div>
+      </div>
+
+      <div class="ml-copywork-line-row">
+        <div class="ml-copywork-guide-line"></div>
+        <div class="ml-copywork-write-line"></div>
+      </div>
     </div>
   `;
 }
