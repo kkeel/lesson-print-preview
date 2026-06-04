@@ -144,8 +144,13 @@ function buildMLStudentLiteraturePages(lessonSets = []) {
 
     (lessonSet.lessons || []).forEach(lesson => {
       const lessonType = String(lesson.lessonType || "").toLowerCase();
+      const lessonNumber = Number(lesson.sequence || lesson.lessonNumber || 0);
 
       if (lessonType.includes("exam")) return;
+
+      // Week 11 / Term review lessons have storyline sentences for review,
+      // but should not generate student notebook storyboard/copywork pages.
+      if ([11, 23, 35].includes(lessonNumber)) return;
 
       const storyLines = (lesson.sentences || [])
         .filter(line =>
@@ -157,7 +162,7 @@ function buildMLStudentLiteraturePages(lessonSets = []) {
 
       if (!storyLines.length) return;
 
-      const lessonNumber =
+      const lessonLabel =
         lesson.lessonLabel ||
         (lesson.sequence ? `Lesson ${lesson.sequence}` : "Lesson");
 
@@ -173,7 +178,7 @@ function buildMLStudentLiteraturePages(lessonSets = []) {
 
       pagesByKey.set(key, {
         id: lesson.id,
-        lessonNumber,
+        lessonNumber: lessonLabel,
         title: lesson.title,
         subtitle: lesson.subtitle,
         language: lesson.language || lessonSet.language,
