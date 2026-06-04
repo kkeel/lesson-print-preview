@@ -733,13 +733,14 @@
 }
 
 .ml-copywork-line-row {
-  margin-top: 0.08in;
+  margin-top: 0.12in;
+  padding-top: 0.18in;
 }
 
 .ml-copywork-guide-line {
   height: 0;
   border-top: 0.5px dashed #cfd6ca;
-  margin-bottom: 0.22in;
+  margin-bottom: 0.18in;
 }
 
 .ml-copywork-write-line {
