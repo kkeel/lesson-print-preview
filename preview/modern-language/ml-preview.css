@@ -709,35 +709,40 @@
 /* Copywork */
 
 .ml-copywork-slots {
+  min-height: calc(9.65in - 0.52in);
   display: flex;
   flex-direction: column;
-  gap: 0.24in;
+  gap: 0.28in;
 }
 
 .ml-copywork-slot {
-  min-height: 0;
+  min-height: 1.18in;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
 }
 
 .ml-copywork-prompt {
-  min-height: 0.22in;
-  margin-bottom: 0.05in;
+  margin-bottom: 0.13in;
 
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12.5px;
-  line-height: 1.25;
+  font-size: 17px;
+  line-height: 1.28;
+  font-weight: 500;
   color: #111;
+}
+
+.ml-copywork-line-row {
+  margin-top: 0.08in;
 }
 
 .ml-copywork-guide-line {
   height: 0;
   border-top: 0.5px dashed #cfd6ca;
-  margin-bottom: 0.18in;
+  margin-bottom: 0.22in;
 }
 
 .ml-copywork-write-line {
   height: 0;
-  border-bottom: 0.8px solid #596e5e;
+  border-bottom: 0.9px solid #596e5e;
 }
