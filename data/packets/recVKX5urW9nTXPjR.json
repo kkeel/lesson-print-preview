@@ -21,7 +21,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recVKX5urW9nTXPjR-canadian-history-grades-11-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
   "syllabird": {
@@ -286,11 +286,16 @@
               "lessonLabel": "Lesson 3",
               "linkLabel": "Canadian History",
               "title": "40m Canadian History: Grades 11-12 - Lesson 3",
-              "body": "The War of 1812: Charles de Salaberry\n⍞ Materials: The Making of Canada\n\n➜ INTRO\nThe Making of Canada is a collection of biographical vignettes that will introduce you to largely forgotten historical figures who were nevertheless vital to significant events in Canada's history. You will read this book alongside A History of Canada in Ten Maps to build a chronological view of this historical period.\n\n➜ READ & ANNOTATE\np.148-158 \"Almost thirty years after\" - \"what they achieved at Châteauguay.\"\n\n➜ NARRATE\nChoose the best way for you to narrate what you read.",
-              "teacherNotes": "",
+              "body": "The War of 1812: Charles de Salaberry\n⍞ Materials: The Making of Canada\n\n➜ INTRO\nThe Making of Canada is a collection of biographical vignettes that will introduce you to largely forgotten historical figures who were nevertheless vital to significant events in Canada's history. You will read this book alongside A History of Canada in Ten Maps to build a chronological view of this historical period.\n\n➜ READ & ANNOTATE\np.148-158 \"Almost thirty years after\" - \"what they achieved at Châteauguay.\"\n• The War of 1812 is usually synonymous with the battles near Upper Canada that occurred in 1812, especially the Battle of Queenston Heights where Sir Isaac Brock was killed. Why was Lower Canada a more strategically critical region to protect, according to Koabel? And why might French Canadians have been hesitant at first to help defend it? What changed?\n\n➜ NARRATE\nChoose the best way for you to narrate what you read.",
+              "teacherNotes": "★ TEACHER NOTE\nTo learn more about the War of 1812 (which lasted until 1815), visit this virtual exhibit at the Canadian War Museum to learn about the war from four different perspectives.\n∞ Link: 1812 Virtual Exhibition",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recVKX5urW9nTXPjR&6J82c=recRtMZ3Q4i90RAdy",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recVKX5urW9nTXPjR&term=1&week=2",
+              "links": [
+                {
+                  "text": "1812 Virtual Exhibition",
+                  "url": "https://www.warmuseum.ca/war-of-1812/1812-faq/"
+                }
+              ]
             },
             {
               "lessonId": "rec1ZSoVhWL3gzWHu",
