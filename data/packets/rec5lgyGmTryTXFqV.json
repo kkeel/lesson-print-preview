@@ -1984,13 +1984,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec9r9qZGiBgo3fEP.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -4226,13 +4221,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recMJJVKXoYONc1Ab.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -6924,13 +6914,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec4LFZ0a4SUN1ZCP.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -10785,7 +10770,7 @@
         },
         {
           "id": "reczZYMg3Cr7do9p1",
-          "title": "French Grammar",
+          "title": "French Picture Study Ext. + Grammar",
           "language": "French",
           "perWeek": "1",
           "weeksTotal": "36",
@@ -10793,7 +10778,7 @@
             {
               "id": "rec53k4bB4pJymZhl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec53k4bB4pJymZhl",
-              "title": "20m French Grammar – Lesson 1",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 1",
               "subtitle": "Grammar Concept: Nouns & Gender",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -10801,7 +10786,7 @@
               "weekLabel": "Week 1",
               "sequence": 1,
               "lessonLabel": "Lesson 1",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonjour, les amis !  - Hello, friends!",
@@ -10912,7 +10897,7 @@
             {
               "id": "recmQDXv2XpgNU5NJ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recmQDXv2XpgNU5NJ",
-              "title": "20m French Grammar – Lesson 2",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 2",
               "subtitle": "Grammar Concept: Nouns & Gender",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -10920,7 +10905,7 @@
               "weekLabel": "Week 2",
               "sequence": 2,
               "lessonLabel": "Lesson 2",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonjour la maitresse !  - Good morning, teacher!",
@@ -11031,7 +11016,7 @@
             {
               "id": "rec4r7XqymJtIr9IL",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec4r7XqymJtIr9IL",
-              "title": "20m French Grammar – Lesson 3",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 3",
               "subtitle": "Grammar Concept: 2",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -11039,7 +11024,7 @@
               "weekLabel": "Week 3",
               "sequence": 3,
               "lessonLabel": "Lesson 3",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonne nuit, maman !  - Goodnight, mom!",
@@ -11150,7 +11135,7 @@
             {
               "id": "recDgRxP94aal0Dv7",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recDgRxP94aal0Dv7",
-              "title": "20m French Grammar – Lesson 4",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 4",
               "subtitle": "Grammar Concept: 2",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -11158,7 +11143,7 @@
               "weekLabel": "Week 4",
               "sequence": 4,
               "lessonLabel": "Lesson 4",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe dors toute la nuit.  - I sleep all night.",
@@ -11269,7 +11254,7 @@
             {
               "id": "recXNy9VgzzImwBjs",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recXNy9VgzzImwBjs",
-              "title": "20m French Grammar – Lesson 5",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 5",
               "subtitle": "Grammar Concept: 1, 2",
               "lessonType": "Concept Review - Grammar",
               "term": "1",
@@ -11277,7 +11262,7 @@
               "weekLabel": "Week 5",
               "sequence": 5,
               "lessonLabel": "Lesson 5",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMerci pour votre aide.  - Thank you for your help.",
@@ -11476,7 +11461,7 @@
             {
               "id": "recwgdrVTxlqhVF4f",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recwgdrVTxlqhVF4f",
-              "title": "20m French Grammar – Lesson 6",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 6",
               "subtitle": "Grammar Concept: 3",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -11484,7 +11469,7 @@
               "weekLabel": "Week 6",
               "sequence": 6,
               "lessonLabel": "Lesson 6",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nRépétez, s'il vous plaît.  - Repeat, please.",
@@ -11595,7 +11580,7 @@
             {
               "id": "rec1rbz95V7F82iwY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec1rbz95V7F82iwY",
-              "title": "20m French Grammar – Lesson 7",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 7",
               "subtitle": "Grammar Concept: 3",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -11603,7 +11588,7 @@
               "weekLabel": "Week 7",
               "sequence": 7,
               "lessonLabel": "Lesson 7",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe suis désolé(e). - I am sorry.",
@@ -11714,7 +11699,7 @@
             {
               "id": "rechM0wN689GeilBb",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rechM0wN689GeilBb",
-              "title": "20m French Grammar – Lesson 8",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 8",
               "subtitle": "Grammar Concept: 4",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -11722,7 +11707,7 @@
               "weekLabel": "Week 8",
               "sequence": 8,
               "lessonLabel": "Lesson 8",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime lire des livres. - I like to read books.",
@@ -11833,7 +11818,7 @@
             {
               "id": "recN3Z1uJ4pUw7H0N",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recN3Z1uJ4pUw7H0N",
-              "title": "20m French Grammar – Lesson 9",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 9",
               "subtitle": "Grammar Concept: 4",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -11841,7 +11826,7 @@
               "weekLabel": "Week 9",
               "sequence": 9,
               "lessonLabel": "Lesson 9",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime jouer dehors. - I like to play outside.",
@@ -11952,7 +11937,7 @@
             {
               "id": "recXWNMXqAW8CFNok",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recXWNMXqAW8CFNok",
-              "title": "20m French Grammar – Lesson 10",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 10",
               "subtitle": "Grammar Concept: 3, 4",
               "lessonType": "Concept Review - Grammar",
               "term": "1",
@@ -11960,7 +11945,7 @@
               "weekLabel": "Week 10",
               "sequence": 10,
               "lessonLabel": "Lesson 10",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'ai un chien.  - I have a dog.",
@@ -12159,7 +12144,7 @@
             {
               "id": "rec4tI1b7ptdDHv7g",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec4tI1b7ptdDHv7g",
-              "title": "20m French Grammar – Lesson 11",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 11",
               "subtitle": "Grammar Concept: 1, 2, 3, 4",
               "lessonType": "Term Review - Grammar",
               "term": "1",
@@ -12167,7 +12152,7 @@
               "weekLabel": "Week 11",
               "sequence": 11,
               "lessonLabel": "Lesson 11",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCette classe est amusante. - This class is fun.",
@@ -12542,7 +12527,7 @@
             {
               "id": "recCMSX9hKQRM2yFh",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recCMSX9hKQRM2yFh",
-              "title": "20m French Grammar – Lesson 12",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 12",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "1",
@@ -12550,7 +12535,7 @@
               "weekLabel": "Week 12",
               "sequence": 12,
               "lessonLabel": "Lesson 12",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 12 -",
@@ -12558,13 +12543,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recCMSX9hKQRM2yFh.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -12572,7 +12552,7 @@
             {
               "id": "recGGFzaIVwANJcur",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recGGFzaIVwANJcur",
-              "title": "20m French Grammar – Lesson 13",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 13",
               "subtitle": "Grammar Concept: 5",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -12580,7 +12560,7 @@
               "weekLabel": "Week 1",
               "sequence": 13,
               "lessonLabel": "Lesson 13",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nApprenons !  - Let's learn!",
@@ -12691,7 +12671,7 @@
             {
               "id": "rec5IyOofooqZqJge",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec5IyOofooqZqJge",
-              "title": "20m French Grammar – Lesson 14",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 14",
               "subtitle": "Grammar Concept: 5",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -12699,7 +12679,7 @@
               "weekLabel": "Week 2",
               "sequence": 14,
               "lessonLabel": "Lesson 14",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAujourd'hui, il y a du soleil. - Today, it is sunny.",
@@ -12810,7 +12790,7 @@
             {
               "id": "recRnUqIaAzKumQ6R",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recRnUqIaAzKumQ6R",
-              "title": "20m French Grammar – Lesson 15",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 15",
               "subtitle": "Grammar Concept: 6",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -12818,7 +12798,7 @@
               "weekLabel": "Week 3",
               "sequence": 15,
               "lessonLabel": "Lesson 15",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe joue avec mes amis.  - I play with my friends.",
@@ -12929,7 +12909,7 @@
             {
               "id": "recUEMNymGQPyniqS",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recUEMNymGQPyniqS",
-              "title": "20m French Grammar – Lesson 16",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 16",
               "subtitle": "Grammar Concept: 6",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -12937,7 +12917,7 @@
               "weekLabel": "Week 4",
               "sequence": 16,
               "lessonLabel": "Lesson 16",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAujourd'hui, je suis content(e). - Today, I am happy.",
@@ -13048,7 +13028,7 @@
             {
               "id": "rechyuQ0iGCanw8Xw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rechyuQ0iGCanw8Xw",
-              "title": "20m French Grammar – Lesson 17",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 17",
               "subtitle": "Grammar Concept: 5, 6",
               "lessonType": "Concept Review - Grammar",
               "term": "2",
@@ -13056,7 +13036,7 @@
               "weekLabel": "Week 5",
               "sequence": 17,
               "lessonLabel": "Lesson 17",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime la couleur bleue. - I like the color blue.",
@@ -13255,7 +13235,7 @@
             {
               "id": "recFHx5ZBFnKnuRDB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recFHx5ZBFnKnuRDB",
-              "title": "20m French Grammar – Lesson 18",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 18",
               "subtitle": "Grammar Concept: 7",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -13263,7 +13243,7 @@
               "weekLabel": "Week 6",
               "sequence": 18,
               "lessonLabel": "Lesson 18",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me réveille tôt.  - I wake up early.",
@@ -13374,7 +13354,7 @@
             {
               "id": "recb38utiVUuOLtvB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recb38utiVUuOLtvB",
-              "title": "20m French Grammar – Lesson 19",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 19",
               "subtitle": "Grammar Concept: 7",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -13382,7 +13362,7 @@
               "weekLabel": "Week 7",
               "sequence": 19,
               "lessonLabel": "Lesson 19",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAu revoir et à demain ! - Good bye and see you tomorrow!",
@@ -13493,7 +13473,7 @@
             {
               "id": "recSGTRRaxrLhSmMe",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recSGTRRaxrLhSmMe",
-              "title": "20m French Grammar – Lesson 20",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 20",
               "subtitle": "Grammar Concept: 8",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -13501,7 +13481,7 @@
               "weekLabel": "Week 8",
               "sequence": 20,
               "lessonLabel": "Lesson 20",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me lave les mains. - I wash my hands.",
@@ -13612,7 +13592,7 @@
             {
               "id": "recgA7orFgWKpyg0t",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recgA7orFgWKpyg0t",
-              "title": "20m French Grammar – Lesson 21",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 21",
               "subtitle": "Grammar Concept: 8",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -13620,7 +13600,7 @@
               "weekLabel": "Week 9",
               "sequence": 21,
               "lessonLabel": "Lesson 21",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me lave les dents. - I brush my teeth.",
@@ -13731,7 +13711,7 @@
             {
               "id": "recnuQbBHFPYmX8pB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recnuQbBHFPYmX8pB",
-              "title": "20m French Grammar – Lesson 22",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 22",
               "subtitle": "Grammar Concept: 7, 8",
               "lessonType": "Concept Review - Grammar",
               "term": "2",
@@ -13739,7 +13719,7 @@
               "weekLabel": "Week 10",
               "sequence": 22,
               "lessonLabel": "Lesson 22",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nLe matin, je mange le petit-déjeuner. - In the morning, I eat breakfast.",
@@ -13938,7 +13918,7 @@
             {
               "id": "recEp6Xi7LExk7MTM",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recEp6Xi7LExk7MTM",
-              "title": "20m French Grammar – Lesson 23",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 23",
               "subtitle": "Grammar Concept: 5, 6, 7, 8",
               "lessonType": "Term Review - Grammar",
               "term": "2",
@@ -13946,7 +13926,7 @@
               "weekLabel": "Week 11",
               "sequence": 23,
               "lessonLabel": "Lesson 23",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe m'assois sur une chaise.  - I sit on a chair.",
@@ -14321,7 +14301,7 @@
             {
               "id": "rec2KnPWoPTkdoKnW",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec2KnPWoPTkdoKnW",
-              "title": "20m French Grammar – Lesson 24",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 24",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "2",
@@ -14329,7 +14309,7 @@
               "weekLabel": "Week 12",
               "sequence": 24,
               "lessonLabel": "Lesson 24",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 24 -",
@@ -14337,13 +14317,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec2KnPWoPTkdoKnW.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -14351,7 +14326,7 @@
             {
               "id": "recqw48StP3W7JSxl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recqw48StP3W7JSxl",
-              "title": "20m French Grammar – Lesson 25",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 25",
               "subtitle": "Grammar Concept: 9",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -14359,7 +14334,7 @@
               "weekLabel": "Week 1",
               "sequence": 25,
               "lessonLabel": "Lesson 25",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le déjeuner. - I eat lunch.",
@@ -14470,7 +14445,7 @@
             {
               "id": "recjT48M71I1ZvHw0",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recjT48M71I1ZvHw0",
-              "title": "20m French Grammar – Lesson 26",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 26",
               "subtitle": "Grammar Concept: 9",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -14478,7 +14453,7 @@
               "weekLabel": "Week 2",
               "sequence": 26,
               "lessonLabel": "Lesson 26",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le dîner. - I eat dinner.",
@@ -14589,7 +14564,7 @@
             {
               "id": "recvig4w7mCjVa1HY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recvig4w7mCjVa1HY",
-              "title": "20m French Grammar – Lesson 27",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 27",
               "subtitle": "Grammar Concept: 10",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -14597,7 +14572,7 @@
               "weekLabel": "Week 3",
               "sequence": 27,
               "lessonLabel": "Lesson 27",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime la musique. - I like music.",
@@ -14708,7 +14683,7 @@
             {
               "id": "recemHduso2ky2zpO",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recemHduso2ky2zpO",
-              "title": "20m French Grammar – Lesson 28",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 28",
               "subtitle": "Grammar Concept: 10",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -14716,7 +14691,7 @@
               "weekLabel": "Week 4",
               "sequence": 28,
               "lessonLabel": "Lesson 28",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nFerme la porte. - Close the door.",
@@ -14827,7 +14802,7 @@
             {
               "id": "recU0G52N1GzbIXCZ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recU0G52N1GzbIXCZ",
-              "title": "20m French Grammar – Lesson 29",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 29",
               "subtitle": "Grammar Concept: 9, 10",
               "lessonType": "Concept Review - Grammar",
               "term": "3",
@@ -14835,7 +14810,7 @@
               "weekLabel": "Week 5",
               "sequence": 29,
               "lessonLabel": "Lesson 29",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe participe aux tâches ménagères a la maison. - I help with cleaning tasks at home.",
@@ -15034,7 +15009,7 @@
             {
               "id": "recFdQmi730vf66C1",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recFdQmi730vf66C1",
-              "title": "20m French Grammar – Lesson 30",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 30",
               "subtitle": "Grammar Concept: 11",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -15042,7 +15017,7 @@
               "weekLabel": "Week 6",
               "sequence": 30,
               "lessonLabel": "Lesson 30",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range ma chambre. - I tidy up my room.",
@@ -15153,7 +15128,7 @@
             {
               "id": "recEDaovtNnwP0tgH",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recEDaovtNnwP0tgH",
-              "title": "20m French Grammar – Lesson 31",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 31",
               "subtitle": "Grammar Concept: 11",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -15161,7 +15136,7 @@
               "weekLabel": "Week 7",
               "sequence": 31,
               "lessonLabel": "Lesson 31",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mets la table. - I set the table.",
@@ -15272,7 +15247,7 @@
             {
               "id": "recBS04jjfZmIfWNU",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recBS04jjfZmIfWNU",
-              "title": "20m French Grammar – Lesson 32",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 32",
               "subtitle": "Grammar Concept: 12",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -15280,7 +15255,7 @@
               "weekLabel": "Week 8",
               "sequence": 32,
               "lessonLabel": "Lesson 32",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range mes jouets. - I tidy up my toys.",
@@ -15391,7 +15366,7 @@
             {
               "id": "recNk3pdRUtzEu0Rw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recNk3pdRUtzEu0Rw",
-              "title": "20m French Grammar – Lesson 33",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 33",
               "subtitle": "Grammar Concept: 12",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -15399,7 +15374,7 @@
               "weekLabel": "Week 9",
               "sequence": 33,
               "lessonLabel": "Lesson 33",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le dîner avec ma famille. - I eat dinner with my family.",
@@ -15510,7 +15485,7 @@
             {
               "id": "recbuKtVILczK10vl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recbuKtVILczK10vl",
-              "title": "20m French Grammar – Lesson 34",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 34",
               "subtitle": "Grammar Concept: 11, 12",
               "lessonType": "Concept Review - Grammar",
               "term": "3",
@@ -15518,7 +15493,7 @@
               "weekLabel": "Week 10",
               "sequence": 34,
               "lessonLabel": "Lesson 34",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range les vaisselles après avoir mangé. - I put the dishes away after eating.",
@@ -15717,7 +15692,7 @@
             {
               "id": "recjMbKJ82bP2Z6AY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recjMbKJ82bP2Z6AY",
-              "title": "20m French Grammar – Lesson 35",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 35",
               "subtitle": "Grammar Concept: 9, 10, 11, 12",
               "lessonType": "Term Review - Grammar",
               "term": "3",
@@ -15725,7 +15700,7 @@
               "weekLabel": "Week 11",
               "sequence": 35,
               "lessonLabel": "Lesson 35",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'éteins la lumière. - I turn off the light.",
@@ -16100,7 +16075,7 @@
             {
               "id": "recwvvhyY41wmtfdw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recwvvhyY41wmtfdw",
-              "title": "20m French Grammar – Lesson 36",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 36",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "3",
@@ -16108,7 +16083,7 @@
               "weekLabel": "Week 12",
               "sequence": 36,
               "lessonLabel": "Lesson 36",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 36 -",
@@ -16116,13 +16091,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recwvvhyY41wmtfdw.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -18154,13 +18124,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQbFPaxowmCro0a.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -20222,13 +20187,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recPczGNfbTTagEw3.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -22312,13 +22272,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recpew2oilo3dTWh4.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -28652,13 +28607,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recfBkeGRBZXuPGNS.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -30720,13 +30670,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recLRT0iYSMuqrfKz.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -32810,13 +32755,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec7s68tuUmM0Pjdj.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -37673,13 +37613,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recMI0xpYyynD5gO5.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -38220,13 +38155,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclSrFsnpbRZkDIE.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -38767,13 +38697,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reco96KQ0llAYBB9I.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": []
@@ -38955,7 +38880,7 @@
             {
               "id": "rec53k4bB4pJymZhl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec53k4bB4pJymZhl",
-              "title": "20m French Grammar – Lesson 1",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 1",
               "subtitle": "Grammar Concept: Nouns & Gender",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -38963,7 +38888,7 @@
               "weekLabel": "Week 1",
               "sequence": 1,
               "lessonLabel": "Lesson 1",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonjour, les amis !  - Hello, friends!",
@@ -39071,7 +38996,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -39502,7 +39427,7 @@
             {
               "id": "recmQDXv2XpgNU5NJ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recmQDXv2XpgNU5NJ",
-              "title": "20m French Grammar – Lesson 2",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 2",
               "subtitle": "Grammar Concept: Nouns & Gender",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -39510,7 +39435,7 @@
               "weekLabel": "Week 2",
               "sequence": 2,
               "lessonLabel": "Lesson 2",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonjour la maitresse !  - Good morning, teacher!",
@@ -39618,7 +39543,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -40049,7 +39974,7 @@
             {
               "id": "rec4r7XqymJtIr9IL",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec4r7XqymJtIr9IL",
-              "title": "20m French Grammar – Lesson 3",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 3",
               "subtitle": "Grammar Concept: 2",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -40057,7 +39982,7 @@
               "weekLabel": "Week 3",
               "sequence": 3,
               "lessonLabel": "Lesson 3",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBonne nuit, maman !  - Goodnight, mom!",
@@ -40165,7 +40090,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -40596,7 +40521,7 @@
             {
               "id": "recDgRxP94aal0Dv7",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recDgRxP94aal0Dv7",
-              "title": "20m French Grammar – Lesson 4",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 4",
               "subtitle": "Grammar Concept: 2",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -40604,7 +40529,7 @@
               "weekLabel": "Week 4",
               "sequence": 4,
               "lessonLabel": "Lesson 4",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe dors toute la nuit.  - I sleep all night.",
@@ -40712,7 +40637,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -41229,7 +41154,7 @@
             {
               "id": "recXNy9VgzzImwBjs",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recXNy9VgzzImwBjs",
-              "title": "20m French Grammar – Lesson 5",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 5",
               "subtitle": "Grammar Concept: 1, 2",
               "lessonType": "Concept Review - Grammar",
               "term": "1",
@@ -41237,7 +41162,7 @@
               "weekLabel": "Week 5",
               "sequence": 5,
               "lessonLabel": "Lesson 5",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMerci pour votre aide.  - Thank you for your help.",
@@ -41433,7 +41358,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -42017,7 +41942,7 @@
             {
               "id": "recwgdrVTxlqhVF4f",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recwgdrVTxlqhVF4f",
-              "title": "20m French Grammar – Lesson 6",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 6",
               "subtitle": "Grammar Concept: 3",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -42025,7 +41950,7 @@
               "weekLabel": "Week 6",
               "sequence": 6,
               "lessonLabel": "Lesson 6",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nRépétez, s'il vous plaît.  - Repeat, please.",
@@ -42133,7 +42058,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -42564,7 +42489,7 @@
             {
               "id": "rec1rbz95V7F82iwY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec1rbz95V7F82iwY",
-              "title": "20m French Grammar – Lesson 7",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 7",
               "subtitle": "Grammar Concept: 3",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -42572,7 +42497,7 @@
               "weekLabel": "Week 7",
               "sequence": 7,
               "lessonLabel": "Lesson 7",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe suis désolé(e). - I am sorry.",
@@ -42680,7 +42605,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -43111,7 +43036,7 @@
             {
               "id": "rechM0wN689GeilBb",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rechM0wN689GeilBb",
-              "title": "20m French Grammar – Lesson 8",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 8",
               "subtitle": "Grammar Concept: 4",
               "lessonType": "Grammar - Intro",
               "term": "1",
@@ -43119,7 +43044,7 @@
               "weekLabel": "Week 8",
               "sequence": 8,
               "lessonLabel": "Lesson 8",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime lire des livres. - I like to read books.",
@@ -43227,7 +43152,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -43658,7 +43583,7 @@
             {
               "id": "recN3Z1uJ4pUw7H0N",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recN3Z1uJ4pUw7H0N",
-              "title": "20m French Grammar – Lesson 9",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 9",
               "subtitle": "Grammar Concept: 4",
               "lessonType": "Grammar - Practice",
               "term": "1",
@@ -43666,7 +43591,7 @@
               "weekLabel": "Week 9",
               "sequence": 9,
               "lessonLabel": "Lesson 9",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime jouer dehors. - I like to play outside.",
@@ -43774,7 +43699,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -44295,7 +44220,7 @@
             {
               "id": "recXWNMXqAW8CFNok",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recXWNMXqAW8CFNok",
-              "title": "20m French Grammar – Lesson 10",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 10",
               "subtitle": "Grammar Concept: 3, 4",
               "lessonType": "Concept Review - Grammar",
               "term": "1",
@@ -44303,7 +44228,7 @@
               "weekLabel": "Week 10",
               "sequence": 10,
               "lessonLabel": "Lesson 10",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'ai un chien.  - I have a dog.",
@@ -44499,7 +44424,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -45307,7 +45232,7 @@
             {
               "id": "rec4tI1b7ptdDHv7g",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec4tI1b7ptdDHv7g",
-              "title": "20m French Grammar – Lesson 11",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 11",
               "subtitle": "Grammar Concept: 1, 2, 3, 4",
               "lessonType": "Term Review - Grammar",
               "term": "1",
@@ -45315,7 +45240,7 @@
               "weekLabel": "Week 11",
               "sequence": 11,
               "lessonLabel": "Lesson 11",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCette classe est amusante. - This class is fun.",
@@ -45687,7 +45612,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -47026,13 +46951,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec9r9qZGiBgo3fEP.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -47043,7 +46963,7 @@
             {
               "id": "recCMSX9hKQRM2yFh",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recCMSX9hKQRM2yFh",
-              "title": "20m French Grammar – Lesson 12",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 12",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "1",
@@ -47051,7 +46971,7 @@
               "weekLabel": "Week 12",
               "sequence": 12,
               "lessonLabel": "Lesson 12",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 12 -",
@@ -47059,18 +46979,13 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recCMSX9hKQRM2yFh.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -47092,13 +47007,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQbFPaxowmCro0a.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -47125,13 +47035,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recfBkeGRBZXuPGNS.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -47158,13 +47063,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=1&week=12",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recMI0xpYyynD5gO5.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -47330,7 +47230,7 @@
             {
               "id": "recGGFzaIVwANJcur",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recGGFzaIVwANJcur",
-              "title": "20m French Grammar – Lesson 13",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 13",
               "subtitle": "Grammar Concept: 5",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -47338,7 +47238,7 @@
               "weekLabel": "Week 1",
               "sequence": 13,
               "lessonLabel": "Lesson 13",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nApprenons !  - Let's learn!",
@@ -47446,7 +47346,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -47908,7 +47808,7 @@
             {
               "id": "rec5IyOofooqZqJge",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec5IyOofooqZqJge",
-              "title": "20m French Grammar – Lesson 14",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 14",
               "subtitle": "Grammar Concept: 5",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -47916,7 +47816,7 @@
               "weekLabel": "Week 2",
               "sequence": 14,
               "lessonLabel": "Lesson 14",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAujourd'hui, il y a du soleil. - Today, it is sunny.",
@@ -48024,7 +47924,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -48497,7 +48397,7 @@
             {
               "id": "recRnUqIaAzKumQ6R",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recRnUqIaAzKumQ6R",
-              "title": "20m French Grammar – Lesson 15",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 15",
               "subtitle": "Grammar Concept: 6",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -48505,7 +48405,7 @@
               "weekLabel": "Week 3",
               "sequence": 15,
               "lessonLabel": "Lesson 15",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe joue avec mes amis.  - I play with my friends.",
@@ -48613,7 +48513,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -49086,7 +48986,7 @@
             {
               "id": "recUEMNymGQPyniqS",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recUEMNymGQPyniqS",
-              "title": "20m French Grammar – Lesson 16",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 16",
               "subtitle": "Grammar Concept: 6",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -49094,7 +48994,7 @@
               "weekLabel": "Week 4",
               "sequence": 16,
               "lessonLabel": "Lesson 16",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAujourd'hui, je suis content(e). - Today, I am happy.",
@@ -49202,7 +49102,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -49792,7 +49692,7 @@
             {
               "id": "rechyuQ0iGCanw8Xw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rechyuQ0iGCanw8Xw",
-              "title": "20m French Grammar – Lesson 17",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 17",
               "subtitle": "Grammar Concept: 5, 6",
               "lessonType": "Concept Review - Grammar",
               "term": "2",
@@ -49800,7 +49700,7 @@
               "weekLabel": "Week 5",
               "sequence": 17,
               "lessonLabel": "Lesson 17",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime la couleur bleue. - I like the color blue.",
@@ -49996,7 +49896,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -50589,7 +50489,7 @@
             {
               "id": "recFHx5ZBFnKnuRDB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recFHx5ZBFnKnuRDB",
-              "title": "20m French Grammar – Lesson 18",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 18",
               "subtitle": "Grammar Concept: 7",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -50597,7 +50497,7 @@
               "weekLabel": "Week 6",
               "sequence": 18,
               "lessonLabel": "Lesson 18",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me réveille tôt.  - I wake up early.",
@@ -50705,7 +50605,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -51167,7 +51067,7 @@
             {
               "id": "recb38utiVUuOLtvB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recb38utiVUuOLtvB",
-              "title": "20m French Grammar – Lesson 19",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 19",
               "subtitle": "Grammar Concept: 7",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -51175,7 +51075,7 @@
               "weekLabel": "Week 7",
               "sequence": 19,
               "lessonLabel": "Lesson 19",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAu revoir et à demain ! - Good bye and see you tomorrow!",
@@ -51283,7 +51183,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -51745,7 +51645,7 @@
             {
               "id": "recSGTRRaxrLhSmMe",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recSGTRRaxrLhSmMe",
-              "title": "20m French Grammar – Lesson 20",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 20",
               "subtitle": "Grammar Concept: 8",
               "lessonType": "Grammar - Intro",
               "term": "2",
@@ -51753,7 +51653,7 @@
               "weekLabel": "Week 8",
               "sequence": 20,
               "lessonLabel": "Lesson 20",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me lave les mains. - I wash my hands.",
@@ -51861,7 +51761,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -52345,7 +52245,7 @@
             {
               "id": "recgA7orFgWKpyg0t",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recgA7orFgWKpyg0t",
-              "title": "20m French Grammar – Lesson 21",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 21",
               "subtitle": "Grammar Concept: 8",
               "lessonType": "Grammar - Practice",
               "term": "2",
@@ -52353,7 +52253,7 @@
               "weekLabel": "Week 9",
               "sequence": 21,
               "lessonLabel": "Lesson 21",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe me lave les dents. - I brush my teeth.",
@@ -52461,7 +52361,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -53062,7 +52962,7 @@
             {
               "id": "recnuQbBHFPYmX8pB",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recnuQbBHFPYmX8pB",
-              "title": "20m French Grammar – Lesson 22",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 22",
               "subtitle": "Grammar Concept: 7, 8",
               "lessonType": "Concept Review - Grammar",
               "term": "2",
@@ -53070,7 +52970,7 @@
               "weekLabel": "Week 10",
               "sequence": 22,
               "lessonLabel": "Lesson 22",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nLe matin, je mange le petit-déjeuner. - In the morning, I eat breakfast.",
@@ -53266,7 +53166,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -54231,7 +54131,7 @@
             {
               "id": "recEp6Xi7LExk7MTM",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recEp6Xi7LExk7MTM",
-              "title": "20m French Grammar – Lesson 23",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 23",
               "subtitle": "Grammar Concept: 5, 6, 7, 8",
               "lessonType": "Term Review - Grammar",
               "term": "2",
@@ -54239,7 +54139,7 @@
               "weekLabel": "Week 11",
               "sequence": 23,
               "lessonLabel": "Lesson 23",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe m'assois sur une chaise.  - I sit on a chair.",
@@ -54611,7 +54511,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -55994,13 +55894,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recMJJVKXoYONc1Ab.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -56011,7 +55906,7 @@
             {
               "id": "rec2KnPWoPTkdoKnW",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=rec2KnPWoPTkdoKnW",
-              "title": "20m French Grammar – Lesson 24",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 24",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "2",
@@ -56019,7 +55914,7 @@
               "weekLabel": "Week 12",
               "sequence": 24,
               "lessonLabel": "Lesson 24",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 24 -",
@@ -56027,18 +55922,13 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec2KnPWoPTkdoKnW.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -56060,13 +55950,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recPczGNfbTTagEw3.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -56093,13 +55978,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recLRT0iYSMuqrfKz.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -56126,13 +56006,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=2&week=24",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclSrFsnpbRZkDIE.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -56329,7 +56204,7 @@
             {
               "id": "recqw48StP3W7JSxl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recqw48StP3W7JSxl",
-              "title": "20m French Grammar – Lesson 25",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 25",
               "subtitle": "Grammar Concept: 9",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -56337,7 +56212,7 @@
               "weekLabel": "Week 1",
               "sequence": 25,
               "lessonLabel": "Lesson 25",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le déjeuner. - I eat lunch.",
@@ -56445,7 +56320,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -56938,7 +56813,7 @@
             {
               "id": "recjT48M71I1ZvHw0",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recjT48M71I1ZvHw0",
-              "title": "20m French Grammar – Lesson 26",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 26",
               "subtitle": "Grammar Concept: 9",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -56946,7 +56821,7 @@
               "weekLabel": "Week 2",
               "sequence": 26,
               "lessonLabel": "Lesson 26",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le dîner. - I eat dinner.",
@@ -57054,7 +56929,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -57547,7 +57422,7 @@
             {
               "id": "recvig4w7mCjVa1HY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recvig4w7mCjVa1HY",
-              "title": "20m French Grammar – Lesson 27",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 27",
               "subtitle": "Grammar Concept: 10",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -57555,7 +57430,7 @@
               "weekLabel": "Week 3",
               "sequence": 27,
               "lessonLabel": "Lesson 27",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'aime la musique. - I like music.",
@@ -57663,7 +57538,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -58178,7 +58053,7 @@
             {
               "id": "recemHduso2ky2zpO",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recemHduso2ky2zpO",
-              "title": "20m French Grammar – Lesson 28",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 28",
               "subtitle": "Grammar Concept: 10",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -58186,7 +58061,7 @@
               "weekLabel": "Week 4",
               "sequence": 28,
               "lessonLabel": "Lesson 28",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nFerme la porte. - Close the door.",
@@ -58294,7 +58169,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -58961,7 +58836,7 @@
             {
               "id": "recU0G52N1GzbIXCZ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recU0G52N1GzbIXCZ",
-              "title": "20m French Grammar – Lesson 29",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 29",
               "subtitle": "Grammar Concept: 9, 10",
               "lessonType": "Concept Review - Grammar",
               "term": "3",
@@ -58969,7 +58844,7 @@
               "weekLabel": "Week 5",
               "sequence": 29,
               "lessonLabel": "Lesson 29",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe participe aux tâches ménagères a la maison. - I help with cleaning tasks at home.",
@@ -59165,7 +59040,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -59811,7 +59686,7 @@
             {
               "id": "recFdQmi730vf66C1",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recFdQmi730vf66C1",
-              "title": "20m French Grammar – Lesson 30",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 30",
               "subtitle": "Grammar Concept: 11",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -59819,7 +59694,7 @@
               "weekLabel": "Week 6",
               "sequence": 30,
               "lessonLabel": "Lesson 30",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range ma chambre. - I tidy up my room.",
@@ -59927,7 +59802,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -60442,7 +60317,7 @@
             {
               "id": "recEDaovtNnwP0tgH",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recEDaovtNnwP0tgH",
-              "title": "20m French Grammar – Lesson 31",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 31",
               "subtitle": "Grammar Concept: 11",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -60450,7 +60325,7 @@
               "weekLabel": "Week 7",
               "sequence": 31,
               "lessonLabel": "Lesson 31",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mets la table. - I set the table.",
@@ -60558,7 +60433,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -61051,7 +60926,7 @@
             {
               "id": "recBS04jjfZmIfWNU",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recBS04jjfZmIfWNU",
-              "title": "20m French Grammar – Lesson 32",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 32",
               "subtitle": "Grammar Concept: 12",
               "lessonType": "Grammar - Intro",
               "term": "3",
@@ -61059,7 +60934,7 @@
               "weekLabel": "Week 8",
               "sequence": 32,
               "lessonLabel": "Lesson 32",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range mes jouets. - I tidy up my toys.",
@@ -61167,7 +61042,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -61660,7 +61535,7 @@
             {
               "id": "recNk3pdRUtzEu0Rw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recNk3pdRUtzEu0Rw",
-              "title": "20m French Grammar – Lesson 33",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 33",
               "subtitle": "Grammar Concept: 12",
               "lessonType": "Grammar - Practice",
               "term": "3",
@@ -61668,7 +61543,7 @@
               "weekLabel": "Week 9",
               "sequence": 33,
               "lessonLabel": "Lesson 33",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ PREP \n ⬚ Review instructions on teaching Grammar Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe mange le dîner avec ma famille. - I eat dinner with my family.",
@@ -61776,7 +61651,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -62417,7 +62292,7 @@
             {
               "id": "recbuKtVILczK10vl",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recbuKtVILczK10vl",
-              "title": "20m French Grammar – Lesson 34",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 34",
               "subtitle": "Grammar Concept: 11, 12",
               "lessonType": "Concept Review - Grammar",
               "term": "3",
@@ -62425,7 +62300,7 @@
               "weekLabel": "Week 10",
               "sequence": 34,
               "lessonLabel": "Lesson 34",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJe range les vaisselles après avoir mangé. - I put the dishes away after eating.",
@@ -62621,7 +62496,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -63677,7 +63552,7 @@
             {
               "id": "recjMbKJ82bP2Z6AY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recjMbKJ82bP2Z6AY",
-              "title": "20m French Grammar – Lesson 35",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 35",
               "subtitle": "Grammar Concept: 9, 10, 11, 12",
               "lessonType": "Term Review - Grammar",
               "term": "3",
@@ -63685,7 +63560,7 @@
               "weekLabel": "Week 11",
               "sequence": 35,
               "lessonLabel": "Lesson 35",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "➜ Needs Prep Block\n⬚",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nJ'éteins la lumière. - I turn off the light.",
@@ -64057,7 +63932,7 @@
                 }
               ],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -65462,13 +65337,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec4LFZ0a4SUN1ZCP.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -65479,7 +65349,7 @@
             {
               "id": "recwvvhyY41wmtfdw",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/paghcS1Je6B69pged?gc0nn=recwvvhyY41wmtfdw",
-              "title": "20m French Grammar – Lesson 36",
+              "title": "20m French Picture Study Ext. + Grammar – Lesson 36",
               "subtitle": "Exam",
               "lessonType": "Exams",
               "term": "3",
@@ -65487,7 +65357,7 @@
               "weekLabel": "Week 12",
               "sequence": 36,
               "lessonLabel": "Lesson 36",
-              "linkLabel": "Grammar",
+              "linkLabel": "Picture Study Ext. + Grammar",
               "materials": "",
               "prep": "",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPhrase 36 -",
@@ -65495,18 +65365,13 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recwvvhyY41wmtfdw.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
               "lessonSetId": "reczZYMg3Cr7do9p1",
-              "lessonSetTitle": "French Grammar",
+              "lessonSetTitle": "French Picture Study Ext. + Grammar",
               "language": "French"
             },
             {
@@ -65528,13 +65393,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recpew2oilo3dTWh4.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -65561,13 +65421,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec7s68tuUmM0Pjdj.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
@@ -65594,13 +65449,8 @@
               "grammarInstructions": "",
               "practiceInstructions": "",
               "cctBlock": "",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec5lgyGmTryTXFqV&term=3&week=36",
-              "links": [
-                {
-                  "text": "Lesson PDF",
-                  "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reco96KQ0llAYBB9I.pdf"
-                }
-              ],
+              "lessonLinksUrl": "",
+              "links": [],
               "vocab": [],
               "sentences": [],
               "grammarCharts": [],
