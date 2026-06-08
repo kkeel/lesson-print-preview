@@ -86,6 +86,7 @@ function renderPacket(data) {
     });
   }
 
+  updateMLPrintBodyClass();
   preview.innerHTML = html;
   renderMLPreviewControls(data);
   
@@ -209,25 +210,45 @@ function getMLReferenceSubtitle(referenceType = "") {
   }
 }
 
+function getMLCourseTitle(packetData, section = {}) {
+  return packetData.title || section.title || "";
+}
+
+function getMLLanguageLabel(packetData, section = {}) {
+  const title = getMLCourseTitle(packetData, section).toLowerCase();
+
+  if (title.includes("french")) return "French";
+  if (title.includes("spanish")) return "Spanish";
+
+  return getMLCourseTitle(packetData, section);
+}
+
 function buildMLCoverSection(section, packetData) {
   const mlSection = getModernLanguageSection(packetData);
 
   if (!mlSection) return section;
 
+  const courseTitle = getMLCourseTitle(packetData, section);
+  const languageLabel = getMLLanguageLabel(packetData, section);
+
   if (mlStudentNotebook) {
     return {
       ...section,
-      title: `${packetData.title || section.title || ""} Student Notebook`,
+      brandLine: "Student Notebook",
+      title: "Student Notebook",
       subtitle: mlStudentNotebook === "work-only"
-        ? "Student Work"
-        : "Student Work\nReferences"
+        ? `${courseTitle}: Student Work`
+        : `${courseTitle}: Student Work\n${courseTitle}: References`
     };
   }
 
   if (mlReference) {
     return {
       ...section,
-      title: `${packetData.title || section.title || ""} References`,
+      brandLine: "Alveary Reference",
+      title: mlReference === "full"
+        ? `${languageLabel} References`
+        : `${languageLabel} Reference`,
       subtitle: getMLReferenceSubtitle(mlReference)
     };
   }
@@ -241,6 +262,8 @@ function buildMLCoverSection(section, packetData) {
 
   return {
     ...section,
+    brandLine: "Alveary Lesson Plan",
+    title: courseTitle,
     subtitle
   };
 }
@@ -621,4 +644,24 @@ function slugifyPreviewAnchor(value) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
+}
+
+function updateMLPrintBodyClass() {
+  document.body.classList.remove(
+    "ml-print-lesson-plan",
+    "ml-print-student-notebook",
+    "ml-print-reference"
+  );
+
+  if (mlStudentNotebook) {
+    document.body.classList.add("ml-print-student-notebook");
+    return;
+  }
+
+  if (mlReference) {
+    document.body.classList.add("ml-print-reference");
+    return;
+  }
+
+  document.body.classList.add("ml-print-lesson-plan");
 }
