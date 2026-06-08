@@ -787,3 +787,25 @@
   background: #fff;
   line-height: 1.25;
 }
+
+/* Modern Language divider pages */
+
+.ml-divider-page {
+  min-height: 11in;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ml-divider-inner {
+  width: 100%;
+  text-align: center;
+}
+
+.ml-divider-title {
+  font-family: "Plantin MT Pro", "Times New Roman", serif;
+  font-size: 72px;
+  line-height: 1.05;
+  font-weight: 200;
+  color: #596e5e;
+}
