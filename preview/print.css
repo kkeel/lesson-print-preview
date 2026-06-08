@@ -21,7 +21,7 @@ body.pdf-mode * {
   margin: 0.5in;
 
   @bottom-left {
-    content: "Alveary Lesson Plans";
+    content: "Alveary Lesson Plan";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -43,6 +43,72 @@ body.pdf-mode * {
     color: #9a9a9a;
     white-space: nowrap;
   }
+}
+
+@page student-notebook {
+  size: 8.5in 11in;
+  margin: 0.5in;
+
+  @bottom-left {
+    content: "Student Notebook";
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+
+  @bottom-center {
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+
+  @bottom-right {
+    content: "p. " counter(page);
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+}
+
+@page alveary-reference {
+  size: 8.5in 11in;
+  margin: 0.5in;
+
+  @bottom-left {
+    content: "Alveary Reference";
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+
+  @bottom-center {
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+
+  @bottom-right {
+    content: "p. " counter(page);
+    font-family: "Circular Pro", system-ui, sans-serif;
+    font-size: 8pt;
+    color: #9a9a9a;
+    white-space: nowrap;
+  }
+}
+
+body.pdf-mode.ml-print-student-notebook .page-flow {
+  page: student-notebook;
+}
+
+body.pdf-mode.ml-print-reference .page-flow {
+  page: alveary-reference;
 }
 
 @media print {
