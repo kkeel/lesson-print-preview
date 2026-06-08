@@ -327,7 +327,10 @@ function renderMLPreviewControls(data) {
             }
     
             ${hasMLResourceType(mlSection, "glossary")
-              ? `<option value="ml-appendix-glossary">Vocabulary Glossary</option>`
+              ? `
+                <option value="ml-appendix-picture-study-vocab">Picture Study Vocab</option>
+                <option value="ml-appendix-literature-vocab">Literature Vocab</option>
+              `
               : ""
             }
 
