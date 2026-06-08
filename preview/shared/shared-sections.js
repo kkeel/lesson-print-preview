@@ -8,7 +8,7 @@ function renderCoverSection(section, packetData) {
       <section class="flow-block cover-block">
         <div class="cover-inner">
           <div class="cover-header-row">
-            <div class="cover-brand-line">Alveary Lesson Plan</div>
+            <div class="cover-brand-line">${escapeHtml(section.brandLine || "Alveary Lesson Plan")}</div>
             ${gradeText ? `<div class="cover-grade-line">${escapeHtml(gradeText)}</div>` : ""}
           </div>
 
