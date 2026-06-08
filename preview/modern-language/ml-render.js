@@ -1190,9 +1190,22 @@ function buildMLResourceTitle(items = [], fallback, options = {}) {
       .filter(Boolean)
   )];
 
-  const typeLabel = types.length === 1 ? types[0] : fallback;
-  const setLabel = sets.length === 1 ? sets[0] : sets.join(", ");
+  let typeLabel = types.length === 1 ? types[0] : fallback;
 
+  const typeLower = typeLabel.toLowerCase();
+  
+  if (typeLower.includes("picture")) {
+    typeLabel = "Picture Study Vocab";
+  } else if (typeLower.includes("literature")) {
+    typeLabel = "Literature Vocab";
+  } else if (typeLower.includes("conversation")) {
+    typeLabel = "Conversation Lines & Phrases";
+  } else if (typeLower.includes("song")) {
+    typeLabel = "Songs & Rhymes";
+  }
+  
+  const setLabel = sets.length === 1 ? sets[0] : sets.join(", ");
+  
   return [typeLabel, setLabel].filter(Boolean).join(" - ");
 }
 
