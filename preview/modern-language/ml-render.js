@@ -1,15 +1,29 @@
 function renderModernLanguageLessonsSection(section, options = {}) {
   const preparedSection = prepareMLSectionForRender(section, options);
 
+  if (options.studentNotebook) {
+    return renderMLStudentNotebookPrint(preparedSection, options.studentNotebook);
+  }
+
+  if (options.mlReference) {
+    return renderMLReferencePrint(preparedSection, options.mlReference);
+  }
+
   if (options.viewMode === "topic") {
-    return renderMLByLessonSet(preparedSection);
+    return renderMLByLessonSet(preparedSection, {
+      includeReferences: true
+    });
   }
-
+  
   if (preparedSection.weeklyLessons?.length) {
-    return renderMLWeeklyLessons(preparedSection);
+    return renderMLWeeklyLessons(preparedSection, {
+      includeReferences: !options.lesson
+    });
   }
-
-  return renderMLByLessonSet(preparedSection);
+  
+  return renderMLByLessonSet(preparedSection, {
+    includeReferences: !options.lesson
+  });
 }
 
 function prepareMLSectionForRender(section, options = {}) {
@@ -17,10 +31,12 @@ function prepareMLSectionForRender(section, options = {}) {
   const topic = String(options.topic || "").trim();
   const lessonId = String(options.lesson || "").trim();
 
-  let lessonSets = (section.lessonSets || []).map(lessonSet => ({
+  const allLessonSets = (section.lessonSets || []).map(lessonSet => ({
     ...lessonSet,
     lessons: [...(lessonSet.lessons || [])]
   }));
+
+  let lessonSets = [...allLessonSets];
 
   if (variant === "g1-3") {
     lessonSets = lessonSets.filter(lessonSet => {
@@ -51,12 +67,36 @@ function prepareMLSectionForRender(section, options = {}) {
       .filter(lessonSet => lessonSet.lessons.length);
   }
 
+  const appendixLessonSets = getMLAppendixLessonSets(allLessonSets, lessonSets, options);
+
   return {
     ...section,
     lessonSets,
     weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets),
-    appendices: buildMLAppendices(lessonSets, options)
+    appendices: buildMLAppendices(appendixLessonSets, options)
   };
+}
+
+function getMLAppendixLessonSets(allLessonSets = [], lessonSets = [], options = {}) {
+  const topic = String(options.topic || "").toLowerCase();
+
+  if (!topic) return lessonSets;
+
+  if (topic.includes("picture") && topic.includes("grammar")) {
+    return allLessonSets.filter(lessonSet =>
+      String(lessonSet.title || "").toLowerCase().includes("picture") &&
+      !String(lessonSet.title || "").toLowerCase().includes("grammar")
+    );
+  }
+
+  if (topic.includes("literature extension")) {
+    return allLessonSets.filter(lessonSet => {
+      const title = String(lessonSet.title || "").toLowerCase();
+      return title.includes("literature") && !title.includes("extension");
+    });
+  }
+
+  return lessonSets;
 }
 
 function buildMLAppendices(lessonSets = [], options = {}) {
@@ -281,7 +321,7 @@ function sortMLWeeklyLessons(a = {}, b = {}) {
   return getOrder(a.lessonSetTitle) - getOrder(b.lessonSetTitle);
 }
 
-function renderMLWeeklyLessons(section) {
+function renderMLWeeklyLessons(section, options = {}) {
   return `
     <div
       class="page-flow ml-lessons-section section-break"
@@ -296,7 +336,10 @@ function renderMLWeeklyLessons(section) {
       </section>
     </div>
 
-    ${renderMLAppendices(section.appendices)}
+    ${options.includeReferences ? `
+      ${renderMLDividerPage("References")}
+      ${renderMLAppendices(section.appendices)}
+    ` : ""}
   `;
 }
 
@@ -324,7 +367,7 @@ function renderMLWeek(week) {
   `;
 }
 
-function renderMLByLessonSet(section) {
+function renderMLByLessonSet(section, options = {}) {
   return `
     <div
       class="page-flow ml-lessons-section section-break"
@@ -343,7 +386,10 @@ function renderMLByLessonSet(section) {
       </section>
     </div>
 
+    ${options.includeReferences ? `
+    ${renderMLDividerPage("References")}
     ${renderMLAppendices(section.appendices)}
+  ` : ""}
   `;
 }
 
@@ -687,33 +733,136 @@ function renderMLConversationSet(setGroup) {
   `;
 }
 
-function renderMLAppendices(appendices = {}) {
-  const hasStories = (appendices.stories || []).length;
-  const hasSongs = (appendices.songsRhymes || []).length;
-  const hasGlossary = (appendices.glossary || []).length;
-  const hasConversationLines = (appendices.conversationLines || []).length;
-  const hasStudentLiteraturePages = (appendices.studentLiteraturePages || []).length;
+function renderMLDividerPage(title = "") {
+  return `
+    <div class="page-flow ml-divider-page section-break">
+      <section class="ml-divider-inner">
+        <div class="ml-divider-title">${escapeHtml(title)}</div>
+      </section>
+    </div>
+  `;
+}
 
-  if (!hasStories && !hasSongs && !hasGlossary && !hasConversationLines && !hasStudentLiteraturePages) {
+function renderMLStudentNotebookPrint(section, notebookType = "full") {
+  const hasStudentWork = (section.appendices.studentLiteraturePages || []).length;
+  const includeReferences = notebookType !== "work-only";
+
+  return `
+    ${hasStudentWork ? `
+      ${renderMLDividerPage("Student Work")}
+      ${renderMLStudentLiteraturePages(section.appendices.studentLiteraturePages || [])}
+    ` : ""}
+
+    ${includeReferences ? `
+      ${renderMLDividerPage("References")}
+      ${renderMLAppendices(section.appendices, {
+        includeSongs: true,
+        includeStories: true,
+        includePictureStudyVocab: true,
+        includeLiteratureVocab: true,
+        includeConversationLines: true,
+        includeStudentLiteraturePages: false
+      })}
+    ` : ""}
+  `;
+}
+
+function renderMLReferencePrint(section, referenceType = "full") {
+  return renderMLAppendices(section.appendices, getMLAppendixOptionsForReference(referenceType));
+}
+
+function getMLAppendixOptionsForReference(referenceType = "full") {
+  switch (referenceType) {
+    case "songs-rhymes":
+      return { includeSongs: true };
+
+    case "storylines":
+      return { includeStories: true };
+
+    case "picture-study-vocab":
+      return { includePictureStudyVocab: true };
+
+    case "literature-vocab":
+      return { includeLiteratureVocab: true };
+
+    case "conversation-lines-phrases":
+      return { includeConversationLines: true };
+
+    case "full":
+    default:
+      return {
+        includeSongs: true,
+        includeStories: true,
+        includePictureStudyVocab: true,
+        includeLiteratureVocab: true,
+        includeConversationLines: true,
+        includeStudentLiteraturePages: false
+      };
+  }
+}
+
+function filterMLGlossaryItems(items = [], options = {}) {
+  return (items || []).filter(item => {
+    const type = String(item.type || "").toLowerCase();
+
+    if (type.includes("picture")) {
+      return options.includePictureStudyVocab;
+    }
+
+    if (type.includes("literature")) {
+      return options.includeLiteratureVocab;
+    }
+
+    return options.includePictureStudyVocab || options.includeLiteratureVocab;
+  });
+}
+
+function renderMLAppendices(appendices = {}, options = {}) {
+  const includeStories = options.includeStories ?? true;
+  const includeSongs = options.includeSongs ?? true;
+  const includeConversationLines = options.includeConversationLines ?? true;
+  const includeStudentLiteraturePages = options.includeStudentLiteraturePages ?? false;
+
+  const glossaryItems = filterMLGlossaryItems(appendices.glossary || [], {
+    includePictureStudyVocab: options.includePictureStudyVocab ?? true,
+    includeLiteratureVocab: options.includeLiteratureVocab ?? true
+  });
+
+  const stories = includeStories ? (appendices.stories || []) : [];
+  const songsRhymes = includeSongs ? (appendices.songsRhymes || []) : [];
+  const conversationLines = includeConversationLines ? (appendices.conversationLines || []) : [];
+  const studentLiteraturePages = includeStudentLiteraturePages
+    ? (appendices.studentLiteraturePages || [])
+    : [];
+
+  const pictureStudyGlossary = glossaryItems.filter(item =>
+    String(item.type || "").toLowerCase().includes("picture")
+  );
+
+  const literatureGlossary = glossaryItems.filter(item =>
+    String(item.type || "").toLowerCase().includes("literature")
+  );
+
+  const hasStories = stories.length;
+  const hasSongs = songsRhymes.length;
+  const hasPictureStudyGlossary = pictureStudyGlossary.length;
+  const hasLiteratureGlossary = literatureGlossary.length;
+  const hasConversationLines = conversationLines.length;
+  const hasStudentLiteraturePages = studentLiteraturePages.length;
+
+  if (
+    !hasStories &&
+    !hasSongs &&
+    !hasPictureStudyGlossary &&
+    !hasLiteratureGlossary &&
+    !hasConversationLines &&
+    !hasStudentLiteraturePages
+  ) {
     return "";
   }
 
   return `
     <section class="ml-appendices">
-      ${hasStories ? `
-        <div class="page-flow ml-appendix-page ml-appendix-storylines section-break" id="ml-appendix-storylines">
-          <section class="ml-appendix-block ml-storylines-appendix">
-            <h1 class="lesson-page-title ml-appendix-title">
-              Storylines
-            </h1>
-          
-            <div class="ml-story-list">
-              ${(appendices.stories || []).map(renderMLStoryResource).join("")}
-            </div>
-          </section>
-        </div>
-      ` : ""}
-
       ${hasSongs ? `
         <div class="page-flow ml-appendix-page ml-appendix-songs section-break" id="ml-appendix-songs">
           <section class="ml-appendix-block ml-songs-appendix">
@@ -722,21 +871,49 @@ function renderMLAppendices(appendices = {}) {
             </h1>
       
             <div class="ml-song-list">
-              ${(appendices.songsRhymes || []).map(renderMLSongResource).join("")}
+              ${songsRhymes.map(renderMLSongResource).join("")}
             </div>
           </section>
         </div>
       ` : ""}
 
-      ${hasGlossary ? `
-        <div class="page-flow ml-appendix-page ml-appendix-glossary section-break" id="ml-appendix-glossary">
+      ${hasStories ? `
+        <div class="page-flow ml-appendix-page ml-appendix-storylines section-break" id="ml-appendix-storylines">
+          <section class="ml-appendix-block ml-storylines-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Storylines
+            </h1>
+          
+            <div class="ml-story-list">
+              ${stories.map(renderMLStoryResource).join("")}
+            </div>
+          </section>
+        </div>
+      ` : ""}
+
+      ${hasPictureStudyGlossary ? `
+        <div class="page-flow ml-appendix-page ml-appendix-glossary section-break" id="ml-appendix-picture-study-vocab">
           <section class="ml-appendix-block ml-glossary-appendix">
             <h1 class="lesson-page-title ml-appendix-title">
-              Vocabulary Glossary
+              Picture Study Vocab
             </h1>
       
             <div class="ml-glossary-list">
-              ${renderMLGlossaryResources(appendices.glossary || [])}
+              ${renderMLGlossaryResources(pictureStudyGlossary)}
+            </div>
+          </section>
+        </div>
+      ` : ""}
+
+      ${hasLiteratureGlossary ? `
+        <div class="page-flow ml-appendix-page ml-appendix-glossary section-break" id="ml-appendix-literature-vocab">
+          <section class="ml-appendix-block ml-glossary-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Literature Vocab
+            </h1>
+      
+            <div class="ml-glossary-list">
+              ${renderMLGlossaryResources(literatureGlossary)}
             </div>
           </section>
         </div>
@@ -750,14 +927,14 @@ function renderMLAppendices(appendices = {}) {
             </h1>
       
             <div class="ml-glossary-list ml-conversation-list">
-              ${renderMLConversationResources(appendices.conversationLines || [])}
+              ${renderMLConversationResources(conversationLines)}
             </div>
           </section>
         </div>
       ` : ""}
 
       ${hasStudentLiteraturePages ? `
-        ${renderMLStudentLiteraturePages(appendices.studentLiteraturePages || [])}
+        ${renderMLStudentLiteraturePages(studentLiteraturePages)}
       ` : ""}
     </section>
   `;
