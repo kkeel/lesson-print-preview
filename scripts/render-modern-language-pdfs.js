@@ -21,7 +21,9 @@ const OUTPUT_PATHS = {
   fullCourse: `${OUTPUT_ROOT}/full-course`,
   grades13: `${OUTPUT_ROOT}/grades-1-3`,
   topics: `${OUTPUT_ROOT}/topics`,
-  individualLessons: `${OUTPUT_ROOT}/individual-lessons`
+  individualLessons: `${OUTPUT_ROOT}/individual-lessons`,
+  studentNotebooks: `${OUTPUT_ROOT}/student-notebooks`,
+  references: `${OUTPUT_ROOT}/references`
 };
 
 for (const dir of Object.values(OUTPUT_PATHS)) {
@@ -179,6 +181,98 @@ function getIndividualLessonJobs(packet, mlSection) {
   return jobs;
 }
 
+function getLanguageSlug(packet, mlSection) {
+  const title = String(packet.title || mlSection.title || "").toLowerCase();
+
+  if (title.includes("french")) return "french";
+  if (title.includes("spanish")) return "spanish";
+
+  const firstLessonSetTitle = String((mlSection.lessonSets || [])[0]?.title || "").toLowerCase();
+
+  if (firstLessonSetTitle.includes("french")) return "french";
+  if (firstLessonSetTitle.includes("spanish")) return "spanish";
+
+  return slugify(packet.title || packet.id);
+}
+
+function getStudentNotebookJobs(packet, mlSection) {
+  const languageSlug = getLanguageSlug(packet, mlSection);
+
+  return [
+    {
+      key: `${packet.id}:student-notebook:full`,
+      type: "studentNotebookFull",
+      packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
+      outputPath: path.join(
+        OUTPUT_PATHS.studentNotebooks,
+        `${packet.id}-${languageSlug}-student-notebook-full.pdf`
+      ),
+      url: buildPrintUrl(packet.id, {
+        studentNotebook: "full"
+      }),
+      hashSource: {
+        packetId: packet.id,
+        pdfPrintingStatus: packet.pdfPrintingStatus,
+        studentNotebook: "full",
+        packet
+      }
+    },
+    {
+      key: `${packet.id}:student-notebook:work-only`,
+      type: "studentNotebookWorkOnly",
+      packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
+      outputPath: path.join(
+        OUTPUT_PATHS.studentNotebooks,
+        `${packet.id}-${languageSlug}-student-notebook-work-only.pdf`
+      ),
+      url: buildPrintUrl(packet.id, {
+        studentNotebook: "work-only"
+      }),
+      hashSource: {
+        packetId: packet.id,
+        pdfPrintingStatus: packet.pdfPrintingStatus,
+        studentNotebook: "work-only",
+        packet
+      }
+    }
+  ];
+}
+
+function getReferenceJobs(packet, mlSection) {
+  const languageSlug = getLanguageSlug(packet, mlSection);
+
+  const references = [
+    ["full", "references-full"],
+    ["songs-rhymes", "songs-rhymes-reference"],
+    ["storylines", "storylines-reference"],
+    ["picture-study-vocab", "picture-study-vocab-reference"],
+    ["literature-vocab", "literature-vocab-reference"],
+    ["conversation-lines-phrases", "conversation-lines-phrases-reference"]
+  ];
+
+  return references.map(([referenceType, fileSuffix]) => ({
+    key: `${packet.id}:reference:${referenceType}`,
+    type: `reference:${referenceType}`,
+    packetId: packet.id,
+    pdfPrintingStatus: packet.pdfPrintingStatus,
+    outputPath: path.join(
+      OUTPUT_PATHS.references,
+      `${packet.id}-${languageSlug}-${fileSuffix}.pdf`
+    ),
+    url: buildPrintUrl(packet.id, {
+      mlReference: referenceType
+    }),
+    hashSource: {
+      packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
+      mlReference: referenceType,
+      packet
+    }
+  }));
+}
+
 function getPacketRenderJobs(packet) {
   const mlSection = getModernLanguageSection(packet);
 
@@ -215,7 +309,9 @@ function getPacketRenderJobs(packet) {
       }
     },
     ...getTopicRenderJobs(packet, mlSection),
-    ...getIndividualLessonJobs(packet, mlSection)
+    ...getIndividualLessonJobs(packet, mlSection),
+    ...getStudentNotebookJobs(packet, mlSection),
+    ...getReferenceJobs(packet, mlSection)
   ];
 }
 
