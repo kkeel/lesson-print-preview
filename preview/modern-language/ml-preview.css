@@ -751,9 +751,9 @@
 /* Conversation Lines & Phrases appendix */
 
 .ml-conversation-set-pairs {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.22in 0.28in;
+  display: flex;
+  flex-direction: column;
+  gap: 0.16in;
 }
 
 .ml-conversation-set {
@@ -767,7 +767,7 @@
 
 .ml-conversation-line {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr);
 }
 
 .ml-conversation-line + .ml-conversation-line {
