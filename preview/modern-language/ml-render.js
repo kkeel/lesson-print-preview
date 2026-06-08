@@ -648,10 +648,10 @@ function renderMLConversationResources(items = []) {
   const sets = groupMLItemsBySet(items);
 
   return `
-    <article class="ml-glossary-section ml-conversation-section">
+    <article class="ml-conversation-section">
       <div class="ml-appendix-top-rule"></div>
 
-      <div class="ml-glossary-set-list">
+      <div class="ml-conversation-set-pairs">
         ${sets.map(([setLabel, setItems]) => renderMLConversationSet({
           set: setLabel,
           items: setItems
@@ -663,21 +663,21 @@ function renderMLConversationResources(items = []) {
 
 function renderMLConversationSet(setGroup) {
   return `
-    <section class="ml-glossary-set ml-conversation-set">
+    <section class="ml-conversation-set">
       <h3 class="ml-glossary-set-title">
         ${escapeHtml(setGroup.set || "Set")}
       </h3>
 
-      <div class="ml-glossary-grid ml-conversation-grid">
+      <div class="ml-conversation-table">
         ${(setGroup.items || [])
           .sort((a, b) => Number(a.sequence || 0) - Number(b.sequence || 0))
           .map(item => `
-            <div class="ml-glossary-row ml-conversation-row">
-              <div class="ml-glossary-language ml-conversation-language">
+            <div class="ml-conversation-line">
+              <div class="ml-conversation-language">
                 ${escapeHtml(item.sentence || "")}
               </div>
 
-              <div class="ml-glossary-translation ml-conversation-translation">
+              <div class="ml-conversation-translation">
                 ${escapeHtml(item.translation || "")}
               </div>
             </div>
