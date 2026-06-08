@@ -157,6 +157,12 @@ function renderMLPreviewControls(data) {
               ? `<option value="ml-student-literature-pages">Storyboard / Copywork</option>`
               : ""
             }
+
+            ${hasMLConversationLines(mlSection)
+              ? `<option value="ml-appendix-conversations">Conversation Lines & Phrases</option>`
+              : ""
+            }
+
           </select>
         </div>
         
@@ -232,6 +238,18 @@ function renderMLPreviewControls(data) {
 function hasMLResourceType(section, resourceKey) {
   return (section.lessonSets || []).some(lessonSet =>
     (lessonSet.resources?.[resourceKey] || []).length
+  );
+}
+
+function hasMLConversationLines(section) {
+  return (section.lessonSets || []).some(lessonSet =>
+    (lessonSet.lessons || []).some(lesson =>
+      (lesson.sentences || []).some(sentence =>
+        String(sentence.sentenceType || "")
+          .toLowerCase()
+          .includes("conversation")
+      )
+    )
   );
 }
 
