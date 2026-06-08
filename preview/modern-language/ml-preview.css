@@ -747,3 +747,43 @@
   height: 0;
   border-bottom: 0.9px solid #596e5e;
 }
+
+/* Conversation Lines & Phrases appendix */
+
+.ml-conversation-set-pairs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.22in 0.28in;
+}
+
+.ml-conversation-set {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.ml-conversation-table {
+  border: 0.5px solid #d7ddd4;
+}
+
+.ml-conversation-line {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.ml-conversation-line + .ml-conversation-line {
+  border-top: 0.5px solid #d7ddd4;
+}
+
+.ml-conversation-language {
+  padding: 6px 8px;
+  font-weight: 700;
+  background: #f4f6fa;
+  line-height: 1.25;
+}
+
+.ml-conversation-translation {
+  padding: 6px 8px;
+  font-style: italic;
+  background: #fff;
+  line-height: 1.25;
+}
