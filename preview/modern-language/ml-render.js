@@ -1,6 +1,10 @@
 function renderModernLanguageLessonsSection(section, options = {}) {
   const preparedSection = prepareMLSectionForRender(section, options);
 
+  if (options.referencesOnly) {
+    return renderMLTeacherReferences(preparedSection);
+  }
+
   if (options.studentNotebook) {
     return renderMLStudentNotebookPrint(preparedSection, options.studentNotebook);
   }
@@ -11,18 +15,18 @@ function renderModernLanguageLessonsSection(section, options = {}) {
 
   if (options.viewMode === "topic") {
     return renderMLByLessonSet(preparedSection, {
-      includeReferences: true
+      includeReferences: options.includeTeacherReferences !== false
     });
   }
   
   if (preparedSection.weeklyLessons?.length) {
     return renderMLWeeklyLessons(preparedSection, {
-      includeReferences: !options.lesson
+      includeReferences: options.includeTeacherReferences !== false && !options.lesson
     });
   }
   
   return renderMLByLessonSet(preparedSection, {
-    includeReferences: !options.lesson
+    includeReferences: options.includeTeacherReferences !== false && !options.lesson
   });
 }
 
@@ -641,20 +645,11 @@ function sortMLGlossaryType(type = "") {
 }
 
 function renderMLGlossarySection(section) {
-  const languageLabel = section.language || "Spanish/French";
-
   const sets = [...section.sets.values()]
     .sort((a, b) => getMLSetNumber(a.set) - getMLSetNumber(b.set));
 
   return `
     <article class="ml-glossary-section">
-      <div class="ml-appendix-top-rule"></div>
-
-      <header class="ml-story-header">
-        <h2 class="ml-story-title">
-          ${escapeHtml(section.type || "Vocabulary")} Vocabulary
-        </h2>
-      </header>
       <div class="ml-glossary-set-list">
         ${sets.map(renderMLGlossarySet).join("")}
       </div>
@@ -730,6 +725,13 @@ function renderMLConversationSet(setGroup) {
           `).join("")}
       </div>
     </section>
+  `;
+}
+
+function renderMLTeacherReferences(section) {
+  return `
+    ${renderMLDividerPage("References")}
+    ${renderMLAppendices(section.appendices)}
   `;
 }
 
