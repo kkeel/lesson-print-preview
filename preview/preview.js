@@ -53,9 +53,38 @@ function renderPacket(data) {
       ? data.sections.filter(section => section.type === "modern-language-lessons")
       : data.sections;
   
+    const shouldMoveMLReferences =
+    !isMLSpecialPrint &&
+    !mlLesson;
+
+  let mlReferenceSection = null;
+
   sectionsToRender.forEach(section => {
+    if (shouldMoveMLReferences && section.type === "modern-language-lessons") {
+      mlReferenceSection = section;
+
+      html += renderSection({
+        ...section,
+        suppressMLReferences: true
+      }, data);
+
+      return;
+    }
+
     html += renderSection(section, data);
   });
+
+  if (shouldMoveMLReferences && mlReferenceSection) {
+    html += renderModernLanguageLessonsSection(mlReferenceSection, {
+      viewMode: mlViewMode,
+      variant: mlVariant,
+      topic: mlTopic,
+      lesson: "",
+      studentNotebook: "",
+      mlReference: "",
+      referencesOnly: true
+    });
+  }
 
   preview.innerHTML = html;
   renderMLPreviewControls(data);
@@ -91,7 +120,8 @@ function renderSection(section, packetData) {
       topic: mlTopic,
       lesson: mlLesson,
       studentNotebook: mlStudentNotebook,
-      mlReference
+      mlReference,
+      includeTeacherReferences: !section.suppressMLReferences
     });
   }
 
