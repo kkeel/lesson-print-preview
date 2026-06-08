@@ -809,6 +809,15 @@ function renderMLPhraseBlock(value) {
   const heading = lines[0] || "";
   const phraseLine = lines.slice(1).join(" ").trim();
 
+  if (
+    !phraseLine ||
+    phraseLine === "-" ||
+    phraseLine === "–" ||
+    phraseLine === "—"
+  ) {
+    return "";
+  }
+
   const parts = phraseLine.split(/\s+-\s+/);
   const phrase = (parts[0] || "").trim();
   const translation = parts.slice(1).join(" - ").trim();
