@@ -4,6 +4,8 @@ const jumpTarget = params.get("jump");
 const mlVariant = params.get("variant") || "";
 const mlTopic = params.get("topic") || "";
 const mlLesson = params.get("lesson") || "";
+const mlStudentNotebook = params.get("studentNotebook") || "";
+const mlReference = params.get("mlReference") || "";
 
 const preview = document.getElementById("preview");
 
@@ -40,9 +42,16 @@ function renderPacket(data) {
     throw new Error("Missing sections array in JSON");
   }
 
-  const sectionsToRender = mlLesson
-    ? data.sections.filter(section => section.type === "modern-language-lessons")
-    : data.sections;
+  const isMLSpecialPrint = Boolean(mlStudentNotebook || mlReference);
+
+  const sectionsToRender = isMLSpecialPrint
+    ? data.sections.filter(section =>
+        section.type === "cover" ||
+        section.type === "modern-language-lessons"
+      )
+    : mlLesson
+      ? data.sections.filter(section => section.type === "modern-language-lessons")
+      : data.sections;
   
   sectionsToRender.forEach(section => {
     html += renderSection(section, data);
@@ -60,7 +69,7 @@ function renderPacket(data) {
 
 function renderSection(section, packetData) {
   if (section.type === "cover") {
-    return renderCoverSection(section, packetData);
+    return renderCoverSection(buildMLCoverSection(section, packetData), packetData);
   }
 
   if (section.type === "header") {
@@ -68,7 +77,7 @@ function renderSection(section, packetData) {
   }
 
   if (section.type === "howto") {
-    return renderHowToSection(section);
+    return renderHowToSection(filterMLHowToSection(section, packetData));
   }
 
   if (section.type === "lessons") {
@@ -80,7 +89,9 @@ function renderSection(section, packetData) {
       viewMode: mlViewMode,
       variant: mlVariant,
       topic: mlTopic,
-      lesson: mlLesson
+      lesson: mlLesson,
+      studentNotebook: mlStudentNotebook,
+      mlReference
     });
   }
 
@@ -93,6 +104,173 @@ function renderSection(section, packetData) {
 
 function getModernLanguageSection(data) {
   return (data.sections || []).find(section => section.type === "modern-language-lessons");
+}
+
+function getMLFilteredLessonSetsForCover(mlSection) {
+  let lessonSets = [...(mlSection.lessonSets || [])];
+
+  if (mlVariant === "g1-3") {
+    lessonSets = lessonSets.filter(lessonSet => {
+      const title = String(lessonSet.title || "").toLowerCase();
+
+      return (
+        !title.includes("grammar") &&
+        !title.includes("literature extension")
+      );
+    });
+  }
+
+  if (mlTopic) {
+    lessonSets = lessonSets.filter(lessonSet =>
+      slugifyPreviewAnchor(lessonSet.title || "") === slugifyPreviewAnchor(mlTopic)
+    );
+  }
+
+  return lessonSets;
+}
+
+function getMLTopicSubtitleLabel(title = "") {
+  const value = String(title || "").toLowerCase();
+
+  if (value.includes("picture") && value.includes("grammar")) {
+    return "Picture Study Extension + Grammar (4th+)";
+  }
+
+  if (value.includes("picture")) {
+    return "Picture Study";
+  }
+
+  if (value.includes("literature extension")) {
+    return "Literature Extension (4th+)";
+  }
+
+  if (value.includes("literature")) {
+    return "Literature";
+  }
+
+  if (value.includes("song") || value.includes("conversation")) {
+    return "Songs, Rhymes, & Conversations";
+  }
+
+  return title;
+}
+
+function getMLReferenceSubtitle(referenceType = "") {
+  switch (referenceType) {
+    case "songs-rhymes":
+      return "Songs & Rhymes";
+    case "storylines":
+      return "Storylines";
+    case "picture-study-vocab":
+      return "Picture Study Vocab";
+    case "literature-vocab":
+      return "Literature Vocab";
+    case "conversation-lines-phrases":
+      return "Conversation Lines & Phrases";
+    case "full":
+    default:
+      return [
+        "Songs & Rhymes",
+        "Storylines",
+        "Picture Study Vocab",
+        "Literature Vocab",
+        "Conversation Lines & Phrases"
+      ].join("\n");
+  }
+}
+
+function buildMLCoverSection(section, packetData) {
+  const mlSection = getModernLanguageSection(packetData);
+
+  if (!mlSection) return section;
+
+  if (mlStudentNotebook) {
+    return {
+      ...section,
+      title: `${packetData.title || section.title || ""} Student Notebook`,
+      subtitle: mlStudentNotebook === "work-only"
+        ? "Student Work"
+        : "Student Work\nReferences"
+    };
+  }
+
+  if (mlReference) {
+    return {
+      ...section,
+      title: `${packetData.title || section.title || ""} References`,
+      subtitle: getMLReferenceSubtitle(mlReference)
+    };
+  }
+
+  const lessonSets = getMLFilteredLessonSetsForCover(mlSection);
+  const subtitle = lessonSets
+    .map(lessonSet => getMLTopicSubtitleLabel(lessonSet.title || ""))
+    .filter(Boolean)
+    .filter((label, index, list) => list.indexOf(label) === index)
+    .join("\n");
+
+  return {
+    ...section,
+    subtitle
+  };
+}
+
+function filterMLHowToSection(section, packetData) {
+  if (mlViewMode !== "topic" || !mlTopic) return section;
+
+  const topicLower = String(mlTopic || "").toLowerCase();
+  const packetTitleLower = String(packetData.title || "").toLowerCase();
+
+  const needsSpanishPicture =
+    packetTitleLower.includes("spanish") &&
+    topicLower.includes("picture");
+
+  const needsFrenchPicture =
+    packetTitleLower.includes("french") &&
+    topicLower.includes("picture");
+
+  const needsLiterature =
+    topicLower.includes("literature");
+
+  const needsSongs =
+    topicLower.includes("song") ||
+    topicLower.includes("rhyme") ||
+    topicLower.includes("conversation");
+
+  const pages = (section.pages || []).filter(page => {
+    const text = [
+      page.title,
+      page.subtitle,
+      ...(page.blocks || []).map(block => block.prompt)
+    ].join(" ").toLowerCase();
+
+    if (needsSpanishPicture) {
+      return text.includes("spanish") && text.includes("picture");
+    }
+
+    if (needsFrenchPicture) {
+      return text.includes("french") && text.includes("picture");
+    }
+
+    if (needsLiterature) {
+      return text.includes("literature");
+    }
+
+    if (needsSongs) {
+      return (
+        text.includes("song") ||
+        text.includes("rhyme") ||
+        text.includes("conversation")
+      );
+    }
+
+    return true;
+  });
+
+  return {
+    ...section,
+    pages
+  };
 }
 
 function renderMLPreviewControls(data) {
