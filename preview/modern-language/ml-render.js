@@ -63,10 +63,12 @@ function buildMLAppendices(lessonSets = [], options = {}) {
   const seenStoryIds = new Set();
   const seenSongIds = new Set();
   const seenGlossaryIds = new Set();
+  const seenConversationIds = new Set();
 
   const stories = [];
   const songsRhymes = [];
   const glossary = [];
+  const conversationLines = [];
 
   lessonSets.forEach(lessonSet => {
     const resources = lessonSet.resources || {};
@@ -106,6 +108,26 @@ function buildMLAppendices(lessonSets = [], options = {}) {
         language: lessonSet.language
       });
     });
+
+    (lessonSet.lessons || []).forEach(lesson => {
+      (lesson.sentences || []).forEach(sentence => {
+        const sentenceType = String(sentence.sentenceType || "").toLowerCase();
+
+        if (!sentenceType.includes("conversation")) return;
+
+        const id = sentence.id || `${sentence.sentence || ""}-${sentence.translation || ""}-${sentence.set || ""}`;
+        if (seenConversationIds.has(id)) return;
+
+        seenConversationIds.add(id);
+
+        conversationLines.push({
+          ...sentence,
+          id,
+          lessonSetTitle: lessonSet.title,
+          language: sentence.language || lesson.language || lessonSet.language
+        });
+      });
+    });
   });
 
   stories.sort((a, b) => {
@@ -126,10 +148,11 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     return String(a.title || "").localeCompare(String(b.title || ""));
   });
   
-    return {
+  return {
     stories,
     songsRhymes,
     glossary,
+    conversationLines,
     studentLiteraturePages: buildMLStudentLiteraturePages(lessonSets)
   };
 }
@@ -619,13 +642,59 @@ function renderMLGlossarySet(setGroup) {
   `;
 }
 
+function renderMLConversationResources(items = []) {
+  if (!items.length) return "";
+
+  const sets = groupMLItemsBySet(items);
+
+  return `
+    <article class="ml-glossary-section ml-conversation-section">
+      <div class="ml-appendix-top-rule"></div>
+
+      <div class="ml-glossary-set-list">
+        ${sets.map(([setLabel, setItems]) => renderMLConversationSet({
+          set: setLabel,
+          items: setItems
+        })).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function renderMLConversationSet(setGroup) {
+  return `
+    <section class="ml-glossary-set ml-conversation-set">
+      <h3 class="ml-glossary-set-title">
+        ${escapeHtml(setGroup.set || "Set")}
+      </h3>
+
+      <div class="ml-glossary-grid ml-conversation-grid">
+        ${(setGroup.items || [])
+          .sort((a, b) => Number(a.sequence || 0) - Number(b.sequence || 0))
+          .map(item => `
+            <div class="ml-glossary-row ml-conversation-row">
+              <div class="ml-glossary-language ml-conversation-language">
+                ${escapeHtml(item.sentence || "")}
+              </div>
+
+              <div class="ml-glossary-translation ml-conversation-translation">
+                ${escapeHtml(item.translation || "")}
+              </div>
+            </div>
+          `).join("")}
+      </div>
+    </section>
+  `;
+}
+
 function renderMLAppendices(appendices = {}) {
   const hasStories = (appendices.stories || []).length;
   const hasSongs = (appendices.songsRhymes || []).length;
   const hasGlossary = (appendices.glossary || []).length;
+  const hasConversationLines = (appendices.conversationLines || []).length;
   const hasStudentLiteraturePages = (appendices.studentLiteraturePages || []).length;
 
-  if (!hasStories && !hasSongs && !hasGlossary && !hasStudentLiteraturePages) {
+  if (!hasStories && !hasSongs && !hasGlossary && !hasConversationLines && !hasStudentLiteraturePages) {
     return "";
   }
 
@@ -668,6 +737,20 @@ function renderMLAppendices(appendices = {}) {
       
             <div class="ml-glossary-list">
               ${renderMLGlossaryResources(appendices.glossary || [])}
+            </div>
+          </section>
+        </div>
+      ` : ""}
+
+      ${hasConversationLines ? `
+        <div class="page-flow ml-appendix-page ml-appendix-conversations section-break" id="ml-appendix-conversations">
+          <section class="ml-appendix-block ml-conversations-appendix">
+            <h1 class="lesson-page-title ml-appendix-title">
+              Conversation Lines & Phrases
+            </h1>
+      
+            <div class="ml-glossary-list ml-conversation-list">
+              ${renderMLConversationResources(appendices.conversationLines || [])}
             </div>
           </section>
         </div>
