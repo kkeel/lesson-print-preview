@@ -27,7 +27,7 @@
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recBP0ILhMKRSKye3",
   "hidePdf": "",
   "syllabird": {
-    "status": "Import is Current",
+    "status": "Needs Updated Import",
     "trackerTemplate": "",
     "trackerTitleTemplate": "",
     "perWeek": 0
@@ -64,7 +64,7 @@
               "label": "Ancient History: Grades 5-6",
               "grade": "5-6",
               "scheduleInfo": "Ancient History: Grades 5-6\n1 time/week 25 min",
-              "books": "The Bronze Bow||Redemption: The Church in Ancient Times"
+              "books": "The Bronze Bow||Redemption: The Church in Ancient Times||The Student Bible Atlas, Revised Edition"
             }
           ],
           "weeklyView": {
@@ -122,6 +122,10 @@
                 {
                   "title": "Redemption: The Church in Ancient Times",
                   "resourceId": "recUV4v0GyiQDjt7S"
+                },
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
                 }
               ]
             }

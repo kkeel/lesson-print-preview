@@ -83,7 +83,7 @@
               "label": "Ancient History: Grades 5-6",
               "grade": "5-6",
               "scheduleInfo": "Ancient History: Grades 5-6\n1 time/week 25 min",
-              "books": "The Bronze Bow||Redemption: The Church in Ancient Times"
+              "books": "The Bronze Bow||Redemption: The Church in Ancient Times||The Student Bible Atlas, Revised Edition"
             },
             {
               "rowType": "topic",
@@ -165,6 +165,10 @@
                 {
                   "title": "Redemption: The Church in Ancient Times",
                   "resourceId": "recUV4v0GyiQDjt7S"
+                },
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
                 }
               ]
             },

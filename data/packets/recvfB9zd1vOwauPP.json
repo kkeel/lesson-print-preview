@@ -187,6 +187,62 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/topics/recvfB9zd1vOwauPP-spanish-literature-extension.pdf",
                   "sort": "6",
                   "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "rec7YYu8x54KqyrvE",
+                  "label": "Spanish: Student Notebook (Student Work + References)",
+                  "url": "#",
+                  "sort": "7",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recDk9v4GA9bmVACI",
+                  "label": "Spanish: Student Notebook (Student Work only)",
+                  "url": "#",
+                  "sort": "8",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "reckklZPzthss8ac0",
+                  "label": "Spanish: References",
+                  "url": "#",
+                  "sort": "9",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recZY0l6cty7whWmM",
+                  "label": "Spanish: Songs & Rhymes Reference only",
+                  "url": "#",
+                  "sort": "10",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "rec6zlvnOIcuAL09r",
+                  "label": "Spanish: Storylines Reference only",
+                  "url": "#",
+                  "sort": "11",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "reckC8k7w5j4B2pBl",
+                  "label": "Spanish: Picture Study Vocab Reference only",
+                  "url": "#",
+                  "sort": "12",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recwnjjj22MrWSc9y",
+                  "label": "Spanish: Literature Vocab Reference only",
+                  "url": "#",
+                  "sort": "13",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
+                },
+                {
+                  "id": "recSMaCFReExOd3Ak",
+                  "label": "Spanish: Conversation Lines & Phrases only",
+                  "url": "#",
+                  "sort": "14",
+                  "sourceTitle": "Lower Spanish: Grades 1-6"
                 }
               ]
             }

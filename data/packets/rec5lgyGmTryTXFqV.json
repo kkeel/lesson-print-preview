@@ -179,6 +179,62 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/topics/rec5lgyGmTryTXFqV-french-songs-rhymes-conversations.pdf",
                   "sort": "6",
                   "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recP3O7yoL7aiQHk3",
+                  "label": "French: Student Notebook (Student Work + References)",
+                  "url": "#",
+                  "sort": "7",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recxUa5ulKWRKWYtH",
+                  "label": "French: Student Notebook (Student Work only)",
+                  "url": "#",
+                  "sort": "8",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "rec3qxIBefDWkFRWT",
+                  "label": "French: References",
+                  "url": "#",
+                  "sort": "9",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recLYiVVcwADj8071",
+                  "label": "French: Songs & Rhymes Reference only",
+                  "url": "#",
+                  "sort": "10",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recwllF5AQQKZ8WgJ",
+                  "label": "French: Storylines Reference only",
+                  "url": "#",
+                  "sort": "11",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recVtJBjalo2TOfUh",
+                  "label": "French: Picture Study Vocab Reference only",
+                  "url": "#",
+                  "sort": "12",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recxaTjDb6psHknbb",
+                  "label": "French: Literature Vocab Reference only",
+                  "url": "#",
+                  "sort": "13",
+                  "sourceTitle": "Lower French: Grades 1-6"
+                },
+                {
+                  "id": "recV0b86FT7JwBGS1",
+                  "label": "French: Conversation Lines & Phrases only",
+                  "url": "#",
+                  "sort": "14",
+                  "sourceTitle": "Lower French: Grades 1-6"
                 }
               ]
             }
