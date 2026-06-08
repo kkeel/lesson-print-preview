@@ -899,6 +899,8 @@ function renderMLAppendices(appendices = {}, options = {}) {
             <h1 class="lesson-page-title ml-appendix-title">
               Picture Study Vocab
             </h1>
+
+            <div class="ml-appendix-top-rule"></div>
       
             <div class="ml-glossary-list">
               ${renderMLGlossaryResources(pictureStudyGlossary)}
@@ -913,6 +915,8 @@ function renderMLAppendices(appendices = {}, options = {}) {
             <h1 class="lesson-page-title ml-appendix-title">
               Literature Vocab
             </h1>
+
+            <div class="ml-appendix-top-rule"></div>
       
             <div class="ml-glossary-list">
               ${renderMLGlossaryResources(literatureGlossary)}
