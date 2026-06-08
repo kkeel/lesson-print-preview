@@ -74,8 +74,8 @@
         "groupType": "course"
       },
       {
-        "label": "Lower French: Grammar only (Grades 4+)",
-        "url": "https://planning.alveary.org/pdf/modern-language/topics/rec5lgyGmTryTXFqV-french-grammar.pdf",
+        "label": "Lower French: Picture Study Extension + Grammar only (Grades 4+)",
+        "url": "https://planning.alveary.org/pdf/modern-language/topics/rec5lgyGmTryTXFqV-french-picture-study-ext-grammar.pdf",
         "sort": "4",
         "groupTitle": "Lower French: Grades 1-6",
         "groupType": "course"
@@ -96,7 +96,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-08T14:07:19.994Z",
+  "updatedAt": "2026-06-08T15:01:56.764Z",
   "terms": [
     {
       "termNumber": 1,
