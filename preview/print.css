@@ -129,9 +129,10 @@ body.pdf-mode.ml-print-reference .page-flow {
   }
 
   body.pdf-mode .page-flow {
-    width: 8.5in !important;
-    margin: 0 auto !important;
-    padding: 0.5in !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
     box-shadow: none !important;
     border: none !important;
     box-sizing: border-box;
