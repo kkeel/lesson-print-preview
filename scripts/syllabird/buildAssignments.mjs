@@ -10,6 +10,7 @@ const AIRTABLE_EXPORT_STATUS_FIELD = "Syllabird Export Status";
 
 const CSV_HEADERS = [
   "course_custom_id",
+  "syllabird_status",
   "assignment_custom_id",
   "assignment_week",
   "assignment_day",
@@ -422,8 +423,17 @@ async function main() {
   );
 
   const coursesCsv = await fs.readFile(coursesPath, "utf8");
+  const courses = parseCsv(coursesCsv);
+  
   const validCourseIds = new Set(
-    parseCsv(coursesCsv).map(course => course.course_custom_id).filter(Boolean)
+    courses.map(course => course.course_custom_id).filter(Boolean)
+  );
+  
+  const syllabirdStatusByCourseId = new Map(
+    courses.map(course => [
+      course.course_custom_id,
+      course.syllabird_status || ""
+    ])
   );
 
   await fs.mkdir(exportDir, { recursive: true });
@@ -456,7 +466,13 @@ async function main() {
       ? buildTrackerRowsForPacket(packet)
       : buildRowsForPacket(packet);
     
-    rows.push(...packetRows);
+    rows.push(
+      ...packetRows.map(row => ({
+        ...row,
+        syllabird_status:
+          syllabirdStatusByCourseId.get(courseCustomId) || ""
+      }))
+    );
   }
 
   await writePerCourseAssignmentCsvs(
