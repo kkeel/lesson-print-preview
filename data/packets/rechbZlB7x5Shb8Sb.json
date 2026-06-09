@@ -12,13 +12,15 @@
   "topicConnectionIds": [
     "rec7YwUnwd3brNELW",
     "reciiHqL05ejUFlIu",
-    "recgX5mcpoJBYy4H0"
+    "recgX5mcpoJBYy4H0",
+    "rec7uZOhGTkCcJ1MV"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
     "Church History: Grades 10-12",
     "New Testament: Grade 12",
-    "Spiritual Formation: Grade 12"
+    "Spiritual Formation: Grade 12",
+    "Old Testament: Grades 7-12"
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recUpR7zJsY8Jnpj6",
@@ -91,6 +93,13 @@
               "grade": "12",
               "scheduleInfo": "Spiritual Formation: Grade 12\n1 time/week 30 min",
               "books": "Being God's Image: Why Creation Still Matters||Delighting in the Trinity||Becoming by Beholding"
+            },
+            {
+              "rowType": "topic",
+              "label": "Old Testament: Grades 7-12",
+              "grade": "7-12",
+              "scheduleInfo": "Old Testament: Grades 7-12\n2 times/week 30 min\n2 times/week 30 min",
+              "books": "The Student Bible Atlas, Revised Edition||Old Testament Today||NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture||ESV Concise Study Bible"
             }
           ],
           "weeklyView": {
@@ -183,6 +192,28 @@
                 {
                   "title": "Becoming by Beholding",
                   "resourceId": "rec45LFeRdU2fi2Xl"
+                }
+              ]
+            },
+            {
+              "title": "Old Testament: Grades 7-12",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "The Student Bible Atlas, Revised Edition",
+                  "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "Old Testament Today",
+                  "resourceId": "rec1dkTRQiOlbkGqi"
+                },
+                {
+                  "title": "NIV Cultural Backgrounds Study Bible: Bringing to Life the Ancient World of Scripture",
+                  "resourceId": "rec2dOHvUHjbSY3hp"
+                },
+                {
+                  "title": "ESV Concise Study Bible",
+                  "resourceId": "rec9zGtqQSrl6rFkt"
                 }
               ]
             }
@@ -3629,15 +3660,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Church History: Grades 10-12\n· When the Church Was Young: Select an Early Church Father from the reading that you enjoyed learning about and identify several things you learned from him. Explain how you are incorporating those things into your daily living.\n\nNew Testament: Grade 12\n· • NT: What is Luke's emphasis in his gospel? What new thoughts did this reading provide about who Jesus is? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Becoming by Beholding: After reading the Conclusion of the book, write what has changed in how you see. What do you want to keep beholding? What exercise formed you most this term?"
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\n· Tell about the events in Israelite history you read about this term and what we learn about the character of God.\n\nChurch History: Grades 10-12\n· When the Church Was Young: Select an Early Church Father from the reading that you enjoyed learning about and identify several things you learned from him. Explain how you are incorporating those things into your daily living.\n\nNew Testament: Grade 12\n· • NT: What is Luke's emphasis in his gospel? What new thoughts did this reading provide about who Jesus is? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Becoming by Beholding: After reading the Conclusion of the book, write what has changed in how you see. What do you want to keep beholding? What exercise formed you most this term?"
         },
         {
           "term": "Term 2",
-          "content": "Church History: Grades 10-12\n· When the Church Was Young: Write about the impact persecution had on the early church. How did the Early Church Fathers respond to the persecution they faced? Include examples.\n\nNew Testament: Grade 12\n· • NT: What is the overall structure and message of Romans? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: Tell the main themes in Ephesians. What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Being God's Image: Why Creation Still Matters: What does it mean to be God's Image, and why does creation still matter? What effect does this have on your identity and purpose?"
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\n· Tell about any insights you learned from the Psalms or the kinds of Psalms that make up the Psalter. OR Tell about the events that happened in Israelite history and what they show about the character of God.\n\nChurch History: Grades 10-12\n· When the Church Was Young: Write about the impact persecution had on the early church. How did the Early Church Fathers respond to the persecution they faced? Include examples.\n\nNew Testament: Grade 12\n· • NT: What is the overall structure and message of Romans? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: Tell the main themes in Ephesians. What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Being God's Image: Why Creation Still Matters: What does it mean to be God's Image, and why does creation still matter? What effect does this have on your identity and purpose?"
         },
         {
           "term": "Term 3",
-          "content": "Church History: Grades 10-12\n· When the Church Was Young: Write about three important takeaways from the reading that have impacted your daily life and explain why.\n\nNew Testament: Grade 12\n· • NT: What are the main themes of Hebrews? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: What is the structure of Revelation, and what are the main themes? What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Delighting in the Trinity: Why is delighting in the Trinity so important? Why does it matter? What changes has it brought about in you?"
+          "content": "Old Testament: Grades 7-12\n· What are some of the observations or insights you gained from reading Old Testament Today or watching the videos?\n\n· Tell what you learned about the wisdom literature of Proverbs and Ecclesiastes.\n\nChurch History: Grades 10-12\n· When the Church Was Young: Write about three important takeaways from the reading that have impacted your daily life and explain why.\n\nNew Testament: Grade 12\n· • NT: What are the main themes of Hebrews? What new thoughts did this reading provide? What other insights did you gain?\n\n· • NT: What is the structure of Revelation, and what are the main themes? What new thoughts did this reading provide? What other insights did you gain?\n\nSpiritual Formation: Grade 12\n· Delighting in the Trinity: Why is delighting in the Trinity so important? Why does it matter? What changes has it brought about in you?"
         }
       ]
     }

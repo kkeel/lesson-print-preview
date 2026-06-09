@@ -450,7 +450,8 @@
     "isStandaloneCourse": false,
     "courseConnectionNames": [
       "Bible: Grades 7-8",
-      "Bible: Grade 9"
+      "Bible: Grade 9",
+      "Bible: Grade 12"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec7uZOhGTkCcJ1MV",
@@ -658,7 +659,8 @@
     "topicConnectionNames": [
       "Church History: Grades 10-12",
       "New Testament: Grade 12",
-      "Spiritual Formation: Grade 12"
+      "Spiritual Formation: Grade 12",
+      "Old Testament: Grades 7-12"
     ],
     "previewUrl": "./preview/index.html?id=rechbZlB7x5Shb8Sb",
     "pdfPrintingStatus": "Needs Update"

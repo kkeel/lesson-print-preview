@@ -10,12 +10,14 @@
   "isStandaloneCourse": false,
   "courseConnectionIds": [
     "recEEarcmNuLNtGHh",
-    "rechXdCXhNqQQLmle"
+    "rechXdCXhNqQQLmle",
+    "rechbZlB7x5Shb8Sb"
   ],
   "topicConnectionIds": [],
   "courseConnectionNames": [
     "Bible: Grades 7-8",
-    "Bible: Grade 9"
+    "Bible: Grade 9",
+    "Bible: Grade 12"
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
