@@ -121,6 +121,8 @@ function cleanLessonText(value) {
   return String(value ?? "")
     // Convert escaped fill-in-the-blank underscores back to underscores.
     .replace(/\\_/g, "_")
+    // Convert escaped Markdown list hyphens back to normal hyphens.
+    .replace(/^\\-/gm, "-")
     // Keep the existing escaped-period cleanup.
     .replace(/\\\./g, ".");
 }
