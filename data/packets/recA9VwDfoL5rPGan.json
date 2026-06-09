@@ -11,19 +11,21 @@
   "courseConnectionIds": [],
   "topicConnectionIds": [
     "rec2VXhvxGK38hpk1",
-    "rec35HIIi6CIj2I0T"
+    "rec35HIIi6CIj2I0T",
+    "rec2Ve2pxnvaAIg4K"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
     "U.S. History: Grades 7-8",
-    "Ancient History: Grades 7-9"
+    "Ancient History: Grades 7-9",
+    "World History: Grades 7-8"
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recXs7i6rqLlwkcyu",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recA9VwDfoL5rPGan-history-grades-7-8-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recXs7i6rqLlwkcyu",
   "hidePdf": "",
   "syllabird": {
@@ -82,6 +84,13 @@
               "grade": "7-9",
               "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
               "books": "The Witness of Early Christian Women: Mothers of the Church||A Short History of Ancient Rome||Historical Atlas of the World 6th Ed."
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "World History: Grades 7-8\n1 time/week 30 min",
+              "books": "Eiffel's Tower for Young People||In the Shadow of the Alamo"
             }
           ],
           "weeklyView": {
@@ -160,6 +169,20 @@
                 {
                   "title": "Historical Atlas of the World 6th Ed.",
                   "resourceId": "reca6JrCf4DtEZII1"
+                }
+              ]
+            },
+            {
+              "title": "World History: Grades 7-8",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "Eiffel's Tower for Young People",
+                  "resourceId": "recGDXfZM9GzPjF6K"
+                },
+                {
+                  "title": "In the Shadow of the Alamo",
+                  "resourceId": "recQp6EwwCJ4kqsg2"
                 }
               ]
             }
@@ -2939,15 +2962,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "U.S. History: Grades 7-8\n· Describe one part of Sacajawea's journey that stood out to you.\n\n· Tell what you know about the different groups of people and what their motivations were for moving west.\n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments."
+          "content": "U.S. History: Grades 7-8\n· Describe one part of Sacajawea's journey that stood out to you.\n\n· Tell what you know about the different groups of people and what their motivations were for moving west.\n\nWorld History: Grades 7-8\n· In the Shadow of the Alamo: What is a part of Lorenzo and Esteban's story that stood out to you?\n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments."
         },
         {
           "term": "Term 2",
-          "content": "U.S. History: Grades 7-8\n· Why do you think Lincoln and Douglass had a unique bond, and how did they both fight against slavery?\n\n· Tell about how women fought for equal rights. OR Tell what life was like in the cities and some of the issues that needed to be addressed with working and living conditions. \n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?"
+          "content": "U.S. History: Grades 7-8\n· Why do you think Lincoln and Douglass had a unique bond, and how did they both fight against slavery?\n\n· Tell about how women fought for equal rights. OR Tell what life was like in the cities and some of the issues that needed to be addressed with working and living conditions. \n\nWorld History: Grades 7-8\n· Eiffel's Tower: Tell the story of the planning and construction of the Eiffel Tower and explain why it was significant.\n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?"
         },
         {
           "term": "Term 3",
-          "content": "U.S. History: Grades 7-8\n· You read about Louis Hughes' and Cornelia McDonald's lives in the year 1865, after the Civil War ended. Choose one of these people and summarize their lives. What were the big milestones they faced?\n\n· Tell about the story of Ling Fan and what you learned about the Chinese workers who worked on the transcontinental railroad.\n\nAncient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story."
+          "content": "U.S. History: Grades 7-8\n· You read about Louis Hughes' and Cornelia McDonald's lives in the year 1865, after the Civil War ended. Choose one of these people and summarize their lives. What were the big milestones they faced?\n\n· Tell about the story of Ling Fan and what you learned about the Chinese workers who worked on the transcontinental railroad.\n\nWorld History: Grades 7-8\n· Eiffel's Tower: How did the Eiffel Tower and the 1889 World's Fair demonstrate the spirit of innovation, progress, and change in the late nineteenth century? OR Pick one of the characters you read about and tell their story and how they represent that period of time. \n\nAncient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story."
         }
       ]
     }

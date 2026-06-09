@@ -5,12 +5,16 @@
   "subject": "Citizenship",
   "sortId": "005.012.001.002",
   "gradeText": "GRADE(S): 12",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recK8yvTqP3qOQR56"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Citizenship: Grade 12"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recGdC7logqBmyLLf",
@@ -54,7 +58,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Economics: Grade 12",
               "grade": "12",
               "scheduleInfo": "Economics: Grade 12\n1 time/week 40 min",
@@ -93,7 +97,7 @@
           "groups": [
             {
               "title": "Economics: Grade 12",
-              "type": "course",
+              "type": "topic",
               "books": [
                 {
                   "title": "Economics in One Lesson",
@@ -118,7 +122,7 @@
           "groups": [
             {
               "title": "Economics: Grade 12",
-              "type": "course",
+              "type": "topic",
               "links": [
                 {
                   "id": "recklNGj4TxcKsm5c",
@@ -126,6 +130,26 @@
                   "url": "https://www.liberalstudies.ca/wp-content/uploads/2014/11/Economics-in-One-Lesson_2.pdf",
                   "sort": "1",
                   "sourceTitle": "Economics: Grade 12"
+                }
+              ]
+            },
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recb0bwWGjfqzTwCb",
+                  "label": "Community Read Alouds",
+                  "url": "https://drive.google.com/file/d/14IIlHipYPwsA7yqap8NVHuyYkN6-y9wx/view?usp=sharing",
+                  "sort": "1",
+                  "sourceTitle": "Citizenship: Grade 12"
+                },
+                {
+                  "id": "recP8QNFj9ECkHugq",
+                  "label": "Setting Up a Citizenship Notebook",
+                  "url": "https://drive.google.com/file/d/1KK5VuAvVgjuZxgxupTPIXsgMYmrLql_H/view?usp=drive_link",
+                  "sort": "2",
+                  "sourceTitle": "Citizenship: Grade 12"
                 }
               ]
             }

@@ -1366,10 +1366,12 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [
       "Current Events: Grades 9-12",
-      "Community Read Alouds: Grades 1-12"
+      "Community Read Alouds: Grades 1-12",
+      "Economics: Grade 12",
+      "Civics/Ethics: Grade 12"
     ],
     "previewUrl": "./preview/index.html?id=recK8yvTqP3qOQR56",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "recTzpeAId8hcpqi3",
@@ -1379,10 +1381,12 @@
     "gradeText": "GRADE(S): 12",
     "subject": "Citizenship",
     "sortId": "005.012.001.002",
-    "rowType": "course",
+    "rowType": "topic",
     "hasTopics": false,
-    "isStandaloneCourse": true,
-    "courseConnectionNames": [],
+    "isStandaloneCourse": false,
+    "courseConnectionNames": [
+      "Citizenship: Grade 12"
+    ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recTzpeAId8hcpqi3",
     "pdfPrintingStatus": "Current"
@@ -1395,10 +1399,12 @@
     "gradeText": "GRADE(S): 12",
     "subject": "Citizenship",
     "sortId": "005.012.001.003",
-    "rowType": "course",
+    "rowType": "topic",
     "hasTopics": false,
-    "isStandaloneCourse": true,
-    "courseConnectionNames": [],
+    "isStandaloneCourse": false,
+    "courseConnectionNames": [
+      "Citizenship: Grade 12"
+    ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recUMjD1jrqKAQh0D",
     "pdfPrintingStatus": "Current"
@@ -2843,10 +2849,11 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [
       "U.S. History: Grades 7-8",
-      "Ancient History: Grades 7-9"
+      "Ancient History: Grades 7-9",
+      "World History: Grades 7-8"
     ],
     "previewUrl": "./preview/index.html?id=recA9VwDfoL5rPGan",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "rec2VXhvxGK38hpk1",
@@ -2874,10 +2881,13 @@
     "gradeText": "GRADE(S): 7-8",
     "subject": "History",
     "sortId": "008.007.001.003",
-    "rowType": "course",
+    "rowType": "topic",
     "hasTopics": false,
-    "isStandaloneCourse": true,
-    "courseConnectionNames": [],
+    "isStandaloneCourse": false,
+    "courseConnectionNames": [
+      "History: Grades 7-8 (U.S.)",
+      "History: Grades 7-8 (Canada)"
+    ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec2Ve2pxnvaAIg4K",
     "pdfPrintingStatus": "Current"
@@ -2917,10 +2927,11 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [
       "Ancient History: Grades 7-9",
-      "Canadian History: Grades 7-8"
+      "Canadian History: Grades 7-8",
+      "World History: Grades 7-8"
     ],
     "previewUrl": "./preview/index.html?id=recyhrlHSPAxgxtxn",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "recjFbzbQHFiDKuEN",
@@ -2966,10 +2977,12 @@
     "gradeText": "GRADE(S): 9-12",
     "subject": "History",
     "sortId": "008.009.001.001",
-    "rowType": "course",
+    "rowType": "topic",
     "hasTopics": false,
-    "isStandaloneCourse": true,
-    "courseConnectionNames": [],
+    "isStandaloneCourse": false,
+    "courseConnectionNames": [
+      "History: Grades 10-12 (U.S.)"
+    ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec0aDWTW0hc4lgFa",
     "pdfPrintingStatus": "Current"
@@ -3045,10 +3058,11 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [
       "Ancient History: Grades 10-12",
-      "World History: Grades 10-12"
+      "World History: Grades 10-12",
+      "U.S. History: Grades 9-12"
     ],
     "previewUrl": "./preview/index.html?id=recG8ETCmXNqLVKXJ",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "recwL9S7kHOS6Kk8L",

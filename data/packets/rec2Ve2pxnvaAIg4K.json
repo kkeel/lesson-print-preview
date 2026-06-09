@@ -5,12 +5,18 @@
   "subject": "History",
   "sortId": "008.007.001.003",
   "gradeText": "GRADE(S): 7-8",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "recA9VwDfoL5rPGan",
+    "recyhrlHSPAxgxtxn"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "History: Grades 7-8 (U.S.)",
+    "History: Grades 7-8 (Canada)"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recfXdRHtTUmQQfre",
@@ -64,7 +70,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "World History: Grades 7-8",
               "grade": "7-8",
               "scheduleInfo": "World History: Grades 7-8\n1 time/week 30 min",
@@ -113,7 +119,7 @@
           "groups": [
             {
               "title": "World History: Grades 7-8",
-              "type": "course",
+              "type": "topic",
               "books": [
                 {
                   "title": "Eiffel's Tower for Young People",
@@ -139,7 +145,63 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec2Ve2pxnvaAIg4K",
           "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recfXdRHtTUmQQfre",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "recAP4G03F6eGAwAi",
+                  "label": "History Charts & Timelines Scope & Sample",
+                  "url": "https://www.dropbox.com/s/zzw2uu8pdxzprys/TimelinesandHistoryCharts.pdf?dl=0",
+                  "sort": "1",
+                  "sourceTitle": "History: Grades 7-8 (U.S.)"
+                },
+                {
+                  "id": "recmi3PhqL5I32aqf",
+                  "label": "Century Chart",
+                  "url": "https://static1.squarespace.com/static/5327b626e4b0bc54fcdbc4f4/t/55a70cd2e4b0efaafa4dfd0d/1437011154283/Century_Chart_Centered.pdf",
+                  "sort": "2",
+                  "sourceTitle": "History: Grades 7-8 (U.S.)"
+                },
+                {
+                  "id": "recPSIXFDsdgml3Kk",
+                  "label": "Grade 7 Canadian History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "3",
+                  "sourceTitle": "History: Grades 7-8 (Canada)"
+                },
+                {
+                  "id": "rec6Ao8UTMSfEe0sS",
+                  "label": "Grade 7 U.S. History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "3",
+                  "sourceTitle": "History: Grades 7-8 (U.S.)"
+                },
+                {
+                  "id": "rec23lWqZEkfYbR38",
+                  "label": "Grade 8 Canadian History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "4",
+                  "sourceTitle": "History: Grades 7-8 (Canada)"
+                },
+                {
+                  "id": "recsnJ67j6nATcl56",
+                  "label": "Grade 8 U.S. History Chart Prompts",
+                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "sort": "4",
+                  "sourceTitle": "History: Grades 7-8 (U.S.)"
+                },
+                {
+                  "id": "recLkNcUZJnaS1KOm",
+                  "label": "Foundations (See Section 15: History)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "5",
+                  "sourceTitle": "History: Grades 7-8 (U.S.)"
+                }
+              ]
+            }
+          ]
         }
       ]
     },

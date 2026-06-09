@@ -11,19 +11,23 @@
   "courseConnectionIds": [],
   "topicConnectionIds": [
     "recZGHKsN28hjbXRy",
-    "recdlpC8UnGxOhpSZ"
+    "recdlpC8UnGxOhpSZ",
+    "recTzpeAId8hcpqi3",
+    "recUMjD1jrqKAQh0D"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
     "Current Events: Grades 9-12",
-    "Community Read Alouds: Grades 1-12"
+    "Community Read Alouds: Grades 1-12",
+    "Economics: Grade 12",
+    "Civics/Ethics: Grade 12"
   ],
   "templateType": "standard",
-  "bookListUrl": "",
+  "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec3ENdR6OOp4bNWw",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recK8yvTqP3qOQR56-citizenship-grade-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "syllabird": {
@@ -72,6 +76,20 @@
               "grade": "1-12",
               "scheduleInfo": "Community Read Alouds: Grades 1-12\n1+ time/week 20 min+",
               "books": ""
+            },
+            {
+              "rowType": "topic",
+              "label": "Economics: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Economics: Grade 12\n1 time/week 40 min",
+              "books": "Economics in One Lesson"
+            },
+            {
+              "rowType": "topic",
+              "label": "Civics/Ethics: Grade 12",
+              "grade": "12",
+              "scheduleInfo": "Civics/Ethics: Grade 12\n1 time/week 40 min",
+              "books": "The Life We're Looking For: Reclaiming Relationship in a Technological World||Conscience: What It Is, How to Train It, and Loving Those Who Differ||Citizenship Without Illusions: A Christian Guide to Political Engagement"
             }
           ],
           "weeklyView": {
@@ -106,12 +124,40 @@
         {
           "kind": "books-resources",
           "title": "Books & Resources",
-          "linkUrl": "",
+          "linkUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec3ENdR6OOp4bNWw",
           "groups": [
             {
               "title": "Citizenship: Grade 12",
               "type": "course",
               "books": []
+            },
+            {
+              "title": "Economics: Grade 12",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "Economics in One Lesson",
+                  "resourceId": "recYWLOabfTEBdZpB"
+                }
+              ]
+            },
+            {
+              "title": "Civics/Ethics: Grade 12",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "The Life We're Looking For: Reclaiming Relationship in a Technological World",
+                  "resourceId": "recnNyh56iL4uZbJw"
+                },
+                {
+                  "title": "Conscience: What It Is, How to Train It, and Loving Those Who Differ",
+                  "resourceId": "recxWfONMFDZIC2tj"
+                },
+                {
+                  "title": "Citizenship Without Illusions: A Christian Guide to Political Engagement",
+                  "resourceId": "recuVrolXxShuNSdj"
+                }
+              ]
             }
           ]
         },
@@ -199,6 +245,19 @@
                   "url": "https://www.1jour1actu.com/",
                   "sort": "6",
                   "sourceTitle": "Current Events: Grades 9-12"
+                }
+              ]
+            },
+            {
+              "title": "Economics: Grade 12",
+              "type": "topic",
+              "links": [
+                {
+                  "id": "recklNGj4TxcKsm5c",
+                  "label": "Economics in One Lesson (liberalstudies.ca)",
+                  "url": "https://www.liberalstudies.ca/wp-content/uploads/2014/11/Economics-in-One-Lesson_2.pdf",
+                  "sort": "1",
+                  "sourceTitle": "Economics: Grade 12"
                 }
               ]
             }
@@ -2280,15 +2339,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEconomics: Grade 12\n· Economics in One Lesson: Identify three ideas from Term 1 that were new to you that have changed how you think about economics.\n\nCivics/Ethics: Grade 12\n· Citizenship Without Illusions: Reflecting on the reading from this course, describe what it means to be a healthy citizen locally, nationally, and globally. Include biblical references for each category."
         },
         {
           "term": "Term 2",
-          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEconomics: Grade 12\n· Economics in One Lesson: Identify three ideas that were new to you from Term 2 that have challenged your understanding of economics. \n\nCivics/Ethics: Grade 12\n· Choose one of the following to answer:\nWhat are four things you learned from The Life We're Looking For that are causing you to interact with technology differently?\nOr\nWhat did you learn from The Life We're Looking For regarding the importance of human relationships?"
         },
         {
           "term": "Term 3",
-          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term."
+          "content": "Current Events: Grades 9-12\n· Write a journal entry reflecting on any world event from your news reading this term.\n\nEconomics: Grade 12\n· Economics in One Lesson: Explain why it is important to develop an understanding of economics. Include specific examples of what you learned from Term 3 that have helped to shape your economic understanding. \n\nCivics/Ethics: Grade 12\n· Conscience: What it is, How to Train it, and Loving Those who Differ: What is the conscience, how do you train it, and how do we love others despite differences? How should you \"calibrate your conscience\"?"
         }
       ]
     }

@@ -11,19 +11,21 @@
   "courseConnectionIds": [],
   "topicConnectionIds": [
     "rec35HIIi6CIj2I0T",
-    "recjFbzbQHFiDKuEN"
+    "recjFbzbQHFiDKuEN",
+    "rec2Ve2pxnvaAIg4K"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
     "Ancient History: Grades 7-9",
-    "Canadian History: Grades 7-8"
+    "Canadian History: Grades 7-8",
+    "World History: Grades 7-8"
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recws9yuKmAFWhfH1",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recyhrlHSPAxgxtxn-history-grades-7-8-canada.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recws9yuKmAFWhfH1",
   "hidePdf": "",
   "syllabird": {
@@ -82,6 +84,13 @@
               "grade": "7-8",
               "scheduleInfo": "Canadian History: Grades 7-8\n2 times/week 30 min",
               "books": "The Story of Canada||Elijah of Buxton||The Charlottetown Conference and the Birth of Confederation||Jeremy's War 1812||Sophie's Rebellion"
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grades 7-8",
+              "grade": "7-8",
+              "scheduleInfo": "World History: Grades 7-8\n1 time/week 30 min",
+              "books": "Eiffel's Tower for Young People||In the Shadow of the Alamo"
             }
           ],
           "weeklyView": {
@@ -164,6 +173,20 @@
                 {
                   "title": "Sophie's Rebellion",
                   "resourceId": "reckrNrYGs7Cee08j"
+                }
+              ]
+            },
+            {
+              "title": "World History: Grades 7-8",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "Eiffel's Tower for Young People",
+                  "resourceId": "recGDXfZM9GzPjF6K"
+                },
+                {
+                  "title": "In the Shadow of the Alamo",
+                  "resourceId": "recQp6EwwCJ4kqsg2"
                 }
               ]
             }
@@ -3035,15 +3058,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments.\n\nCanadian History: Grades 7-8\n· (Jeremy's War) Explain who Tecumseh was and his role in the War of 1812. OR Describe the events leading up to and the outcome of the Siege of Detroit, with particular attention to General Brock's decisions.\n\n· (The Story of Canada) Describe Métis culture in the West: who are they, how did they live, and what was life like for them in the first decades of the nineteenth century? OR Explain why there was discontent in Upper and Lower Canada towards the government."
+          "content": "World History: Grades 7-8\n· In the Shadow of the Alamo: What is a part of Lorenzo and Esteban's story that stood out to you?\n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments.\n\nCanadian History: Grades 7-8\n· (Jeremy's War) Explain who Tecumseh was and his role in the War of 1812. OR Describe the events leading up to and the outcome of the Siege of Detroit, with particular attention to General Brock's decisions.\n\n· (The Story of Canada) Describe Métis culture in the West: who are they, how did they live, and what was life like for them in the first decades of the nineteenth century? OR Explain why there was discontent in Upper and Lower Canada towards the government."
         },
         {
           "term": "Term 2",
-          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?\n\nCanadian History: Grades 7-8\n· (Sophie's Rebellion) The novel features French Canadian, British, American, and English Canadian characters. Describe the attitudes and interactions of some of these groups towards each other, as depicted in the novel. OR Write a letter from Sophie to her father, describing all that happened in Beauharnois.\n\n· (The Story of Canada and The Charlottetown Conference): Describe what life was like in Canada in the mid-nineteenth century, in the years leading up to Confederation. OR Explain how responsible government works."
+          "content": "World History: Grades 7-8\n· Eiffel's Tower: Tell the story of the planning and construction of the Eiffel Tower and explain why it was significant.\n\nAncient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?\n\nCanadian History: Grades 7-8\n· (Sophie's Rebellion) The novel features French Canadian, British, American, and English Canadian characters. Describe the attitudes and interactions of some of these groups towards each other, as depicted in the novel. OR Write a letter from Sophie to her father, describing all that happened in Beauharnois.\n\n· (The Story of Canada and The Charlottetown Conference): Describe what life was like in Canada in the mid-nineteenth century, in the years leading up to Confederation. OR Explain how responsible government works."
         },
         {
           "term": "Term 3",
-          "content": "Ancient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story.\n\nCanadian History: Grades 7-8\n· (The Charlottetown Conference): Describe how the Charlottetown Conference and the meetings that came after led to the founding of Canada in 1867. OR Choose one prominent figure you learned about who attended the Charlottetown Conference, and explain why their contribution to Canada's history was important.\n\n· (Elijah of Buxton): Describe the history of Buxton, including how it came to be, who lived there, what their homes, school, and other buildings were like, and why Buxton is important to learn about in Canadian History. OR Explain how Elijah changes from the beginning of the novel to the end. Why is he called \"fra-gile\" at first, and how does he eventually become the hero of the story?"
+          "content": "World History: Grades 7-8\n· Eiffel's Tower: How did the Eiffel Tower and the 1889 World's Fair demonstrate the spirit of innovation, progress, and change in the late nineteenth century? OR Pick one of the characters you read about and tell their story and how they represent that period of time. \n\nAncient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story.\n\nCanadian History: Grades 7-8\n· (The Charlottetown Conference): Describe how the Charlottetown Conference and the meetings that came after led to the founding of Canada in 1867. OR Choose one prominent figure you learned about who attended the Charlottetown Conference, and explain why their contribution to Canada's history was important.\n\n· (Elijah of Buxton): Describe the history of Buxton, including how it came to be, who lived there, what their homes, school, and other buildings were like, and why Buxton is important to learn about in Canadian History. OR Explain how Elijah changes from the beginning of the novel to the end. Why is he called \"fra-gile\" at first, and how does he eventually become the hero of the story?"
         }
       ]
     }

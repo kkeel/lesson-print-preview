@@ -11,19 +11,21 @@
   "courseConnectionIds": [],
   "topicConnectionIds": [
     "recwL9S7kHOS6Kk8L",
-    "recLvvAD3qwZTJey2"
+    "recLvvAD3qwZTJey2",
+    "rec0aDWTW0hc4lgFa"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
     "Ancient History: Grades 10-12",
-    "World History: Grades 10-12"
+    "World History: Grades 10-12",
+    "U.S. History: Grades 9-12"
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recLExzdChHiV6eiV",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recG8ETCmXNqLVKXJ-history-grades-10-12-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "syllabird": {
@@ -82,6 +84,13 @@
               "grade": "10-12",
               "scheduleInfo": "World History: Grades 10-12\n1 time/week 30 min",
               "books": "Blood and Iron: The Rise and Fall of the German Empire||When America First Met China||Erebus: The Story of a Ship"
+            },
+            {
+              "rowType": "topic",
+              "label": "U.S. History: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "U.S. History: Grades 9-12\n1 time/week 40 min\n1 time/week 30 min",
+              "books": "I Am a Man: Chief Standing Bear's Journey for Justice||American History, Volume 1: 1492-1877||American History, Volume 2: 1877 - Present||The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.||They Fought Like Demons: Women Soldiers in the Civil War||Reading American Horizons"
             }
           ],
           "weeklyView": {
@@ -152,6 +161,36 @@
                 {
                   "title": "Erebus: The Story of a Ship",
                   "resourceId": "rec7z1NO1PuxPcgfP"
+                }
+              ]
+            },
+            {
+              "title": "U.S. History: Grades 9-12",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "I Am a Man: Chief Standing Bear's Journey for Justice",
+                  "resourceId": "recsip6zWHy9EAHqd"
+                },
+                {
+                  "title": "American History, Volume 1: 1492-1877",
+                  "resourceId": "recNPim5x3CMd2ifB"
+                },
+                {
+                  "title": "American History, Volume 2: 1877 - Present",
+                  "resourceId": "recrvepzgOXlsyEdB"
+                },
+                {
+                  "title": "The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.",
+                  "resourceId": "rec6eikbd193FRt9J"
+                },
+                {
+                  "title": "They Fought Like Demons: Women Soldiers in the Civil War",
+                  "resourceId": "recoUIxcidEegMG1X"
+                },
+                {
+                  "title": "Reading American Horizons",
+                  "resourceId": "rec0LGczNqRlOvRen"
                 }
               ]
             }
@@ -3585,15 +3624,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Ancient History: Grades 10-12\n· Ancient Empires: In what ways does the Roman Republic remind you of your own country? In what ways is it different?\n\n· Draw two pieces of art that you remember seeing this term. Briefly say what they are and describe them. What do you think they say about the cultures that they were a part of?\n\nWorld History: Grades 10-12\n· When America First Met China: Why was the invention of faster ships so important?\n\n· When America First Met China: Describe the relationships between China and other countries in several paragraphs."
+          "content": "U.S. History: Grades 9-12\n· Name three presidents you've read about, as well as their major accomplishments and failings. How did their accomplishments and failings impact the growing United States?\n\n· Summarize the major events in Lunsford Lane's story, both before and after he was free.\n\nAncient History: Grades 10-12\n· Ancient Empires: In what ways does the Roman Republic remind you of your own country? In what ways is it different?\n\n· Draw two pieces of art that you remember seeing this term. Briefly say what they are and describe them. What do you think they say about the cultures that they were a part of?\n\nWorld History: Grades 10-12\n· When America First Met China: Why was the invention of faster ships so important?\n\n· When America First Met China: Describe the relationships between China and other countries in several paragraphs."
         },
         {
           "term": "Term 2",
-          "content": "Ancient History: Grades 10-12\n· Christians Reading Classics: Choose Cicero, Caesar, Tacitus, Perpetua, Suetonius, or Marcus Aurelius, and explore how their writings can influence the modern-day church today.\n\n· Christians Reading Classics: How should Christians go about reading pagan classics? How can reading these classics benefit spiritual formation?\n\nWorld History: Grades 10-12\n· Erebus: Life on exploration was never easy. Yet, many people chose to pursue lives of exploration. What were the many reasons for people to pursue this lifestyle? Use examples from different characters to support your answer.\n\n· Erebus: Choose one person from the narrative who fascinated you and summarize his or her story."
+          "content": "U.S. History: Grades 9-12\n· Based on your reading of Thomas Kidd’s American History, summarize in several paragraphs the many events leading up to the Civil War. Who were the people integral to the fight? What were the many reasons the Union went to war against the Confederacy? \n\n· Choose one woman whose story you read about in They Fought Like Demons and summarize her story in two to three paragraphs.\n\nAncient History: Grades 10-12\n· Christians Reading Classics: Choose Cicero, Caesar, Tacitus, Perpetua, Suetonius, or Marcus Aurelius, and explore how their writings can influence the modern-day church today.\n\n· Christians Reading Classics: How should Christians go about reading pagan classics? How can reading these classics benefit spiritual formation?\n\nWorld History: Grades 10-12\n· Erebus: Life on exploration was never easy. Yet, many people chose to pursue lives of exploration. What were the many reasons for people to pursue this lifestyle? Use examples from different characters to support your answer.\n\n· Erebus: Choose one person from the narrative who fascinated you and summarize his or her story."
         },
         {
           "term": "Term 3",
-          "content": "Ancient History: Grades 10-12\n· Early Christian Writings: Based on the writings of the early church fathers that you have read this term, what were some of the primary concerns of the early church? What are the most common themes? Are the concerns of the early church the same as or different than the concerns of the Christian church today?\n\n· Early Christian Writings: Summarize one letter of your choosing. Then share how that letter gives us insight into the life of early Christians in the Roman Empire. \n\nWorld History: Grades 10-12\n· Blood and Iron: What were the events leading up to the establishment of the German Empire?\n\n· Blood and Iron: Summarize Bismarck’s Reich (1871-1888)."
+          "content": "U.S. History: Grades 9-12\n· Make a list of the many movements taking place after the Civil War. What did these movements contribute, and how did they impact the United States?\n\n· Explore Chief Standing Bear's impact on American politics.\n\nAncient History: Grades 10-12\n· Early Christian Writings: Based on the writings of the early church fathers that you have read this term, what were some of the primary concerns of the early church? What are the most common themes? Are the concerns of the early church the same as or different than the concerns of the Christian church today?\n\n· Early Christian Writings: Summarize one letter of your choosing. Then share how that letter gives us insight into the life of early Christians in the Roman Empire. \n\nWorld History: Grades 10-12\n· Blood and Iron: What were the events leading up to the establishment of the German Empire?\n\n· Blood and Iron: Summarize Bismarck’s Reich (1871-1888)."
         }
       ]
     }
