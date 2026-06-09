@@ -137,6 +137,16 @@ body.pdf-mode.ml-print-reference .page-flow {
     box-sizing: border-box;
   }
 
+  body.pdf-mode .cover-section {
+    break-after: page !important;
+    page-break-after: always !important;
+  }
+
+  body.pdf-mode .header-section {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
   /* Remove duplicate copyright from cover content */
   body.pdf-mode .cover-footer-line {
     display: none !important;
