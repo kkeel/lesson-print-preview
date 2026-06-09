@@ -29,7 +29,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -58,7 +58,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -87,7 +87,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "©2026 Charlotte Mason Institute® All rights reserved.";
+    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -129,23 +129,12 @@ body.pdf-mode.ml-print-reference .page-flow {
   }
 
   body.pdf-mode .page-flow {
-    width: 100% !important;
-    max-width: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
+    width: 8.5in !important;
+    margin: 0 auto !important;
+    padding: 0.5in !important;
     box-shadow: none !important;
     border: none !important;
     box-sizing: border-box;
-  }
-
-  body.pdf-mode .cover-section {
-    break-after: page !important;
-    page-break-after: always !important;
-  }
-
-  body.pdf-mode .header-section {
-    break-before: page !important;
-    page-break-before: always !important;
   }
 
   /* Remove duplicate copyright from cover content */
