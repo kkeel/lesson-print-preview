@@ -64,6 +64,7 @@ const LESSON_DETAIL_FIELDS = [
 
 const CSV_HEADERS = [
   "course_custom_id",
+  "syllabird_status",
   "course_name",
   "course_numberOfDaysPerWeek",
   "course_numberOfWeeks",
@@ -522,6 +523,7 @@ function buildCourseRow(record, headerLookup, lessonDetailsById, packet = null) 
 
   return {
     course_custom_id: `alveary-${record.id}`,
+    syllabird_status: normalizeText(fields["Syllabird Status"]),
     course_name: name,
     course_numberOfDaysPerWeek: numberOfDaysPerWeek,
     course_numberOfWeeks: numberOfWeeks,
