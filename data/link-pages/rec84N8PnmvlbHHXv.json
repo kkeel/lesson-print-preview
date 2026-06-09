@@ -13,7 +13,8 @@
     "Plays: Grades 9-12",
     "Poetry Reading: Grades 9-12",
     "General Lit.: Grades 11-12",
-    "History of Lit: Grades 9-12"
+    "History of Lit: Grades 9-12",
+    "Poetry Study: Grade 11"
   ],
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec78NLw5eJC1IYVt",
@@ -54,7 +55,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-09T18:34:36.602Z",
+  "updatedAt": "2026-06-09T22:35:33.166Z",
   "terms": [
     {
       "termNumber": 1,

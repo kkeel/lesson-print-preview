@@ -5,12 +5,16 @@
   "subject": "Literature",
   "sortId": "011.001.011.009",
   "gradeText": "GRADE(S): 11",
-  "rowType": "course",
+  "rowType": "topic",
   "hasTopics": false,
-  "isStandaloneCourse": true,
-  "courseConnectionIds": [],
+  "isStandaloneCourse": false,
+  "courseConnectionIds": [
+    "rec84N8PnmvlbHHXv"
+  ],
   "topicConnectionIds": [],
-  "courseConnectionNames": [],
+  "courseConnectionNames": [
+    "Literature: Grade 11"
+  ],
   "topicConnectionNames": [],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recD507HPC8MtQqrX",
@@ -54,7 +58,7 @@
           "title": "Scheduling",
           "rows": [
             {
-              "rowType": "standalone-course",
+              "rowType": "topic-packet",
               "label": "Poetry Study: Grade 11",
               "grade": "11",
               "scheduleInfo": "Poetry Study: Grade 11\n2 times/week 15 min",
@@ -97,7 +101,7 @@
           "groups": [
             {
               "title": "Poetry Study: Grade 11",
-              "type": "course",
+              "type": "topic",
               "books": [
                 {
                   "title": "The Word Made Fresh",
@@ -123,7 +127,21 @@
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec159tgRVDCh4xdi",
           "extraHelpingsUrl": "",
-          "groups": []
+          "groups": [
+            {
+              "title": "Related Course Quick Links",
+              "type": "course",
+              "links": [
+                {
+                  "id": "rec2bGFGKgRMuARuy",
+                  "label": "Foundations (See Section 9: Literature)",
+                  "url": "https://www.alveary.org/alveary-foundations/relational-methods",
+                  "sort": "3",
+                  "sourceTitle": "Literature: Grade 11"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
