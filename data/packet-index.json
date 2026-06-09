@@ -663,7 +663,7 @@
       "Old Testament: Grades 7-12"
     ],
     "previewUrl": "./preview/index.html?id=rechbZlB7x5Shb8Sb",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "reciiHqL05ejUFlIu",
@@ -699,7 +699,7 @@
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recgX5mcpoJBYy4H0",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recSrFAD9GNrlguZw",
@@ -1373,7 +1373,7 @@
       "Civics/Ethics: Grade 12"
     ],
     "previewUrl": "./preview/index.html?id=recK8yvTqP3qOQR56",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recTzpeAId8hcpqi3",
@@ -1391,7 +1391,7 @@
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recTzpeAId8hcpqi3",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recUMjD1jrqKAQh0D",
@@ -1892,7 +1892,7 @@
       "Copywork: Grade 7"
     ],
     "previewUrl": "./preview/index.html?id=rec2I2PPQCvnRPCeY",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recXtDJumB0O83W4t",
@@ -1944,7 +1944,7 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recC9nRRdwTdgzeDi",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recGRj2yx5IFvoFVJ",
@@ -2483,7 +2483,7 @@
     "courseConnectionNames": [],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec2nFZJdIYdGP3Nr",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recyu5tjwRcMydVgV",
@@ -2957,7 +2957,7 @@
     "id": "rec56vdLQLvCTX4LU",
     "title": "History",
     "lessonSetName": "History: Grade 9 (U.S.)",
-    "subtitle": "World History\nAncient History\nU.S. History\nWorld History",
+    "subtitle": "Ancient History\nWorld History\nU.S. History",
     "gradeText": "GRADE(S): 9",
     "subject": "History",
     "sortId": "008.009.001.000",
@@ -2966,10 +2966,12 @@
     "isStandaloneCourse": false,
     "courseConnectionNames": [],
     "topicConnectionNames": [
-      "Ancient History: Grades 7-9"
+      "Ancient History: Grades 7-9",
+      "World History: Grade 9",
+      "U.S. History: Grades 9-12"
     ],
     "previewUrl": "./preview/index.html?id=rec56vdLQLvCTX4LU",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "rec0aDWTW0hc4lgFa",
@@ -2983,11 +2985,12 @@
     "hasTopics": false,
     "isStandaloneCourse": false,
     "courseConnectionNames": [
-      "History: Grades 10-12 (U.S.)"
+      "History: Grades 10-12 (U.S.)",
+      "History: Grade 9 (U.S.)"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=rec0aDWTW0hc4lgFa",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "recdTMiHl2JScwuDc",
@@ -3001,7 +3004,8 @@
     "hasTopics": false,
     "isStandaloneCourse": false,
     "courseConnectionNames": [
-      "History: Grade 9 (Canada)"
+      "History: Grade 9 (Canada)",
+      "History: Grade 9 (U.S.)"
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recdTMiHl2JScwuDc",
@@ -3025,7 +3029,7 @@
       "World History: Grade 9"
     ],
     "previewUrl": "./preview/index.html?id=recIVGK6O1dXsQXub",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recSmUCl42Ci92IOe",
@@ -3044,7 +3048,7 @@
     ],
     "topicConnectionNames": [],
     "previewUrl": "./preview/index.html?id=recSmUCl42Ci92IOe",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recG8ETCmXNqLVKXJ",
@@ -3064,7 +3068,7 @@
       "U.S. History: Grades 9-12"
     ],
     "previewUrl": "./preview/index.html?id=recG8ETCmXNqLVKXJ",
-    "pdfPrintingStatus": "Current"
+    "pdfPrintingStatus": "Needs Update"
   },
   {
     "id": "recwL9S7kHOS6Kk8L",
@@ -3104,7 +3108,7 @@
       "Ancient History: Grades 10-12"
     ],
     "previewUrl": "./preview/index.html?id=recSVxeKFAh5j2CtC",
-    "pdfPrintingStatus": "Needs Update"
+    "pdfPrintingStatus": "Current"
   },
   {
     "id": "recLvvAD3qwZTJey2",

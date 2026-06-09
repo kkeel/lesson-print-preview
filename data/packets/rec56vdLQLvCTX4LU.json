@@ -10,18 +10,22 @@
   "isStandaloneCourse": false,
   "courseConnectionIds": [],
   "topicConnectionIds": [
-    "rec35HIIi6CIj2I0T"
+    "rec35HIIi6CIj2I0T",
+    "recdTMiHl2JScwuDc",
+    "rec0aDWTW0hc4lgFa"
   ],
   "courseConnectionNames": [],
   "topicConnectionNames": [
-    "Ancient History: Grades 7-9"
+    "Ancient History: Grades 7-9",
+    "World History: Grade 9",
+    "U.S. History: Grades 9-12"
   ],
   "templateType": "standard",
   "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recUG2Yrz42nNriXO",
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec56vdLQLvCTX4LU-history-grade-9-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUG2Yrz42nNriXO",
   "hidePdf": "",
   "syllabird": {
@@ -34,7 +38,7 @@
     {
       "type": "cover",
       "title": "History",
-      "subtitle": "World History\nAncient History\nU.S. History\nWorld History",
+      "subtitle": "Ancient History\nWorld History\nU.S. History",
       "gradeText": "GRADE(S): 9",
       "subject": "History",
       "sortId": "008.009.001.000"
@@ -49,7 +53,7 @@
           "entries": [
             {
               "title": "About the Course",
-              "content": "This course includes the following topic(s): Ancient History: Grades 7-9\n\nAbout World History: Grades 7-9\nRead about U.S. and world history from 800-1650AD and ancient history from 3500-550BC through biographies, primary source documents, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level., Read about Canadian and world history from 800-1650AD and ancient history from 3500-550BC through biographies, primary source documents, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level., Read about U.S. and world history from 800-1650AD and ancient history from 3500-550BC through biographies, primary source documents, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout Ancient History: Grades 7-9\nRead about ancient history from 100 BC-350 AD through biographies, primary source documents, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nAbout U.S. History: Grade 9\nRead about U.S. history from 1800 to 1900 through primary source documents, creative nonfiction, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries.\n\nAbout World History: Grades 9-10\nRead about U.S. and world history from 800-1650AD and ancient history from 3500-550BC through biographies, primary source documents, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries., Read about U.S and world history from 800-1650AD and ancient history from 3500-550BC through biographies, primary source documents, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries as appropriate for student level."
+              "content": "This course includes the following topic(s): U.S. History: Grades 9-12, World History: Grade 9, Ancient History: Grades 7-9\n\nAbout Ancient History: Grades 7-9\nRead about ancient history from 100 BC-350 AD through biographies, primary source documents, and history spines. Students will view images, reference maps, and update their Book of Centuries as part of the lessons.\n\nAbout World History: Grade 9\nReading about the lives of people and events from the time period in many different parts of the world gives students a sense of the growing interconnectedness of the world at this time. A Little Book for New Historians in the third term casts a vision for what it means to think Christianly and historically as a student of history. It raises important questions of complexity, nuance, perspective, empathy, and humility as students enter the HS years.\n\nAbout U.S. History: Grades 9-12\nRead about U.S. history from 1800 to 1900 through primary source documents, creative nonfiction, and history spines. View images and reference atlases and maps to set the people and events in their time and place. Update History Charts and Book of Centuries."
             }
           ]
         },
@@ -59,7 +63,7 @@
           "entries": [
             {
               "title": "Placement & Combining Tips",
-              "content": "U.S. History: Grade 9\nHistory in Grade 9 shares books with both Grades 7-8 and Grade 10."
+              "content": "World History: Grade 9\nAll the books are appropriate for any HS student. If a HS student is new to the Alveary, especially consider assigning the third term book, A Little Book for New Historians, no matter their grade."
             }
           ]
         },
@@ -73,6 +77,20 @@
               "grade": "7-9",
               "scheduleInfo": "Ancient History: Grades 7-9\n1 time/week 30 min",
               "books": "The Witness of Early Christian Women: Mothers of the Church||A Short History of Ancient Rome||Historical Atlas of the World 6th Ed."
+            },
+            {
+              "rowType": "topic",
+              "label": "World History: Grade 9",
+              "grade": "9",
+              "scheduleInfo": "World History: Grade 9\n1 time/week 30 min",
+              "books": "A Little Book for New Historians||Blood and Iron: The Rise and Fall of the German Empire||Erebus: The Story of a Ship"
+            },
+            {
+              "rowType": "topic",
+              "label": "U.S. History: Grades 9-12",
+              "grade": "9-12",
+              "scheduleInfo": "U.S. History: Grades 9-12\n1 time/week 40 min\n1 time/week 30 min",
+              "books": "I Am a Man: Chief Standing Bear's Journey for Justice||American History, Volume 1: 1492-1877||American History, Volume 2: 1877 - Present||The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.||They Fought Like Demons: Women Soldiers in the Civil War||Reading American Horizons"
             }
           ],
           "weeklyView": {
@@ -125,6 +143,54 @@
                 {
                   "title": "Historical Atlas of the World 6th Ed.",
                   "resourceId": "reca6JrCf4DtEZII1"
+                }
+              ]
+            },
+            {
+              "title": "World History: Grade 9",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "A Little Book for New Historians",
+                  "resourceId": "recWtQ9v1m2yjol7i"
+                },
+                {
+                  "title": "Blood and Iron: The Rise and Fall of the German Empire",
+                  "resourceId": "recfhEICVStPgotwB"
+                },
+                {
+                  "title": "Erebus: The Story of a Ship",
+                  "resourceId": "rec7z1NO1PuxPcgfP"
+                }
+              ]
+            },
+            {
+              "title": "U.S. History: Grades 9-12",
+              "type": "topic",
+              "books": [
+                {
+                  "title": "I Am a Man: Chief Standing Bear's Journey for Justice",
+                  "resourceId": "recsip6zWHy9EAHqd"
+                },
+                {
+                  "title": "American History, Volume 1: 1492-1877",
+                  "resourceId": "recNPim5x3CMd2ifB"
+                },
+                {
+                  "title": "American History, Volume 2: 1877 - Present",
+                  "resourceId": "recrvepzgOXlsyEdB"
+                },
+                {
+                  "title": "The Narrative of Lunsford Lane, Formerly of Raleigh, N. C.",
+                  "resourceId": "rec6eikbd193FRt9J"
+                },
+                {
+                  "title": "They Fought Like Demons: Women Soldiers in the Civil War",
+                  "resourceId": "recoUIxcidEegMG1X"
+                },
+                {
+                  "title": "Reading American Horizons",
+                  "resourceId": "rec0LGczNqRlOvRen"
                 }
               ]
             }
@@ -2254,7 +2320,7 @@
               "linkLabel": "U.S. History",
               "title": "30m U.S. History: Grades 9-12 - Lesson 54",
               "body": "⍞ Materials: I Am a Man\n\n➜ RECAP\nThink back to where you left off last time.\n\n➜ READ\np.38-59 “Rosette Le Clair” - “the Indian Bureau.”\n\n➜ NARRATE\nAnswer the question in three paragraphs:\nWhat surprised you the most in this section? \n\n➜ MAP WORK\nUsing the same map from the previous lessons, track where the story goes. What are the states Starita mentions throughout the chapter? Where is the Ponca tribe located?",
-              "teacherNotes": "➜ STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.",
+              "teacherNotes": "• STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec0aDWTW0hc4lgFa&6J82c=rec4Jhmdguw5jWCP5",
               "lessonLinksUrl": "",
               "links": []
@@ -2288,7 +2354,7 @@
               "linkLabel": "U.S. History",
               "title": "40m U.S. History: Grades 9-12 - Lesson 55",
               "body": "⍞ Materials: American History: Volume 2\n\n➜ RECAP\nThe Gilded Age is brought on by technological and industrial growth as well as immigration to the United States. During this time, entertainment will be introduced to the masses in the form of baseball, boxing, and other sports. While reading, keep in mind the many different ways these sports and entertainment in general have changed throughout American History.\n\n➜ READ AND NARRATE\nCh.17 p.29-40 beginning of chapter - “Education and the University”\nAs you finish each section (headed by a red-lettered title), stop, and narrate either with a summary statement in writing or orally to yourself or others.\n\n➜ WRITE\nAnswer the following questions in two paragraphs:\nIn the Gilded Age, what is changing? What is staying the same?",
-              "teacherNotes": "• COMPOSITION \nCreate a newspaper article about one of the entertainers or sports you've read about in American History: Volume 2.",
+              "teacherNotes": "• COMPOSITION - News Report\nCreate a newspaper article about one of the entertainers or sports you've read about in American History: Volume 2.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec0aDWTW0hc4lgFa&6J82c=recHRuobyAh74SJnh",
               "lessonLinksUrl": "",
               "links": []
@@ -2424,7 +2490,7 @@
               "linkLabel": "U.S. History",
               "title": "40m U.S. History: Grades 9-12 - Lesson 59",
               "body": "⍞ Materials: American History: Volume 2\n\n➜ INTRO\nAt the end of the century, the political climate is heating up. The battle between Republican and Democrat becomes more and more serious, but people are also looking for fairness in other party options. Enter the populist party. As you read through this section, think about our modern day political parties. How are they the same and how are they different?\n\n➜ READ AND NARRATE\nCh.18 p.53-60 beginning of chapter - “The 1896 Presidential Election”\nAs you finish each section (headed by a red-lettered title), stop, and narrate either with a summary statement in writing or orally to yourself or others.",
-              "teacherNotes": "➜ STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.",
+              "teacherNotes": "• STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec0aDWTW0hc4lgFa&6J82c=rec3RdUe1Tkke8Yem",
               "lessonLinksUrl": "",
               "links": []
@@ -2892,15 +2958,15 @@
       "terms": [
         {
           "term": "Term 1",
-          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments."
+          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did the Roman Republic fall? OR Which of the emperors you read about had the most impact on Ancient Rome? Explain your answer with three examples of their accomplishments.\n\nU.S. History: Grades 9-12\n· Name three presidents you've read about, as well as their major accomplishments and failings. How did their accomplishments and failings impact the growing United States?\n\n· Summarize the major events in Lunsford Lane's story, both before and after he was free.\n\nWorld History: Grade 9\n· What have you learned from A Little Book for New Historians? What stood out that you want to remember? What questions do you have about the topic? Why is the topic important? What difference does it make in how we think about history?"
         },
         {
           "term": "Term 2",
-          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?"
+          "content": "Ancient History: Grades 7-9\n· From A Short History of Ancient Rome: How did conquered nations react to Rome? Use examples from the reading. OR What led to the decline of the Roman Empire?\n\nU.S. History: Grades 9-12\n· Based on your reading of Thomas Kidd’s American History, summarize in several paragraphs the many events leading up to the Civil War. Who were the people integral to the fight? What were the many reasons the Union went to war against the Confederacy? \n\n· Choose one woman whose story you read about in They Fought Like Demons and summarize her story in two to three paragraphs.\n\nWorld History: Grade 9\n· Erebus: Life on exploration was never easy. Yet, many people chose to pursue lives of exploration. What were the many reasons for people to pursue this lifestyle? Use examples from different characters to support your answer.\n\n· Erebus: Choose one person from the narrative who fascinated you and summarize his or her story."
         },
         {
           "term": "Term 3",
-          "content": "Ancient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story."
+          "content": "Ancient History: Grades 7-9\n· The Witness of Early Christian Women: Choose a woman in the New Testament and explain how she benefited the church and how she maneuvered through a culture that devalued her. OR Choose a woman from either the martyrs and heroines or poets and thinkers section and summarize her story.\n\nU.S. History: Grades 9-12\n· Make a list of the many movements taking place after the Civil War. What did these movements contribute, and how did they impact the United States?\n\n· Explore Chief Standing Bear's impact on American politics.\n\nWorld History: Grade 9\n· Blood and Iron: What were the events leading up to the establishment of the German Empire?\n\n· Blood and Iron: Summarize Bismarck’s Reich (1871-1888)."
         }
       ]
     }

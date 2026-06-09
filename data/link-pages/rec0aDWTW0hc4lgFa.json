@@ -9,7 +9,8 @@
   "hasTopics": false,
   "isStandaloneCourse": false,
   "courseConnectionNames": [
-    "History: Grades 10-12 (U.S.)"
+    "History: Grades 10-12 (U.S.)",
+    "History: Grade 9 (U.S.)"
   ],
   "topicConnectionNames": [],
   "quickLinks": {
@@ -44,7 +45,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-09T17:44:51.191Z",
+  "updatedAt": "2026-06-09T18:34:36.521Z",
   "terms": [
     {
       "termNumber": 1,

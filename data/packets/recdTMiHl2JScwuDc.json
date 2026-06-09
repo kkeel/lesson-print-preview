@@ -9,11 +9,13 @@
   "hasTopics": false,
   "isStandaloneCourse": false,
   "courseConnectionIds": [
-    "recIVGK6O1dXsQXub"
+    "recIVGK6O1dXsQXub",
+    "rec56vdLQLvCTX4LU"
   ],
   "topicConnectionIds": [],
   "courseConnectionNames": [
-    "History: Grade 9 (Canada)"
+    "History: Grade 9 (Canada)",
+    "History: Grade 9 (U.S.)"
   ],
   "topicConnectionNames": [],
   "templateType": "standard",
