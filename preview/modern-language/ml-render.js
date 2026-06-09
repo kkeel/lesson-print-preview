@@ -774,31 +774,40 @@ function renderMLReferencePrint(section, referenceType = "full") {
 }
 
 function getMLAppendixOptionsForReference(referenceType = "full") {
+  const none = {
+    includeSongs: false,
+    includeStories: false,
+    includePictureStudyVocab: false,
+    includeLiteratureVocab: false,
+    includeConversationLines: false,
+    includeStudentLiteraturePages: false
+  };
+
   switch (referenceType) {
     case "songs-rhymes":
-      return { includeSongs: true };
+      return { ...none, includeSongs: true };
 
     case "storylines":
-      return { includeStories: true };
+      return { ...none, includeStories: true };
 
     case "picture-study-vocab":
-      return { includePictureStudyVocab: true };
+      return { ...none, includePictureStudyVocab: true };
 
     case "literature-vocab":
-      return { includeLiteratureVocab: true };
+      return { ...none, includeLiteratureVocab: true };
 
     case "conversation-lines-phrases":
-      return { includeConversationLines: true };
+      return { ...none, includeConversationLines: true };
 
     case "full":
     default:
       return {
+        ...none,
         includeSongs: true,
         includeStories: true,
         includePictureStudyVocab: true,
         includeLiteratureVocab: true,
-        includeConversationLines: true,
-        includeStudentLiteraturePages: false
+        includeConversationLines: true
       };
   }
 }
