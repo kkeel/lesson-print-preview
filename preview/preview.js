@@ -97,7 +97,8 @@ function filterHeaderForSample(section) {
 
       return {
         ...item,
-        linkPageUrl: getSampleLinkPageUrl(id)
+        linkPageUrl: getSampleLinkPageUrl(id),
+        sampleMode: true
       };
     })
   };
