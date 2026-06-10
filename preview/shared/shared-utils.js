@@ -18,7 +18,7 @@ function formatInlineRichText(value) {
   return escapeHtml(value)
     .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank">$1</a>')
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-    .replace(/_([^_]+)_/g, "<em>$1</em>");
+    .replace(/(^|[\s(])_([^_\s][^_]*?[^_\s])_(?=[\s).,!?:;]|$)/g, "$1<em>$2</em>");
 }
 
 function formatTeacherNotes(value) {
