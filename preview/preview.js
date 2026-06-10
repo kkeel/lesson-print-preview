@@ -69,23 +69,48 @@ function filterStandardLessonsForSample(section) {
   };
 }
 
+function getSampleLessonLinksUrl(lesson = {}) {
+  const url = new URL(getSampleLinkPageUrl(id));
+
+  if (lesson.term) {
+    url.searchParams.set("term", lesson.term);
+  }
+
+  if (lesson.week) {
+    url.searchParams.set("week", lesson.week);
+  }
+
+  return url.toString();
+}
+
+function filterModernLanguageLessonForSample(lesson) {
+  return {
+    ...lesson,
+    lessonLinksUrl: getSampleLessonLinksUrl(lesson)
+  };
+}
+
 function filterModernLanguageForSample(section) {
   const allLessons = (section.lessonSets || []).flatMap(lessonSet => lessonSet.lessons || []);
   const sampleWeeks = new Set(getSampleWeekNumbersFromLessons(allLessons).map(String));
 
   return {
     ...section,
+    sampleMode: true,
     lessonSets: (section.lessonSets || [])
       .map(lessonSet => ({
         ...lessonSet,
-        lessons: (lessonSet.lessons || []).filter(lesson =>
-          sampleWeeks.has(String(lesson.week || 0))
-        )
+        lessons: (lessonSet.lessons || [])
+          .filter(lesson => sampleWeeks.has(String(lesson.week || 0)))
+          .map(filterModernLanguageLessonForSample)
       }))
       .filter(lessonSet => lessonSet.lessons.length),
-    weeklyLessons: (section.weeklyLessons || []).filter(week =>
-      sampleWeeks.has(String(week.week || 0))
-    )
+    weeklyLessons: (section.weeklyLessons || [])
+      .filter(week => sampleWeeks.has(String(week.week || 0)))
+      .map(week => ({
+        ...week,
+        lessons: (week.lessons || []).map(filterModernLanguageLessonForSample)
+      }))
   };
 }
 
