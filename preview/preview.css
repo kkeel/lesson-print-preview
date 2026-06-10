@@ -1915,11 +1915,11 @@ body.sample-pdf-mode .page-flow::after {
   content: "SAMPLE";
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 46%;
   z-index: 999;
   transform: translate(-50%, -50%) rotate(-32deg);
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 86px;
+  font-size: 140px;
   line-height: 1;
   font-weight: 900;
   letter-spacing: 0.16em;
