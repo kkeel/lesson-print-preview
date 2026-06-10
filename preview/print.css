@@ -490,7 +490,7 @@ body.sample-pdf-mode .page-flow::after {
   line-height: 1;
   font-weight: 900;
   letter-spacing: 0.16em;
-  color: rgba(89, 110, 94, 0.14) !important;
+  color: rgba(89, 110, 94, 0.18) !important;
   pointer-events: none;
   user-select: none;
   white-space: nowrap;
