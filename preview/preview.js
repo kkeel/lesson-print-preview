@@ -184,6 +184,7 @@ function renderPacket(data) {
   }
 
   updateMLPrintBodyClass();
+  document.body.classList.toggle("sample-pdf-mode", sampleMode);
   preview.innerHTML = html;
   renderMLPreviewControls(data);
   
