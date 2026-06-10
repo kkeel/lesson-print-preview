@@ -342,6 +342,7 @@ function renderHeaderItem(item, headerEditUrl = "") {
       const iconSrc = "../images/header_icons/Quick Links.png";
       const linkPageUrl = item.linkPageUrl || "#";
       const extraHelpingsUrl = item.extraHelpingsUrl || "";
+      const isSampleMode = item.sampleMode === true;
       const extraHelpingsLink = extraHelpingsUrl
         ? [{
             id: "extra-helpings",
@@ -388,12 +389,20 @@ function renderHeaderItem(item, headerEditUrl = "") {
                           <div class="quick-links-group ${group.type === "course" ? "quick-links-course" : "quick-links-topic"}">
                             <h4>${escapeHtml(group.title || "")}</h4>
   
-                            ${links.length ? links.map(link => `
-                              <div class="quick-link-row">
-                                <span class="quick-link-symbol">∞</span>
-                                <a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a>
-                              </div>
-                            `).join("") : ""}
+                            ${links.length ? links.map(link => {
+                              const isExtraHelpings = link.id === "extra-helpings";
+                            
+                              return `
+                                <div class="quick-link-row ${isSampleMode && !isExtraHelpings ? "quick-link-row-sample-disabled" : ""}">
+                                  <span class="quick-link-symbol">∞</span>
+                                  ${
+                                    isSampleMode && !isExtraHelpings
+                                      ? `<span class="quick-link-sample-text">${escapeHtml(link.label || "")}</span>`
+                                      : `<a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a>`
+                                  }
+                                </div>
+                              `;
+                            }).join("") : ""}
                           </div>
                         `;
                       }).join("")}
