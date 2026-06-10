@@ -6,6 +6,8 @@ const mlTopic = params.get("topic") || "";
 const mlLesson = params.get("lesson") || "";
 const mlStudentNotebook = params.get("studentNotebook") || "";
 const mlReference = params.get("mlReference") || "";
+const sampleMode = params.get("sample") === "1";
+const SAMPLE_WEEK_COUNT = 3;
 
 const preview = document.getElementById("preview");
 
@@ -35,6 +37,90 @@ if (!id) {
     });
 }
 
+function getSampleLinkPageUrl(packetId) {
+  return `https://planning.alveary.org/sample-links.html?id=${encodeURIComponent(packetId || "")}`;
+}
+
+function getSampleWeekNumbersFromLessons(lessons = []) {
+  return [...new Set(
+    lessons
+      .map(lesson => Number(lesson.weekNumber || lesson.week || 0))
+      .filter(Boolean)
+  )]
+    .sort((a, b) => a - b)
+    .slice(0, SAMPLE_WEEK_COUNT);
+}
+
+function filterStandardLessonsForSample(section) {
+  const allLessons = (section.terms || []).flatMap(term => term.lessons || []);
+  const sampleWeeks = new Set(getSampleWeekNumbersFromLessons(allLessons).map(String));
+
+  return {
+    ...section,
+    linkPageUrl: getSampleLinkPageUrl(id),
+    terms: (section.terms || [])
+      .map(term => ({
+        ...term,
+        lessons: (term.lessons || []).filter(lesson =>
+          sampleWeeks.has(String(lesson.weekNumber || 0))
+        )
+      }))
+      .filter(term => term.lessons.length)
+  };
+}
+
+function filterModernLanguageForSample(section) {
+  const allLessons = (section.lessonSets || []).flatMap(lessonSet => lessonSet.lessons || []);
+  const sampleWeeks = new Set(getSampleWeekNumbersFromLessons(allLessons).map(String));
+
+  return {
+    ...section,
+    lessonSets: (section.lessonSets || [])
+      .map(lessonSet => ({
+        ...lessonSet,
+        lessons: (lessonSet.lessons || []).filter(lesson =>
+          sampleWeeks.has(String(lesson.week || 0))
+        )
+      }))
+      .filter(lessonSet => lessonSet.lessons.length),
+    weeklyLessons: (section.weeklyLessons || []).filter(week =>
+      sampleWeeks.has(String(week.week || 0))
+    )
+  };
+}
+
+function filterHeaderForSample(section) {
+  return {
+    ...section,
+    items: (section.items || []).map(item => {
+      if (item.kind !== "quick-links") return item;
+
+      return {
+        ...item,
+        linkPageUrl: getSampleLinkPageUrl(id)
+      };
+    })
+  };
+}
+
+function filterSectionForSample(section) {
+  if (!sampleMode) return section;
+
+  if (section.type === "header") {
+    return filterHeaderForSample(section);
+  }
+
+  if (section.type === "lessons") {
+    return filterStandardLessonsForSample(section);
+  }
+
+  if (section.type === "modern-language-lessons") {
+    return filterModernLanguageForSample(section);
+  }
+
+  return section;
+}
+
 function renderPacket(data) {
   let html = "";
 
@@ -44,14 +130,24 @@ function renderPacket(data) {
 
   const isMLSpecialPrint = Boolean(mlStudentNotebook || mlReference);
 
-  const sectionsToRender = isMLSpecialPrint
-    ? data.sections.filter(section =>
-        section.type === "cover" ||
-        section.type === "modern-language-lessons"
-      )
-    : mlLesson
-      ? data.sections.filter(section => section.type === "modern-language-lessons")
-      : data.sections;
+  const sectionsToRender = sampleMode
+    ? data.sections
+        .filter(section =>
+          section.type === "cover" ||
+          section.type === "header" ||
+          section.type === "howto" ||
+          section.type === "lessons" ||
+          section.type === "modern-language-lessons"
+        )
+        .map(filterSectionForSample)
+    : isMLSpecialPrint
+      ? data.sections.filter(section =>
+          section.type === "cover" ||
+          section.type === "modern-language-lessons"
+        )
+      : mlLesson
+        ? data.sections.filter(section => section.type === "modern-language-lessons")
+        : data.sections;
   
     const shouldMoveMLReferences =
     !isMLSpecialPrint &&
