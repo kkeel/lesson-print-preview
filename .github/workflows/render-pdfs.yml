@@ -12,6 +12,10 @@ on:
           - changed
           - all
           - links-only
+      packet_id:
+        description: "Optional packet ID to force render one PDF"
+        required: false
+        default: ""
 
   schedule:
     - cron: "30 6 * * *"
@@ -61,6 +65,7 @@ jobs:
         if: ${{ github.event.inputs.render_mode != 'links-only' }}
         env:
           RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
+          TEST_PACKET_ID: ${{ github.event.inputs.packet_id || '' }}
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
         run: npm run render-pdfs
