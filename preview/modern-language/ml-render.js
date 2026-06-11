@@ -71,13 +71,19 @@ function prepareMLSectionForRender(section, options = {}) {
       .filter(lessonSet => lessonSet.lessons.length);
   }
 
-  const appendixLessonSets = getMLAppendixLessonSets(allLessonSets, lessonSets, options);
+  const appendixLessonSets = getMLAppendixLessonSets(allLessonSets, lessonSets, {
+    ...options,
+    sampleMode: options.sampleMode === true || section.sampleMode === true
+  });
 
   return {
     ...section,
     lessonSets,
     weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets),
-    appendices: buildMLAppendices(appendixLessonSets, options)
+    appendices: buildMLAppendices(appendixLessonSets, {
+      ...options,
+      sampleMode: options.sampleMode === true || section.sampleMode === true
+    })
   };
 }
 
@@ -103,11 +109,125 @@ function getMLAppendixLessonSets(allLessonSets = [], lessonSets = [], options = 
   return lessonSets;
 }
 
+function getMLSampleSetKey(value = "") {
+  return String(value || "").trim().toLowerCase();
+}
+
+function collectMLSampleSetsByType(lessonSets = []) {
+  const sets = {
+    picture: new Set(),
+    literature: new Set(),
+    story: new Set(),
+    conversation: new Set(),
+    grammar: new Set()
+  };
+
+  lessonSets.forEach(lessonSet => {
+    const lessonSetTitle = String(lessonSet.title || "").toLowerCase();
+
+    (lessonSet.lessons || []).forEach(lesson => {
+      (lesson.vocab || []).forEach(item => {
+        const set = getMLSampleSetKey(item.set);
+        if (!set) return;
+
+        const type = String(item.type || "").toLowerCase();
+
+        if (type.includes("literature") || lessonSetTitle.includes("literature")) {
+          sets.literature.add(set);
+          return;
+        }
+
+        if (type.includes("picture") || lessonSetTitle.includes("picture")) {
+          sets.picture.add(set);
+          return;
+        }
+      });
+
+      (lesson.sentences || []).forEach(item => {
+        const set = getMLSampleSetKey(item.set);
+        if (!set) return;
+
+        const type = [
+          item.type,
+          item.sentenceType,
+          lessonSetTitle
+        ].join(" ").toLowerCase();
+
+        if (type.includes("conversation")) {
+          sets.conversation.add(set);
+          return;
+        }
+
+        if (type.includes("story") || type.includes("literature")) {
+          sets.story.add(set);
+          sets.literature.add(set);
+          return;
+        }
+
+        if (type.includes("picture")) {
+          sets.picture.add(set);
+        }
+      });
+
+      (lesson.grammarCharts || []).forEach(item => {
+        const set = getMLSampleSetKey(item.set);
+        if (set) sets.grammar.add(set);
+      });
+    });
+  });
+
+  return sets;
+}
+
+function filterMLStoryForSample(story, sampleSetsByType) {
+  const lines = (story.lines || []).filter(line => {
+    const set = getMLSampleSetKey(line.set);
+    return set && sampleSetsByType.story.has(set);
+  });
+
+  if (!lines.length) return null;
+
+  return {
+    ...story,
+    lines
+  };
+}
+
+function shouldKeepMLGlossaryItemForSample(item, sampleSetsByType) {
+  const set = getMLSampleSetKey(item.set);
+  if (!set) return false;
+
+  const type = String(item.type || "").toLowerCase();
+
+  if (type.includes("literature")) {
+    return sampleSetsByType.literature.has(set);
+  }
+
+  if (type.includes("picture")) {
+    return sampleSetsByType.picture.has(set);
+  }
+
+  if (type.includes("grammar")) {
+    return sampleSetsByType.grammar.has(set);
+  }
+
+  return (
+    sampleSetsByType.picture.has(set) ||
+    sampleSetsByType.literature.has(set) ||
+    sampleSetsByType.grammar.has(set)
+  );
+}
+
 function buildMLAppendices(lessonSets = [], options = {}) {
   const seenStoryIds = new Set();
   const seenSongIds = new Set();
   const seenGlossaryIds = new Set();
   const seenConversationIds = new Set();
+
+  const isSampleMode = options.sampleMode === true;
+  const sampleSetsByType = isSampleMode
+    ? collectMLSampleSetsByType(lessonSets)
+    : null;
 
   const stories = [];
   const songsRhymes = [];
@@ -120,10 +240,16 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     (resources.stories || []).forEach(story => {
       if (seenStoryIds.has(story.id)) return;
 
+      const storyForAppendix = isSampleMode
+        ? filterMLStoryForSample(story, sampleSetsByType)
+        : story;
+
+      if (!storyForAppendix) return;
+
       seenStoryIds.add(story.id);
 
       stories.push({
-        ...story,
+        ...storyForAppendix,
         lessonSetTitle: lessonSet.title,
         language: lessonSet.language
       });
@@ -131,6 +257,8 @@ function buildMLAppendices(lessonSets = [], options = {}) {
 
     (resources.songsRhymes || []).forEach(song => {
       if (seenSongIds.has(song.id)) return;
+
+      if (isSampleMode && songsRhymes.length >= 1) return;
 
       seenSongIds.add(song.id);
 
@@ -143,6 +271,10 @@ function buildMLAppendices(lessonSets = [], options = {}) {
 
     (resources.glossary || []).forEach(item => {
       if (seenGlossaryIds.has(item.id)) return;
+
+      if (isSampleMode && !shouldKeepMLGlossaryItemForSample(item, sampleSetsByType)) {
+        return;
+      }
 
       seenGlossaryIds.add(item.id);
 
@@ -158,6 +290,11 @@ function buildMLAppendices(lessonSets = [], options = {}) {
         const sentenceType = String(sentence.sentenceType || "").toLowerCase();
 
         if (!sentenceType.includes("conversation")) return;
+
+        if (isSampleMode) {
+          const set = getMLSampleSetKey(sentence.set);
+          if (!set || !sampleSetsByType.conversation.has(set)) return;
+        }
 
         const id = sentence.id || `${sentence.sentence || ""}-${sentence.translation || ""}-${sentence.set || ""}`;
         if (seenConversationIds.has(id)) return;
