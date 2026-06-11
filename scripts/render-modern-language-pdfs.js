@@ -23,7 +23,8 @@ const OUTPUT_PATHS = {
   topics: `${OUTPUT_ROOT}/topics`,
   individualLessons: `${OUTPUT_ROOT}/individual-lessons`,
   studentNotebooks: `${OUTPUT_ROOT}/student-notebooks`,
-  references: `${OUTPUT_ROOT}/references`
+  references: `${OUTPUT_ROOT}/references`,
+  samples: `${COURSE_PICKER_DIR}/pdf/samples`
 };
 
 for (const dir of Object.values(OUTPUT_PATHS)) {
@@ -278,6 +279,25 @@ function getPacketRenderJobs(packet) {
 
   return [
     {
+      key: `${packet.id}:sample`,
+      type: "sample",
+      packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
+      outputPath: path.join(
+        OUTPUT_PATHS.samples,
+        `${packet.id}.pdf`
+      ),
+      url: buildPrintUrl(packet.id, {
+        sample: "1"
+      }),
+      hashSource: {
+        packetId: packet.id,
+        pdfPrintingStatus: packet.pdfPrintingStatus,
+        sample: "1",
+        packet
+      }
+    },
+    {
       key: `${packet.id}:full-course`,
       type: "fullCourse",
       packetId: packet.id,
@@ -330,7 +350,7 @@ function commitCoursePickerChanges(renderedCount) {
     { stdio: "inherit" }
   );
 
-  execSync(`git -C ${COURSE_PICKER_DIR} add pdf/modern-language`, {
+  execSync(`git -C ${COURSE_PICKER_DIR} add pdf/modern-language pdf/samples`, {
     stdio: "inherit"
   });
 
@@ -401,9 +421,16 @@ async function main() {
     
     const shouldRender =
       RENDER_MODE === "all" ||
+      RENDER_MODE === "samples-only" ||
       pdfPrintingStatus === "needs update" ||
       currentHash !== previousHash ||
       !fs.existsSync(job.outputPath);
+    
+    if (RENDER_MODE === "samples-only" && job.type !== "sample") {
+      console.log(`Skipping non-sample ML job: ${job.key}`);
+      skippedCount++;
+      continue;
+    }
 
     if (!shouldRender) {
       console.log(`Skipping unchanged: ${job.key}`);
