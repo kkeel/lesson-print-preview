@@ -473,17 +473,12 @@ body.sample-pdf-mode .quick-link-row-sample-disabled {
   opacity: 0.82 !important;
 }
 
-body.sample-pdf-mode .page-flow {
-  position: relative !important;
-  overflow: hidden !important;
-}
-
-body.sample-pdf-mode .page-flow::after {
+body.sample-pdf-mode::after {
   content: "SAMPLE";
-  position: absolute;
+  position: fixed;
   left: 50%;
   top: 46%;
-  z-index: 999;
+  z-index: 9999;
   transform: translate(-50%, -50%) rotate(-32deg);
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 140px;
