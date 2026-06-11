@@ -11,6 +11,7 @@ on:
         options:
           - changed
           - all
+          - samples-only
 
   schedule:
     - cron: "30 11 * * *"
