@@ -21,8 +21,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec1IfxRgu1jEPXtR-grammar-grade-10.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recKpemaueL8hPyNj",
   "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
@@ -126,7 +126,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec1IfxRgu1jEPXtR",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recKpemaueL8hPyNj",
           "groups": [
             {
               "title": "Related Course Quick Links",
