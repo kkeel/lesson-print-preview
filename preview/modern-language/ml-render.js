@@ -866,7 +866,15 @@ function renderMLConversationSet(setGroup) {
 }
 
 function renderMLTeacherReferences(section) {
+  const isSampleMode = section.sampleMode === true;
+  const studentLiteraturePages = section.appendices?.studentLiteraturePages || [];
+
   return `
+    ${isSampleMode && studentLiteraturePages.length ? `
+      ${renderMLDividerPage("Student Work")}
+      ${renderMLStudentLiteraturePages(studentLiteraturePages)}
+    ` : ""}
+
     ${renderMLDividerPage("References")}
     ${renderMLAppendices(section.appendices)}
   `;
