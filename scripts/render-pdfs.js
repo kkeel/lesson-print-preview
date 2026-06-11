@@ -289,17 +289,22 @@ async function main() {
 
       const shouldRender =
         RENDER_MODE === "all" ||
+        RENDER_MODE === "samples-only" ||
         pdfPrintingStatus === "needs update" ||
         currentHash !== previousHash;
-
+      
       if (!shouldRender) {
         console.log(`Skipping unchanged: ${filename}`);
         skippedCount++;
         continue;
       }
-
-      const renderedPdf = await renderPdf(record);
-
+      
+      let renderedPdf = null;
+      
+      if (RENDER_MODE !== "samples-only") {
+        renderedPdf = await renderPdf(record);
+      }
+      
       if (!TEST_VARIANT && !TEST_TOPIC && !TEST_LESSON_ID) {
         const renderedSamplePdf = await renderPdf({
           ...record,
@@ -312,15 +317,19 @@ async function main() {
       if (SKIP_AIRTABLE_UPDATE) {
         console.log(`Skipping Airtable update for test render: ${record.id}`);
       } else {
-        await updateAirtablePageCount(record.id, renderedPdf.pageCount);
+        if (renderedPdf) {
+          await updateAirtablePageCount(record.id, renderedPdf.pageCount);
+        }
       }
 
-      manifest[record.id] = {
-        hash: currentHash,
-        filename,
-        pageCount: renderedPdf.pageCount,
-        updatedAt: new Date().toISOString()
-      };
+      if (renderedPdf) {
+        manifest[record.id] = {
+          hash: currentHash,
+          filename,
+          pageCount: renderedPdf.pageCount,
+          updatedAt: new Date().toISOString()
+        };
+      }
 
       renderedCount++;
     } catch (err) {
