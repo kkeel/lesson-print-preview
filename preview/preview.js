@@ -204,7 +204,8 @@ function renderPacket(data) {
       lesson: "",
       studentNotebook: "",
       mlReference: "",
-      referencesOnly: true
+      referencesOnly: true,
+      sampleMode: mlReferenceSection.sampleMode === true
     });
   }
 
@@ -245,7 +246,8 @@ function renderSection(section, packetData) {
       lesson: mlLesson,
       studentNotebook: mlStudentNotebook,
       mlReference,
-      includeTeacherReferences: !section.suppressMLReferences
+      includeTeacherReferences: !section.suppressMLReferences,
+      sampleMode: section.sampleMode === true
     });
   }
 
