@@ -8,6 +8,7 @@ const BASE_URL =
   "https://kkeel.github.io/lesson-print-preview/preview/print.html?id=";
 
 const OUTPUT_DIR = "./generated-pdfs";
+const SAMPLE_OUTPUT_DIR = "./generated-sample-pdfs";
 const ML_OUTPUT_DIR = "./generated-modern-language-pdfs";
 
 const MANIFEST_PATH =
@@ -31,6 +32,10 @@ const AIRTABLE_RENDER_STATUS_FIELD = "PDF Render Status";
 
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+}
+
+if (!fs.existsSync(SAMPLE_OUTPUT_DIR)) {
+  fs.mkdirSync(SAMPLE_OUTPUT_DIR, { recursive: true });
 }
 
 if (!fs.existsSync(ML_OUTPUT_DIR)) {
@@ -142,6 +147,12 @@ async function renderPdf(record) {
   const params = new URLSearchParams({
     id: record.id
   });
+  
+  const isSampleRender = record.renderSample === true;
+  
+  if (isSampleRender) {
+    params.set("sample", "1");
+  }
 
   if (TEST_VARIANT) {
     params.set("variant", TEST_VARIANT);
@@ -172,8 +183,13 @@ async function renderPdf(record) {
     record.lessonSetName || record.title || record.id
   );
 
-  let filename = `${record.id}-${slug}.pdf`;
-  let outputDir = OUTPUT_DIR;
+  let filename = isSampleRender
+    ? `${record.id}.pdf`
+    : `${record.id}-${slug}.pdf`;
+  
+  let outputDir = isSampleRender
+    ? SAMPLE_OUTPUT_DIR
+    : OUTPUT_DIR;
 
   if (TEST_VARIANT === "g1-3") {
     filename = `${record.id}-g1-3.pdf`;
@@ -283,6 +299,15 @@ async function main() {
       }
 
       const renderedPdf = await renderPdf(record);
+
+      if (!TEST_VARIANT && !TEST_TOPIC && !TEST_LESSON_ID) {
+        const renderedSamplePdf = await renderPdf({
+          ...record,
+          renderSample: true
+        });
+      
+        console.log(`Sample PDF saved: ${renderedSamplePdf.filename}`);
+      }
 
       if (SKIP_AIRTABLE_UPDATE) {
         console.log(`Skipping Airtable update for test render: ${record.id}`);
