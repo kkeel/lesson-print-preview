@@ -11,6 +11,7 @@ on:
         options:
           - changed
           - all
+          - samples-only
           - links-only
       packet_id:
         description: "Optional packet ID to force render one PDF"
