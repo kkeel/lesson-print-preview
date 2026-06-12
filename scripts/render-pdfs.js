@@ -10,13 +10,21 @@ const BASE_URL =
 const OUTPUT_DIR = "./generated-pdfs";
 const SAMPLE_OUTPUT_DIR = "./generated-sample-pdfs";
 const ML_OUTPUT_DIR = "./generated-modern-language-pdfs";
+const STUDENT_OUTPUT_DIR = "./generated-student-lesson-pdfs";
 
 const MANIFEST_PATH =
   "./course-picker/pdf/lesson-plans/pdf-manifest.json";
 
+const STUDENT_MANIFEST_PATH =
+  "./course-picker/pdf/student-lesson-plans/pdf-manifest.json";
+
 const INDEX_PATH = "./data/packet-index.json";
 
 const RENDER_MODE = process.env.RENDER_MODE || "changed";
+
+const IS_STUDENT_RENDER =
+  RENDER_MODE === "student-changed" ||
+  RENDER_MODE === "student-all";
 
 const TEST_PACKET_ID = process.env.TEST_PACKET_ID || "";
 const TEST_VARIANT = process.env.TEST_VARIANT || "";
@@ -40,6 +48,10 @@ if (!fs.existsSync(SAMPLE_OUTPUT_DIR)) {
 
 if (!fs.existsSync(ML_OUTPUT_DIR)) {
   fs.mkdirSync(ML_OUTPUT_DIR, { recursive: true });
+}
+
+if (!fs.existsSync(STUDENT_OUTPUT_DIR)) {
+  fs.mkdirSync(STUDENT_OUTPUT_DIR, { recursive: true });
 }
 
 function slugify(text) {
@@ -66,19 +78,19 @@ function hashFile(filepath) {
   return crypto.createHash("md5").update(content).digest("hex");
 }
 
-function loadManifest() {
-  if (!fs.existsSync(MANIFEST_PATH)) {
+function loadManifest(manifestPath = MANIFEST_PATH) {
+  if (!fs.existsSync(manifestPath)) {
     return {};
   }
 
   return JSON.parse(
-    fs.readFileSync(MANIFEST_PATH, "utf8")
+    fs.readFileSync(manifestPath, "utf8")
   );
 }
 
-function saveManifest(manifest) {
+function saveManifest(manifest, outputDir = OUTPUT_DIR) {
   fs.writeFileSync(
-    path.join(OUTPUT_DIR, "pdf-manifest.json"),
+    path.join(outputDir, "pdf-manifest.json"),
     JSON.stringify(manifest, null, 2)
   );
 }
@@ -154,6 +166,10 @@ async function renderPdf(record) {
     params.set("sample", "1");
   }
 
+  if (record.renderStudent === true) {
+    params.set("student", "1");
+  }
+
   if (TEST_VARIANT) {
     params.set("variant", TEST_VARIANT);
   }
@@ -187,9 +203,11 @@ async function renderPdf(record) {
     ? `${record.id}.pdf`
     : `${record.id}-${slug}.pdf`;
   
-  let outputDir = isSampleRender
-    ? SAMPLE_OUTPUT_DIR
-    : OUTPUT_DIR;
+  let outputDir = record.renderStudent === true
+    ? STUDENT_OUTPUT_DIR
+    : isSampleRender
+      ? SAMPLE_OUTPUT_DIR
+      : OUTPUT_DIR;
 
   if (TEST_VARIANT === "g1-3") {
     filename = `${record.id}-g1-3.pdf`;
@@ -253,7 +271,7 @@ async function main() {
     console.log(`TEST MODE: rendering only ${TEST_PACKET_ID}`);
   }
 
-  const manifest = loadManifest();
+  const manifest = loadManifest(IS_STUDENT_RENDER ? STUDENT_MANIFEST_PATH : MANIFEST_PATH);
 
   let renderedCount = 0;
   let skippedCount = 0;
@@ -268,6 +286,12 @@ async function main() {
       }
 
       const packetData = JSON.parse(fs.readFileSync(packetPath, "utf8"));
+
+      if (IS_STUDENT_RENDER && packetData.studentVersion !== true) {
+        console.log(`Skipping non-student packet: ${record.id}`);
+        skippedCount++;
+        continue;
+      }
 
       if (!TEST_PACKET_ID && isModernLanguagePacket(packetData)) {
         console.log(`Skipping Modern Language packet in regular PDF render: ${record.id}`);
@@ -290,6 +314,7 @@ async function main() {
       const shouldRender =
         RENDER_MODE === "all" ||
         RENDER_MODE === "samples-only" ||
+        RENDER_MODE === "student-all" ||
         pdfPrintingStatus === "needs update" ||
         currentHash !== previousHash;
       
@@ -302,10 +327,13 @@ async function main() {
       let renderedPdf = null;
       
       if (RENDER_MODE !== "samples-only") {
-        renderedPdf = await renderPdf(record);
+        renderedPdf = await renderPdf({
+          ...record,
+          renderStudent: IS_STUDENT_RENDER
+        });
       }
       
-      if (!TEST_VARIANT && !TEST_TOPIC && !TEST_LESSON_ID) {
+      if (!IS_STUDENT_RENDER && !TEST_VARIANT && !TEST_TOPIC && !TEST_LESSON_ID) {
         const renderedSamplePdf = await renderPdf({
           ...record,
           renderSample: true
@@ -314,8 +342,8 @@ async function main() {
         console.log(`Sample PDF saved: ${renderedSamplePdf.filename}`);
       }
 
-      if (SKIP_AIRTABLE_UPDATE) {
-        console.log(`Skipping Airtable update for test render: ${record.id}`);
+      if (SKIP_AIRTABLE_UPDATE || IS_STUDENT_RENDER) {
+        console.log(`Skipping Airtable update: ${record.id}`);
       } else {
         if (renderedPdf) {
           await updateAirtablePageCount(record.id, renderedPdf.pageCount);
@@ -338,7 +366,7 @@ async function main() {
     }
   }
 
-  saveManifest(manifest);
+  saveManifest(manifest, IS_STUDENT_RENDER ? STUDENT_OUTPUT_DIR : OUTPUT_DIR);
 
   console.log(`Rendered: ${renderedCount}`);
   console.log(`Skipped: ${skippedCount}`);
