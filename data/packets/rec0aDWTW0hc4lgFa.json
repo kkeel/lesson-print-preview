@@ -23,8 +23,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec0aDWTW0hc4lgFa-u-s-history-grades-9-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recql4aGlSESfbNWa",
   "hidePdf": "",
   "syllabird": {
     "status": "Import is Current",
@@ -150,7 +150,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=rec0aDWTW0hc4lgFa",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recql4aGlSESfbNWa",
           "groups": [
             {
               "title": "Related Course Quick Links",
