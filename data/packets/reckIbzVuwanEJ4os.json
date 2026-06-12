@@ -186,7 +186,7 @@
                 {
                   "id": "recnkvWpFRrp5VJ1w",
                   "label": "World History Student Lessons (No Answers)",
-                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "url": "https://planning.alveary.org/pdf/student-lesson-plans/reckIbzVuwanEJ4os-world-history-grades-4-6.pdf",
                   "sort": "",
                   "sourceTitle": "World History: Grades 4-6"
                 }
@@ -261,17 +261,31 @@
                 },
                 {
                   "id": "recvuM29B8Z8NLCsN",
-                  "label": "History: Grade 4 Student Lessons (No Answers)",
-                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "label": "History: Grade 4 (U.S.) Student Lessons (No Answers)",
+                  "url": "https://planning.alveary.org/pdf/student-lesson-plans/recNPQ4tF6eFCOXG8-history-grade-4-u-s.pdf",
                   "sort": "6",
                   "sourceTitle": "History: Grade 4 (U.S.)"
                 },
                 {
                   "id": "recJbwCXWSA494tia",
-                  "label": "History: Grades 5-6 Student Lessons (No Answers)",
-                  "url": "https://drive.google.com/file/d/1a0t3sK_9v6ytBavD62JR-LSq8ls8P-BF/view?usp=drive_link",
+                  "label": "History: Grades 5-6 (U.S.) Student Lessons (No Answers)",
+                  "url": "https://planning.alveary.org/pdf/student-lesson-plans/recsOZm3eEE7p9FbO-history-grades-5-6-u-s.pdf",
                   "sort": "6",
                   "sourceTitle": "History: Grades 5-6 (U.S.)"
+                },
+                {
+                  "id": "recKT6Wprtn3eCv4n",
+                  "label": "History: Grade 4 (Canada) Student Lessons (No Answers)",
+                  "url": "https://planning.alveary.org/pdf/student-lesson-plans/recqYUG7bTFDN17sM-history-grade-4-canada.pdf",
+                  "sort": "",
+                  "sourceTitle": "History: Grade 4 (Canada)"
+                },
+                {
+                  "id": "recawZ8N7lvSgXWPC",
+                  "label": "History: Grades 5-6 (Canada) Student Lessons (No Answers)",
+                  "url": "https://planning.alveary.org/pdf/student-lesson-plans/recmp57SjAMWlxCPc-history-grades-5-6-canada.pdf",
+                  "sort": "",
+                  "sourceTitle": "History: Grades 5-6 (Canada)"
                 }
               ]
             }

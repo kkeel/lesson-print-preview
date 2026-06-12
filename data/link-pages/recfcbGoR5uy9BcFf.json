@@ -49,10 +49,17 @@
         "sort": "5",
         "groupTitle": "Related Course Quick Links",
         "groupType": "course"
+      },
+      {
+        "label": "History: Grade 4 (Canada) Student Lessons (No Answers)",
+        "url": "https://planning.alveary.org/pdf/student-lesson-plans/recqYUG7bTFDN17sM-history-grade-4-canada.pdf",
+        "sort": "",
+        "groupTitle": "Related Course Quick Links",
+        "groupType": "course"
       }
     ]
   },
-  "updatedAt": "2026-06-12T20:28:53.991Z",
+  "updatedAt": "2026-06-12T21:38:14.369Z",
   "terms": [
     {
       "termNumber": 1,
