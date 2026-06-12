@@ -7,6 +7,7 @@ const mlLesson = params.get("lesson") || "";
 const mlStudentNotebook = params.get("studentNotebook") || "";
 const mlReference = params.get("mlReference") || "";
 const sampleMode = params.get("sample") === "1";
+const studentMode = params.get("student") === "1";
 const SAMPLE_WEEK_COUNT = 3;
 
 const preview = document.getElementById("preview");
@@ -156,24 +157,26 @@ function renderPacket(data) {
 
   const isMLSpecialPrint = Boolean(mlStudentNotebook || mlReference);
 
-  const sectionsToRender = sampleMode
-    ? data.sections
-        .filter(section =>
-          section.type === "cover" ||
-          section.type === "header" ||
-          section.type === "howto" ||
-          section.type === "lessons" ||
-          section.type === "modern-language-lessons"
-        )
-        .map(filterSectionForSample)
-    : isMLSpecialPrint
-      ? data.sections.filter(section =>
-          section.type === "cover" ||
-          section.type === "modern-language-lessons"
-        )
-      : mlLesson
-        ? data.sections.filter(section => section.type === "modern-language-lessons")
-        : data.sections;
+  const sectionsToRender = studentMode
+    ? data.sections.filter(section => section.type === "lessons")
+    : sampleMode
+      ? data.sections
+          .filter(section =>
+            section.type === "cover" ||
+            section.type === "header" ||
+            section.type === "howto" ||
+            section.type === "lessons" ||
+            section.type === "modern-language-lessons"
+          )
+          .map(filterSectionForSample)
+      : isMLSpecialPrint
+        ? data.sections.filter(section =>
+            section.type === "cover" ||
+            section.type === "modern-language-lessons"
+          )
+        : mlLesson
+          ? data.sections.filter(section => section.type === "modern-language-lessons")
+          : data.sections;
   
     const shouldMoveMLReferences =
     !isMLSpecialPrint &&
