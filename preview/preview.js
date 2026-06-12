@@ -148,6 +148,27 @@ function filterSectionForSample(section) {
   return section;
 }
 
+function stripStudentAnswerTagsFromText(value) {
+  return String(value ?? "")
+    .replace(/\s*\[A:\s*[\s\S]*?\]/g, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function stripStudentAnswerTagsFromLessonsSection(section) {
+  return {
+    ...section,
+    terms: (section.terms || []).map(term => ({
+      ...term,
+      lessons: (term.lessons || []).map(lesson => ({
+        ...lesson,
+        body: stripStudentAnswerTagsFromText(lesson.body)
+      }))
+    }))
+  };
+}
+
 function renderPacket(data) {
   let html = "";
 
@@ -158,7 +179,9 @@ function renderPacket(data) {
   const isMLSpecialPrint = Boolean(mlStudentNotebook || mlReference);
 
   const sectionsToRender = studentMode
-    ? data.sections.filter(section => section.type === "lessons")
+    ? data.sections
+        .filter(section => section.type === "lessons")
+        .map(stripStudentAnswerTagsFromLessonsSection)
     : sampleMode
       ? data.sections
           .filter(section =>
