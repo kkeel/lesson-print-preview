@@ -12,6 +12,8 @@ on:
           - changed
           - all
           - samples-only
+          - student-changed
+          - student-all
           - links-only
       packet_id:
         description: "Optional packet ID to force render one PDF"
@@ -58,9 +60,14 @@ jobs:
         run: |
           mkdir -p course-picker/pdf/lesson-plans
           mkdir -p course-picker/pdf/samples
+          mkdir -p course-picker/pdf/student-lesson-plans
 
           if [ ! -f course-picker/pdf/lesson-plans/pdf-manifest.json ]; then
             echo "{}" > course-picker/pdf/lesson-plans/pdf-manifest.json
+          fi
+
+          if [ ! -f course-picker/pdf/student-lesson-plans/pdf-manifest.json ]; then
+            echo "{}" > course-picker/pdf/student-lesson-plans/pdf-manifest.json
           fi
 
       - name: Render PDFs
@@ -77,10 +84,19 @@ jobs:
         run: |
           mkdir -p course-picker/pdf/lesson-plans
           mkdir -p course-picker/pdf/samples
+          mkdir -p course-picker/pdf/student-lesson-plans
           
           cp generated-pdfs/*.pdf course-picker/pdf/lesson-plans/ || true
           cp generated-sample-pdfs/*.pdf course-picker/pdf/samples/ || true
-          cp generated-pdfs/pdf-manifest.json course-picker/pdf/lesson-plans/
+          cp generated-student-lesson-pdfs/*.pdf course-picker/pdf/student-lesson-plans/ || true
+
+          if [ -f generated-pdfs/pdf-manifest.json ]; then
+            cp generated-pdfs/pdf-manifest.json course-picker/pdf/lesson-plans/
+          fi
+
+          if [ -f generated-student-lesson-pdfs/pdf-manifest.json ]; then
+            cp generated-student-lesson-pdfs/pdf-manifest.json course-picker/pdf/student-lesson-plans/
+          fi
 
       - name: Copy link pages into planning repo
         run: |
@@ -98,6 +114,7 @@ jobs:
 
           git add pdf/lesson-plans
           git add pdf/samples
+          git add pdf/student-lesson-plans
           git add link-pages
           git add link-page-index.json
 
@@ -112,6 +129,7 @@ jobs:
 
           git add pdf/lesson-plans
           git add pdf/samples
+          git add pdf/student-lesson-plans
           git add link-pages
           git add link-page-index.json
 
@@ -119,7 +137,7 @@ jobs:
           git push
 
       - name: Sync PDF URLs to Airtable
-        if: ${{ github.event.inputs.render_mode != 'links-only' }}
+        if: ${{ github.event.inputs.render_mode != 'links-only' && github.event.inputs.render_mode != 'student-changed' && github.event.inputs.render_mode != 'student-all' }}
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
