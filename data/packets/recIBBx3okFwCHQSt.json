@@ -30,6 +30,7 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
+  "studentVersion": false,
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",

@@ -24,6 +24,7 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
+  "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
     "trackerTemplate": "➜ DICTATE\nRotate through different books from your weekly readings to use for dictation. Check the lesson plan PDF for extra tips!",

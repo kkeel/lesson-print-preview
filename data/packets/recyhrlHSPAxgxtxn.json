@@ -25,9 +25,10 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recyhrlHSPAxgxtxn-history-grades-7-8-canada.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recws9yuKmAFWhfH1",
   "hidePdf": "",
+  "studentVersion": false,
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",

@@ -23,9 +23,10 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/reczOsS88Xkju3sUS-bible-grade-1.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec5SUWoHylzXH7Jk",
   "hidePdf": "",
+  "studentVersion": false,
   "syllabird": {
     "status": "Do Not Import",
     "trackerTemplate": "",
