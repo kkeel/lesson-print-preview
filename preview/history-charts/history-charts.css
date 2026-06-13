@@ -48,22 +48,25 @@ body {
 }
 
 .history-chart-header {
-  margin-bottom: 0.28in;
-  border-bottom: 2px solid #adb58f;
-  padding-bottom: 0.16in;
+  margin-bottom: 0.34in;
+  padding-bottom: 0;
 }
 
 .history-chart-grade {
-  font-size: 22px;
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
   font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   color: #adb58f;
-  margin-bottom: 0.08in;
+  margin-bottom: 0.06in;
 }
 
 .history-chart-header h1 {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 36px;
-  line-height: 1.15;
+  font-size: 40px;
+  line-height: 1.1;
   font-weight: 400;
   color: #596e5e;
   margin: 0;
@@ -75,13 +78,14 @@ body {
 
 .history-chart-term h2 {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 28px;
+  font-size: 30px;
   line-height: 1.2;
   font-weight: 400;
   color: #596e5e;
   background: transparent;
   margin: 0 0 0.18in;
-  padding: 0 0 0.06in;
+  padding: 0.08in 0 0.07in;
+  border-top: 2px solid #adb58f;
   border-bottom: 2px solid #adb58f;
 }
 
