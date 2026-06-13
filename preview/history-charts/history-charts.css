@@ -75,30 +75,33 @@ body {
 
 .history-chart-term h2 {
   font-family: "Plantin MT Pro", "Times New Roman", serif;
-  font-size: 24px;
+  font-size: 28px;
   line-height: 1.2;
   font-weight: 400;
-  color: #fff;
-  background: #596e5e;
+  color: #596e5e;
+  background: transparent;
   margin: 0 0 0.18in;
-  padding: 7px 9px;
+  padding: 0 0 0.06in;
+  border-bottom: 2px solid #adb58f;
 }
 
 .history-chart-week {
   break-inside: avoid;
   page-break-inside: avoid;
   margin-bottom: 0.22in;
+  padding-bottom: 0.12in;
+  border-bottom: 1px solid #d8ddcf;
 }
 
 .history-chart-week h3 {
-  background: #adb58f;
-  color: #ffffff;
-  font-size: 13px;
+  background: transparent;
+  color: #adb58f;
+  font-size: 12px;
   line-height: 1.2;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
   margin: 0 0 0.08in;
-  padding: 5px 8px;
+  padding: 0;
 }
 
 .history-chart-item {
@@ -108,16 +111,16 @@ body {
 }
 
 .history-chart-source {
-  font-size: 13px;
+  font-size: 12.5px;
   line-height: 1.2;
   font-weight: 700;
   color: #111;
-  margin-bottom: 0.025in;
+  margin-bottom: 0.015in;
 }
 
 .history-chart-text {
-  font-size: 13px;
-  line-height: 1.22;
+  font-size: 12.5px;
+  line-height: 1.25;
   margin-left: 0.16in;
 }
 
