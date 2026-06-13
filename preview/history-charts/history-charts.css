@@ -100,16 +100,11 @@ body {
 }
 
 .history-chart-week {
-  break-inside: avoid;
-  page-break-inside: avoid;
+  break-inside: auto;
+  page-break-inside: auto;
   margin-bottom: 0.22in;
   padding-bottom: 0.12in;
   border-bottom: 1px solid #d8ddcf;
-}
-
-.history-chart-week.last-week {
-  border-bottom: none;
-  padding-bottom: 0;
 }
 
 .history-chart-week h3 {
@@ -121,6 +116,18 @@ body {
   letter-spacing: 0.06em;
   margin: 0 0 0.08in;
   padding: 0;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.history-chart-week h3 + .history-chart-items {
+  break-before: avoid;
+  page-break-before: avoid;
+}
+
+.history-chart-week.last-week {
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
 .history-chart-item {
