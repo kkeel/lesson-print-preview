@@ -47,14 +47,16 @@ function renderTerm(term) {
     <section class="history-chart-term">
       <h2>${escapeHtml(term.termLabel || `Term ${term.termNumber || ""}`)}</h2>
 
-      ${(term.weeks || []).map(renderWeek).join("")}
+            ${(term.weeks || []).map((week, index) =>
+              renderWeek(week, index === (term.weeks || []).length - 1)
+            ).join("")}
     </section>
   `;
 }
 
-function renderWeek(week) {
+function renderWeek(week, isLastWeek = false) {
   return `
-    <section class="history-chart-week">
+    <section class="history-chart-week ${isLastWeek ? "last-week" : ""}">
       <h3>${escapeHtml((week.weekLabel || `Week ${week.weekNumber || ""}`).toUpperCase())}</h3>
 
       <div class="history-chart-items">
