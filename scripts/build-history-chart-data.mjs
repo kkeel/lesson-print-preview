@@ -96,29 +96,50 @@ function extractImportantDatesBlocks(teacherNotes) {
   const text = normalizeText(teacherNotes);
   if (!text) return [];
 
-  const normalized = text.replace(/\r\n/g, "\n");
-
-  const markerRegex = /(?:^|\n)\s*[•*-]?\s*IMPORTANT DATES\s*\n/gi;
-  const matches = [...normalized.matchAll(markerRegex)];
-
-  if (!matches.length) return [];
-
+  const lines = text.replace(/\r\n/g, "\n").split("\n");
   const blocks = [];
 
-  for (let i = 0; i < matches.length; i++) {
-    const start = matches[i].index + matches[i][0].length;
-    const end = i + 1 < matches.length
-      ? matches[i + 1].index
-      : normalized.length;
+  let collecting = false;
+  let currentLines = [];
 
-    let block = normalized.slice(start, end).trim();
+  for (const line of lines) {
+    const trimmed = line.trim();
 
-    // Stop if another teacher-note heading starts after the important dates text.
-    block = block
-      .split(/\n\s*(?:★|•)\s*[A-Z][A-Z\s&/.-]{2,}\s*\n/)[0]
-      .trim();
+    const isImportantDatesHeading =
+      /^•\s*IMPORTANT DATES\s*$/i.test(trimmed) ||
+      /^★\s*IMPORTANT DATES\s*$/i.test(trimmed);
 
-    if (block) blocks.push(block);
+    const isNewPromptHeading =
+      /^•\s+/.test(trimmed) ||
+      /^★\s+/.test(trimmed);
+
+    if (isImportantDatesHeading) {
+      if (currentLines.join("\n").trim()) {
+        blocks.push(currentLines.join("\n").trim());
+      }
+
+      collecting = true;
+      currentLines = [];
+      continue;
+    }
+
+    if (collecting && isNewPromptHeading) {
+      if (currentLines.join("\n").trim()) {
+        blocks.push(currentLines.join("\n").trim());
+      }
+
+      collecting = false;
+      currentLines = [];
+      continue;
+    }
+
+    if (collecting) {
+      currentLines.push(line);
+    }
+  }
+
+  if (collecting && currentLines.join("\n").trim()) {
+    blocks.push(currentLines.join("\n").trim());
   }
 
   return blocks;
