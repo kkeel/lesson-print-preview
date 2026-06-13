@@ -89,6 +89,16 @@ body {
   border-bottom: 2px solid #adb58f;
 }
 
+.history-chart-term h2 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+.history-chart-week.first-week {
+  break-before: avoid;
+  page-break-before: avoid;
+}
+
 .history-chart-week {
   break-inside: avoid;
   page-break-inside: avoid;
@@ -172,7 +182,7 @@ body {
   .history-chart-page {
     width: 8.5in;
     min-height: auto;
-    padding: 0.5in;
+    padding: 0 0.5in 0.5in;
     border: none;
     box-shadow: none;
   }
