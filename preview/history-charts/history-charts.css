@@ -53,11 +53,11 @@ body {
   padding-bottom: 0.16in;
 }
 
-.history-chart-brand {
-  font-size: 14px;
+.history-chart-grade {
+  font-size: 22px;
   font-weight: 700;
-  color: #596e5e;
-  margin-bottom: 0.12in;
+  color: #adb58f;
+  margin-bottom: 0.08in;
 }
 
 .history-chart-header h1 {
@@ -91,12 +91,14 @@ body {
 }
 
 .history-chart-week h3 {
+  background: #adb58f;
+  color: #ffffff;
   font-size: 13px;
   line-height: 1.2;
   font-weight: 700;
-  color: #596e5e;
   letter-spacing: 0.04em;
   margin: 0 0 0.08in;
+  padding: 5px 8px;
 }
 
 .history-chart-item {
