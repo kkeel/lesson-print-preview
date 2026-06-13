@@ -97,6 +97,11 @@ body {
   border-bottom: 1px solid #d8ddcf;
 }
 
+.history-chart-week.last-week {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 .history-chart-week h3 {
   background: transparent;
   color: #adb58f;
