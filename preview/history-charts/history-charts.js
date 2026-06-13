@@ -106,7 +106,7 @@ function groupItemsByLessonSet(items = []) {
 
 function renderGroupedItem(group) {
   const text = group.items
-    .map(item => item.text || "")
+    .map(item => cleanHistoryChartText(item.text || ""))
     .filter(Boolean)
     .join("\n");
 
@@ -114,6 +114,15 @@ function renderGroupedItem(group) {
     lessonSetTitle: group.lessonSetTitle,
     text
   });
+}
+
+function cleanHistoryChartText(text = "") {
+  return String(text || "")
+    .replace(/\r\n/g, "\n")
+    .split("\n")
+    .map(line => line.trim())
+    .filter(Boolean)
+    .join("\n");
 }
 
 function renderItem(item) {
