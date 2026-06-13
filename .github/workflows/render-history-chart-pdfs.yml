@@ -1,0 +1,45 @@
+name: Render History Chart PDFs
+
+on:
+  workflow_dispatch:
+    inputs:
+      render_mode:
+        description: "Render mode"
+        required: true
+        default: "changed"
+        type: choice
+        options:
+          - changed
+          - all
+
+jobs:
+  render-history-chart-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout lesson print repo
+        uses: actions/checkout@v5
+
+      - name: Checkout course picker repo
+        uses: actions/checkout@v5
+        with:
+          repository: kkeel/course-picker
+          token: ${{ secrets.COURSE_PICKER_TOKEN }}
+          path: course-picker
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+          package-manager-cache: false
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Render history chart PDFs
+        env:
+          RENDER_MODE: ${{ inputs.render_mode }}
+        run: node scripts/render-history-chart-pdfs.mjs
