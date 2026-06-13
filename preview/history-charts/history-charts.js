@@ -28,13 +28,18 @@ function renderHistoryChart(data) {
   preview.innerHTML = `
     <main class="history-chart-page">
       <header class="history-chart-header">
-        <div class="history-chart-brand">Alveary History Chart</div>
-        <h1>${escapeHtml(data.title || "Important Dates")}</h1>
+        <div class="history-chart-grade">${getGradeCountryLabel(data)}</div>
+        <h1>Important Dates</h1>
       </header>
 
       ${(data.terms || []).map(renderTerm).join("")}
     </main>
   `;
+}
+
+function getGradeCountryLabel(data) {
+  const countryLabel = data.country === "us" ? "U.S." : "Canada";
+  return `Grade ${data.grade} (${countryLabel})`;
 }
 
 function renderTerm(term) {
