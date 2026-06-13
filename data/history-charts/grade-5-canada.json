@@ -1,0 +1,499 @@
+{
+  "grade": 5,
+  "country": "canada",
+  "title": "Important Dates Grade 5 (Canada)",
+  "terms": [
+    {
+      "termNumber": 1,
+      "termLabel": "Term 1",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "reco3cGcovLGxiG79",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 1",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "Hudson Taylor born May 1, 1832"
+            },
+            {
+              "lessonId": "rec3DOznxLHVKEIl2",
+              "lessonTitle": "15m Composer Study - Lesson 1",
+              "lessonSetTitle": "Composer Study",
+              "text": "La Donna del Lago first performed (Italy, 1819AD)"
+            },
+            {
+              "lessonId": "recwDPBsrTXQAUxFJ",
+              "lessonTitle": "20m General Lit.: Grades 5-6 - Lesson 1",
+              "lessonSetTitle": "General Lit.: Grades 5-6",
+              "text": "Little Women published (1868 AD)"
+            },
+            {
+              "lessonId": "rec5uct5RyZSMewPn",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 1",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"How Firm a Foundation\" published in Rippon's hymnal (1787 AD)."
+            },
+            {
+              "lessonId": "recDcQLGWIq6eJaVL",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 1",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1759 Birth of William Wilberforce"
+            }
+          ]
+        },
+        {
+          "weekNumber": 5,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recDj0grnOqIDaFOW",
+              "lessonTitle": "15m Composer Study - Lesson 5",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pedro Ximénez Abril Tirado (Perú & Bolivia, 1784-1856AD)"
+            },
+            {
+              "lessonId": "reczbVnbphJsIi4r7",
+              "lessonTitle": "10m Folk Songs - Lesson 5",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Weller brothers found their whaling base on the Otago peninsula in New Zealand (1831 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 6,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recn9oJKtVcKvjkct",
+              "lessonTitle": "15m Composer Study - Lesson 6",
+              "lessonSetTitle": "Composer Study",
+              "text": "Francisco Tárrega (Spain, 1852-1909 AD)"
+            },
+            {
+              "lessonId": "reccMn1KKee3fQBGe",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 6",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Carolina Sandell Berg (Sweden, 1823-1903 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 7,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "recSiMAcB53klLRVH",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 7",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1854 - Hudson Taylor arrives in Shanghai, China"
+            },
+            {
+              "lessonId": "recJjS20iJFHfagHW",
+              "lessonTitle": "15m Composer Study - Lesson 7",
+              "lessonSetTitle": "Composer Study",
+              "text": "John Phillip Sousa (US, 1854-1932)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 8,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "rectATcU30NCTqzln",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 8",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Ancient Babylonian Numerals (c.1800 BC)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 9,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recgne1CVe9YJLljJ",
+              "lessonTitle": "15m Composer Study - Lesson 9",
+              "lessonSetTitle": "Composer Study",
+              "text": "Adolphe Sax (Belgium/France, 1814-1894 AD)"
+            },
+            {
+              "lessonId": "recdAYciwCltUC8HC",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 9",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Papyrus Invented (c.3000 BC)\nTemple at Luxor (1400 BC, Egypt)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 10,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "rec70Rc2Ahj1btsCI",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 10",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1807 The Slave Trade Act was passed"
+            }
+          ]
+        },
+        {
+          "weekNumber": 11,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recCTrVpVyFOAaaV7",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 11",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Oldest Book on Mathematics Written by Ahmes (1700 BC, Egypt)"
+            },
+            {
+              "lessonId": "recRYk9lKgxprmHZ6",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 11",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1833 Death of William Wilberforce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 2,
+      "termLabel": "Term 2",
+      "weeks": [
+        {
+          "weekNumber": 13,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "rec2CMtnSvUYzekD6",
+              "lessonTitle": "15m Composer Study - Lesson 13",
+              "lessonSetTitle": "Composer Study",
+              "text": "Edvard Grieg (1843-1907AD, Norway)\n\nPiano Concerto in A minor written (1868AD)"
+            },
+            {
+              "lessonId": "reczmMwt6ludpkbk3",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 13",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Angels We Have Heard on High published (1855 AD in French; 1862 AD in English)"
+            },
+            {
+              "lessonId": "rec5dN92bLna5tZtZ",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 13",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Earliest Money Used (c.550 BC, Asia Minor)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 14,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recetgTOQ6jecKOMh",
+              "lessonTitle": "20m General Lit.: Grades 5-6 - Lesson 14",
+              "lessonSetTitle": "General Lit.: Grades 5-6",
+              "text": "Telegraph invented (1830s)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 15,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recZvizXWftYBHfU4",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 15",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1865 - Hudson Taylor begins China Inland Mission (CIM)"
+            },
+            {
+              "lessonId": "recLpTsveLQgtkuLK",
+              "lessonTitle": "15m Composer Study - Lesson 15",
+              "lessonSetTitle": "Composer Study",
+              "text": "Holberg Suite composed (1884AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 16,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recS315unphGWgeKR",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 16",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Tecumseh (1768-1813)\nSir Isaac Brock (1769–1812)\nWar of 1812 (1812)"
+            },
+            {
+              "lessonId": "recJqxFUNR33J3ysx",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 16",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1905 - Hudson Taylor dies"
+            },
+            {
+              "lessonId": "recCjjvsVDrM6jRDB",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 16",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Early Roman Numerals (c.900 BC, Rome)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 17,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recxSLl1IVmClvRRr",
+              "lessonTitle": "15m Composer Study - Lesson 17",
+              "lessonSetTitle": "Composer Study",
+              "text": "Peer Gynt composed (1875 for the full play and then rearranged and published in 1888 as the Peer Gynt Suite No. 1 and No. 2)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 18,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recgi4inGcOq1eT1T",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 18",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Robert Grant (England/India, 1779-1838 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 20,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "recLX5aAJHaqh3aEl",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 20",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "First settlers arrive at the Selkirk settlement in Red River (1811)"
+            },
+            {
+              "lessonId": "rec5MxvoMAwDaQlz4",
+              "lessonTitle": "15m Composer Study - Lesson 20",
+              "lessonSetTitle": "Composer Study",
+              "text": "Children's Songs composed (1894)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 21,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recPPtXUusKbmIQwv",
+              "lessonTitle": "15m Composer Study - Lesson 21",
+              "lessonSetTitle": "Composer Study",
+              "text": "Wedding Day at Troldhaugen composed (1895 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recCl9akih8DeVSVK",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 22",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Louis-Joseph Papineau (1786-1871) \nWilliam Lyon Mackenzie (1795–1861)\nRebellions in Upper and Lower Canada (1836-1837)"
+            },
+            {
+              "lessonId": "recF8D6VEaa7ShLkq",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 22",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Zero Invented (3 BC, Mesopotamia)\nHindu-Arabic Numerals Invented (c.650 AD, India)\nArabic Numbers First Used in Europe (c.1000 AD)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 3,
+      "termLabel": "Term 3",
+      "weeks": [
+        {
+          "weekNumber": 25,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "recci9aPeIWQYsNVO",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 25",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Paul Kane (1810–1871)\nArctic Expedition of Sir John Franklin and his crew (1845)\nQueen Victoria chooses Ottawa as the capital city (1857)"
+            },
+            {
+              "lessonId": "rec2wdTsUgPRMi2B3",
+              "lessonTitle": "15m Composer Study - Lesson 25",
+              "lessonSetTitle": "Composer Study",
+              "text": "Thomas Wiggins (US, 1841-1908 AD)\n\nModest Mussorgsky (Russia, 1839-1881 AD)"
+            },
+            {
+              "lessonId": "reccwJGMs5k1Df0d2",
+              "lessonTitle": "10m Folk Songs - Lesson 25",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Pig War (1859-1872 AD)"
+            },
+            {
+              "lessonId": "rectGCuasYd9IvQR5",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 25",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Phillip Bliss (US, 1838-1876 AD)\n\n\"Hallelujah! What a Savior\" published (1875 AD)"
+            },
+            {
+              "lessonId": "recmyPOJjjXjLu7hF",
+              "lessonTitle": "25m Lit./Mythology: Grade 5-6 - Lesson 25",
+              "lessonSetTitle": "Lit./Mythology: Grade 5-6",
+              "text": "1843 AD: A Christmas Carol published"
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recgKqIH7dL4YWeE5",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 26",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Sir James Douglas, first governor of British Columbia (1803-1877)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 27,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "reclgR8QPitkTX74u",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 27",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Sir George-Étienne Cartier (1814-1873)\nSir John A. Macdonald (1815-1891)\nGeorge Brown (1818-1880)\nThomas D'Arcy McGee (1825-1868)\nConferences in Charlottetown and Quebec City (1864)"
+            },
+            {
+              "lessonId": "recy3h04TfiOq2I9S",
+              "lessonTitle": "15m Story of Arithmetic: Part 1 - Lesson 27",
+              "lessonSetTitle": "Story of Arithmetic: Part 1",
+              "text": "Abacus Invented (c.2400 BC, Babylonia)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 28,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recxp3jCjIdgqx5Tp",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 28",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Confederation: New Brunswick, Nova Scotia, Quebec, and Ontario form the Dominion of Canada (1867)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 30,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recs2P5of9vVvWvvD",
+              "lessonTitle": "15m Composer Study - Lesson 30",
+              "lessonSetTitle": "Composer Study",
+              "text": "Arthur Sullivan (England, 1842-1900 AD)\n\nWilliam Schwenck Gilbert (England, 1836-1911 AD)\n\nThe Tempest (1861 AD)"
+            },
+            {
+              "lessonId": "recu1RO0lytuoaKVz",
+              "lessonTitle": "10m Folk Songs - Lesson 30",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Aloha 'Oe composed (1878AD)"
+            },
+            {
+              "lessonId": "recDn4HgHDmfguEUk",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 30",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"When Morning Gilds the Skies\" published (German: 1828 AD, English 1854 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 31,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "reciZO8XBjQlpLuF0",
+              "lessonTitle": "15m Composer Study - Lesson 31",
+              "lessonSetTitle": "Composer Study",
+              "text": "H.M.S Pinafore first performed (1878AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 32,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "reci3krR8dNwu3L1Q",
+              "lessonTitle": "15m Composer Study - Lesson 32",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pirates of Penzance first performed (1879 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 33,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "rec3inT233fIetsXX",
+              "lessonTitle": "25m Ancient History: Grades 5-6 - Lesson 33",
+              "lessonSetTitle": "Ancient History: Grades 5-6",
+              "text": "313 Edict of Milan that ended persecution"
+            },
+            {
+              "lessonId": "rec0lkNJNntWxtFdo",
+              "lessonTitle": "25m Canadian History: Grades 5-6 - Lesson 33",
+              "lessonSetTitle": "Canadian History: Grades 5-6",
+              "text": "Louis Riel (1844-1885)\nManitoba joins Canada (1870)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 34,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recOdjCevAvrHAKG7",
+              "lessonTitle": "15m Composer Study - Lesson 34",
+              "lessonSetTitle": "Composer Study",
+              "text": "The Mikado first performed (1885 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recXdvdtPupHyjDZW",
+              "lessonTitle": "25m Ancient History: Grades 5-6 - Lesson 35",
+              "lessonSetTitle": "Ancient History: Grades 5-6",
+              "text": "325 Council of Nicea"
+            },
+            {
+              "lessonId": "recwQIb7zAugv5AVk",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 35",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1915 - Mary Slessor dies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

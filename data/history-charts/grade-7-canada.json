@@ -1,0 +1,769 @@
+{
+  "grade": 7,
+  "country": "canada",
+  "title": "Important Dates Grade 7 (Canada)",
+  "terms": [
+    {
+      "termNumber": 1,
+      "termLabel": "Term 1",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "recRn7bCNSU1DGd1M",
+              "lessonTitle": "30m American Government: Grade 7 - Lesson 1",
+              "lessonSetTitle": "American Government: Grade 7",
+              "text": "Declaration of Independence (1776)"
+            },
+            {
+              "lessonId": "recmTgo9wf4Xws6BE",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 1",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Carthage is razed by Scipio Aemilianus in 146 BC\nTiberius Gracchus is elected in 133 BC\nSulla becomes dictator in 82 BC\nSulla resigns as dictator in 80 BC and dies in 78 BC"
+            },
+            {
+              "lessonId": "recHCnRjfJ2K2w9Id",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 1",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "1759-1833 - William Wilberforce \n1833 - Slave Trade was abolished in England"
+            },
+            {
+              "lessonId": "rec3DOznxLHVKEIl2",
+              "lessonTitle": "15m Composer Study - Lesson 1",
+              "lessonSetTitle": "Composer Study",
+              "text": "La Donna del Lago first performed (Italy, 1819AD)"
+            },
+            {
+              "lessonId": "rec9Y2ql8hjzD5Mer",
+              "lessonTitle": "30m General Lit: Grades 7-8 - Lesson 1",
+              "lessonSetTitle": "General Lit: Grades 7-8",
+              "text": "Little Women published (1868AD)\nSir Gibbie Published (1879AD)"
+            },
+            {
+              "lessonId": "recZ9QfMuusumoKn5",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 1",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Sumerian Empire (c.3100 B.C.- c.2000 B.C.), Egyptian Civilization (c.3100 B.C.-332 B.C.)"
+            },
+            {
+              "lessonId": "rec5uct5RyZSMewPn",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 1",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"How Firm a Foundation\" published in Rippon's hymnal (1787 AD)."
+            }
+          ]
+        },
+        {
+          "weekNumber": 2,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recXcYPSMx53EGHum",
+              "lessonTitle": "30m American Government: Grade 7 - Lesson 2",
+              "lessonSetTitle": "American Government: Grade 7",
+              "text": "Signing of the Constitution (1787)"
+            },
+            {
+              "lessonId": "rec6UektD14v0APvV",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 2",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "1733 - James Oglethorpe founded the colony of Georgia\n1772 - John Newton pens Amazing Grace\n1839 - Frederick Douglas becomes a licensed preacher \n1850-1860 - Harriet Tubman's Underground Railroad Work"
+            },
+            {
+              "lessonId": "recxzCBvocWRUTt1W",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 4",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Egyptian Solar Calendar (c.4th century B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 3,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recJqs9OOOnIxLztu",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 3",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Spartacus leads his revolt in 73"
+            },
+            {
+              "lessonId": "recBS9gF18TxEkyFv",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 3",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "1832 - Emilie Mallet begins her charity work for young children and prisoners"
+            }
+          ]
+        },
+        {
+          "weekNumber": 4,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recieAhWYWQDgq8yC",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 4",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "1851 - Sojourner Truth addresses the Ohio Women's Rights Convention"
+            },
+            {
+              "lessonId": "recGkdddbkDDpIi7l",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 8",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Thales (c.636 B.C.-546 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 5,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recDj0grnOqIDaFOW",
+              "lessonTitle": "15m Composer Study - Lesson 5",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pedro Ximénez Abril Tirado (Perú & Bolivia, 1784-1856AD)"
+            },
+            {
+              "lessonId": "reczbVnbphJsIi4r7",
+              "lessonTitle": "10m Folk Songs - Lesson 5",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Weller brothers found their whaling base on the Otago peninsula in New Zealand (1831 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 6,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recJ8j2WsjiYkUDd0",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 6",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Julius Caesar is assassinated in 44 BC"
+            },
+            {
+              "lessonId": "recxJgkA1u5GlduPX",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 6",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "1865 - Hudson Taylor founds the China Inland Mission"
+            },
+            {
+              "lessonId": "recn9oJKtVcKvjkct",
+              "lessonTitle": "15m Composer Study - Lesson 6",
+              "lessonSetTitle": "Composer Study",
+              "text": "Francisco Tárrega (Spain, 1852-1909 AD)"
+            },
+            {
+              "lessonId": "rec1ZsD9w2vWuduPf",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 11",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Anaximander (c.611 B.C.-c.547 B.C.), Anaximenes (c.570-500 B.C.), Anaxagoras (c.500-428 B.C.)"
+            },
+            {
+              "lessonId": "reccMn1KKee3fQBGe",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 6",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Carolina Sandell Berg (Sweden, 1823-1903 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 7,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "rectoCAYYMBff0Qpm",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 7",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "The second Triumvirate is formed in 43 BC"
+            },
+            {
+              "lessonId": "recabQqxMso2swQN6",
+              "lessonTitle": "30m Canadian History: Grades 7-8 - Lesson 14",
+              "lessonSetTitle": "Canadian History: Grades 7-8",
+              "text": "Tecumseh (1768-1813) \nSir Isaac Brock (1769–1812) \nWar of 1812 (1812)"
+            },
+            {
+              "lessonId": "recJjS20iJFHfagHW",
+              "lessonTitle": "15m Composer Study - Lesson 7",
+              "lessonSetTitle": "Composer Study",
+              "text": "John Phillip Sousa (US, 1854-1932)"
+            },
+            {
+              "lessonId": "recE3QVC2bz6yOvpr",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 13",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Empedocles (c.495 B.C.-c.434 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 8,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "rec7tnIhOLhCsTogs",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 8",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Mark Antony and Cleopatra are defeated and both die in 30 BC\nHistory of Rome is written by Livy between 27 BC and 9 BC\nJesus is crucified around 33 AD\nJesus resurrects around 33 AD"
+            },
+            {
+              "lessonId": "recnwEEEdBg7rl4E0",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 16",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Pythagoras (c.582 B.C.-507 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 9,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recO34d1OjTPgusX5",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 9",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "The Great Fire of Rome in 64 AD"
+            },
+            {
+              "lessonId": "recBvEwayQdp3GGZ2",
+              "lessonTitle": "30m Canadian History: Grades 7-8 - Lesson 17",
+              "lessonSetTitle": "Canadian History: Grades 7-8",
+              "text": "First settlers arrive at the Selkirk settlement in Red River (1811)"
+            },
+            {
+              "lessonId": "recgne1CVe9YJLljJ",
+              "lessonTitle": "15m Composer Study - Lesson 9",
+              "lessonSetTitle": "Composer Study",
+              "text": "Adolphe Sax (Belgium/France, 1814-1894 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 10,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recKXm6PmyU3nMIx7",
+              "lessonTitle": "30m Canadian History: Grades 7-8 - Lesson 19",
+              "lessonSetTitle": "Canadian History: Grades 7-8",
+              "text": "Louis-Joseph Papineau (1786-1871)\nWilliam Lyon Mackenzie (1795–1861)\nRebellions in Upper and Lower Canada (1836-1837)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 11,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recBFPcJjxK303jDg",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 21",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Democritus (c.460 B.C.-c.370 B.C.), Socrates (469-399 B.C.), Aristotle (384-322 B.C.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 2,
+      "termLabel": "Term 2",
+      "weeks": [
+        {
+          "weekNumber": 13,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "recrZPD6V0Daxfl6N",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 13",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Boudica is killed after her uprising in 61 AD"
+            },
+            {
+              "lessonId": "recsGzzjvWIJu6D8n",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 13",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "June 19, 1834 - Charles H. Spurgeon born"
+            },
+            {
+              "lessonId": "rec2CMtnSvUYzekD6",
+              "lessonTitle": "15m Composer Study - Lesson 13",
+              "lessonSetTitle": "Composer Study",
+              "text": "Edvard Grieg (1843-1907AD, Norway)\n\nPiano Concerto in A minor written (1868AD)"
+            },
+            {
+              "lessonId": "rec2XY6huvOFkM21u",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 25",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Plato (c.427 B.C.-347 B.C.)"
+            },
+            {
+              "lessonId": "reczmMwt6ludpkbk3",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 13",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Angels We Have Heard on High published (1855 AD in French; 1862 AD in English)"
+            },
+            {
+              "lessonId": "recUIOVBaSMan31sW",
+              "lessonTitle": "30m Lit./Mythology: Grades 7-8 - Lesson 13",
+              "lessonSetTitle": "Lit./Mythology: Grades 7-8",
+              "text": "1843 AD: A Christmas Carol published"
+            }
+          ]
+        },
+        {
+          "weekNumber": 14,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recHtGZdFBlsY5skV",
+              "lessonTitle": "30m General Lit: Grades 7-8 - Lesson 14",
+              "lessonSetTitle": "General Lit: Grades 7-8",
+              "text": "(Little Women)\n1830s: Telegraph invented"
+            }
+          ]
+        },
+        {
+          "weekNumber": 15,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recLpTsveLQgtkuLK",
+              "lessonTitle": "15m Composer Study - Lesson 15",
+              "lessonSetTitle": "Composer Study",
+              "text": "Holberg Suite composed (1884AD)"
+            },
+            {
+              "lessonId": "rechGVLMMGJ74ZJIr",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 30",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Aristarchus (c.310 B.C.-c.230 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 16,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recFeXyeTACYfqg1E",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 16",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Trajan grows the empire to its biggest size in 117 AD\nHadrian's Wall is built in 122 AD"
+            },
+            {
+              "lessonId": "recEv3ePPw3osqTwP",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 16",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "April 1854 - Begins pastorship in London at the age of 19"
+            },
+            {
+              "lessonId": "recsAYxeBx67Uzwxs",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 32",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Ptolemaic Dynasty (332 B.C-30 A.D.), City of Alexandria (est. 331 B.C.)"
+            },
+            {
+              "lessonId": "rect4VPEJexE0AiIL",
+              "lessonTitle": "15m Story of Geometry: Part 1 - Lesson 16",
+              "lessonSetTitle": "Story of Geometry: Part 1",
+              "text": "Village of Jarmo: First Evidence of Straight Lines & Right Angles (c.5000 BC, Syria)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 17,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recIr5XOguCyEow9Q",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 17",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "Jan. 8, 1856 - Charles and Susannah Married"
+            },
+            {
+              "lessonId": "recxSLl1IVmClvRRr",
+              "lessonTitle": "15m Composer Study - Lesson 17",
+              "lessonSetTitle": "Composer Study",
+              "text": "Peer Gynt composed (1875 for the full play and then rearranged and published in 1888 as the Peer Gynt Suite No. 1 and No. 2)"
+            },
+            {
+              "lessonId": "recPFQMZC8py0i7P6",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 34",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Hero (1st century A.D.)"
+            },
+            {
+              "lessonId": "recFIHgELJiPYQOuG",
+              "lessonTitle": "15m Story of Geometry: Part 1 - Lesson 17",
+              "lessonSetTitle": "Story of Geometry: Part 1",
+              "text": "Rope Stretchers (First Surveyors; c.3000 BC, Egypt)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 18,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recq4tuUrA107BT4O",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 18",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "The Pantheon is constructed in 126 AD"
+            },
+            {
+              "lessonId": "recPWabKp7KQ0PbGV",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 36",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Euclid (c.325 B.C.-c.270 B.C.)"
+            },
+            {
+              "lessonId": "recgi4inGcOq1eT1T",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 18",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Robert Grant (England/India, 1779-1838 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 19,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "recksnCsIbZvN4iM2",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 19",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Emperor Severus creates a military monarchy 193 AD"
+            },
+            {
+              "lessonId": "recEwW9PsGwj4Ae9q",
+              "lessonTitle": "30m Canadian History: Grades 7-8 - Lesson 37",
+              "lessonSetTitle": "Canadian History: Grades 7-8",
+              "text": "Paul Kane (1810–1871) \nArctic Expedition of Sir John Franklin and his crew (1845) \nQueen Victoria chooses Ottawa as the capital city (1857)"
+            },
+            {
+              "lessonId": "recE8cPAfZf1xD75Z",
+              "lessonTitle": "30m Canadian History: Grades 7-8 - Lesson 38",
+              "lessonSetTitle": "Canadian History: Grades 7-8",
+              "text": "Sir James Douglas, first governor of British Columbia (1803-1877)"
+            },
+            {
+              "lessonId": "rec4KFgR7x63b12Qv",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 19",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "March 31, 1861 - First Sunday Service at the Metropolitan Tabernacle"
+            },
+            {
+              "lessonId": "rec3EUoaTyvsYsMFf",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 38",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Archimedes (c.287 B.C.-212 B.C.)"
+            },
+            {
+              "lessonId": "reck6HNUXpjqETPcf",
+              "lessonTitle": "15m Story of Geometry: Part 1 - Lesson 19",
+              "lessonSetTitle": "Story of Geometry: Part 1",
+              "text": "Oldest Man-Made Stone Structure (Step-Pyramid at Sakkara, c.2750 BC)\nGreat Pyramid (c.2850 BC)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 20,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "rec5MxvoMAwDaQlz4",
+              "lessonTitle": "15m Composer Study - Lesson 20",
+              "lessonSetTitle": "Composer Study",
+              "text": "Children's Songs composed (1894)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 21,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recuVge84BsU6F0YX",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 21",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Constantine becomes the first Christian emperor of Rome in 306 AD\nRome divides into two empires in 395 AD"
+            },
+            {
+              "lessonId": "recPPtXUusKbmIQwv",
+              "lessonTitle": "15m Composer Study - Lesson 21",
+              "lessonSetTitle": "Composer Study",
+              "text": "Wedding Day at Troldhaugen composed (1895 AD)"
+            },
+            {
+              "lessonId": "recBmVVnVe4D4657b",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 41",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Eratosthenes (c.275 B.C.-c.195 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "reck6Zkaaem67VTAE",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 43",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Library of Alexandria burned \n(48 B.C.)"
+            },
+            {
+              "lessonId": "recpPIFD6dII720h1",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 44",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Strabo (c.64 B.C.-c.24 A.D.)"
+            },
+            {
+              "lessonId": "rec889Qc6O3qdqkqC",
+              "lessonTitle": "15m Story of Geometry: Part 1 - Lesson 22",
+              "lessonSetTitle": "Story of Geometry: Part 1",
+              "text": "First Continuous Astronomical Data Started (747 BC, Mesopotamia)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 23,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "reccdVarZmj8hAuTy",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 45",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Hipparchus (c.190 B.C.-c.120 B.C.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 3,
+      "termLabel": "Term 3",
+      "weeks": [
+        {
+          "weekNumber": 25,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "rec2wdTsUgPRMi2B3",
+              "lessonTitle": "15m Composer Study - Lesson 25",
+              "lessonSetTitle": "Composer Study",
+              "text": "Thomas Wiggins (US, 1841-1908 AD)\n\nModest Mussorgsky (Russia, 1839-1881 AD)"
+            },
+            {
+              "lessonId": "reccwJGMs5k1Df0d2",
+              "lessonTitle": "10m Folk Songs - Lesson 25",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Pig War (1859-1872 AD)"
+            },
+            {
+              "lessonId": "rec4uXgHKO1qLCowZ",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 49",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Claudius Ptolemy (c.85 A.D.-c. 165 A.D.)"
+            },
+            {
+              "lessonId": "rectGCuasYd9IvQR5",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 25",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Phillip Bliss (US, 1838-1876 AD)\n\n\"Hallelujah! What a Savior\" published (1875 AD)"
+            },
+            {
+              "lessonId": "rec9iqfEnL9N3pKAp",
+              "lessonTitle": "15m Story of Geometry: Part 1 - Lesson 25",
+              "lessonSetTitle": "Story of Geometry: Part 1",
+              "text": "First Theoretical Geometry (c.6th century BC, Ionia)\nThales of Miletus (c.624 BC-c.548 BC)"
+            },
+            {
+              "lessonId": "recikwgEg5QWQRjYX",
+              "lessonTitle": "30m World History: Grades 7-8 - Lesson 25",
+              "lessonSetTitle": "World History: Grades 7-8",
+              "text": "1889 Eiffel Tower is completed"
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recrzYjhrXcc90AZZ",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 51",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Augustine (354 A.D.-430 A.D.)"
+            },
+            {
+              "lessonId": "recRLnoo22snJl9A7",
+              "lessonTitle": "30m World History: Grades 7-8 - Lesson 26",
+              "lessonSetTitle": "World History: Grades 7-8",
+              "text": "1889 Opening of Universal Exposition"
+            }
+          ]
+        },
+        {
+          "weekNumber": 27,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recYqG9Udxv62NSDm",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 53",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Middle Ages (476 A.D.-1000 A.D.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 28,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recbHX3TzkSNhQqvk",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 55",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Adelard translates Euclid into Latin (c.1100 A.D.)"
+            },
+            {
+              "lessonId": "receFQxVXjYLvAQzA",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 56",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Brahmagupta (c.598 A.D.-c.660 A.D.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 29,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recxokIZ6QQnMaG3f",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 29",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Perpetua and Felicity martyred in 203 AD"
+            },
+            {
+              "lessonId": "rec6lc1OyOA09dNOR",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 57",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "House of Wisdom (est. 830 A.D.), Islamic Golden Age (800 A.D.-1258 A.D.), Leonardo Pisano [Fibonacci] (c.1170 A.D.-c.1250 A.D.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 30,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recjXVI3GXcUg1rDp",
+              "lessonTitle": "30m Church History: Grades 7-9 - Lesson 30",
+              "lessonSetTitle": "Church History: Grades 7-9",
+              "text": "January 31, 1892 - Charles H. Spurgeon Dies"
+            },
+            {
+              "lessonId": "recs2P5of9vVvWvvD",
+              "lessonTitle": "15m Composer Study - Lesson 30",
+              "lessonSetTitle": "Composer Study",
+              "text": "Arthur Sullivan (England, 1842-1900 AD)\n\nWilliam Schwenck Gilbert (England, 1836-1911 AD)\n\nThe Tempest (1861 AD)"
+            },
+            {
+              "lessonId": "recu1RO0lytuoaKVz",
+              "lessonTitle": "10m Folk Songs - Lesson 30",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Aloha 'Oe composed (1878AD)"
+            },
+            {
+              "lessonId": "recN8skhRJp6ITJEQ",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 59",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Thomas Aquinas (1225-1274 A.D.), Roger Bacon (c.1214-1292 A.D.)"
+            },
+            {
+              "lessonId": "recDn4HgHDmfguEUk",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 30",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"When Morning Gilds the Skies\" published (German: 1828 AD, English 1854 AD)"
+            },
+            {
+              "lessonId": "recsk69yaWtzbPUrN",
+              "lessonTitle": "30m Natural History: Grade 7 - Lesson 30",
+              "lessonSetTitle": "Natural History: Grade 7",
+              "text": "Maria Merian (1647-1717)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 31,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "reciZO8XBjQlpLuF0",
+              "lessonTitle": "15m Composer Study - Lesson 31",
+              "lessonSetTitle": "Composer Study",
+              "text": "H.M.S Pinafore first performed (1878AD)"
+            },
+            {
+              "lessonId": "recoHxhLDERvQzesw",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 62",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Gutenberg prints first book on printing press (1445 A.D.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 32,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "reci3krR8dNwu3L1Q",
+              "lessonTitle": "15m Composer Study - Lesson 32",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pirates of Penzance first performed (1879 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 33,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recNLRtGvxwYObn5A",
+              "lessonTitle": "30m General Science: Grade 7 - Lesson 65",
+              "lessonSetTitle": "General Science: Grade 7",
+              "text": "Magellan sails around the world (1519-1522 A.D.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 34,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recOdjCevAvrHAKG7",
+              "lessonTitle": "15m Composer Study - Lesson 34",
+              "lessonSetTitle": "Composer Study",
+              "text": "The Mikado first performed (1885 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recyGAO7LjLNiATWA",
+              "lessonTitle": "30m Ancient History: Grades 7-9 - Lesson 35",
+              "lessonSetTitle": "Ancient History: Grades 7-9",
+              "text": "Monica (Augustine's mother) 333-387"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

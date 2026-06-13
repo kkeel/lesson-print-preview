@@ -1,0 +1,487 @@
+{
+  "grade": 4,
+  "country": "canada",
+  "title": "Important Dates Grade 4 (Canada)",
+  "terms": [
+    {
+      "termNumber": 1,
+      "termLabel": "Term 1",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "reco3cGcovLGxiG79",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 1",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "Hudson Taylor born May 1, 1832"
+            },
+            {
+              "lessonId": "rec3DOznxLHVKEIl2",
+              "lessonTitle": "15m Composer Study - Lesson 1",
+              "lessonSetTitle": "Composer Study",
+              "text": "La Donna del Lago first performed (Italy, 1819AD)"
+            },
+            {
+              "lessonId": "recILjpHkRsLyFRVo",
+              "lessonTitle": "20m First Citizen Stories - Lesson 1",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Founding of Rome (753 B.C.)"
+            },
+            {
+              "lessonId": "rec5uct5RyZSMewPn",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 1",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"How Firm a Foundation\" published in Rippon's hymnal (1787 AD)."
+            },
+            {
+              "lessonId": "recDcQLGWIq6eJaVL",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 1",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1759 Birth of William Wilberforce"
+            }
+          ]
+        },
+        {
+          "weekNumber": 3,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recJ2hES5Vqce3gmY",
+              "lessonTitle": "20m First Citizen Stories - Lesson 3",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "The Horatii & The Curiatii (c.630 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 4,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recG90au3upPfGTfE",
+              "lessonTitle": "20m First Citizen Stories - Lesson 4",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Lucius Junius Brutus (545 B.C.-509 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 5,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recDj0grnOqIDaFOW",
+              "lessonTitle": "15m Composer Study - Lesson 5",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pedro Ximénez Abril Tirado (Perú & Bolivia, 1784-1856AD)"
+            },
+            {
+              "lessonId": "reczbVnbphJsIi4r7",
+              "lessonTitle": "10m Folk Songs - Lesson 5",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Weller brothers found their whaling base on the Otago peninsula in New Zealand (1831 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 6,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recn9oJKtVcKvjkct",
+              "lessonTitle": "15m Composer Study - Lesson 6",
+              "lessonSetTitle": "Composer Study",
+              "text": "Francisco Tárrega (Spain, 1852-1909 AD)"
+            },
+            {
+              "lessonId": "rec1GqWoMFTMmtEqF",
+              "lessonTitle": "20m First Citizen Stories - Lesson 6",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Lars Porsenna Besieges Rome (c.508 B.C.)"
+            },
+            {
+              "lessonId": "reccMn1KKee3fQBGe",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 6",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Carolina Sandell Berg (Sweden, 1823-1903 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 7,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "recSiMAcB53klLRVH",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 7",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1854 - Hudson Taylor arrives in Shanghai, China"
+            },
+            {
+              "lessonId": "recJjS20iJFHfagHW",
+              "lessonTitle": "15m Composer Study - Lesson 7",
+              "lessonSetTitle": "Composer Study",
+              "text": "John Phillip Sousa (US, 1854-1932)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 9,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "recgne1CVe9YJLljJ",
+              "lessonTitle": "15m Composer Study - Lesson 9",
+              "lessonSetTitle": "Composer Study",
+              "text": "Adolphe Sax (Belgium/France, 1814-1894 AD)"
+            },
+            {
+              "lessonId": "recKOpoHB87gwnNs5",
+              "lessonTitle": "20m First Citizen Stories - Lesson 9",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Caius Marcius (5th Century B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 10,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "rec70Rc2Ahj1btsCI",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 10",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1807 The Slave Trade Act was passed"
+            }
+          ]
+        },
+        {
+          "weekNumber": 11,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recOoGJkL3hIA1E9S",
+              "lessonTitle": "20m First Citizen Stories - Lesson 11",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "The Fabii (c.480 B.C.)"
+            },
+            {
+              "lessonId": "recRYk9lKgxprmHZ6",
+              "lessonTitle": "25m World History: Grades 4-6 - Lesson 11",
+              "lessonSetTitle": "World History: Grades 4-6",
+              "text": "1833 Death of William Wilberforce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 2,
+      "termLabel": "Term 2",
+      "weeks": [
+        {
+          "weekNumber": 13,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "rec2CMtnSvUYzekD6",
+              "lessonTitle": "15m Composer Study - Lesson 13",
+              "lessonSetTitle": "Composer Study",
+              "text": "Edvard Grieg (1843-1907AD, Norway)\n\nPiano Concerto in A minor written (1868AD)"
+            },
+            {
+              "lessonId": "reczmMwt6ludpkbk3",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 13",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Angels We Have Heard on High published (1855 AD in French; 1862 AD in English)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 14,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recSczHSdedMUvai2",
+              "lessonTitle": "20m First Citizen Stories - Lesson 14",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Cincinnatus (519 B.C.-430 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 15,
+          "weekLabel": "Week 3",
+          "items": [
+            {
+              "lessonId": "recZvizXWftYBHfU4",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 15",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1865 - Hudson Taylor begins China Inland Mission (CIM)"
+            },
+            {
+              "lessonId": "recLpTsveLQgtkuLK",
+              "lessonTitle": "15m Composer Study - Lesson 15",
+              "lessonSetTitle": "Composer Study",
+              "text": "Holberg Suite composed (1884AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 16,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recGWKoqehuLcm8qp",
+              "lessonTitle": "20m Canadian History: Grades 2-4 - Lesson 16",
+              "lessonSetTitle": "Canadian History: Grades 2-4",
+              "text": "George-Étienne Cartier (1814-1873)\nSir John A. Macdonald (1815-1891)\nGeorge Brown (1818-1880)"
+            },
+            {
+              "lessonId": "recJqxFUNR33J3ysx",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 16",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1905 - Hudson Taylor dies"
+            },
+            {
+              "lessonId": "recPFu6mlsvyQ0B0t",
+              "lessonTitle": "20m First Citizen Stories - Lesson 16",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Battle of Corbio (446 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 17,
+          "weekLabel": "Week 5",
+          "items": [
+            {
+              "lessonId": "recxSLl1IVmClvRRr",
+              "lessonTitle": "15m Composer Study - Lesson 17",
+              "lessonSetTitle": "Composer Study",
+              "text": "Peer Gynt composed (1875 for the full play and then rearranged and published in 1888 as the Peer Gynt Suite No. 1 and No. 2)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 18,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recgi4inGcOq1eT1T",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 18",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Robert Grant (England/India, 1779-1838 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 19,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "rec06xaWQOtmNMioz",
+              "lessonTitle": "20m First Citizen Stories - Lesson 19",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Battle of Veii (396 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 20,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "rec5MxvoMAwDaQlz4",
+              "lessonTitle": "15m Composer Study - Lesson 20",
+              "lessonSetTitle": "Composer Study",
+              "text": "Children's Songs composed (1894)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 21,
+          "weekLabel": "Week 9",
+          "items": [
+            {
+              "lessonId": "rec15iaQjfaGW7Eoh",
+              "lessonTitle": "20m Canadian History: Grades 2-4 - Lesson 21",
+              "lessonSetTitle": "Canadian History: Grades 2-4",
+              "text": "Louis Riel (1844-1885)"
+            },
+            {
+              "lessonId": "recPPtXUusKbmIQwv",
+              "lessonTitle": "15m Composer Study - Lesson 21",
+              "lessonSetTitle": "Composer Study",
+              "text": "Wedding Day at Troldhaugen composed (1895 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 22,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recTAOTpsOMZ1VkOY",
+              "lessonTitle": "20m Canadian History: Grades 2-4 - Lesson 22",
+              "lessonSetTitle": "Canadian History: Grades 2-4",
+              "text": "Alexander Graham Bell (1847-1922)"
+            },
+            {
+              "lessonId": "recBU17SBGMdQjaso",
+              "lessonTitle": "20m First Citizen Stories - Lesson 22",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Gauls Sack Rome (c.390 B.C.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "termNumber": 3,
+      "termLabel": "Term 3",
+      "weeks": [
+        {
+          "weekNumber": 25,
+          "weekLabel": "Week 1",
+          "items": [
+            {
+              "lessonId": "rec2wdTsUgPRMi2B3",
+              "lessonTitle": "15m Composer Study - Lesson 25",
+              "lessonSetTitle": "Composer Study",
+              "text": "Thomas Wiggins (US, 1841-1908 AD)\n\nModest Mussorgsky (Russia, 1839-1881 AD)"
+            },
+            {
+              "lessonId": "reccwJGMs5k1Df0d2",
+              "lessonTitle": "10m Folk Songs - Lesson 25",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Pig War (1859-1872 AD)"
+            },
+            {
+              "lessonId": "rectGCuasYd9IvQR5",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 25",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "Phillip Bliss (US, 1838-1876 AD)\n\n\"Hallelujah! What a Savior\" published (1875 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 26,
+          "weekLabel": "Week 2",
+          "items": [
+            {
+              "lessonId": "recVN26rwUq6cEI0q",
+              "lessonTitle": "20m First Citizen Stories - Lesson 26",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Titus Manlius (365 B.C.-340 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 28,
+          "weekLabel": "Week 4",
+          "items": [
+            {
+              "lessonId": "recsqKbVagR2kWVIk",
+              "lessonTitle": "20m First Citizen Stories - Lesson 28",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Publius Decius Mus (Unknown-340 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 30,
+          "weekLabel": "Week 6",
+          "items": [
+            {
+              "lessonId": "recs2P5of9vVvWvvD",
+              "lessonTitle": "15m Composer Study - Lesson 30",
+              "lessonSetTitle": "Composer Study",
+              "text": "Arthur Sullivan (England, 1842-1900 AD)\n\nWilliam Schwenck Gilbert (England, 1836-1911 AD)\n\nThe Tempest (1861 AD)"
+            },
+            {
+              "lessonId": "recu1RO0lytuoaKVz",
+              "lessonTitle": "10m Folk Songs - Lesson 30",
+              "lessonSetTitle": "Folk Songs",
+              "text": "Aloha 'Oe composed (1878AD)"
+            },
+            {
+              "lessonId": "recDn4HgHDmfguEUk",
+              "lessonTitle": "10m Hymns & Spirituals - Lesson 30",
+              "lessonSetTitle": "Hymns & Spirituals",
+              "text": "\"When Morning Gilds the Skies\" published (German: 1828 AD, English 1854 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 31,
+          "weekLabel": "Week 7",
+          "items": [
+            {
+              "lessonId": "reciZO8XBjQlpLuF0",
+              "lessonTitle": "15m Composer Study - Lesson 31",
+              "lessonSetTitle": "Composer Study",
+              "text": "H.M.S Pinafore first performed (1878AD)"
+            },
+            {
+              "lessonId": "recsSKGKFrNpyAIQp",
+              "lessonTitle": "20m First Citizen Stories - Lesson 31",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Battle of the Caudine Forks (321 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 32,
+          "weekLabel": "Week 8",
+          "items": [
+            {
+              "lessonId": "reci3krR8dNwu3L1Q",
+              "lessonTitle": "15m Composer Study - Lesson 32",
+              "lessonSetTitle": "Composer Study",
+              "text": "Pirates of Penzance first performed (1879 AD)"
+            },
+            {
+              "lessonId": "recRAmfLSod0XdwZo",
+              "lessonTitle": "20m First Citizen Stories - Lesson 32",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Quintus Fabius (280-203 B.C.)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 34,
+          "weekLabel": "Week 10",
+          "items": [
+            {
+              "lessonId": "recOdjCevAvrHAKG7",
+              "lessonTitle": "15m Composer Study - Lesson 34",
+              "lessonSetTitle": "Composer Study",
+              "text": "The Mikado first performed (1885 AD)"
+            }
+          ]
+        },
+        {
+          "weekNumber": 35,
+          "weekLabel": "Week 11",
+          "items": [
+            {
+              "lessonId": "recwQIb7zAugv5AVk",
+              "lessonTitle": "20m Church History: Grades 4-6 - Lesson 35",
+              "lessonSetTitle": "Church History: Grades 4-6",
+              "text": "1915 - Mary Slessor dies"
+            },
+            {
+              "lessonId": "recrKwMOcPfjzbzzz",
+              "lessonTitle": "20m First Citizen Stories - Lesson 35",
+              "lessonSetTitle": "First Citizen Stories",
+              "text": "Pyrrhus (319 B.C.-272 B.C.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
