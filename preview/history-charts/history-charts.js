@@ -43,20 +43,31 @@ function getGradeCountryLabel(data) {
 }
 
 function renderTerm(term) {
+  const weeks = term.weeks || "";
+
   return `
     <section class="history-chart-term">
       <h2>${escapeHtml(term.termLabel || `Term ${term.termNumber || ""}`)}</h2>
 
-            ${(term.weeks || []).map((week, index) =>
-              renderWeek(week, index === (term.weeks || []).length - 1)
-            ).join("")}
+      ${weeks.map((week, index) =>
+        renderWeek(week, {
+          isFirstWeek: index === 0,
+          isLastWeek: index === weeks.length - 1
+        })
+      ).join("")}
     </section>
   `;
 }
 
-function renderWeek(week, isLastWeek = false) {
+function renderWeek(week, options = {}) {
+  const classes = [
+    "history-chart-week",
+    options.isFirstWeek ? "first-week" : "",
+    options.isLastWeek ? "last-week" : ""
+  ].filter(Boolean).join(" ");
+
   return `
-    <section class="history-chart-week ${isLastWeek ? "last-week" : ""}">
+    <section class="${classes}">
       <h3>${escapeHtml((week.weekLabel || `Week ${week.weekNumber || ""}`).toUpperCase())}</h3>
 
       <div class="history-chart-items">
