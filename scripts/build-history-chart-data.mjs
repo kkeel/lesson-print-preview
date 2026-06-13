@@ -5,7 +5,7 @@ const AIRTABLE_TOKEN = process.env.AIRTABLE_TOKEN;
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID;
 
 const LESSONS_TABLE_NAME = "Lessons";
-const LESSONS_VIEW_NAME = "Figure Things Out";
+const LESSONS_VIEW_NAME = "History Charts";
 
 const OUTPUT_DIR = "./data/history-charts";
 
