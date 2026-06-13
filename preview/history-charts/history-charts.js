@@ -66,15 +66,54 @@ function renderWeek(week, options = {}) {
     options.isLastWeek ? "last-week" : ""
   ].filter(Boolean).join(" ");
 
+  const groupedItems = groupItemsByLessonSet(week.items || []);
+
   return `
     <section class="${classes}">
       <h3>${escapeHtml((week.weekLabel || `Week ${week.weekNumber || ""}`).toUpperCase())}</h3>
 
       <div class="history-chart-items">
-        ${(week.items || []).map(renderItem).join("")}
+        ${groupedItems.map(renderGroupedItem).join("")}
       </div>
     </section>
   `;
+}
+
+function groupItemsByLessonSet(items = []) {
+  const groups = [];
+
+  items.forEach(item => {
+    const lessonSetTitle = item.lessonSetTitle || "";
+
+    let group = groups.find(existing =>
+      existing.lessonSetTitle === lessonSetTitle
+    );
+
+    if (!group) {
+      group = {
+        lessonSetTitle,
+        items: []
+      };
+
+      groups.push(group);
+    }
+
+    group.items.push(item);
+  });
+
+  return groups;
+}
+
+function renderGroupedItem(group) {
+  const text = group.items
+    .map(item => item.text || "")
+    .filter(Boolean)
+    .join("\n");
+
+  return renderItem({
+    lessonSetTitle: group.lessonSetTitle,
+    text
+  });
 }
 
 function renderItem(item) {
