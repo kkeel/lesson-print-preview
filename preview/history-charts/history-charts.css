@@ -180,9 +180,9 @@ body {
   }
 
   .history-chart-page {
-    width: 8.5in;
+    width: 100%;
     min-height: auto;
-    padding: 0 0.5in 0.5in;
+    padding: 0;
     border: none;
     box-shadow: none;
   }
