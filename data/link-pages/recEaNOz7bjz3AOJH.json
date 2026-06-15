@@ -31,7 +31,7 @@
       }
     ]
   },
-  "updatedAt": "2026-06-14T14:58:48.686Z",
+  "updatedAt": "2026-06-15T11:38:05.187Z",
   "terms": [
     {
       "termNumber": 1,
@@ -306,6 +306,10 @@
                 {
                   "text": "Rules for Powerpoints",
                   "url": "https://www.microsoft.com/en-us/microsoft-365-life-hacks/presentations/10-20-30-rule-of-powerpoint"
+                },
+                {
+                  "text": "Wix for Tomorrow",
+                  "url": "https://www.wix.com/tomorrow"
                 }
               ]
             }
