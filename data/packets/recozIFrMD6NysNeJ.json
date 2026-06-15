@@ -17,7 +17,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recozIFrMD6NysNeJ-geography-grade-9.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recJzvO0cX4Tg8HKh",
   "hidePdf": "",
   "studentVersion": false,
@@ -1055,13 +1055,8 @@
               "body": "The Hunted\n⍞ Materials: Five Months on the Missouri River, notebook\n\n➜ READ & NARRATE \nChapter 23 The Hunted\n\n➜ WRITE\nDescribe the different flora and fauna that the crew is seeing now, as well as the different scenery compared with the early days of the trip.\n\n➜ MAP WORK\nCopy the map on p.163.",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recozIFrMD6NysNeJ&6J82c=recNof6NyXZ4Am07w",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recozIFrMD6NysNeJ&term=2&week=21",
-              "links": [
-                {
-                  "text": "A Detailed Study of H4",
-                  "url": "https://www.youtube.com/watch?v=UeEBa55S7MI"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "rec7BAXmY1LWtB7Qk",
@@ -1413,12 +1408,8 @@
               "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recozIFrMD6NysNeJ&term=3&week=31",
               "links": [
                 {
-                  "text": "Knife River Indian Villages",
-                  "url": "https://www.nps.gov/knri/learn/historyculture/index.htm"
-                },
-                {
-                  "text": "Fort Clark State Historic Site",
-                  "url": "https://www.history.nd.gov/historicsites/clark/clarkhistory.html"
+                  "text": "Missouri River",
+                  "url": "https://www.americanrivers.org/river/missouri-river/"
                 }
               ]
             },
