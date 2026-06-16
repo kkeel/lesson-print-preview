@@ -246,3 +246,25 @@
     -webkit-print-color-adjust: exact;
   }
 }
+
+@media print {
+  .ml-lesson-opening-block {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  .ml-lesson-heading-row,
+  .ml-topic-meta,
+  .ml-lesson-title-line,
+  .ml-lesson-subtitle-line,
+  .ml-lesson-materials-box,
+  .ml-lesson-links-qr,
+  .ml-lesson-links-url {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+}
