@@ -1315,7 +1315,7 @@ function buildLessonsSection(packetRecord, headerLookup) {
           sort: Number(normalizeText(lf["Sort"]) || 0),
           lessonLabel: "",
           linkLabel: normalizeText(lf["Link Label"]),
-          title: normalizeText(lf["Lesson Title"]),
+          title: normalizeLineBreakText(lf["Lesson Title"]),
           body: normalizeRichText(lf["Lesson Body"]),
           teacherNotes: normalizeRichText(lf["Teacher Notes"]),
           editUrl: normalizeText(lf["Lesson_WritingURL"]),
