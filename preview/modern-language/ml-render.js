@@ -1151,43 +1151,45 @@ function renderMLLesson(lesson) {
       ` : ""}
     
       <div class="ml-lesson-main">
-        <div class="ml-lesson-heading-row">
-          <div class="ml-lesson-title-line">
-            ⬚ ${formatMLLessonTitle(lesson.title || "")}
-          </div>
-        
-          <div class="ml-topic-meta">
-            <div class="ml-topic-label">
-              ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
+        <div class="ml-lesson-opening-block">
+          <div class="ml-lesson-heading-row">
+            <div class="ml-lesson-title-line">
+              ⬚ ${formatMLLessonTitle(lesson.title || "")}
             </div>
           
-            ${lesson.weekLabel ? `
-              <div class="ml-week-meta">
-                ${escapeHtml(lesson.weekLabel)}
+            <div class="ml-topic-meta">
+              <div class="ml-topic-label">
+                ${escapeHtml(lesson.lessonSetTitle || lesson.language || "")}
               </div>
-            ` : ""}
-          
-            ${lesson.lessonLinksUrl ? `
-              <img
-                class="ml-lesson-links-qr"
-                src="https://quickchart.io/qr?size=120&margin=1&text=${encodeURIComponent(lesson.lessonLinksUrl)}"
-                alt="QR code for lesson links"
-              />
             
-              <a class="ml-lesson-links-url" href="${escapeHtml(lesson.lessonLinksUrl)}" target="_blank" rel="noopener">
-                Lesson Links
-              </a>
-            ` : ""}
+              ${lesson.weekLabel ? `
+                <div class="ml-week-meta">
+                  ${escapeHtml(lesson.weekLabel)}
+                </div>
+              ` : ""}
+            
+              ${lesson.lessonLinksUrl ? `
+                <img
+                  class="ml-lesson-links-qr"
+                  src="https://quickchart.io/qr?size=120&margin=1&text=${encodeURIComponent(lesson.lessonLinksUrl)}"
+                  alt="QR code for lesson links"
+                />
+              
+                <a class="ml-lesson-links-url" href="${escapeHtml(lesson.lessonLinksUrl)}" target="_blank" rel="noopener">
+                  Lesson Links
+                </a>
+              ` : ""}
+            </div>
           </div>
+  
+          ${lesson.subtitle ? `
+            <div class="ml-lesson-subtitle-line">${formatInlineRichText(lesson.subtitle)}</div>
+          ` : ""}
+  
+          ${lesson.materials ? `
+            <div class="ml-lesson-materials-box">${formatInlineRichText(lesson.materials).replace(/\n/g, "<br>")}</div>
+          ` : ""}
         </div>
-
-        ${lesson.subtitle ? `
-          <div class="ml-lesson-subtitle-line">${formatInlineRichText(lesson.subtitle)}</div>
-        ` : ""}
-
-        ${lesson.materials ? `
-          <div class="ml-lesson-materials-box">${formatInlineRichText(lesson.materials).replace(/\n/g, "<br>")}</div>
-        ` : ""}
 
         <div class="ml-lesson-body">
           ${renderMLTextBlock(lesson.prep)}
@@ -1253,7 +1255,7 @@ function renderMLPhraseBlock(value) {
 }
 
 function formatMLLessonTitle(title) {
-  let text = escapeHtml(title || "");
+  let text = escapeHtml(title || "").replace(/\n/g, "<br>");
 
   text = text.replace(
     /(Songs,\s*Rhymes(?:,)?\s*(?:&amp;|&)\s*)Conversations/i,
