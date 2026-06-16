@@ -29,7 +29,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -58,7 +58,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
@@ -87,7 +87,7 @@ body.pdf-mode * {
   }
 
   @bottom-center {
-    content: "Â©2026 Charlotte Mason InstituteÂ® All rights reserved.";
+    content: "©2026 Charlotte Mason Institute® All rights reserved.";
     font-family: "Circular Pro", system-ui, sans-serif;
     font-size: 8pt;
     color: #9a9a9a;
