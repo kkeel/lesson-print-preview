@@ -719,7 +719,7 @@
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0;
-  border: 1px solid #adb58f;
+  border: 1px solid #596e5e;
   background: #fff;
 }
 
@@ -729,7 +729,7 @@
 }
 
 .ml-storyboard-mini-box + .ml-storyboard-mini-box {
-  border-left: 1px solid #adb58f;
+  border-left: 1px solid #596e5e;
 }
 
 /* Copywork */
@@ -754,11 +754,19 @@
 .ml-copywork-prompt {
   margin-bottom: 0.13in;
 
+  display: flex;
+  align-items: baseline;
+  gap: 0.08in;
+
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 17px;
   line-height: 1.28;
   font-weight: 500;
   color: #111;
+}
+
+.ml-copywork-prompt-text {
+  min-width: 0;
 }
 
 .ml-copywork-line-row {
@@ -768,7 +776,7 @@
 
 .ml-copywork-guide-line {
   height: 0;
-  border-top: 0.5px dashed #cfd6ca;
+  border-top: 1px dashed #adb58f;
   margin-bottom: 0.18in;
 }
 
