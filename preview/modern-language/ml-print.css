@@ -245,7 +245,9 @@
    .ml-copywork-write-line,
    .ml-storyboard-box,
    .ml-storyboard-mini-grid,
-   .ml-storyboard-mini-box {
+   .ml-storyboard-mini-box,
+   .ml-story-reference,
+   .ml-line-number-badge {
      print-color-adjust: exact;
      -webkit-print-color-adjust: exact;
    }
