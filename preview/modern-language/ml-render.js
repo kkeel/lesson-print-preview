@@ -645,9 +645,7 @@ function renderMLStoryLine(line) {
 
       <div class="ml-story-translation-col">
         <div class="ml-story-line-inner">
-          <div class="ml-story-reference ${getMLLineBadgeClass(line)}">
-            ${escapeHtml(formatMLStoryReference(line))}
-          </div>
+          <div class="ml-story-reference ml-story-reference-spacer"></div>
 
           <div class="ml-story-text">
             ${escapeHtml(line.translation || "")}
