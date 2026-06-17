@@ -577,7 +577,7 @@
 
 .ml-story-text {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.28;
   color: #111111;
 }
@@ -600,7 +600,7 @@
 
 .ml-song-text {
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.34;
   color: #111111;
   white-space: normal;
@@ -663,7 +663,7 @@
 .ml-glossary-translation {
   padding: 6px 8px;
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 12.5px;
+  font-size: 15px;
   line-height: 1.25;
 }
 
@@ -811,25 +811,29 @@
 
 .ml-conversation-line {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .ml-conversation-line + .ml-conversation-line {
   border-top: 0.5px solid #d7ddd4;
 }
 
-.ml-conversation-language {
+.ml-conversation-language,
+.ml-conversation-translation {
   padding: 6px 8px;
-  font-weight: 700;
-  background: #f4f6fa;
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 15px;
   line-height: 1.25;
 }
 
+.ml-conversation-language {
+  font-weight: 700;
+  background: #f4f6fa;
+}
+
 .ml-conversation-translation {
-  padding: 6px 8px;
   font-style: italic;
   background: #fff;
-  line-height: 1.25;
 }
 
 /* Modern Language divider pages */
