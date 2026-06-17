@@ -582,14 +582,13 @@ function renderMLStoryResource(story) {
 }
 
 function formatMLStoryReference(line = {}) {
-  const setNumber = getMLSetNumber(line.set);
-  const lineNumber = Number(line.lineNumber || 0);
+  const lineNumber = Number(line.lineNumber || line.sequence || 0);
 
-  if (!setNumber || setNumber === 999 || !lineNumber) {
+  if (!lineNumber) {
     return line.reference || "";
   }
 
-  return `S${setNumber}.L${lineNumber}`;
+  return String(lineNumber);
 }
 
 function renderMLStoryLine(line) {
@@ -699,10 +698,18 @@ function renderMLCopyworkPage(page = {}) {
 }
 
 function renderMLCopyworkSlot(line) {
+  const lineNumber = Number(line?.lineNumber || line?.sequence || 0);
+
   return `
     <div class="ml-copywork-slot">
       <div class="ml-copywork-prompt">
-        ${line ? escapeHtml(line.sentence || "") : ""}
+        ${lineNumber ? `
+          <span class="ml-line-number-badge">${escapeHtml(lineNumber)}</span>
+        ` : ""}
+
+        <span class="ml-copywork-prompt-text">
+          ${line ? escapeHtml(line.sentence || "") : ""}
+        </span>
       </div>
 
       <div class="ml-copywork-line-row">
