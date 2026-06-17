@@ -474,7 +474,6 @@
 }
 
 .ml-story-column-headings > div:nth-child(2) {
-  border-left: 1px solid #c7d0bd;
   padding-left: 0.18in;
 }
 
@@ -633,7 +632,7 @@
   border-left: 1px solid #c7d0bd;
   padding-left: 0.18in;
   padding-right: 0;
-  font-style: italic;
+  font-style: normal;
   font-weight: 400;
 }
 
