@@ -628,16 +628,36 @@ function renderMLStudentLiteraturePages(pages = []) {
   return `
     <section class="ml-student-literature-section section-break" id="ml-student-literature-pages">
       ${pages.map(page => `
-        <div class="ml-student-spread">
-          <div class="page-flow ml-student-page-flow ml-storyboard-page-flow">
-            ${renderMLStoryboardPage(page)}
-          </div>
-
-          <div class="page-flow ml-student-page-flow ml-copywork-page-flow">
-            ${renderMLCopyworkPage(page)}
-          </div>
+        <div class="page-flow ml-student-page-flow ml-storyboard-copywork-page-flow">
+          ${renderMLStoryboardCopyworkPage(page)}
         </div>
       `).join("")}
+    </section>
+  `;
+}
+
+function renderMLStoryboardCopyworkPage(page = {}) {
+  const slots = (page.lines || []).slice(0, 5);
+
+  return `
+    <section class="ml-student-page ml-storyboard-copywork-page">
+      <header class="ml-student-page-header">
+        ${escapeHtml(page.lessonNumber || "Lesson")} Storyboards & Copywork
+      </header>
+
+      <div class="ml-appendix-top-rule"></div>
+
+      <div class="ml-storyboard-copywork-layout">
+        <div class="ml-storyboard-mini-grid">
+          <div class="ml-storyboard-mini-box"></div>
+          <div class="ml-storyboard-mini-box"></div>
+          <div class="ml-storyboard-mini-box"></div>
+        </div>
+
+        <div class="ml-copywork-slots ml-copywork-slots-combined">
+          ${slots.map(renderMLCopyworkSlot).join("")}
+        </div>
+      </div>
     </section>
   `;
 }
