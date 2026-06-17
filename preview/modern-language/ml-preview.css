@@ -602,6 +602,27 @@
   font-weight: 400;
 }
 
+.ml-story-week-group {
+  margin-top: 0.22in;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.ml-story-week-group:first-child {
+  margin-top: 0.14in;
+}
+
+.ml-story-week-title {
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1.2;
+  font-weight: 800;
+  color: #596e5e;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin: 0 0 0.08in;
+}
+
 /* =========================
    ML Songs & Rhymes
    ========================= */
@@ -664,7 +685,7 @@
   font-size: 12px;
   line-height: 1.2;
   font-weight: 700;
-  color: #adb58f;
+  color: #596e5e;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin: 0 0 0.06in;
