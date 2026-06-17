@@ -568,6 +568,13 @@
   white-space: nowrap;
 }
 
+.ml-copywork-prompt .ml-line-number-badge {
+  width: 0.38in;
+  height: 0.22in;
+  flex: 0 0 0.38in;
+  font-size: 11px;
+}
+
 .ml-story-text {
   font-family: "Circular Pro", system-ui, sans-serif;
   font-size: 13px;
