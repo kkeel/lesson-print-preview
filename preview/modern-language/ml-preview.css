@@ -547,19 +547,29 @@
 }
 
 .ml-story-translation-col {
-  padding-left: 0.18in;
+  padding-left: 0;
 }
 
-.ml-story-line-inner {
+.ml-story-language-col .ml-story-line-inner {
   display: grid;
   grid-template-columns: 0.34in 1fr;
   gap: 0.08in;
   align-items: start;
 }
 
+.ml-story-translation-col .ml-story-line-inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  align-items: start;
+}
+
 .ml-story-reference-spacer {
+  width: 0;
+  flex: 0 0 0;
+  margin: 0;
+  padding: 0;
   background: transparent;
-  color: transparent;
 }
 
 .ml-story-reference,
