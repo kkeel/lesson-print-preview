@@ -234,17 +234,21 @@
   }
 
   .ml-storyboard-box,
-  .ml-copywork-slot {
-    break-inside: avoid !important;
-    page-break-inside: avoid !important;
-  }
-
-  .ml-copywork-guide-line,
-  .ml-copywork-write-line,
-  .ml-storyboard-box {
-    print-color-adjust: exact;
-    -webkit-print-color-adjust: exact;
-  }
+   .ml-storyboard-mini-grid,
+   .ml-storyboard-mini-box,
+   .ml-copywork-slot {
+     break-inside: avoid !important;
+     page-break-inside: avoid !important;
+   }
+   
+   .ml-copywork-guide-line,
+   .ml-copywork-write-line,
+   .ml-storyboard-box,
+   .ml-storyboard-mini-grid,
+   .ml-storyboard-mini-box {
+     print-color-adjust: exact;
+     -webkit-print-color-adjust: exact;
+   }
 }
 
 @media print {
