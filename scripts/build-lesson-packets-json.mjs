@@ -1460,27 +1460,41 @@ function buildMLGlossaryFromLessonIds(lessonIds, mlLessonsById, mlVocabById) {
 }
 
 function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById) {
-  let lineNumber = 1;
-
   return normalizeArray(sentenceIds)
-    .map(id => mlSentencesById.get(id))
-    .filter(Boolean)
-    .map(record => {
+    .map((id, index) => {
+      const record = mlSentencesById.get(id);
+      if (!record) return null;
+
       const sf = record.fields || {};
+      const sequence = Number(normalizeText(sf["Sequence"]) || 0);
+      const fallbackLineNumber = index + 1;
+      const lineNumber = sequence || fallbackLineNumber;
 
       return {
         id: record.id,
-        reference: `${normalizeText(sf["Set"])} Line ${lineNumber}`,
-        lineNumber: lineNumber++,
+        reference: `Line ${lineNumber}`,
+        lineNumber,
         sentence: normalizeText(sf["Sentence"]),
         translation: normalizeText(sf["English Translation"]),
         label: normalizeText(sf["Label"]),
         language: normalizeText(sf["Language"]),
         sentenceType: normalizeText(sf["Sentence Type"]),
         type: normalizeText(sf["Type"]),
-        sequence: Number(normalizeText(sf["Sequence"]) || 0),
-        set: normalizeText(sf["Set"])
+        sequence,
+        set: normalizeText(sf["Set"]),
+        linkedRecordOrder: fallbackLineNumber
       };
+    })
+    .filter(Boolean)
+    .sort((a, b) => {
+      const aHasSequence = Number(a.sequence || 0) > 0;
+      const bHasSequence = Number(b.sequence || 0) > 0;
+
+      if (aHasSequence && bHasSequence) {
+        return Number(a.sequence || 0) - Number(b.sequence || 0);
+      }
+
+      return Number(a.linkedRecordOrder || 0) - Number(b.linkedRecordOrder || 0);
     });
 }
 
