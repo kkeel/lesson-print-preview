@@ -691,28 +691,47 @@
   margin: 0 0 0.12in;
 }
 
-/* Storyboard */
+/* Storyboards & Copywork combined page */
 
-.ml-storyboard-boxes {
-  height: calc(9.65in - 0.52in);
+.ml-storyboard-copywork-page {
   display: flex;
   flex-direction: column;
-  gap: 0.16in;
 }
 
-.ml-storyboard-box {
-  flex: 1 1 0;
+.ml-storyboard-copywork-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 0.22in;
+}
+
+.ml-storyboard-mini-grid {
+  height: 2.15in;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0;
   border: 1px solid #adb58f;
   background: #fff;
+}
+
+.ml-storyboard-mini-box {
+  min-width: 0;
+  background: #fff;
+}
+
+.ml-storyboard-mini-box + .ml-storyboard-mini-box {
+  border-left: 1px solid #adb58f;
 }
 
 /* Copywork */
 
 .ml-copywork-slots {
-  min-height: calc(9.65in - 0.52in);
   display: flex;
   flex-direction: column;
-  gap: 0.28in;
+  gap: 0.18in;
+}
+
+.ml-copywork-slots-combined {
+  flex: 1 1 auto;
 }
 
 .ml-copywork-slot {
