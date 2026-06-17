@@ -22362,7 +22362,7 @@
                 "lines": [
                   {
                     "id": "recHbBBKh8FSvcSKz",
-                    "reference": "Set 11 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Une âne a trouvé la peau d'un lion",
                     "translation": "A Donkey found a Lion's skin",
@@ -22371,11 +22371,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recokJdswD8cJNflY",
-                    "reference": "Set 11 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "Puis, il s'est mis à effrayer tous ceux qu'il rencontrait,",
                     "translation": "Then he went about frightening everyone he met,",
@@ -22384,11 +22385,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recB7XpVJuS7Yk3kq",
-                    "reference": "Set 11 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "et avec laquelle, il s'est habillé.",
                     "translation": "and dressed himself up in it.",
@@ -22397,11 +22399,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recmNWPtxsGwApKwn",
-                    "reference": "Set 12 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "car ils le prenaient tous pour un lion,",
                     "translation": "for they all took him to be a Lion,",
@@ -22410,11 +22413,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec9qQ80IAOJVgcvb",
-                    "reference": "Set 12 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "hommes et bêtes, de la meme façon",
                     "translation": "men and beasts alike,",
@@ -22423,11 +22427,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recgECwWKsY7KkueC",
-                    "reference": "Set 12 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "et ils ont pris leurs jambes à leur cou en le voyant arriver.",
                     "translation": "and took to their heels when they saw him coming.",
@@ -22436,11 +22441,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "reccV6aw1XqmPfnT9",
-                    "reference": "Set 13 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Ravi du succès de son tour de magie,",
                     "translation": "Elated by the success of his trick,",
@@ -22449,11 +22455,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recfIPJUfs13A2Wbg",
-                    "reference": "Set 13 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "il a braîti bruyamment en triomphe.",
                     "translation": "he loudly brayed in triumph.",
@@ -22462,11 +22469,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recOnCyABuY243vNW",
-                    "reference": "Set 13 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "Le renard l'a entendu",
                     "translation": "The Fox heard him",
@@ -22475,11 +22483,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recrbb9sEIDzX3wJe",
-                    "reference": "Set 14 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "et l'a reconnu tout de suite",
                     "translation": "and recognized him at once",
@@ -22488,11 +22497,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recW6fufncidb4a19",
-                    "reference": "Set 14 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "pour l'âne qu'il était,",
                     "translation": "for the Donkey he was,",
@@ -22501,11 +22511,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recqxn6phAEAevpxd",
-                    "reference": "Set 14 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "et lui a dit,",
                     "translation": "and said to him,",
@@ -22514,11 +22525,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recMHKBHfN41s8cBX",
-                    "reference": "Set 15 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "\"O mon ami, c'est toi, n'est-ce pas?",
                     "translation": "\"Oh, my friend, it's you, is it?",
@@ -22527,11 +22539,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "rec7W9inOEBphS4c8",
-                    "reference": "Set 15 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "Moi aussi, j'aurais du avoir peur",
                     "translation": "I, too, should have been afraid",
@@ -22540,11 +22553,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recOY52FGPmYuBC8c",
-                    "reference": "Set 15 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "si je n'ai pas entendu ta voix.\"",
                     "translation": "if I hadn't heard your voice.\"",
@@ -22553,7 +22567,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -22581,7 +22596,7 @@
                 "lines": [
                   {
                     "id": "recku5YBHl6WptYNV",
-                    "reference": "Set 1 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un renard affamé a vu des",
                     "translation": "A hungry fox saw some",
@@ -22590,11 +22605,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recYel5aNQZIa0ARh",
-                    "reference": "Set 1 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "magnifiques grappes de raisins",
                     "translation": "fine bunches of Grapes",
@@ -22603,11 +22619,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "reckz5kWNLk5eYMUJ",
-                    "reference": "Set 1 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "pendant d'une vigne qui était",
                     "translation": "hanging from a vine that was",
@@ -22616,11 +22633,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
-                    "reference": "Set 2 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "entraînés le long d'un grand arbre,",
                     "translation": "trained along a high tree,",
@@ -22629,11 +22647,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recdyvHaIJsWfM6Nz",
-                    "reference": "Set 2 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "et il a fait de son mieux pour les atteindre",
                     "translation": "and did his best to reach them",
@@ -22642,11 +22661,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recdyZYmSKDfO3BRN",
-                    "reference": "Set 2 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "en sautant aussi haut",
                     "translation": "by jumping as high",
@@ -22655,11 +22675,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
-                    "reference": "Set 3 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "qu'il le pouvait en l'air.",
                     "translation": "as he could into the air.",
@@ -22668,11 +22689,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "reckV4iPAuV8Jhems",
-                    "reference": "Set 3 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "Mais tout cela n'a servi a rien,",
                     "translation": "But it was all in vain,",
@@ -22681,11 +22703,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reczyvCSenxlyUo9Z",
-                    "reference": "Set 3 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "car ils étaient juste hors d'atteinte.",
                     "translation": "for they were just out of reach.",
@@ -22694,11 +22717,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
-                    "reference": "Set 4 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "il a donc abandonné",
                     "translation": "So he gave up trying",
@@ -22707,11 +22731,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec0l8rh40ejXPag3",
-                    "reference": "Set 4 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "et s'éloignait avec un air",
                     "translation": "and walked away with an air",
@@ -22720,11 +22745,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recfXpCZrjA9qBQLV",
-                    "reference": "Set 4 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "de la dignité et d'insouciance",
                     "translation": "of dignity and unconcern,",
@@ -22733,11 +22759,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
-                    "reference": "Set 5 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "remarquant, \"J'ai pensé",
                     "translation": "remarking, \"I thought",
@@ -22746,11 +22773,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recsCaL367Xr2Mdqf",
-                    "reference": "Set 5 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "que ces raisons étaient mûrs,",
                     "translation": "those Grapes were ripe,",
@@ -22759,11 +22787,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "reccUzqFXqMuV9v2O",
-                    "reference": "Set 5 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "mais maintenant je vois",
                     "translation": "but I see now",
@@ -22772,11 +22801,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recCIDVrRXhNRB7Lm",
-                    "reference": "Set 5 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "qu'ils sont assez aigres.\"",
                     "translation": "they are quite sour.\"",
@@ -22785,7 +22815,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 16
                   }
                 ]
               },
@@ -22815,7 +22846,7 @@
                 "lines": [
                   {
                     "id": "recOLsJ6Ja0sGDLSl",
-                    "reference": "Set 21 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                     "translation": "Two proud goats happened to meet",
@@ -22824,11 +22855,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recfcPM5zbSEWO8ce",
-                    "reference": "Set 21 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                     "translation": "on the opposite cliffs of a high mountain range",
@@ -22837,11 +22869,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recbLj8XKfkqZHjnY",
-                    "reference": "Set 21 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "où une rivière impétueuse coulait en dessous",
                     "translation": "where a fierce river ran below",
@@ -22850,11 +22883,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "reczDbbMbn9nSIz7K",
-                    "reference": "Set 22 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "à travers une vallée rocheuse.",
                     "translation": "through a rocky valley.",
@@ -22863,11 +22897,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec270JVpZa2vruFo",
-                    "reference": "Set 22 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "Le seul pont pour traverser le ravin",
                     "translation": "The only bridge across the chasm",
@@ -22876,11 +22911,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recnSVIhOG6HUp4iG",
-                    "reference": "Set 22 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "était un arbre tombé si étroit",
                     "translation": "was a fallen tree so narrow",
@@ -22889,11 +22925,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recNYKTmC6vN4l3rP",
-                    "reference": "Set 23 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "au point d'effrayer deux souris qui se croisent",
                     "translation": "as to frighten two mice passing each other",
@@ -22902,11 +22939,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec2sr7zKsDNftJCq",
-                    "reference": "Set 23 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "en même temps.",
                     "translation": "at the same time.",
@@ -22915,11 +22953,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recw6e9N8hH3UktVE",
-                    "reference": "Set 23 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "avaient l'impression d'avoir",
                     "translation": "felt that they had",
@@ -22928,11 +22967,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recPdB0A7T0kfNg4v",
-                    "reference": "Set 23 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "Les deux chèvres têtues",
                     "translation": "Both stubborn Goats",
@@ -22941,11 +22981,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recPzkGtfVo8K3mah",
-                    "reference": "Set 24 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "le droit de traverser la rivière en permier;",
                     "translation": "the right to cross the river first;",
@@ -22954,11 +22995,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recqzToW1useriU3y",
-                    "reference": "Set 24 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "en posant un sabot à la fois",
                     "translation": "so setting one hoof at a time",
@@ -22967,11 +23009,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rech9Hcymf91xOKhb",
-                    "reference": "Set 24 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "sur le fin tronc,",
                     "translation": "upon the slender log,",
@@ -22980,11 +23023,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "reclXcyWV8CXe6wga",
-                    "reference": "Set 24 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "elles se trouvaient tête à tête",
                     "translation": "they found themselves head to head",
@@ -22993,11 +23037,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "reckmF22Flo2HQXMh",
-                    "reference": "Set 25 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "au milieu du pont.",
                     "translation": "in the middle of the bridge.",
@@ -23006,11 +23051,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "rec8an40Gzwm92YMn",
-                    "reference": "Set 25 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "Aucune des deux chèvres ne voulait céder à l'autre,",
                     "translation": "Neither Goat would give way to the other,",
@@ -23019,11 +23065,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recofq0pPqCOj6Mqp",
-                    "reference": "Set 25 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "et finalement elle sont tombées tous les deux",
                     "translation": "and finally they both fell",
@@ -23032,11 +23079,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recTO3WHpYk4vz3bs",
-                    "reference": "Set 25 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "la tête la première dans l'eau tumultueuses en bas.",
                     "translation": "headlong into the roaring waters below.",
@@ -23045,7 +23093,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 18
                   }
                 ]
               },
@@ -23072,7 +23121,7 @@
                 "lines": [
                   {
                     "id": "reckk3GSXSJGGvOK2",
-                    "reference": "Set 6 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un loup a décidé de se déguiser pour qu'",
                     "translation": "A Wolf resolved to disguise himself in order that",
@@ -23081,11 +23130,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recDVrdP4dedZYLF9",
-                    "reference": "Set 6 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "il puisse s'attaquer à un troupeau de moutons",
                     "translation": "he might prey upon a flock of sheep",
@@ -23094,11 +23144,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recm4eeqR6YukC9qQ",
-                    "reference": "Set 6 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sans crainte d'être détecté",
                     "translation": "without fear of detection,",
@@ -23107,11 +23158,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "rec1LJ9BlRyQsjxRr",
-                    "reference": "Set 7 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "il s'est revetu donc d'une peau de mouton",
                     "translation": "so he clothed himself in a sheepskin",
@@ -23120,11 +23172,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recLR1a6bp0ibbtTn",
-                    "reference": "Set 7 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "et s'est glissé parmi les moutons",
                     "translation": "and slipped among the sheep",
@@ -23133,11 +23186,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recYqqii56whPM2Uf",
-                    "reference": "Set 7 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "lorsqu'ils étaient au pâturage.",
                     "translation": "when they were out at pasture.",
@@ -23146,11 +23200,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recGA2duZp0G7FLAt",
-                    "reference": "Set 8 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Il a complètement trompé le berger,",
                     "translation": "He completely deceived the shepherd,",
@@ -23159,11 +23214,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recwfE7W5kptIA1OV",
-                    "reference": "Set 8 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "et lorsque le troupeau fut parqué pour la nuit,",
                     "translation": "and when the flock was penned for the night,",
@@ -23172,11 +23228,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rectXvCZAeQSEkyAN",
-                    "reference": "Set 8 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "il fut enfermé avec les autres",
                     "translation": "he was shut in with them.",
@@ -23185,11 +23242,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recha3HvZUmZBx9FV",
-                    "reference": "Set 9 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "Mais cette nuit-là, comme le hasard l'a voulu,",
                     "translation": "But that very night, as it happened,",
@@ -23198,11 +23256,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recycbqG2qxXSq9Mw",
-                    "reference": "Set 9 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "le berger, ayant besoin de mouton pour la table,",
                     "translation": "the shepherd, requiring a supply of mutton for the table,",
@@ -23211,11 +23270,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "rec91HgjEZQ2sfziM",
-                    "reference": "Set 9 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "a mis ses mains sur le loup,",
                     "translation": "laid his hands on the wolf,",
@@ -23224,11 +23284,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec5alGnl7Zvp3c2F",
-                    "reference": "Set 10 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "le prenait pour une brebis,",
                     "translation": "mistaking him for a sheep,",
@@ -23237,11 +23298,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recYQdRjjXZ4ZaL0S",
-                    "reference": "Set 10 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "et il l'a achevé",
                     "translation": "and he finished him off",
@@ -23250,11 +23312,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recVP4jXz4SrRdhsW",
-                    "reference": "Set 10 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "avec son couteau sur place",
                     "translation": "with his knife on the spot.",
@@ -23263,7 +23326,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -23293,7 +23357,7 @@
                 "lines": [
                   {
                     "id": "recO41p1XzXKmzkak",
-                    "reference": "Set 16 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Une tortue mécontent avec",
                     "translation": "A Tortoise, discontented with",
@@ -23302,11 +23366,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recXUlvDZey6yFWEN",
-                    "reference": "Set 16 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "sa vie misérable et envieuse",
                     "translation": "a lowly life and envious",
@@ -23315,11 +23380,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "rec5wSP0zAdMWHCyg",
-                    "reference": "Set 16 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "des oiseaux qu'elle voyait s'amuser",
                     "translation": "of the birds that he saw enjoying themselves",
@@ -23328,11 +23394,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recINHROFAmlbElmA",
-                    "reference": "Set 17 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "en air,",
                     "translation": "in the air,",
@@ -23341,11 +23408,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recz2NuhwhlJEW5Co",
-                    "reference": "Set 17 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "a supplié un aigle",
                     "translation": "begged an Eagle",
@@ -23354,11 +23422,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recf4mGH9LMEEv9ok",
-                    "reference": "Set 17 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "de lui apprendre à voler.",
                     "translation": "to teach him to fly.",
@@ -23367,11 +23436,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recSPok8HMzBIztKO",
-                    "reference": "Set 18 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                     "translation": "The Eagle protested that it was idle for him to try,",
@@ -23380,11 +23450,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recSidWzNkU4Uof16",
-                    "reference": "Set 18 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "comme la nature ne l'avait pas doté d'ailes",
                     "translation": "as nature had not provided him with wings;",
@@ -23393,11 +23464,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recxO1CcVvpbLwu6r",
-                    "reference": "Set 18 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                     "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
@@ -23406,11 +23478,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recOUPTZq7KkE1dOZ",
-                    "reference": "Set 18 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "en insistant que ce n'était qu'une question d'",
                     "translation": "insisting that it could only be a question of",
@@ -23419,11 +23492,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "reccnoAKfWOj885iA",
-                    "reference": "Set 19 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "apprendre l'art du pilotage.",
                     "translation": "learning the craft of the air.",
@@ -23432,11 +23506,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "rec5vEk9HlvzS61LN",
-                    "reference": "Set 19 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
@@ -23445,11 +23520,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recG6QYoMBdWU8P0C",
-                    "reference": "Set 19 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "à faire le mieux qu'il pourrait pour lui",
                     "translation": "to do the best he could for him",
@@ -23458,11 +23534,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recWIBrDYfIrKO0xB",
-                    "reference": "Set 19 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "et l'a pris par ses serres.",
                     "translation": "and picked him up in his talons.",
@@ -23471,11 +23548,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recL0DKvnUDHeqXbj",
-                    "reference": "Set 20 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                     "translation": "Soaring with him to a great height in the sky",
@@ -23484,11 +23562,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recP6mU0whAN7Fdgx",
-                    "reference": "Set 20 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "puis il l'a laché",
                     "translation": "he then let him go,",
@@ -23497,11 +23576,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recbRDFhCmPEIbjAp",
-                    "reference": "Set 20 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "et la miserable Tortue",
                     "translation": "and the wretched Tortoise",
@@ -23510,11 +23590,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recHeHiMVVVzyDOvE",
-                    "reference": "Set 20 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "est tombée la tete la premiere dans la mer.",
                     "translation": "fell headlong into the sea.",
@@ -23523,7 +23604,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 18
                   }
                 ]
               },
@@ -23551,7 +23633,7 @@
                 "lines": [
                   {
                     "id": "recmbIePWfLgZRtIK",
-                    "reference": "Set 26 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un loup a rencontré un agneau",
                     "translation": "A wolf came upon a Lamb",
@@ -23560,11 +23642,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recncylySWDq2VvRs",
-                    "reference": "Set 26 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "qui s'éloignait du troupeau",
                     "translation": "straying from the flock",
@@ -23573,11 +23656,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recKQdkXAB7ByNdZ1",
-                    "reference": "Set 26 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "et éprouvait une certaine réticence à propos de",
                     "translation": "and felt some reluctance about",
@@ -23586,11 +23670,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recMjfTVj5Shw34KP",
-                    "reference": "Set 26 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "l'idée de prendre la vie d'une créature impuissante.",
                     "translation": "taking the life of the helpless creature",
@@ -23599,11 +23684,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec2PuZRBIo2cEP5c",
-                    "reference": "Set 27 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "sans une raison plausible.",
                     "translation": "without some plausible excuse.",
@@ -23612,11 +23698,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recSd4xWB9KJCO1e6",
-                    "reference": "Set 27 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "Il cherche donc un prétexte et dit finalement,",
                     "translation": "So he cast about for a grievance and said at last,",
@@ -23625,11 +23712,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec0ojzMdCaCK5z0O",
-                    "reference": "Set 27 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "\"L'année dernière, monsieur, vous m'avez insulté gravement.\"",
                     "translation": "\"Last year, sir, you grossly insulted me.\"",
@@ -23638,11 +23726,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recCP47hCcdPUiVZR",
-                    "reference": "Set 28 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "\"C'est impossible, monsieur.\" l'agneau a bêlé,",
                     "translation": "\"That is impossible, sir.\" bleated the Lamb,",
@@ -23651,11 +23740,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rec2swG3o81oDCHpL",
-                    "reference": "Set 28 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "\"car je n'étais pas encore né.\"",
                     "translation": "\"for I wasn't born then.\"",
@@ -23664,11 +23754,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recCNmRIkzpqYsfE9",
-                    "reference": "Set 28 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "\"Eh bien,\" rétorquait le Loup, \"tu te nourris dans mes prés.\"",
                     "translation": "\"Well,\" retorted the Wolf, \"you feed in my pastures.\"",
@@ -23677,11 +23768,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec4ZXfDzpRH3phlz",
-                    "reference": "Set 29 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "\"Ce n'est pas possible,\" a répondu l'agneau,",
                     "translation": "\"That cannot be,\" replied the Lamb,",
@@ -23690,11 +23782,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recXQneoGTyWcRtiY",
-                    "reference": "Set 29 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "\"Car je n'ai jamais rien bu mis à part le lait de ma mère.\"",
                     "translation": "\"For I have never yet drunk anything by my mother's milk.\"",
@@ -23703,11 +23796,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recja84PFBDuclt7u",
-                    "reference": "Set 29 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "\"Enfin bref,\" dit le loup,",
                     "translation": "\"Well anyhow,\" said the Wolf,",
@@ -23716,11 +23810,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recDI6LDiLzWHTaZ4",
-                    "reference": "Set 30 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "\"Je n'y vais pas sans mon repas,\"",
                     "translation": "\"I'm not going without my dinner,\"",
@@ -23729,11 +23824,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recnCtKv5IKbOL1iL",
-                    "reference": "Set 30 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "et il a sauté sur l'agneau",
                     "translation": "and he sprang upon the Lamb",
@@ -23742,11 +23838,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recfkmAYYjpfbjdnM",
-                    "reference": "Set 30 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "et l'a dévoré sans plus de cérémonie.",
                     "translation": "and devoured it without more ado.",
@@ -23755,7 +23852,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 16
                   }
                 ]
               }
@@ -32845,7 +32943,7 @@
                 "lines": [
                   {
                     "id": "recHbBBKh8FSvcSKz",
-                    "reference": "Set 11 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Une âne a trouvé la peau d'un lion",
                     "translation": "A Donkey found a Lion's skin",
@@ -32854,11 +32952,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recokJdswD8cJNflY",
-                    "reference": "Set 11 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "Puis, il s'est mis à effrayer tous ceux qu'il rencontrait,",
                     "translation": "Then he went about frightening everyone he met,",
@@ -32867,11 +32966,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recB7XpVJuS7Yk3kq",
-                    "reference": "Set 11 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "et avec laquelle, il s'est habillé.",
                     "translation": "and dressed himself up in it.",
@@ -32880,11 +32980,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recmNWPtxsGwApKwn",
-                    "reference": "Set 12 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "car ils le prenaient tous pour un lion,",
                     "translation": "for they all took him to be a Lion,",
@@ -32893,11 +32994,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec9qQ80IAOJVgcvb",
-                    "reference": "Set 12 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "hommes et bêtes, de la meme façon",
                     "translation": "men and beasts alike,",
@@ -32906,11 +33008,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recgECwWKsY7KkueC",
-                    "reference": "Set 12 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "et ils ont pris leurs jambes à leur cou en le voyant arriver.",
                     "translation": "and took to their heels when they saw him coming.",
@@ -32919,11 +33022,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "reccV6aw1XqmPfnT9",
-                    "reference": "Set 13 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Ravi du succès de son tour de magie,",
                     "translation": "Elated by the success of his trick,",
@@ -32932,11 +33036,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recfIPJUfs13A2Wbg",
-                    "reference": "Set 13 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "il a braîti bruyamment en triomphe.",
                     "translation": "he loudly brayed in triumph.",
@@ -32945,11 +33050,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recOnCyABuY243vNW",
-                    "reference": "Set 13 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "Le renard l'a entendu",
                     "translation": "The Fox heard him",
@@ -32958,11 +33064,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recrbb9sEIDzX3wJe",
-                    "reference": "Set 14 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "et l'a reconnu tout de suite",
                     "translation": "and recognized him at once",
@@ -32971,11 +33078,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recW6fufncidb4a19",
-                    "reference": "Set 14 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "pour l'âne qu'il était,",
                     "translation": "for the Donkey he was,",
@@ -32984,11 +33092,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recqxn6phAEAevpxd",
-                    "reference": "Set 14 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "et lui a dit,",
                     "translation": "and said to him,",
@@ -32997,11 +33106,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recMHKBHfN41s8cBX",
-                    "reference": "Set 15 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "\"O mon ami, c'est toi, n'est-ce pas?",
                     "translation": "\"Oh, my friend, it's you, is it?",
@@ -33010,11 +33120,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "rec7W9inOEBphS4c8",
-                    "reference": "Set 15 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "Moi aussi, j'aurais du avoir peur",
                     "translation": "I, too, should have been afraid",
@@ -33023,11 +33134,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recOY52FGPmYuBC8c",
-                    "reference": "Set 15 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "si je n'ai pas entendu ta voix.\"",
                     "translation": "if I hadn't heard your voice.\"",
@@ -33036,7 +33148,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -33064,7 +33177,7 @@
                 "lines": [
                   {
                     "id": "recku5YBHl6WptYNV",
-                    "reference": "Set 1 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un renard affamé a vu des",
                     "translation": "A hungry fox saw some",
@@ -33073,11 +33186,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recYel5aNQZIa0ARh",
-                    "reference": "Set 1 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "magnifiques grappes de raisins",
                     "translation": "fine bunches of Grapes",
@@ -33086,11 +33200,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "reckz5kWNLk5eYMUJ",
-                    "reference": "Set 1 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "pendant d'une vigne qui était",
                     "translation": "hanging from a vine that was",
@@ -33099,11 +33214,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
-                    "reference": "Set 2 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "entraînés le long d'un grand arbre,",
                     "translation": "trained along a high tree,",
@@ -33112,11 +33228,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recdyvHaIJsWfM6Nz",
-                    "reference": "Set 2 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "et il a fait de son mieux pour les atteindre",
                     "translation": "and did his best to reach them",
@@ -33125,11 +33242,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recdyZYmSKDfO3BRN",
-                    "reference": "Set 2 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "en sautant aussi haut",
                     "translation": "by jumping as high",
@@ -33138,11 +33256,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
-                    "reference": "Set 3 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "qu'il le pouvait en l'air.",
                     "translation": "as he could into the air.",
@@ -33151,11 +33270,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "reckV4iPAuV8Jhems",
-                    "reference": "Set 3 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "Mais tout cela n'a servi a rien,",
                     "translation": "But it was all in vain,",
@@ -33164,11 +33284,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reczyvCSenxlyUo9Z",
-                    "reference": "Set 3 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "car ils étaient juste hors d'atteinte.",
                     "translation": "for they were just out of reach.",
@@ -33177,11 +33298,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 3"
+                    "set": "Set 3",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
-                    "reference": "Set 4 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "il a donc abandonné",
                     "translation": "So he gave up trying",
@@ -33190,11 +33312,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec0l8rh40ejXPag3",
-                    "reference": "Set 4 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "et s'éloignait avec un air",
                     "translation": "and walked away with an air",
@@ -33203,11 +33326,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recfXpCZrjA9qBQLV",
-                    "reference": "Set 4 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "de la dignité et d'insouciance",
                     "translation": "of dignity and unconcern,",
@@ -33216,11 +33340,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
-                    "reference": "Set 5 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "remarquant, \"J'ai pensé",
                     "translation": "remarking, \"I thought",
@@ -33229,11 +33354,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recsCaL367Xr2Mdqf",
-                    "reference": "Set 5 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "que ces raisons étaient mûrs,",
                     "translation": "those Grapes were ripe,",
@@ -33242,11 +33368,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "reccUzqFXqMuV9v2O",
-                    "reference": "Set 5 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "mais maintenant je vois",
                     "translation": "but I see now",
@@ -33255,11 +33382,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recCIDVrRXhNRB7Lm",
-                    "reference": "Set 5 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "qu'ils sont assez aigres.\"",
                     "translation": "they are quite sour.\"",
@@ -33268,7 +33396,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 16
                   }
                 ]
               },
@@ -33298,7 +33427,7 @@
                 "lines": [
                   {
                     "id": "recOLsJ6Ja0sGDLSl",
-                    "reference": "Set 21 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Deux chèvres orgueilleuses se sont rencontrées",
                     "translation": "Two proud goats happened to meet",
@@ -33307,11 +33436,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recfcPM5zbSEWO8ce",
-                    "reference": "Set 21 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "sur les falaises opposées d'une haute chaîne de montagnes",
                     "translation": "on the opposite cliffs of a high mountain range",
@@ -33320,11 +33450,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recbLj8XKfkqZHjnY",
-                    "reference": "Set 21 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "où une rivière impétueuse coulait en dessous",
                     "translation": "where a fierce river ran below",
@@ -33333,11 +33464,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "reczDbbMbn9nSIz7K",
-                    "reference": "Set 22 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "à travers une vallée rocheuse.",
                     "translation": "through a rocky valley.",
@@ -33346,11 +33478,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec270JVpZa2vruFo",
-                    "reference": "Set 22 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "Le seul pont pour traverser le ravin",
                     "translation": "The only bridge across the chasm",
@@ -33359,11 +33492,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recnSVIhOG6HUp4iG",
-                    "reference": "Set 22 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "était un arbre tombé si étroit",
                     "translation": "was a fallen tree so narrow",
@@ -33372,11 +33506,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recNYKTmC6vN4l3rP",
-                    "reference": "Set 23 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "au point d'effrayer deux souris qui se croisent",
                     "translation": "as to frighten two mice passing each other",
@@ -33385,11 +33520,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec2sr7zKsDNftJCq",
-                    "reference": "Set 23 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "en même temps.",
                     "translation": "at the same time.",
@@ -33398,11 +33534,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recw6e9N8hH3UktVE",
-                    "reference": "Set 23 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "avaient l'impression d'avoir",
                     "translation": "felt that they had",
@@ -33411,11 +33548,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recPdB0A7T0kfNg4v",
-                    "reference": "Set 23 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "Les deux chèvres têtues",
                     "translation": "Both stubborn Goats",
@@ -33424,11 +33562,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recPzkGtfVo8K3mah",
-                    "reference": "Set 24 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "le droit de traverser la rivière en permier;",
                     "translation": "the right to cross the river first;",
@@ -33437,11 +33576,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recqzToW1useriU3y",
-                    "reference": "Set 24 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "en posant un sabot à la fois",
                     "translation": "so setting one hoof at a time",
@@ -33450,11 +33590,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rech9Hcymf91xOKhb",
-                    "reference": "Set 24 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "sur le fin tronc,",
                     "translation": "upon the slender log,",
@@ -33463,11 +33604,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "reclXcyWV8CXe6wga",
-                    "reference": "Set 24 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "elles se trouvaient tête à tête",
                     "translation": "they found themselves head to head",
@@ -33476,11 +33618,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "reckmF22Flo2HQXMh",
-                    "reference": "Set 25 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "au milieu du pont.",
                     "translation": "in the middle of the bridge.",
@@ -33489,11 +33632,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "rec8an40Gzwm92YMn",
-                    "reference": "Set 25 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "Aucune des deux chèvres ne voulait céder à l'autre,",
                     "translation": "Neither Goat would give way to the other,",
@@ -33502,11 +33646,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recofq0pPqCOj6Mqp",
-                    "reference": "Set 25 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "et finalement elle sont tombées tous les deux",
                     "translation": "and finally they both fell",
@@ -33515,11 +33660,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recTO3WHpYk4vz3bs",
-                    "reference": "Set 25 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "la tête la première dans l'eau tumultueuses en bas.",
                     "translation": "headlong into the roaring waters below.",
@@ -33528,7 +33674,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 18
                   }
                 ]
               },
@@ -33555,7 +33702,7 @@
                 "lines": [
                   {
                     "id": "reckk3GSXSJGGvOK2",
-                    "reference": "Set 6 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un loup a décidé de se déguiser pour qu'",
                     "translation": "A Wolf resolved to disguise himself in order that",
@@ -33564,11 +33711,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recDVrdP4dedZYLF9",
-                    "reference": "Set 6 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "il puisse s'attaquer à un troupeau de moutons",
                     "translation": "he might prey upon a flock of sheep",
@@ -33577,11 +33725,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recm4eeqR6YukC9qQ",
-                    "reference": "Set 6 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sans crainte d'être détecté",
                     "translation": "without fear of detection,",
@@ -33590,11 +33739,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "rec1LJ9BlRyQsjxRr",
-                    "reference": "Set 7 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "il s'est revetu donc d'une peau de mouton",
                     "translation": "so he clothed himself in a sheepskin",
@@ -33603,11 +33753,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recLR1a6bp0ibbtTn",
-                    "reference": "Set 7 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "et s'est glissé parmi les moutons",
                     "translation": "and slipped among the sheep",
@@ -33616,11 +33767,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recYqqii56whPM2Uf",
-                    "reference": "Set 7 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "lorsqu'ils étaient au pâturage.",
                     "translation": "when they were out at pasture.",
@@ -33629,11 +33781,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recGA2duZp0G7FLAt",
-                    "reference": "Set 8 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Il a complètement trompé le berger,",
                     "translation": "He completely deceived the shepherd,",
@@ -33642,11 +33795,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recwfE7W5kptIA1OV",
-                    "reference": "Set 8 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "et lorsque le troupeau fut parqué pour la nuit,",
                     "translation": "and when the flock was penned for the night,",
@@ -33655,11 +33809,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rectXvCZAeQSEkyAN",
-                    "reference": "Set 8 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "il fut enfermé avec les autres",
                     "translation": "he was shut in with them.",
@@ -33668,11 +33823,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recha3HvZUmZBx9FV",
-                    "reference": "Set 9 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "Mais cette nuit-là, comme le hasard l'a voulu,",
                     "translation": "But that very night, as it happened,",
@@ -33681,11 +33837,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recycbqG2qxXSq9Mw",
-                    "reference": "Set 9 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "le berger, ayant besoin de mouton pour la table,",
                     "translation": "the shepherd, requiring a supply of mutton for the table,",
@@ -33694,11 +33851,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "rec91HgjEZQ2sfziM",
-                    "reference": "Set 9 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "a mis ses mains sur le loup,",
                     "translation": "laid his hands on the wolf,",
@@ -33707,11 +33865,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec5alGnl7Zvp3c2F",
-                    "reference": "Set 10 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "le prenait pour une brebis,",
                     "translation": "mistaking him for a sheep,",
@@ -33720,11 +33879,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recYQdRjjXZ4ZaL0S",
-                    "reference": "Set 10 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "et il l'a achevé",
                     "translation": "and he finished him off",
@@ -33733,11 +33893,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recVP4jXz4SrRdhsW",
-                    "reference": "Set 10 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "avec son couteau sur place",
                     "translation": "with his knife on the spot.",
@@ -33746,7 +33907,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -33776,7 +33938,7 @@
                 "lines": [
                   {
                     "id": "recO41p1XzXKmzkak",
-                    "reference": "Set 16 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Une tortue mécontent avec",
                     "translation": "A Tortoise, discontented with",
@@ -33785,11 +33947,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recXUlvDZey6yFWEN",
-                    "reference": "Set 16 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "sa vie misérable et envieuse",
                     "translation": "a lowly life and envious",
@@ -33798,11 +33961,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "rec5wSP0zAdMWHCyg",
-                    "reference": "Set 16 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "des oiseaux qu'elle voyait s'amuser",
                     "translation": "of the birds that he saw enjoying themselves",
@@ -33811,11 +33975,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recINHROFAmlbElmA",
-                    "reference": "Set 17 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "en air,",
                     "translation": "in the air,",
@@ -33824,11 +33989,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recz2NuhwhlJEW5Co",
-                    "reference": "Set 17 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "a supplié un aigle",
                     "translation": "begged an Eagle",
@@ -33837,11 +34003,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recf4mGH9LMEEv9ok",
-                    "reference": "Set 17 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "de lui apprendre à voler.",
                     "translation": "to teach him to fly.",
@@ -33850,11 +34017,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recSPok8HMzBIztKO",
-                    "reference": "Set 18 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "L'aigle a protesté qu'il était vain pour lui d'essayer,",
                     "translation": "The Eagle protested that it was idle for him to try,",
@@ -33863,11 +34031,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recSidWzNkU4Uof16",
-                    "reference": "Set 18 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "comme la nature ne l'avait pas doté d'ailes",
                     "translation": "as nature had not provided him with wings;",
@@ -33876,11 +34045,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recxO1CcVvpbLwu6r",
-                    "reference": "Set 18 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "mais la Tortue l'a pressé de prières et de promesses de trésor,",
                     "translation": "but the Tortoise pressed him with entreaties and promises of treasure,",
@@ -33889,11 +34059,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recOUPTZq7KkE1dOZ",
-                    "reference": "Set 18 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "en insistant que ce n'était qu'une question d'",
                     "translation": "insisting that it could only be a question of",
@@ -33902,11 +34073,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "reccnoAKfWOj885iA",
-                    "reference": "Set 19 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "apprendre l'art du pilotage.",
                     "translation": "learning the craft of the air.",
@@ -33915,11 +34087,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "rec5vEk9HlvzS61LN",
-                    "reference": "Set 19 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
@@ -33928,11 +34101,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recG6QYoMBdWU8P0C",
-                    "reference": "Set 19 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "à faire le mieux qu'il pourrait pour lui",
                     "translation": "to do the best he could for him",
@@ -33941,11 +34115,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recWIBrDYfIrKO0xB",
-                    "reference": "Set 19 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "et l'a pris par ses serres.",
                     "translation": "and picked him up in his talons.",
@@ -33954,11 +34129,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recL0DKvnUDHeqXbj",
-                    "reference": "Set 20 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "De s'envoler avec lui à une grande hauteur dans le ciel",
                     "translation": "Soaring with him to a great height in the sky",
@@ -33967,11 +34143,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recP6mU0whAN7Fdgx",
-                    "reference": "Set 20 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "puis il l'a laché",
                     "translation": "he then let him go,",
@@ -33980,11 +34157,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recbRDFhCmPEIbjAp",
-                    "reference": "Set 20 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "et la miserable Tortue",
                     "translation": "and the wretched Tortoise",
@@ -33993,11 +34171,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recHeHiMVVVzyDOvE",
-                    "reference": "Set 20 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "est tombée la tete la premiere dans la mer.",
                     "translation": "fell headlong into the sea.",
@@ -34006,7 +34185,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 18
                   }
                 ]
               },
@@ -34034,7 +34214,7 @@
                 "lines": [
                   {
                     "id": "recmbIePWfLgZRtIK",
-                    "reference": "Set 26 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un loup a rencontré un agneau",
                     "translation": "A wolf came upon a Lamb",
@@ -34043,11 +34223,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recncylySWDq2VvRs",
-                    "reference": "Set 26 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "qui s'éloignait du troupeau",
                     "translation": "straying from the flock",
@@ -34056,11 +34237,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recKQdkXAB7ByNdZ1",
-                    "reference": "Set 26 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "et éprouvait une certaine réticence à propos de",
                     "translation": "and felt some reluctance about",
@@ -34069,11 +34251,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recMjfTVj5Shw34KP",
-                    "reference": "Set 26 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "l'idée de prendre la vie d'une créature impuissante.",
                     "translation": "taking the life of the helpless creature",
@@ -34082,11 +34265,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec2PuZRBIo2cEP5c",
-                    "reference": "Set 27 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "sans une raison plausible.",
                     "translation": "without some plausible excuse.",
@@ -34095,11 +34279,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recSd4xWB9KJCO1e6",
-                    "reference": "Set 27 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "Il cherche donc un prétexte et dit finalement,",
                     "translation": "So he cast about for a grievance and said at last,",
@@ -34108,11 +34293,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec0ojzMdCaCK5z0O",
-                    "reference": "Set 27 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "\"L'année dernière, monsieur, vous m'avez insulté gravement.\"",
                     "translation": "\"Last year, sir, you grossly insulted me.\"",
@@ -34121,11 +34307,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recCP47hCcdPUiVZR",
-                    "reference": "Set 28 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "\"C'est impossible, monsieur.\" l'agneau a bêlé,",
                     "translation": "\"That is impossible, sir.\" bleated the Lamb,",
@@ -34134,11 +34321,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rec2swG3o81oDCHpL",
-                    "reference": "Set 28 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "\"car je n'étais pas encore né.\"",
                     "translation": "\"for I wasn't born then.\"",
@@ -34147,11 +34335,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recCNmRIkzpqYsfE9",
-                    "reference": "Set 28 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "\"Eh bien,\" rétorquait le Loup, \"tu te nourris dans mes prés.\"",
                     "translation": "\"Well,\" retorted the Wolf, \"you feed in my pastures.\"",
@@ -34160,11 +34349,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec4ZXfDzpRH3phlz",
-                    "reference": "Set 29 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "\"Ce n'est pas possible,\" a répondu l'agneau,",
                     "translation": "\"That cannot be,\" replied the Lamb,",
@@ -34173,11 +34363,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recXQneoGTyWcRtiY",
-                    "reference": "Set 29 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "\"Car je n'ai jamais rien bu mis à part le lait de ma mère.\"",
                     "translation": "\"For I have never yet drunk anything by my mother's milk.\"",
@@ -34186,11 +34377,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recja84PFBDuclt7u",
-                    "reference": "Set 29 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "\"Enfin bref,\" dit le loup,",
                     "translation": "\"Well anyhow,\" said the Wolf,",
@@ -34199,11 +34391,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recDI6LDiLzWHTaZ4",
-                    "reference": "Set 30 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "\"Je n'y vais pas sans mon repas,\"",
                     "translation": "\"I'm not going without my dinner,\"",
@@ -34212,11 +34405,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recnCtKv5IKbOL1iL",
-                    "reference": "Set 30 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "et il a sauté sur l'agneau",
                     "translation": "and he sprang upon the Lamb",
@@ -34225,11 +34419,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recfkmAYYjpfbjdnM",
-                    "reference": "Set 30 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "et l'a dévoré sans plus de cérémonie.",
                     "translation": "and devoured it without more ado.",
@@ -34238,7 +34433,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 0,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 16
                   }
                 ]
               }

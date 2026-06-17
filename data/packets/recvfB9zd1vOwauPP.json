@@ -380,7 +380,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recyBq4vTjXU9fX13.pdf"
                 },
                 {
-                  "text": "VideoL1",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
@@ -502,7 +502,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recHUPSSkoa5pWAqp.pdf"
                 },
                 {
-                  "text": "VideoL2",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
@@ -624,7 +624,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recA2DHjqQEBw5IFU.pdf"
                 },
                 {
-                  "text": "VideoL3",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 },
                 {
@@ -746,7 +746,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec8YRUiYxzqaenui.pdf"
                 },
                 {
-                  "text": "VideoL4",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 },
                 {
@@ -876,11 +876,11 @@
                   "url": "https://www.youtube.com/watch?v=ARJB0f5K1%3C/em%3E0"
                 },
                 {
-                  "text": "VideoR1",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
-                  "text": "VideoR2",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 }
               ],
@@ -22258,7 +22258,7 @@
                 "lines": [
                   {
                     "id": "rec3Qq3QtGQjvMbnV",
-                    "reference": "Set 11 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un burro encontró la piel",
                     "translation": "A donkey found the skin",
@@ -22267,11 +22267,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recT92vmzEJ0rjmx1",
-                    "reference": "Set 11 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "de un león y se la puso.",
                     "translation": "from a lion and put it on.",
@@ -22280,11 +22281,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recF0PC8LKdkZ4XJ5",
-                    "reference": "Set 11 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "Comenzó a asustar a todos los",
                     "translation": "He began to frighten everyone",
@@ -22293,11 +22295,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recAWbICyYqmsRERE",
-                    "reference": "Set 12 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "que encontraba, ya que todos lo",
                     "translation": "that I found, since everyone",
@@ -22306,11 +22309,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec83LRUmvu5bA745",
-                    "reference": "Set 12 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "tomaban por un león, tanto hombres",
                     "translation": "They mistook it for a lion, both men",
@@ -22319,11 +22323,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "rec7lkir76PL4CnuP",
-                    "reference": "Set 12 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "como bestias, y salían corriendo",
                     "translation": "like beasts, and they ran away",
@@ -22332,11 +22337,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recFmkppNKMPYOUV5",
-                    "reference": "Set 13 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "cuando lo veían acercarse.",
                     "translation": "when they saw him approaching.",
@@ -22345,11 +22351,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recqzo0vXJ9DUkGLD",
-                    "reference": "Set 13 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "Eufórico por el éxito de su truco,",
                     "translation": "Euphoric at the success of his trick,",
@@ -22358,11 +22365,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recM0Hk7UrqQRwgAK",
-                    "reference": "Set 13 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "Rebuznó ruidosamente en triunfo.",
                     "translation": "He brayed loudly in triumph.",
@@ -22371,11 +22379,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "rec7a6HRvbKFBuVEm",
-                    "reference": "Set 14 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "El zorro lo escuchó y lo reconoció",
                     "translation": "The fox heard him and recognized him.",
@@ -22384,11 +22393,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec8qvWH8Ba4IwZqr",
-                    "reference": "Set 14 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "de inmediato como el burro",
                     "translation": "immediately, like a donkey",
@@ -22397,11 +22407,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recvITMVFM6BJOX7D",
-                    "reference": "Set 14 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "que era, y  le dijo:",
                     "translation": "who it was, and said to him:",
@@ -22410,11 +22421,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recCgRuRLj6lJpiZ3",
-                    "reference": "Set 14 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "Vaya, amigo mío, eres tú, ¿verdad?",
                     "translation": "Well, my friend, it's you, isn't it?",
@@ -22423,11 +22435,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recoFdc89hocl3iRg",
-                    "reference": "Set 15 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "Yo también me habría asustado",
                     "translation": "I would have been scared too.",
@@ -22436,11 +22449,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recBelaY8bSb5FoCz",
-                    "reference": "Set 15 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "Si no hubiera escuchado tu voz.",
                     "translation": "If I hadn't heard your voice.",
@@ -22449,11 +22463,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recS4ibEbxYFm0TzF",
-                    "reference": "Set 15 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "Ningún disfraz puede ocultar",
                     "translation": "No disguise can hide",
@@ -22462,11 +22477,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recKkjMH7jmn4ewN3",
-                    "reference": "Set 15 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "el verdadero carácter.",
                     "translation": "true character.",
@@ -22475,7 +22491,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 17
                   }
                 ]
               },
@@ -22503,7 +22520,7 @@
                 "lines": [
                   {
                     "id": "rechu1c9ExILS8z30",
-                    "reference": "Set 1 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un zorro hambriento vio unas",
                     "translation": "A hungry fox saw some",
@@ -22512,11 +22529,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recZ8j7uIdaV5GWWP",
-                    "reference": "Set 1 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "hermosas racimos de uvas",
                     "translation": "beautiful bunches of grapes",
@@ -22525,11 +22543,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recRLQd6mwLn7yKi9",
-                    "reference": "Set 1 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "colgando de una vid que estaba",
                     "translation": "hanging from a vine that was",
@@ -22538,51 +22557,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 1"
-                  },
-                  {
-                    "id": "recGRqApKzocoeTuJ",
-                    "reference": "Set 3 Line 4",
-                    "lineNumber": 4,
-                    "sentence": "en vano porque las uvas",
-                    "translation": "in vain because the grapes",
-                    "label": "Spanish Story Lines - Set 3 # 7",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 7,
-                    "set": "Set 3"
-                  },
-                  {
-                    "id": "rec6hgEqKJr3uAAeR",
-                    "reference": "Set 3 Line 5",
-                    "lineNumber": 5,
-                    "sentence": "estaban fuera de su alcance.",
-                    "translation": "were beyond his reach.",
-                    "label": "Spanish Story Lines - Set 3 # 8",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 8,
-                    "set": "Set 3"
-                  },
-                  {
-                    "id": "recq8DTuLJ0J1vE3g",
-                    "reference": "Set 3 Line 6",
-                    "lineNumber": 6,
-                    "sentence": "Después de un rato, dejó de",
-                    "translation": "After a while, he stopped",
-                    "label": "Spanish Story Lines - Set 3 # 9",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 9,
-                    "set": "Set 3"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recm3xhDv1hS8mZGT",
-                    "reference": "Set 2 Line 7",
-                    "lineNumber": 7,
+                    "reference": "Line 4",
+                    "lineNumber": 4,
                     "sentence": "enredada en un árbol alto e hizo",
                     "translation": "tangled in a tall tree and did",
                     "label": "Spanish Story Lines - Set 2 # 4",
@@ -22590,12 +22571,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec9H68edxtbZ6IA2",
-                    "reference": "Set 2 Line 8",
-                    "lineNumber": 8,
+                    "reference": "Line 5",
+                    "lineNumber": 5,
                     "sentence": "todo lo posible por alcanzarlas.",
                     "translation": "everything possible to reach them.",
                     "label": "Spanish Story Lines - Set 2 # 5",
@@ -22603,12 +22585,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recx06EF3x4NvguUf",
-                    "reference": "Set 2 Line 9",
-                    "lineNumber": 9,
+                    "reference": "Line 6",
+                    "lineNumber": 6,
                     "sentence": "Saltó una y otra vez, pero fue",
                     "translation": "He jumped again and again, but it was",
                     "label": "Spanish Story Lines - Set 2 # 6",
@@ -22616,11 +22599,54 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 9
+                  },
+                  {
+                    "id": "recGRqApKzocoeTuJ",
+                    "reference": "Line 7",
+                    "lineNumber": 7,
+                    "sentence": "en vano porque las uvas",
+                    "translation": "in vain because the grapes",
+                    "label": "Spanish Story Lines - Set 3 # 7",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 7,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 4
+                  },
+                  {
+                    "id": "rec6hgEqKJr3uAAeR",
+                    "reference": "Line 8",
+                    "lineNumber": 8,
+                    "sentence": "estaban fuera de su alcance.",
+                    "translation": "were beyond his reach.",
+                    "label": "Spanish Story Lines - Set 3 # 8",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 8,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 5
+                  },
+                  {
+                    "id": "recq8DTuLJ0J1vE3g",
+                    "reference": "Line 9",
+                    "lineNumber": 9,
+                    "sentence": "Después de un rato, dejó de",
+                    "translation": "After a while, he stopped",
+                    "label": "Spanish Story Lines - Set 3 # 9",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 9,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec3G8UGpSYqNCfLZ",
-                    "reference": "Set 4 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "intentarlo y se alejó con aire",
                     "translation": "trying and walked away with an air",
@@ -22629,11 +22655,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recEEZYGWCTze6p6Y",
-                    "reference": "Set 4 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "de dignidad y despreocupación,",
                     "translation": "of dignity and nonchalance,",
@@ -22642,11 +22669,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recJBKCVmIK2hkVsa",
-                    "reference": "Set 4 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "diciendo: - Pensé que esas uvas",
                     "translation": "saying: - I thought those grapes",
@@ -22655,11 +22683,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recycqp7Mgy3uBG4s",
-                    "reference": "Set 5 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "estaban maduras, pero ahora veo",
                     "translation": "were ripe, but now I see",
@@ -22668,11 +22697,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recVeCIlA7ERRooZZ",
-                    "reference": "Set 5 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "que están bastante agrias.-",
                     "translation": "they are quite sour.",
@@ -22681,25 +22711,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 5"
-                  },
-                  {
-                    "id": "recua4IohMUBVKW8G",
-                    "reference": "Set 5 Line 15",
-                    "lineNumber": 15,
-                    "sentence": "no se puede conseguir.",
-                    "translation": "cannot be obtained.",
-                    "label": "Spanish Story Lines - Set 5 # 16",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 16,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recWVfVuwxVn88ESb",
-                    "reference": "Set 5 Line 16",
-                    "lineNumber": 16,
+                    "reference": "Line 15",
+                    "lineNumber": 15,
                     "sentence": "Es fácil despreciar lo que",
                     "translation": "It's easy to despise what",
                     "label": "Spanish Story Lines - Set 5 # 15",
@@ -22707,7 +22725,22 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 16
+                  },
+                  {
+                    "id": "recua4IohMUBVKW8G",
+                    "reference": "Line 16",
+                    "lineNumber": 16,
+                    "sentence": "no se puede conseguir.",
+                    "translation": "cannot be obtained.",
+                    "label": "Spanish Story Lines - Set 5 # 16",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 16,
+                    "set": "Set 5",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -22742,7 +22775,7 @@
                 "lines": [
                   {
                     "id": "rec15t0I39PYcxINi",
-                    "reference": "Set 26 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un lobo encontró a un cordero",
                     "translation": "A wolf found a lamb",
@@ -22751,11 +22784,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rechZDSO0sDm57CXl",
-                    "reference": "Set 26 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "que se había extraviado del rebaño",
                     "translation": "that had strayed from the flock",
@@ -22764,11 +22798,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recyFFlJtpSRcAX4Y",
-                    "reference": "Set 26 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sintió cierta reticencia sobre quitar",
                     "translation": "he felt a certain reluctance to take",
@@ -22777,11 +22812,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recmgx1FtFfWzZmcc",
-                    "reference": "Set 26 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "la vida a una criatura tan indefensa",
                     "translation": "the life of such a defenseless creature",
@@ -22790,11 +22826,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec4TYUbMcrbjLCtt",
-                    "reference": "Set 27 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "sin alguna excusa plausible.",
                     "translation": "without any plausible excuse.",
@@ -22803,11 +22840,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recGIm1JjofGd0Mfp",
-                    "reference": "Set 27 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "Entonces le dijo:",
                     "translation": "So he said to him:",
@@ -22816,11 +22854,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "reci5XgcVWN5TxWrW",
-                    "reference": "Set 27 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "-¿Recuerdas cómo me insultaste el año pasado?",
                     "translation": "-Do you remember how you insulted me last year?",
@@ -22829,11 +22868,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recGLiAjqZHVSQtsG",
-                    "reference": "Set 27 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "El cordero replico:",
                     "translation": "The lamb replied:",
@@ -22842,11 +22882,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reccVwjDMjSyeUemH",
-                    "reference": "Set 28 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "-Disculpe, pero eso no es posible porque",
                     "translation": "-Excuse me, but that's not possible because",
@@ -22855,51 +22896,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "reccOug4dCjcRLs1L",
-                    "reference": "Set 28 Line 10",
-                    "lineNumber": 10,
-                    "sentence": "-Bueno-objetó el lobo-,",
-                    "translation": "\"Well,\" objected the wolf,",
-                    "label": "Spanish Story Lines - Set 28 # 11",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 11,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "recF1FlabCT5HLCY9",
-                    "reference": "Set 28 Line 11",
-                    "lineNumber": 11,
-                    "sentence": "te alimentas en mis pastizales.",
-                    "translation": "\"You feed in my pastures.\"",
-                    "label": "Spanish Story Lines - Set 28 # 12",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 12,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "recmX8CTCpEi93yG9",
-                    "reference": "Set 28 Line 12",
-                    "lineNumber": 12,
-                    "sentence": "-Eso no puede ser-respondió el cordero-,",
-                    "translation": "\"That can't be,\" replied the lamb,",
-                    "label": "Spanish Story Lines - Set 28 # 13",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 13,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recYoLIzIEwGX496U",
-                    "reference": "Set 28 Line 13",
-                    "lineNumber": 13,
+                    "reference": "Line 10",
+                    "lineNumber": 10,
                     "sentence": "el año pasado yo todavía no había nacido.",
                     "translation": "last year I hadn't been born yet.",
                     "label": "Spanish Story Lines - Set 28 # 10",
@@ -22907,11 +22910,54 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 13
+                  },
+                  {
+                    "id": "reccOug4dCjcRLs1L",
+                    "reference": "Line 11",
+                    "lineNumber": 11,
+                    "sentence": "-Bueno-objetó el lobo-,",
+                    "translation": "\"Well,\" objected the wolf,",
+                    "label": "Spanish Story Lines - Set 28 # 11",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 11,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 10
+                  },
+                  {
+                    "id": "recF1FlabCT5HLCY9",
+                    "reference": "Line 12",
+                    "lineNumber": 12,
+                    "sentence": "te alimentas en mis pastizales.",
+                    "translation": "\"You feed in my pastures.\"",
+                    "label": "Spanish Story Lines - Set 28 # 12",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 12,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 11
+                  },
+                  {
+                    "id": "recmX8CTCpEi93yG9",
+                    "reference": "Line 13",
+                    "lineNumber": 13,
+                    "sentence": "-Eso no puede ser-respondió el cordero-,",
+                    "translation": "\"That can't be,\" replied the lamb,",
+                    "label": "Spanish Story Lines - Set 28 # 13",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 13,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec6NEhOukoyn3rcw",
-                    "reference": "Set 29 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "porque nunca he probado la hierba.",
                     "translation": "“because I've never tried the herb.”",
@@ -22920,11 +22966,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recMPfvs9kJEzEep2",
-                    "reference": "Set 29 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "-Entonces bebes de mi manantial-continuó el lobo.",
                     "translation": "\"Then you drink from my spring,\" continued the wolf.",
@@ -22933,11 +22980,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "rechajW3pjqzDyc2a",
-                    "reference": "Set 29 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "-De hecho, señor-dijo el pobre cordero-,",
                     "translation": "\"In fact, sir,\" said the poor lamb,",
@@ -22946,11 +22994,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recXK2jUTXpy2bMl9",
-                    "reference": "Set 29 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "hasta el día de hoy, solo he",
                     "translation": "“To this day, I have only",
@@ -22959,11 +23008,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recI2TNdZ9GbfE4Y6",
-                    "reference": "Set 29 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "bebido la leche de mi madre.",
                     "translation": "drank my mother's milk.”",
@@ -22972,11 +23022,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 18
                   },
                   {
                     "id": "rec3bWhROkFPn0zGR",
-                    "reference": "Set 30 Line 19",
+                    "reference": "Line 19",
                     "lineNumber": 19,
                     "sentence": "-Bueno, de todos modo-dijo el lobo-,",
                     "translation": "\"Well, anyway,\" said the wolf,",
@@ -22985,11 +23036,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 19,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 19
                   },
                   {
                     "id": "rec7ZzD1qfE7yvq5D",
-                    "reference": "Set 30 Line 20",
+                    "reference": "Line 20",
                     "lineNumber": 20,
                     "sentence": "no me quedaré sin mi cena.",
                     "translation": "“I won't go without my dinner.”",
@@ -22998,11 +23050,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 20,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 20
                   },
                   {
                     "id": "recDUTmT3m70sdgUs",
-                    "reference": "Set 30 Line 21",
+                    "reference": "Line 21",
                     "lineNumber": 21,
                     "sentence": "Se lanzó sobre el cordero",
                     "translation": "He pounced on the lamb",
@@ -23011,11 +23064,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 21,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 21
                   },
                   {
                     "id": "recvpa8RYFsjBdQnI",
-                    "reference": "Set 30 Line 22",
+                    "reference": "Line 22",
                     "lineNumber": 22,
                     "sentence": "y lo devoró ensequida.",
                     "translation": "and devoured him right away.",
@@ -23024,11 +23078,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 22,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 22
                   },
                   {
                     "id": "recX63xqF4TloIYqM",
-                    "reference": "Set 30 Line 23",
+                    "reference": "Line 23",
                     "lineNumber": 23,
                     "sentence": "Las palabras engañosas fácilmente salen a la luz.",
                     "translation": "Deceptive words easily come to light.",
@@ -23037,7 +23092,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 23,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 23
                   }
                 ]
               },
@@ -23065,7 +23121,7 @@
                 "lines": [
                   {
                     "id": "recdfDXySiS12fWjn",
-                    "reference": "Set 6 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un lobo decidió disfrazarse para poder",
                     "translation": "A wolf decided to disguise himself so he could",
@@ -23074,11 +23130,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recd09VhsvrV9fiWF",
-                    "reference": "Set 6 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "atacar a un rebaño de ovejas",
                     "translation": "attack a flock of sheep",
@@ -23087,11 +23144,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recTpN2l2dv8dKuwt",
-                    "reference": "Set 6 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sin temor de que lo descubrieran,",
                     "translation": "without fear of being discovered,",
@@ -23100,11 +23158,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recMWpnbEBGW5qx3b",
-                    "reference": "Set 7 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "así que se cubrió con la piel",
                     "translation": "So he covered himself with skin",
@@ -23113,11 +23172,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recgP4NeadUzbo6UC",
-                    "reference": "Set 7 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "de una oveja y se mezcló",
                     "translation": "from a sheep and mingled",
@@ -23126,11 +23186,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recq2YIIjGF7DuCQq",
-                    "reference": "Set 7 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "con el rebaño mientras pastaban.",
                     "translation": "with the flock while they grazed.",
@@ -23139,11 +23200,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recDQK6G30TFIhW8A",
-                    "reference": "Set 8 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Engaño al pastor por completo",
                     "translation": "He completely deceived the sheperd",
@@ -23152,11 +23214,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recahIsJdcHzWvDPV",
-                    "reference": "Set 8 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "y cuando el rebaño fue encerrado",
                     "translation": "And when the flock was penned up",
@@ -23165,11 +23228,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reck606Fs6xBzN3fG",
-                    "reference": "Set 8 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "por la noche, él quedó adentro",
                     "translation": "That night, he stayed inside",
@@ -23178,11 +23242,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recnjHgNb1BXslJtV",
-                    "reference": "Set 9 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "con las ovejas.",
                     "translation": "with the sheep.",
@@ -23191,11 +23256,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec62wbMJOfGMcOtV",
-                    "reference": "Set 9 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Esa misma noche el pastor,",
                     "translation": "That same night the sheperd,",
@@ -23204,11 +23270,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recXuttKhfhRXmGDj",
-                    "reference": "Set 9 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "que necesitaba carne para la cena,",
                     "translation": "who needed meat for dinner,",
@@ -23217,11 +23284,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec7RIFyUCTaB2qgm",
-                    "reference": "Set 10 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "puso sus manos sobre el lobo y,",
                     "translation": "laid his hands on the wolf and,",
@@ -23230,11 +23298,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recHaajSpljnNN7bL",
-                    "reference": "Set 10 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "creyendo que era una oveja,",
                     "translation": "believing it was a sheep,",
@@ -23243,11 +23312,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recjTZOCXw6giyJSi",
-                    "reference": "Set 10 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "sacó su cuchillo y lo mató en el acto.",
                     "translation": "pulled out his knife and killed him on the spot.",
@@ -23256,11 +23326,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recGN1DKnXENefNvn",
-                    "reference": "Set 10 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "El que daño busca, daño encuentra.",
                     "translation": "He who seeks harm, finds harm.",
@@ -23269,7 +23340,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 16
                   }
                 ]
               },
@@ -23302,7 +23374,7 @@
                 "lines": [
                   {
                     "id": "recyoj2Mkzzd8KX3x",
-                    "reference": "Set 21 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Dos cabras orgullosas se encontraron",
                     "translation": "Two proud goats met",
@@ -23311,11 +23383,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rec82PCpVc8yPC8HO",
-                    "reference": "Set 21 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "por casualidad en acantilados",
                     "translation": "by chance on cliffs",
@@ -23324,11 +23397,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recRvRLr91YA6Z4tG",
-                    "reference": "Set 21 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "opuestos de una alta cordillera.",
                     "translation": "opposites of a high mountain range.",
@@ -23337,11 +23411,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recZ6bqHL1EEZFRxj",
-                    "reference": "Set 21 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "Por debajo, entre las rocas del",
                     "translation": "Below, among the rocks of",
@@ -23350,11 +23425,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recHLZghPq5urGJ0M",
-                    "reference": "Set 22 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "valle, pasaba un río turbulento",
                     "translation": "the valley, flowed a river turbulent",
@@ -23363,11 +23439,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "rec8OJdUCvkICKfjk",
-                    "reference": "Set 22 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "y peligroso. El único puente para",
                     "translation": "and dangerous. The only bridge for",
@@ -23376,11 +23453,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recbEYgcVMvtAMXPN",
-                    "reference": "Set 22 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "cruzar el abismo era un árbol caído,",
                     "translation": "crossing the abyss was a fallen tree,",
@@ -23389,11 +23467,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recgOglLHGSp0aLmk",
-                    "reference": "Set 22 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "tan estrecho que dos ratones se",
                     "translation": "so narrow that two mice",
@@ -23402,11 +23481,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rec5DlPp4myfkFDoU",
-                    "reference": "Set 23 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "habrían asustado si hubieran intentado",
                     "translation": "would have been frightened if they had tried",
@@ -23415,11 +23495,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recEYNvlU53vX4aKb",
-                    "reference": "Set 23 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "cruzarlo al mismo tiempo.",
                     "translation": "to cross it at the same time.",
@@ -23428,11 +23509,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec4rFWxLkbIHOHOK",
-                    "reference": "Set 23 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Ambas cabras,testarudas, se sintieron",
                     "translation": "Both goats, stubborn, felt",
@@ -23441,11 +23523,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recRU5CfH9Wn8dOa1",
-                    "reference": "Set 23 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "con el derecho de cruzar primero.",
                     "translation": "with the right to cross first.",
@@ -23454,11 +23537,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec2pZTEdwqYNnlLN",
-                    "reference": "Set 24 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "Así que, poniendo una pezuña a la",
                     "translation": "So, putting a hoof at",
@@ -23467,11 +23551,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recTDQlqzmmQ3ECVX",
-                    "reference": "Set 24 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "vez, empezaron a caminar sobre el",
                     "translation": "a time, they began to walk on the",
@@ -23480,11 +23565,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recHCDM52jtBFkWor",
-                    "reference": "Set 24 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "delgado tronco hasta que se encontraron",
                     "translation": "thin trunk until they met",
@@ -23493,11 +23579,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recqGGjrOHp1zojz5",
-                    "reference": "Set 24 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "frente a frente en medio del puente.",
                     "translation": "face to face in the middle of the bridge.",
@@ -23506,11 +23593,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recSTC4P3ixDONwB5",
-                    "reference": "Set 25 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "Ninguna quiso ceder el paso,",
                     "translation": "Neither of them wanted to give way,",
@@ -23519,11 +23607,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "reccH8EzvSDlMOrvM",
-                    "reference": "Set 25 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "y al final, ambas cayeron de",
                     "translation": "and in the end, both fell",
@@ -23532,11 +23621,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 18
                   },
                   {
                     "id": "rec1KkhaG6GDEisM4",
-                    "reference": "Set 25 Line 19",
+                    "reference": "Line 19",
                     "lineNumber": 19,
                     "sentence": "cabeza a las rugientes aguas.",
                     "translation": "headfirst into the roaring waters.",
@@ -23545,11 +23635,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 19,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 19
                   },
                   {
                     "id": "recerhSpIIcwhJNkL",
-                    "reference": "Set 25 Line 20",
+                    "reference": "Line 20",
                     "lineNumber": 20,
                     "sentence": "Es mejor ceder que caer en",
                     "translation": "It is better to give in than to fall into",
@@ -23558,11 +23649,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 20,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 20
                   },
                   {
                     "id": "recFqgQZQW37IU01t",
-                    "reference": "Set 25 Line 21",
+                    "reference": "Line 21",
                     "lineNumber": 21,
                     "sentence": "la desgracia por terquedad.",
                     "translation": "misfortune out of stubbornness.",
@@ -23571,7 +23663,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 21,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 21
                   }
                 ]
               },
@@ -23601,7 +23694,7 @@
                 "lines": [
                   {
                     "id": "recJFJisyhKx0gIDk",
-                    "reference": "Set 16 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Una tortuga, descontenta con su",
                     "translation": "A turtle, unhappy with its",
@@ -23610,11 +23703,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rec3uLU39AjVQZL3q",
-                    "reference": "Set 16 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "humilde vida y envidiosa de los",
                     "translation": "humble life and envious of the",
@@ -23623,11 +23717,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "rechEfOFuQQPLyvAV",
-                    "reference": "Set 16 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "pájaros que veía disfrutar en el aire,",
                     "translation": "birds that he saw enjoying themselves in the air",
@@ -23636,11 +23731,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recgkAs7Q9eynzrrk",
-                    "reference": "Set 17 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "rogó a un águila que le enseñara",
                     "translation": "begged an eagle to teach him",
@@ -23649,11 +23745,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recDOdU2JDXOg2whr",
-                    "reference": "Set 17 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "a volar. El águila le dijo que era inútil",
                     "translation": "to fly. The eagle told him it was useless",
@@ -23662,11 +23759,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "reca0Y08u1Lp3dAAs",
-                    "reference": "Set 17 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "intentarlo, ya que la naturaleza no le",
                     "translation": "trying it, since nature hadn´t",
@@ -23675,11 +23773,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec3LsbRrHmLnvZYz",
-                    "reference": "Set 18 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "había dado alas; pero la tortuga insistió",
                     "translation": "given him wings; but the turtle insisted",
@@ -23688,11 +23787,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec9nTdx5kcnekDAN",
-                    "reference": "Set 18 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "con ruegos y promesas de tesoros,",
                     "translation": "with entreaties and promises of treasures,",
@@ -23701,11 +23801,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recP4HcKPkrdg26WP",
-                    "reference": "Set 18 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "convencida de que solo era",
                     "translation": "convinced that it was only",
@@ -23714,11 +23815,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recUTWUHqeYHlzUyC",
-                    "reference": "Set 18 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "cuestión de aprender el arte de volar.",
                     "translation": "question to learn the art of flying.",
@@ -23727,11 +23829,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recWFZjySyuz3cVn9",
-                    "reference": "Set 19 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Finalmente, el águila accedió a hacer",
                     "translation": "Finally, the eagle agreed to do it",
@@ -23740,11 +23843,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recKJx0jZwFcZXxnB",
-                    "reference": "Set 19 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "lo mejor que pudiera y la tomó",
                     "translation": "as best he could and took it",
@@ -23753,11 +23857,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recfFQUnEWnM5dvtr",
-                    "reference": "Set 19 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "entre sus garras. Se elevó con ella",
                     "translation": "between her claws. She rose with his",
@@ -23766,11 +23871,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "rec9kWJr3ikx5pDi7",
-                    "reference": "Set 19 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "hasta una gran altura en el cielo,",
                     "translation": "to a great height in the sky,",
@@ -23779,11 +23885,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recdbFhtFjOwn584q",
-                    "reference": "Set 20 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "la soltó y la desdichada tortuga",
                     "translation": "He let go of her, and the unfortunate turtle...",
@@ -23792,11 +23899,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recxqAXefaGJsbxoO",
-                    "reference": "Set 20 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "cayó de cabeza al mar.",
                     "translation": "fell headfirst into the sea.",
@@ -23805,11 +23913,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recoAyftsHS8EcQ5b",
-                    "reference": "Set 20 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "Si los hombres obtuvieron todo lo",
                     "translation": "If men got everything",
@@ -23818,11 +23927,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recbFWnTrHjhua5zF",
-                    "reference": "Set 20 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "que desearan, a menudo se arruinarían.",
                     "translation": "that they wished, they would quickly be ruined.",
@@ -23831,7 +23941,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 18
                   }
                 ]
               }
@@ -33209,7 +33320,7 @@
                 "lines": [
                   {
                     "id": "rec3Qq3QtGQjvMbnV",
-                    "reference": "Set 11 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un burro encontró la piel",
                     "translation": "A donkey found the skin",
@@ -33218,11 +33329,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recT92vmzEJ0rjmx1",
-                    "reference": "Set 11 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "de un león y se la puso.",
                     "translation": "from a lion and put it on.",
@@ -33231,11 +33343,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recF0PC8LKdkZ4XJ5",
-                    "reference": "Set 11 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "Comenzó a asustar a todos los",
                     "translation": "He began to frighten everyone",
@@ -33244,11 +33357,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 11"
+                    "set": "Set 11",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recAWbICyYqmsRERE",
-                    "reference": "Set 12 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "que encontraba, ya que todos lo",
                     "translation": "that I found, since everyone",
@@ -33257,11 +33371,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec83LRUmvu5bA745",
-                    "reference": "Set 12 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "tomaban por un león, tanto hombres",
                     "translation": "They mistook it for a lion, both men",
@@ -33270,11 +33385,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "rec7lkir76PL4CnuP",
-                    "reference": "Set 12 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "como bestias, y salían corriendo",
                     "translation": "like beasts, and they ran away",
@@ -33283,11 +33399,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 12"
+                    "set": "Set 12",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recFmkppNKMPYOUV5",
-                    "reference": "Set 13 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "cuando lo veían acercarse.",
                     "translation": "when they saw him approaching.",
@@ -33296,11 +33413,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recqzo0vXJ9DUkGLD",
-                    "reference": "Set 13 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "Eufórico por el éxito de su truco,",
                     "translation": "Euphoric at the success of his trick,",
@@ -33309,11 +33427,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recM0Hk7UrqQRwgAK",
-                    "reference": "Set 13 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "Rebuznó ruidosamente en triunfo.",
                     "translation": "He brayed loudly in triumph.",
@@ -33322,11 +33441,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 13"
+                    "set": "Set 13",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "rec7a6HRvbKFBuVEm",
-                    "reference": "Set 14 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "El zorro lo escuchó y lo reconoció",
                     "translation": "The fox heard him and recognized him.",
@@ -33335,11 +33455,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec8qvWH8Ba4IwZqr",
-                    "reference": "Set 14 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "de inmediato como el burro",
                     "translation": "immediately, like a donkey",
@@ -33348,11 +33469,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recvITMVFM6BJOX7D",
-                    "reference": "Set 14 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "que era, y  le dijo:",
                     "translation": "who it was, and said to him:",
@@ -33361,11 +33483,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recCgRuRLj6lJpiZ3",
-                    "reference": "Set 14 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "Vaya, amigo mío, eres tú, ¿verdad?",
                     "translation": "Well, my friend, it's you, isn't it?",
@@ -33374,11 +33497,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 14"
+                    "set": "Set 14",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recoFdc89hocl3iRg",
-                    "reference": "Set 15 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "Yo también me habría asustado",
                     "translation": "I would have been scared too.",
@@ -33387,11 +33511,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recBelaY8bSb5FoCz",
-                    "reference": "Set 15 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "Si no hubiera escuchado tu voz.",
                     "translation": "If I hadn't heard your voice.",
@@ -33400,11 +33525,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recS4ibEbxYFm0TzF",
-                    "reference": "Set 15 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "Ningún disfraz puede ocultar",
                     "translation": "No disguise can hide",
@@ -33413,11 +33539,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recKkjMH7jmn4ewN3",
-                    "reference": "Set 15 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "el verdadero carácter.",
                     "translation": "true character.",
@@ -33426,7 +33553,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 15"
+                    "set": "Set 15",
+                    "linkedRecordOrder": 17
                   }
                 ]
               },
@@ -33454,7 +33582,7 @@
                 "lines": [
                   {
                     "id": "rechu1c9ExILS8z30",
-                    "reference": "Set 1 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un zorro hambriento vio unas",
                     "translation": "A hungry fox saw some",
@@ -33463,11 +33591,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recZ8j7uIdaV5GWWP",
-                    "reference": "Set 1 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "hermosas racimos de uvas",
                     "translation": "beautiful bunches of grapes",
@@ -33476,11 +33605,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 1"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recRLQd6mwLn7yKi9",
-                    "reference": "Set 1 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "colgando de una vid que estaba",
                     "translation": "hanging from a vine that was",
@@ -33489,51 +33619,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 1"
-                  },
-                  {
-                    "id": "recGRqApKzocoeTuJ",
-                    "reference": "Set 3 Line 4",
-                    "lineNumber": 4,
-                    "sentence": "en vano porque las uvas",
-                    "translation": "in vain because the grapes",
-                    "label": "Spanish Story Lines - Set 3 # 7",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 7,
-                    "set": "Set 3"
-                  },
-                  {
-                    "id": "rec6hgEqKJr3uAAeR",
-                    "reference": "Set 3 Line 5",
-                    "lineNumber": 5,
-                    "sentence": "estaban fuera de su alcance.",
-                    "translation": "were beyond his reach.",
-                    "label": "Spanish Story Lines - Set 3 # 8",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 8,
-                    "set": "Set 3"
-                  },
-                  {
-                    "id": "recq8DTuLJ0J1vE3g",
-                    "reference": "Set 3 Line 6",
-                    "lineNumber": 6,
-                    "sentence": "Después de un rato, dejó de",
-                    "translation": "After a while, he stopped",
-                    "label": "Spanish Story Lines - Set 3 # 9",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 9,
-                    "set": "Set 3"
+                    "set": "Set 1",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recm3xhDv1hS8mZGT",
-                    "reference": "Set 2 Line 7",
-                    "lineNumber": 7,
+                    "reference": "Line 4",
+                    "lineNumber": 4,
                     "sentence": "enredada en un árbol alto e hizo",
                     "translation": "tangled in a tall tree and did",
                     "label": "Spanish Story Lines - Set 2 # 4",
@@ -33541,12 +33633,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec9H68edxtbZ6IA2",
-                    "reference": "Set 2 Line 8",
-                    "lineNumber": 8,
+                    "reference": "Line 5",
+                    "lineNumber": 5,
                     "sentence": "todo lo posible por alcanzarlas.",
                     "translation": "everything possible to reach them.",
                     "label": "Spanish Story Lines - Set 2 # 5",
@@ -33554,12 +33647,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recx06EF3x4NvguUf",
-                    "reference": "Set 2 Line 9",
-                    "lineNumber": 9,
+                    "reference": "Line 6",
+                    "lineNumber": 6,
                     "sentence": "Saltó una y otra vez, pero fue",
                     "translation": "He jumped again and again, but it was",
                     "label": "Spanish Story Lines - Set 2 # 6",
@@ -33567,11 +33661,54 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 2"
+                    "set": "Set 2",
+                    "linkedRecordOrder": 9
+                  },
+                  {
+                    "id": "recGRqApKzocoeTuJ",
+                    "reference": "Line 7",
+                    "lineNumber": 7,
+                    "sentence": "en vano porque las uvas",
+                    "translation": "in vain because the grapes",
+                    "label": "Spanish Story Lines - Set 3 # 7",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 7,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 4
+                  },
+                  {
+                    "id": "rec6hgEqKJr3uAAeR",
+                    "reference": "Line 8",
+                    "lineNumber": 8,
+                    "sentence": "estaban fuera de su alcance.",
+                    "translation": "were beyond his reach.",
+                    "label": "Spanish Story Lines - Set 3 # 8",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 8,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 5
+                  },
+                  {
+                    "id": "recq8DTuLJ0J1vE3g",
+                    "reference": "Line 9",
+                    "lineNumber": 9,
+                    "sentence": "Después de un rato, dejó de",
+                    "translation": "After a while, he stopped",
+                    "label": "Spanish Story Lines - Set 3 # 9",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 9,
+                    "set": "Set 3",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec3G8UGpSYqNCfLZ",
-                    "reference": "Set 4 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "intentarlo y se alejó con aire",
                     "translation": "trying and walked away with an air",
@@ -33580,11 +33717,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recEEZYGWCTze6p6Y",
-                    "reference": "Set 4 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "de dignidad y despreocupación,",
                     "translation": "of dignity and nonchalance,",
@@ -33593,11 +33731,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recJBKCVmIK2hkVsa",
-                    "reference": "Set 4 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "diciendo: - Pensé que esas uvas",
                     "translation": "saying: - I thought those grapes",
@@ -33606,11 +33745,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 4"
+                    "set": "Set 4",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recycqp7Mgy3uBG4s",
-                    "reference": "Set 5 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "estaban maduras, pero ahora veo",
                     "translation": "were ripe, but now I see",
@@ -33619,11 +33759,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recVeCIlA7ERRooZZ",
-                    "reference": "Set 5 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "que están bastante agrias.-",
                     "translation": "they are quite sour.",
@@ -33632,25 +33773,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 5"
-                  },
-                  {
-                    "id": "recua4IohMUBVKW8G",
-                    "reference": "Set 5 Line 15",
-                    "lineNumber": 15,
-                    "sentence": "no se puede conseguir.",
-                    "translation": "cannot be obtained.",
-                    "label": "Spanish Story Lines - Set 5 # 16",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 16,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recWVfVuwxVn88ESb",
-                    "reference": "Set 5 Line 16",
-                    "lineNumber": 16,
+                    "reference": "Line 15",
+                    "lineNumber": 15,
                     "sentence": "Es fácil despreciar lo que",
                     "translation": "It's easy to despise what",
                     "label": "Spanish Story Lines - Set 5 # 15",
@@ -33658,7 +33787,22 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 5"
+                    "set": "Set 5",
+                    "linkedRecordOrder": 16
+                  },
+                  {
+                    "id": "recua4IohMUBVKW8G",
+                    "reference": "Line 16",
+                    "lineNumber": 16,
+                    "sentence": "no se puede conseguir.",
+                    "translation": "cannot be obtained.",
+                    "label": "Spanish Story Lines - Set 5 # 16",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 16,
+                    "set": "Set 5",
+                    "linkedRecordOrder": 15
                   }
                 ]
               },
@@ -33693,7 +33837,7 @@
                 "lines": [
                   {
                     "id": "rec15t0I39PYcxINi",
-                    "reference": "Set 26 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un lobo encontró a un cordero",
                     "translation": "A wolf found a lamb",
@@ -33702,11 +33846,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rechZDSO0sDm57CXl",
-                    "reference": "Set 26 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "que se había extraviado del rebaño",
                     "translation": "that had strayed from the flock",
@@ -33715,11 +33860,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recyFFlJtpSRcAX4Y",
-                    "reference": "Set 26 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sintió cierta reticencia sobre quitar",
                     "translation": "he felt a certain reluctance to take",
@@ -33728,11 +33874,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recmgx1FtFfWzZmcc",
-                    "reference": "Set 26 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "la vida a una criatura tan indefensa",
                     "translation": "the life of such a defenseless creature",
@@ -33741,11 +33888,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 26"
+                    "set": "Set 26",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "rec4TYUbMcrbjLCtt",
-                    "reference": "Set 27 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "sin alguna excusa plausible.",
                     "translation": "without any plausible excuse.",
@@ -33754,11 +33902,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recGIm1JjofGd0Mfp",
-                    "reference": "Set 27 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "Entonces le dijo:",
                     "translation": "So he said to him:",
@@ -33767,11 +33916,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "reci5XgcVWN5TxWrW",
-                    "reference": "Set 27 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "-¿Recuerdas cómo me insultaste el año pasado?",
                     "translation": "-Do you remember how you insulted me last year?",
@@ -33780,11 +33930,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recGLiAjqZHVSQtsG",
-                    "reference": "Set 27 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "El cordero replico:",
                     "translation": "The lamb replied:",
@@ -33793,11 +33944,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 27"
+                    "set": "Set 27",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reccVwjDMjSyeUemH",
-                    "reference": "Set 28 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "-Disculpe, pero eso no es posible porque",
                     "translation": "-Excuse me, but that's not possible because",
@@ -33806,51 +33958,13 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "reccOug4dCjcRLs1L",
-                    "reference": "Set 28 Line 10",
-                    "lineNumber": 10,
-                    "sentence": "-Bueno-objetó el lobo-,",
-                    "translation": "\"Well,\" objected the wolf,",
-                    "label": "Spanish Story Lines - Set 28 # 11",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 11,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "recF1FlabCT5HLCY9",
-                    "reference": "Set 28 Line 11",
-                    "lineNumber": 11,
-                    "sentence": "te alimentas en mis pastizales.",
-                    "translation": "\"You feed in my pastures.\"",
-                    "label": "Spanish Story Lines - Set 28 # 12",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 12,
-                    "set": "Set 28"
-                  },
-                  {
-                    "id": "recmX8CTCpEi93yG9",
-                    "reference": "Set 28 Line 12",
-                    "lineNumber": 12,
-                    "sentence": "-Eso no puede ser-respondió el cordero-,",
-                    "translation": "\"That can't be,\" replied the lamb,",
-                    "label": "Spanish Story Lines - Set 28 # 13",
-                    "language": "Spanish",
-                    "sentenceType": "Story Lines",
-                    "type": "Literature",
-                    "sequence": 13,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recYoLIzIEwGX496U",
-                    "reference": "Set 28 Line 13",
-                    "lineNumber": 13,
+                    "reference": "Line 10",
+                    "lineNumber": 10,
                     "sentence": "el año pasado yo todavía no había nacido.",
                     "translation": "last year I hadn't been born yet.",
                     "label": "Spanish Story Lines - Set 28 # 10",
@@ -33858,11 +33972,54 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 28"
+                    "set": "Set 28",
+                    "linkedRecordOrder": 13
+                  },
+                  {
+                    "id": "reccOug4dCjcRLs1L",
+                    "reference": "Line 11",
+                    "lineNumber": 11,
+                    "sentence": "-Bueno-objetó el lobo-,",
+                    "translation": "\"Well,\" objected the wolf,",
+                    "label": "Spanish Story Lines - Set 28 # 11",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 11,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 10
+                  },
+                  {
+                    "id": "recF1FlabCT5HLCY9",
+                    "reference": "Line 12",
+                    "lineNumber": 12,
+                    "sentence": "te alimentas en mis pastizales.",
+                    "translation": "\"You feed in my pastures.\"",
+                    "label": "Spanish Story Lines - Set 28 # 12",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 12,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 11
+                  },
+                  {
+                    "id": "recmX8CTCpEi93yG9",
+                    "reference": "Line 13",
+                    "lineNumber": 13,
+                    "sentence": "-Eso no puede ser-respondió el cordero-,",
+                    "translation": "\"That can't be,\" replied the lamb,",
+                    "label": "Spanish Story Lines - Set 28 # 13",
+                    "language": "Spanish",
+                    "sentenceType": "Story Lines",
+                    "type": "Literature",
+                    "sequence": 13,
+                    "set": "Set 28",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec6NEhOukoyn3rcw",
-                    "reference": "Set 29 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "porque nunca he probado la hierba.",
                     "translation": "“because I've never tried the herb.”",
@@ -33871,11 +34028,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recMPfvs9kJEzEep2",
-                    "reference": "Set 29 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "-Entonces bebes de mi manantial-continuó el lobo.",
                     "translation": "\"Then you drink from my spring,\" continued the wolf.",
@@ -33884,11 +34042,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "rechajW3pjqzDyc2a",
-                    "reference": "Set 29 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "-De hecho, señor-dijo el pobre cordero-,",
                     "translation": "\"In fact, sir,\" said the poor lamb,",
@@ -33897,11 +34056,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recXK2jUTXpy2bMl9",
-                    "reference": "Set 29 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "hasta el día de hoy, solo he",
                     "translation": "“To this day, I have only",
@@ -33910,11 +34070,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recI2TNdZ9GbfE4Y6",
-                    "reference": "Set 29 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "bebido la leche de mi madre.",
                     "translation": "drank my mother's milk.”",
@@ -33923,11 +34084,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 29"
+                    "set": "Set 29",
+                    "linkedRecordOrder": 18
                   },
                   {
                     "id": "rec3bWhROkFPn0zGR",
-                    "reference": "Set 30 Line 19",
+                    "reference": "Line 19",
                     "lineNumber": 19,
                     "sentence": "-Bueno, de todos modo-dijo el lobo-,",
                     "translation": "\"Well, anyway,\" said the wolf,",
@@ -33936,11 +34098,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 19,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 19
                   },
                   {
                     "id": "rec7ZzD1qfE7yvq5D",
-                    "reference": "Set 30 Line 20",
+                    "reference": "Line 20",
                     "lineNumber": 20,
                     "sentence": "no me quedaré sin mi cena.",
                     "translation": "“I won't go without my dinner.”",
@@ -33949,11 +34112,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 20,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 20
                   },
                   {
                     "id": "recDUTmT3m70sdgUs",
-                    "reference": "Set 30 Line 21",
+                    "reference": "Line 21",
                     "lineNumber": 21,
                     "sentence": "Se lanzó sobre el cordero",
                     "translation": "He pounced on the lamb",
@@ -33962,11 +34126,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 21,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 21
                   },
                   {
                     "id": "recvpa8RYFsjBdQnI",
-                    "reference": "Set 30 Line 22",
+                    "reference": "Line 22",
                     "lineNumber": 22,
                     "sentence": "y lo devoró ensequida.",
                     "translation": "and devoured him right away.",
@@ -33975,11 +34140,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 22,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 22
                   },
                   {
                     "id": "recX63xqF4TloIYqM",
-                    "reference": "Set 30 Line 23",
+                    "reference": "Line 23",
                     "lineNumber": 23,
                     "sentence": "Las palabras engañosas fácilmente salen a la luz.",
                     "translation": "Deceptive words easily come to light.",
@@ -33988,7 +34154,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 23,
-                    "set": "Set 30"
+                    "set": "Set 30",
+                    "linkedRecordOrder": 23
                   }
                 ]
               },
@@ -34016,7 +34183,7 @@
                 "lines": [
                   {
                     "id": "recdfDXySiS12fWjn",
-                    "reference": "Set 6 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Un lobo decidió disfrazarse para poder",
                     "translation": "A wolf decided to disguise himself so he could",
@@ -34025,11 +34192,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "recd09VhsvrV9fiWF",
-                    "reference": "Set 6 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "atacar a un rebaño de ovejas",
                     "translation": "attack a flock of sheep",
@@ -34038,11 +34206,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recTpN2l2dv8dKuwt",
-                    "reference": "Set 6 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "sin temor de que lo descubrieran,",
                     "translation": "without fear of being discovered,",
@@ -34051,11 +34220,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 6"
+                    "set": "Set 6",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recMWpnbEBGW5qx3b",
-                    "reference": "Set 7 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "así que se cubrió con la piel",
                     "translation": "So he covered himself with skin",
@@ -34064,11 +34234,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recgP4NeadUzbo6UC",
-                    "reference": "Set 7 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "de una oveja y se mezcló",
                     "translation": "from a sheep and mingled",
@@ -34077,11 +34248,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "recq2YIIjGF7DuCQq",
-                    "reference": "Set 7 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "con el rebaño mientras pastaban.",
                     "translation": "with the flock while they grazed.",
@@ -34090,11 +34262,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 7"
+                    "set": "Set 7",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recDQK6G30TFIhW8A",
-                    "reference": "Set 8 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "Engaño al pastor por completo",
                     "translation": "He completely deceived the sheperd",
@@ -34103,11 +34276,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recahIsJdcHzWvDPV",
-                    "reference": "Set 8 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "y cuando el rebaño fue encerrado",
                     "translation": "And when the flock was penned up",
@@ -34116,11 +34290,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "reck606Fs6xBzN3fG",
-                    "reference": "Set 8 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "por la noche, él quedó adentro",
                     "translation": "That night, he stayed inside",
@@ -34129,11 +34304,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 8"
+                    "set": "Set 8",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recnjHgNb1BXslJtV",
-                    "reference": "Set 9 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "con las ovejas.",
                     "translation": "with the sheep.",
@@ -34142,11 +34318,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec62wbMJOfGMcOtV",
-                    "reference": "Set 9 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Esa misma noche el pastor,",
                     "translation": "That same night the sheperd,",
@@ -34155,11 +34332,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recXuttKhfhRXmGDj",
-                    "reference": "Set 9 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "que necesitaba carne para la cena,",
                     "translation": "who needed meat for dinner,",
@@ -34168,11 +34346,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 9"
+                    "set": "Set 9",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec7RIFyUCTaB2qgm",
-                    "reference": "Set 10 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "puso sus manos sobre el lobo y,",
                     "translation": "laid his hands on the wolf and,",
@@ -34181,11 +34360,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recHaajSpljnNN7bL",
-                    "reference": "Set 10 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "creyendo que era una oveja,",
                     "translation": "believing it was a sheep,",
@@ -34194,11 +34374,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recjTZOCXw6giyJSi",
-                    "reference": "Set 10 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "sacó su cuchillo y lo mató en el acto.",
                     "translation": "pulled out his knife and killed him on the spot.",
@@ -34207,11 +34388,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recGN1DKnXENefNvn",
-                    "reference": "Set 10 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "El que daño busca, daño encuentra.",
                     "translation": "He who seeks harm, finds harm.",
@@ -34220,7 +34402,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 10"
+                    "set": "Set 10",
+                    "linkedRecordOrder": 16
                   }
                 ]
               },
@@ -34253,7 +34436,7 @@
                 "lines": [
                   {
                     "id": "recyoj2Mkzzd8KX3x",
-                    "reference": "Set 21 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Dos cabras orgullosas se encontraron",
                     "translation": "Two proud goats met",
@@ -34262,11 +34445,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rec82PCpVc8yPC8HO",
-                    "reference": "Set 21 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "por casualidad en acantilados",
                     "translation": "by chance on cliffs",
@@ -34275,11 +34459,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "recRvRLr91YA6Z4tG",
-                    "reference": "Set 21 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "opuestos de una alta cordillera.",
                     "translation": "opposites of a high mountain range.",
@@ -34288,11 +34473,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recZ6bqHL1EEZFRxj",
-                    "reference": "Set 21 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "Por debajo, entre las rocas del",
                     "translation": "Below, among the rocks of",
@@ -34301,11 +34487,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 21"
+                    "set": "Set 21",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recHLZghPq5urGJ0M",
-                    "reference": "Set 22 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "valle, pasaba un río turbulento",
                     "translation": "the valley, flowed a river turbulent",
@@ -34314,11 +34501,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "rec8OJdUCvkICKfjk",
-                    "reference": "Set 22 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "y peligroso. El único puente para",
                     "translation": "and dangerous. The only bridge for",
@@ -34327,11 +34515,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "recbEYgcVMvtAMXPN",
-                    "reference": "Set 22 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "cruzar el abismo era un árbol caído,",
                     "translation": "crossing the abyss was a fallen tree,",
@@ -34340,11 +34529,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "recgOglLHGSp0aLmk",
-                    "reference": "Set 22 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "tan estrecho que dos ratones se",
                     "translation": "so narrow that two mice",
@@ -34353,11 +34543,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 22"
+                    "set": "Set 22",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "rec5DlPp4myfkFDoU",
-                    "reference": "Set 23 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "habrían asustado si hubieran intentado",
                     "translation": "would have been frightened if they had tried",
@@ -34366,11 +34557,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recEYNvlU53vX4aKb",
-                    "reference": "Set 23 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "cruzarlo al mismo tiempo.",
                     "translation": "to cross it at the same time.",
@@ -34379,11 +34571,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "rec4rFWxLkbIHOHOK",
-                    "reference": "Set 23 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Ambas cabras,testarudas, se sintieron",
                     "translation": "Both goats, stubborn, felt",
@@ -34392,11 +34585,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recRU5CfH9Wn8dOa1",
-                    "reference": "Set 23 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "con el derecho de cruzar primero.",
                     "translation": "with the right to cross first.",
@@ -34405,11 +34599,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 23"
+                    "set": "Set 23",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "rec2pZTEdwqYNnlLN",
-                    "reference": "Set 24 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "Así que, poniendo una pezuña a la",
                     "translation": "So, putting a hoof at",
@@ -34418,11 +34613,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "recTDQlqzmmQ3ECVX",
-                    "reference": "Set 24 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "vez, empezaron a caminar sobre el",
                     "translation": "a time, they began to walk on the",
@@ -34431,11 +34627,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recHCDM52jtBFkWor",
-                    "reference": "Set 24 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "delgado tronco hasta que se encontraron",
                     "translation": "thin trunk until they met",
@@ -34444,11 +34641,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recqGGjrOHp1zojz5",
-                    "reference": "Set 24 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "frente a frente en medio del puente.",
                     "translation": "face to face in the middle of the bridge.",
@@ -34457,11 +34655,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 24"
+                    "set": "Set 24",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recSTC4P3ixDONwB5",
-                    "reference": "Set 25 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "Ninguna quiso ceder el paso,",
                     "translation": "Neither of them wanted to give way,",
@@ -34470,11 +34669,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "reccH8EzvSDlMOrvM",
-                    "reference": "Set 25 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "y al final, ambas cayeron de",
                     "translation": "and in the end, both fell",
@@ -34483,11 +34683,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 18
                   },
                   {
                     "id": "rec1KkhaG6GDEisM4",
-                    "reference": "Set 25 Line 19",
+                    "reference": "Line 19",
                     "lineNumber": 19,
                     "sentence": "cabeza a las rugientes aguas.",
                     "translation": "headfirst into the roaring waters.",
@@ -34496,11 +34697,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 19,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 19
                   },
                   {
                     "id": "recerhSpIIcwhJNkL",
-                    "reference": "Set 25 Line 20",
+                    "reference": "Line 20",
                     "lineNumber": 20,
                     "sentence": "Es mejor ceder que caer en",
                     "translation": "It is better to give in than to fall into",
@@ -34509,11 +34711,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 20,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 20
                   },
                   {
                     "id": "recFqgQZQW37IU01t",
-                    "reference": "Set 25 Line 21",
+                    "reference": "Line 21",
                     "lineNumber": 21,
                     "sentence": "la desgracia por terquedad.",
                     "translation": "misfortune out of stubbornness.",
@@ -34522,7 +34725,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 21,
-                    "set": "Set 25"
+                    "set": "Set 25",
+                    "linkedRecordOrder": 21
                   }
                 ]
               },
@@ -34552,7 +34756,7 @@
                 "lines": [
                   {
                     "id": "recJFJisyhKx0gIDk",
-                    "reference": "Set 16 Line 1",
+                    "reference": "Line 1",
                     "lineNumber": 1,
                     "sentence": "Una tortuga, descontenta con su",
                     "translation": "A turtle, unhappy with its",
@@ -34561,11 +34765,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 1,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 1
                   },
                   {
                     "id": "rec3uLU39AjVQZL3q",
-                    "reference": "Set 16 Line 2",
+                    "reference": "Line 2",
                     "lineNumber": 2,
                     "sentence": "humilde vida y envidiosa de los",
                     "translation": "humble life and envious of the",
@@ -34574,11 +34779,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 2,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 2
                   },
                   {
                     "id": "rechEfOFuQQPLyvAV",
-                    "reference": "Set 16 Line 3",
+                    "reference": "Line 3",
                     "lineNumber": 3,
                     "sentence": "pájaros que veía disfrutar en el aire,",
                     "translation": "birds that he saw enjoying themselves in the air",
@@ -34587,11 +34793,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 3,
-                    "set": "Set 16"
+                    "set": "Set 16",
+                    "linkedRecordOrder": 3
                   },
                   {
                     "id": "recgkAs7Q9eynzrrk",
-                    "reference": "Set 17 Line 4",
+                    "reference": "Line 4",
                     "lineNumber": 4,
                     "sentence": "rogó a un águila que le enseñara",
                     "translation": "begged an eagle to teach him",
@@ -34600,11 +34807,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 4,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 4
                   },
                   {
                     "id": "recDOdU2JDXOg2whr",
-                    "reference": "Set 17 Line 5",
+                    "reference": "Line 5",
                     "lineNumber": 5,
                     "sentence": "a volar. El águila le dijo que era inútil",
                     "translation": "to fly. The eagle told him it was useless",
@@ -34613,11 +34821,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 5,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 5
                   },
                   {
                     "id": "reca0Y08u1Lp3dAAs",
-                    "reference": "Set 17 Line 6",
+                    "reference": "Line 6",
                     "lineNumber": 6,
                     "sentence": "intentarlo, ya que la naturaleza no le",
                     "translation": "trying it, since nature hadn´t",
@@ -34626,11 +34835,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 6,
-                    "set": "Set 17"
+                    "set": "Set 17",
+                    "linkedRecordOrder": 6
                   },
                   {
                     "id": "rec3LsbRrHmLnvZYz",
-                    "reference": "Set 18 Line 7",
+                    "reference": "Line 7",
                     "lineNumber": 7,
                     "sentence": "había dado alas; pero la tortuga insistió",
                     "translation": "given him wings; but the turtle insisted",
@@ -34639,11 +34849,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 7,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 7
                   },
                   {
                     "id": "rec9nTdx5kcnekDAN",
-                    "reference": "Set 18 Line 8",
+                    "reference": "Line 8",
                     "lineNumber": 8,
                     "sentence": "con ruegos y promesas de tesoros,",
                     "translation": "with entreaties and promises of treasures,",
@@ -34652,11 +34863,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 8,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 8
                   },
                   {
                     "id": "recP4HcKPkrdg26WP",
-                    "reference": "Set 18 Line 9",
+                    "reference": "Line 9",
                     "lineNumber": 9,
                     "sentence": "convencida de que solo era",
                     "translation": "convinced that it was only",
@@ -34665,11 +34877,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 9,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 9
                   },
                   {
                     "id": "recUTWUHqeYHlzUyC",
-                    "reference": "Set 18 Line 10",
+                    "reference": "Line 10",
                     "lineNumber": 10,
                     "sentence": "cuestión de aprender el arte de volar.",
                     "translation": "question to learn the art of flying.",
@@ -34678,11 +34891,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 10,
-                    "set": "Set 18"
+                    "set": "Set 18",
+                    "linkedRecordOrder": 10
                   },
                   {
                     "id": "recWFZjySyuz3cVn9",
-                    "reference": "Set 19 Line 11",
+                    "reference": "Line 11",
                     "lineNumber": 11,
                     "sentence": "Finalmente, el águila accedió a hacer",
                     "translation": "Finally, the eagle agreed to do it",
@@ -34691,11 +34905,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 11,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 11
                   },
                   {
                     "id": "recKJx0jZwFcZXxnB",
-                    "reference": "Set 19 Line 12",
+                    "reference": "Line 12",
                     "lineNumber": 12,
                     "sentence": "lo mejor que pudiera y la tomó",
                     "translation": "as best he could and took it",
@@ -34704,11 +34919,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 12,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 12
                   },
                   {
                     "id": "recfFQUnEWnM5dvtr",
-                    "reference": "Set 19 Line 13",
+                    "reference": "Line 13",
                     "lineNumber": 13,
                     "sentence": "entre sus garras. Se elevó con ella",
                     "translation": "between her claws. She rose with his",
@@ -34717,11 +34933,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 13,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 13
                   },
                   {
                     "id": "rec9kWJr3ikx5pDi7",
-                    "reference": "Set 19 Line 14",
+                    "reference": "Line 14",
                     "lineNumber": 14,
                     "sentence": "hasta una gran altura en el cielo,",
                     "translation": "to a great height in the sky,",
@@ -34730,11 +34947,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 14,
-                    "set": "Set 19"
+                    "set": "Set 19",
+                    "linkedRecordOrder": 14
                   },
                   {
                     "id": "recdbFhtFjOwn584q",
-                    "reference": "Set 20 Line 15",
+                    "reference": "Line 15",
                     "lineNumber": 15,
                     "sentence": "la soltó y la desdichada tortuga",
                     "translation": "He let go of her, and the unfortunate turtle...",
@@ -34743,11 +34961,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 15,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 15
                   },
                   {
                     "id": "recxqAXefaGJsbxoO",
-                    "reference": "Set 20 Line 16",
+                    "reference": "Line 16",
                     "lineNumber": 16,
                     "sentence": "cayó de cabeza al mar.",
                     "translation": "fell headfirst into the sea.",
@@ -34756,11 +34975,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 16,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 16
                   },
                   {
                     "id": "recoAyftsHS8EcQ5b",
-                    "reference": "Set 20 Line 17",
+                    "reference": "Line 17",
                     "lineNumber": 17,
                     "sentence": "Si los hombres obtuvieron todo lo",
                     "translation": "If men got everything",
@@ -34769,11 +34989,12 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 17,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 17
                   },
                   {
                     "id": "recbFWnTrHjhua5zF",
-                    "reference": "Set 20 Line 18",
+                    "reference": "Line 18",
                     "lineNumber": 18,
                     "sentence": "que desearan, a menudo se arruinarían.",
                     "translation": "that they wished, they would quickly be ruined.",
@@ -34782,7 +35003,8 @@
                     "sentenceType": "Story Lines",
                     "type": "Literature",
                     "sequence": 18,
-                    "set": "Set 20"
+                    "set": "Set 20",
+                    "linkedRecordOrder": 18
                   }
                 ]
               }
@@ -40487,7 +40709,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recyBq4vTjXU9fX13.pdf"
                 },
                 {
-                  "text": "VideoL1",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
@@ -41088,7 +41310,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recHUPSSkoa5pWAqp.pdf"
                 },
                 {
-                  "text": "VideoL2",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
@@ -41689,7 +41911,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recA2DHjqQEBw5IFU.pdf"
                 },
                 {
-                  "text": "VideoL3",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 },
                 {
@@ -42290,7 +42512,7 @@
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec8YRUiYxzqaenui.pdf"
                 },
                 {
-                  "text": "VideoL4",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 },
                 {
@@ -42899,11 +43121,11 @@
                   "url": "https://www.youtube.com/watch?v=ARJB0f5K1%3C/em%3E0"
                 },
                 {
-                  "text": "VideoR1",
+                  "text": "VideoSet1",
                   "url": "https://vimeo.com/1195403352/18f6638c94"
                 },
                 {
-                  "text": "VideoR2",
+                  "text": "VideoSet2",
                   "url": "https://vimeo.com/1195406304/9688bf8a7b"
                 }
               ],
