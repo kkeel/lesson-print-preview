@@ -21,12 +21,12 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recVKX5urW9nTXPjR-canadian-history-grades-11-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
   "studentVersion": false,
   "syllabird": {
-    "status": "Import is Current",
+    "status": "Needs Updated Import",
     "trackerTemplate": "",
     "trackerTitleTemplate": "",
     "perWeek": 0
@@ -308,11 +308,16 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "Canadian History",
               "title": "30m Canadian History: Grades 11-12 - Lesson 4",
-              "body": "The War of 1812, cont.: The Siege of Fort Erie\n⍞ Materials: The History of Canada in Ten Maps\n\n➜ RECAP\nWhat do you recall about the causes of the War of 1812 from the last reading?\n\n➜ READ & ANNOTATE\np.246-260 \"Explorers might make\" - \"this present business.\"\n\n➜ NARRATE\nChoose the best way for you to narrate what you read.\n\n➜ DISCUSS\n•",
+              "body": "The War of 1812: The Siege of Fort Erie\n⍞ Materials: The History of Canada in Ten Maps\n\n➜ RECAP\nWhat do you recall about the causes of the War of 1812 from the last reading?\n\n➜ READ & ANNOTATE\np.246-260 \"Explorers might make\" - \"this present business.\"\n\n➜ NARRATE\nChoose the best way for you to narrate what you read.\n\n➜ MAP WORK\nCross-reference the battles mentioned in today's reading with a map of the major events in the Niagara region during the War of 1812.\n∞ Map Link: The War of 1812 Major Canada/US Theatres\n\n➜ DISCUSS\n• How does Drummond's leadership compare with Salaberry from the last reading?\n• Why was Fort Erie a strategically important location? \n• How were the Canadians particularly skilled at this type of warfare?",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recVKX5urW9nTXPjR&6J82c=rec1ZSoVhWL3gzWHu",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recVKX5urW9nTXPjR&term=1&week=2",
+              "links": [
+                {
+                  "text": "The War of 1812 Major Canada/US Theatres",
+                  "url": "https://i0.wp.com/niagarapoetry.ca/wp-content/uploads/2022/01/war-of-1812-map.jpg?ssl=1"
+                }
+              ]
             },
             {
               "lessonId": "recPTsgTuWp3S4HcT",
@@ -324,11 +329,16 @@
               "lessonLabel": "Lesson 5",
               "linkLabel": "Canadian History",
               "title": "40m Canadian History: Grades 11-12 - Lesson 5",
-              "body": "",
-              "teacherNotes": "",
+              "body": "The War of 1812: The Siege of Fort Erie, cont.\n⍞ Materials: The History of Canada in Ten Maps\n\n➜ RECAP\nWhat do you recall about Drummond's preparations to attack Fort Erie from the last reading?\n\n➜ READ & ANNOTATE\np.260-272 \"As the sun sank\" - \"forged at a terrible cost.\"\n\n➜ NARRATE\nChoose the best way for you to narrate what you read.\n\n➜ MAP WORK\nContinue to consult this map as a reference if needed.\n∞ Map Link: The War of 1812 Major Canada/US Theatres\n\n➜ DISCUSS\n•",
+              "teacherNotes": "• COMPOSITION\nShoalts writes that \"Explorers might make the first maps, but the final ones are usually made by armies.\" Are there other events from history where this perspective holds true? Explain your answer in 2-3 paragraphs.",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recVKX5urW9nTXPjR&6J82c=recPTsgTuWp3S4HcT",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recVKX5urW9nTXPjR&term=1&week=3",
+              "links": [
+                {
+                  "text": "The War of 1812 Major Canada/US Theatres",
+                  "url": "https://i0.wp.com/niagarapoetry.ca/wp-content/uploads/2022/01/war-of-1812-map.jpg?ssl=1"
+                }
+              ]
             },
             {
               "lessonId": "recYSKWVon43kQeu9",

@@ -21,12 +21,12 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=topic&id=recqkaSHIvH4dpBWk",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recQRSN8y9do0fwWL-natural-history-grade-7.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recqkaSHIvH4dpBWk",
   "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
-    "status": "Import is Current",
+    "status": "Needs Updated Import",
     "trackerTemplate": "",
     "trackerTitleTemplate": "",
     "perWeek": 0
@@ -386,7 +386,7 @@
               "links": [
                 {
                   "text": "Leaf Diagram",
-                  "url": "http://www.biologydiscussion.com/plants/structure-of-a-typical-leaf-with-diagram/6260"
+                  "url": "https://www.thoughtco.com/plant-leaves-and-leaf-anatomy-373618"
                 }
               ]
             },
