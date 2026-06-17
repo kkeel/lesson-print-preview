@@ -1459,7 +1459,7 @@ function buildMLGlossaryFromLessonIds(lessonIds, mlLessonsById, mlVocabById) {
   });
 }
 
-function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById) {
+function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById, storyLineScheduleById = new Map()) {
   return normalizeArray(sentenceIds)
     .map((id, index) => {
       const record = mlSentencesById.get(id);
@@ -1469,6 +1469,7 @@ function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById) {
       const sequence = Number(normalizeText(sf["Sequence"]) || 0);
       const fallbackLineNumber = index + 1;
       const lineNumber = sequence || fallbackLineNumber;
+      const schedule = storyLineScheduleById.get(record.id) || {};
 
       return {
         id: record.id,
@@ -1482,7 +1483,13 @@ function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById) {
         type: normalizeText(sf["Type"]),
         sequence,
         set: normalizeText(sf["Set"]),
-        linkedRecordOrder: fallbackLineNumber
+        linkedRecordOrder: fallbackLineNumber,
+
+        term: schedule.term || "",
+        week: schedule.week || "",
+        weekLabel: schedule.weekLabel || "",
+        lessonSequence: schedule.lessonSequence || 0,
+        lessonLabel: schedule.lessonLabel || ""
       };
     })
     .filter(Boolean)
@@ -1496,6 +1503,32 @@ function buildMLStoryLinesFromSentenceIds(sentenceIds, mlSentencesById) {
 
       return Number(a.linkedRecordOrder || 0) - Number(b.linkedRecordOrder || 0);
     });
+}
+
+function buildMLStoryLineScheduleLookup(lessons = []) {
+  const bySentenceId = new Map();
+
+  for (const lesson of lessons || []) {
+    for (const sentence of lesson.sentences || []) {
+      const isStoryLine =
+        String(sentence.type || "").toLowerCase().includes("literature") ||
+        String(sentence.sentenceType || "").toLowerCase().includes("story");
+
+      if (!isStoryLine || !sentence.id) continue;
+
+      if (!bySentenceId.has(sentence.id)) {
+        bySentenceId.set(sentence.id, {
+          term: lesson.term || "",
+          week: lesson.week || "",
+          weekLabel: lesson.weekLabel || "",
+          lessonSequence: lesson.sequence || 0,
+          lessonLabel: lesson.lessonLabel || ""
+        });
+      }
+    }
+  }
+
+  return bySentenceId;
 }
 
 function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
@@ -1703,15 +1736,20 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
       
         stories: subtitleResources
           .filter(item => item.storyLessonSetIds.includes(mlSetRecord.id))
-          .map(item => ({
-            id: item.id,
-            title: item.title,
-            storylineIds: item.storylineLabels,
-            lines: buildMLStoryLinesFromSentenceIds(
-              item.storylineLabels,
-              mlSentencesById
-            )
-          })),
+          .map(item => {
+            const storyLineScheduleById = buildMLStoryLineScheduleLookup(lessons);
+        
+            return {
+              id: item.id,
+              title: item.title,
+              storylineIds: item.storylineLabels,
+              lines: buildMLStoryLinesFromSentenceIds(
+                item.storylineLabels,
+                mlSentencesById,
+                storyLineScheduleById
+              )
+            };
+          }),
       
         glossary: normalizeArray(sf["Vocab Glossary Connection"])
           .map(id => mlVocabById.get(id))
