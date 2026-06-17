@@ -486,7 +486,7 @@
   font-size: 11px;
   line-height: 1.2;
   font-weight: 800;
-  color: #596e5e;
+  color: #adb58f;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -533,6 +533,8 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0;
   margin-top: 0.08in;
+  padding-bottom: 0.06in;
+  border-bottom: 0.5px solid #d7ddd4;
 }
 
 .ml-story-language-col,
@@ -545,7 +547,6 @@
 }
 
 .ml-story-translation-col {
-  border-left: 1px solid #c7d0bd;
   padding-left: 0.18in;
 }
 
@@ -554,6 +555,11 @@
   grid-template-columns: 0.34in 1fr;
   gap: 0.08in;
   align-items: start;
+}
+
+.ml-story-reference-spacer {
+  background: transparent;
+  color: transparent;
 }
 
 .ml-story-reference,
