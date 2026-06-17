@@ -669,7 +669,7 @@
 }
 
 .ml-student-page-flow {
-  margin-top: 0.55in;
+  margin-top: 0.25in;
 }
 
 .ml-student-page {
@@ -701,11 +701,11 @@
 .ml-storyboard-copywork-layout {
   display: flex;
   flex-direction: column;
-  gap: 0.22in;
+  gap: 0.14in;
 }
 
 .ml-storyboard-mini-grid {
-  height: 2.15in;
+  height: 2.05in;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0;
@@ -727,7 +727,7 @@
 .ml-copywork-slots {
   display: flex;
   flex-direction: column;
-  gap: 0.18in;
+  gap: 0.12in;
 }
 
 .ml-copywork-slots-combined {
