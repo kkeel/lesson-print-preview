@@ -319,9 +319,19 @@ function buildRowsForPacket(packet) {
           ? getExamContentForTerm(packet, termNumber)
           : "";
       
+      const additionalNotesBlock = splitNotes.bodyAppendix
+        ? [
+            "────────────────────",
+            "ADDITIONAL NOTES",
+            "────────────────────",
+            "",
+            splitNotes.bodyAppendix
+          ].join("\n")
+        : "";
+      
       const assignmentBody = appendBlocks(
         lesson.body || "",
-        splitNotes.bodyAppendix
+        additionalNotesBlock
       );
       
       const assignmentTeacherNotes = appendBlocks(
