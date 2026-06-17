@@ -224,14 +224,14 @@
    }
 
    .ml-student-page {
-    break-before: page !important;
-    page-break-before: always !important;
-    break-after: page !important;
-    page-break-after: always !important;
-    break-inside: avoid !important;
-    page-break-inside: avoid !important;
-    min-height: 9.65in;
-  }
+     break-before: page !important;
+     page-break-before: always !important;
+     break-after: auto !important;
+     page-break-after: auto !important;
+     break-inside: avoid !important;
+     page-break-inside: avoid !important;
+     min-height: 9.65in;
+   }
 
   .ml-storyboard-box,
    .ml-storyboard-mini-grid,
