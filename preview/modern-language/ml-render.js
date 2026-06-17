@@ -536,6 +536,7 @@ function renderMLByLessonSet(section, options = {}) {
 
 function renderMLStoryResource(story) {
   const languageLabel = story.language || "Spanish/French";
+  const groupedLines = groupMLStoryLinesByWeek(story.lines || []);
 
   return `
     <article class="ml-story-resource">
@@ -560,25 +561,51 @@ function renderMLStoryResource(story) {
       </div>
 
       <div class="ml-story-lines">
-        ${(story.lines || [])
-          .sort((a, b) => {
-            const aSet = getMLSetNumber(a.set);
-            const bSet = getMLSetNumber(b.set);
+        ${groupedLines.map(group => `
+          <section class="ml-story-week-group">
+            <h3 class="ml-story-week-title">
+              ${escapeHtml(group.weekLabel)}
+            </h3>
 
-            if (aSet !== bSet) return aSet - bSet;
-
-            const aSequence = Number(a.sequence || 0);
-            const bSequence = Number(b.sequence || 0);
-            
-            if (aSequence !== bSequence) return aSequence - bSequence;
-            
-            return Number(a.lineNumber || 0) - Number(b.lineNumber || 0);
-          })
-          .map(renderMLStoryLine)
-          .join("")}
+            <div class="ml-story-week-lines">
+              ${group.lines.map(renderMLStoryLine).join("")}
+            </div>
+          </section>
+        `).join("")}
       </div>
     </article>
   `;
+}
+
+function groupMLStoryLinesByWeek(lines = []) {
+  const groups = new Map();
+
+  [...lines]
+    .sort((a, b) => {
+      const aLine = Number(a.lineNumber || a.sequence || 0);
+      const bLine = Number(b.lineNumber || b.sequence || 0);
+
+      if (aLine && bLine && aLine !== bLine) return aLine - bLine;
+
+      return String(a.sentence || "").localeCompare(String(b.sentence || ""));
+    })
+    .forEach(line => {
+      const setNumber = getMLSetNumber(line.set);
+      const weekLabel = setNumber && setNumber !== 999
+        ? `Week ${setNumber}`
+        : (line.set || "Week");
+
+      if (!groups.has(weekLabel)) {
+        groups.set(weekLabel, {
+          weekLabel,
+          lines: []
+        });
+      }
+
+      groups.get(weekLabel).lines.push(line);
+    });
+
+  return [...groups.values()];
 }
 
 function formatMLStoryReference(line = {}) {
