@@ -567,7 +567,6 @@
   justify-content: center;
 
   border-radius: 999px;
-  background: #596e5e;
   color: #ffffff;
 
   font-family: "Circular Pro", system-ui, sans-serif;
@@ -577,6 +576,14 @@
   letter-spacing: 0.02em;
 
   white-space: nowrap;
+}
+
+.ml-line-number-badge-dark {
+  background: #596e5e;
+}
+
+.ml-line-number-badge-light {
+  background: #adb58f;
 }
 
 .ml-copywork-prompt .ml-line-number-badge {
