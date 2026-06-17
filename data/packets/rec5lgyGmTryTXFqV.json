@@ -22372,7 +22372,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recokJdswD8cJNflY",
@@ -22386,7 +22391,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recB7XpVJuS7Yk3kq",
@@ -22400,7 +22410,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recmNWPtxsGwApKwn",
@@ -22414,7 +22429,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "rec9qQ80IAOJVgcvb",
@@ -22428,7 +22448,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "recgECwWKsY7KkueC",
@@ -22442,7 +22467,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "reccV6aw1XqmPfnT9",
@@ -22456,7 +22486,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recfIPJUfs13A2Wbg",
@@ -22470,7 +22505,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recOnCyABuY243vNW",
@@ -22484,7 +22524,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recrbb9sEIDzX3wJe",
@@ -22498,7 +22543,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recW6fufncidb4a19",
@@ -22512,7 +22562,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recqxn6phAEAevpxd",
@@ -22526,7 +22581,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recMHKBHfN41s8cBX",
@@ -22540,7 +22600,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   },
                   {
                     "id": "rec7W9inOEBphS4c8",
@@ -22554,7 +22619,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   },
                   {
                     "id": "recOY52FGPmYuBC8c",
@@ -22568,7 +22638,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   }
                 ]
               },
@@ -22606,7 +22681,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "recYel5aNQZIa0ARh",
@@ -22620,7 +22700,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "reckz5kWNLk5eYMUJ",
@@ -22634,7 +22719,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
@@ -22648,7 +22738,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recdyvHaIJsWfM6Nz",
@@ -22662,7 +22757,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recdyZYmSKDfO3BRN",
@@ -22676,7 +22776,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
@@ -22690,7 +22795,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "reckV4iPAuV8Jhems",
@@ -22704,7 +22814,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "reczyvCSenxlyUo9Z",
@@ -22718,7 +22833,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
@@ -22732,7 +22852,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "rec0l8rh40ejXPag3",
@@ -22746,7 +22871,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "recfXpCZrjA9qBQLV",
@@ -22760,7 +22890,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
@@ -22774,7 +22909,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "recsCaL367Xr2Mdqf",
@@ -22788,7 +22928,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "reccUzqFXqMuV9v2O",
@@ -22802,7 +22947,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "recCIDVrRXhNRB7Lm",
@@ -22816,7 +22966,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   }
                 ]
               },
@@ -22856,7 +23011,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "recfcPM5zbSEWO8ce",
@@ -22870,7 +23030,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "recbLj8XKfkqZHjnY",
@@ -22884,7 +23049,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "reczDbbMbn9nSIz7K",
@@ -22898,7 +23068,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "rec270JVpZa2vruFo",
@@ -22912,7 +23087,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "recnSVIhOG6HUp4iG",
@@ -22926,7 +23106,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "recNYKTmC6vN4l3rP",
@@ -22940,7 +23125,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "rec2sr7zKsDNftJCq",
@@ -22954,7 +23144,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recw6e9N8hH3UktVE",
@@ -22968,7 +23163,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recPdB0A7T0kfNg4v",
@@ -22982,7 +23182,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recPzkGtfVo8K3mah",
@@ -22996,7 +23201,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "recqzToW1useriU3y",
@@ -23010,7 +23220,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "rech9Hcymf91xOKhb",
@@ -23024,7 +23239,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "reclXcyWV8CXe6wga",
@@ -23038,7 +23258,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "reckmF22Flo2HQXMh",
@@ -23052,7 +23277,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "rec8an40Gzwm92YMn",
@@ -23066,7 +23296,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "recofq0pPqCOj6Mqp",
@@ -23080,7 +23315,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 17
+                    "linkedRecordOrder": 17,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "recTO3WHpYk4vz3bs",
@@ -23094,7 +23334,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 18
+                    "linkedRecordOrder": 18,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   }
                 ]
               },
@@ -23131,7 +23376,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "recDVrdP4dedZYLF9",
@@ -23145,7 +23395,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "recm4eeqR6YukC9qQ",
@@ -23159,7 +23414,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "rec1LJ9BlRyQsjxRr",
@@ -23173,7 +23433,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recLR1a6bp0ibbtTn",
@@ -23187,7 +23452,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recYqqii56whPM2Uf",
@@ -23201,7 +23471,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recGA2duZp0G7FLAt",
@@ -23215,7 +23490,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "recwfE7W5kptIA1OV",
@@ -23229,7 +23509,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "rectXvCZAeQSEkyAN",
@@ -23243,7 +23528,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "recha3HvZUmZBx9FV",
@@ -23257,7 +23547,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "recycbqG2qxXSq9Mw",
@@ -23271,7 +23566,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "rec91HgjEZQ2sfziM",
@@ -23285,7 +23585,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "rec5alGnl7Zvp3c2F",
@@ -23299,7 +23604,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   },
                   {
                     "id": "recYQdRjjXZ4ZaL0S",
@@ -23313,7 +23623,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   },
                   {
                     "id": "recVP4jXz4SrRdhsW",
@@ -23327,7 +23642,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   }
                 ]
               },
@@ -23367,7 +23687,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "recXUlvDZey6yFWEN",
@@ -23381,7 +23706,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "rec5wSP0zAdMWHCyg",
@@ -23395,7 +23725,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "recINHROFAmlbElmA",
@@ -23409,7 +23744,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recz2NuhwhlJEW5Co",
@@ -23423,7 +23763,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recf4mGH9LMEEv9ok",
@@ -23437,7 +23782,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recSPok8HMzBIztKO",
@@ -23451,7 +23801,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recSidWzNkU4Uof16",
@@ -23465,7 +23820,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recxO1CcVvpbLwu6r",
@@ -23479,7 +23839,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recOUPTZq7KkE1dOZ",
@@ -23493,7 +23858,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "reccnoAKfWOj885iA",
@@ -23507,7 +23877,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "rec5vEk9HlvzS61LN",
@@ -23521,7 +23896,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recG6QYoMBdWU8P0C",
@@ -23535,7 +23915,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recWIBrDYfIrKO0xB",
@@ -23549,7 +23934,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recL0DKvnUDHeqXbj",
@@ -23563,7 +23953,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recP6mU0whAN7Fdgx",
@@ -23577,7 +23972,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recbRDFhCmPEIbjAp",
@@ -23591,7 +23991,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 17
+                    "linkedRecordOrder": 17,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recHeHiMVVVzyDOvE",
@@ -23605,7 +24010,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 18
+                    "linkedRecordOrder": 18,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   }
                 ]
               },
@@ -23643,7 +24053,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recncylySWDq2VvRs",
@@ -23657,7 +24072,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recKQdkXAB7ByNdZ1",
@@ -23671,7 +24091,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recMjfTVj5Shw34KP",
@@ -23685,7 +24110,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "rec2PuZRBIo2cEP5c",
@@ -23699,7 +24129,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "recSd4xWB9KJCO1e6",
@@ -23713,7 +24148,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "rec0ojzMdCaCK5z0O",
@@ -23727,7 +24167,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "recCP47hCcdPUiVZR",
@@ -23741,7 +24186,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "rec2swG3o81oDCHpL",
@@ -23755,7 +24205,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "recCNmRIkzpqYsfE9",
@@ -23769,7 +24224,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "rec4ZXfDzpRH3phlz",
@@ -23783,7 +24243,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recXQneoGTyWcRtiY",
@@ -23797,7 +24262,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recja84PFBDuclt7u",
@@ -23811,7 +24281,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recDI6LDiLzWHTaZ4",
@@ -23825,7 +24300,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   },
                   {
                     "id": "recnCtKv5IKbOL1iL",
@@ -23839,7 +24319,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   },
                   {
                     "id": "recfkmAYYjpfbjdnM",
@@ -23853,7 +24338,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   }
                 ]
               }
@@ -32953,7 +33443,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recokJdswD8cJNflY",
@@ -32967,7 +33462,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recB7XpVJuS7Yk3kq",
@@ -32981,7 +33481,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 11",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "2",
+                    "week": "13",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 13,
+                    "lessonLabel": "Lesson 13"
                   },
                   {
                     "id": "recmNWPtxsGwApKwn",
@@ -32995,7 +33500,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "rec9qQ80IAOJVgcvb",
@@ -33009,7 +33519,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "recgECwWKsY7KkueC",
@@ -33023,7 +33538,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 12",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "2",
+                    "week": "14",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 14,
+                    "lessonLabel": "Lesson 14"
                   },
                   {
                     "id": "reccV6aw1XqmPfnT9",
@@ -33037,7 +33557,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recfIPJUfs13A2Wbg",
@@ -33051,7 +33576,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recOnCyABuY243vNW",
@@ -33065,7 +33595,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 13",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "2",
+                    "week": "15",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 15,
+                    "lessonLabel": "Lesson 15"
                   },
                   {
                     "id": "recrbb9sEIDzX3wJe",
@@ -33079,7 +33614,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recW6fufncidb4a19",
@@ -33093,7 +33633,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recqxn6phAEAevpxd",
@@ -33107,7 +33652,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 14",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "2",
+                    "week": "16",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 16,
+                    "lessonLabel": "Lesson 16"
                   },
                   {
                     "id": "recMHKBHfN41s8cBX",
@@ -33121,7 +33671,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   },
                   {
                     "id": "rec7W9inOEBphS4c8",
@@ -33135,7 +33690,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   },
                   {
                     "id": "recOY52FGPmYuBC8c",
@@ -33149,7 +33709,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 15",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "2",
+                    "week": "17",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 17,
+                    "lessonLabel": "Lesson 17"
                   }
                 ]
               },
@@ -33187,7 +33752,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "recYel5aNQZIa0ARh",
@@ -33201,7 +33771,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "reckz5kWNLk5eYMUJ",
@@ -33215,7 +33790,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 1",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "1",
+                    "week": "1",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 1,
+                    "lessonLabel": "Lesson 1"
                   },
                   {
                     "id": "recT9bJB8yycbfOQQ",
@@ -33229,7 +33809,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recdyvHaIJsWfM6Nz",
@@ -33243,7 +33828,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recdyZYmSKDfO3BRN",
@@ -33257,7 +33847,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 2",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "1",
+                    "week": "2",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 2,
+                    "lessonLabel": "Lesson 2"
                   },
                   {
                     "id": "recA8r79s3Fq4erPO",
@@ -33271,7 +33866,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "reckV4iPAuV8Jhems",
@@ -33285,7 +33885,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "reczyvCSenxlyUo9Z",
@@ -33299,7 +33904,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 3",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "1",
+                    "week": "3",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 3,
+                    "lessonLabel": "Lesson 3"
                   },
                   {
                     "id": "recDOWEycMw8ScKJf",
@@ -33313,7 +33923,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "rec0l8rh40ejXPag3",
@@ -33327,7 +33942,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "recfXpCZrjA9qBQLV",
@@ -33341,7 +33961,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 4",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "1",
+                    "week": "4",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 4,
+                    "lessonLabel": "Lesson 4"
                   },
                   {
                     "id": "recwQLKpxWeS7IfhB",
@@ -33355,7 +33980,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "recsCaL367Xr2Mdqf",
@@ -33369,7 +33999,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "reccUzqFXqMuV9v2O",
@@ -33383,7 +34018,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   },
                   {
                     "id": "recCIDVrRXhNRB7Lm",
@@ -33397,7 +34037,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 5",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "1",
+                    "week": "5",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 5,
+                    "lessonLabel": "Lesson 5"
                   }
                 ]
               },
@@ -33437,7 +34082,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "recfcPM5zbSEWO8ce",
@@ -33451,7 +34101,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "recbLj8XKfkqZHjnY",
@@ -33465,7 +34120,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 21",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "3",
+                    "week": "25",
+                    "weekLabel": "Week 1",
+                    "lessonSequence": 25,
+                    "lessonLabel": "Lesson 25"
                   },
                   {
                     "id": "reczDbbMbn9nSIz7K",
@@ -33479,7 +34139,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "rec270JVpZa2vruFo",
@@ -33493,7 +34158,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "recnSVIhOG6HUp4iG",
@@ -33507,7 +34177,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 22",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "3",
+                    "week": "26",
+                    "weekLabel": "Week 2",
+                    "lessonSequence": 26,
+                    "lessonLabel": "Lesson 26"
                   },
                   {
                     "id": "recNYKTmC6vN4l3rP",
@@ -33521,7 +34196,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "rec2sr7zKsDNftJCq",
@@ -33535,7 +34215,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recw6e9N8hH3UktVE",
@@ -33549,7 +34234,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recPdB0A7T0kfNg4v",
@@ -33563,7 +34253,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 23",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "3",
+                    "week": "27",
+                    "weekLabel": "Week 3",
+                    "lessonSequence": 27,
+                    "lessonLabel": "Lesson 27"
                   },
                   {
                     "id": "recPzkGtfVo8K3mah",
@@ -33577,7 +34272,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "recqzToW1useriU3y",
@@ -33591,7 +34291,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "rech9Hcymf91xOKhb",
@@ -33605,7 +34310,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "reclXcyWV8CXe6wga",
@@ -33619,7 +34329,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 24",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "3",
+                    "week": "28",
+                    "weekLabel": "Week 4",
+                    "lessonSequence": 28,
+                    "lessonLabel": "Lesson 28"
                   },
                   {
                     "id": "reckmF22Flo2HQXMh",
@@ -33633,7 +34348,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "rec8an40Gzwm92YMn",
@@ -33647,7 +34367,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "recofq0pPqCOj6Mqp",
@@ -33661,7 +34386,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 17
+                    "linkedRecordOrder": 17,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   },
                   {
                     "id": "recTO3WHpYk4vz3bs",
@@ -33675,7 +34405,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 25",
-                    "linkedRecordOrder": 18
+                    "linkedRecordOrder": 18,
+                    "term": "3",
+                    "week": "29",
+                    "weekLabel": "Week 5",
+                    "lessonSequence": 29,
+                    "lessonLabel": "Lesson 29"
                   }
                 ]
               },
@@ -33712,7 +34447,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "recDVrdP4dedZYLF9",
@@ -33726,7 +34466,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "recm4eeqR6YukC9qQ",
@@ -33740,7 +34485,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 6",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "1",
+                    "week": "6",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 6,
+                    "lessonLabel": "Lesson 6"
                   },
                   {
                     "id": "rec1LJ9BlRyQsjxRr",
@@ -33754,7 +34504,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recLR1a6bp0ibbtTn",
@@ -33768,7 +34523,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recYqqii56whPM2Uf",
@@ -33782,7 +34542,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 7",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "1",
+                    "week": "7",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 7,
+                    "lessonLabel": "Lesson 7"
                   },
                   {
                     "id": "recGA2duZp0G7FLAt",
@@ -33796,7 +34561,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "recwfE7W5kptIA1OV",
@@ -33810,7 +34580,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "rectXvCZAeQSEkyAN",
@@ -33824,7 +34599,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 8",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "1",
+                    "week": "8",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 8,
+                    "lessonLabel": "Lesson 8"
                   },
                   {
                     "id": "recha3HvZUmZBx9FV",
@@ -33838,7 +34618,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "recycbqG2qxXSq9Mw",
@@ -33852,7 +34637,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "rec91HgjEZQ2sfziM",
@@ -33866,7 +34656,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 9",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "1",
+                    "week": "9",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 9,
+                    "lessonLabel": "Lesson 9"
                   },
                   {
                     "id": "rec5alGnl7Zvp3c2F",
@@ -33880,7 +34675,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   },
                   {
                     "id": "recYQdRjjXZ4ZaL0S",
@@ -33894,7 +34694,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   },
                   {
                     "id": "recVP4jXz4SrRdhsW",
@@ -33908,7 +34713,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 10",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "1",
+                    "week": "10",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 10,
+                    "lessonLabel": "Lesson 10"
                   }
                 ]
               },
@@ -33948,7 +34758,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "recXUlvDZey6yFWEN",
@@ -33962,7 +34777,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "rec5wSP0zAdMWHCyg",
@@ -33976,7 +34796,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 16",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "2",
+                    "week": "18",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 18,
+                    "lessonLabel": "Lesson 18"
                   },
                   {
                     "id": "recINHROFAmlbElmA",
@@ -33990,7 +34815,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recz2NuhwhlJEW5Co",
@@ -34004,7 +34834,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recf4mGH9LMEEv9ok",
@@ -34018,7 +34853,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 17",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "2",
+                    "week": "19",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 19,
+                    "lessonLabel": "Lesson 19"
                   },
                   {
                     "id": "recSPok8HMzBIztKO",
@@ -34032,7 +34872,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recSidWzNkU4Uof16",
@@ -34046,7 +34891,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recxO1CcVvpbLwu6r",
@@ -34060,7 +34910,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "recOUPTZq7KkE1dOZ",
@@ -34074,7 +34929,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 18",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "2",
+                    "week": "20",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 20,
+                    "lessonLabel": "Lesson 20"
                   },
                   {
                     "id": "reccnoAKfWOj885iA",
@@ -34088,7 +34948,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "rec5vEk9HlvzS61LN",
@@ -34102,7 +34967,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recG6QYoMBdWU8P0C",
@@ -34116,7 +34986,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recWIBrDYfIrKO0xB",
@@ -34130,7 +35005,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 19",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "2",
+                    "week": "21",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 21,
+                    "lessonLabel": "Lesson 21"
                   },
                   {
                     "id": "recL0DKvnUDHeqXbj",
@@ -34144,7 +35024,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recP6mU0whAN7Fdgx",
@@ -34158,7 +35043,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recbRDFhCmPEIbjAp",
@@ -34172,7 +35062,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 17
+                    "linkedRecordOrder": 17,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   },
                   {
                     "id": "recHeHiMVVVzyDOvE",
@@ -34186,7 +35081,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 20",
-                    "linkedRecordOrder": 18
+                    "linkedRecordOrder": 18,
+                    "term": "2",
+                    "week": "22",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 22,
+                    "lessonLabel": "Lesson 22"
                   }
                 ]
               },
@@ -34224,7 +35124,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 1
+                    "linkedRecordOrder": 1,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recncylySWDq2VvRs",
@@ -34238,7 +35143,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 2
+                    "linkedRecordOrder": 2,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recKQdkXAB7ByNdZ1",
@@ -34252,7 +35162,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 3
+                    "linkedRecordOrder": 3,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "recMjfTVj5Shw34KP",
@@ -34266,7 +35181,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 26",
-                    "linkedRecordOrder": 4
+                    "linkedRecordOrder": 4,
+                    "term": "3",
+                    "week": "30",
+                    "weekLabel": "Week 6",
+                    "lessonSequence": 30,
+                    "lessonLabel": "Lesson 30"
                   },
                   {
                     "id": "rec2PuZRBIo2cEP5c",
@@ -34280,7 +35200,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 5
+                    "linkedRecordOrder": 5,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "recSd4xWB9KJCO1e6",
@@ -34294,7 +35219,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 6
+                    "linkedRecordOrder": 6,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "rec0ojzMdCaCK5z0O",
@@ -34308,7 +35238,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 27",
-                    "linkedRecordOrder": 7
+                    "linkedRecordOrder": 7,
+                    "term": "3",
+                    "week": "31",
+                    "weekLabel": "Week 7",
+                    "lessonSequence": 31,
+                    "lessonLabel": "Lesson 31"
                   },
                   {
                     "id": "recCP47hCcdPUiVZR",
@@ -34322,7 +35257,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 8
+                    "linkedRecordOrder": 8,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "rec2swG3o81oDCHpL",
@@ -34336,7 +35276,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 9
+                    "linkedRecordOrder": 9,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "recCNmRIkzpqYsfE9",
@@ -34350,7 +35295,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 28",
-                    "linkedRecordOrder": 10
+                    "linkedRecordOrder": 10,
+                    "term": "3",
+                    "week": "32",
+                    "weekLabel": "Week 8",
+                    "lessonSequence": 32,
+                    "lessonLabel": "Lesson 32"
                   },
                   {
                     "id": "rec4ZXfDzpRH3phlz",
@@ -34364,7 +35314,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 11
+                    "linkedRecordOrder": 11,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recXQneoGTyWcRtiY",
@@ -34378,7 +35333,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 12
+                    "linkedRecordOrder": 12,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recja84PFBDuclt7u",
@@ -34392,7 +35352,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 29",
-                    "linkedRecordOrder": 13
+                    "linkedRecordOrder": 13,
+                    "term": "3",
+                    "week": "33",
+                    "weekLabel": "Week 9",
+                    "lessonSequence": 33,
+                    "lessonLabel": "Lesson 33"
                   },
                   {
                     "id": "recDI6LDiLzWHTaZ4",
@@ -34406,7 +35371,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 14
+                    "linkedRecordOrder": 14,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   },
                   {
                     "id": "recnCtKv5IKbOL1iL",
@@ -34420,7 +35390,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 15
+                    "linkedRecordOrder": 15,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   },
                   {
                     "id": "recfkmAYYjpfbjdnM",
@@ -34434,7 +35409,12 @@
                     "type": "Literature",
                     "sequence": 0,
                     "set": "Set 30",
-                    "linkedRecordOrder": 16
+                    "linkedRecordOrder": 16,
+                    "term": "3",
+                    "week": "34",
+                    "weekLabel": "Week 10",
+                    "lessonSequence": 34,
+                    "lessonLabel": "Lesson 34"
                   }
                 ]
               }
