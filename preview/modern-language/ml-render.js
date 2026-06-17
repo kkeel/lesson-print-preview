@@ -618,12 +618,22 @@ function formatMLStoryReference(line = {}) {
   return String(lineNumber);
 }
 
+function getMLLineBadgeClass(line = {}) {
+  const weekNumber = Number(line.week || 0);
+
+  if (weekNumber && weekNumber % 2 === 0) {
+    return "ml-line-number-badge ml-line-number-badge-light";
+  }
+
+  return "ml-line-number-badge ml-line-number-badge-dark";
+}
+
 function renderMLStoryLine(line) {
   return `
     <div class="ml-story-line">
       <div class="ml-story-language-col">
         <div class="ml-story-line-inner">
-          <div class="ml-story-reference">
+          <div class="ml-story-reference ${getMLLineBadgeClass(line)}">
             ${escapeHtml(formatMLStoryReference(line))}
           </div>
 
@@ -635,7 +645,7 @@ function renderMLStoryLine(line) {
 
       <div class="ml-story-translation-col">
         <div class="ml-story-line-inner">
-          <div class="ml-story-reference">
+          <div class="ml-story-reference ${getMLLineBadgeClass(line)}">
             ${escapeHtml(formatMLStoryReference(line))}
           </div>
 
@@ -731,7 +741,7 @@ function renderMLCopyworkSlot(line) {
     <div class="ml-copywork-slot">
       <div class="ml-copywork-prompt">
         ${lineNumber ? `
-          <span class="ml-line-number-badge">${escapeHtml(lineNumber)}</span>
+          <span class="${getMLLineBadgeClass(line)}">${escapeHtml(lineNumber)}</span>
         ` : ""}
 
         <span class="ml-copywork-prompt-text">
