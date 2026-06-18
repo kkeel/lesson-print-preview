@@ -663,7 +663,7 @@
 }
 
 .ml-story-week-group {
-  margin-top: 0.16in;
+  margin-top: 0.18in;
 }
 
 .ml-story-week-group:first-child {
@@ -671,7 +671,7 @@
 }
 
 .ml-story-week-title {
-  margin: 0 0 0.035in;
+  margin: 0 0 0.045in;
   font-size: 12px;
   line-height: 1.15;
 }
@@ -754,7 +754,7 @@
 .ml-glossary-set-list {
   display: flex;
   flex-direction: column;
-  gap: 0.22in;
+  gap: 0.18in;
 }
 
 .ml-glossary-set {
@@ -770,7 +770,7 @@
   color: #596e5e;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin: 0 0 0.06in;
+  margin: 0 0 0.04in;
 }
 
 .ml-glossary-grid {
