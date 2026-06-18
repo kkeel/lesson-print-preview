@@ -548,18 +548,6 @@ function renderMLStoryResource(story) {
         </h2>
       </header>
 
-      <div class="ml-story-column-headings">
-        <div>
-          <div class="ml-story-column-rule"></div>
-          <div class="ml-story-column-label">${escapeHtml(languageLabel)}</div>
-        </div>
-
-        <div>
-          <div class="ml-story-column-rule"></div>
-          <div class="ml-story-column-label">English</div>
-        </div>
-      </div>
-
       <div class="ml-story-lines">
         ${groupedLines.map(group => `
           <section class="ml-story-week-group">
