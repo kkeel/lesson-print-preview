@@ -548,6 +548,8 @@ function renderMLStoryResource(story) {
         </h2>
       </header>
 
+      <div class="ml-story-title-rule"></div>
+
       <div class="ml-story-lines">
         ${groupedLines.map(group => `
           <section class="ml-story-week-group">
