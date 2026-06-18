@@ -648,6 +648,12 @@
 
 /* Storylines compact reference layout */
 
+.ml-story-title-rule {
+  height: 2px;
+  background: #adb58f;
+  margin: 0 0 0.08in;
+}
+
 .ml-storylines-appendix .ml-story-header {
   margin-bottom: 0.14in;
 }
