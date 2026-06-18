@@ -646,6 +646,59 @@
   margin: 0 0 0.08in;
 }
 
+/* Storylines compact reference layout */
+
+.ml-storylines-appendix .ml-story-header {
+  margin-bottom: 0.14in;
+}
+
+.ml-storylines-appendix .ml-story-lines {
+  margin-top: 0;
+}
+
+.ml-story-week-group {
+  margin-top: 0.16in;
+}
+
+.ml-story-week-group:first-child {
+  margin-top: 0;
+}
+
+.ml-story-week-title {
+  margin: 0 0 0.035in;
+  font-size: 12px;
+  line-height: 1.15;
+}
+
+.ml-storylines-appendix .ml-story-line {
+  margin-top: 0;
+  padding: 0.035in 0 0.035in;
+  align-items: start;
+}
+
+.ml-storylines-appendix .ml-story-language-col {
+  padding-right: 0.14in;
+}
+
+.ml-storylines-appendix .ml-story-translation-col {
+  padding-left: 0.14in;
+}
+
+.ml-storylines-appendix .ml-story-language-col .ml-story-line-inner {
+  display: grid;
+  grid-template-columns: 0.34in minmax(0, 1fr);
+  gap: 0.08in;
+  align-items: start;
+}
+
+.ml-storylines-appendix .ml-story-translation-col .ml-story-line-inner {
+  display: block;
+}
+
+.ml-storylines-appendix .ml-story-translation-col .ml-story-reference-spacer {
+  display: none;
+}
+
 /* =========================
    ML Songs & Rhymes
    ========================= */
