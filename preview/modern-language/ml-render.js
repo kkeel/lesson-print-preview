@@ -572,27 +572,33 @@ function groupMLStoryLinesByWeek(lines = []) {
 
   [...lines]
     .sort((a, b) => {
+      const aWeek = Number(a.week || 9999);
+      const bWeek = Number(b.week || 9999);
+
+      if (aWeek !== bWeek) return aWeek - bWeek;
+
       const aLine = Number(a.lineNumber || a.sequence || 0);
       const bLine = Number(b.lineNumber || b.sequence || 0);
 
-      if (aLine && bLine && aLine !== bLine) return aLine - bLine;
+      if (aLine !== bLine) return aLine - bLine;
 
       return String(a.sentence || "").localeCompare(String(b.sentence || ""));
     })
     .forEach(line => {
-      const setNumber = getMLSetNumber(line.set);
-      const weekLabel = setNumber && setNumber !== 999
-        ? `Week ${setNumber}`
-        : (line.set || "Week");
+      const weekKey = String(line.week || line.weekLabel || line.set || "week").trim();
 
-      if (!groups.has(weekLabel)) {
-        groups.set(weekLabel, {
+      const weekLabel =
+        line.weekLabel ||
+        (line.week ? `Week ${line.week}` : line.set || "Week");
+
+      if (!groups.has(weekKey)) {
+        groups.set(weekKey, {
           weekLabel,
           lines: []
         });
       }
 
-      groups.get(weekLabel).lines.push(line);
+      groups.get(weekKey).lines.push(line);
     });
 
   return [...groups.values()];
