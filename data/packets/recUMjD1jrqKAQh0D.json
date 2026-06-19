@@ -21,7 +21,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recUMjD1jrqKAQh0D-civics-ethics-grade-12.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "",
   "studentVersion": false,
@@ -813,15 +813,10 @@
               "linkLabel": "Civics/Ethics",
               "title": "40m Civics/Ethics: Grade 12 - Lesson 35",
               "body": "⍞ Materials: Conscience, notebook\n\n➜ READ, NARRATE, & DISCUSS\nCh.6 p.129 \"What Stays?\" - Ch.7\n\n• How should you relate to people in other cultures when your consciences disagree?",
-              "teacherNotes": "★ STUDENT NOTE\nIf interested in a Q and A session with one of the authors:\n∞ Video Link: Conscience",
+              "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recUMjD1jrqKAQh0D&6J82c=recf1uI7VAUpTBQA3",
-              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recUMjD1jrqKAQh0D&term=3&week=35",
-              "links": [
-                {
-                  "text": "Conscience",
-                  "url": "https://vimeo.com/163540578"
-                }
-              ]
+              "lessonLinksUrl": "",
+              "links": []
             },
             {
               "lessonId": "recT3jpSiNtsCDxFb",
