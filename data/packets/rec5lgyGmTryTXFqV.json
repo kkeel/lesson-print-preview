@@ -40999,6 +40999,7 @@
                 "id": "rec6RRu1bJcjHg5MB",
                 "title": "Title 5",
                 "sequence": 5,
+                "term": "3",
                 "text": "",
                 "translation": ""
               },
@@ -41006,6 +41007,7 @@
                 "id": "recL6IALF18OY636c",
                 "title": "Title 2",
                 "sequence": 2,
+                "term": "1",
                 "text": "",
                 "translation": ""
               },
@@ -41013,6 +41015,7 @@
                 "id": "recNMFjNwPCQqLYVP",
                 "title": "Title 4",
                 "sequence": 4,
+                "term": "2",
                 "text": "",
                 "translation": ""
               },
@@ -41020,6 +41023,7 @@
                 "id": "recUYLIJ68obQr09i",
                 "title": "Title 1",
                 "sequence": 1,
+                "term": "1",
                 "text": "",
                 "translation": ""
               },
@@ -41027,6 +41031,7 @@
                 "id": "recdlAkOmWMaI5En0",
                 "title": "Title 3",
                 "sequence": 3,
+                "term": "2",
                 "text": "",
                 "translation": ""
               },
@@ -41034,6 +41039,7 @@
                 "id": "recneZaMsrwZx0TAH",
                 "title": "Title 6",
                 "sequence": 6,
+                "term": "3",
                 "text": "",
                 "translation": ""
               }
