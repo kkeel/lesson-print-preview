@@ -739,22 +739,22 @@
   font-weight: 400;
 }
 
-.ml-song-header {
+.ml-resource-title-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 0.24in;
 }
 
-.ml-song-header .ml-story-title {
+.ml-resource-title-header .ml-story-title {
   min-width: 0;
 }
 
-.ml-song-term-label {
+.ml-resource-term-label {
   flex: 0 0 auto;
 
   font-family: "Circular Pro", system-ui, sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.06em;
