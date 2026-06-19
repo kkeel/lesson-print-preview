@@ -609,6 +609,17 @@ function groupMLStoryLinesByWeek(lines = []) {
   return [...groups.values()];
 }
 
+function formatMLStudentTermWeekLabel(page = {}) {
+  const term = String(page.term || "").trim();
+  const week = String(page.week || "").trim();
+
+  if (term && week) return `Term ${term} - Week ${week}`;
+  if (term) return `Term ${term}`;
+  if (week) return `Week ${week}`;
+
+  return "";
+}
+
 function formatMLStoryReference(line = {}) {
   const lineNumber = Number(line.lineNumber || line.sequence || 0);
 
@@ -676,8 +687,16 @@ function renderMLStoryboardCopyworkPage(page = {}) {
 
   return `
     <section class="ml-student-page ml-storyboard-copywork-page">
-      <header class="ml-student-page-header">
-        ${escapeHtml(page.lessonNumber || "Lesson")} Storyboards & Copywork
+      <header class="ml-student-page-header ml-student-page-header-row">
+        <span>
+          ${escapeHtml(page.lessonNumber || "Lesson")} Storyboards & Copywork
+        </span>
+      
+        ${formatMLStudentTermWeekLabel(page) ? `
+          <span class="ml-student-page-meta">
+            ${escapeHtml(formatMLStudentTermWeekLabel(page))}
+          </span>
+        ` : ""}
       </header>
 
       <div class="ml-appendix-top-rule"></div>
