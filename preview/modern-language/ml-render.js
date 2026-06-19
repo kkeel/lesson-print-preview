@@ -542,10 +542,16 @@ function renderMLStoryResource(story) {
     <article class="ml-story-resource">
       <div class="ml-appendix-top-rule"></div>
 
-      <header class="ml-story-header">
+      <header class="ml-story-header ml-song-header">
         <h2 class="ml-story-title">
-          ${escapeHtml(story.title || "")}
+          ${escapeHtml(song.title || "")}
         </h2>
+      
+        ${song.term ? `
+          <div class="ml-song-term-label">
+            Term ${escapeHtml(song.term)}
+          </div>
+        ` : ""}
       </header>
 
       <div class="ml-story-title-rule"></div>
