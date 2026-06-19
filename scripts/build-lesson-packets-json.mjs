@@ -1730,6 +1730,7 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
             id: item.id,
             title: item.title,
             sequence: item.sequence,
+            term: getMLSongTermFromLessons(item, lessons),
             text: item.songText,
             translation: item.songTranslation
           })),
@@ -1780,6 +1781,26 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
     lessonSets,
     weeklyLessons: buildModernLanguageWeeklyLessons(lessonSets)
   };
+}
+
+function getMLSongTermFromLessons(item = {}, lessons = []) {
+  const songTitle = normalizeText(item.title).toLowerCase();
+
+  const matchedLesson = lessons.find(lesson => {
+    const subtitle = normalizeText(lesson.subtitle).toLowerCase();
+    const lessonTitle = normalizeText(lesson.title).toLowerCase();
+
+    return (
+      songTitle &&
+      (
+        subtitle === songTitle ||
+        subtitle.includes(songTitle) ||
+        lessonTitle.includes(songTitle)
+      )
+    );
+  });
+
+  return normalizeText(matchedLesson?.term);
 }
 
 function buildModernLanguageWeeklyLessons(lessonSets = []) {
