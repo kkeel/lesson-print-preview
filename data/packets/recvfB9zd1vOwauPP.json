@@ -22236,6 +22236,7 @@
               {
                 "id": "rec9Sdlk2Ja88Fy8F",
                 "title": "Fábulas de Esopo, \"El burro con piel de león\"",
+                "term": "2",
                 "storylineIds": [
                   "rec3Qq3QtGQjvMbnV",
                   "recT92vmzEJ0rjmx1",
@@ -22584,6 +22585,7 @@
               {
                 "id": "recChBnIQQSlfz9bK",
                 "title": "Fábulas de Esopo, \"El zorro y las uvas\"",
+                "term": "1",
                 "storylineIds": [
                   "rechu1c9ExILS8z30",
                   "recZ8j7uIdaV5GWWP",
@@ -22912,6 +22914,7 @@
               {
                 "id": "recXLOsbmzX0WW6dC",
                 "title": "Fábulas de Esopo, \"El lobo y el cordero\"",
+                "term": "3",
                 "storylineIds": [
                   "rec15t0I39PYcxINi",
                   "rechZDSO0sDm57CXl",
@@ -23380,6 +23383,7 @@
               {
                 "id": "recXpSfqzCiLsL4TC",
                 "title": "Fábulas de Esopo, \"El lobo con piel de oveja\"",
+                "term": "1",
                 "storylineIds": [
                   "recdfDXySiS12fWjn",
                   "recd09VhsvrV9fiWF",
@@ -23708,6 +23712,7 @@
               {
                 "id": "recbdrDfb3s7ylZyD",
                 "title": "Fábulas de Esopo, \"Fable 5\"",
+                "term": "3",
                 "storylineIds": [
                   "recyoj2Mkzzd8KX3x",
                   "rec82PCpVc8yPC8HO",
@@ -24136,6 +24141,7 @@
               {
                 "id": "recqP4DPGcHQGysFU",
                 "title": "Fábulas de Esopo, \"La tortuga y el águila\"",
+                "term": "2",
                 "storylineIds": [
                   "recJFJisyhKx0gIDk",
                   "rec3uLU39AjVQZL3q",
@@ -33853,6 +33859,7 @@
               {
                 "id": "rec9Sdlk2Ja88Fy8F",
                 "title": "Fábulas de Esopo, \"El burro con piel de león\"",
+                "term": "2",
                 "storylineIds": [
                   "rec3Qq3QtGQjvMbnV",
                   "recT92vmzEJ0rjmx1",
@@ -34201,6 +34208,7 @@
               {
                 "id": "recChBnIQQSlfz9bK",
                 "title": "Fábulas de Esopo, \"El zorro y las uvas\"",
+                "term": "1",
                 "storylineIds": [
                   "rechu1c9ExILS8z30",
                   "recZ8j7uIdaV5GWWP",
@@ -34529,6 +34537,7 @@
               {
                 "id": "recXLOsbmzX0WW6dC",
                 "title": "Fábulas de Esopo, \"El lobo y el cordero\"",
+                "term": "3",
                 "storylineIds": [
                   "rec15t0I39PYcxINi",
                   "rechZDSO0sDm57CXl",
@@ -34997,6 +35006,7 @@
               {
                 "id": "recXpSfqzCiLsL4TC",
                 "title": "Fábulas de Esopo, \"El lobo con piel de oveja\"",
+                "term": "1",
                 "storylineIds": [
                   "recdfDXySiS12fWjn",
                   "recd09VhsvrV9fiWF",
@@ -35325,6 +35335,7 @@
               {
                 "id": "recbdrDfb3s7ylZyD",
                 "title": "Fábulas de Esopo, \"Fable 5\"",
+                "term": "3",
                 "storylineIds": [
                   "recyoj2Mkzzd8KX3x",
                   "rec82PCpVc8yPC8HO",
@@ -35753,6 +35764,7 @@
               {
                 "id": "recqP4DPGcHQGysFU",
                 "title": "Fábulas de Esopo, \"La tortuga y el águila\"",
+                "term": "2",
                 "storylineIds": [
                   "recJFJisyhKx0gIDk",
                   "rec3uLU39AjVQZL3q",
