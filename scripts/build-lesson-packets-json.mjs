@@ -1740,15 +1740,18 @@ function buildModernLanguageLessonsSection(packetRecord, headerLookup) {
           .map(item => {
             const storyLineScheduleById = buildMLStoryLineScheduleLookup(lessons);
         
+            const lines = buildMLStoryLinesFromSentenceIds(
+              item.storylineLabels,
+              mlSentencesById,
+              storyLineScheduleById
+            );
+            
             return {
               id: item.id,
               title: item.title,
+              term: getMLStoryTermFromLines(lines),
               storylineIds: item.storylineLabels,
-              lines: buildMLStoryLinesFromSentenceIds(
-                item.storylineLabels,
-                mlSentencesById,
-                storyLineScheduleById
-              )
+              lines
             };
           }),
       
@@ -1801,6 +1804,16 @@ function getMLSongTermFromLessons(item = {}, lessons = []) {
   });
 
   return normalizeText(matchedLesson?.term);
+}
+
+function getMLStoryTermFromLines(lines = []) {
+  const terms = [...new Set(
+    (lines || [])
+      .map(line => normalizeText(line.term))
+      .filter(Boolean)
+  )];
+
+  return terms[0] || "";
 }
 
 function buildModernLanguageWeeklyLessons(lessonSets = []) {
