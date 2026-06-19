@@ -535,17 +535,22 @@ function renderMLByLessonSet(section, options = {}) {
 }
 
 function renderMLStoryResource(story) {
-  const languageLabel = story.language || "Spanish/French";
   const groupedLines = groupMLStoryLinesByWeek(story.lines || []);
 
   return `
     <article class="ml-story-resource">
       <div class="ml-appendix-top-rule"></div>
 
-      <header class="ml-story-header">
+      <header class="ml-story-header ml-resource-title-header">
         <h2 class="ml-story-title">
           ${escapeHtml(story.title || "")}
         </h2>
+
+        ${story.term ? `
+          <div class="ml-resource-term-label">
+            Term ${escapeHtml(story.term)}
+          </div>
+        ` : ""}
       </header>
 
       <div class="ml-story-title-rule"></div>
@@ -763,13 +768,13 @@ function renderMLSongResource(song) {
     <article class="ml-story-resource ml-song-resource">
       <div class="ml-appendix-top-rule"></div>
 
-      <header class="ml-story-header ml-song-header">
+      <header class="ml-story-header ml-resource-title-header">
         <h2 class="ml-story-title">
           ${escapeHtml(song.title || "")}
         </h2>
       
         ${song.term ? `
-          <div class="ml-song-term-label">
+          <div class="ml-resource-term-label">
             Term ${escapeHtml(song.term)}
           </div>
         ` : ""}
