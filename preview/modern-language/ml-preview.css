@@ -945,6 +945,20 @@
   border-bottom: 0.9px solid #596e5e;
 }
 
+.ml-student-page-header-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.2in;
+}
+
+.ml-student-page-meta {
+  flex: 0 0 auto;
+  color: #adb58f;
+  text-align: right;
+  white-space: nowrap;
+}
+
 /* Conversation Lines & Phrases appendix */
 
 .ml-conversation-set-pairs {
