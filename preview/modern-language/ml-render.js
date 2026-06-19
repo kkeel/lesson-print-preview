@@ -611,11 +611,14 @@ function groupMLStoryLinesByWeek(lines = []) {
 
 function formatMLStudentTermWeekLabel(page = {}) {
   const term = String(page.term || "").trim();
-  const week = String(page.week || "").trim();
+  const absoluteWeek = Number(page.week || 0);
+  const termWeek = absoluteWeek
+    ? ((absoluteWeek - 1) % 12) + 1
+    : "";
 
-  if (term && week) return `Term ${term} - Week ${week}`;
+  if (term && termWeek) return `Term ${term} - Week ${termWeek}`;
   if (term) return `Term ${term}`;
-  if (week) return `Week ${week}`;
+  if (termWeek) return `Week ${termWeek}`;
 
   return "";
 }
