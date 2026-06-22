@@ -12,6 +12,17 @@ on:
           - changed
           - all
           - samples-only
+          - term-course-only
+
+      term_packet_id:
+        description: "Packet ID for term-course-only"
+        required: false
+        default: ""
+
+      term_number:
+        description: "Term number for term-course-only"
+        required: false
+        default: "1"
 
   schedule:
     - cron: "30 11 * * *"
@@ -22,6 +33,8 @@ jobs:
 
     env:
       RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
+      TERM_PACKET_ID: ${{ github.event.inputs.term_packet_id || '' }}
+      TERM_NUMBER: ${{ github.event.inputs.term_number || '' }}
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
@@ -65,4 +78,7 @@ jobs:
             course-picker/pdf/modern-language/grades-1-3/*.pdf
             course-picker/pdf/modern-language/topics/*.pdf
             course-picker/pdf/modern-language/individual-lessons/*.pdf
+            course-picker/pdf/modern-language/term-courses/*.pdf
+            course-picker/pdf/modern-language/student-notebooks/*.pdf
+            course-picker/pdf/modern-language/references/*.pdf
             course-picker/pdf/modern-language/ml-pdf-manifest.json
