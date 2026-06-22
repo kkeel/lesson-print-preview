@@ -6,6 +6,7 @@ const mlTopic = params.get("topic") || "";
 const mlLesson = params.get("lesson") || "";
 const mlStudentNotebook = params.get("studentNotebook") || "";
 const mlReference = params.get("mlReference") || "";
+const mlTerm = params.get("term") || "";
 const sampleMode = params.get("sample") === "1";
 const studentMode = params.get("student") === "1";
 const SAMPLE_WEEK_COUNT = 3;
@@ -227,6 +228,7 @@ function renderPacket(data) {
       viewMode: mlViewMode,
       variant: mlVariant,
       topic: mlTopic,
+      term: mlTerm,
       lesson: "",
       studentNotebook: "",
       mlReference: "",
@@ -269,6 +271,7 @@ function renderSection(section, packetData) {
       viewMode: mlViewMode,
       variant: mlVariant,
       topic: mlTopic,
+      term: mlTerm,
       lesson: mlLesson,
       studentNotebook: mlStudentNotebook,
       mlReference,
