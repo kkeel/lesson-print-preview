@@ -34,6 +34,7 @@ function prepareMLSectionForRender(section, options = {}) {
   const variant = String(options.variant || "").trim();
   const topic = String(options.topic || "").trim();
   const lessonId = String(options.lesson || "").trim();
+  const termFilter = String(options.term || "").trim();
 
   const allLessonSets = (section.lessonSets || []).map(lessonSet => ({
     ...lessonSet,
@@ -67,6 +68,17 @@ function prepareMLSectionForRender(section, options = {}) {
       .map(lessonSet => ({
         ...lessonSet,
         lessons: (lessonSet.lessons || []).filter(lesson => lesson.id === lessonId)
+      }))
+      .filter(lessonSet => lessonSet.lessons.length);
+  }
+
+  if (termFilter) {
+    lessonSets = lessonSets
+      .map(lessonSet => ({
+        ...lessonSet,
+        lessons: (lessonSet.lessons || []).filter(
+          lesson => String(lesson.term || "").trim() === termFilter
+        )
       }))
       .filter(lessonSet => lessonSet.lessons.length);
   }
@@ -179,6 +191,19 @@ function collectMLSampleSetsByType(lessonSets = []) {
   return sets;
 }
 
+function filterMLLessonSetsByTerm(lessonSets = [], termFilter = "") {
+  if (!termFilter) return lessonSets;
+
+  return (lessonSets || [])
+    .map(lessonSet => ({
+      ...lessonSet,
+      lessons: (lessonSet.lessons || []).filter(
+        lesson => String(lesson.term || "").trim() === termFilter
+      )
+    }))
+    .filter(lessonSet => lessonSet.lessons.length);
+}
+
 function filterMLStoryForSample(story, sampleSetsByType) {
   const lines = (story.lines || []).filter(line => {
     const set = getMLSampleSetKey(line.set);
@@ -189,6 +214,22 @@ function filterMLStoryForSample(story, sampleSetsByType) {
 
   return {
     ...story,
+    lines
+  };
+}
+
+function filterMLStoryForTerm(story, termFilter = "") {
+  if (!story || !termFilter) return story;
+
+  const lines = (story.lines || []).filter(line =>
+    String(line.term || "").trim() === termFilter
+  );
+
+  if (!lines.length) return null;
+
+  return {
+    ...story,
+    term: termFilter,
     lines
   };
 }
@@ -225,8 +266,18 @@ function buildMLAppendices(lessonSets = [], options = {}) {
   const seenConversationIds = new Set();
 
   const isSampleMode = options.sampleMode === true;
+  const termFilter = String(options.term || "").trim();
+  
   const sampleSetsByType = isSampleMode
     ? collectMLSampleSetsByType(lessonSets)
+    : null;
+  
+  const termLessonSets = termFilter
+    ? filterMLLessonSetsByTerm(lessonSets, termFilter)
+    : lessonSets;
+  
+  const termSetsByType = termFilter
+    ? collectMLSampleSetsByType(termLessonSets)
     : null;
 
   const stories = [];
@@ -240,9 +291,13 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     (resources.stories || []).forEach(story => {
       if (seenStoryIds.has(story.id)) return;
 
-      const storyForAppendix = isSampleMode
+      let storyForAppendix = isSampleMode
         ? filterMLStoryForSample(story, sampleSetsByType)
         : story;
+      
+      if (termFilter) {
+        storyForAppendix = filterMLStoryForTerm(storyForAppendix, termFilter);
+      }
 
       if (!storyForAppendix) return;
 
@@ -259,6 +314,7 @@ function buildMLAppendices(lessonSets = [], options = {}) {
       if (seenSongIds.has(song.id)) return;
 
       if (isSampleMode && songsRhymes.length >= 1) return;
+      if (termFilter && String(song.term || "").trim() !== termFilter) return;
 
       seenSongIds.add(song.id);
 
@@ -276,6 +332,10 @@ function buildMLAppendices(lessonSets = [], options = {}) {
         return;
       }
 
+      if (termFilter && !shouldKeepMLGlossaryItemForSample(item, termSetsByType)) {
+        return;
+      }
+
       seenGlossaryIds.add(item.id);
 
       glossary.push({
@@ -290,6 +350,8 @@ function buildMLAppendices(lessonSets = [], options = {}) {
         const sentenceType = String(sentence.sentenceType || "").toLowerCase();
 
         if (!sentenceType.includes("conversation")) return;
+        
+        if (termFilter && String(lesson.term || "").trim() !== termFilter) return;
 
         if (isSampleMode) {
           const set = getMLSampleSetKey(sentence.set);
@@ -334,7 +396,7 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     songsRhymes,
     glossary,
     conversationLines,
-    studentLiteraturePages: buildMLStudentLiteraturePages(lessonSets)
+    studentLiteraturePages: buildMLStudentLiteraturePages(termFilter ? termLessonSets : lessonSets)
   };
 }
 
