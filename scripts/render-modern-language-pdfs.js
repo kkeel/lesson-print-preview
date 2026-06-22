@@ -17,6 +17,9 @@ const BASE_PRINT_URL =
 
 const RENDER_MODE = process.env.RENDER_MODE || "changed";
 
+const TERM_PACKET_ID = process.env.TERM_PACKET_ID || "";
+const TERM_NUMBER = process.env.TERM_NUMBER || "";
+
 const OUTPUT_PATHS = {
   fullCourse: `${OUTPUT_ROOT}/full-course`,
   grades13: `${OUTPUT_ROOT}/grades-1-3`,
@@ -24,6 +27,7 @@ const OUTPUT_PATHS = {
   individualLessons: `${OUTPUT_ROOT}/individual-lessons`,
   studentNotebooks: `${OUTPUT_ROOT}/student-notebooks`,
   references: `${OUTPUT_ROOT}/references`,
+  termCourses: `${OUTPUT_ROOT}/term-courses`,
   samples: `${COURSE_PICKER_DIR}/pdf/samples`
 };
 
@@ -274,6 +278,33 @@ function getReferenceJobs(packet, mlSection) {
   }));
 }
 
+function getTermCourseJobs(packet, mlSection) {
+  if (TERM_PACKET_ID && packet.id !== TERM_PACKET_ID) return [];
+
+  const languageSlug = getLanguageSlug(packet, mlSection);
+  const terms = TERM_NUMBER ? [TERM_NUMBER] : ["1", "2", "3"];
+
+  return terms.map(term => ({
+    key: `${packet.id}:term-course:${term}`,
+    type: `termCourse:${term}`,
+    packetId: packet.id,
+    pdfPrintingStatus: packet.pdfPrintingStatus,
+    outputPath: path.join(
+      OUTPUT_PATHS.termCourses,
+      `${packet.id}-${languageSlug}-term-${term}.pdf`
+    ),
+    url: buildPrintUrl(packet.id, {
+      term
+    }),
+    hashSource: {
+      packetId: packet.id,
+      pdfPrintingStatus: packet.pdfPrintingStatus,
+      term,
+      packet
+    }
+  }));
+}
+
 function getPacketRenderJobs(packet) {
   const mlSection = getModernLanguageSection(packet);
 
@@ -331,7 +362,8 @@ function getPacketRenderJobs(packet) {
     ...getTopicRenderJobs(packet, mlSection),
     ...getIndividualLessonJobs(packet, mlSection),
     ...getStudentNotebookJobs(packet, mlSection),
-    ...getReferenceJobs(packet, mlSection)
+    ...getReferenceJobs(packet, mlSection),
+    ...getTermCourseJobs(packet, mlSection)
   ];
 }
 
@@ -385,6 +417,10 @@ async function main() {
 
   console.log(`Modern Language render mode: ${RENDER_MODE}`);
 
+  if (RENDER_MODE === "term-course-only" && !TERM_PACKET_ID) {
+    throw new Error("TERM_PACKET_ID is required when RENDER_MODE is term-course-only.");
+  }
+
   const index = loadJson(INDEX_PATH);
   const manifest = loadManifest();
   const jobs = [];
@@ -422,12 +458,19 @@ async function main() {
     const shouldRender =
       RENDER_MODE === "all" ||
       RENDER_MODE === "samples-only" ||
+      RENDER_MODE === "term-course-only" ||
       pdfPrintingStatus === "needs update" ||
       currentHash !== previousHash ||
       !fs.existsSync(job.outputPath);
     
     if (RENDER_MODE === "samples-only" && job.type !== "sample") {
       console.log(`Skipping non-sample ML job: ${job.key}`);
+      skippedCount++;
+      continue;
+    }
+
+    if (RENDER_MODE === "term-course-only" && !String(job.type || "").startsWith("termCourse:")) {
+      console.log(`Skipping non-term-course ML job: ${job.key}`);
       skippedCount++;
       continue;
     }
