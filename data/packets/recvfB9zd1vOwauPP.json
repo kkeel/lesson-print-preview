@@ -19,7 +19,7 @@
   "manualPdfUrl": "",
   "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
@@ -489,7 +489,7 @@
               "lessonLabel": "Lesson 2",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.4-5, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBuenos días, maestra. - Good morning, teacher.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -733,7 +733,7 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.4-5, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nDuermo toda la noche. - I sleep all night.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -1082,6 +1082,10 @@
                 {
                   "text": "VideoSet3",
                   "url": "https://vimeo.com/1195409012/5e391859f3"
+                },
+                {
+                  "text": "AudioT1Set3",
+                  "url": "https://on.soundcloud.com/r5IJd7xsRkyNvqOnyr"
                 }
               ],
               "vocab": [
@@ -1185,7 +1189,7 @@
               "lessonLabel": "Lesson 7",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.6-7, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nLo siento mucho. -  I am very sorry.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -1200,6 +1204,10 @@
                 {
                   "text": "VideoSet3",
                   "url": "https://vimeo.com/1195409012/5e391859f3"
+                },
+                {
+                  "text": "AudioT1Set3",
+                  "url": "https://on.soundcloud.com/r5IJd7xsRkyNvqOnyr"
                 }
               ],
               "vocab": [
@@ -1318,6 +1326,10 @@
                 {
                   "text": "VideoSet4",
                   "url": "https://vimeo.com/1195412106/8e0c86c12b"
+                },
+                {
+                  "text": "AudioT1Set4",
+                  "url": "https://on.soundcloud.com/HT3Ts1fXQtlcyEzKpH"
                 }
               ],
               "vocab": [
@@ -1421,7 +1433,7 @@
               "lessonLabel": "Lesson 9",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.6-7, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMe gusta jugar afuera - I like to play outside.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -1436,6 +1448,10 @@
                 {
                   "text": "VideoSet4",
                   "url": "https://vimeo.com/1195412106/8e0c86c12b"
+                },
+                {
+                  "text": "AudioT1Set4",
+                  "url": "https://on.soundcloud.com/HT3Ts1fXQtlcyEzKpH"
                 }
               ],
               "vocab": [
@@ -2282,7 +2298,7 @@
               "lessonLabel": "Lesson 14",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.8-9, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nHoy hace sol. - Today it is sunny",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -2550,7 +2566,7 @@
               "lessonLabel": "Lesson 16",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.8-9, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nEstoy feliz hoy. - I am happy today.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -3058,7 +3074,7 @@
               "lessonLabel": "Lesson 19",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.10-11, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAdiós, hasta mañana. - Goodbye, see you tomorrow.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -3326,7 +3342,7 @@
               "lessonLabel": "Lesson 21",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.10-11, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMe cepillo los dientes - I brush my teeth.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -4323,7 +4339,7 @@
               "lessonLabel": "Lesson 26",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.12-13, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nComo mi desayuno. - I eat my breakfast.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -4631,7 +4647,7 @@
               "lessonLabel": "Lesson 28",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.12-13, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCierra la puerta. - Close the door.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -5223,7 +5239,7 @@
               "lessonLabel": "Lesson 31",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.14-15, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPongo la mesa. - I set the table.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -5531,7 +5547,7 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.14-15, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCeno con mi familia. -  I eat dinner with my family.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -11095,6 +11111,10 @@
                 {
                   "text": "VideoL6Ext",
                   "url": "https://vimeo.com/1195418940/617bf7df63?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1Week6 Ext",
+                  "url": "https://on.soundcloud.com/9BCQ57zHps9PhvsgNc"
                 }
               ],
               "vocab": [],
@@ -11218,6 +11238,10 @@
                 {
                   "text": "VideoL7Ext",
                   "url": "https://vimeo.com/1195418940/617bf7df63"
+                },
+                {
+                  "text": "AudioT1Week7 Ext",
+                  "url": "https://on.soundcloud.com/9BCQ57zHps9PhvsgNc"
                 }
               ],
               "vocab": [],
@@ -11341,6 +11365,10 @@
                 {
                   "text": "VideoL8Ext",
                   "url": "https://vimeo.com/1195420624/55581f9237"
+                },
+                {
+                  "text": "AudioT1Week8 Ext",
+                  "url": "https://on.soundcloud.com/667EydwgINiku8ulnG"
                 }
               ],
               "vocab": [],
@@ -11464,6 +11492,10 @@
                 {
                   "text": "VideoL9Ext",
                   "url": "https://vimeo.com/1195420624/55581f9237"
+                },
+                {
+                  "text": "AudioT1Week9 Ext",
+                  "url": "https://on.soundcloud.com/667EydwgINiku8ulnG"
                 }
               ],
               "vocab": [],
@@ -16496,6 +16528,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQKxVM99dgRimD7.pdf"
+                },
+                {
+                  "text": "VideoLit6",
+                  "url": "https://vimeo.com/1203530666/84004f902c?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW6",
+                  "url": "https://on.soundcloud.com/XzeuVOJqrlH7RQUKCh"
                 }
               ],
               "vocab": [
@@ -16621,6 +16661,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec9CMV9EnFPM9WMg.pdf"
+                },
+                {
+                  "text": "VideoLit7",
+                  "url": "https://vimeo.com/1203530664/415cf95506?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW7",
+                  "url": "https://on.soundcloud.com/Gc9HJY0LZGJ3pg3FGf"
                 }
               ],
               "vocab": [
@@ -16746,6 +16794,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqpzynBCkRE6fVg.pdf"
+                },
+                {
+                  "text": "VideoLit8",
+                  "url": "https://vimeo.com/1203530665/da56a29a94?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW8",
+                  "url": "https://on.soundcloud.com/MCWOY1BRu2Q2uDQqvZ"
                 }
               ],
               "vocab": [
@@ -16871,6 +16927,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reciUF72oxAi65WYj.pdf"
+                },
+                {
+                  "text": "VideoLit9",
+                  "url": "https://vimeo.com/1203530668/40772ca1f1?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW9",
+                  "url": "https://on.soundcloud.com/5l21BquxwNMB2fhIes"
                 }
               ],
               "vocab": [
@@ -16996,6 +17060,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqF0A8yc5cLJkre.pdf"
+                },
+                {
+                  "text": "VideoLit10",
+                  "url": "https://vimeo.com/1203534781/f028413b9d?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW10",
+                  "url": "https://on.soundcloud.com/5yM1oC00bLe6UXWq73"
                 }
               ],
               "vocab": [
@@ -39443,6 +39515,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclphYaNQlkE0P4z.pdf"
+                },
+                {
+                  "text": "T1ConvoW6",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
                 }
               ],
               "vocab": [],
@@ -39507,6 +39587,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBORG4T4w5aW8Wc.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW7",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
                 }
               ],
               "vocab": [],
@@ -39571,6 +39659,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recEyRBsJVeZIbnz0.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW8",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -39635,6 +39731,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recWqd1sEm8CCaK2K.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW9",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -39699,6 +39803,18 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reco7j6RpVU51DSZ4.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW6",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
+                },
+                {
+                  "text": "T1ConvoW8",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -42425,7 +42541,7 @@
               "lessonLabel": "Lesson 2",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.4-5, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nBuenos días, maestra. - Good morning, teacher.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -43627,7 +43743,7 @@
               "lessonLabel": "Lesson 4",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.4-5, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nDuermo toda la noche. - I sleep all night.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -45193,6 +45309,10 @@
                 {
                   "text": "VideoSet3",
                   "url": "https://vimeo.com/1195409012/5e391859f3"
+                },
+                {
+                  "text": "AudioT1Set3",
+                  "url": "https://on.soundcloud.com/r5IJd7xsRkyNvqOnyr"
                 }
               ],
               "vocab": [
@@ -45314,6 +45434,10 @@
                 {
                   "text": "VideoL6Ext",
                   "url": "https://vimeo.com/1195418940/617bf7df63?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1Week6 Ext",
+                  "url": "https://on.soundcloud.com/9BCQ57zHps9PhvsgNc"
                 }
               ],
               "vocab": [],
@@ -45436,6 +45560,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQKxVM99dgRimD7.pdf"
+                },
+                {
+                  "text": "VideoLit6",
+                  "url": "https://vimeo.com/1203530666/84004f902c?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW6",
+                  "url": "https://on.soundcloud.com/XzeuVOJqrlH7RQUKCh"
                 }
               ],
               "vocab": [
@@ -45692,6 +45824,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclphYaNQlkE0P4z.pdf"
+                },
+                {
+                  "text": "T1ConvoW6",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
                 }
               ],
               "vocab": [],
@@ -45755,7 +45895,7 @@
               "lessonLabel": "Lesson 7",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.6-7, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nLo siento mucho. -  I am very sorry.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -45770,6 +45910,10 @@
                 {
                   "text": "VideoSet3",
                   "url": "https://vimeo.com/1195409012/5e391859f3"
+                },
+                {
+                  "text": "AudioT1Set3",
+                  "url": "https://on.soundcloud.com/r5IJd7xsRkyNvqOnyr"
                 }
               ],
               "vocab": [
@@ -45891,6 +46035,10 @@
                 {
                   "text": "VideoL7Ext",
                   "url": "https://vimeo.com/1195418940/617bf7df63"
+                },
+                {
+                  "text": "AudioT1Week7 Ext",
+                  "url": "https://on.soundcloud.com/9BCQ57zHps9PhvsgNc"
                 }
               ],
               "vocab": [],
@@ -46013,6 +46161,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec9CMV9EnFPM9WMg.pdf"
+                },
+                {
+                  "text": "VideoLit7",
+                  "url": "https://vimeo.com/1203530664/415cf95506?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW7",
+                  "url": "https://on.soundcloud.com/Gc9HJY0LZGJ3pg3FGf"
                 }
               ],
               "vocab": [
@@ -46269,6 +46425,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBORG4T4w5aW8Wc.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW7",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
                 }
               ],
               "vocab": [],
@@ -46347,6 +46511,10 @@
                 {
                   "text": "VideoSet4",
                   "url": "https://vimeo.com/1195412106/8e0c86c12b"
+                },
+                {
+                  "text": "AudioT1Set4",
+                  "url": "https://on.soundcloud.com/HT3Ts1fXQtlcyEzKpH"
                 }
               ],
               "vocab": [
@@ -46468,6 +46636,10 @@
                 {
                   "text": "VideoL8Ext",
                   "url": "https://vimeo.com/1195420624/55581f9237"
+                },
+                {
+                  "text": "AudioT1Week8 Ext",
+                  "url": "https://on.soundcloud.com/667EydwgINiku8ulnG"
                 }
               ],
               "vocab": [],
@@ -46590,6 +46762,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqpzynBCkRE6fVg.pdf"
+                },
+                {
+                  "text": "VideoLit8",
+                  "url": "https://vimeo.com/1203530665/da56a29a94?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW8",
+                  "url": "https://on.soundcloud.com/MCWOY1BRu2Q2uDQqvZ"
                 }
               ],
               "vocab": [
@@ -46846,6 +47026,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recEyRBsJVeZIbnz0.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW8",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -46909,7 +47097,7 @@
               "lessonLabel": "Lesson 9",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.6-7, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMe gusta jugar afuera - I like to play outside.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -46924,6 +47112,10 @@
                 {
                   "text": "VideoSet4",
                   "url": "https://vimeo.com/1195412106/8e0c86c12b"
+                },
+                {
+                  "text": "AudioT1Set4",
+                  "url": "https://on.soundcloud.com/HT3Ts1fXQtlcyEzKpH"
                 }
               ],
               "vocab": [
@@ -47045,6 +47237,10 @@
                 {
                   "text": "VideoL9Ext",
                   "url": "https://vimeo.com/1195420624/55581f9237"
+                },
+                {
+                  "text": "AudioT1Week9 Ext",
+                  "url": "https://on.soundcloud.com/667EydwgINiku8ulnG"
                 }
               ],
               "vocab": [],
@@ -47167,6 +47363,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reciUF72oxAi65WYj.pdf"
+                },
+                {
+                  "text": "VideoLit9",
+                  "url": "https://vimeo.com/1203530668/40772ca1f1?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW9",
+                  "url": "https://on.soundcloud.com/5l21BquxwNMB2fhIes"
                 }
               ],
               "vocab": [
@@ -47423,6 +47627,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recWqd1sEm8CCaK2K.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW9",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -47922,6 +48134,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqF0A8yc5cLJkre.pdf"
+                },
+                {
+                  "text": "VideoLit10",
+                  "url": "https://vimeo.com/1203534781/f028413b9d?share=copy&fl=sv&fe=ci"
+                },
+                {
+                  "text": "AudioT1LitW10",
+                  "url": "https://on.soundcloud.com/5yM1oC00bLe6UXWq73"
                 }
               ],
               "vocab": [
@@ -48320,6 +48540,18 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reco7j6RpVU51DSZ4.pdf"
+                },
+                {
+                  "text": "T1Week6SiSePuede",
+                  "url": "https://on.soundcloud.com/zE5hSNDrUf5Wc6rbTG"
+                },
+                {
+                  "text": "T1ConvoW6",
+                  "url": "https://on.soundcloud.com/9pwbwEKRrkzrGTJwEc"
+                },
+                {
+                  "text": "T1ConvoW8",
+                  "url": "https://on.soundcloud.com/XcZIAfkeUULh9mZG0a"
                 }
               ],
               "vocab": [],
@@ -51340,7 +51572,7 @@
               "lessonLabel": "Lesson 14",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.8-9, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nHoy hace sol. - Today it is sunny",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -52518,7 +52750,7 @@
               "lessonLabel": "Lesson 16",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.8-9, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nEstoy feliz hoy. - I am happy today.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -54676,7 +54908,7 @@
               "lessonLabel": "Lesson 19",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.10-11, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nAdiós, hasta mañana. - Goodbye, see you tomorrow.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -55876,7 +56108,7 @@
               "lessonLabel": "Lesson 21",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.10-11, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nMe cepillo los dientes - I brush my teeth.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -60549,7 +60781,7 @@
               "lessonLabel": "Lesson 26",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.12-13, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nComo mi desayuno. - I eat my breakfast.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -61811,7 +62043,7 @@
               "lessonLabel": "Lesson 28",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.12-13, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCierra la puerta. - Close the door.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -64097,7 +64329,7 @@
               "lessonLabel": "Lesson 31",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.14-15, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nPongo la mesa. - I set the table.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
@@ -65381,7 +65613,7 @@
               "lessonLabel": "Lesson 33",
               "linkLabel": "Picture Study",
               "materials": "⍞ Materials: Cuadros de Familia p.14-15, Student Notebook",
-              "prep": "➜ PREP \n ⬚ Review instructions on TPR Modeling & teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
+              "prep": "➜ PREP \n ⬚ Review instructions on teaching Picture Study Lessons.\n ⬚ Preview Lesson & Audio/Video Links",
               "phraseOfWeek": "➜ PHRASE OF THE WEEK\nCeno con mi familia. -  I eat dinner with my family.",
               "instructions": "➜ RECAP \n ⬚ Recall what you learned in the previous lesson. \n\n➜ LESSON \n ⬚ Play Audio/Video Links & Follow Along\n ⬚ Review & Practice Picture Study Vocabulary \n ⬚ Review & Practice Narration Sentences",
               "grammarInstructions": "",
