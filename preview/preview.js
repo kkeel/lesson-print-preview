@@ -171,6 +171,11 @@ function stripStudentAnswerTagsFromLessonsSection(section) {
 }
 
 function renderPacket(data) {
+  document.title =
+    data.lessonSetName ||
+    data.title ||
+    "Alveary Lesson Plan";
+
   let html = "";
 
   if (!data.sections || !Array.isArray(data.sections)) {
