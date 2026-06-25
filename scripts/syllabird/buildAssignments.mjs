@@ -43,6 +43,18 @@ function textToHtml(value) {
     .join("");
 }
 
+function buildAdditionalNotesHtml(value) {
+  const text = String(value ?? "").trim();
+
+  if (!text) return "";
+
+  return [
+    "<h2>Additional Notes</h2>",
+    "<p style=\"margin-top:-8px;\">────────────────────</p>",
+    textToHtml(text)
+  ].join("\n");
+}
+
 function splitTeacherNotesForSyllabird(value) {
   const text = String(value ?? "").trim();
 
@@ -319,20 +331,13 @@ function buildRowsForPacket(packet) {
           ? getExamContentForTerm(packet, termNumber)
           : "";
       
-      const additionalNotesBlock = splitNotes.bodyAppendix
-        ? [
-            "────────────────────",
-            "ADDITIONAL NOTES",
-            "────────────────────",
-            "",
-            splitNotes.bodyAppendix
-          ].join("\n")
-        : "";
-      
-      const assignmentBody = appendBlocks(
-        lesson.body || "",
-        additionalNotesBlock
+      const additionalNotesHtml = buildAdditionalNotesHtml(
+        splitNotes.bodyAppendix
       );
+      
+      const assignmentBodyHtml =
+        textToHtml(lesson.body || "") +
+        (additionalNotesHtml ? `\n${additionalNotesHtml}` : "");
       
       const assignmentTeacherNotes = appendBlocks(
         splitNotes.teacherNotes,
@@ -345,7 +350,7 @@ function buildRowsForPacket(packet) {
         assignment_week: weekNumber,
         assignment_day: dayNumber,
         assignment_name: lesson.title || "",
-        assignment_description: textToHtml(assignmentBody),
+        assignment_description: assignmentBodyHtml,
         assignment_teachersNote: textToHtml(assignmentTeacherNotes),
         assignment_linksUrl: lesson.lessonLinksUrl || "",
         assignment_type: getAssignmentType(packet, lesson),
