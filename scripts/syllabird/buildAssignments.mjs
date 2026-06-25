@@ -50,7 +50,7 @@ function buildAdditionalNotesHtml(value) {
 
   return [
     "<h2>Additional Notes</h2>",
-    "<p style=\"margin-top:-8px;\">────────────────────</p>",
+    "<p>────────────────────</p>",
     textToHtml(text)
   ].join("\n");
 }
@@ -337,7 +337,7 @@ function buildRowsForPacket(packet) {
       
       const assignmentBodyHtml =
         textToHtml(lesson.body || "") +
-        (additionalNotesHtml ? `\n${additionalNotesHtml}` : "");
+        (additionalNotesHtml ? `<br>${additionalNotesHtml}` : "");
       
       const assignmentTeacherNotes = appendBlocks(
         splitNotes.teacherNotes,
