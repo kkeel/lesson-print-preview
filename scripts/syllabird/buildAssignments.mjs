@@ -113,6 +113,31 @@ function toCsv(rows) {
   ].join("\n") + "\n";
 }
 
+function hasModernLanguageLessons(packet) {
+  const section = getModernLanguageSection(packet);
+
+  return Boolean(
+    section &&
+    (section.lessonSets || []).some(lessonSet =>
+      (lessonSet.lessons || []).length
+    )
+  );
+}
+
+function isGrades13ModernLanguageLessonSet(lessonSet) {
+  const title = String(lessonSet?.title || "").toLowerCase();
+
+  return (
+    !title.includes("grammar") &&
+    !title.includes("extension") &&
+    !title.includes("ext.")
+  );
+}
+
+function getModernLanguageCourseId(packet, split) {
+  return `alveary-${packet.id}-${split}`;
+}
+
 async function writePerCourseAssignmentCsvs(rows, outputDir) {
   const grouped = new Map();
 
@@ -318,15 +343,23 @@ function buildTrackerRowsForPacket(packet) {
   return rows;
 }
 
-function buildModernLanguageRowsForPacket(packet) {
+function buildModernLanguageRowsForPacket(packet, split = "g4-6") {
   const mlSection = getModernLanguageSection(packet);
   if (!mlSection) return [];
 
   const rows = [];
-  const courseCustomId = `alveary-${packet.id}`;
+  const courseCustomId = getModernLanguageCourseId(packet, split);
   const weekCounters = new Map();
 
-  for (const lessonSet of mlSection.lessonSets || []) {
+  const lessonSets = (mlSection.lessonSets || []).filter(lessonSet => {
+    if (split === "g1-3") {
+      return isGrades13ModernLanguageLessonSet(lessonSet);
+    }
+
+    return true;
+  });
+
+  for (const lessonSet of lessonSets) {
     for (const lesson of lessonSet.lessons || []) {
       const weekNumber = Number(lesson.week || 0);
       const currentCount = weekCounters.get(weekNumber) || 0;
@@ -342,14 +375,14 @@ function buildModernLanguageRowsForPacket(packet) {
         lesson.prep ? `<h2>Preparation</h2>${textToHtml(lesson.prep)}` : "",
         lesson.phraseOfWeek ? `<h2>Phrase of the Week</h2>${textToHtml(lesson.phraseOfWeek)}` : "",
         lesson.instructions ? `<h2>Lesson</h2>${textToHtml(lesson.instructions)}` : "",
-        lesson.cctBlock ? `<h2>Copycat Technique</h2>${textToHtml(lesson.cctBlock)}` : "",
+        lesson.cctBlock ? `<h2>Additional Notes</h2>${textToHtml(lesson.cctBlock)}` : "",
         pdfUrl ? `<p><a href="${escapeHtml(pdfUrl)}">Click here to view charts and additional lesson information.</a></p>` : "",
         linkPageUrl ? `<p><a href="${escapeHtml(linkPageUrl)}">Click here to view video/audio links.</a></p>` : ""
       ].filter(Boolean);
 
       rows.push({
         course_custom_id: courseCustomId,
-        assignment_custom_id: `alveary-${lesson.id || `${packet.id}-${weekNumber}-${dayNumber}`}`,
+        assignment_custom_id: `alveary-${lesson.id}-${split}`,
         assignment_week: weekNumber,
         assignment_day: dayNumber,
         assignment_name: lesson.title || "",
@@ -531,15 +564,22 @@ async function main() {
     // Match courses.csv phase 1 behavior:
     // only export standalone Course and Topic packets with lessons.
     const courseCustomId = `alveary-${packet.id}`;
+    const hasMlLessons = hasModernLanguageLessons(packet);
+    
+    if (
+      !validCourseIds.has(courseCustomId) &&
+      !validCourseIds.has(`${courseCustomId}-g1-3`) &&
+      !validCourseIds.has(`${courseCustomId}-g4-6`)
+    ) continue;
 
-    if (!validCourseIds.has(courseCustomId)) continue;
-
-    const mlSection = getModernLanguageSection(packet);
     const trackerTemplate =
       packet.syllabird?.trackerTemplate || "";
     
-    const packetRows = mlSection
-      ? buildModernLanguageRowsForPacket(packet)
+    const packetRows = hasMlLessons
+      ? [
+          ...buildModernLanguageRowsForPacket(packet, "g1-3"),
+          ...buildModernLanguageRowsForPacket(packet, "g4-6")
+        ]
       : trackerTemplate
         ? buildTrackerRowsForPacket(packet)
         : buildRowsForPacket(packet);
@@ -548,7 +588,9 @@ async function main() {
       ...packetRows.map(row => ({
         ...row,
         syllabird_status:
-          syllabirdStatusByCourseId.get(courseCustomId) || ""
+          syllabirdStatusByCourseId.get(row.course_custom_id) ||
+          syllabirdStatusByCourseId.get(courseCustomId) ||
+          ""
       }))
     );
   }
@@ -558,8 +600,19 @@ async function main() {
     assignmentsByCourseDir
   );
 
+  const airtableCourseIds = [
+    ...new Set(
+      rows
+        .map(row => String(row.course_custom_id || "")
+          .replace(/-g1-3$/, "")
+          .replace(/-g4-6$/, "")
+        )
+        .filter(Boolean)
+    )
+  ];
+  
   await updateAirtableSyllabirdStatus(
-    [...validCourseIds],
+    airtableCourseIds,
     rows.length
   );
 
