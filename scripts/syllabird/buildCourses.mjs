@@ -452,6 +452,43 @@ function daysForCount(count) {
   };
 }
 
+function daysForModernLanguageSplit(split) {
+  if (split === "g1-3") {
+    return {
+      monday: true,
+      tuesday: false,
+      wednesday: true,
+      thursday: false,
+      friday: true
+    };
+  }
+
+  return {
+    monday: true,
+    tuesday: true,
+    wednesday: true,
+    thursday: true,
+    friday: true
+  };
+}
+
+function getModernLanguageSection(packet) {
+  return (packet?.sections || []).find(
+    section => section.type === "modern-language-lessons"
+  ) || null;
+}
+
+function hasModernLanguageLessons(packet) {
+  const section = getModernLanguageSection(packet);
+
+  return Boolean(
+    section &&
+    (section.lessonSets || []).some(lessonSet =>
+      (lessonSet.lessons || []).length
+    )
+  );
+}
+
 function getMaxWeekForCourse(fields, lessonDetailsById) {
   const lessonIds = normalizeArray(fields["Lessons"]);
   let maxWeek = 0;
@@ -539,6 +576,30 @@ function buildCourseRow(record, headerLookup, lessonDetailsById, packet = null) 
   };
 }
 
+function buildModernLanguageSplitCourseRows(record, headerLookup, lessonDetailsById, packet) {
+  const baseRow = buildCourseRow(record, headerLookup, lessonDetailsById, packet);
+  const baseName = baseRow.course_name || normalizeText(record.fields?.["Lesson Set Name"]);
+
+  return [
+    {
+      ...baseRow,
+      course_custom_id: `alveary-${record.id}-g1-3`,
+      course_name: `${baseName} (Grades 1-3)`,
+      course_numberOfDaysPerWeek: 3,
+      course_defaultDaysOfTheWeek: formatSyllabirdDays(daysForModernLanguageSplit("g1-3")),
+      course_gradeYears: "['FIRSTGRADE', 'SECONDGRADE', 'THIRDGRADE']"
+    },
+    {
+      ...baseRow,
+      course_custom_id: `alveary-${record.id}-g4-6`,
+      course_name: `${baseName} (Grades 4-6)`,
+      course_numberOfDaysPerWeek: 5,
+      course_defaultDaysOfTheWeek: formatSyllabirdDays(daysForModernLanguageSplit("g4-6")),
+      course_gradeYears: "['FOURTHGRADE', 'FIFTHGRADE', 'SIXTHGRADE']"
+    }
+  ];
+}
+
 async function ensureDir(dirPath) {
   await fs.mkdir(dirPath, { recursive: true });
 }
@@ -602,9 +663,15 @@ async function main() {
       path.join(packetsDir, `${record.id}.json`)
     );
   
-    rows.push(
-      buildCourseRow(record, headerLookup, lessonDetailsById, packet)
-    );
+    if (hasModernLanguageLessons(packet)) {
+      rows.push(
+        ...buildModernLanguageSplitCourseRows(record, headerLookup, lessonDetailsById, packet)
+      );
+    } else {
+      rows.push(
+        buildCourseRow(record, headerLookup, lessonDetailsById, packet)
+      );
+    }
   }
 
   await fs.writeFile(outputPath, toCsv(rows), "utf8");
