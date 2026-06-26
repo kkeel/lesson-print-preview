@@ -196,6 +196,12 @@ function getLessonsSection(packet) {
   return (packet.sections || []).find(section => section.type === "lessons") || null;
 }
 
+function getModernLanguageSection(packet) {
+  return (packet.sections || []).find(
+    section => section.type === "modern-language-lessons"
+  ) || null;
+}
+
 function getExamsSection(packet) {
   return (packet.sections || []).find(section => section.type === "exams") || null;
 }
@@ -238,6 +244,12 @@ function getPacketLinkPageUrl(packet) {
   const quickLinksItem = (headerSection?.items || []).find(item => item.kind === "quick-links");
 
   return quickLinksItem?.linkPageUrl || "";
+}
+
+function buildModernLanguageLessonPdfUrl(lessonId) {
+  if (!lessonId) return "";
+
+  return `https://planning.alveary.org/pdf/modern-language/individual-lessons/${lessonId}.pdf`;
 }
 
 function buildTrackerRowsForPacket(packet) {
@@ -300,6 +312,54 @@ function buildTrackerRowsForPacket(packet) {
       });
 
       lessonCounter += 1;
+    }
+  }
+
+  return rows;
+}
+
+function buildModernLanguageRowsForPacket(packet) {
+  const mlSection = getModernLanguageSection(packet);
+  if (!mlSection) return [];
+
+  const rows = [];
+  const courseCustomId = `alveary-${packet.id}`;
+  const weekCounters = new Map();
+
+  for (const lessonSet of mlSection.lessonSets || []) {
+    for (const lesson of lessonSet.lessons || []) {
+      const weekNumber = Number(lesson.week || 0);
+      const currentCount = weekCounters.get(weekNumber) || 0;
+      const dayNumber = currentCount + 1;
+
+      weekCounters.set(weekNumber, dayNumber);
+
+      const pdfUrl = buildModernLanguageLessonPdfUrl(lesson.id);
+      const linkPageUrl = lesson.lessonLinksUrl || getPacketLinkPageUrl(packet);
+
+      const descriptionBlocks = [
+        lesson.materials ? `<h2>Materials</h2>${textToHtml(lesson.materials)}` : "",
+        lesson.prep ? `<h2>Preparation</h2>${textToHtml(lesson.prep)}` : "",
+        lesson.phraseOfWeek ? `<h2>Phrase of the Week</h2>${textToHtml(lesson.phraseOfWeek)}` : "",
+        lesson.instructions ? `<h2>Lesson</h2>${textToHtml(lesson.instructions)}` : "",
+        lesson.cctBlock ? `<h2>Copycat Technique</h2>${textToHtml(lesson.cctBlock)}` : "",
+        pdfUrl ? `<p><a href="${escapeHtml(pdfUrl)}">Click here to view charts and additional lesson information.</a></p>` : "",
+        linkPageUrl ? `<p><a href="${escapeHtml(linkPageUrl)}">Click here to view video/audio links.</a></p>` : ""
+      ].filter(Boolean);
+
+      rows.push({
+        course_custom_id: courseCustomId,
+        assignment_custom_id: `alveary-${lesson.id || `${packet.id}-${weekNumber}-${dayNumber}`}`,
+        assignment_week: weekNumber,
+        assignment_day: dayNumber,
+        assignment_name: lesson.title || "",
+        assignment_description: descriptionBlocks.join("\n"),
+        assignment_teachersNote: "",
+        assignment_linksUrl: linkPageUrl,
+        assignment_type: "Lesson",
+        assignment_duration: 0,
+        assignment_graded: "FALSE"
+      });
     }
   }
 
@@ -474,12 +534,15 @@ async function main() {
 
     if (!validCourseIds.has(courseCustomId)) continue;
 
+    const mlSection = getModernLanguageSection(packet);
     const trackerTemplate =
       packet.syllabird?.trackerTemplate || "";
     
-    const packetRows = trackerTemplate
-      ? buildTrackerRowsForPacket(packet)
-      : buildRowsForPacket(packet);
+    const packetRows = mlSection
+      ? buildModernLanguageRowsForPacket(packet)
+      : trackerTemplate
+        ? buildTrackerRowsForPacket(packet)
+        : buildRowsForPacket(packet);
     
     rows.push(
       ...packetRows.map(row => ({
