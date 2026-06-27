@@ -22,7 +22,7 @@
   "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
-    "status": "Import is Current",
+    "status": "Do Not Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",
     "trackerTitleTemplate": "20m Lower Spanish: Grades 1-6",
     "perWeek": 3
@@ -2175,6 +2175,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recPuzMcCSPq4Ft1s.pdf"
+                },
+                {
+                  "text": "VideoSet5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
                 }
               ],
               "vocab": [
@@ -2309,6 +2313,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reczRZctcRoTSwsXl.pdf"
+                },
+                {
+                  "text": "VideoSet5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
                 }
               ],
               "vocab": [
@@ -2443,6 +2451,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec5QwyIp7cdA83MT.pdf"
+                },
+                {
+                  "text": "VideoSet6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -2577,6 +2589,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoApGmSvpUMi8nr.pdf"
+                },
+                {
+                  "text": "VideoSet6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -2715,6 +2731,14 @@
                 {
                   "text": "Raising chickens in Ecuador",
                   "url": "https://www.youtube.com/watch?v=-Dhrv3CUXGc"
+                },
+                {
+                  "text": "VideoR5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
+                },
+                {
+                  "text": "VideoR6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -12230,6 +12254,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQkIvTGSdv2wMkD.pdf"
+                },
+                {
+                  "text": "VideoL13Ext",
+                  "url": "https://vimeo.com/1204045008/010dd40f08"
                 }
               ],
               "vocab": [],
@@ -12349,6 +12377,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recHfX6qE54MAf8SI.pdf"
+                },
+                {
+                  "text": "VideoL14Ext",
+                  "url": "https://vimeo.com/1204045008/010dd40f08"
                 }
               ],
               "vocab": [],
@@ -12468,6 +12500,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recysRZiK4fAuYOYJ.pdf"
+                },
+                {
+                  "text": "VideoL15Ext",
+                  "url": "https://vimeo.com/1204045009/fa788a0302"
                 }
               ],
               "vocab": [],
@@ -12587,6 +12623,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recb28vyqzL3PoVfV.pdf"
+                },
+                {
+                  "text": "VideoL16Ext",
+                  "url": "https://vimeo.com/1204045009/fa788a0302"
                 }
               ],
               "vocab": [],
@@ -17913,6 +17953,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recl6ZlDdG1YFAR0H.pdf"
+                },
+                {
+                  "text": "VideoLit11",
+                  "url": "https://vimeo.com/1204595439/1c2fe5f7b6"
                 }
               ],
               "vocab": [
@@ -18038,6 +18082,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recnAUcM7entKyfAp.pdf"
+                },
+                {
+                  "text": "VideoLit12",
+                  "url": "https://vimeo.com/1204595437/42118e9102"
                 }
               ],
               "vocab": [
@@ -18163,6 +18211,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recC5FS6BXd7y2tHZ.pdf"
+                },
+                {
+                  "text": "VideoLit13",
+                  "url": "https://vimeo.com/1204595438/d29e793ff2"
                 }
               ],
               "vocab": [
@@ -18288,6 +18340,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBHmCa5ep59cFuU.pdf"
+                },
+                {
+                  "text": "VideoLit14",
+                  "url": "https://vimeo.com/1204595440/8a786a332c"
                 }
               ],
               "vocab": [
@@ -18424,6 +18480,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec3K269RKdu0dpbY.pdf"
+                },
+                {
+                  "text": "VideoLit15",
+                  "url": "https://vimeo.com/1204596663/756da2ae55"
                 }
               ],
               "vocab": [
@@ -50994,6 +51054,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recPuzMcCSPq4Ft1s.pdf"
+                },
+                {
+                  "text": "VideoSet5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
                 }
               ],
               "vocab": [
@@ -51131,6 +51195,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recQkIvTGSdv2wMkD.pdf"
+                },
+                {
+                  "text": "VideoL13Ext",
+                  "url": "https://vimeo.com/1204045008/010dd40f08"
                 }
               ],
               "vocab": [],
@@ -51253,6 +51321,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recl6ZlDdG1YFAR0H.pdf"
+                },
+                {
+                  "text": "VideoLit11",
+                  "url": "https://vimeo.com/1204595439/1c2fe5f7b6"
                 }
               ],
               "vocab": [
@@ -51583,6 +51655,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reczRZctcRoTSwsXl.pdf"
+                },
+                {
+                  "text": "VideoSet5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
                 }
               ],
               "vocab": [
@@ -51720,6 +51796,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recHfX6qE54MAf8SI.pdf"
+                },
+                {
+                  "text": "VideoL14Ext",
+                  "url": "https://vimeo.com/1204045008/010dd40f08"
                 }
               ],
               "vocab": [],
@@ -51842,6 +51922,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recnAUcM7entKyfAp.pdf"
+                },
+                {
+                  "text": "VideoLit12",
+                  "url": "https://vimeo.com/1204595437/42118e9102"
                 }
               ],
               "vocab": [
@@ -52172,6 +52256,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec5QwyIp7cdA83MT.pdf"
+                },
+                {
+                  "text": "VideoSet6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -52309,6 +52397,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recysRZiK4fAuYOYJ.pdf"
+                },
+                {
+                  "text": "VideoL15Ext",
+                  "url": "https://vimeo.com/1204045009/fa788a0302"
                 }
               ],
               "vocab": [],
@@ -52431,6 +52523,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recC5FS6BXd7y2tHZ.pdf"
+                },
+                {
+                  "text": "VideoLit13",
+                  "url": "https://vimeo.com/1204595438/d29e793ff2"
                 }
               ],
               "vocab": [
@@ -52761,6 +52857,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoApGmSvpUMi8nr.pdf"
+                },
+                {
+                  "text": "VideoSet6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -52898,6 +52998,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recb28vyqzL3PoVfV.pdf"
+                },
+                {
+                  "text": "VideoL16Ext",
+                  "url": "https://vimeo.com/1204045009/fa788a0302"
                 }
               ],
               "vocab": [],
@@ -53020,6 +53124,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBHmCa5ep59cFuU.pdf"
+                },
+                {
+                  "text": "VideoLit14",
+                  "url": "https://vimeo.com/1204595440/8a786a332c"
                 }
               ],
               "vocab": [
@@ -53376,6 +53484,14 @@
                 {
                   "text": "Raising chickens in Ecuador",
                   "url": "https://www.youtube.com/watch?v=-Dhrv3CUXGc"
+                },
+                {
+                  "text": "VideoR5",
+                  "url": "https://vimeo.com/1204042772/90dbfe25ea"
+                },
+                {
+                  "text": "VideoR6",
+                  "url": "https://vimeo.com/1204042771/aa4982c282"
                 }
               ],
               "vocab": [
@@ -53825,6 +53941,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec3K269RKdu0dpbY.pdf"
+                },
+                {
+                  "text": "VideoLit15",
+                  "url": "https://vimeo.com/1204596663/756da2ae55"
                 }
               ],
               "vocab": [

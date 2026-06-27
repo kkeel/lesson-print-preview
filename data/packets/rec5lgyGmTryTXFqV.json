@@ -22,7 +22,7 @@
   "hidePdf": "Delay PDF",
   "studentVersion": false,
   "syllabird": {
-    "status": "Import is Current",
+    "status": "Do Not Import",
     "trackerTemplate": "➜ LESSON\nComplete the next lesson.",
     "trackerTitleTemplate": "20m Lower French: Grades 1-6",
     "perWeek": 5
