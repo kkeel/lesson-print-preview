@@ -371,13 +371,19 @@ function buildModernLanguageRowsForPacket(packet, split = "g4-6") {
       const linkPageUrl = lesson.lessonLinksUrl || getPacketLinkPageUrl(packet);
 
       const descriptionBlocks = [
-        lesson.materials ? `<h2>Materials</h2>${textToHtml(lesson.materials)}` : "",
-        lesson.prep ? `<h2>Preparation</h2>${textToHtml(lesson.prep)}` : "",
-        lesson.phraseOfWeek ? `<h2>Phrase of the Week</h2>${textToHtml(lesson.phraseOfWeek)}` : "",
-        lesson.instructions ? `<h2>Lesson</h2>${textToHtml(lesson.instructions)}` : "",
-        lesson.cctBlock ? `<h2>Additional Notes</h2>${textToHtml(lesson.cctBlock)}` : "",
-        pdfUrl ? `<p><a href="${escapeHtml(pdfUrl)}">Click here to view charts and additional lesson information.</a></p>` : "",
-        linkPageUrl ? `<p><a href="${escapeHtml(linkPageUrl)}">Click here to view video/audio links.</a></p>` : ""
+        lesson.materials ? textToHtml(lesson.materials) : "",
+        lesson.prep ? textToHtml(lesson.prep) : "",
+        lesson.phraseOfWeek ? textToHtml(lesson.phraseOfWeek) : "",
+        lesson.instructions ? textToHtml(lesson.instructions) : "",
+        lesson.cctBlock
+          ? `<h2>Additional Notes</h2><p>────────────────────</p>${textToHtml(lesson.cctBlock)}`
+          : "",
+        pdfUrl
+          ? `<p><a href="${escapeHtml(pdfUrl)}">Click here to view charts and additional lesson information.</a></p>`
+          : "",
+        linkPageUrl
+          ? `<p><a href="${escapeHtml(linkPageUrl)}">Click here to view video/audio links.</a></p>`
+          : ""
       ].filter(Boolean);
 
       rows.push({
