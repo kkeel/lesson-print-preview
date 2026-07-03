@@ -3,7 +3,7 @@
   "title": "General Science",
   "lessonSetName": "General Science: Grade 3",
   "subject": "Science",
-  "sortId": "016.003.002.001",
+  "sortId": "015.003.002.001",
   "gradeText": "GRADE(S): 3",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 3",
       "subject": "Science",
-      "sortId": "016.003.002.001"
+      "sortId": "015.003.002.001"
     },
     {
       "type": "header",

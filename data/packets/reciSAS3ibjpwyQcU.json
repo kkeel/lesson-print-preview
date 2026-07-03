@@ -3,7 +3,7 @@
   "title": "Astronomy Labs",
   "lessonSetName": "Astronomy Labs",
   "subject": "Alt. Science Options",
-  "sortId": "017.011.006.002",
+  "sortId": "016.011.006.002",
   "gradeText": "GRADE(S): 11-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 11-12",
       "subject": "Alt. Science Options",
-      "sortId": "017.011.006.002"
+      "sortId": "016.011.006.002"
     },
     {
       "type": "header",

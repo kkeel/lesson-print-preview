@@ -3,7 +3,7 @@
   "title": "Algebra 1",
   "lessonSetName": "Algebra 1: Part 2",
   "subject": "Math",
-  "sortId": "012.011.009.002",
+  "sortId": "011.011.009.002",
   "gradeText": "GRADE(S): 9",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "Part 2",
       "gradeText": "GRADE(S): 9",
       "subject": "Math",
-      "sortId": "012.011.009.002"
+      "sortId": "011.011.009.002"
     },
     {
       "type": "header",

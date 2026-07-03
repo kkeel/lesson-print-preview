@@ -3,7 +3,7 @@
   "title": "Math Lessons",
   "lessonSetName": "Math Lessons: Grade 8 (Denison)",
   "subject": "Math",
-  "sortId": "012.010.008.001",
+  "sortId": "011.010.008.001",
   "gradeText": "GRADE(S): 8",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "Denison",
       "gradeText": "GRADE(S): 8",
       "subject": "Math",
-      "sortId": "012.010.008.001"
+      "sortId": "011.010.008.001"
     },
     {
       "type": "header",

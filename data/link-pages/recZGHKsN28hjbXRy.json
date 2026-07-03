@@ -4,7 +4,7 @@
   "lessonSetName": "Current Events: Grades 9-12",
   "subject": "Citizenship",
   "gradeText": "GRADE(S): 9-12",
-  "sortId": "005.009.000.005",
+  "sortId": "004.009.000.005",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -85,6 +85,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.294Z",
+  "updatedAt": "2026-07-03T08:42:25.347Z",
   "terms": []
 }

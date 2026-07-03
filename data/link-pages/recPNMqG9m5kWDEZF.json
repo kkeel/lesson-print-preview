@@ -4,7 +4,7 @@
   "lessonSetName": "Science: Advanced Nature Study",
   "subject": "Alt. Science Options",
   "gradeText": "GRADE(S): 9-12",
-  "sortId": "017.009.004.000",
+  "sortId": "016.009.004.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -52,7 +52,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.785Z",
+  "updatedAt": "2026-07-03T08:42:25.798Z",
   "terms": [
     {
       "termNumber": 1,

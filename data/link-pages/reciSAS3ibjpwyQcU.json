@@ -4,7 +4,7 @@
   "lessonSetName": "Astronomy Labs",
   "subject": "Alt. Science Options",
   "gradeText": "GRADE(S): 11-12",
-  "sortId": "017.011.006.002",
+  "sortId": "016.011.006.002",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -22,6 +22,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.801Z",
+  "updatedAt": "2026-07-03T08:42:25.811Z",
   "terms": []
 }

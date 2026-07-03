@@ -3,7 +3,7 @@
   "title": "Music Appreciation",
   "lessonSetName": "Music Appreciation",
   "subject": "Music",
-  "sortId": "014.001.001.001",
+  "sortId": "013.001.001.001",
   "gradeText": "GRADE(S): 1",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 1",
       "subject": "Music",
-      "sortId": "014.001.001.001"
+      "sortId": "013.001.001.001"
     },
     {
       "type": "header",

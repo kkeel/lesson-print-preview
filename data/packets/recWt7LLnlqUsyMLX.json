@@ -3,7 +3,7 @@
   "title": "Nature Walks & Scouting",
   "lessonSetName": "Nature Walks & Scouting: Grades 9-12",
   "subject": "Science",
-  "sortId": "016.009.002.005",
+  "sortId": "015.009.002.005",
   "gradeText": "GRADE(S): 9-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -54,7 +54,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 9-12",
       "subject": "Science",
-      "sortId": "016.009.002.005"
+      "sortId": "015.009.002.005"
     },
     {
       "type": "header",

@@ -4,7 +4,7 @@
   "lessonSetName": "Bible: Grade 1",
   "subject": "Bible",
   "gradeText": "GRADE(S): 1",
-  "sortId": "004.001.001.000",
+  "sortId": "003.001.001.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -31,7 +31,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.230Z",
+  "updatedAt": "2026-07-03T08:42:25.289Z",
   "terms": [
     {
       "termNumber": 1,

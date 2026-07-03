@@ -3,7 +3,7 @@
   "title": "Mathematics",
   "lessonSetName": "Mathematics: Grade 9",
   "subject": "Math",
-  "sortId": "012.011.009.000",
+  "sortId": "011.011.009.000",
   "gradeText": "GRADE(S): 9",
   "rowType": "course",
   "hasTopics": true,
@@ -38,7 +38,7 @@
       "subtitle": "Geometry\nAlgebra 1",
       "gradeText": "GRADE(S): 9",
       "subject": "Math",
-      "sortId": "012.011.009.000"
+      "sortId": "011.011.009.000"
     },
     {
       "type": "header",

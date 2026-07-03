@@ -3,7 +3,7 @@
   "title": "Bible",
   "lessonSetName": "Bible: Grade 3",
   "subject": "Bible",
-  "sortId": "004.003.001.000",
+  "sortId": "003.003.001.000",
   "gradeText": "GRADE(S): 3",
   "rowType": "course",
   "hasTopics": true,
@@ -42,7 +42,7 @@
       "subtitle": "Old Testament\nNew Testament\nChurch History",
       "gradeText": "GRADE(S): 3",
       "subject": "Bible",
-      "sortId": "004.003.001.000"
+      "sortId": "003.003.001.000"
     },
     {
       "type": "header",

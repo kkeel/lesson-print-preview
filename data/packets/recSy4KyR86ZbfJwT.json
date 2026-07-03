@@ -3,7 +3,7 @@
   "title": "Sol-fa",
   "lessonSetName": "Sol-fa: Level 2",
   "subject": "Music",
-  "sortId": "014.003.003.005",
+  "sortId": "013.003.003.005",
   "gradeText": "GRADE(S): 3+",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "Level 2",
       "gradeText": "GRADE(S): 3+",
       "subject": "Music",
-      "sortId": "014.003.003.005"
+      "sortId": "013.003.003.005"
     },
     {
       "type": "header",

@@ -3,7 +3,7 @@
   "title": "Reading Level 2",
   "lessonSetName": "Reading Level 2",
   "subject": "English",
-  "sortId": "006.001.002.001",
+  "sortId": "005.001.002.001",
   "gradeText": "GRADE(S): 2",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 2",
       "subject": "English",
-      "sortId": "006.001.002.001"
+      "sortId": "005.001.002.001"
     },
     {
       "type": "header",

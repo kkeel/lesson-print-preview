@@ -3,7 +3,7 @@
   "title": "Literature",
   "lessonSetName": "Literature: Grade 9",
   "subject": "Literature",
-  "sortId": "011.001.009.000",
+  "sortId": "010.001.009.000",
   "gradeText": "GRADE(S): 9",
   "rowType": "course",
   "hasTopics": true,
@@ -46,7 +46,7 @@
       "subtitle": "Poetry Study\nGeneral Lit.\nHistory of Lit\nPlays\nPoetry Reading",
       "gradeText": "GRADE(S): 9",
       "subject": "Literature",
-      "sortId": "011.001.009.000"
+      "sortId": "010.001.009.000"
     },
     {
       "type": "header",

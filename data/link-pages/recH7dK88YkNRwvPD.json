@@ -4,7 +4,7 @@
   "lessonSetName": "Nature Notebook: Grades 9-12",
   "subject": "Science",
   "gradeText": "GRADE(S): 9-12",
-  "sortId": "016.009.002.004",
+  "sortId": "015.009.002.004",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -52,6 +52,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.757Z",
+  "updatedAt": "2026-07-03T08:42:25.773Z",
   "terms": []
 }

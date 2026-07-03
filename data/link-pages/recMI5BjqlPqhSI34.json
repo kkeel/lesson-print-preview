@@ -4,7 +4,7 @@
   "lessonSetName": "Folk Dancing",
   "subject": "Physical Education",
   "gradeText": "GRADE(S): 1-6",
-  "sortId": "015.001.001.004",
+  "sortId": "014.001.001.004",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.699Z",
+  "updatedAt": "2026-07-03T08:42:25.717Z",
   "terms": [
     {
       "termNumber": 1,

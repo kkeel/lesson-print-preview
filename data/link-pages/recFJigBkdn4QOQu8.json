@@ -4,7 +4,7 @@
   "lessonSetName": "Poetry: Grade 8",
   "subject": "Literature",
   "gradeText": "GRADE(S): 8",
-  "sortId": "011.004.008.000",
+  "sortId": "010.004.008.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.550Z",
+  "updatedAt": "2026-07-03T08:42:25.580Z",
   "terms": [
     {
       "termNumber": 1,

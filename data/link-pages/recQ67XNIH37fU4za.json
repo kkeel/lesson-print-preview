@@ -4,7 +4,7 @@
   "lessonSetName": "Math Lessons: Grade 3",
   "subject": "Math",
   "gradeText": "GRADE(S): 3",
-  "sortId": "012.003.003.001",
+  "sortId": "011.003.003.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -30,6 +30,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.564Z",
+  "updatedAt": "2026-07-03T08:42:25.593Z",
   "terms": []
 }

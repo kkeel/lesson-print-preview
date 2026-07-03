@@ -4,7 +4,7 @@
   "lessonSetName": "Geography: Grade 2 (Canada)",
   "subject": "Geography",
   "gradeText": "GRADE(S): 2",
-  "sortId": "007.002.002.000",
+  "sortId": "006.002.002.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.390Z",
+  "updatedAt": "2026-07-03T08:42:25.434Z",
   "terms": [
     {
       "termNumber": 1,

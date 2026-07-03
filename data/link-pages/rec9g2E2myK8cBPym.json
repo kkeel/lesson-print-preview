@@ -4,7 +4,7 @@
   "lessonSetName": "Geography: Grade 12",
   "subject": "Geography",
   "gradeText": "GRADE(S): 12",
-  "sortId": "007.012.001.000",
+  "sortId": "006.012.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -28,7 +28,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.409Z",
+  "updatedAt": "2026-07-03T08:42:25.452Z",
   "terms": [
     {
       "termNumber": 1,

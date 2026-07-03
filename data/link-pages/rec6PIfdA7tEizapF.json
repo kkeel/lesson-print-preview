@@ -4,7 +4,7 @@
   "lessonSetName": "Language Study: Grade 3",
   "subject": "English",
   "gradeText": "GRADE(S): 3",
-  "sortId": "006.001.003.000",
+  "sortId": "005.001.003.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -67,6 +67,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.322Z",
+  "updatedAt": "2026-07-03T08:42:25.373Z",
   "terms": []
 }

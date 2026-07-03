@@ -3,7 +3,7 @@
   "title": "Mathematics",
   "lessonSetName": "Mathematics: Grade 7 (Denison)",
   "subject": "Math",
-  "sortId": "012.008.007.000",
+  "sortId": "011.008.007.000",
   "gradeText": "GRADE(S): 7",
   "rowType": "course",
   "hasTopics": true,
@@ -40,7 +40,7 @@
       "subtitle": "Math Lessons\nMath Games",
       "gradeText": "GRADE(S): 7",
       "subject": "Math",
-      "sortId": "012.008.007.000"
+      "sortId": "011.008.007.000"
     },
     {
       "type": "header",

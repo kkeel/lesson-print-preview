@@ -4,7 +4,7 @@
   "lessonSetName": "Astronomy Lessons",
   "subject": "Alt. Science Options",
   "gradeText": "GRADE(S): 11-12",
-  "sortId": "017.011.006.001",
+  "sortId": "016.011.006.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -128,7 +128,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.800Z",
+  "updatedAt": "2026-07-03T08:42:25.810Z",
   "terms": [
     {
       "termNumber": 1,

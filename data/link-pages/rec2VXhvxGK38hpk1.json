@@ -4,7 +4,7 @@
   "lessonSetName": "U.S. History: Grades 7-8",
   "subject": "History",
   "gradeText": "GRADE(S): 7-8",
-  "sortId": "008.007.001.001",
+  "sortId": "007.007.001.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.431Z",
+  "updatedAt": "2026-07-03T08:42:25.473Z",
   "terms": [
     {
       "termNumber": 1,

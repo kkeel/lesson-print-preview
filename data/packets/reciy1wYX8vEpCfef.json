@@ -3,7 +3,7 @@
   "title": "Art",
   "lessonSetName": "Art: High School Fast Track",
   "subject": "Art",
-  "sortId": "003.003.009.000",
+  "sortId": "002.003.009.000",
   "gradeText": "GRADE(S): 9-12",
   "rowType": "course",
   "hasTopics": false,
@@ -34,7 +34,7 @@
       "subtitle": "High School Fast Track",
       "gradeText": "GRADE(S): 9-12",
       "subject": "Art",
-      "sortId": "003.003.009.000"
+      "sortId": "002.003.009.000"
     },
     {
       "type": "header",

@@ -3,7 +3,7 @@
   "title": "Penmanship & Copywork",
   "lessonSetName": "Penmanship & Copywork: Grade 5",
   "subject": "English",
-  "sortId": "006.001.005.004",
+  "sortId": "005.001.005.004",
   "gradeText": "GRADE(S): 5",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 5",
       "subject": "English",
-      "sortId": "006.001.005.004"
+      "sortId": "005.001.005.004"
     },
     {
       "type": "header",

@@ -4,7 +4,7 @@
   "lessonSetName": "Music: Intro",
   "subject": "Music",
   "gradeText": "GRADE(S): 1+",
-  "sortId": "014.001.001.000",
+  "sortId": "013.001.001.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -132,7 +132,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.653Z",
+  "updatedAt": "2026-07-03T08:42:25.677Z",
   "terms": [
     {
       "termNumber": 1,

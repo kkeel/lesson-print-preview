@@ -4,7 +4,7 @@
   "lessonSetName": "Plutarch: Grades 6-8",
   "subject": "Citizenship",
   "gradeText": "GRADE(S): 6-8+",
-  "sortId": "005.006.001.001",
+  "sortId": "004.006.001.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -48,7 +48,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.274Z",
+  "updatedAt": "2026-07-03T08:42:25.329Z",
   "terms": [
     {
       "termNumber": 1,

@@ -3,7 +3,7 @@
   "title": "Science",
   "lessonSetName": "Science: Geology",
   "subject": "Alt. Science Options",
-  "sortId": "017.011.005.000",
+  "sortId": "016.011.005.000",
   "gradeText": "GRADE(S): 11-12",
   "rowType": "course",
   "hasTopics": true,
@@ -44,7 +44,7 @@
       "subtitle": "Nature Notebook\nNature Walks & Scouting\nGeology Lessons\nGeology Labs",
       "gradeText": "GRADE(S): 11-12",
       "subject": "Alt. Science Options",
-      "sortId": "017.011.005.000"
+      "sortId": "016.011.005.000"
     },
     {
       "type": "header",

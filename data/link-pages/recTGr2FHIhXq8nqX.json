@@ -4,7 +4,7 @@
   "lessonSetName": "Literature: Grade 3",
   "subject": "Literature",
   "gradeText": "GRADE(S): 3",
-  "sortId": "011.001.003.000",
+  "sortId": "010.001.003.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -46,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.493Z",
+  "updatedAt": "2026-07-03T08:42:25.527Z",
   "terms": [
     {
       "termNumber": 3,

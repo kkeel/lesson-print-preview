@@ -3,7 +3,7 @@
   "title": "Biology Lessons",
   "lessonSetName": "Biology Lessons",
   "subject": "Science",
-  "sortId": "016.010.002.001",
+  "sortId": "015.010.002.001",
   "gradeText": "GRADE(S): 10-12+",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 10-12+",
       "subject": "Science",
-      "sortId": "016.010.002.001"
+      "sortId": "015.010.002.001"
     },
     {
       "type": "header",

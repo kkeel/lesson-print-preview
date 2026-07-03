@@ -4,7 +4,7 @@
   "lessonSetName": "Hymns & Spirituals",
   "subject": "Music",
   "gradeText": "GRADE(S): 1-12",
-  "sortId": "014.001.001.003",
+  "sortId": "013.001.001.003",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -56,7 +56,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.658Z",
+  "updatedAt": "2026-07-03T08:42:25.681Z",
   "terms": [
     {
       "termNumber": 1,

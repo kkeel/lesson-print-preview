@@ -4,7 +4,7 @@
   "lessonSetName": "Dictation: Grade 6",
   "subject": "English",
   "gradeText": "GRADE(S): 6",
-  "sortId": "006.001.006.003",
+  "sortId": "005.001.006.003",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -37,6 +37,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.339Z",
+  "updatedAt": "2026-07-03T08:42:25.388Z",
   "terms": []
 }

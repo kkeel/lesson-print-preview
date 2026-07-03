@@ -3,7 +3,7 @@
   "title": "Story of Geometry",
   "lessonSetName": "Story of Geometry: Part 2",
   "subject": "Math",
-  "sortId": "012.021.008.000",
+  "sortId": "011.021.008.000",
   "gradeText": "GRADE(S): 8",
   "rowType": "course",
   "hasTopics": false,
@@ -34,7 +34,7 @@
       "subtitle": "Part 2",
       "gradeText": "GRADE(S): 8",
       "subject": "Math",
-      "sortId": "012.021.008.000"
+      "sortId": "011.021.008.000"
     },
     {
       "type": "header",

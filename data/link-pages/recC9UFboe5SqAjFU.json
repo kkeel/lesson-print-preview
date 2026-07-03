@@ -4,7 +4,7 @@
   "lessonSetName": "Composition: Grade 11",
   "subject": "English",
   "gradeText": "GRADE(S): 11",
-  "sortId": "006.001.011.004",
+  "sortId": "005.001.011.004",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -30,7 +30,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.370Z",
+  "updatedAt": "2026-07-03T08:42:25.416Z",
   "terms": [
     {
       "termNumber": 1,

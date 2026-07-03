@@ -3,7 +3,7 @@
   "title": "Ethics",
   "lessonSetName": "Ethics: Part 2",
   "subject": "Citizenship",
-  "sortId": "005.008.001.003",
+  "sortId": "004.008.001.003",
   "gradeText": "GRADE(S): 8+",
   "rowType": "topic",
   "hasTopics": false,
@@ -40,7 +40,7 @@
       "subtitle": "Part 2",
       "gradeText": "GRADE(S): 8+",
       "subject": "Citizenship",
-      "sortId": "005.008.001.003"
+      "sortId": "004.008.001.003"
     },
     {
       "type": "header",

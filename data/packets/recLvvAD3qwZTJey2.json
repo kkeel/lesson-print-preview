@@ -3,7 +3,7 @@
   "title": "World History",
   "lessonSetName": "World History: Grades 10-12",
   "subject": "History",
-  "sortId": "008.010.002.002",
+  "sortId": "007.010.002.002",
   "gradeText": "GRADE(S): 10-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -42,7 +42,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 10-12",
       "subject": "History",
-      "sortId": "008.010.002.002"
+      "sortId": "007.010.002.002"
     },
     {
       "type": "header",

@@ -4,7 +4,7 @@
   "lessonSetName": "Mathematics: Grade 8 (Denison)",
   "subject": "Math",
   "gradeText": "GRADE(S): 8",
-  "sortId": "012.010.008.000",
+  "sortId": "011.010.008.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -23,6 +23,6 @@
     "lessonPdfLabel": "No Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.583Z",
+  "updatedAt": "2026-07-03T08:42:25.611Z",
   "terms": []
 }

@@ -3,7 +3,7 @@
   "title": "Citizenship",
   "lessonSetName": "Citizenship: Grade 7 (Canada)",
   "subject": "Citizenship",
-  "sortId": "005.007.002.000",
+  "sortId": "004.007.002.000",
   "gradeText": "GRADE(S): 7",
   "rowType": "course",
   "hasTopics": true,
@@ -46,7 +46,7 @@
       "subtitle": "Plutarch\nCurrent Events\nCanadian Government\nCommunity Read Alouds\nEthics",
       "gradeText": "GRADE(S): 7",
       "subject": "Citizenship",
-      "sortId": "005.007.002.000"
+      "sortId": "004.007.002.000"
     },
     {
       "type": "header",

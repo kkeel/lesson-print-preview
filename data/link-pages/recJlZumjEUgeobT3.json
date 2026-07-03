@@ -4,7 +4,7 @@
   "lessonSetName": "Geometry: Grade 7",
   "subject": "Math",
   "gradeText": "GRADE(S): 7",
-  "sortId": "012.007.007.003",
+  "sortId": "011.007.007.003",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -30,6 +30,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.578Z",
+  "updatedAt": "2026-07-03T08:42:25.606Z",
   "terms": []
 }

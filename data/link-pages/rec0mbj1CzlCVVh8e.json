@@ -4,7 +4,7 @@
   "lessonSetName": "Upper French: Level 2",
   "subject": "Modern Language",
   "gradeText": "GRADE(S): 8+",
-  "sortId": "013.001.008.000",
+  "sortId": "012.001.008.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,6 +20,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.620Z",
+  "updatedAt": "2026-07-03T08:42:25.647Z",
   "terms": []
 }

@@ -4,7 +4,7 @@
   "lessonSetName": "Canadian History: Grades 9-10",
   "subject": "History",
   "gradeText": "GRADE(S): 9-10",
-  "sortId": "008.009.002.001",
+  "sortId": "007.009.002.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -45,7 +45,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.450Z",
+  "updatedAt": "2026-07-03T08:42:25.486Z",
   "terms": [
     {
       "termNumber": 1,

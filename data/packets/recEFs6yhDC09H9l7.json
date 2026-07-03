@@ -3,7 +3,7 @@
   "title": "Music",
   "lessonSetName": "Music: Level 4",
   "subject": "Music",
-  "sortId": "014.005.005.000",
+  "sortId": "013.005.005.000",
   "gradeText": "GRADE(S): 5+",
   "rowType": "course",
   "hasTopics": true,
@@ -46,7 +46,7 @@
       "subtitle": "Hymns & Spirituals\nFolk Songs\nAfternoon Listening\nComposer Study\nSol-fa",
       "gradeText": "GRADE(S): 5+",
       "subject": "Music",
-      "sortId": "014.005.005.000"
+      "sortId": "013.005.005.000"
     },
     {
       "type": "header",

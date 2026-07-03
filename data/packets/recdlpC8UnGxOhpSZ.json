@@ -3,7 +3,7 @@
   "title": "Community Read Alouds",
   "lessonSetName": "Community Read Alouds: Grades 1-12",
   "subject": "Literature",
-  "sortId": "011.001.001.011",
+  "sortId": "010.001.001.011",
   "gradeText": "GRADE(S): 1-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -70,7 +70,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 1-12",
       "subject": "Literature",
-      "sortId": "011.001.001.011"
+      "sortId": "010.001.001.011"
     },
     {
       "type": "header",

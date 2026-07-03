@@ -3,7 +3,7 @@
   "title": "General Lit.",
   "lessonSetName": "General Lit.: Grade 3",
   "subject": "Literature",
-  "sortId": "011.001.003.005",
+  "sortId": "010.001.003.005",
   "gradeText": "GRADE(S): 3",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 3",
       "subject": "Literature",
-      "sortId": "011.001.003.005"
+      "sortId": "010.001.003.005"
     },
     {
       "type": "header",

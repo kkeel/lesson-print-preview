@@ -3,7 +3,7 @@
   "title": "Science",
   "lessonSetName": "Science: Physics",
   "subject": "Science",
-  "sortId": "016.011.002.000",
+  "sortId": "015.011.002.000",
   "gradeText": "GRADE(S): 11-12",
   "rowType": "course",
   "hasTopics": true,
@@ -44,7 +44,7 @@
       "subtitle": "Nature Notebook\nNature Walks & Scouting\nPhysics Lessons\nPhysics Labs",
       "gradeText": "GRADE(S): 11-12",
       "subject": "Science",
-      "sortId": "016.011.002.000"
+      "sortId": "015.011.002.000"
     },
     {
       "type": "header",

@@ -3,7 +3,7 @@
   "title": "Literature",
   "lessonSetName": "Literature: Grade 2",
   "subject": "Literature",
-  "sortId": "011.001.002.000",
+  "sortId": "010.001.002.000",
   "gradeText": "GRADE(S): 2",
   "rowType": "course",
   "hasTopics": true,
@@ -42,7 +42,7 @@
       "subtitle": "Community Read Alouds\nClassic Lit.\nMythology",
       "gradeText": "GRADE(S): 2",
       "subject": "Literature",
-      "sortId": "011.001.002.000"
+      "sortId": "010.001.002.000"
     },
     {
       "type": "header",

@@ -3,7 +3,7 @@
   "title": "Science",
   "lessonSetName": "Science: Chemistry",
   "subject": "Science",
-  "sortId": "016.009.002.000",
+  "sortId": "015.009.002.000",
   "gradeText": "GRADE(S): 9-12+",
   "rowType": "course",
   "hasTopics": true,
@@ -44,7 +44,7 @@
       "subtitle": "Chemistry Lessons\nChemistry Labs\nNature Notebook\nNature Walks & Scouting",
       "gradeText": "GRADE(S): 9-12+",
       "subject": "Science",
-      "sortId": "016.009.002.000"
+      "sortId": "015.009.002.000"
     },
     {
       "type": "header",

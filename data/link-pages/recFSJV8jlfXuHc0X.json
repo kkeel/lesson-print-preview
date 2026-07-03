@@ -4,7 +4,7 @@
   "lessonSetName": "Picture Study",
   "subject": "Art",
   "gradeText": "GRADE(S): 1-12",
-  "sortId": "003.005.001.000",
+  "sortId": "002.005.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -42,7 +42,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.225Z",
+  "updatedAt": "2026-07-03T08:42:25.286Z",
   "terms": [
     {
       "termNumber": 1,

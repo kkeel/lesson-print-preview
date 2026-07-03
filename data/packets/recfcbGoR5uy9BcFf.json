@@ -3,7 +3,7 @@
   "title": "Canadian History",
   "lessonSetName": "Canadian History: Grades 2-4",
   "subject": "History",
-  "sortId": "008.002.002.001",
+  "sortId": "007.002.002.001",
   "gradeText": "GRADE(S): 2-4",
   "rowType": "topic",
   "hasTopics": false,
@@ -40,7 +40,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 2-4",
       "subject": "History",
-      "sortId": "008.002.002.001"
+      "sortId": "007.002.002.001"
     },
     {
       "type": "header",

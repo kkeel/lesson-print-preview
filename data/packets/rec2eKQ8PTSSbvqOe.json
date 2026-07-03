@@ -3,7 +3,7 @@
   "title": "New Testament",
   "lessonSetName": "New Testament: Grade 2",
   "subject": "Bible",
-  "sortId": "004.002.001.002",
+  "sortId": "003.002.001.002",
   "gradeText": "GRADE(S): 2",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 2",
       "subject": "Bible",
-      "sortId": "004.002.001.002"
+      "sortId": "003.002.001.002"
     },
     {
       "type": "header",

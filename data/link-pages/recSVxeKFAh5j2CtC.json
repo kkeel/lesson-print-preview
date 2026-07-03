@@ -4,7 +4,7 @@
   "lessonSetName": "History: Grade 10 (Canada)",
   "subject": "History",
   "gradeText": "GRADE(S): 10",
-  "sortId": "008.010.002.000",
+  "sortId": "007.010.002.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.455Z",
+  "updatedAt": "2026-07-03T08:42:25.492Z",
   "terms": [
     {
       "termNumber": 1,

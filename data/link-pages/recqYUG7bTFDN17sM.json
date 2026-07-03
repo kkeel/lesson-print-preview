@@ -4,7 +4,7 @@
   "lessonSetName": "History: Grade 4 (Canada)",
   "subject": "History",
   "gradeText": "GRADE(S): 4",
-  "sortId": "008.004.002.000",
+  "sortId": "007.004.002.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -66,7 +66,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.421Z",
+  "updatedAt": "2026-07-03T08:42:25.463Z",
   "terms": [
     {
       "termNumber": 1,

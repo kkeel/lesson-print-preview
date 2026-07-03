@@ -4,7 +4,7 @@
   "lessonSetName": "Sloyd: Intro",
   "subject": "Life Skills",
   "gradeText": "GRADE(S): 1+",
-  "sortId": "010.002.001.000",
+  "sortId": "009.002.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -42,7 +42,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.472Z",
+  "updatedAt": "2026-07-03T08:42:25.507Z",
   "terms": [
     {
       "termNumber": 1,

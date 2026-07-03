@@ -3,7 +3,7 @@
   "title": "Econ/Civics",
   "lessonSetName": "Econ/Civics: Grade 11 (U.S.)",
   "subject": "Citizenship",
-  "sortId": "005.011.001.001",
+  "sortId": "004.011.001.001",
   "gradeText": "GRADE(S): 11",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "U.S.",
       "gradeText": "GRADE(S): 11",
       "subject": "Citizenship",
-      "sortId": "005.011.001.001"
+      "sortId": "004.011.001.001"
     },
     {
       "type": "header",

@@ -4,7 +4,7 @@
   "lessonSetName": "Science: Physics",
   "subject": "Science",
   "gradeText": "GRADE(S): 11-12",
-  "sortId": "016.011.002.000",
+  "sortId": "015.011.002.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -96,7 +96,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.765Z",
+  "updatedAt": "2026-07-03T08:42:25.779Z",
   "terms": [
     {
       "termNumber": 1,

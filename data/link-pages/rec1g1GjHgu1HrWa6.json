@@ -4,7 +4,7 @@
   "lessonSetName": "Shakespeare: Beginner Track",
   "subject": "Literature",
   "gradeText": "GRADE(S): 4-8",
-  "sortId": "011.002.004.000",
+  "sortId": "010.002.004.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -49,7 +49,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.533Z",
+  "updatedAt": "2026-07-03T08:42:25.565Z",
   "terms": [
     {
       "termNumber": 1,

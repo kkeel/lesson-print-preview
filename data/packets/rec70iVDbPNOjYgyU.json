@@ -3,7 +3,7 @@
   "title": "Microbiology Lessons",
   "lessonSetName": "Microbiology Lessons",
   "subject": "Alt. Science Options",
-  "sortId": "017.012.007.001",
+  "sortId": "016.012.007.001",
   "gradeText": "GRADE(S): 12",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 12",
       "subject": "Alt. Science Options",
-      "sortId": "017.012.007.001"
+      "sortId": "016.012.007.001"
     },
     {
       "type": "header",

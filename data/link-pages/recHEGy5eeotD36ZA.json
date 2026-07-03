@@ -4,7 +4,7 @@
   "lessonSetName": "Church History: Grades 4-6",
   "subject": "Bible",
   "gradeText": "GRADE(S): 4-6",
-  "sortId": "004.004.001.003",
+  "sortId": "003.004.001.003",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.246Z",
+  "updatedAt": "2026-07-03T08:42:25.305Z",
   "terms": [
     {
       "termNumber": 1,

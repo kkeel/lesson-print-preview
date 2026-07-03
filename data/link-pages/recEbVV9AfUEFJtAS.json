@@ -4,7 +4,7 @@
   "lessonSetName": "Mathematics: Grade 11",
   "subject": "Math",
   "gradeText": "GRADE(S): 11",
-  "sortId": "012.015.011.000",
+  "sortId": "011.015.011.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -23,6 +23,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.588Z",
+  "updatedAt": "2026-07-03T08:42:25.616Z",
   "terms": []
 }

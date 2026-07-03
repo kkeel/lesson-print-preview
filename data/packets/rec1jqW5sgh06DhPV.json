@@ -3,7 +3,7 @@
   "title": "Nature Notebook",
   "lessonSetName": "Nature Notebook: Grade 8",
   "subject": "Science",
-  "sortId": "016.008.002.004",
+  "sortId": "015.008.002.004",
   "gradeText": "GRADE(S): 8",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 8",
       "subject": "Science",
-      "sortId": "016.008.002.004"
+      "sortId": "015.008.002.004"
     },
     {
       "type": "header",

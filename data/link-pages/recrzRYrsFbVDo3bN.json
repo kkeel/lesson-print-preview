@@ -4,7 +4,7 @@
   "lessonSetName": "General Science: Grade 5",
   "subject": "Science",
   "gradeText": "GRADE(S): 5",
-  "sortId": "016.005.002.001",
+  "sortId": "015.005.002.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.729Z",
+  "updatedAt": "2026-07-03T08:42:25.747Z",
   "terms": [
     {
       "termNumber": 1,

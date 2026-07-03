@@ -3,7 +3,7 @@
   "title": "History",
   "lessonSetName": "History: Grades 10-12 (U.S.)",
   "subject": "History",
-  "sortId": "008.010.000.000",
+  "sortId": "007.010.000.000",
   "gradeText": "GRADE(S): 10-12",
   "rowType": "course",
   "hasTopics": true,
@@ -42,7 +42,7 @@
       "subtitle": "Ancient History\nWorld History\nU.S. History",
       "gradeText": "GRADE(S): 10-12",
       "subject": "History",
-      "sortId": "008.010.000.000"
+      "sortId": "007.010.000.000"
     },
     {
       "type": "header",

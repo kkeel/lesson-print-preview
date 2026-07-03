@@ -4,7 +4,7 @@
   "lessonSetName": "Geography: Grade 2 (U.S.)",
   "subject": "Geography",
   "gradeText": "GRADE(S): 2",
-  "sortId": "007.002.001.000",
+  "sortId": "006.002.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.388Z",
+  "updatedAt": "2026-07-03T08:42:25.432Z",
   "terms": [
     {
       "termNumber": 1,

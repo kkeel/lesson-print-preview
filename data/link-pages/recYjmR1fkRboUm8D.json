@@ -4,7 +4,7 @@
   "lessonSetName": "Art History",
   "subject": "Art",
   "gradeText": "GRADE(S): 9-12",
-  "sortId": "003.006.009.000",
+  "sortId": "002.006.009.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,7 +20,7 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.227Z",
+  "updatedAt": "2026-07-03T08:42:25.287Z",
   "terms": [
     {
       "termNumber": 1,

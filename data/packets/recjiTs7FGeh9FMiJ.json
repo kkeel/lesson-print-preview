@@ -3,7 +3,7 @@
   "title": "Dictation",
   "lessonSetName": "Dictation: Grade 8",
   "subject": "English",
-  "sortId": "006.001.008.003",
+  "sortId": "005.001.008.003",
   "gradeText": "GRADE(S): 8",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 8",
       "subject": "English",
-      "sortId": "006.001.008.003"
+      "sortId": "005.001.008.003"
     },
     {
       "type": "header",

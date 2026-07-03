@@ -4,7 +4,7 @@
   "lessonSetName": "Geography: Grade 3 (Canada)",
   "subject": "Geography",
   "gradeText": "GRADE(S): 3",
-  "sortId": "007.003.002.000",
+  "sortId": "006.003.002.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -42,7 +42,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.393Z",
+  "updatedAt": "2026-07-03T08:42:25.437Z",
   "terms": [
     {
       "termNumber": 1,

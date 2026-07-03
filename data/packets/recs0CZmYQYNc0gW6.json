@@ -3,7 +3,7 @@
   "title": "Chemistry Labs",
   "lessonSetName": "Chemistry Labs",
   "subject": "Science",
-  "sortId": "016.009.002.003",
+  "sortId": "015.009.002.003",
   "gradeText": "GRADE(S): 9-12+",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 9-12+",
       "subject": "Science",
-      "sortId": "016.009.002.003"
+      "sortId": "015.009.002.003"
     },
     {
       "type": "header",

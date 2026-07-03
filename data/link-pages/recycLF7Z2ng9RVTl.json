@@ -4,7 +4,7 @@
   "lessonSetName": "Latin 4",
   "subject": "Latin",
   "gradeText": "GRADE(S): 10-12+",
-  "sortId": "009.010.001.000",
+  "sortId": "008.010.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,6 +20,6 @@
     "lessonPdfLabel": "No Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.465Z",
+  "updatedAt": "2026-07-03T08:42:25.503Z",
   "terms": []
 }

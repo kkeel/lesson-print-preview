@@ -3,7 +3,7 @@
   "title": "Sewing",
   "lessonSetName": "Sewing: Level 2",
   "subject": "Life Skills",
-  "sortId": "010.005.004.000",
+  "sortId": "009.005.004.000",
   "gradeText": "GRADE(S): 4-6",
   "rowType": "course",
   "hasTopics": false,
@@ -34,7 +34,7 @@
       "subtitle": "Level 2",
       "gradeText": "GRADE(S): 4-6",
       "subject": "Life Skills",
-      "sortId": "010.005.004.000"
+      "sortId": "009.005.004.000"
     },
     {
       "type": "header",

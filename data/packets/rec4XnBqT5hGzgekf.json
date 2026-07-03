@@ -3,7 +3,7 @@
   "title": "Composer Study",
   "lessonSetName": "Composer Study",
   "subject": "Music",
-  "sortId": "014.002.002.002",
+  "sortId": "013.002.002.002",
   "gradeText": "GRADE(S): 2-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -46,7 +46,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 2-12",
       "subject": "Music",
-      "sortId": "014.002.002.002"
+      "sortId": "013.002.002.002"
     },
     {
       "type": "header",

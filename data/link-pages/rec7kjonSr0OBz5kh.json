@@ -4,7 +4,7 @@
   "lessonSetName": "Latin 1 (Independent Study)",
   "subject": "Latin",
   "gradeText": "GRADE(S): 7+",
-  "sortId": "009.007.001.000",
+  "sortId": "008.007.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -35,6 +35,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.461Z",
+  "updatedAt": "2026-07-03T08:42:25.498Z",
   "terms": []
 }

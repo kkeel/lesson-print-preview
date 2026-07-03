@@ -4,7 +4,7 @@
   "lessonSetName": "Recitation: Grades 7-8",
   "subject": "English",
   "gradeText": "GRADE(S): 7-8",
-  "sortId": "006.005.007.000",
+  "sortId": "005.005.007.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -28,6 +28,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.380Z",
+  "updatedAt": "2026-07-03T08:42:25.425Z",
   "terms": []
 }

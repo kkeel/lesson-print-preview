@@ -3,7 +3,7 @@
   "title": "Citizenship",
   "lessonSetName": "Citizenship: Grade 9 (U.S.)",
   "subject": "Citizenship",
-  "sortId": "005.009.001.000",
+  "sortId": "004.009.001.000",
   "gradeText": "GRADE(S): 9",
   "rowType": "course",
   "hasTopics": true,
@@ -44,7 +44,7 @@
       "subtitle": "Plutarch/Government\nEthics\nCurrent Events\nCommunity Read Alouds",
       "gradeText": "GRADE(S): 9",
       "subject": "Citizenship",
-      "sortId": "005.009.001.000"
+      "sortId": "004.009.001.000"
     },
     {
       "type": "header",

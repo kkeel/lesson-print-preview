@@ -3,7 +3,7 @@
   "title": "Math Lessons",
   "lessonSetName": "Math Lessons: Grade 2",
   "subject": "Math",
-  "sortId": "012.002.002.001",
+  "sortId": "011.002.002.001",
   "gradeText": "GRADE(S): 2",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 2",
       "subject": "Math",
-      "sortId": "012.002.002.001"
+      "sortId": "011.002.002.001"
     },
     {
       "type": "header",

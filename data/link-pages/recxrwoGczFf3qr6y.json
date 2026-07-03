@@ -4,7 +4,7 @@
   "lessonSetName": "General Science: Grade 3",
   "subject": "Science",
   "gradeText": "GRADE(S): 3",
-  "sortId": "016.003.002.001",
+  "sortId": "015.003.002.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.719Z",
+  "updatedAt": "2026-07-03T08:42:25.737Z",
   "terms": [
     {
       "termNumber": 2,

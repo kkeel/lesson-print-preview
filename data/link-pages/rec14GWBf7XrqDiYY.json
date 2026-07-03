@@ -4,7 +4,7 @@
   "lessonSetName": "Grammar: Grade 4",
   "subject": "English",
   "gradeText": "GRADE(S): 4",
-  "sortId": "006.001.004.002",
+  "sortId": "005.001.004.002",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -79,7 +79,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.328Z",
+  "updatedAt": "2026-07-03T08:42:25.378Z",
   "terms": [
     {
       "termNumber": 1,

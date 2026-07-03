@@ -4,7 +4,7 @@
   "lessonSetName": "Language Study: Grade 9",
   "subject": "English",
   "gradeText": "GRADE(S): 9",
-  "sortId": "006.001.009.000",
+  "sortId": "005.001.009.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -46,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.358Z",
+  "updatedAt": "2026-07-03T08:42:25.405Z",
   "terms": [
     {
       "termNumber": 1,

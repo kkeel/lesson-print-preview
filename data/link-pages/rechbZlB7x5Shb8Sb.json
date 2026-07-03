@@ -4,7 +4,7 @@
   "lessonSetName": "Bible: Grade 12",
   "subject": "Bible",
   "gradeText": "GRADE(S): 12",
-  "sortId": "004.012.001.000",
+  "sortId": "003.012.001.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.264Z",
+  "updatedAt": "2026-07-03T08:42:25.321Z",
   "terms": [
     {
       "termNumber": 1,

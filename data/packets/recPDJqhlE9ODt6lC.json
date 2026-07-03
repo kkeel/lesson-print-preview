@@ -3,7 +3,7 @@
   "title": "Poetry",
   "lessonSetName": "Poetry: Grade 7",
   "subject": "Literature",
-  "sortId": "011.004.007.000",
+  "sortId": "010.004.007.000",
   "gradeText": "GRADE(S): 7",
   "rowType": "course",
   "hasTopics": true,
@@ -40,7 +40,7 @@
       "subtitle": "Poetry Study\nPoetry Reading",
       "gradeText": "GRADE(S): 7",
       "subject": "Literature",
-      "sortId": "011.004.007.000"
+      "sortId": "010.004.007.000"
     },
     {
       "type": "header",

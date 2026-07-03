@@ -4,7 +4,7 @@
   "lessonSetName": "Poetry Study: Grade 8",
   "subject": "Literature",
   "gradeText": "GRADE(S): 8",
-  "sortId": "011.004.008.009",
+  "sortId": "010.004.008.009",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -30,7 +30,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.551Z",
+  "updatedAt": "2026-07-03T08:42:25.581Z",
   "terms": [
     {
       "termNumber": 1,

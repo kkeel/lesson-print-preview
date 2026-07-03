@@ -4,7 +4,7 @@
   "lessonSetName": "Literature: Grade 9",
   "subject": "Literature",
   "gradeText": "GRADE(S): 9",
-  "sortId": "011.001.009.000",
+  "sortId": "010.001.009.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -55,7 +55,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.509Z",
+  "updatedAt": "2026-07-03T08:42:25.542Z",
   "terms": [
     {
       "termNumber": 1,

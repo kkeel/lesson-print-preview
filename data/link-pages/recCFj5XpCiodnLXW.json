@@ -4,7 +4,7 @@
   "lessonSetName": "Upper Spanish: Level 3",
   "subject": "Modern Language",
   "gradeText": "GRADE(S): 9+",
-  "sortId": "013.002.009.000",
+  "sortId": "012.002.009.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,6 +20,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.650Z",
+  "updatedAt": "2026-07-03T08:42:25.674Z",
   "terms": []
 }

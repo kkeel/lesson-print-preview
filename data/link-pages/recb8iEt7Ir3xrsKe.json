@@ -4,7 +4,7 @@
   "lessonSetName": "Geology Lessons",
   "subject": "Alt. Science Options",
   "gradeText": "GRADE(S): 11-12",
-  "sortId": "017.011.005.001",
+  "sortId": "016.011.005.001",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,7 +58,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.795Z",
+  "updatedAt": "2026-07-03T08:42:25.806Z",
   "terms": [
     {
       "termNumber": 1,

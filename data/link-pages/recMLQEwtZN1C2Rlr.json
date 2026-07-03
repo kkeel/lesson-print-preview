@@ -4,7 +4,7 @@
   "lessonSetName": "Bible: Grades 10-11",
   "subject": "Bible",
   "gradeText": "GRADE(S): 10-11",
-  "sortId": "004.010.001.000",
+  "sortId": "003.010.001.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -39,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.259Z",
+  "updatedAt": "2026-07-03T08:42:25.316Z",
   "terms": [
     {
       "termNumber": 1,

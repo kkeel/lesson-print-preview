@@ -3,7 +3,7 @@
   "title": "Ancient History",
   "lessonSetName": "Ancient History: Grades 7-9",
   "subject": "History",
-  "sortId": "008.007.001.006",
+  "sortId": "007.007.001.006",
   "gradeText": "GRADE(S): 7-9",
   "rowType": "topic",
   "hasTopics": false,
@@ -44,7 +44,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 7-9",
       "subject": "History",
-      "sortId": "008.007.001.006"
+      "sortId": "007.007.001.006"
     },
     {
       "type": "header",

@@ -4,7 +4,7 @@
   "lessonSetName": "Language Study: Grade 5",
   "subject": "English",
   "gradeText": "GRADE(S): 5",
-  "sortId": "006.001.005.000",
+  "sortId": "005.001.005.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -47,7 +47,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.332Z",
+  "updatedAt": "2026-07-03T08:42:25.382Z",
   "terms": [
     {
       "termNumber": 2,

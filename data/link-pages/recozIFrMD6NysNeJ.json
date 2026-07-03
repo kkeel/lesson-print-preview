@@ -4,7 +4,7 @@
   "lessonSetName": "Geography: Grade 9",
   "subject": "Geography",
   "gradeText": "GRADE(S): 9",
-  "sortId": "007.009.001.000",
+  "sortId": "006.009.001.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -28,7 +28,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.406Z",
+  "updatedAt": "2026-07-03T08:42:25.450Z",
   "terms": [
     {
       "termNumber": 1,

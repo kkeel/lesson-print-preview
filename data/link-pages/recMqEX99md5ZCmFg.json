@@ -4,7 +4,7 @@
   "lessonSetName": "General Lit.: Grades 11-12",
   "subject": "Literature",
   "gradeText": "GRADE(S): 11-12",
-  "sortId": "011.001.011.005",
+  "sortId": "010.001.011.005",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.527Z",
+  "updatedAt": "2026-07-03T08:42:25.559Z",
   "terms": [
     {
       "termNumber": 1,

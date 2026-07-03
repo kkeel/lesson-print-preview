@@ -3,7 +3,7 @@
   "title": "Literature",
   "lessonSetName": "Literature: Grades 5-6",
   "subject": "Literature",
-  "sortId": "011.001.005.000",
+  "sortId": "010.001.005.000",
   "gradeText": "GRADE(S): 5-6",
   "rowType": "course",
   "hasTopics": true,
@@ -40,7 +40,7 @@
       "subtitle": "General Lit.\nLit./Mythology",
       "gradeText": "GRADE(S): 5-6",
       "subject": "Literature",
-      "sortId": "011.001.005.000"
+      "sortId": "010.001.005.000"
     },
     {
       "type": "header",

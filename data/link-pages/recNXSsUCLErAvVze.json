@@ -4,7 +4,7 @@
   "lessonSetName": "Nature Notebook: Grade 3",
   "subject": "Science",
   "gradeText": "GRADE(S): 3",
-  "sortId": "016.003.002.004",
+  "sortId": "015.003.002.004",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -58,6 +58,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.721Z",
+  "updatedAt": "2026-07-03T08:42:25.739Z",
   "terms": []
 }

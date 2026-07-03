@@ -3,7 +3,7 @@
   "title": "Plays",
   "lessonSetName": "Plays: Grades 9-12",
   "subject": "Literature",
-  "sortId": "011.001.009.008",
+  "sortId": "010.001.009.008",
   "gradeText": "GRADE(S): 9-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -44,7 +44,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 9-12",
       "subject": "Literature",
-      "sortId": "011.001.009.008"
+      "sortId": "010.001.009.008"
     },
     {
       "type": "header",

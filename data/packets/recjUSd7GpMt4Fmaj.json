@@ -3,7 +3,7 @@
   "title": "Art",
   "lessonSetName": "Art: Level 6",
   "subject": "Art",
-  "sortId": "003.002.006.000",
+  "sortId": "002.002.006.000",
   "gradeText": "GRADE(S): 6+",
   "rowType": "course",
   "hasTopics": false,
@@ -34,7 +34,7 @@
       "subtitle": "Level 6",
       "gradeText": "GRADE(S): 6+",
       "subject": "Art",
-      "sortId": "003.002.006.000"
+      "sortId": "002.002.006.000"
     },
     {
       "type": "header",

@@ -3,7 +3,7 @@
   "title": "Church History",
   "lessonSetName": "Church History: Grades 10-12",
   "subject": "Bible",
-  "sortId": "004.010.001.003",
+  "sortId": "003.010.001.003",
   "gradeText": "GRADE(S): 10-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -40,7 +40,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 10-12",
       "subject": "Bible",
-      "sortId": "004.010.001.003"
+      "sortId": "003.010.001.003"
     },
     {
       "type": "header",

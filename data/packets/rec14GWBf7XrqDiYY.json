@@ -3,7 +3,7 @@
   "title": "Grammar",
   "lessonSetName": "Grammar: Grade 4",
   "subject": "English",
-  "sortId": "006.001.004.002",
+  "sortId": "005.001.004.002",
   "gradeText": "GRADE(S): 4",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 4",
       "subject": "English",
-      "sortId": "006.001.004.002"
+      "sortId": "005.001.004.002"
     },
     {
       "type": "header",

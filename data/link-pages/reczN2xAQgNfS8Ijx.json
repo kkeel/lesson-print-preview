@@ -4,7 +4,7 @@
   "lessonSetName": "Ethics: Part 4",
   "subject": "Citizenship",
   "gradeText": "GRADE(S): 10+",
-  "sortId": "005.010.001.003",
+  "sortId": "004.010.001.003",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -38,6 +38,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.303Z",
+  "updatedAt": "2026-07-03T08:42:25.356Z",
   "terms": []
 }

@@ -4,7 +4,7 @@
   "lessonSetName": "Written Narration: Grade 8",
   "subject": "English",
   "gradeText": "GRADE(S): 8",
-  "sortId": "006.001.008.004",
+  "sortId": "005.001.008.004",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,6 +20,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.356Z",
+  "updatedAt": "2026-07-03T08:42:25.403Z",
   "terms": []
 }

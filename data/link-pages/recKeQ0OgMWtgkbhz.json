@@ -4,7 +4,7 @@
   "lessonSetName": "Language Study: Grade 2",
   "subject": "English",
   "gradeText": "GRADE(S): 2",
-  "sortId": "006.001.002.000",
+  "sortId": "005.001.002.000",
   "rowType": "course",
   "hasTopics": true,
   "isStandaloneCourse": false,
@@ -66,6 +66,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.319Z",
+  "updatedAt": "2026-07-03T08:42:25.370Z",
   "terms": []
 }

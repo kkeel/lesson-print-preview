@@ -4,7 +4,7 @@
   "lessonSetName": "Penmanship & Copywork: Grade 5",
   "subject": "English",
   "gradeText": "GRADE(S): 5",
-  "sortId": "006.001.005.004",
+  "sortId": "005.001.005.004",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -37,6 +37,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.335Z",
+  "updatedAt": "2026-07-03T08:42:25.384Z",
   "terms": []
 }

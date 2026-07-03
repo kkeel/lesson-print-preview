@@ -4,7 +4,7 @@
   "lessonSetName": "Nature Walks & Scouting: Grades 1-8",
   "subject": "Science",
   "gradeText": "GRADE(S): 1-8",
-  "sortId": "016.001.002.005",
+  "sortId": "015.001.002.005",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -79,6 +79,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.711Z",
+  "updatedAt": "2026-07-03T08:42:25.729Z",
   "terms": []
 }

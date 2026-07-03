@@ -3,7 +3,7 @@
   "title": "Afternoon Listening",
   "lessonSetName": "Afternoon Listening",
   "subject": "Music",
-  "sortId": "014.001.001.006",
+  "sortId": "013.001.001.006",
   "gradeText": "GRADE(S): 1-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -48,7 +48,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 1-12",
       "subject": "Music",
-      "sortId": "014.001.001.006"
+      "sortId": "013.001.001.006"
     },
     {
       "type": "header",

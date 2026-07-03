@@ -3,7 +3,7 @@
   "title": "Language Study",
   "lessonSetName": "Language Study: Grade 3",
   "subject": "English",
-  "sortId": "006.001.003.000",
+  "sortId": "005.001.003.000",
   "gradeText": "GRADE(S): 3",
   "rowType": "course",
   "hasTopics": true,
@@ -42,7 +42,7 @@
       "subtitle": "Reading Level 3\nPenmanship & Copywork\nWritten Narration",
       "gradeText": "GRADE(S): 3",
       "subject": "English",
-      "sortId": "006.001.003.000"
+      "sortId": "005.001.003.000"
     },
     {
       "type": "header",

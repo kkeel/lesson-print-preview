@@ -4,7 +4,7 @@
   "lessonSetName": "Story of Geometry: Part 1",
   "subject": "Math",
   "gradeText": "GRADE(S): 7",
-  "sortId": "012.020.007.000",
+  "sortId": "011.020.007.000",
   "rowType": "course",
   "hasTopics": false,
   "isStandaloneCourse": true,
@@ -20,7 +20,7 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-02T14:58:46.593Z",
+  "updatedAt": "2026-07-03T08:42:25.621Z",
   "terms": [
     {
       "termNumber": 2,

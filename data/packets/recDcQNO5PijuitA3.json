@@ -3,7 +3,7 @@
   "title": "Algebra 2/Trigonometry",
   "lessonSetName": "Algebra 2/Trigonometry: Part 2",
   "subject": "Math",
-  "sortId": "012.015.011.001",
+  "sortId": "011.015.011.001",
   "gradeText": "GRADE(S): 11",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "Part 2",
       "gradeText": "GRADE(S): 11",
       "subject": "Math",
-      "sortId": "012.015.011.001"
+      "sortId": "011.015.011.001"
     },
     {
       "type": "header",

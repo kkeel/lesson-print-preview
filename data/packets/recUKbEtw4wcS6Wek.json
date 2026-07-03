@@ -3,7 +3,7 @@
   "title": "Physics Labs",
   "lessonSetName": "Physics Labs",
   "subject": "Science",
-  "sortId": "016.011.002.003",
+  "sortId": "015.011.002.003",
   "gradeText": "GRADE(S): 11-12",
   "rowType": "topic",
   "hasTopics": false,
@@ -38,7 +38,7 @@
       "subtitle": "",
       "gradeText": "GRADE(S): 11-12",
       "subject": "Science",
-      "sortId": "016.011.002.003"
+      "sortId": "015.011.002.003"
     },
     {
       "type": "header",

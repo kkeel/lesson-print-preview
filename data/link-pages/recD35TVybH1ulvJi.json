@@ -4,7 +4,7 @@
   "lessonSetName": "Sol-fa: Level 5",
   "subject": "Music",
   "gradeText": "GRADE(S): 6-12",
-  "sortId": "014.006.006.005",
+  "sortId": "013.006.006.005",
   "rowType": "topic",
   "hasTopics": false,
   "isStandaloneCourse": false,
@@ -51,7 +51,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-02T14:58:46.692Z",
+  "updatedAt": "2026-07-03T08:42:25.711Z",
   "terms": [
     {
       "termNumber": 1,
