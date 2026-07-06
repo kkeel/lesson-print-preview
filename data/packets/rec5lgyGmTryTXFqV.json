@@ -13337,7 +13337,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -13456,7 +13456,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -13813,7 +13813,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -14064,7 +14064,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -17515,7 +17515,7 @@
               "sentences": [
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -17537,7 +17537,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -17919,7 +17919,7 @@
                 },
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -18150,7 +18150,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -18963,7 +18963,7 @@
               "sentences": [
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -19360,7 +19360,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -19578,7 +19578,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -19916,7 +19916,7 @@
                 },
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -20158,7 +20158,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -20213,7 +20213,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -23600,7 +23600,7 @@
                     "id": "rec5alGnl7Zvp3c2F",
                     "reference": "Line 13",
                     "lineNumber": 13,
-                    "sentence": "le prenait pour une brebis,",
+                    "sentence": "le prenait pour une brébis,",
                     "translation": "mistaking him for a sheep,",
                     "label": "French Story Lines - Set 10",
                     "language": "French",
@@ -23638,7 +23638,7 @@
                     "id": "recVP4jXz4SrRdhsW",
                     "reference": "Line 15",
                     "lineNumber": 15,
-                    "sentence": "avec son couteau sur place",
+                    "sentence": "avec son couteau sur place.",
                     "translation": "with his knife on the spot.",
                     "label": "French Story Lines - Set 10",
                     "language": "French",
@@ -23684,7 +23684,7 @@
                     "id": "recO41p1XzXKmzkak",
                     "reference": "Line 1",
                     "lineNumber": 1,
-                    "sentence": "Une tortue mécontent avec",
+                    "sentence": "Une tortue mécontente avec",
                     "translation": "A Tortoise, discontented with",
                     "label": "French Story Lines - Set 16",
                     "language": "French",
@@ -23893,7 +23893,7 @@
                     "id": "rec5vEk9HlvzS61LN",
                     "reference": "Line 12",
                     "lineNumber": 12,
-                    "sentence": "enfin l'aigle finit donc par consentir",
+                    "sentence": "Enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -24007,7 +24007,7 @@
                     "id": "recHeHiMVVVzyDOvE",
                     "reference": "Line 18",
                     "lineNumber": 18,
-                    "sentence": "est tombée la tete la premiere dans la mer.",
+                    "sentence": "est tombée la tête la première dans la mer.",
                     "translation": "fell headlong into the sea.",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -28592,7 +28592,7 @@
               "sentences": [
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -28614,7 +28614,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -28996,7 +28996,7 @@
                 },
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -29227,7 +29227,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -30040,7 +30040,7 @@
               "sentences": [
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -30437,7 +30437,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -30655,7 +30655,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -30993,7 +30993,7 @@
                 },
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -31235,7 +31235,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -31290,7 +31290,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -34677,7 +34677,7 @@
                     "id": "rec5alGnl7Zvp3c2F",
                     "reference": "Line 13",
                     "lineNumber": 13,
-                    "sentence": "le prenait pour une brebis,",
+                    "sentence": "le prenait pour une brébis,",
                     "translation": "mistaking him for a sheep,",
                     "label": "French Story Lines - Set 10",
                     "language": "French",
@@ -34715,7 +34715,7 @@
                     "id": "recVP4jXz4SrRdhsW",
                     "reference": "Line 15",
                     "lineNumber": 15,
-                    "sentence": "avec son couteau sur place",
+                    "sentence": "avec son couteau sur place.",
                     "translation": "with his knife on the spot.",
                     "label": "French Story Lines - Set 10",
                     "language": "French",
@@ -34761,7 +34761,7 @@
                     "id": "recO41p1XzXKmzkak",
                     "reference": "Line 1",
                     "lineNumber": 1,
-                    "sentence": "Une tortue mécontent avec",
+                    "sentence": "Une tortue mécontente avec",
                     "translation": "A Tortoise, discontented with",
                     "label": "French Story Lines - Set 16",
                     "language": "French",
@@ -34970,7 +34970,7 @@
                     "id": "rec5vEk9HlvzS61LN",
                     "reference": "Line 12",
                     "lineNumber": 12,
-                    "sentence": "enfin l'aigle finit donc par consentir",
+                    "sentence": "Enfin l'aigle finit donc par consentir",
                     "translation": "So at length the Eagle consented",
                     "label": "French Story Lines - Set 19",
                     "language": "French",
@@ -35084,7 +35084,7 @@
                     "id": "recHeHiMVVVzyDOvE",
                     "reference": "Line 18",
                     "lineNumber": 18,
-                    "sentence": "est tombée la tete la premiere dans la mer.",
+                    "sentence": "est tombée la tête la première dans la mer.",
                     "translation": "fell headlong into the sea.",
                     "label": "French Story Lines - Set 20",
                     "language": "French",
@@ -38326,7 +38326,7 @@
               "id": "recBp1DaTkK9Zdo6t",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recBp1DaTkK9Zdo6t",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 1",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "1",
@@ -38346,6 +38346,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBp1DaTkK9Zdo6t.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38390,7 +38394,7 @@
               "id": "recoyJIgW6E5oiB7n",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recoyJIgW6E5oiB7n",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 2",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "2",
@@ -38410,6 +38414,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoyJIgW6E5oiB7n.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38454,7 +38462,7 @@
               "id": "reckaK65BRwk3EwpV",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=reckaK65BRwk3EwpV",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 3",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "3",
@@ -38474,6 +38482,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reckaK65BRwk3EwpV.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38518,7 +38530,7 @@
               "id": "recH0R0m4p26rrD0T",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recH0R0m4p26rrD0T",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 4",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "4",
@@ -38538,6 +38550,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recH0R0m4p26rrD0T.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38582,7 +38598,7 @@
               "id": "rec3JZs9OcCG6JtyP",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec3JZs9OcCG6JtyP",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 5",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "1",
               "week": "5",
@@ -38602,6 +38618,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec3JZs9OcCG6JtyP.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38679,7 +38699,7 @@
               "id": "recO90tLPbYqihiEH",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recO90tLPbYqihiEH",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 6",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "6",
@@ -38699,6 +38719,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recO90tLPbYqihiEH.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38743,7 +38767,7 @@
               "id": "recIsFltbGTvV2ZQg",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recIsFltbGTvV2ZQg",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 7",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "7",
@@ -38763,6 +38787,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recIsFltbGTvV2ZQg.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38807,7 +38835,7 @@
               "id": "recTVrNBsHVdKnqmQ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recTVrNBsHVdKnqmQ",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 8",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "8",
@@ -38827,6 +38855,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recTVrNBsHVdKnqmQ.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38871,7 +38903,7 @@
               "id": "recXn5wUrYh7y6Lkj",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recXn5wUrYh7y6Lkj",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 9",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "9",
@@ -38891,6 +38923,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recXn5wUrYh7y6Lkj.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -38935,7 +38971,7 @@
               "id": "recLfnOc9cZR5OpUY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recLfnOc9cZR5OpUY",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 10",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "1",
               "week": "10",
@@ -38955,6 +38991,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recLfnOc9cZR5OpUY.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39052,6 +39092,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rechD4RYgG4KARN22.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39220,7 +39268,7 @@
               "id": "recqGkOu91JRYpwV7",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recqGkOu91JRYpwV7",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 13",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "13",
@@ -39240,6 +39288,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqGkOu91JRYpwV7.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39284,7 +39336,7 @@
               "id": "rec6WDKTQAxvb1h9e",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec6WDKTQAxvb1h9e",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 14",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "14",
@@ -39304,6 +39356,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec6WDKTQAxvb1h9e.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39348,7 +39404,7 @@
               "id": "recVCsRgvyiblytvG",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recVCsRgvyiblytvG",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 15",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "15",
@@ -39368,6 +39424,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recVCsRgvyiblytvG.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39412,7 +39472,7 @@
               "id": "recEVctygdqPWi2wO",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recEVctygdqPWi2wO",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 16",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "16",
@@ -39432,6 +39492,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recEVctygdqPWi2wO.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39476,7 +39540,7 @@
               "id": "rec25CQYxRhbtHHDX",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec25CQYxRhbtHHDX",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 17",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "2",
               "week": "17",
@@ -39496,6 +39560,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec25CQYxRhbtHHDX.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39573,7 +39641,7 @@
               "id": "reclwv6Jkew1q7LOK",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=reclwv6Jkew1q7LOK",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 18",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "18",
@@ -39593,6 +39661,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclwv6Jkew1q7LOK.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39637,7 +39709,7 @@
               "id": "rec5qTQwJ8cEtELLV",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec5qTQwJ8cEtELLV",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 19",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "19",
@@ -39657,6 +39729,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec5qTQwJ8cEtELLV.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39701,7 +39777,7 @@
               "id": "rechqHPsBanHSeo5A",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rechqHPsBanHSeo5A",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 20",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "20",
@@ -39721,6 +39797,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rechqHPsBanHSeo5A.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39765,7 +39845,7 @@
               "id": "recioiZvT4CRNEKTt",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recioiZvT4CRNEKTt",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 21",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "21",
@@ -39785,6 +39865,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recioiZvT4CRNEKTt.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39829,7 +39913,7 @@
               "id": "recRI8HEcabpHw34Y",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recRI8HEcabpHw34Y",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 22",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "2",
               "week": "22",
@@ -39849,6 +39933,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recRI8HEcabpHw34Y.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -39946,6 +40034,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recXRxCrEOjds0Xjh.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40114,7 +40210,7 @@
               "id": "recZVrcePoNuDBfzr",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recZVrcePoNuDBfzr",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 25",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "25",
@@ -40134,6 +40230,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZVrcePoNuDBfzr.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40178,7 +40278,7 @@
               "id": "rec0rkmDCgFGhmUAP",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec0rkmDCgFGhmUAP",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 26",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "26",
@@ -40198,6 +40298,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec0rkmDCgFGhmUAP.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40242,7 +40346,7 @@
               "id": "recZRM3EKhbcJamZL",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recZRM3EKhbcJamZL",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 27",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "27",
@@ -40262,6 +40366,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZRM3EKhbcJamZL.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40306,7 +40414,7 @@
               "id": "rec0G3n2n05z7hr2M",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec0G3n2n05z7hr2M",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 28",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "28",
@@ -40326,6 +40434,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec0G3n2n05z7hr2M.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40370,7 +40482,7 @@
               "id": "recmZyYJI518p12dM",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recmZyYJI518p12dM",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 29",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "3",
               "week": "29",
@@ -40390,6 +40502,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recmZyYJI518p12dM.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40467,7 +40583,7 @@
               "id": "recVM5uZfkSlcLITQ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recVM5uZfkSlcLITQ",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 30",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "30",
@@ -40487,6 +40603,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recVM5uZfkSlcLITQ.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40531,7 +40651,7 @@
               "id": "recShDtKeZbUpZmQr",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recShDtKeZbUpZmQr",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 31",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "31",
@@ -40551,6 +40671,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recShDtKeZbUpZmQr.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40595,7 +40719,7 @@
               "id": "recwcwJlm1Zj6Y2LU",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recwcwJlm1Zj6Y2LU",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 32",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "32",
@@ -40615,6 +40739,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recwcwJlm1Zj6Y2LU.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40659,7 +40787,7 @@
               "id": "recRqH6Vvn31hkobb",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recRqH6Vvn31hkobb",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 33",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "33",
@@ -40679,6 +40807,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recRqH6Vvn31hkobb.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40723,7 +40855,7 @@
               "id": "recau0f5V00ugY4xC",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recau0f5V00ugY4xC",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 34",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "3",
               "week": "34",
@@ -40743,6 +40875,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recau0f5V00ugY4xC.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -40840,6 +40976,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recuwUopcFHAhh9Br.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -41009,39 +41153,39 @@
             "songsRhymes": [
               {
                 "id": "rec6RRu1bJcjHg5MB",
-                "title": "Title 5",
-                "sequence": 5,
+                "title": "Papillon vole",
+                "sequence": 0,
                 "term": "3",
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recL6IALF18OY636c",
-                "title": "",
-                "sequence": 2,
-                "term": "",
+                "title": "Compère Guilleri",
+                "sequence": 0,
+                "term": "1",
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recNMFjNwPCQqLYVP",
-                "title": "Title 4",
-                "sequence": 4,
+                "title": "J'ai perdu le do de ma clarinette",
+                "sequence": 0,
                 "term": "2",
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recUYLIJ68obQr09i",
-                "title": "",
+                "title": "Chocolat",
                 "sequence": 0,
-                "term": "",
+                "term": "1",
                 "text": "",
                 "translation": ""
               },
               {
                 "id": "recdlAkOmWMaI5En0",
-                "title": "Title 3",
+                "title": "Les animaux du zoo",
                 "sequence": 3,
                 "term": "2",
                 "text": "",
@@ -41049,8 +41193,8 @@
               },
               {
                 "id": "recneZaMsrwZx0TAH",
-                "title": "Title 6",
-                "sequence": 6,
+                "title": "La mistenlaire",
+                "sequence": 0,
                 "term": "3",
                 "text": "",
                 "translation": ""
@@ -41566,7 +41710,7 @@
               "id": "recBp1DaTkK9Zdo6t",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recBp1DaTkK9Zdo6t",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 1",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "1",
@@ -41586,6 +41730,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recBp1DaTkK9Zdo6t.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -42135,7 +42283,7 @@
               "id": "recoyJIgW6E5oiB7n",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recoyJIgW6E5oiB7n",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 2",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "2",
@@ -42155,6 +42303,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recoyJIgW6E5oiB7n.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -42704,7 +42856,7 @@
               "id": "reckaK65BRwk3EwpV",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=reckaK65BRwk3EwpV",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 3",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "3",
@@ -42724,6 +42876,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reckaK65BRwk3EwpV.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -43273,7 +43429,7 @@
               "id": "recH0R0m4p26rrD0T",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recH0R0m4p26rrD0T",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 4",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "4",
@@ -43293,6 +43449,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recH0R0m4p26rrD0T.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -44158,7 +44318,7 @@
               "id": "rec3JZs9OcCG6JtyP",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec3JZs9OcCG6JtyP",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 5",
-              "subtitle": "",
+              "subtitle": "Chocolat",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "1",
               "week": "5",
@@ -44178,6 +44338,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec3JZs9OcCG6JtyP.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -44760,7 +44924,7 @@
               "id": "recO90tLPbYqihiEH",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recO90tLPbYqihiEH",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 6",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "6",
@@ -44780,6 +44944,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recO90tLPbYqihiEH.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -45329,7 +45497,7 @@
               "id": "recIsFltbGTvV2ZQg",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recIsFltbGTvV2ZQg",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 7",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "7",
@@ -45349,6 +45517,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recIsFltbGTvV2ZQg.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -45898,7 +46070,7 @@
               "id": "recTVrNBsHVdKnqmQ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recTVrNBsHVdKnqmQ",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 8",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "1",
               "week": "8",
@@ -45918,6 +46090,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recTVrNBsHVdKnqmQ.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -46467,7 +46643,7 @@
               "id": "recXn5wUrYh7y6Lkj",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recXn5wUrYh7y6Lkj",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 9",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "1",
               "week": "9",
@@ -46487,6 +46663,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recXn5wUrYh7y6Lkj.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -47105,7 +47285,7 @@
               "sentences": [
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -47127,7 +47307,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -47293,7 +47473,7 @@
               "sentences": [
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -47315,7 +47495,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -47334,7 +47514,7 @@
               "id": "recLfnOc9cZR5OpUY",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recLfnOc9cZR5OpUY",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 10",
-              "subtitle": "",
+              "subtitle": "Compère Guilleri",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "1",
               "week": "10",
@@ -47354,6 +47534,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recLfnOc9cZR5OpUY.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -48556,7 +48740,7 @@
                 },
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -48787,7 +48971,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -49172,7 +49356,7 @@
                 },
                 {
                   "id": "rec5alGnl7Zvp3c2F",
-                  "sentence": "le prenait pour une brebis,",
+                  "sentence": "le prenait pour une brébis,",
                   "translation": "mistaking him for a sheep,",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -49403,7 +49587,7 @@
                 },
                 {
                   "id": "recVP4jXz4SrRdhsW",
-                  "sentence": "avec son couteau sur place",
+                  "sentence": "avec son couteau sur place.",
                   "translation": "with his knife on the spot.",
                   "label": "French Story Lines - Set 10",
                   "language": "French",
@@ -49442,6 +49626,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rechD4RYgG4KARN22.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=DfzvXACozZE&list=RDDfzvXACozZE&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=7-sDb4oeYyI&list=RD7-sDb4oeYyI&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -50268,7 +50460,7 @@
               "id": "recqGkOu91JRYpwV7",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recqGkOu91JRYpwV7",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 13",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "13",
@@ -50288,6 +50480,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recqGkOu91JRYpwV7.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -50868,7 +51064,7 @@
               "id": "rec6WDKTQAxvb1h9e",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec6WDKTQAxvb1h9e",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 14",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "14",
@@ -50888,6 +51084,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec6WDKTQAxvb1h9e.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -51479,7 +51679,7 @@
               "id": "recVCsRgvyiblytvG",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recVCsRgvyiblytvG",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 15",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "15",
@@ -51499,6 +51699,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recVCsRgvyiblytvG.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -52090,7 +52294,7 @@
               "id": "recEVctygdqPWi2wO",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recEVctygdqPWi2wO",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 16",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "16",
@@ -52110,6 +52314,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recEVctygdqPWi2wO.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -53026,7 +53234,7 @@
               "id": "rec25CQYxRhbtHHDX",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec25CQYxRhbtHHDX",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 17",
-              "subtitle": "Title 3",
+              "subtitle": "Les animaux du zoo",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "2",
               "week": "17",
@@ -53046,6 +53254,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec25CQYxRhbtHHDX.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -53325,7 +53537,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -53490,7 +53702,7 @@
               "sentences": [
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -53618,7 +53830,7 @@
               "sentences": [
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -53659,7 +53871,7 @@
               "id": "reclwv6Jkew1q7LOK",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=reclwv6Jkew1q7LOK",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 18",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "18",
@@ -53679,6 +53891,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/reclwv6Jkew1q7LOK.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -53925,7 +54141,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -54259,7 +54475,7 @@
               "id": "rec5qTQwJ8cEtELLV",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec5qTQwJ8cEtELLV",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 19",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "19",
@@ -54279,6 +54495,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec5qTQwJ8cEtELLV.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -54881,7 +55101,7 @@
               "id": "rechqHPsBanHSeo5A",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rechqHPsBanHSeo5A",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 20",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "2",
               "week": "20",
@@ -54901,6 +55121,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rechqHPsBanHSeo5A.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -55323,7 +55547,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55462,7 +55686,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -55503,7 +55727,7 @@
               "id": "recioiZvT4CRNEKTt",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recioiZvT4CRNEKTt",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 21",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "2",
               "week": "21",
@@ -55523,6 +55747,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recioiZvT4CRNEKTt.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -55886,7 +56114,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -56232,7 +56460,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -56431,7 +56659,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -56450,7 +56678,7 @@
               "id": "recRI8HEcabpHw34Y",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recRI8HEcabpHw34Y",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 22",
-              "subtitle": "Title 4",
+              "subtitle": "J'ai perdu le do de ma clarinette",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "2",
               "week": "22",
@@ -56470,6 +56698,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recRI8HEcabpHw34Y.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -57143,7 +57375,7 @@
                       "sequence": 1,
                       "col1": "le grand garçon",
                       "col1Translation": "the big boy",
-                      "col2": "la grand fille",
+                      "col2": "la grande fille",
                       "col2Translation": "the big girl"
                     },
                     {
@@ -57763,7 +57995,7 @@
                 },
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -58005,7 +58237,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -58060,7 +58292,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -58401,7 +58633,7 @@
                 },
                 {
                   "id": "recO41p1XzXKmzkak",
-                  "sentence": "Une tortue mécontent avec",
+                  "sentence": "Une tortue mécontente avec",
                   "translation": "A Tortoise, discontented with",
                   "label": "French Story Lines - Set 16",
                   "language": "French",
@@ -58643,7 +58875,7 @@
                 },
                 {
                   "id": "rec5vEk9HlvzS61LN",
-                  "sentence": "enfin l'aigle finit donc par consentir",
+                  "sentence": "Enfin l'aigle finit donc par consentir",
                   "translation": "So at length the Eagle consented",
                   "label": "French Story Lines - Set 19",
                   "language": "French",
@@ -58698,7 +58930,7 @@
                 },
                 {
                   "id": "recHeHiMVVVzyDOvE",
-                  "sentence": "est tombée la tete la premiere dans la mer.",
+                  "sentence": "est tombée la tête la première dans la mer.",
                   "translation": "fell headlong into the sea.",
                   "label": "French Story Lines - Set 20",
                   "language": "French",
@@ -58737,6 +58969,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recXRxCrEOjds0Xjh.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=EO_SX27G-ho&list=RDEO_SX27G-ho&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=wT1MylWTRkE&list=RDwT1MylWTRkE&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -59594,7 +59834,7 @@
               "id": "recZVrcePoNuDBfzr",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recZVrcePoNuDBfzr",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 25",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "25",
@@ -59614,6 +59854,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZVrcePoNuDBfzr.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -60225,7 +60469,7 @@
               "id": "rec0rkmDCgFGhmUAP",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec0rkmDCgFGhmUAP",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 26",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "26",
@@ -60245,6 +60489,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec0rkmDCgFGhmUAP.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -60878,7 +61126,7 @@
               "id": "recZRM3EKhbcJamZL",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recZRM3EKhbcJamZL",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 27",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "27",
@@ -60898,6 +61146,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recZRM3EKhbcJamZL.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -61531,7 +61783,7 @@
               "id": "rec0G3n2n05z7hr2M",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=rec0G3n2n05z7hr2M",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 28",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "28",
@@ -61551,6 +61803,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/rec0G3n2n05z7hr2M.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -62544,7 +62800,7 @@
               "id": "recmZyYJI518p12dM",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recmZyYJI518p12dM",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 29",
-              "subtitle": "Title 5",
+              "subtitle": "Papillon vole",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "3",
               "week": "29",
@@ -62564,6 +62820,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recmZyYJI518p12dM.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -63230,7 +63490,7 @@
               "id": "recVM5uZfkSlcLITQ",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recVM5uZfkSlcLITQ",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 30",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "30",
@@ -63250,6 +63510,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recVM5uZfkSlcLITQ.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -63861,7 +64125,7 @@
               "id": "recShDtKeZbUpZmQr",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recShDtKeZbUpZmQr",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 31",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "31",
@@ -63881,6 +64145,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recShDtKeZbUpZmQr.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -64492,7 +64760,7 @@
               "id": "recwcwJlm1Zj6Y2LU",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recwcwJlm1Zj6Y2LU",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 32",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Intro",
               "term": "3",
               "week": "32",
@@ -64512,6 +64780,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recwcwJlm1Zj6Y2LU.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -65123,7 +65395,7 @@
               "id": "recRqH6Vvn31hkobb",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recRqH6Vvn31hkobb",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 33",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "S.R.C. - Conversation Practice",
               "term": "3",
               "week": "33",
@@ -65143,6 +65415,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recRqH6Vvn31hkobb.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -66110,7 +66386,7 @@
               "id": "recau0f5V00ugY4xC",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagAiM9fTFCMDAPst?f1LBQ=recau0f5V00ugY4xC",
               "title": "20m French Songs, Rhymes & Conversations – Lesson 34",
-              "subtitle": "Title 6",
+              "subtitle": "La mistenlaire",
               "lessonType": "Song/Conversation Review - S.R.C.",
               "term": "3",
               "week": "34",
@@ -66130,6 +66406,10 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recau0f5V00ugY4xC.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
@@ -68532,6 +68812,14 @@
                 {
                   "text": "Lesson PDF",
                   "url": "https://planning.alveary.org/pdf/modern-language/individual-lessons/recuwUopcFHAhh9Br.pdf"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=pagQi5zlMDM&list=RDpagQi5zlMDM&start_radio=1"
+                },
+                {
+                  "text": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1",
+                  "url": "https://www.youtube.com/watch?v=o19TWbkR5dY&list=RDo19TWbkR5dY&start_radio=1"
                 }
               ],
               "vocab": [],
