@@ -17,8 +17,8 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recpmAVPZE4aoIEGv",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recFSJV8jlfXuHc0X-picture-study.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recpmAVPZE4aoIEGv",
   "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
@@ -184,7 +184,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recFSJV8jlfXuHc0X",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recpmAVPZE4aoIEGv",
           "groups": [
             {
               "title": "Picture Study",

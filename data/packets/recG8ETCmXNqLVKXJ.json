@@ -25,8 +25,8 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recG8ETCmXNqLVKXJ-history-grades-10-12-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
-  "extraHelpingsUrl": "",
+  "pdfPrintingStatus": "Needs Update",
+  "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recLExzdChHiV6eiV",
   "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
@@ -218,7 +218,7 @@
           "kind": "quick-links",
           "title": "Quick Links",
           "linkPageUrl": "https://planning.alveary.org/links.html?id=recG8ETCmXNqLVKXJ",
-          "extraHelpingsUrl": "",
+          "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recLExzdChHiV6eiV",
           "groups": [
             {
               "title": "History: Grades 10-12 (U.S.)",
