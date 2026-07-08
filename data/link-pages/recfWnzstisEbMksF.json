@@ -132,7 +132,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-08T08:02:44.021Z",
+  "updatedAt": "2026-07-08T15:00:08.503Z",
   "terms": [
     {
       "termNumber": 1,
@@ -721,7 +721,7 @@
                   "url": "https://www.youtube.com/watch?v=zCohaWNsBFM&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=9&pp=iAQB8AUBsAgC"
                 },
                 {
-                  "text": "Tirdao Bio",
+                  "text": "Tirado Bio",
                   "url": "https://tecla.com/pedro-ximenez-abrill-tirado-by-jose-manuel-izquierdo-konig/"
                 },
                 {
@@ -839,7 +839,7 @@
                   "url": "https://www.youtube.com/watch?v=R-5weyHVC2U&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=42"
                 },
                 {
-                  "text": "Francisco Bio",
+                  "text": "Tárrega bio",
                   "url": "https://learnavel.com/blogs/classical-guitar/francisco-tarrega-father-of-classical-guitar"
                 },
                 {
@@ -1299,16 +1299,16 @@
               "anchor": "term-1-week-10-lesson-10",
               "links": [
                 {
+                  "text": "Picture of a Saxophone",
+                  "url": "https://nationalsaxophonemuseum.com/adolphe-sax-alto-10663.html"
+                },
+                {
                   "text": "Septieme Solo de Concert",
                   "url": "https://www.youtube.com/watch?v=I89PFDpfOhk&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=39&pp=iAQB8AUB0gcJCQoLAYcqIYzvsAgC"
                 },
                 {
                   "text": "Fantaisie for Saxophone",
                   "url": "https://www.youtube.com/watch?v=i0P-1zBpD58&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=47&pp=iAQB8AUBsAgC"
-                },
-                {
-                  "text": "Picture of a Saxophone",
-                  "url": "https://nationalsaxophonemuseum.com/adolphe-sax-alto-10663.html"
                 }
               ]
             }
@@ -1381,7 +1381,7 @@
               "anchor": "term-1-week-11-lesson-11",
               "links": [
                 {
-                  "text": "About Gamelan orchestras",
+                  "text": "Gong-chime orchestra",
                   "url": "https://fraryguitar.com/history_frary73/Romantic06.htm"
                 },
                 {
@@ -1497,12 +1497,12 @@
               "anchor": "term-2-week-13-lesson-13",
               "links": [
                 {
-                  "text": "List of Works",
-                  "url": "https://en.wikipedia.org/wiki/List_of_compositions_by_Edvard_Grieg"
-                },
-                {
                   "text": "About Grieg",
                   "url": "https://www.classicsforkids.com/podcast/edvard-grieg-1-about-edvard-grieg/"
+                },
+                {
+                  "text": "List of Works",
+                  "url": "https://en.wikipedia.org/wiki/List_of_compositions_by_Edvard_Grieg"
                 },
                 {
                   "text": "Piano Concerto in A minor",
@@ -1725,7 +1725,7 @@
                   "url": "https://interlude.hk/translating-the-past-to-today-griegs-holberg-suite/"
                 },
                 {
-                  "text": "Holberg's Suite: Prelude",
+                  "text": "Holberg's Suite (Prelude)",
                   "url": "https://www.youtube.com/watch?v=a3p3cna7J6Q&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=28"
                 },
                 {
@@ -1733,12 +1733,12 @@
                   "url": "https://www.youtube.com/watch?v=sjHsTANn5Ew&list=PLvg0fKfOahKQjCzDYuaJCcuJyn7khIxsN&index=46&pp=iAQB8AUBsAgC"
                 },
                 {
-                  "text": "About Holberg",
-                  "url": "https://voicemap.me/tour/bergen/pocket-bergen-walking-tour-a-guide-to-the-city-s-landmarks-and-history/sites/the-statue-of-ludvig-holberg-2"
-                },
-                {
                   "text": "Holberg's Suite: Gavotte",
                   "url": "https://www.youtube.com/watch?v=kJ6AaBArhRw&t=381s"
+                },
+                {
+                  "text": "About Holberg",
+                  "url": "https://voicemap.me/tour/bergen/pocket-bergen-walking-tour-a-guide-to-the-city-s-landmarks-and-history/sites/the-statue-of-ludvig-holberg-2"
                 }
               ]
             }
