@@ -23,7 +23,7 @@
   "manualPdfUrl": "",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Needs Updated Import",
