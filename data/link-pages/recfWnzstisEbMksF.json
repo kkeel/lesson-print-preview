@@ -132,7 +132,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-09T15:45:57.435Z",
+  "updatedAt": "2026-07-10T08:54:33.357Z",
   "terms": [
     {
       "termNumber": 1,
@@ -845,10 +845,6 @@
                 {
                   "text": "Tárrega bio",
                   "url": "https://learnavel.com/blogs/classical-guitar/francisco-tarrega-father-of-classical-guitar"
-                },
-                {
-                  "text": "Antonio Torres bio",
-                  "url": "https://classicalguitarmagazine.com/from-the-archives-a-200th-birthday-appreciation-of-luthier-antonio-de-torres/"
                 }
               ]
             }

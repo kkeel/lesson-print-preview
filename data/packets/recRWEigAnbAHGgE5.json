@@ -29,7 +29,7 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recSybgW92Wd2KXg9",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recRWEigAnbAHGgE5-music-level-3.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recSybgW92Wd2KXg9",
   "hidePdf": "",
   "studentVersion": false,
@@ -1199,10 +1199,6 @@
                 {
                   "text": "Tárrega bio",
                   "url": "https://learnavel.com/blogs/classical-guitar/francisco-tarrega-father-of-classical-guitar"
-                },
-                {
-                  "text": "Antonio Torres bio",
-                  "url": "https://classicalguitarmagazine.com/from-the-archives-a-200th-birthday-appreciation-of-luthier-antonio-de-torres/"
                 }
               ]
             },
