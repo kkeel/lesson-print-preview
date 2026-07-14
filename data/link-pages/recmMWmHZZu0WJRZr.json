@@ -26,7 +26,7 @@
     "additional": [
       {
         "label": "Video Folder of Folk Dances",
-        "url": "https://vimeo.com/user/36827822/folder/28792575?fl=tl&fe=cc",
+        "url": "https://vimeo.com/user/36827822/folder/28792575",
         "sort": "1",
         "groupTitle": "Folk Dancing",
         "groupType": "topic"
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-14T07:32:01.446Z",
+  "updatedAt": "2026-07-14T13:57:32.016Z",
   "terms": [
     {
       "termNumber": 1,
