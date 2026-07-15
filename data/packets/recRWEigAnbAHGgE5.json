@@ -116,7 +116,7 @@
               "label": "Music: Level 3",
               "grade": "",
               "scheduleInfo": "Shared course resources",
-              "books": "Our Work: Grade 3||Our Work: Grades 4-6||Hymns, Spirituals, & Folk Songs PDF"
+              "books": "Our Work: Grades 4-6||Hymns, Spirituals, & Folk Songs PDF"
             }
           ],
           "weeklyView": {
@@ -157,10 +157,6 @@
               "title": "Music: Level 3",
               "type": "course",
               "books": [
-                {
-                  "title": "Our Work: Grade 3",
-                  "resourceId": "recYJHQP07uKDyMpq"
-                },
                 {
                   "title": "Our Work: Grades 4-6",
                   "resourceId": "recpZeVli0urkjOFH"
