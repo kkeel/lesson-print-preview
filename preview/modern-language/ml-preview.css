@@ -1,4 +1,26 @@
 /* =========================================================
+   MODERN LANGUAGE RELEASE LABEL
+   ========================================================= */
+
+.cover-release-label {
+  width: fit-content;
+  margin: 0.22in auto 0;
+  padding: 6px 14px;
+
+  border: 1px solid #596e5e;
+  border-radius: 999px;
+
+  color: #596e5e;
+
+  font-family: "Circular Pro", system-ui, sans-serif;
+  font-size: 12px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+/* =========================================================
    MODERN LANGUAGE LESSON FLOW
    ========================================================= */
 
