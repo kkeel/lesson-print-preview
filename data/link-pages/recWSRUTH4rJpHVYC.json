@@ -10,6 +10,8 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recwl5xDJS9vaIypY",
     "bookListUrl": "",
@@ -20,7 +22,7 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-20T14:55:24.530Z",
+  "updatedAt": "2026-07-20T21:16:36.391Z",
   "terms": [
     {
       "termNumber": 1,

@@ -12,6 +12,8 @@
   "topicConnectionNames": [
     "Algebra 1: Part 2"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recw85yKqU6k2EkIi",
@@ -22,6 +24,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-20T14:55:24.426Z",
+  "updatedAt": "2026-07-20T21:16:36.311Z",
   "terms": []
 }

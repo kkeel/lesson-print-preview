@@ -12,6 +12,8 @@
     "Science: Biology"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recqs5CJX6rm4MnPJ",
@@ -37,6 +39,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.596Z",
+  "updatedAt": "2026-07-20T21:16:36.496Z",
   "terms": []
 }

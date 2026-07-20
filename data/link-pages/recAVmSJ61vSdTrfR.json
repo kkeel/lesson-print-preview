@@ -12,6 +12,8 @@
     "Science: Grade 8"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recy9WbCqz2fs07iL",
@@ -79,7 +81,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.583Z",
+  "updatedAt": "2026-07-20T21:16:36.486Z",
   "terms": [
     {
       "termNumber": 1,

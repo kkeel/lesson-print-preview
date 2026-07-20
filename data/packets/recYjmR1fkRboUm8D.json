@@ -20,6 +20,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recIOls4bTrh0o2bL",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
@@ -153,10 +155,6 @@
                   "supplyId": "recAAoFPpnJY2MSHO"
                 },
                 {
-                  "title": "Multi Piece Pottery Tool Kit",
-                  "supplyId": "recByMu7MOylVeggr"
-                },
-                {
                   "title": "Gold Leaf Sheets",
                   "supplyId": "recoszaxTHMt3qhee"
                 },
@@ -207,6 +205,10 @@
                 {
                   "title": "Household Items - Art History",
                   "supplyId": "recpQR4LmaJfAHjnI"
+                },
+                {
+                  "title": "Multi Piece Pottery Tool Kit",
+                  "supplyId": "recByMu7MOylVeggr"
                 }
               ]
             }

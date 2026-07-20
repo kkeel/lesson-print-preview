@@ -24,6 +24,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Needs Updated Import",

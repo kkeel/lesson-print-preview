@@ -13,6 +13,8 @@
     "Math Lessons: Grade 1",
     "Math Games: Grades 1-8"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8m6y5MmTFpp033",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec8m6y5MmTFpp033",
@@ -31,6 +33,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.398Z",
+  "updatedAt": "2026-07-20T21:16:36.289Z",
   "terms": []
 }

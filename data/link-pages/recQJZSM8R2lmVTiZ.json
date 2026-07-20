@@ -12,6 +12,8 @@
     "Science: Grade 5"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recM238EuuLae1M5U",
@@ -72,7 +74,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.567Z",
+  "updatedAt": "2026-07-20T21:16:36.473Z",
   "terms": [
     {
       "termNumber": 1,

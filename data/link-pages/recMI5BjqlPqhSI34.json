@@ -13,6 +13,8 @@
     "PE: Grades 4-6"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recAB9geLqGyqTDkg",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recAB9geLqGyqTDkg",
@@ -38,7 +40,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.536Z",
+  "updatedAt": "2026-07-20T21:16:36.396Z",
   "terms": [
     {
       "termNumber": 1,

@@ -28,6 +28,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",

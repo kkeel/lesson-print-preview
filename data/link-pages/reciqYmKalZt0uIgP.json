@@ -15,6 +15,8 @@
     "Nature Notebook: Grade 1",
     "Nature Walks & Scouting: Grades 1-8"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recd3Rk2unWYZgixW",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recd3Rk2unWYZgixW",
@@ -61,7 +63,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.544Z",
+  "updatedAt": "2026-07-20T21:16:36.403Z",
   "terms": [
     {
       "termNumber": 1,

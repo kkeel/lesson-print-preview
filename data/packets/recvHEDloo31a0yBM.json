@@ -24,6 +24,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recZlVEv5UkShx7q9",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",

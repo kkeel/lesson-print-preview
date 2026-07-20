@@ -20,6 +20,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recdpbKpVIwfvRcIw",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
@@ -161,10 +163,6 @@
                   "supplyId": "recpKEukPhVWpMcdX"
                 },
                 {
-                  "title": "Elmer's Glue",
-                  "supplyId": "rechtruCaoUVXZLJq"
-                },
-                {
                   "title": "Grid Paper Notebook",
                   "supplyId": "recNb79kigRhO54Vd"
                 },
@@ -179,10 +177,6 @@
                 {
                   "title": "MYARTOOL Empty Watercolor Palette",
                   "supplyId": "recHLPs9Gx5oO5axq"
-                },
-                {
-                  "title": "Watercolor Paper",
-                  "supplyId": "rec4cHDxIg3C7LvGd"
                 },
                 {
                   "title": "Mungyo Soft Pastels",
@@ -231,6 +225,14 @@
                 {
                   "title": "White and Colored Chalk",
                   "supplyId": "recJ9uLxsxnIebHTI"
+                },
+                {
+                  "title": "Elmer's Glue",
+                  "supplyId": "rechtruCaoUVXZLJq"
+                },
+                {
+                  "title": "Watercolor Paper",
+                  "supplyId": "rec4cHDxIg3C7LvGd"
                 }
               ]
             }

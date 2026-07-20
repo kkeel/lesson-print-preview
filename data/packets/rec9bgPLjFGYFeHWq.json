@@ -20,6 +20,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "Delay PDF",
+  "pdfReleaseMode": "delay",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",

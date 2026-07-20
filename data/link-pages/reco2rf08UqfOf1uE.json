@@ -15,6 +15,8 @@
     "Astronomy Lessons",
     "Astronomy Labs"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec1cxxBHRBfT6T9a",
@@ -131,7 +133,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.627Z",
+  "updatedAt": "2026-07-20T21:16:36.524Z",
   "terms": [
     {
       "termNumber": 1,

@@ -11,6 +11,8 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "topics": [
     {
       "id": "rech2VXzKjVLXBb1d",
@@ -152,7 +154,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.488Z",
+  "updatedAt": "2026-07-20T21:16:36.357Z",
   "terms": [
     {
       "termNumber": 1,

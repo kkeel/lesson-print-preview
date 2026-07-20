@@ -14,6 +14,8 @@
     "Tall Tales/ Fables",
     "Community Read Alouds: Grades 1-12"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recQkVAkPcg3NKGnG",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recQkVAkPcg3NKGnG",
@@ -39,7 +41,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.336Z",
+  "updatedAt": "2026-07-20T21:16:36.240Z",
   "terms": [
     {
       "termNumber": 1,

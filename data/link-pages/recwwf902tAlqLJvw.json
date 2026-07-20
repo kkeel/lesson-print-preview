@@ -15,6 +15,8 @@
     "Biology Lessons",
     "Biology Labs"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recpEmtJeBr6l5oV8",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recpEmtJeBr6l5oV8",
@@ -103,7 +105,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.593Z",
+  "updatedAt": "2026-07-20T21:16:36.494Z",
   "terms": [
     {
       "termNumber": 1,

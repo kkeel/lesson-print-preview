@@ -12,6 +12,8 @@
     "Science: Grade 1"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recyJkGRi0eytNpYD",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recyJkGRi0eytNpYD",
@@ -58,7 +60,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.546Z",
+  "updatedAt": "2026-07-20T21:16:36.405Z",
   "terms": [
     {
       "termNumber": 1,

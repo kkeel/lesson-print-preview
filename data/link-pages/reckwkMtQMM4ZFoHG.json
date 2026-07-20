@@ -12,6 +12,8 @@
     "Literature: Grade 3"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recSEbSNxFsgIUsga",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recSEbSNxFsgIUsga",
@@ -44,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.343Z",
+  "updatedAt": "2026-07-20T21:16:36.245Z",
   "terms": [
     {
       "termNumber": 3,

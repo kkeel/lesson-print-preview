@@ -12,6 +12,8 @@
     "Science: Grade 8"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "",
@@ -65,6 +67,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.584Z",
+  "updatedAt": "2026-07-20T21:16:36.486Z",
   "terms": []
 }

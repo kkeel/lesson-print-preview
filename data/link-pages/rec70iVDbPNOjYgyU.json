@@ -12,6 +12,8 @@
     "Science: Microbiology"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recFovwuS7zeV6AkE",
@@ -65,7 +67,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.633Z",
+  "updatedAt": "2026-07-20T21:16:36.529Z",
   "terms": [
     {
       "termNumber": 1,

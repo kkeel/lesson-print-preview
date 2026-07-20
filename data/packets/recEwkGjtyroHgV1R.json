@@ -20,6 +20,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
   "hidePdf": "Do Not Show PDF",
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Do Not Import",

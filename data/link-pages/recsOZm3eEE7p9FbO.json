@@ -14,6 +14,8 @@
     "World History: Grades 4-6",
     "Ancient History: Grades 5-6"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec2RKe5ltrOg6i2s",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec2RKe5ltrOg6i2s",
@@ -88,7 +90,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.281Z",
+  "updatedAt": "2026-07-20T21:16:36.197Z",
   "terms": [
     {
       "termNumber": 1,

@@ -12,6 +12,8 @@
     "Science: Introduction to Engineering"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "",
@@ -22,7 +24,7 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-20T14:55:24.610Z",
+  "updatedAt": "2026-07-20T21:16:36.509Z",
   "terms": [
     {
       "termNumber": 1,

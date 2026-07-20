@@ -12,6 +12,8 @@
     "Science: Grade 5"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "",
@@ -58,6 +60,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.567Z",
+  "updatedAt": "2026-07-20T21:16:36.473Z",
   "terms": []
 }

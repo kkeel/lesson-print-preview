@@ -13,6 +13,8 @@
     "General Lit.: Grade 4",
     "Mythology/Hist. Fiction: Grade 4"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec6S4wufY691nsui",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec6S4wufY691nsui",
@@ -31,7 +33,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.344Z",
+  "updatedAt": "2026-07-20T21:16:36.246Z",
   "terms": [
     {
       "termNumber": 2,

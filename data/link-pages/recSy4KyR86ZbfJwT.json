@@ -12,6 +12,8 @@
     "Music: Level 2"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recpGNmYUmRPSyd8C",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recpGNmYUmRPSyd8C",
@@ -51,7 +53,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.515Z",
+  "updatedAt": "2026-07-20T21:16:36.378Z",
   "terms": [
     {
       "termNumber": 1,

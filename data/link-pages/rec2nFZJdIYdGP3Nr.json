@@ -10,6 +10,8 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recJBESg40pUPf6Wl",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recJBESg40pUPf6Wl",
@@ -35,7 +37,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.253Z",
+  "updatedAt": "2026-07-20T21:16:36.176Z",
   "terms": [
     {
       "termNumber": 1,

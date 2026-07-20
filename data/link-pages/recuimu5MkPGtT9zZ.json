@@ -16,6 +16,8 @@
     "Composer Study",
     "Sol-fa: Level 5"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recU2BFWNK9nliynJ",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recU2BFWNK9nliynJ",
@@ -146,7 +148,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.527Z",
+  "updatedAt": "2026-07-20T21:16:36.389Z",
   "terms": [
     {
       "termNumber": 1,

@@ -13,6 +13,8 @@
     "Math Lessons: Grade 7 (Denison)",
     "Math Games: Grades 1-8"
   ],
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec1R0AcwtxzksQqP",
@@ -23,6 +25,6 @@
     "lessonPdfLabel": "No Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-20T14:55:24.420Z",
+  "updatedAt": "2026-07-20T21:16:36.305Z",
   "terms": []
 }

@@ -13,6 +13,8 @@
     "Canadian History: Grades 2-4",
     "World History: Grades 4-6"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recghfQsTMR1SBjwB",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recghfQsTMR1SBjwB",
@@ -66,7 +68,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.278Z",
+  "updatedAt": "2026-07-20T21:16:36.196Z",
   "terms": [
     {
       "termNumber": 1,

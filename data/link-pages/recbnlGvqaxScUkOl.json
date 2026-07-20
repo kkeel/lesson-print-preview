@@ -14,6 +14,8 @@
     "Geometry: Grade 8",
     "Math Games: Grades 1-8"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recvWaMgcOPtoe4WV",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recvWaMgcOPtoe4WV",
@@ -32,6 +34,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.422Z",
+  "updatedAt": "2026-07-20T21:16:36.307Z",
   "terms": []
 }

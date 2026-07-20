@@ -20,6 +20,8 @@
     "Science: Astronomy"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "hidden",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "",
@@ -52,6 +54,6 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.591Z",
+  "updatedAt": "2026-07-20T21:16:36.492Z",
   "terms": []
 }

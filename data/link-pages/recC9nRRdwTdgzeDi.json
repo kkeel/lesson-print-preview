@@ -10,6 +10,8 @@
   "isStandaloneCourse": true,
   "courseConnectionNames": [],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "",
@@ -20,6 +22,6 @@
     "lessonPdfLabel": "Lesson PDF",
     "additional": []
   },
-  "updatedAt": "2026-07-20T14:55:24.206Z",
+  "updatedAt": "2026-07-20T21:16:36.142Z",
   "terms": []
 }

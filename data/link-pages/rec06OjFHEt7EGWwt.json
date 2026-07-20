@@ -15,6 +15,8 @@
     "Geology Lessons",
     "Geology Labs"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rechCQYHXFbtOHxO7",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rechCQYHXFbtOHxO7",
@@ -61,7 +63,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.623Z",
+  "updatedAt": "2026-07-20T21:16:36.520Z",
   "terms": [
     {
       "termNumber": 1,

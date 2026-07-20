@@ -12,6 +12,8 @@
     "Science: Grade 6"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recCIKPAUtjmwgV4a",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recCIKPAUtjmwgV4a",
@@ -58,7 +60,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.571Z",
+  "updatedAt": "2026-07-20T21:16:36.476Z",
   "terms": [
     {
       "termNumber": 1,

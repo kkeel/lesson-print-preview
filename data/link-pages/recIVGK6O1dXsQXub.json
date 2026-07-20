@@ -14,6 +14,8 @@
     "Ancient History: Grades 7-9",
     "World History: Grade 9"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recmOqzBsnQfQr9Fk",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recmOqzBsnQfQr9Fk",
@@ -46,7 +48,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.299Z",
+  "updatedAt": "2026-07-20T21:16:36.212Z",
   "terms": [
     {
       "termNumber": 1,

@@ -12,6 +12,8 @@
     "Science: Astronomy"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recXTURkL3qi6QDwx",
@@ -128,7 +130,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.629Z",
+  "updatedAt": "2026-07-20T21:16:36.525Z",
   "terms": [
     {
       "termNumber": 1,

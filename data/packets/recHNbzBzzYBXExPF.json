@@ -20,6 +20,8 @@
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec8uExmrd5iccO3z",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
@@ -181,14 +183,6 @@
                   "supplyId": "recHLPs9Gx5oO5axq"
                 },
                 {
-                  "title": "Watercolor Paper",
-                  "supplyId": "rec4cHDxIg3C7LvGd"
-                },
-                {
-                  "title": "Elmer's Glue",
-                  "supplyId": "rechtruCaoUVXZLJq"
-                },
-                {
                   "title": "Mungyo Soft Pastels",
                   "supplyId": "recRTkE7KQSTCZTUM"
                 },
@@ -231,6 +225,14 @@
                 {
                   "title": "White and Colored Chalk",
                   "supplyId": "recJ9uLxsxnIebHTI"
+                },
+                {
+                  "title": "Elmer's Glue",
+                  "supplyId": "rechtruCaoUVXZLJq"
+                },
+                {
+                  "title": "Watercolor Paper",
+                  "supplyId": "rec4cHDxIg3C7LvGd"
                 }
               ]
             }

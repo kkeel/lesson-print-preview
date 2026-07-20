@@ -12,6 +12,8 @@
     "Citizenship: Grade 12"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=recSaJvbIz1aBWS4B",
@@ -37,7 +39,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.178Z",
+  "updatedAt": "2026-07-20T21:16:36.078Z",
   "terms": [
     {
       "termNumber": 1,

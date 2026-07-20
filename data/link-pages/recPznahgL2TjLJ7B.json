@@ -15,6 +15,8 @@
     "Botany Lessons",
     "Botany Labs"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recrhRvDTMhhDMfp7",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recrhRvDTMhhDMfp7",
@@ -68,7 +70,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.612Z",
+  "updatedAt": "2026-07-20T21:16:36.511Z",
   "terms": [
     {
       "termNumber": 1,

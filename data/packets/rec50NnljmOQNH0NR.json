@@ -29,9 +29,11 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec50NnljmOQNH0NR-literature-grade-9.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec0W9G7pHNhGaTjO",
   "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Do Not Import",
@@ -478,7 +480,7 @@
                 },
                 {
                   "text": "Tintern Abbey",
-                  "url": "upload.wikimedia.org/wikipedia/commons/b/b5/Tintern-abbey-by-william-havell.jpg"
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tintern-abbey-by-william-havell.jpg"
                 }
               ]
             },

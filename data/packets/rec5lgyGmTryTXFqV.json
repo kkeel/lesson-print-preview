@@ -19,7 +19,9 @@
   "manualPdfUrl": "",
   "pdfPrintingStatus": "Current",
   "extraHelpingsUrl": "",
-  "hidePdf": "Delay PDF",
+  "hidePdf": "Term 1 ONLY",
+  "pdfReleaseMode": "term-1",
+  "releaseNotice": "Term 1 links are available. Additional lesson links and Quick Links are coming soon.",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
@@ -17232,6 +17234,10 @@
                 {
                   "text": "T1LitAudioL6",
                   "url": "https://soundcloud.com/alveary/literature-term-1-lesson-6-30/s-Cvu3U7HwR2F?in=alveary/sets/lower-french-grades-1-6-26-27/s-FWkSjnSorqF&si=015e26fbaf454c358a0e46c8b8919a91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                },
+                {
+                  "text": "T1LitVideoL6",
+                  "url": "https://vimeo.com/1211245833/f26e2a1554?fl=pl&fe=sh"
                 }
               ],
               "vocab": [
@@ -45491,6 +45497,10 @@
                 {
                   "text": "T1LitAudioL6",
                   "url": "https://soundcloud.com/alveary/literature-term-1-lesson-6-30/s-Cvu3U7HwR2F?in=alveary/sets/lower-french-grades-1-6-26-27/s-FWkSjnSorqF&si=015e26fbaf454c358a0e46c8b8919a91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                },
+                {
+                  "text": "T1LitVideoL6",
+                  "url": "https://vimeo.com/1211245833/f26e2a1554?fl=pl&fe=sh"
                 }
               ],
               "vocab": [

@@ -16,6 +16,8 @@
     "Community Read Alouds: Grades 1-12",
     "Ethics: Part 2"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec3zUhQr36iadk2c",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=rec3zUhQr36iadk2c",
@@ -97,7 +99,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.157Z",
+  "updatedAt": "2026-07-20T21:16:36.062Z",
   "terms": [
     {
       "termNumber": 1,

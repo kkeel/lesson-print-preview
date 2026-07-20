@@ -13,6 +13,8 @@
     "Commonplace: Grades 9-12",
     "Composition: Grade 12"
   ],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recvw8fHm1PCFhD0Q",
     "bookListUrl": "https://planning.alveary.org/book-details.html?base=subject&id=All%20Subjects&course=recvw8fHm1PCFhD0Q",
@@ -31,7 +33,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.229Z",
+  "updatedAt": "2026-07-20T21:16:36.159Z",
   "terms": [
     {
       "termNumber": 1,

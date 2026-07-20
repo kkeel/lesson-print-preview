@@ -12,6 +12,8 @@
     "Science: Food Science"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=rec2J7Uc3ixLHrIIw",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=rec2J7Uc3ixLHrIIw",
@@ -58,7 +60,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.606Z",
+  "updatedAt": "2026-07-20T21:16:36.505Z",
   "terms": [
     {
       "termNumber": 1,

@@ -12,6 +12,8 @@
     "Music: Intro"
   ],
   "topicConnectionNames": [],
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "quickLinks": {
     "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=reclhERbHEXrGEJTn",
     "bookListUrl": "https://planning.alveary.org/book-details.html?view=topic&id=reclhERbHEXrGEJTn",
@@ -44,7 +46,7 @@
       }
     ]
   },
-  "updatedAt": "2026-07-20T14:55:24.503Z",
+  "updatedAt": "2026-07-20T21:16:36.369Z",
   "terms": [
     {
       "termNumber": 1,
