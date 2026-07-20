@@ -13,6 +13,16 @@ const SAMPLE_WEEK_COUNT = 3;
 
 const preview = document.getElementById("preview");
 
+function getProductionMLTerm(packetData = {}) {
+  return packetData.pdfReleaseMode === "term-1"
+    ? "1"
+    : "";
+}
+
+function getEffectiveMLTerm(packetData = {}) {
+  return mlTerm || getProductionMLTerm(packetData);
+}
+
 let currentPacketData = null;
 let mlViewMode = params.get("mlView") || "course";
 
@@ -183,6 +193,7 @@ function renderPacket(data) {
   }
 
   const isMLSpecialPrint = Boolean(mlStudentNotebook || mlReference);
+  const effectiveMLTerm = getEffectiveMLTerm(data);
 
   const sectionsToRender = studentMode
     ? data.sections
@@ -233,7 +244,7 @@ function renderPacket(data) {
       viewMode: mlViewMode,
       variant: mlVariant,
       topic: mlTopic,
-      term: mlTerm,
+      term: effectiveMLTerm,
       lesson: "",
       studentNotebook: "",
       mlReference: "",
@@ -276,7 +287,7 @@ function renderSection(section, packetData) {
       viewMode: mlViewMode,
       variant: mlVariant,
       topic: mlTopic,
-      term: mlTerm,
+      term: getEffectiveMLTerm(packetData),
       lesson: mlLesson,
       studentNotebook: mlStudentNotebook,
       mlReference,
@@ -404,11 +415,13 @@ function buildMLCoverSection(section, packetData) {
   if (mlReference) {
     return {
       ...section,
-      brandLine: "Alveary Reference",
-      title: mlReference === "full"
-        ? `${languageLabel} References`
-        : `${languageLabel} Reference`,
-      subtitle: getMLReferenceSubtitle(mlReference)
+      brandLine: "Alveary Lesson Plan",
+      title: courseTitle,
+      subtitle,
+      releaseLabel:
+        packetData.pdfReleaseMode === "term-1"
+          ? "TERM 1 ONLY"
+          : ""
     };
   }
 
