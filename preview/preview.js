@@ -401,6 +401,13 @@ function buildMLCoverSection(section, packetData) {
   const courseTitle = getMLCourseTitle(packetData, section);
   const languageLabel = getMLLanguageLabel(packetData, section);
 
+  const lessonSets = getMLFilteredLessonSetsForCover(mlSection);
+  const subtitle = lessonSets
+    .map(lessonSet => getMLTopicSubtitleLabel(lessonSet.title || ""))
+    .filter(Boolean)
+    .filter((label, index, list) => list.indexOf(label) === index)
+    .join("\n");
+
   if (mlStudentNotebook) {
     return {
       ...section,
@@ -417,24 +424,16 @@ function buildMLCoverSection(section, packetData) {
       ...section,
       brandLine: "Alveary Lesson Plan",
       title: courseTitle,
-      subtitle,
-      releaseLabel:
-        packetData.pdfReleaseMode === "term-1"
-          ? "TERM 1 ONLY"
-          : ""
+      subtitle
     };
   }
 
-  const lessonSets = getMLFilteredLessonSetsForCover(mlSection);
-  const subtitle = lessonSets
-    .map(lessonSet => getMLTopicSubtitleLabel(lessonSet.title || ""))
-    .filter(Boolean)
-    .filter((label, index, list) => list.indexOf(label) === index)
-    .join("\n");
-
   return {
     ...section,
-    brandLine: "Alveary Lesson Plan",
+    brandLine:
+      packetData.pdfReleaseMode === "term-1"
+        ? "TERM 1 ONLY"
+        : "Alveary Lesson Plan",
     title: courseTitle,
     subtitle
   };
