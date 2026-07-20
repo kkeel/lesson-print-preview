@@ -430,12 +430,13 @@ function buildMLCoverSection(section, packetData) {
 
   return {
     ...section,
-    brandLine:
+    brandLine: "Alveary Lesson Plan",
+    title: courseTitle,
+    subtitle,
+    releaseLabel:
       packetData.pdfReleaseMode === "term-1"
         ? "TERM 1 ONLY"
-        : "Alveary Lesson Plan",
-    title: courseTitle,
-    subtitle
+        : ""
   };
 }
 
