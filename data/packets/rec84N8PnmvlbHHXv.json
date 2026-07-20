@@ -102,7 +102,7 @@
               "label": "History of Lit: Grades 9-12",
               "grade": "9-12",
               "scheduleInfo": "History of Lit: Grades 9-12\n1 time/week 30 min",
-              "books": "American Literature||English Literature for Boys and Girls||History of Literature PDF"
+              "books": "History of Literature PDF||American Literature||English Literature for Boys and Girls"
             },
             {
               "rowType": "topic",
@@ -250,16 +250,16 @@
               "type": "topic",
               "books": [
                 {
+                  "title": "History of Literature PDF",
+                  "resourceId": "rec0r9HNzoD6ModuC"
+                },
+                {
                   "title": "American Literature",
                   "resourceId": "rec3R4IiED1XO1HFQ"
                 },
                 {
                   "title": "English Literature for Boys and Girls",
                   "resourceId": "rec0oGsLUHcktbS7b"
-                },
-                {
-                  "title": "History of Literature PDF",
-                  "resourceId": "rec0r9HNzoD6ModuC"
                 }
               ]
             },
