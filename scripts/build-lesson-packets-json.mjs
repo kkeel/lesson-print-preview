@@ -408,6 +408,27 @@ function normalizeSubject(value) {
   return arr[0] || "";
 }
 
+const TERM_1_RELEASE_NOTICE =
+  "Term 1 links are available. Additional lesson links and Quick Links are coming soon.";
+
+function getPdfReleaseMode(hidePdfValue) {
+  const hidePdf = normalizeText(hidePdfValue);
+
+  if (hidePdf === "Term 1 ONLY") {
+    return "term-1";
+  }
+
+  if (hidePdf === "Delay PDF") {
+    return "delay";
+  }
+
+  if (hidePdf === "Do Not Show PDF") {
+    return "hidden";
+  }
+
+  return "full";
+}
+
 function joinNonEmptyBlocks(blocks) {
   return blocks
     .map(block => String(block ?? "").trim())
@@ -2031,6 +2052,9 @@ function buildLinkPage(packet) {
       courseConnectionNames: packet.courseConnectionNames || [],
       topicConnectionNames: packet.topicConnectionNames || [],
 
+      pdfReleaseMode: packet.pdfReleaseMode || "full",
+      releaseNotice: packet.releaseNotice || "",
+
       quickLinks: buildLinkPageQuickLinks(packet),
 
       updatedAt: new Date().toISOString(),
@@ -2112,6 +2136,9 @@ function buildLinkPage(packet) {
     isStandaloneCourse: packet.isStandaloneCourse,
     courseConnectionNames: packet.courseConnectionNames || [],
     topicConnectionNames: packet.topicConnectionNames || [],
+
+    pdfReleaseMode: packet.pdfReleaseMode || "full",
+    releaseNotice: packet.releaseNotice || "",
   
     quickLinks: buildLinkPageQuickLinks(packet),
   
@@ -2221,6 +2248,10 @@ function buildModernLanguageLinkPage(packet, modernLanguageSection) {
     isStandaloneCourse: packet.isStandaloneCourse,
     courseConnectionNames: packet.courseConnectionNames || [],
     topicConnectionNames: packet.topicConnectionNames || [],
+
+    pdfReleaseMode: packet.pdfReleaseMode || "full",
+    releaseNotice: packet.releaseNotice || "",
+
     topics,
 
     quickLinks: buildLinkPageQuickLinks(packet),
@@ -2269,6 +2300,11 @@ function buildPacket(record, headerLookup) {
   const manualPdfUrl = normalizeText(fields["Manual PDF Link"]);
   const pdfPrintingStatus = normalizeText(fields["PDF Printing Status"]);
   const hidePdf = normalizeText(fields["Hide PDF"]);
+  const pdfReleaseMode = getPdfReleaseMode(hidePdf);
+  const releaseNotice =
+    pdfReleaseMode === "term-1"
+      ? TERM_1_RELEASE_NOTICE
+      : "";
   const studentVersion = fields["Student Version"] === true;
   const extraHelpingsUrl = normalizeText(fields["Extra Helpings Link"]);
   const coverTitle = normalizeText(fields["Cover Title"]) || lessonSetName;
@@ -2320,6 +2356,8 @@ function buildPacket(record, headerLookup) {
     pdfPrintingStatus,
     extraHelpingsUrl,
     hidePdf,
+    pdfReleaseMode,
+    releaseNotice,
     studentVersion,
 
     syllabird: {
