@@ -90,6 +90,7 @@ function prepareMLSectionForRender(section, options = {}) {
 
   return {
     ...section,
+    termFilter,
     lessonSets,
     weeklyLessons: buildMLWeeklyLessonsFromLessonSets(lessonSets),
     appendices: buildMLAppendices(appendixLessonSets, {
@@ -1020,10 +1021,16 @@ function renderMLConversationSet(setGroup) {
 
 function renderMLTeacherReferences(section) {
   const isSampleMode = section.sampleMode === true;
-  const studentLiteraturePages = section.appendices?.studentLiteraturePages || [];
+  const isTermOneRelease = String(section.termFilter || "") === "1";
+  const studentLiteraturePages =
+    section.appendices?.studentLiteraturePages || [];
+
+  const includeStudentWork =
+    (isSampleMode || isTermOneRelease) &&
+    studentLiteraturePages.length > 0;
 
   return `
-    ${isSampleMode && studentLiteraturePages.length ? `
+    ${includeStudentWork ? `
       ${renderMLDividerPage("Student Work")}
       ${renderMLStudentLiteraturePages(studentLiteraturePages)}
     ` : ""}
