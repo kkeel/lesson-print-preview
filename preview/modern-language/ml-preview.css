@@ -17,6 +17,13 @@
   background: transparent;
 }
 
+.quick-links-release-notice {
+  margin: 0.5rem 0 1rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #596e5e;
+}
+
 /* =========================================================
    MODERN LANGUAGE LESSON FLOW
    ========================================================= */
