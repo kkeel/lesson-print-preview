@@ -14,6 +14,12 @@ function renderCoverSection(section, packetData) {
 
           <div class="cover-top-rule"></div>
 
+          ${section.releaseLabel ? `
+            <div class="cover-release-label">
+              ${escapeHtml(section.releaseLabel)}
+            </div>
+          ` : ""}
+
           <div class="cover-main">
             ${title ? `<div class="cover-title-main">${escapeHtml(title)}</div>` : ""}
             ${subtitle ? `<div class="cover-subtitle-main">${escapeHtml(subtitle)}</div>` : ""}
