@@ -43,7 +43,7 @@ function renderHeaderSection(section, packetData) {
   html += renderHeaderIntro(packetData);
 
   (section.items || []).forEach(item => {
-    html += renderHeaderItem(item, headerEditUrl);
+    html += renderHeaderItem(item, headerEditUrl, packetData);
   });
 
   html += `</div>`;
@@ -75,7 +75,7 @@ function renderHeaderIntro(packetData) {
   `;
 }
 
-function renderHeaderItem(item, headerEditUrl = "") {
+function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
   if (item.kind === "about-group" || item.kind === "tips-group") {
     const iconSrc =
       item.kind === "about-group"
@@ -350,6 +350,11 @@ function renderHeaderItem(item, headerEditUrl = "") {
       const linkPageUrl = item.linkPageUrl || "#";
       const extraHelpingsUrl = item.extraHelpingsUrl || "";
       const isSampleMode = item.sampleMode === true;
+      const isTerm1Release = packetData.pdfReleaseMode === "term-1";
+
+      const releaseNotice =
+        packetData.releaseNotice ||
+        "Term 1 links are available. Additional lesson links and Quick Links are coming soon.";
       const extraHelpingsLink = extraHelpingsUrl
         ? [{
             id: "extra-helpings",
@@ -383,7 +388,13 @@ function renderHeaderItem(item, headerEditUrl = "") {
               <div class="quick-links-layout">
                 <div class="quick-links-main">
                   <h3 class="header-entry-title">Quick Links</h3>
-  
+                
+                  ${isTerm1Release ? `
+                    <div class="quick-links-release-notice">
+                      ${escapeHtml(releaseNotice)}
+                    </div>
+                  ` : ""}
+                
                   ${hasLinks ? `
                     <div class="quick-links-list">
                       ${groups.map(group => {
@@ -399,13 +410,34 @@ function renderHeaderItem(item, headerEditUrl = "") {
                             ${links.length ? links.map(link => {
                               const isExtraHelpings = link.id === "extra-helpings";
                             
+                              const isDisabled =
+                                isTerm1Release ||
+                                (isSampleMode && !isExtraHelpings);
+                            
                               return `
-                                <div class="quick-link-row ${isSampleMode && !isExtraHelpings ? "quick-link-row-sample-disabled" : ""}">
+                                <div class="quick-link-row ${isDisabled ? "quick-link-row-disabled" : ""}">
                                   <span class="quick-link-symbol">∞</span>
+                            
                                   ${
-                                    isSampleMode && !isExtraHelpings
-                                      ? `<span class="quick-link-sample-text">${escapeHtml(link.label || "")}</span>`
-                                      : `<a href="${escapeHtml(link.url || "#")}" target="_blank">${escapeHtml(link.label || "")}</a>`
+                                    isDisabled
+                                      ? `
+                                        <a
+                                          href="#"
+                                          aria-disabled="true"
+                                          tabindex="-1"
+                                          class="quick-link-disabled"
+                                        >
+                                          ${escapeHtml(link.label || "")}
+                                        </a>
+                                      `
+                                      : `
+                                        <a
+                                          href="${escapeHtml(link.url || "#")}"
+                                          target="_blank"
+                                        >
+                                          ${escapeHtml(link.label || "")}
+                                        </a>
+                                      `
                                   }
                                 </div>
                               `;
