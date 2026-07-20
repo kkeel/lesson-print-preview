@@ -415,7 +415,7 @@ function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
                                 (isSampleMode && !isExtraHelpings);
                             
                               return `
-                                <div class="quick-link-row ${isDisabled ? "quick-link-row-disabled" : ""}">
+                                <div class="quick-link-row">
                                   <span class="quick-link-symbol">∞</span>
                             
                                   ${
