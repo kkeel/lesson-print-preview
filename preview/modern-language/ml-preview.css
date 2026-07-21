@@ -17,11 +17,24 @@
   background: transparent;
 }
 
-.quick-links-release-notice {
-  margin: 0.5rem 0 1rem;
-  font-weight: 700;
-  line-height: 1.35;
+.quick-links-release-callout {
+  margin-top: 1rem;
+  padding: 0.55rem 0.7rem;
+
+  background: #f7f8f4;
+  border: 1px solid #8da08c;
+  border-left: 3px solid #596e5e;
+
+  font-size: 12px;
+  line-height: 1.4;
   color: #596e5e;
+
+  text-align: left;
+}
+
+.quick-links-release-callout strong {
+  display: block;
+  margin-bottom: 0.3rem;
 }
 
 /* =========================================================
