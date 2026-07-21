@@ -352,9 +352,6 @@ function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
       const isSampleMode = item.sampleMode === true;
       const isTerm1Release = packetData.pdfReleaseMode === "term-1";
 
-      const releaseNotice =
-        packetData.releaseNotice ||
-        "Term 1 links are available. Additional lesson links and Quick Links are coming soon.";
       const extraHelpingsLink = extraHelpingsUrl
         ? [{
             id: "extra-helpings",
@@ -388,12 +385,6 @@ function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
               <div class="quick-links-layout">
                 <div class="quick-links-main">
                   <h3 class="header-entry-title">Quick Links</h3>
-                
-                  ${isTerm1Release ? `
-                    <div class="quick-links-release-notice">
-                      ${escapeHtml(releaseNotice)}
-                    </div>
-                  ` : ""}
                 
                   ${hasLinks ? `
                     <div class="quick-links-list">
@@ -457,7 +448,7 @@ function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
                     or scan the QR<br>
                     code for links.
                   </a>
-  
+                
                   ${qrCodeUrl(linkPageUrl, 180) ? `
                     <img
                       src="${escapeHtml(qrCodeUrl(linkPageUrl, 180))}"
@@ -467,6 +458,15 @@ function renderHeaderItem(item, headerEditUrl = "", packetData = {}) {
                   ` : `
                     <div class="quick-links-qr-placeholder">QR</div>
                   `}
+                
+                  ${isTerm1Release ? `
+                    <div class="quick-links-release-callout">
+                      <strong>Term 1 links are available.</strong>
+                      <div>
+                        Additional lesson links and Quick Links will be released as future terms become available.
+                      </div>
+                    </div>
+                  ` : ""}
                 </div>
               </div>
             </div>
