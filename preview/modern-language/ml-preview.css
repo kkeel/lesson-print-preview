@@ -18,6 +18,8 @@
 }
 
 .quick-links-release-callout {
+  width: 100%;
+  box-sizing: border-box;
   margin-top: 1rem;
   padding: 0.55rem 0.7rem;
 
@@ -28,7 +30,6 @@
   font-size: 12px;
   line-height: 1.4;
   color: #596e5e;
-
   text-align: left;
 }
 
