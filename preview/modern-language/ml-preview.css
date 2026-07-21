@@ -18,9 +18,10 @@
 }
 
 .quick-links-release-callout {
+  grid-column: 1 / -1;
   width: 100%;
   box-sizing: border-box;
-  margin-top: 1rem;
+  margin-top: 0;
   padding: 0.55rem 0.7rem;
 
   background: #f7f8f4;
@@ -39,9 +40,11 @@
 }
 
 .quick-links-side {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  column-gap: 0.18in;
+  row-gap: 1rem;
 }
 
 /* =========================================================
