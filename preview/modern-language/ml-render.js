@@ -126,6 +126,41 @@ function getMLSampleSetKey(value = "") {
   return String(value || "").trim().toLowerCase();
 }
 
+function collectMLIncludedSongTitles(lessonSets = []) {
+  const titles = new Set();
+
+  lessonSets.forEach(lessonSet => {
+    const lessonSetTitle = String(lessonSet.title || "").toLowerCase();
+
+    if (
+      !lessonSetTitle.includes("song") &&
+      !lessonSetTitle.includes("rhyme") &&
+      !lessonSetTitle.includes("conversation")
+    ) {
+      return;
+    }
+
+    (lessonSet.lessons || []).forEach(lesson => {
+      const subtitle = String(lesson.subtitle || "")
+        .trim()
+        .toLowerCase();
+
+      if (subtitle) {
+        titles.add(subtitle);
+      }
+    });
+  });
+
+  return titles;
+}
+
+function normalizeMLSongTitle(value = "") {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, " ");
+}
+
 function collectMLSampleSetsByType(lessonSets = []) {
   const sets = {
     picture: new Set(),
@@ -272,6 +307,15 @@ function buildMLAppendices(lessonSets = [], options = {}) {
   const sampleSetsByType = isSampleMode
     ? collectMLSampleSetsByType(lessonSets)
     : null;
+
+  const includedSongTitles =
+    isSampleMode || termFilter
+      ? collectMLIncludedSongTitles(
+          termFilter
+            ? filterMLLessonSetsByTerm(lessonSets, termFilter)
+            : lessonSets
+        )
+      : null;
   
   const termLessonSets = termFilter
     ? filterMLLessonSetsByTerm(lessonSets, termFilter)
@@ -314,8 +358,30 @@ function buildMLAppendices(lessonSets = [], options = {}) {
     (resources.songsRhymes || []).forEach(song => {
       if (seenSongIds.has(song.id)) return;
 
-      if (isSampleMode && songsRhymes.length >= 1) return;
-      if (termFilter && String(song.term || "").trim() !== termFilter) return;
+      if (
+        termFilter &&
+        String(song.term || "").trim() !== termFilter
+      ) {
+        return;
+      }
+
+      if (isSampleMode) {
+        const songTitle = normalizeMLSongTitle(song.title);
+
+        const isUsedByIncludedLesson =
+          [...includedSongTitles].some(lessonSubtitle => {
+            const normalizedSubtitle =
+              normalizeMLSongTitle(lessonSubtitle);
+
+            return (
+              normalizedSubtitle === songTitle ||
+              normalizedSubtitle.includes(songTitle) ||
+              songTitle.includes(normalizedSubtitle)
+            );
+          });
+
+        if (!isUsedByIncludedLesson) return;
+      }
 
       seenSongIds.add(song.id);
 
