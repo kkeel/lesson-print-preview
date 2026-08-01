@@ -234,6 +234,19 @@
                   "sourceTitle": "History: Grades 10-12 (U.S.)"
                 }
               ]
+            },
+            {
+              "title": "U.S. History: Grades 9-12",
+              "type": "topic",
+              "links": [
+                {
+                  "id": "recadGYsdyQgcTYop",
+                  "label": "Reading American Horizons Vol.1 PDF",
+                  "url": "https://drive.google.com/file/d/192In2G5PnLxmWrMVXYcRuNWsLVd9y79S/view?usp=drive_link",
+                  "sort": "1",
+                  "sourceTitle": "U.S. History: Grades 9-12"
+                }
+              ]
             }
           ]
         }
