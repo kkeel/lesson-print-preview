@@ -18524,17 +18524,6 @@
                   "type": "Literature",
                   "sequence": 15,
                   "set": "Set 10"
-                },
-                {
-                  "id": "recnmRXUUJqh8pCWo",
-                  "sentence": "",
-                  "translation": "",
-                  "label": "French Story Lines - Set 4",
-                  "language": "French",
-                  "sentenceType": "Story Lines",
-                  "type": "Literature",
-                  "sequence": 0,
-                  "set": "Set 4"
                 }
               ],
               "grammarCharts": []
@@ -18677,7 +18666,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -18791,7 +18780,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -20348,7 +20337,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -20370,7 +20359,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -22761,7 +22750,7 @@
                     "id": "recB7XpVJuS7Yk3kq",
                     "reference": "Line 2",
                     "lineNumber": 2,
-                    "sentence": "et avec laquelle, il s'est habillé.",
+                    "sentence": "et avec laquelle il s'est habillé.",
                     "translation": "and dressed himself up in it.",
                     "label": "French Story Lines - Set 11 # 2",
                     "language": "French",
@@ -22818,7 +22807,7 @@
                     "id": "rec9qQ80IAOJVgcvb",
                     "reference": "Line 5",
                     "lineNumber": 5,
-                    "sentence": "hommes et bêtes, de la meme façon",
+                    "sentence": "hommes et bêtes de la même façon",
                     "translation": "men and beasts alike,",
                     "label": "French Story Lines - Set 12 # 5",
                     "language": "French",
@@ -29783,7 +29772,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -29908,7 +29897,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -31465,7 +31454,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -31487,7 +31476,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -33878,7 +33867,7 @@
                     "id": "recB7XpVJuS7Yk3kq",
                     "reference": "Line 2",
                     "lineNumber": 2,
-                    "sentence": "et avec laquelle, il s'est habillé.",
+                    "sentence": "et avec laquelle il s'est habillé.",
                     "translation": "and dressed himself up in it.",
                     "label": "French Story Lines - Set 11 # 2",
                     "language": "French",
@@ -33935,7 +33924,7 @@
                     "id": "rec9qQ80IAOJVgcvb",
                     "reference": "Line 5",
                     "lineNumber": 5,
-                    "sentence": "hommes et bêtes, de la meme façon",
+                    "sentence": "hommes et bêtes de la même façon",
                     "translation": "men and beasts alike,",
                     "label": "French Story Lines - Set 12 # 5",
                     "language": "French",
@@ -49968,17 +49957,6 @@
                   "type": "Literature",
                   "sequence": 15,
                   "set": "Set 10"
-                },
-                {
-                  "id": "recnmRXUUJqh8pCWo",
-                  "sentence": "",
-                  "translation": "",
-                  "label": "French Story Lines - Set 4",
-                  "language": "French",
-                  "sentenceType": "Story Lines",
-                  "type": "Literature",
-                  "sequence": 0,
-                  "set": "Set 4"
                 }
               ],
               "grammarCharts": [],
@@ -51317,7 +51295,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -51434,7 +51412,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -51918,7 +51896,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -52046,7 +52024,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -59130,7 +59108,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -59152,7 +59130,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
@@ -59768,7 +59746,7 @@
                 },
                 {
                   "id": "recB7XpVJuS7Yk3kq",
-                  "sentence": "et avec laquelle, il s'est habillé.",
+                  "sentence": "et avec laquelle il s'est habillé.",
                   "translation": "and dressed himself up in it.",
                   "label": "French Story Lines - Set 11 # 2",
                   "language": "French",
@@ -59790,7 +59768,7 @@
                 },
                 {
                   "id": "rec9qQ80IAOJVgcvb",
-                  "sentence": "hommes et bêtes, de la meme façon",
+                  "sentence": "hommes et bêtes de la même façon",
                   "translation": "men and beasts alike,",
                   "label": "French Story Lines - Set 12 # 5",
                   "language": "French",
