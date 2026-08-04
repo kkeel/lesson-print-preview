@@ -154,6 +154,13 @@
               "type": "course",
               "links": [
                 {
+                  "id": "recEowozqoCvL0R5Q",
+                  "label": "Not One Way to Mark a Book",
+                  "url": "https://drive.google.com/file/d/1QDZHH4Kp_Qj67MvQFGkqz0MSuQOivxgR/view?usp=drive_link",
+                  "sort": "1",
+                  "sourceTitle": "History: Grades 11-12 (Canada)"
+                },
+                {
                   "id": "recLkNcUZJnaS1KOm",
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",

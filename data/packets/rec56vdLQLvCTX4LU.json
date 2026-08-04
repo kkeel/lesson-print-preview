@@ -25,7 +25,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/rec56vdLQLvCTX4LU-history-grade-9-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recUG2Yrz42nNriXO",
   "hidePdf": "",
   "pdfReleaseMode": "full",
@@ -237,6 +237,13 @@
                   "sourceTitle": "History: Grade 9 (U.S.)"
                 },
                 {
+                  "id": "reccHJbcxEGKguvBJ",
+                  "label": "Not One Way to Mark a Book",
+                  "url": "https://drive.google.com/file/d/1QDZHH4Kp_Qj67MvQFGkqz0MSuQOivxgR/view?usp=drive_link",
+                  "sort": "3",
+                  "sourceTitle": "History: Grade 9 (U.S.)"
+                },
+                {
                   "id": "recLkNcUZJnaS1KOm",
                   "label": "Foundations (See Section 15: History)",
                   "url": "https://www.alveary.org/alveary-foundations/relational-methods",
@@ -342,10 +349,15 @@
               "linkLabel": "U.S. History",
               "title": "40m U.S. History: Grades 9-12 - Lesson 1",
               "body": "⍞ Materials: American History: Volume 1\n\n➜ INTRO\nStarting this year, we will be reading through Thomas Kidd’s American History: Volume 1 & 2. We will begin in chapter seven, as this is the chapter opening up the 19th century. The United States of America has established its independence from Britain but must now recover from war and navigate the land, the laws, and find new leaders. Over the course of the next hundred years, we will walk alongside people as they navigate the formation of what would become a fifty-state nation. If you are interested and have the time, you are invited to peruse the first few chapters of the textbook for a quick review of where we have left off.\n\n➜ ANNOTATE\nAmerican History is a non-fiction book, which makes it a good candidate for annotation. While you are reading through the text, you may encounter an interesting point or main idea that you want to underline. You could put a question mark next to a statement you find unclear. You may place sticky notes on a page that you want to return to. Experiment with different ways to engage with the information in the book. Some students will record themselves reading or talking about the reading. Others may start a discussion with an acquaintance about the material. Try different ways and see what works and what doesn’t work for you. You can discuss your findings with your teacher.\n\n➜ READ \nIntroduction p.1-2\nCh.7 p.137-148 beginning of chapter - \"common (white) man.\"\n\n➜ NARRATE\n1. Narrate silently. \n2. In one paragraph, summarize the political climate in the early 1800s seen in the text. Who are the people you are encountering? What are the popular movements of the day? What themes are popping up in the reading that Kidd mentioned in his introduction?",
-              "teacherNotes": "• STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.",
+              "teacherNotes": "• STUDENT TIP\nBe sure to add some people, events, and drawings of artifacts to your book of centuries. Mark potential items with a Post-it note as you read so you remember to find something when you sit down to work in your book.\n\n• STUDENT TIP\nRead over this document about the various ways you can annotate.\n∞ PDF Link: Not One Way to Mark a Book",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=rec0aDWTW0hc4lgFa&6J82c=rec8UQFpeKDJR5MT0",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=rec56vdLQLvCTX4LU&term=1&week=1",
+              "links": [
+                {
+                  "text": "Not One Way to Mark a Book",
+                  "url": "https://drive.google.com/file/d/1QDZHH4Kp_Qj67MvQFGkqz0MSuQOivxgR/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "reckvaC3EO3k30uez",
