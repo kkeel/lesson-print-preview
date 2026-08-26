@@ -93,7 +93,7 @@
               "label": "Ancient History: Grades 5-6",
               "grade": "5-6",
               "scheduleInfo": "Ancient History: Grades 5-6\n1 time/week 25 min",
-              "books": "The Bronze Bow||Redemption: The Church in Ancient Times||The Student Bible Atlas, Revised Edition"
+              "books": "The Bronze Bow||Redemption: The Church in Ancient Times||The Student Bible Atlas, Revised Edition||Historical Atlas of the World 6th Ed."
             }
           ],
           "weeklyView": {
@@ -186,6 +186,10 @@
                 {
                   "title": "The Student Bible Atlas, Revised Edition",
                   "resourceId": "recg0MzdbBT0JchkF"
+                },
+                {
+                  "title": "Historical Atlas of the World 6th Ed.",
+                  "resourceId": "reca6JrCf4DtEZII1"
                 }
               ]
             }
