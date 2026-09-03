@@ -17,7 +17,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/modern-language/full-course/rec5lgyGmTryTXFqV-full.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
   "hidePdf": "Term 1 ONLY",
   "pdfReleaseMode": "term-1",
@@ -70968,6 +70968,25 @@
               "language": "French"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "exams",
+      "title": "Lower French: Grades 1-6",
+      "hasExams": true,
+      "terms": [
+        {
+          "term": "Term 1",
+          "content": "· Picture Study\n• Tell all you can about the picture La visite chez M. Bloom using French.\n\n· Literature \n• Choose one of the following phrases to read out loud, sketch or perform gestures for:\nPhrase 1: \"Il s'est donc revêtu d'une peau de mouton\" \n(so he clothed himself in a sheepskin) \nOR\nPhrase 2: \"en sautant aussi haut\"\n(by jumping as high)\n\n· Songs, Rhymes \n• Choose a song/rhyme to sing/recite for your teacher.\nSong/Rhyme Choices: Ah ! Vous dirai-je Maman OR Lundi matin"
+        },
+        {
+          "term": "Term 2",
+          "content": "·  Picture Study\n• Choose a picture from the options below and tell all you can about the picture using French vocabulary. (Students should be able to provide at least 3 distinct phrases in French describing the picture).\nPicture Choices: À Paris dans la chambre de l'hôtel OR À Paris, au musée\n\n· Literature\n• Choose one of the following phrases to read aloud, sketch, or perform gestures for.\nPhrase 1: \"il brait bruyamment en triomphe.\"\n(he loudly brayed in triumph.)\nOR\nPhrase 2: \"des oiseaux qu'elle voyait s'amuser\"\n(of the birds that he saw enjoying themselves)\n\n· Songs, Rhymes\n• Choose a song/rhyme to sing/recite for your teacher.\nSong/Rhyme Choices: Les animaux du zoo OR Chocolat"
+        },
+        {
+          "term": "Term 3",
+          "content": "· Picture Study\n• Choose a picture from the options below and tell all you can about the picture using French vocabulary.\nPicture Choices: L'impressionnisme OR Le train\n\n· Literature\n• Choose one of the following sentences to read aloud, sketch, or perform gestures for.\nSentence 1: Deux chèvres orgueilleuses se sont rencontrées sur les falaises opposées d'une haute chaîne de montagnes\n(Two proud goats happened to meet on the opposite cliffs of a high mountain range)\nOR\nSentence 2: « Eh bien, rétorquait le Loup, tu te nourris dans mes prés. »\n(\"Well,\" retorted the Wolf, \"you feed in my pastures.\")\n\n· Songs, Rhymes\n• Choose a song/rhyme to sing/recite for your teacher.\nSong/Rhyme Choices: Papillon vole OR La mistenlaire"
         }
       ]
     }
