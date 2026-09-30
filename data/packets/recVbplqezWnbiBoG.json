@@ -17,7 +17,7 @@
   "supplyListUrl": "https://planning.alveary.org/supply-details.html?view=course&id=recyqXBP4TluYd1hZ",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recVbplqezWnbiBoG-geography-grade-2-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recyqXBP4TluYd1hZ",
   "hidePdf": "",
   "pdfReleaseMode": "full",
@@ -568,11 +568,16 @@
               "lessonLabel": "Lesson 17",
               "linkLabel": "Geography",
               "title": "20m Geography: Grade 2 (U.S.) - Lesson 17",
-              "body": "Redwoods\n⍞ Materials: Redwoods, United States Atlas\n\n➜ MAP QUESTION\n⍞ Map Resource: United States Atlas “The Physical United States: Climate” p.10-11\n1\\. Locate California. (Check p.14 if you are not sure where it is.)\n2\\. Remember that Redwood National Forest is on the coast in very Northern California. What is the climate there? Look at the key. (marine west coast)\n3\\. What do you think that means for the Redwood Forest? (a lot of rain)\n4\\. Locate your state and the general area where you live. How does your climate compare to that in Northern California?\n\n➜ READ, NARRATE, & DISCUSS\nRedwoods \np.12-22 \"Redwoods also\" - \"endangered species.\"",
+              "body": "Redwoods\n⍞ Materials: Redwoods, United States Atlas\n\n➜ MAP QUESTION\n⍞ Map Resources: U.S. Atlas, U.S. Atlas 5th Edition Maps PDF p.8-9\n∞ Link: U.S. Atlas 5th Edition Maps PDF p.8-9\n1\\. Locate California. (Check p.14 in your U.S. Atlas if you are not sure where it is.)\n2\\. Remember that Redwood National Forest is on the coast in very Northern California. What is the climate there? Look at the key. (marine west coast)\n3\\. What do you think that means for the Redwood Forest? (a lot of rain)\n4\\. Locate your state and the general area where you live. How does your climate compare to that in Northern California?\n\n➜ READ, NARRATE, & DISCUSS\nRedwoods \np.12-22 \"Redwoods also\" - \"endangered species.\"",
               "teacherNotes": "",
               "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pago27hsdn3q8TtGK?XRKkD=recVbplqezWnbiBoG&6J82c=rech9WeH7OPiUgWXX",
-              "lessonLinksUrl": "",
-              "links": []
+              "lessonLinksUrl": "https://planning.alveary.org/links.html?id=recVbplqezWnbiBoG&term=1&week=9",
+              "links": [
+                {
+                  "text": "U.S. Atlas 5th Edition Maps",
+                  "url": "https://drive.google.com/file/d/1ABXlFZN195-d9Yg0Zsx9OgLURrDyyxXQ/view?usp=drive_link"
+                }
+              ]
             },
             {
               "lessonId": "rec92MV0X5I5Og04p",
