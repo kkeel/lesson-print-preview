@@ -19,9 +19,9 @@
   "manualPdfUrl": "",
   "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "",
-  "hidePdf": "Term 1 ONLY",
-  "pdfReleaseMode": "term-1",
-  "releaseNotice": "Term 1 links are available. Additional lesson links and Quick Links are coming soon.",
+  "hidePdf": "",
+  "pdfReleaseMode": "full",
+  "releaseNotice": "",
   "studentVersion": false,
   "syllabird": {
     "status": "Import is Current",
