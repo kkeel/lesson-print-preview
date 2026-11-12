@@ -29,7 +29,8 @@ on:
 
 jobs:
   render-modern-language-pdfs:
-    runs-on: ubuntu-latest
+    # Playwright installed in this repo does not support Ubuntu 26.04 runners yet.
+    runs-on: ubuntu-24.04
 
     env:
       RENDER_MODE: ${{ github.event.inputs.render_mode || 'changed' }}
