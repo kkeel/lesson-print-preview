@@ -1,0 +1,54 @@
+name: PDF browser smoke test
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/render-pdfs.yml"
+      - ".github/workflows/render-modern-language-pdfs.yml"
+      - ".github/workflows/render-history-chart-pdfs.yml"
+      - ".github/workflows/test-render-one-pdf.yml"
+      - ".github/workflows/pdf-browser-smoke-test.yml"
+      - "package.json"
+      - "package-lock.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    # Match the PDF rendering workflows while their Playwright version needs Ubuntu 24.04.
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium browser
+        run: npx playwright install chromium
+
+      - name: Launch headless Chromium
+        run: |
+          node --input-type=module <<'NODE'
+          import { chromium } from 'playwright';
+          const browser = await chromium.launch({ headless: true });
+          try {
+            const page = await browser.newPage();
+            await page.goto('data:text/html,<title>Alveary PDF Smoke Test</title>');
+            const title = await page.title();
+            if (title !== 'Alveary PDF Smoke Test') {
+              throw new Error(`Unexpected browser title: ${title}`);
+            }
+            console.log('Playwright Chromium smoke test passed on Ubuntu 24.04');
+          } finally {
+            await browser.close();
+          }
+          NODE
