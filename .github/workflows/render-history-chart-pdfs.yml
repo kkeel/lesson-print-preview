@@ -14,7 +14,8 @@ on:
 
 jobs:
   render-history-chart-pdfs:
-    runs-on: ubuntu-latest
+    # Playwright installed in this repo does not support Ubuntu 26.04 runners yet.
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout lesson print repo
