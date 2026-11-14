@@ -43,26 +43,6 @@
       "editUrl": "https://airtable.com/apphTWdjAdJEcAmoe/pagDlHugCl0EZ51R9/recC1QIlTnWRUWmG7?XRKkD=rec9bgPLjFGYFeHWq&6J82c=&home=pago27hsdn3q8TtGK",
       "items": [
         {
-          "kind": "about-group",
-          "title": "About the Course",
-          "entries": [
-            {
-              "title": "About the Course",
-              "content": "Study target language using interactive readings, writing exercises, and listening comprehension."
-            }
-          ]
-        },
-        {
-          "kind": "tips-group",
-          "title": "Placement & Combining Tips",
-          "entries": [
-            {
-              "title": "Placement & Combining Tips",
-              "content": "Prerequisite: French: Level 4"
-            }
-          ]
-        },
-        {
           "kind": "scheduling",
           "title": "Scheduling",
           "rows": [
