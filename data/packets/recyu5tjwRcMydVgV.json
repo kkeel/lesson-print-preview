@@ -17,7 +17,7 @@
   "supplyListUrl": "",
   "pdfLinkUrl": "https://planning.alveary.org/pdf/lesson-plans/recyu5tjwRcMydVgV-geography-grade-7-u-s.pdf",
   "manualPdfUrl": "",
-  "pdfPrintingStatus": "Current",
+  "pdfPrintingStatus": "Needs Update",
   "extraHelpingsUrl": "https://planning.alveary.org/extra-helpings.html?id=recLpfY3HoY8mk9rj",
   "hidePdf": "",
   "pdfReleaseMode": "full",
@@ -775,7 +775,7 @@
               "links": [
                 {
                   "text": "Map of Southeast Asia",
-                  "url": "http://www.geographicguide.net/asia/maps/southeast-asia-political-map.jpg"
+                  "url": "https://web.archive.org/web/20260122091631/https://www.geographicguide.net/asia/maps/southeast-asia-political-map.jpg"
                 }
               ]
             },
@@ -796,7 +796,7 @@
               "links": [
                 {
                   "text": "Map of Southeast Asia",
-                  "url": "http://www.geographicguide.net/asia/maps/southeast-asia-political-map.jpg"
+                  "url": "https://web.archive.org/web/20260122091631/https://www.geographicguide.net/asia/maps/southeast-asia-political-map.jpg"
                 }
               ]
             },
